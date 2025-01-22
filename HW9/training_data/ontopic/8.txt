@@ -1,0 +1,40 @@
+
+All (especially PhD students) are invited to attend the PhD Defense. Attendance counts towards the colloquium requirement.
+
+ 
+
+Candidate: Polykarpos Thomadakis
+
+Title: Towards Intelligent Runtime Framework for Distributed Heterogeneous Systems
+
+ 
+
+Date and Time: Friday, April 21st at 1:00 PM 
+
+Location via Zoom: https://odu.zoom.us/j/91911243798?pwd=ckx1SytHcytHSGYxUXBMN2NZTHFFQT09
+
+ 
+
+Committee Members:
+
+Dr. Nikos Chrisochoides (Director), Department of Computer Science
+
+Dr. Jiangwen Sun, Department of Computer Science
+
+Dr. Charles Hyde, Department of Physics
+
+Dr. Dimitrios Nikolopoulos, Virginia Tech, Department of Computer Science
+
+Dr. Adolfy Hoisie, Brookhaven National Laboratory
+
+ 
+
+Abstract:
+
+ 
+
+Scientific applications strive for increased memory and computing performance, requiring massive amounts of data and time to produce results. Applications utilize large-scale, parallel computing platforms with advanced architectures to accommodate their needs. However, developing performance-portable applications for modern, heterogeneous platforms requires lots of effort and expertise in both the application and systems domains. This is more relevant for unstructured applications whose workflow is not statically predictable due to their heavily data-dependent nature. One possible solution for this problem is the introduction of an intelligent Domain-Specific Language (iDSL) that transparently helps to maintain correctness, hides the idiosyncrasies of low-level hardware, and scales applications. An iDSL includes domain-specific language constructs, a compilation toolchain, and a runtime providing task scheduling, data placement, and workload balancing across and within heterogeneous nodes. In this work, we focus on the runtime framework.
+
+ 
+
+We introduce a novel design and extension of a runtime framework, the Parallel Runtime Environment for Multicore Applications. In response to the ever-increasing intra/inter-node concurrency, the runtime system supports efficient task scheduling and workload balancing at both levels while allowing the development of custom policies. Moreover, the new framework provides abstractions supporting the utilization of heterogeneous distributed nodes consisting of CPUs and GPUs and is extensible to other devices. We demonstrate that by utilizing this work, an application (or the iDSL) can scale its performance on heterogeneous exascale-era supercomputers with minimal effort. A future goal for this framework (out of the scope of this thesis) is to be integrated with machine learning to improve its decision-making and performance further. As a bridge to this goal, since the framework is under development, we experiment with data from Nuclear Physics Particle Accelerators and demonstrate the significant improvements achieved by utilizing machine learning in the hit-based track reconstruction process.

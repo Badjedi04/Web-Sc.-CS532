@@ -1,0 +1,168 @@
+	
+Open in app or online
+
+Here’s this week’s free Platformer — our latest scoop about how Twitter keeps going down in novel new ways, threatening the long-term future of the platform.
+
+We love our free readers, but paid subscribers get more. Last week week, they received our scoop about Twitter’s most recent layoffs, and how they appear to position Boring Company CEO Steve Davis as a likely candidate for Twitter CEO.
+
+We’d love to email you those scoops every week. Subscribe now and we’ll send you the link to join us in our chatty Discord server, where we now post all of our breaking news first.
+
+Upgrade to paid
+
+
+How a single engineer brought down Twitter on Monday
+The high cost of cutting expenses
+CASEY NEWTON AND ZOË SCHIFFER
+MAR 6
+		
+ 
+
+
+
+SAVE
+▷  LISTEN
+ 
+“a nerdy scientist sitting on top of a flying blue bird, digital art” / DALL-E
+“a nerdy scientist sitting on top of a flying blue bird, digital art” / DALL-E
+Twitter’s website is breaking in novel new ways — and while the company managed to recover from its latest outage within a couple hours, the story behind how it broke suggests there are likely to be similar problems in the near future.  
+
+On Monday morning, Twitter users logged on to find a thicket of connected issues. Clicking on links would no longer open them; instead, users would see a mysterious error message reporting that “your current API plan does not include access to this endpoint.” Images stopped loading as well. Other users reported that they could not access TweetDeck, the Twitter-owned client for professional users.
+
+Chaos took over the timeline, as users tweeted vociferously about the outage — often illustrating their points with images that no one could see, because they wouldn’t load. 
+
+In a tweet, the company offered the vaguest of explanations for what was happening. 
+
+“Some parts of Twitter may not be working as expected right now,” the company’s support account tweeted. “We made an internal change that had some unintended consequences.”
+
+The change in question was part of a project to shut down free access to the Twitter API, Platformer can now confirm. On February 1, the company announced it will no longer support free access to its API, which effectively ended the existence of third-party clients and dramatically limited outside researchers’ ability to study the network. The company has been building a new, paid API for developers to work with. 
+
+But in a sign of just how deep Elon Musk’s cuts to the company have been, only one site reliability engineer has been staffed on the project, we’re told. On Monday, the engineer made a “bad configuration change” that “basically broke the Twitter API,” according to a current employee.
+
+The change had cascading consequences inside the company, bringing down much of Twitter’s internal tools along with the public-facing APIs. On Slack, engineers responded with variations of “crap” and “Twitter is down – the entire thing” as they scrambled to fix the problem. 
+
+Elon Musk was furious, we’re told.
+
+“A small API change had massive ramifications,” Musk tweeted later in the day, after Twitter investor Marc Andreessen posted a screenshot showing that the company’s API failures were trending on the site. “The code stack is extremely brittle for no good reason. Will ultimately need a complete rewrite.”
+
+Some current employees are sympathetic to that view, which places at least part of the blame for Twitter’s problems on technical failures that predate Musk’s ownership of the company. The fail whale became an icon of the old Twitter for a reason.
+
+“There’s so much tech debt from Twitter 1.0 that if you make a change right now, everything breaks,” one current employee says. 
+
+Still, when Musk took over the company, he promised to dramatically improve the speed and stability of the site. His associates screened the existing staff for their technical prowess, ultimately cutting thousands of workers who were deemed not “technical” enough to succeed under Musk’s leadership.
+
+But nonstop layoffs have left the company with under 550 full-time engineers, we’re told. And just as former employees have predicted from the start, the losses have made Twitter increasingly vulnerable to catastrophic outages.
+
+Monday’s errant configuration change was at least the sixth high-profile service outage at Twitter this year:
+
+On January 23, Android users temporarily couldn’t load new tweets or post them.
+
+On February 8, an error message told users that they were “over the daily limit for sending Tweets,” preventing them from posting.
+
+On February 15, tweets stopped loading.
+
+On February 18, the timeline broke and replies disappeared.
+
+On March 1, the timeline stopped working.
+
+“This type of outage has become so frequent that I think we’re all numb to it,” a current employee says. 
+
+And those are only the service outages. Other issues, such as the one that led Musk’s tweets to be made more visible on the timeline than any other user’s, have also roiled the user base. 
+
+In many ways, Monday’s outage represented the culmination of Musk’s leadership at the company so far. In a single-minded effort to cut costs on his $44 billion purchase, he has been slashing the staff and reducing Twitter’s free offerings.
+
+This paved the way for a single engineer to be staffed on a major project — one that is linked to several interconnected, critical systems that both users and employees depend on. 
+
+And with few knowledgeable workers on hand to restore service, it took Twitter all morning to fix the problem. “This is what happens when you fire 90 percent of the company,” another current employee says. 
+
+Inside Twitter’s HQ, however, the mood was almost light. “We’re laughing all the way down,” says a different current employee.
+
+Elsewhere in Twitter: The company’s revenue was down 40 percent in December, it told investors. And that was back when the site used to work! Amazon threatened to withhold payments for the ads it runs on Twitter because Twitter has refused to pay its Amazon Web Services bill “for months.” A month after promising to share revenue with Twitter Blue subscribers for the ads that appear under their tweets, nothing of the sort has happened.
+
+Governing
+Meta agreed to make several changes to its controversial cross-check program, which offers an additional layer of protections to high-profile accounts, including publishing regular transparency reports. (Jeff Horwitz / Wall Street Journal)
+
+An analysis of Facebook posts in the run-up to the 2020 election found that 23 percent of political images in the sample contained misinformation, and 20 percent that showed a political figure were misleading. (Justin Hendrix / Tech Policy Press)
+
+Lawmakers in the US are taking a hands off approach to AI regulation, in part because they are struggling to understand the technology. (Cecilia Kang and Adam Satariano / New York Times)
+
+WhatsApp agreed to be more transparent with European users about changes to its privacy policy, following complaints from consumer rights organizations across Europe. (Foo Yun Chee and Charlotte Campenhout / Reuters)
+
+The Biden administration is considering asking Congress for more power in addressing risks from TikTok and other Chinese-owned apps. (David McCabe / New York Times)
+
+TikTok COO Vanessa Pappas attributed Congress’ recent steps toward banning the app in the United States to xenophobia. (Kaya Yurieff / The Information)
+
+Google is legally the boss of YouTube’s contract workers and must negotiate with them if they form a union, the National Labor Relations Board ruled. (Josh Eidelson / Bloomberg)
+
+Google released an audit of how how its services and policies “impact civil rights and racial equity,” following a similar move from Meta. (Cristiano Lima and Gerrit De Vynck / Washington Post)
+
+YouTube, Facebook, and Instagram are under the spotlight for giving a platform to a “cow vigilante” who repeatedly shared violent anti-Muslim content and is now being investigated in relation to the brutal killing of two alleged cow smugglers. (Jeff Horwitz and Newley Purnell / Wall Street Journal)
+
+Scammers are using voices synthesized using AI to mimic the voices of victims’ family members, often over the phone, costing them thousands of dollars. (Pranshu Verma / Washington Post)
+
+TikTok removes hundreds of thousands of accounts for children under 13, whereas Snap removed only about 700 during a year-long period ending last April, the companies told British media regulator Ofcom. Something weird going on here. (Martin Coulter / Reuters)
+
+Binance and its US-based subsidiary have been far more intertwined than the company said, according to an investigation, “mixing staff and finances and sharing an affiliated entity that bought and sold cryptocurrencies.” (Caitlin Ostroff and Patricia Kowsmann / Wall Street Journal)
+
+Industry
+The new AI-enhanced Bing has a secret “celebrity mode” that will answer questions in the voices of Elon Musk, Tom Cruise, Taylor Swift, and others. (Lawrence Abrams / Bleeping Computer)
+
+Character.AI, which is essentially building “celebrity mode” as a standalone product, raised $1 billion led by Andreessen Horowitz. (George Hammond and Madhumita Murgia / Financial Times)
+
+Microsoft is launching an AI assistant called Dynamics 365 Copilot for marketers and customer service representatives to help answer calls, summarize sales meetings, and generate marketing pitches. (Dina Bass / Bloomberg)
+
+Interviews with four members of the team that launched ChatGPT describe how they decided it was ready for public release, and hint at what’s coming next. (Will Douglas Heaven / MIT Technology Review)
+
+LinkedIn co-founder Reid Hoffman stepped down from the nonprofit board of OpenAI so that he can invest in other AI companies. (Kif Leswing / CNBC)
+
+Hoffman had already co-founded another AI startup with a co-founder of DeepMind; it’s now raising funds at a valuation of $675 million. (Madhumita Murgia / Financial Times)
+
+The parent company of AI image generator Stable Diffusion is seeking to raise money at a valuation of $4 billion, up from $1 billion in … October. (Katie Roof, Mark Bergen and Hannah Miller / Bloomberg)
+
+Apple agreed to approve an update to an email app named BlueMail that includes a ChatGPT-based feature to draft messages, after the company promised to add content moderation. (Aaron Tilley / Wall Street Journal)
+
+A new Twitch rival named Kick has poached a number of popular streamers by offering a much better revenue split — and much lighter content moderation. (Cecilia D'Anastasio / Bloomberg)
+
+Clubhouse has lost a number of high-level employees over the past year, including VPs and other leaders it recruited from Meta, Google, TikTok, Spotify and Netflix. ( Kaya Yurieff / The Information)
+
+The rise of ChatGPT has illustrated just how bad the previous generation of voice-based chat interfaces, including Alexa and the Google Assistant, are at their jobs. (Dave Lee / Financial Times)
+
+The Meta Quest Pro is getting a substantial price cut, from $1,499.99 to $999.99. (Mitchell Clark / The Verge)
+
+Amazon closed eight of its Go convenience stores, including four in San Francisco, as part of cost-cutting measures. (Annie Palmer / CNBC)
+
+Amazon has paused construction on its sprawling second headquarters in Arlington, Virginia amid deep job cuts and the reality of remote work, although it says its still committed to the project. (Matt Day / Bloomberg)
+
+Those good tweets
+For more good tweets every day, follow Casey’s Instagram stories.
+
+Twitter avatar for @thesarahkelly
+sarah kelly 
+@thesarahkelly
+Occasionally a job application will ask what my college GPA was and I just write in “I am 35 years old.”
+7:36 PM ∙ Mar 4, 2023
+100,534Likes3,773Retweets
+Twitter avatar for @kurtisconner
+kurtis conner 
+@kurtisconner
+normalize asking bartenders if they’ve “heard any rumours lately” so they can give you a fun little side quest
+9:42 PM ∙ Mar 5, 2023
+120,347Likes8,803Retweets
+Twitter avatar for @dieworkwear
+derek guy 
+@dieworkwear
+a friendly tax season reminder to report all income from illegal activities and stolen property 
+Image
+5:08 AM ∙ Mar 5, 2023
+21,645Likes2,232Retweets
+Twitter avatar for @TallBart
+very tall bart 
+@TallBart
+Image
+12:55 AM ∙ Mar 5, 2023
+33,494Likes2,480Retweets
+Talk to us
+Send us tips, comments, questions, and API changes: casey@platformer.news and zoe@platformer.news.
+
+By design, the vast majority of Platformer readers never pay anything for the journalism it provides. But you made it all the way to the end of this week’s edition — maybe not for the first time. Want to support more journalism like what you read today? If so, click here: 
+
+Upgrade to paid
