@@ -1,0 +1,1205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Home - Global ResearchGlobal Research - Centre for Research on Globalization</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="index,noarchive,follow,noodp" name="googlebot"/>
+<meta content="all,index,follow" name="robots"/>
+<meta content="all,index,follow" name="msnbot"/>
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/all.css?t=005" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/style.css?t=001" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/favicon2.ico" rel="shortcut icon" type="image/x-icon"/>
+<meta content="Global Research is a media group of writers, journalists and activists and based in Montreal, Canada, and a registered non profit organization." name="description"/>
+<link href="https://www.globalresearch.ca/" rel="canonical">
+<meta content="en_US" property="og:locale"/>
+<meta content="website" property="og:type"/>
+<meta content="Home - Global Research" property="og:title"/>
+<meta content="Global Research is a media group of writers, journalists and activists and based in Montreal, Canada, and a registered non profit organization." property="og:description"/>
+<meta content="https://www.globalresearch.ca/" property="og:url"/>
+<meta content="Global Research" property="og:site_name"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Global Research is a media group of writers, journalists and activists and based in Montreal, Canada, and a registered non profit organization." name="twitter:description"/>
+<meta content="Home - Global Research" name="twitter:title"/>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.globalresearch.ca\/","name":"Global Research","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.globalresearch.ca\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta content="AC4065DF2F0113BEAA7C06C40209AD16" name="msvalidate.01"/>
+<meta content="AY0nD8dHVlqBiFS4Q31V2OVQArBVxWID2W7497N_SeI" name="google-site-verification"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//maxcdn.bootstrapcdn.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.globalresearch.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.25"}};
+			!function(t,a,e){var r,n,i,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(i=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},n=0;n<i.length;n++)e.supports[i[n]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),o.toDataURL().length<3e3)?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,65039,8205,55356,57096),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,55356,57096),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55357,56425,55356,57341,8205,55357,56507),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55357,56425,55356,57341,55357,56507),0,0),e!==o.toDataURL()}return!1}(i[n]),e.supports.everything=e.supports.everything&&e.supports[i[n]],"flag"!==i[n]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[i[n]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://www.globalresearch.ca/wp-content/plugins/gtranslate/gtranslate-style24.css?ver=4.7.25" id="gtranslate-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/share-this/css/style.css?ver=4.7.25" id="st-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.globalresearch.ca/wp-content/uploads/pum/pum-site-styles.css?generated=1598646263&amp;ver=1.7.30" id="popup-maker-site-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/dk-pdf/assets/css/frontend.css?ver=1.9.6" id="dkpdf-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=5.1" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/simple-pagination/css/default.css?ver=2.1.7" id="simple-pagination-css-css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<link href="https://www.globalresearch.ca/wp-json/" rel="https://api.w.org/"/>
+<link href="https://www.globalresearch.ca/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://www.globalresearch.ca/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="https://wp.me/P2vCQD-Qy5" rel="shortlink"/>
+<link href="https://www.globalresearch.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.globalresearch.ca%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://www.globalresearch.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.globalresearch.ca%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" src="https://ws.sharethis.com/button/buttons.js" type="text/javascript"></script><script type="text/javascript">stLight.options({publisher:'wp.9bffc2a3-d7c6-4a77-b502-4dabc8559ee3'});var st_type='wordpress3.4.1';</script><style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09F}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style>
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<style>
+			.algolia-search-highlight {
+				background-color: #fffbcc;
+				border-radius: 2px;
+				font-style: normal;
+			}
+		</style>
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon-32x32.png" rel="icon" sizes="32x32">
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" rel="icon" sizes="192x192"/>
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" rel="apple-touch-icon-precomposed"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" name="msapplication-TileImage"/>
+<style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(51,102,153,.88);}</style>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/jquery.main.js" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/gr.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9062277-1']);
+  _gaq.push(['_setDomainName', 'globalresearch.ca']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:95869,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<link href="https://www.globalresearch.ca/" rel="canonical"/>
+<meta content="202001" itemprop="identifier"/>
+<meta content="article" itemprop="pageType"/>
+<meta content="https://www.globalresearch.ca/" itemprop="url"/>
+<meta content="4 June 2012" itemprop="datePublished"/>
+<meta content="29 September 2018" itemprop="dateModified"/>
+<meta content="Global Research" itemprop="author"/>
+<meta content="" itemprop="thumbnailUrl"/>
+<meta content="en" itemprop="inLanguage"/>
+<!-- -->
+</link></link></head>
+<body>
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="grtopbar notranslate">
+<div class="grtopnav">
+<div class="grtoplinksleft">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav-top"><li class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-home active page_item page-item-202001 current_page_item menu-item-5302078" id="menu-item-5302078"><a href="https://www.globalresearch.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302079" id="menu-item-5302079"><a href="https://www.globalresearch.ca/about-2">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302080" id="menu-item-5302080"><a href="https://www.globalresearch.ca/contact-2">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302082" id="menu-item-5302082"><a href="https://store.globalresearch.ca/member/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302083" id="menu-item-5302083"><a href="https://store.globalresearch.ca/">Store</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5449212" id="menu-item-5449212"><a href="https://store.globalresearch.ca/donate/">Donate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5629561" id="menu-item-5629561"><a href="https://www.globalresearch.ca/archives">Archives</a></li>
+</ul></div><div></div></div> </div>
+<div class="grtoplinksright">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav-top"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586040" id="menu-item-5586040"><a href="https://www.globalresearch.ca/region/usa">USA</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586034" id="menu-item-5586034"><a href="https://www.globalresearch.ca/region/canada">Canada</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586036" id="menu-item-5586036"><a href="https://www.globalresearch.ca/region/latin-america-caribbean">Latin America</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586039" id="menu-item-5586039"><a href="https://www.globalresearch.ca/region/sub-saharan-africa">Africa</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586037" id="menu-item-5586037"><a href="https://www.globalresearch.ca/region/middle-east">Middle East</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586035" id="menu-item-5586035"><a href="https://www.globalresearch.ca/region/europe">Europe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586041" id="menu-item-5586041"><a href="https://www.globalresearch.ca/region/russia-and-fsu">Russia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586033" id="menu-item-5586033"><a href="https://www.globalresearch.ca/region/asia">Asia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586038" id="menu-item-5586038"><a href="https://www.globalresearch.ca/region/oceania">Oceania</a></li>
+</ul></div><div></div></div>
+</div>
+</div>
+</div>
+<div id="wrapper">
+<div class="w1">
+<div class="w2">
+<div class="language-holder notranslate" style="text-align: right;width: 260px;">
+<div id="languages">
+<ul>
+<li><a href="https://www.globalresearch.ca/category/italiano/">Italiano</a></li>
+<li><a href="https://www.globalresearch.ca/category/deutsch/">Deutsch</a></li>
+<li><a href="https://www.globalresearch.ca/category/portugues/">Português</a></li>
+<li><a href="https://www.globalresearch.ca/category/srpski/">srpski</a></li>
+<li><a href="https://www.globalresearch.ca/category/arabic">العربية</a></li>
+<li style="margin-right:0"><a href="https://www.globalresearch.ca/category/chinese">中文</a></li>
+</ul>
+<p>Notre site en Français: <a href="https://www.mondialisation.ca/" title="Centre de reserche sur la mondialisation">mondialisation.ca</a></p>
+Nuestro sitio en español: <a href="https://www.globalizacion.ca" target="_blank" title="Globalizacion">Globalizacion</a>
+<br/>
+<a href="https://asia-pacificresearch.com" target="_blank" title="Asia-Pacific Research">Asia-Pacific Research</a>
+</div>
+</div>
+<div class="notranslate" id="header">
+<h1 class="logo_en"><a href="https://www.globalresearch.ca" title="Global Research">Global Research</a></h1>
+<div class="headerright">
+<div class="authorsearch">
+<form action="/authors">
+<input name="query" onblur="if (this.value == '') { this.value='Search Authors...';} " onfocus=" if (this.value == 'Search Authors...') { this.value = ''; }" type="text" value="Search Authors..."/>
+<input id="searchsubmit" src="https://www.globalresearch.ca/images/search-icon.jpg" type="image" value="Search"/>
+</form>
+</div>
+<div class="translatebox" id="translatebox" style="float:left;margin-top:-35px;margin-left:206px;width:175px">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</div>
+<div class="searchbox">
+<form action="https://www.globalresearch.ca">
+<input name="s" onblur="if (this.value == '') { this.value='Search...';} " onfocus=" if (this.value == 'Search...') { this.value = ''; }" type="text" value="Search..."/>
+<input id="searchsubmit" src="https://www.globalresearch.ca/images/search-icon.jpg" type="image" value="Search">
+</input></form>
+</div>
+<div class="newsletter">
+<form action="https://lp.constantcontactpages.com/su/IJiNQuW" id="NLform" method="get" name="ccoptin">
+<input class="emailinput" id="mce-EMAIL" name="EMAIL" onblur="if(this.value=='')this.value='GR Newsletter, Enter Email'" onfocus="if(this.value=='GR Newsletter, Enter Email')this.value=''" type="text" value="GR Newsletter, Enter Email"/>
+<input name="go" src="//www.globalresearch.ca/images/submit-icon.jpg" type="image" value="GO">
+</input></form>
+</div>
+<div class="social-networks">
+<ul>
+<li class="grtv"><a href="http://tv.globalresearch.ca/" target="_blank" title="Global Research TV">grtv</a></li>
+<li class="youtube"><a href="https://www.youtube.com/globalresearchtv" target="_blank" title="Global Research YouTube Channel">youtube</a></li>
+<li class="twitter"><a href="https://twitter.com/CRG_CRM" target="_blank" title="Follow Global Research on Twitter">twitter</a></li>
+<li class="facebook"><a href="https://www.facebook.com/GlobalResearchCRG" target="_blank" title="Connect on Facebook">facebook</a></li>
+<li class="rss"><a href="https://www.globalresearch.ca/feed" title="">rss</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+<div class="notranslate" id="grnavbar">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586043" id="menu-item-5586043"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US Nato War</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586044" id="menu-item-5586044"><a href="https://www.globalresearch.ca/theme/global-economy">Economy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586046" id="menu-item-5586046"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Civil Rights</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586047" id="menu-item-5586047"><a href="https://www.globalresearch.ca/theme/environment">Environment</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586048" id="menu-item-5586048"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586049" id="menu-item-5586049"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586050" id="menu-item-5586050"><a href="https://www.globalresearch.ca/theme/law-and-justice">Justice</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586051" id="menu-item-5586051"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">9/11</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586052" id="menu-item-5586052"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">War Crimes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586053" id="menu-item-5586053"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586054" id="menu-item-5586054"><a href="https://www.globalresearch.ca/theme/culture-society-history">History</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586055" id="menu-item-5586055"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science</a></li>
+</ul></div><div></div></div>
+</div>
+<div class="main-t"></div>
+<div class="main-c">
+<div class="main-content">
+<script>
+var display_ads = true;
+</script>
+<div id="sidebar">
+<div class="widget_dpe_fp_widget" id="dpe_fp_widget-2"><h3><a href="https://www.globalresearch.ca/news">Latest News &amp; Top Stories</a></h3> <div class="latestnews">
+<ul class="dpe-flexible-posts">
+<li class="post-5811429 post type-post status-publish format-standard has-post-thumbnail hentry category-english author-greg-guma highlighting-news highlighting-top-box" id="post-5811429">
+<a href="https://www.asia-pacificresearch.com/fiji-pacific-ways-troubles-paradise/5631543">
+<h4 class="title">Fiji’s Pacific Ways: Troubles in Paradise</h4>
+</a>
+</li>
+<li class="post-5811393 post type-post status-publish format-standard has-post-thumbnail hentry category-english tag-covid-vaccines tag-mental-health tag-vaccine-injuries author-william-makis theme-science-and-medicine highlighting-news highlighting-top-box" id="post-5811393">
+<a href="https://www.globalresearch.ca/covid-19-vaccine-induced-psychosis-13-cases-post-vaccine-psychosis-mania-suicide-attempts-that-will-shock-you/5811393">
+<h4 class="title">COVID-19 Vaccine Induced Psychosis – 13 Cases of Post-Vaccine Psychosis, Mania &amp; Suicide Attempts That Will Shock You.</h4>
+</a>
+</li>
+<li class="post-5328631 post type-post status-publish format-standard has-post-thumbnail hentry category-english category-mobile category-no-read-more-link author-jacques-r-pauwels author-michel-chossudovsky region-usa theme-culture-society-history theme-militarization-and-wmd theme-us-nato-war-agenda highlighting-highlight highlighting-news highlighting-top-box" id="post-5328631">
+<a href="https://www.globalresearch.ca/why-america-needs-war/5328631">
+<h4 class="title">Why America Needs War, The Project for The New American Century (PNAC)</h4>
+</a>
+</li>
+<li class="post-5811353 post type-post status-publish format-standard has-post-thumbnail hentry category-english category-mobile category-no-read-more-link author-michel-chossudovsky region-asia region-middle-east theme-women-s-rights indepthreport-afghanistan highlighting-news highlighting-top-box" id="post-5811353">
+<a href="https://www.globalresearch.ca/womens-rights-and-the-revolutionary-association-of-women-of-afghanistan-rawa/5811353">
+<h4 class="title">Women’s Rights and the Revolutionary Association of Women of Afghanistan (RAWA)</h4>
+</a>
+</li>
+<li class="post-5811287 post type-post status-publish format-standard has-post-thumbnail hentry category-english author-megan-sherman region-europe region-russia-and-fsu theme-media-disinformation indepthreport-ukraine-report highlighting-news highlighting-top-box" id="post-5811287">
+<a href="https://www.globalresearch.ca/shameless-sensationalising-pain-media-ukraine/5811287">
+<h4 class="title">“War is a Killing Machine”: The Shameless Sensationalising of Pain. Media and Ukraine</h4>
+</a>
+</li>
+<li class="post-5811246 post type-post status-publish format-standard has-post-thumbnail hentry category-english tag-covid-19 tag-italy author-michael-bryant region-europe theme-media-disinformation theme-science-and-medicine highlighting-news highlighting-top-box" id="post-5811246">
+<a href="https://www.globalresearch.ca/italy-2020-inside-covid-ground-zero-europe/5811246">
+<h4 class="title">Italy 2020: Inside COVID’s ‘Ground Zero’ in Europe</h4>
+</a>
+</li>
+<li class="post-5811276 post type-post status-publish format-standard has-post-thumbnail hentry category-english author-steve-kirsch theme-science-and-medicine highlighting-news highlighting-top-box" id="post-5811276">
+<a href="https://www.globalresearch.ca/now-published-peer-reviewed-scientific-literature-mrna-vaccines-neither-safe-nor-effective-but-outright-dangerous/5811276">
+<h4 class="title">“The mRNA Vaccines are neither safe nor effective, but Outright Dangerous.”</h4>
+</a>
+</li>
+<li class="post-5811308 post type-post status-publish format-standard has-post-thumbnail hentry category-english category-mobile category-no-read-more-link tag-peace tag-victoria-nuland tag-war author-marcy-winograd author-medea-benjamin author-melissa-garriga region-europe region-russia-and-fsu region-usa theme-intelligence theme-us-nato-war-agenda theme-women-s-rights indepthreport-ukraine-report highlighting-highlight highlighting-news highlighting-top-box" id="post-5811308">
+<a href="https://www.globalresearch.ca/women-dont-let-women-drive-war-feminists-say-fire-nuland/5811308">
+<h4 class="title">Women Don’t Let Women Drive War: Feminists Say Fire Nuland</h4>
+</a>
+</li>
+<li class="post-5811298 post type-post status-publish format-standard has-post-thumbnail hentry category-english tag-g20 tag-india-as-2 author-karsten-riise region-asia theme-culture-society-history highlighting-news highlighting-top-box" id="post-5811298">
+<a href="https://www.globalresearch.ca/india-must-assume-authority-now-g20/5811298">
+<h4 class="title">U.S. is Trying to “Hijack” Forthcoming G20 Meeting in India</h4>
+</a>
+</li>
+<li class="post-5438965 post type-post status-publish format-standard has-post-thumbnail hentry category-english author-espiritu theme-media-disinformation theme-politics-and-religion theme-women-s-rights highlighting-news highlighting-top-box" id="post-5438965">
+<a href="https://www.globalresearch.ca/mainstream-media-islamophobia-and-womens-rights-in-muslim-countries-2/5438965">
+<h4 class="title">Women’s Day 2023: Mainstream Media Islamophobia and Women’s Rights in Muslim Countries</h4>
+</a>
+</li>
+<li class="post-5327098 post type-post status-publish format-standard has-post-thumbnail hentry category-english author-felicity-arbuthnot region-asia region-europe region-middle-east theme-women-s-rights indepthreport-afghanistan highlighting-news highlighting-top-box highlighting-top-theme" id="post-5327098">
+<a href="https://www.globalresearch.ca/international-womens-day-and-the-mullahs-of-whitehall-pioneering-afghan-sportswomen-denied-uk-entry/5327098">
+<h4 class="title">Women’s Day 2023: Women’s Rights in Afghanistan, “A Justification for War”</h4>
+</a>
+</li>
+<li class="post-5811301 post type-post status-publish format-standard has-post-thumbnail hentry category-english tag-one-world-government tag-pandemic-treaty tag-who author-dr-mercola theme-intelligence theme-science-and-medicine highlighting-news highlighting-top-box" id="post-5811301">
+<a href="https://www.globalresearch.ca/pandemic-treaty-will-usher-unelected-one-world-government/5811301">
+<h4 class="title">Pandemic Treaty Will Usher in Unelected One World Government</h4>
+</a>
+</li>
+<li class="post-5811272 post type-post status-publish format-standard has-post-thumbnail hentry category-english author-john-w-whitehead author-nisha-whitehead region-usa theme-intelligence theme-police-state-civil-rights highlighting-news highlighting-top-box" id="post-5811272">
+<a href="https://www.globalresearch.ca/right-let-alone-when-government-wants-know-all-your-business/5811272">
+<h4 class="title">The Right to be Let Alone: When the Government Wants to Know All Your Business</h4>
+</a>
+</li>
+<li class="post-5739264 post type-post status-publish format-standard has-post-thumbnail hentry category-english author-samidoun-palestinian-prisoner-solidarity-network theme-women-s-rights highlighting-news highlighting-top-box" id="post-5739264">
+<a href="https://www.globalresearch.ca/on-international-womens-day-palestinian-women-are-on-the-front-lines-of-liberation-struggle/5739264">
+<h4 class="title">On International Women’s Day 2021: Palestinian Women on the Front Lines of the Liberation Struggle</h4>
+</a>
+</li>
+<li class="post-5811297 post type-post status-publish format-standard has-post-thumbnail hentry category-english tag-covid-vaccines author-peter-mccullough theme-science-and-medicine highlighting-news highlighting-top-box" id="post-5811297">
+<a href="https://www.globalresearch.ca/why-body-attacks-itself-after-covid-19-vaccination/5811297">
+<h4 class="title">Why the Body Attacks Itself After COVID-19 Vaccination</h4>
+</a>
+</li>
+</ul>
+</div>
+<div class="ltnbutton">
+<a href="/most-popular/" style="float:left;">Most Popular</a>
+<a href="/latest-news-and-top-stories/" style="float:right;">All Articles</a>
+</div>
+</div><div class="widget_text" id="text-4"> <div style="text-align:center;position: relative; width: 100%;"><span style="text-align:center;width: 100%;">
+<a href="https://store.globalresearch.ca/donate" target="_blank" title="Donate"><img alt="Donate" src="https://www.globalresearch.ca/wp-content/uploads/2022/02/DonateAd2.jpg" width="240"/></a></span>
+</div>
+<br/> </div><div class="widget_text" id="text-5"><h3>Global Research Publishers</h3> <div style="border: 1px solid #222">
+<div class="ml-slider-3-20-3 metaslider metaslider-flex metaslider-5740873 ml-slider nav-hidden" id="metaslider-id-5740873" style="width: 100%; margin: 0 auto;">
+<div id="metaslider_container_5740873">
+<div id="metaslider_5740873">
+<ul aria-live="polite" class="slides">
+<li class="slide-5740874 ms-image" style="display: block; width: 100%;"><a href="https://store.globalresearch.ca" target="_blank"><img alt="" class="slider-5740873 slide-5740874" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/03/americaswar.jpg" title="americaswar" width="344"/></a></li>
+<li class="slide-5740875 ms-image" style="display: none; width: 100%;"><a href="https://store.globalresearch.ca" target="_blank"><img alt="" class="slider-5740873 slide-5740875" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/03/globaleconomic.jpg" title="globaleconomic" width="344"/></a></li>
+<li class="slide-5740876 ms-image" style="display: none; width: 100%;"><a href="https://store.globalresearch.ca" target="_blank"><img alt="" class="slider-5740873 slide-5740876" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/03/globalizationwar.jpg" title="globalizationwar" width="344"/></a></li>
+<li class="slide-5740877 ms-image" style="display: none; width: 100%;"><a href="https://store.globalresearch.ca" target="_blank"><img alt="" class="slider-5740873 slide-5740877" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/03/poverty.jpg" title="poverty" width="344"/></a></li>
+<li class="slide-5740878 ms-image" style="display: none; width: 100%;"><a href="https://store.globalresearch.ca" target="_blank"><img alt="" class="slider-5740873 slide-5740878" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/03/seeds.jpg" title="seeds" width="344"/></a></li>
+<li class="slide-5740879 ms-image" style="display: none; width: 100%;"><a href="https://store.globalresearch.ca" target="_blank"><img alt="" class="slider-5740873 slide-5740879" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/03/towardsww3.jpg" title="towardsww3" width="344"/></a></li>
+<li class="slide-5740880 ms-image" style="display: none; width: 100%;"><a href="https://store.globalresearch.ca" target="_blank"><img alt="" class="slider-5740873 slide-5740880" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/03/voices.jpg" title="voices" width="344"/></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<br/> </div><div class="widget_accordion_nav_menu" id="accordion_nav_menu-3"><ul class="accordion" id="side-accordion"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302125 no-child" id="menu-item-5302125"><a class="opener" href="https://www.globalresearch.ca/news"><span><em>News</em></span></a></li>
+<li class="list menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5494605" id="menu-item-5494605"><a class="opener"><span><em>Themes</em></span></a>
+<div class="slide"><ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494607" id="menu-item-5494607"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">Terrorism</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494610" id="menu-item-5494610"><a href="https://www.globalresearch.ca/theme/biotechnology-and-gmo">Biotechnology and GMO</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494613" id="menu-item-5494613"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">Crimes against Humanity</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494615" id="menu-item-5494615"><a href="https://www.globalresearch.ca/theme/culture-society-history">Culture, Society &amp; History</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494616" id="menu-item-5494616"><a href="https://www.globalresearch.ca/theme/environment">Environment</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494617" id="menu-item-5494617"><a href="https://www.globalresearch.ca/theme/global-economy">Global Economy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494618" id="menu-item-5494618"><a href="https://www.globalresearch.ca/theme/intelligence">Intelligence</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494619" id="menu-item-5494619"><a href="https://www.globalresearch.ca/theme/law-and-justice">Law and Justice</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494620" id="menu-item-5494620"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media Disinformation</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494621" id="menu-item-5494621"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494622" id="menu-item-5494622"><a href="https://www.globalresearch.ca/theme/oil-and-energy">Oil and Energy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494623" id="menu-item-5494623"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Civil Rights</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494624" id="menu-item-5494624"><a href="https://www.globalresearch.ca/theme/politics-and-religion">Politics and Religion</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494625" id="menu-item-5494625"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty &amp; Social Inequality</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494626" id="menu-item-5494626"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science and Medicine</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494627" id="menu-item-5494627"><a href="https://www.globalresearch.ca/theme/united-nations">United Nations</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494628" id="menu-item-5494628"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5494629" id="menu-item-5494629"><a href="https://www.globalresearch.ca/theme/women-s-rights">Women’s Rights</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302544 no-child" id="menu-item-5302544"><a class="opener" href="https://www.globalresearch.ca/global-research-i-books"><span><em>I-Books Series</em></span></a></li>
+<li class="last menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5302129" id="menu-item-5302129"><a class="opener"><span><em>IN-DEPTH REPORTS</em></span></a>
+<div class="slide"><ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5374439" id="menu-item-5374439"><a href="https://www.globalresearch.ca/indepthreport/ukraine-report">UKRAINE REPORT</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302181" id="menu-item-5302181"><a href="https://www.globalresearch.ca/indepthreport/syria-nato-s-next-war">SYRIA: NATO’S NEXT WAR?</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302171" id="menu-item-5302171"><a href="https://www.globalresearch.ca/indepthreport/iran-the-next-war">IRAN: THE NEXT WAR?</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302172" id="menu-item-5302172"><a href="https://www.globalresearch.ca/indepthreport/iraq-report">IRAQ REPORT</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302158" id="menu-item-5302158"><a href="https://www.globalresearch.ca/indepthreport/afghanistan">AFGHANISTAN</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302161" id="menu-item-5302161"><a href="https://www.globalresearch.ca/indepthreport/climate-change">CLIMATE CHANGE</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302162" id="menu-item-5302162"><a href="https://www.globalresearch.ca/indepthreport/criminalize-war">CRIMINALIZE WAR</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302163" id="menu-item-5302163"><a href="https://www.globalresearch.ca/indepthreport/depleted-uranium">DEPLETED URANIUM</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302165" id="menu-item-5302165"><a href="https://www.globalresearch.ca/indepthreport/fake-intelligence">FAKE INTELLIGENCE</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302169" id="menu-item-5302169"><a href="https://www.globalresearch.ca/indepthreport/haiti">HAITI</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302174" id="menu-item-5302174"><a href="https://www.globalresearch.ca/indepthreport/nato-s-war-on-libya">NATO’S WAR ON LIBYA</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302175" id="menu-item-5302175"><a href="https://www.globalresearch.ca/indepthreport/north-korea">NORTH KOREA</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302176" id="menu-item-5302176"><a href="https://www.globalresearch.ca/indepthreport/nuclear-war">NUCLEAR WAR</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302177" id="menu-item-5302177"><a href="https://www.globalresearch.ca/indepthreport/occupy-wall-street">OCCUPY WALL STREET</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302178" id="menu-item-5302178"><a href="https://www.globalresearch.ca/indepthreport/pakistan">PAKISTAN</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302179" id="menu-item-5302179"><a href="https://www.globalresearch.ca/indepthreport/palestine">PALESTINE</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-indepthreport menu-item-5302182" id="menu-item-5302182"><a href="https://www.globalresearch.ca/indepthreport/the-balkans">THE BALKANS</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5405922 no-child" id="menu-item-5405922"><a class="opener" href="https://www.globalresearch.ca/highlighting/videos"><span><em>GLOBAL RESEARCH VIDEOS</em></span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5311794 no-child" id="menu-item-5311794"><a class="opener" href="https://www.globalresearch.ca/theme/global-research-news-hour"><span><em>The global research news hour</em></span></a></li>
+</ul></div><div class="widget_text" id="text-7"> <a href="http://www.21cir.com" style="margin-left:4px; margin-bottom: 10px;" target="_blank" title="visit our partner: The 21st Century"><img alt="The 21st Century" src="https://www.globalresearch.ca/wp-content/themes/globalresearch/images/21centurylogo.jpg" width="256"/></a> </div><div class="widget_text" id="text-8"> <div>
+<a href="https://www.claritypress.com" target="_blank"><img height="54" src="clarity-logo_344" width="274"/></a>
+</div> </div><div class="widget_text" id="text-9"><h3>Books Available From Clarity Press</h3> <div style="border: 1px solid #222">
+<div class="ml-slider-3-20-3 metaslider metaslider-flex metaslider-5740881 ml-slider nav-hidden nav-hidden" id="metaslider-id-5740881" style="width: 100%; margin: 0 auto;">
+<div id="metaslider_container_5740881">
+<div id="metaslider_5740881">
+<ul aria-live="polite" class="slides">
+<li class="slide-5740882 ms-image" style="display: block; width: 100%;"><a href="https://www.claritypress.com/product/understanding-the-war-industry" target="_blank"><img alt="" class="slider-5740881 slide-5740882" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/03/war.jpg" title="war" width="344"/></a></li>
+<li class="slide-5740883 ms-image" style="display: none; width: 100%;"><a href="https://www.claritypress.com/product/when-china-sneezes-from-the-coronavirus-lockdown-to-the-global-politico-economic-crisis" target="_blank"><img alt="" class="slider-5740881 slide-5740883" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2022/06/chinasneezes.jpg" title="chinasneezes" width="344"/></a></li>
+<li class="slide-5740884 ms-image" style="display: none; width: 100%;"><a href="https://www.claritypress.com/product/states-of-emergency-keeping-the-global-population-in-check" target="_blank"><img alt="" class="slider-5740881 slide-5740884" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2022/06/stateofemergency.jpg" title="stateofemergency" width="344"/></a></li>
+<li class="slide-5740885 ms-image" style="display: none; width: 100%;"><a href="https://www.claritypress.com/product/the-cia-as-organized-crime" target="_blank"><img alt="" class="slider-5740881 slide-5740885" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/03/cia.jpg" title="cia" width="344"/></a></li>
+<li class="slide-5783614 ms-image" style="display: none; width: 100%;"><a href="https://www.claritypress.com/product/disintegration-indicators-of-the-coming-american-collapse" target="_self"><img alt="" class="slider-5740881 slide-5783614" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2022/06/desintegration.jpg" title="desintegration" width="344"/></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<br/> </div><div class="widget_text" id="text-11"><h3>Global Research E-Books</h3> <div style="border: 1px solid #222">
+<div class="ml-slider-3-20-3 metaslider metaslider-flex metaslider-5766598 ml-slider nav-hidden nav-hidden nav-hidden" id="metaslider-id-5766598" style="width: 100%; margin: 0 auto;">
+<div id="metaslider_container_5766598">
+<div id="metaslider_5766598">
+<ul aria-live="polite" class="slides">
+<li class="slide-5766613 ms-image" style="display: block; width: 100%;"><a href="https://www.globalresearch.ca/our-species-genetically-modified-witnessing-humanity-march-toward-extinction-viruses-friends-not-foes/5763670" target="_self"><img alt="" class="slider-5766598 slide-5766613" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2022/01/genetically-modified-species-ad.jpg" title="genetically-modified-species-ad" width="344"/></a></li>
+<li class="slide-5766611 ms-image" style="display: none; width: 100%;"><a href="https://www.globalresearch.ca/twenty-years-ago-natos-war-of-aggression-against-yugoslavia/5671987" target="_self"><img alt="" class="slider-5766598 slide-5766611" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2022/01/us-nato-war-ad.jpg" title="us-nato-war-ad" width="344"/></a></li>
+<li class="slide-5766612 ms-image" style="display: none; width: 100%;"><a href="https://www.globalresearch.ca/the-2020-worldwide-corona-crisis-destroying-civil-society-engineered-economic-depression-global-coup-detat-and-the-great-reset/5730652" target="_self"><img alt="" class="slider-5766598 slide-5766612" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2022/09/covid-ebook-cover-ad.jpg" title="covid-ebook-cover-ad" width="344"/></a></li>
+<li class="slide-5766614 ms-image" style="display: none; width: 100%;"><a href="https://www.globalresearch.ca/global-war-ning-geoengineering-is-wrecking-our-planet-and-humanity/5753754" target="_self"><img alt="" class="slider-5766598 slide-5766614" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2022/01/global-warning-climate-change-ad.jpg" title="global-warning-climate-change-ad" width="344"/></a></li>
+<li class="slide-5779827 ms-image" style="display: none; width: 100%;"><a href="https://www.globalresearch.ca/history-world-war-ii-operation-barbarossa-allied-firebombing-german-cities-japan-early-conquests/5763433" target="_self"><img alt="" class="slider-5766598 slide-5779827" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2022/05/ww2barbarossa.jpg" title="ww2barbarossa" width="344"/></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<br/> </div><div class="widget_text" id="text-10"><h3>Global Research Authors</h3> <div style="border: 1px solid #222">
+<div class="ml-slider-3-20-3 metaslider metaslider-flex metaslider-5752339 ml-slider nav-hidden nav-hidden nav-hidden nav-hidden" id="metaslider-id-5752339" style="width: 100%; margin: 0 auto;">
+<div id="metaslider_container_5752339">
+<div id="metaslider_5752339">
+<ul aria-live="polite" class="slides">
+<li class="slide-5752350 ms-image" style="display: block; width: 100%;"><a href="http://rodriguetremblay100.blogspot.com/p/what-is-humanisme.html" target="_blank"><img alt="" class="slider-5752339 slide-5752350" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/08/globalethics_ad.jpg" title="globalethics_ad" width="344"/></a></li>
+<li class="slide-5752351 ms-image" style="display: none; width: 100%;"><a href="https://www.amazon.com/Implosion-Economic-Environmental-Destruction-Corporate/dp/059545349X/ref=sr_1_16?dchild=1&amp;keywords=implosion&amp;qid=1621732429&amp;s=books&amp;sr=1-16" target="_blank"><img alt="" class="slider-5752339 slide-5752351" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/08/implosion_ad.jpg" title="implosion_ad" width="344"/></a></li>
+<li class="slide-5752352 ms-image" style="display: none; width: 100%;"><a href="https://www.amazon.com/Manifest-Destiny-Democracy-Cognitive-Dissonance/dp/3981723732/ref=sr_1_14?s=books&amp;ie=UTF8&amp;qid=1520340441&amp;sr=1-14&amp;refinements=p_27:F.+William+Engdahl" target="_blank"><img alt="" class="slider-5752339 slide-5752352" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/08/manifestdestiny_ad.jpg" title="manifestdestiny_ad" width="344"/></a></li>
+<li class="slide-5752353 ms-image" style="display: none; width: 100%;"><a href="https://www.amazon.ca/Class-Struggle-Latin-America-History/dp/1138720224" target="_blank"><img alt="" class="slider-5752339 slide-5752353" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/08/theclassstruggle_ad.jpg" title="theclassstruggle_ad" width="344"/></a></li>
+<li class="slide-5752354 ms-image" style="display: none; width: 100%;"><a href="https://www.globalresearch.ca/china-towards-capitalist-restoration-michel-chossudovsky/5745990" target="_blank"><img alt="" class="slider-5752339 slide-5752354" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/08/towardscapitalist_ad.jpg" title="towardscapitalist_ad" width="344"/></a></li>
+<li class="slide-5752355 ms-image" style="display: none; width: 100%;"><a href="http://www.lorimer.ca/adults/index.php?page=person&amp;author_id=2057&amp;_dc_gtm_UA-25710558-1=1&amp;_ga=GA1.2.1970305365.1622903817&amp;_gat=1&amp;_gid=GA1.2.1402553169.1622903817&amp;v=g" target="_blank"><img alt="" class="slider-5752339 slide-5752355" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/08/bigbusiness_ad.jpg" title="bigbusiness_ad" width="344"/></a></li>
+<li class="slide-5752356 ms-image" style="display: none; width: 100%;"><a href="https://www.claritypress.com/product/flashpoint-in-ukraine-how-the-us-drive-for-hegemony-risks-world-war-iii/" target="_blank"><img alt="" class="slider-5752339 slide-5752356" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/08/flashpoint_ad.jpg" title="flashpoint_ad" width="344"/></a></li>
+<li class="slide-5752357 ms-image" style="display: none; width: 100%;"><a href="https://www.project-censored.org/shop/p/giants-the-global-power-elite" target="_blank"><img alt="" class="slider-5752339 slide-5752357" height="360" src="https://www.globalresearch.ca/wp-content/uploads/2021/08/giants_ad.jpg" title="giants_ad" width="344"/></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<br/> </div>
+</div>
+<div id="content">
+<!--[if lte IE 7]>  
+ <style>
+	.mask {width: 642px !important;]
+</style>
+<![endif]-->
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/jquery.li-scroller.1.0.css" rel="stylesheet"/>
+<div class="news-holder"><span class="door"></span>
+<ul id="ticker01">
+<li style="background: #eeebe4 !important;"><a href="https://lp.constantcontactpages.com/su/IJiNQuW?EMAIL=GR+Newsletter%2C+Enter+Email&amp;go.x=15&amp;go.y=10&amp;go=GO">Subscribe to the Global Research Newsletter</a></li>
+<li style="background: #eeebe4 !important;"><a href="https://globalizacion.ca">Nuestro sitio en español: Globalizacion.ca</a></li>
+<li style="background: #eeebe4 !important;"><a href="https://www.globalresearch.ca/most-popular?since=1">Today’s Most Popular GR Articles</a></li>
+<li style="background: #eeebe4 !important;"><a href="https://www.globalresearch.ca/category/italiano">I nostri articoli in italiano</a></li>
+<li style="background: #eeebe4 !important;"><a href="https://asia-pacificresearch.com">Visit our Asia-Pacific website</a></li>
+<li style="background: #eeebe4 !important;"><a href="https://www.globalresearch.ca/category/portugues">Artigos em português</a></li>
+</ul>
+</div>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/jquery.li-scroller.1.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+    jQuery("ul#ticker01").liScroll({travelocity: 0.05});
+  </script>
+<div class="post-frame">
+<div class="post">
+<div class="post-container">
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/how-blackrock-larry-fink-created-global-energy-crisis/5799286">How Blackrock Investment Fund Triggered the Global Energy Crisis</a></strong>
+<em class="post-info">By <span class="author"><a href="https://www.globalresearch.ca/author/f-william-engdahl" title="Posts by F. William Engdahl">F. William Engdahl</a></span>,
+March 07, 2023 </em>
+</div>
+</div>
+<div class="alignleft"><a href="https://www.globalresearch.ca/how-blackrock-larry-fink-created-global-energy-crisis/5799286"><img alt="" class="attachment-cover_stories_thumbnail size-cover_stories_thumbnail wp-post-image" height="80" src="https://www.globalresearch.ca/wp-content/uploads/2018/05/blackrock-buy-bank-americas-87-billion-money-market-fund-business-120x80.jpg" width="120"/></a></div>
+<div style="text-align:justify;">The energy crisis is a long-planned strategy of western corporate capital to dismantle industrial economies in the name of a dystopian Green Agenda. That has its roots well before February 2022, when Russia launched its military action in Ukraine.</div>
+</div>
+<div class="post">
+<div class="post-container">
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/environmental-modification-techniques-enmod-and-the-turkey-syria-earthquake-an-expert-investigation-is-required/5808207">Environmental Modification Techniques (ENMOD) and the Turkey-Syria Earthquake: An Expert Investigation is Required</a></strong>
+<em class="post-info">By <span class="author"><a href="https://www.globalresearch.ca/author/michel-chossudovsky" title="Posts by Prof Michel Chossudovsky">Prof Michel Chossudovsky</a></span>,
+March 06, 2023 </em>
+</div>
+</div>
+<div class="alignleft"><a href="https://www.globalresearch.ca/environmental-modification-techniques-enmod-and-the-turkey-syria-earthquake-an-expert-investigation-is-required/5808207"><img alt="" class="attachment-cover_stories_thumbnail size-cover_stories_thumbnail wp-post-image" height="80" src="https://www.globalresearch.ca/wp-content/uploads/2023/02/Screen-Shot-2023-02-26-at-3.31.46-PM-120x80.png" width="120"/></a></div>
+<div style="text-align:justify;">The media categorized the initial earthquake (February 6, 2023) “as the most powerful in the region in at least a century”. That is an understatement. In regards to Southern Anatolia, it is the largest earthquake in more than seven centuries. </div>
+</div>
+<div class="post">
+<div class="post-container">
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/turkey-syria-earthquake-act-terror/5807763">Turkey-Syria Earthquake: Is This An Act of Terror?</a></strong>
+<em class="post-info">By <span class="author"><a href="https://www.globalresearch.ca/author/peter-koenig" title="Posts by Peter Koenig">Peter Koenig</a></span>,
+March 05, 2023 </em>
+</div>
+</div>
+<div class="alignleft"><a href="https://www.globalresearch.ca/turkey-syria-earthquake-act-terror/5807763"><img alt="" class="attachment-cover_stories_thumbnail size-cover_stories_thumbnail wp-post-image" height="80" src="https://www.globalresearch.ca/wp-content/uploads/2023/02/syria-turkey-quake-120x80.jpg" width="120"/></a></div>
+<div style="text-align:justify;">“We are living through the most painful days in our history. Two powerful earthquakes, ...have caused large-scale damage in 10 provinces. Around 13.5 million of our people have been affected.” says President Erdogan</div>
+</div>
+<div class="post">
+<div class="post-container">
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/humanity-march-toward-extinction/5750260">“Our Species is Being Genetically Modified”: Humanity’s March Toward Extinction? Analysis of the Microbiome and Virome</a></strong>
+<em class="post-info">By <span class="author"><a href="https://www.globalresearch.ca/author/david-skripac" title="Posts by David Skripac">David Skripac</a></span>,
+January 23, 2023 </em>
+</div>
+</div>
+<div class="alignleft"><a href="https://www.globalresearch.ca/humanity-march-toward-extinction/5750260"><img alt="" class="attachment-cover_stories_thumbnail size-cover_stories_thumbnail wp-post-image" height="80" src="https://www.globalresearch.ca/wp-content/uploads/2021/04/coronavirus-vaccine-safety-studies-120x80.jpg" width="120"/></a></div>
+<div style="text-align:justify;">This year marks a turning point in human history. For the first time since human civilization began, our species is being genetically modified. Vaccine manufacturers have now made it possible for the human genome to be permanently altered —and humanity’s relationship with nature forever changed.</div>
+</div>
+</div>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/jquery.tools.min.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+  jQuery('.showWhenLoaded').show(200);
+  jQuery(".scrollable").scrollable({speed: 200, circular: true});
+});
+</script>
+<div class="showWhenLoaded" id="sliderNav" style="display:none;">
+<a class="prev browse left" id="sliderNav_left"></a>
+<a class="next browse right" id="sliderNav_right"></a>
+</div>
+<div class="caroucel scrollable showWhenLoaded" style="display:none;">
+<div class="gmask items">
+<div class="item">
+<div><a href="https://www.globalresearch.ca/why-america-needs-war/5328631"><img alt="" class="attachment-highlight_thumbnail size-highlight_thumbnail wp-post-image" height="98" src="https://www.globalresearch.ca/wp-content/uploads/2005/05/War-USA-232x98.jpg" width="232"/></a></div>
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/why-america-needs-war/5328631">Why America Needs War</a></strong>
+</div>
+</div>
+<div class="item">
+<div><a href="https://www.globalresearch.ca/women-dont-let-women-drive-war-feminists-say-fire-nuland/5811308"><img alt="" class="attachment-highlight_thumbnail size-highlight_thumbnail wp-post-image" height="98" src="https://www.globalresearch.ca/wp-content/uploads/2023/02/Nuland-232x98.jpg" width="232"/></a></div>
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/women-dont-let-women-drive-war-feminists-say-fire-nuland/5811308">Feminists Say Fire Nuland</a></strong>
+</div>
+</div>
+<div class="item">
+<div><a href="https://www.globalresearch.ca/imagine-world-without-smartphones/5811177"><img alt="" class="attachment-highlight_thumbnail size-highlight_thumbnail wp-post-image" height="98" src="https://www.globalresearch.ca/wp-content/uploads/2018/01/mental-health-smartphone-232x98.jpg" width="232"/></a></div>
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/imagine-world-without-smartphones/5811177">A World without Smartphones</a></strong>
+</div>
+</div>
+<div class="item">
+<div><a href="https://www.globalresearch.ca/destabilization-haiti/5695297"><img alt="" class="attachment-highlight_thumbnail size-highlight_thumbnail wp-post-image" height="98" src="https://www.globalresearch.ca/wp-content/uploads/2015/02/Operasyon-mare-Aristide-300x207-232x98.jpg" width="232"/></a></div>
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/destabilization-haiti/5695297">Coup d'État against Haiti</a></strong>
+</div>
+</div>
+<div class="item">
+<div><a href="https://www.globalresearch.ca/society-makes-people-sick/5810986"><img alt="" class="attachment-highlight_thumbnail size-highlight_thumbnail wp-post-image" height="98" src="https://www.globalresearch.ca/wp-content/uploads/2022/12/creation-1906289_960_720-232x98.jpg" width="232"/></a></div>
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/society-makes-people-sick/5810986">What is Truth, What is a Lie?</a></strong>
+</div>
+</div>
+<div class="item">
+<div><a href="https://www.globalresearch.ca/great-zero-carbon-criminal-conspiracy/5736707"><img alt="" class="attachment-highlight_thumbnail size-highlight_thumbnail wp-post-image" height="98" src="https://www.globalresearch.ca/wp-content/uploads/2018/05/CO2-Planet-232x98.jpg" width="232"/></a></div>
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/great-zero-carbon-criminal-conspiracy/5736707">The “Great Zero Carbon” Conspiracy and the WEF’s “Great Reset”</a></strong>
+</div>
+</div>
+<div class="item">
+<div><a href="https://www.globalresearch.ca/davos-2023-fragmenting-world/5804639"><img alt="" class="attachment-highlight_thumbnail size-highlight_thumbnail wp-post-image" height="98" src="https://www.globalresearch.ca/wp-content/uploads/2023/01/mail-3-232x98.jpeg" width="232"/></a></div>
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/davos-2023-fragmenting-world/5804639">Davos 2023: Fragmenting the World</a></strong>
+</div>
+</div>
+<div class="item">
+<div><a href="https://www.globalresearch.ca/video-has-germany-become-a-colony-of-the-united-states/5808803"><img alt="" class="attachment-highlight_thumbnail size-highlight_thumbnail wp-post-image" height="98" src="https://www.globalresearch.ca/wp-content/uploads/2017/02/usa-vs-germany-232x98.jpg" width="232"/></a></div>
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/video-has-germany-become-a-colony-of-the-united-states/5808803">Germany: Colony of the US</a></strong>
+</div>
+</div>
+<div class="item">
+<div><a href="https://www.globalresearch.ca/towards-another-devastating-worldwide-crisis-the-wefs-cyber-attack-with-covid-like-characteristics-paralysis-of-the-power-supply-communications-transportation/5764374"><img alt="" class="attachment-highlight_thumbnail size-highlight_thumbnail wp-post-image" height="98" src="https://www.globalresearch.ca/wp-content/uploads/2021/07/ransomware-cyber-pandemic-1-232x98.jpeg" width="232"/></a></div>
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/towards-another-devastating-worldwide-crisis-the-wefs-cyber-attack-with-covid-like-characteristics-paralysis-of-the-power-supply-communications-transportation/5764374">Another Devastating Worldwide Crisis?</a></strong>
+</div>
+</div>
+<div class="item">
+<div><a href="https://www.globalresearch.ca/greater-israel-the-zionist-plan-for-the-middle-east/5324815"><img alt="" class="attachment-highlight_thumbnail size-highlight_thumbnail wp-post-image" height="98" src="https://www.globalresearch.ca/wp-content/uploads/2012/12/Settlements-israeli-flag-232x98.jpg" width="232"/></a></div>
+<div class="text-holder">
+<strong class="title"><a href="https://www.globalresearch.ca/greater-israel-the-zionist-plan-for-the-middle-east/5324815">"Greater Israel": Oded Yinon Plan</a></strong>
+</div>
+</div>
+</div>
+</div>
+<div class="column-holder">
+<div class="column floatAll">
+<div class="video-wrap">
+<div class="container">
+<a href="https://www.youtube.com/user/GlobalResearchTV"><h1 class="grtv_banner">Global Research TV</h1></a>
+</div>
+<div class="video">
+<iframe allowfullscreen="" frameborder="0" height="283" src="https://www.youtube.com/embed/?listType=playlist&amp;list=PLDADbGYMIBhE3q_fD7cwHqsvXQloEXFHK&amp;showinfo=1" width="316"></iframe>
+<div class="grtv-block">
+<div class="text-holder">
+<a href="https://www.youtube.com/user/GlobalResearchTV"><span>More videos on GRTV</span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/italy-2020-inside-covid-ground-zero-europe/5811246"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/COVID-Hysteria-Northern-Italy-2020-51x46.png" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/italy-2020-inside-covid-ground-zero-europe/5811246">Italy 2020: Inside COVID’s ‘Ground Zero’ in Europe</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/michael-bryant" title="Posts by Michael Bryant">Michael Bryant</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/now-published-peer-reviewed-scientific-literature-mrna-vaccines-neither-safe-nor-effective-but-outright-dangerous/5811276"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2021/06/spencer-davis-rxTTNlar62o-unsplash-700x420-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/now-published-peer-reviewed-scientific-literature-mrna-vaccines-neither-safe-nor-effective-but-outright-dangerous/5811276">“The mRNA Vaccines are neither safe nor effective, but Outright Dangerous.”</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/steve-kirsch" title="Posts by Steve Kirsch">Steve Kirsch</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/women-dont-let-women-drive-war-feminists-say-fire-nuland/5811308"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/02/Nuland-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/women-dont-let-women-drive-war-feminists-say-fire-nuland/5811308">Women Don’t Let Women Drive War: Feminists Say Fire Nuland</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/medea-benjamin" title="Posts by Medea Benjamin">Medea Benjamin</a>, <a href="https://www.globalresearch.ca/author/marcy-winograd" title="Posts by Marcy Winograd">Marcy Winograd</a>, and <a href="https://www.globalresearch.ca/author/melissa-garriga" title="Posts by Melissa Garriga">Melissa Garriga</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/india-must-assume-authority-now-g20/5811298"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/thumbnail-1-51x46.jpeg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/india-must-assume-authority-now-g20/5811298">U.S. is Trying to “Hijack” Forthcoming G20 Meeting in India</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/karsten-riise" title="Posts by Karsten Riise">Karsten Riise</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/mainstream-media-islamophobia-and-womens-rights-in-muslim-countries-2/5438965"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2012/10/islam-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/mainstream-media-islamophobia-and-womens-rights-in-muslim-countries-2/5438965">Women’s Day 2023: Mainstream Media Islamophobia and Women’s Rights in Muslim Countries</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/espiritu" title="Posts by Prof. Henry Francis B. Espiritu">Prof. Henry Francis B. Espiritu</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/international-womens-day-and-the-mullahs-of-whitehall-pioneering-afghan-sportswomen-denied-uk-entry/5327098"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2013/03/womens_day1-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/international-womens-day-and-the-mullahs-of-whitehall-pioneering-afghan-sportswomen-denied-uk-entry/5327098">Women’s Day 2023: Women’s Rights in Afghanistan, “A Justification for War”</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/felicity-arbuthnot" title="Posts by Felicity Arbuthnot">Felicity Arbuthnot</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/pandemic-treaty-will-usher-unelected-one-world-government/5811301"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2022/12/world-health-organization-censorship-misinformation-pandemic-treaty-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/pandemic-treaty-will-usher-unelected-one-world-government/5811301">Pandemic Treaty Will Usher in Unelected One World Government</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/dr-mercola" title="Posts by Dr. Joseph Mercola">Dr. Joseph Mercola</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/right-let-alone-when-government-wants-know-all-your-business/5811272"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/ce0138f8-0ce6-417e-aaaa-0555d5d711ad_1920x1080-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/right-let-alone-when-government-wants-know-all-your-business/5811272">The Right to be Let Alone: When the Government Wants to Know All Your Business</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/john-w-whitehead" title="Posts by John W. Whitehead">John W. Whitehead</a> and <a href="https://www.globalresearch.ca/author/nisha-whitehead" title="Posts by Nisha Whitehead">Nisha Whitehead</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/on-international-womens-day-palestinian-women-are-on-the-front-lines-of-liberation-struggle/5739264"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2019/05/nakba-protest-gaza-palestine-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/on-international-womens-day-palestinian-women-are-on-the-front-lines-of-liberation-struggle/5739264">On International Women’s Day 2021: Palestinian Women on the Front Lines of the Liberation Struggle</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/samidoun-palestinian-prisoner-solidarity-network" title="Posts by Samidoun Palestinian Prisoner Solidarity Network">Samidoun Palestinian Prisoner Solidarity Network</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/why-body-attacks-itself-after-covid-19-vaccination/5811297"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2022/10/Vaccine-Vial-Bottles-Covid-19-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/why-body-attacks-itself-after-covid-19-vaccination/5811297">Why the Body Attacks Itself After COVID-19 Vaccination</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/peter-mccullough" title="Posts by Dr. Peter McCullough">Dr. Peter McCullough</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/womens-rights-and-us-hegemony-from-afghanistan-to-syria/5572196"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2017/02/aaaafghankabulminiskirtsrs_465_380_int-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/womens-rights-and-us-hegemony-from-afghanistan-to-syria/5572196">Women’s Day, March 8, 2023: Women’s Rights and US Hegemony: From Afghanistan to Syria</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/dangerous-minds" title="Posts by Dangerous Minds">Dangerous Minds</a> and <a href="https://www.globalresearch.ca/author/michel-chossudovsky" title="Posts by Prof Michel Chossudovsky">Prof Michel Chossudovsky</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/from-afghanistan-to-syria-womens-rights-war-propaganda-and-the-cia/5329665"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2013/04/burqa-3-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/from-afghanistan-to-syria-womens-rights-war-propaganda-and-the-cia/5329665">From Afghanistan to Syria: Women’s Rights, War Propaganda and the CIA</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/julie-l-vesque" title="Posts by Julie Lévesque">Julie Lévesque</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/virgin-australia-flight-from-adelaide-to-perth-forced-make-emergency-landing-first-officer-suffered-heart-attack-30-minutes-after-departure-march-3-2023/5811284"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/01/FAA-pilot-electrocardiogram-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/virgin-australia-flight-from-adelaide-to-perth-forced-make-emergency-landing-first-officer-suffered-heart-attack-30-minutes-after-departure-march-3-2023/5811284">Virgin Australia Flight from Adelaide to Perth Forced to Make Emergency Landing as First Officer Suffered Heart Attack 30 Minutes After Departure on March 3, 2023</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/william-makis" title="Posts by Dr. William Makis">Dr. William Makis</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/wanting-war-over-taiwan-australia-gang-five/5811266"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2020/10/A-Arms-Taiwan-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/wanting-war-over-taiwan-australia-gang-five/5811266">Wanting War over Taiwan: Australia’s Gang of Five</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/binoy-kampmark" title="Posts by Dr. Binoy Kampmark">Dr. Binoy Kampmark</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/21-year-old-twitch-star-kyedae-shymko-diagnosed-leukemia-blood-cancer-that-skyrocketing-among-children-young-adults/5811245"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/7410c780-6008-465f-88e2-72c7d4f7976a_1250x790-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/21-year-old-twitch-star-kyedae-shymko-diagnosed-leukemia-blood-cancer-that-skyrocketing-among-children-young-adults/5811245">21-Year Old Twitch Star Kyedae Shymko Was Diagnosed with Leukemia – A Blood Cancer That Is Skyrocketing Among Children &amp; Young Adults</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/william-makis" title="Posts by Dr. William Makis">Dr. William Makis</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalizacion.ca/como-el-presidente-de-peru-fue-removido-por-fuerzas-externas-klaus-schwab-en-su-mejor-momento/"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/01/Peru-President-Pedro-Castillo-51x46.png" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalizacion.ca/como-el-presidente-de-peru-fue-removido-por-fuerzas-externas-klaus-schwab-en-su-mejor-momento/">Cómo el presidente de Perú fue “removido” por “fuerzas externas”. Klaus Schwab en su mejor momento</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/peter-koenig" title="Posts by Peter Koenig">Peter Koenig</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalizacion.ca/gracias-dios-la-iglesia-del-pueblo-nicaraguense/"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/nicaragua-protest-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalizacion.ca/gracias-dios-la-iglesia-del-pueblo-nicaraguense/">Gracias a Dios: La Iglesia del pueblo nicaragüense</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/becca-renk" title="Posts by Becca Renk">Becca Renk</a></span>,
+March 08, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/rand-corp-how-destroy-russia/5678456"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2021/12/Russia-Ukraine-51x46.png" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/rand-corp-how-destroy-russia/5678456">How to Destroy Russia. 2019 Rand Corporation Report: “Overextending and Unbalancing Russia”</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/manlio-dinucci" title="Posts by Manlio Dinucci">Manlio Dinucci</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/is-us-nato-on-a-collision-course-with-russia-the-kremlins-new-deterrence-strategy/5810772"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/Strategic-weapons-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/is-us-nato-on-a-collision-course-with-russia-the-kremlins-new-deterrence-strategy/5810772">Is US-NATO on a Collision Course with Russia? The Kremlin’s New Deterrence Strategy</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/drago-bosnic" title="Posts by Drago Bosnic">Drago Bosnic</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/covid-propaganda-roundup-the-lies-distortions-and-abuses/5811149"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/thumbnail-51x46.jpeg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/covid-propaganda-roundup-the-lies-distortions-and-abuses/5811149">Covid Propaganda Roundup: The Lies, Distortions and Abuses</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/ben-bartee" title="Posts by Ben Bartee">Ben Bartee</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/blinken-concedes-war-lost-offers-kremlin-ukrainian-demilitarization-crimea-donbass-zaporozhye-restriction-new-tanks-western-ukraine-if-there-no-russian-offensive/5811207"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/2800-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/blinken-concedes-war-lost-offers-kremlin-ukrainian-demilitarization-crimea-donbass-zaporozhye-restriction-new-tanks-western-ukraine-if-there-no-russian-offensive/5811207">U.S Secretary of State Blinken Concedes War Is Lost?</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/john-helmer" title="Posts by John Helmer">John Helmer</a> and <a href="https://www.globalresearch.ca/author/david-ignatius" title="Posts by David Ignatius">David Ignatius</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/dr-bassma-kodmani-dead-paris-syria-left-ruins/5811029"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/INAF_20160318202521279-1170x694-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/dr-bassma-kodmani-dead-paris-syria-left-ruins/5811029">Dr. Bassma Kodmani Died in Paris, and Syria Left in Ruins</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/steven-sahiounie" title="Posts by Steven Sahiounie">Steven Sahiounie</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/top-biden-officials-address-pro-war-rally-led-by-ukrainian-nazi-supporters/5811197"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/samantha-power-ukraine-51x46.png" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/top-biden-officials-address-pro-war-rally-led-by-ukrainian-nazi-supporters/5811197">Top Biden Officials Address Pro-War Rally Led by Ukrainian Nazi Supporters</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/alexander-rubinstein" title="Posts by Alexander Rubinstein">Alexander Rubinstein</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/why-republicans-blew-their-big-opportunity-win-2024/5811181"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/America-Ukraine-Fire-Flags-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/why-republicans-blew-their-big-opportunity-win-2024/5811181">Why Republicans Blew Their Big Opportunity to Win in 2024</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/eric-zuesse" title="Posts by Eric Zuesse">Eric Zuesse</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/%d1%81%d1%82%d0%b0%d0%b2%d0%be%d0%b2%d0%b8-%d0%b1%d0%b5%d0%be%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%be%d0%b3-%d1%84%d0%be%d1%80%d1%83%d0%bc%d0%b0-%d0%bf%d0%be%d0%b2%d0%be%d0%b4%d0%be%d0%bc/5811191"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2018/09/kosovo-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/%d1%81%d1%82%d0%b0%d0%b2%d0%be%d0%b2%d0%b8-%d0%b1%d0%b5%d0%be%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%be%d0%b3-%d1%84%d0%be%d1%80%d1%83%d0%bc%d0%b0-%d0%bf%d0%be%d0%b2%d0%be%d0%b4%d0%be%d0%bc/5811191">СТАВОВИ БЕОГРАДСКОГ ФОРУМА ПОВОДОМ „ПРЕДЛОГА СПОРАЗУМА ЕУ“</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/zivadin-jovanovic" title="Posts by Živadin Jovanović">Živadin Jovanović</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/compromised-media-environment-western-intelligence-agencies-escalate-nato-proxy-war-ukraine-unchallenged/5811201"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/Huge-Blinders-by-emilio-labrador-is-licensed-under-CC-BY-2.0.-e1676062278825-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/compromised-media-environment-western-intelligence-agencies-escalate-nato-proxy-war-ukraine-unchallenged/5811201">In a Compromised Media Environment, Western Intelligence Agencies Escalate NATO’s Proxy War in Ukraine Unchallenged</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/stavroula-pabst" title="Posts by Stavroula Pabst">Stavroula Pabst</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/imagine-world-without-smartphones/5811177"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2018/01/mental-health-smartphone-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/imagine-world-without-smartphones/5811177">Imagine a World Without Smartphones</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/emanuel-pastreich" title="Posts by Emanuel Pastreich">Emanuel Pastreich</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.asia-pacificresearch.com/public-statement-indian-people-movements-trade-unions-other-civil-society-groups-g20/5631538"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/G20-India-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.asia-pacificresearch.com/public-statement-indian-people-movements-trade-unions-other-civil-society-groups-g20/5631538">Public Statement by Indian People’s Movements, Trade Unions and Other Civil Society Groups on G20</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/countercurrents-org" title="Posts by Countercurrents.org">Countercurrents.org</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/heinous-instrumentalization-human-rights-against-nicaragua/5811136"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/nicaragua-protest-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/heinous-instrumentalization-human-rights-against-nicaragua/5811136">The Heinous Instrumentalization of Human Rights Against Nicaragua</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/sefton" title="Posts by Stephen Sefton">Stephen Sefton</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/one-world-largest-oil-corporations-lead-climate-change-talks-2023/5811142"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/UN-capacity_-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/one-world-largest-oil-corporations-lead-climate-change-talks-2023/5811142">One of the World’s Largest Oil Corporations to Lead Climate Change Talks in 2023</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/pablo-fajardo-mendoza" title="Posts by Pablo Fajardo Mendoza">Pablo Fajardo Mendoza</a> and <a href="https://www.globalresearch.ca/author/gadir-lavadenz" title="Posts by Gadir Lavadenz">Gadir Lavadenz</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/russian-aerospace-forces-failing-ukraine-uk-military-thinks-otherwise/5811169"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/Russia-37_missile-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/russian-aerospace-forces-failing-ukraine-uk-military-thinks-otherwise/5811169">Russian Aerospace Forces Failing in Ukraine? Moscow’s “State of the Art” Su-57 Aircraft</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/drago-bosnic" title="Posts by Drago Bosnic">Drago Bosnic</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/standing-together-resisting-new-normal/5811163"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2015/07/global-economy-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/standing-together-resisting-new-normal/5811163">Standing Together – Resisting the New Normal</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/colin-todhunter" title="Posts by Colin Todhunter">Colin Todhunter</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/us-foreign-policy-goes-woke/5811164"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/Samantha-Power-600x347-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/us-foreign-policy-goes-woke/5811164">US Foreign Policy Goes “Woke”?</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/philip-giraldi" title="Posts by Philip Giraldi">Philip Giraldi</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/sorry-bother-you-people-dying/5811153"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2022/05/donbass-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/sorry-bother-you-people-dying/5811153">Sorry to Bother You But People Are Dying!</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/olivia-dinucci" title="Posts by Olivia DiNucci">Olivia DiNucci</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/young-people-who-suffered-blood-clots-amputations-after-covid-19-vaccination-being-lied-media-uses-them-lie-us/5811137"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/d4ba139a-0cfb-4914-8e8e-27048bea3fcb_1432x812-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/young-people-who-suffered-blood-clots-amputations-after-covid-19-vaccination-being-lied-media-uses-them-lie-us/5811137">Young People Who Suffered Blood Clots and Amputations After COVID-19 Vaccination Are Being Lied to, and Media Uses Them to Lie to Us</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/william-makis" title="Posts by Dr. William Makis">Dr. William Makis</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/the-us-and-her-fundamentalist-stooges-are-the-main-human-rights-violators-in-afghanistan/7612"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2007/12/baghlan_child-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/the-us-and-her-fundamentalist-stooges-are-the-main-human-rights-violators-in-afghanistan/7612">The US and Her Fundamentalist Stooges Are the Main Human Rights Violators in Afghanistan</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/rawa" title="Posts by RAWA">RAWA</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/5g-wireless-technology-is-war-against-humanity/5679372"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2017/09/5g-tech-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/5g-wireless-technology-is-war-against-humanity/5679372">5G Wireless Technology Is War against Humanity</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/claire-edwards" title="Posts by Claire Edwards">Claire Edwards</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/destabilization-haiti/5695297"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2015/02/Operasyon-mare-Aristide-300x207-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/destabilization-haiti/5695297">US Sponsored Coup d’État: The Destabilization of Haiti</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/michel-chossudovsky" title="Posts by Prof Michel Chossudovsky">Prof Michel Chossudovsky</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/victory-day-world-war-ii-never-ended-historical-analysis/5779843"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2022/05/392cd-feature-hitler-schacht-prescott-bush-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/victory-day-world-war-ii-never-ended-historical-analysis/5779843">Victory Day: “World War II Never Ended”. Historical Analysis</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/matthew-ehret-kump" title="Posts by Matthew Ehret-Kump">Matthew Ehret-Kump</a></span>,
+March 07, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/society-makes-people-sick/5810986"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2022/12/creation-1906289_960_720-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/society-makes-people-sick/5810986">Society Makes People Sick. “What is Truth, What is a Lie”?</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/rudolf-h-nsel" title="Posts by Dr. Rudolf Hänsel">Dr. Rudolf Hänsel</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/biden-administration-targets-senate-judiciary-constitutional-demise/5810972"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/01/joe-biden-51x46.png" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/biden-administration-targets-senate-judiciary-constitutional-demise/5810972">Biden Administration Targets Senate Judiciary for Constitutional Demise</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/renee-parsons" title="Posts by Renee Parsons">Renee Parsons</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/peru-people-defenses/5810994"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/perudefense-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/peru-people-defenses/5810994">Peru and the People’s Defenses</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/j-b-gerald" title="Posts by J. B. Gerald">J. B. Gerald</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/switzerland-insanity-leopards-germany/5811013"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/02/Hunt_On_Leopards-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/switzerland-insanity-leopards-germany/5811013">Switzerland: Insanity – Leopards to Germany</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/peter-koenig" title="Posts by Peter Koenig">Peter Koenig</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/our-world-how-we-behave-it/5811025"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2022/09/wef-great-reset-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/our-world-how-we-behave-it/5811025">Our World and How We Behave in It.</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/dave-mcgowan" title="Posts by Dave McGowan">Dave McGowan</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/turkiye-suriye-depremi-bu-bir-teror-eylemi-mi-kanit-yok/5811044"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/turkiye-suriye-depremi-bu-bir-teror-eylemi-mi-kanit-yok-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/turkiye-suriye-depremi-bu-bir-teror-eylemi-mi-kanit-yok/5811044">Türkiye-Suriye Depremi: Bu bir terör eylemi mi? Kanıt yok</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/peter-koenig" title="Posts by Peter Koenig">Peter Koenig</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/was-earthquake-turkey-syria-man-made/5810999"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/02/syria-earthquake-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/was-earthquake-turkey-syria-man-made/5810999">Was the Earthquake in Turkey and Syria Man-made?</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/claudia-von-werlhof" title="Posts by Prof. Claudia von Werlhof">Prof. Claudia von Werlhof</a> and <a href="https://www.globalresearch.ca/author/zeitpunkt" title="Posts by Zeitpunkt">Zeitpunkt</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/syria-condemns-illegal-visit-top-us-general/5811060"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2022/08/syria-oil-us-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/syria-condemns-illegal-visit-top-us-general/5811060">Syria Condemns Illegal Visit of Top US General. Biden Wants to Keep Troops in Country</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/the-cradle" title="Posts by The Cradle">The Cradle</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/video-never-again-now-global-part-v-never-give-in-never-give-up/5811009"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/Screen-Shot-2023-03-06-at-5.41.35-PM-51x46.png" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/video-never-again-now-global-part-v-never-give-in-never-give-up/5811009">Video: “Never Again Is Now Global”:. Never Give In – Never Give Up</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/vera-sharav" title="Posts by Vera Sharav">Vera Sharav</a> and <a href="https://www.globalresearch.ca/author/childrens-health-defense" title="Posts by Children’s Health Defense">Children’s Health Defense</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/gracias-dios-people-church-nicaragua/5811004"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/mural-detail-st-paul-apostle-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/gracias-dios-people-church-nicaragua/5811004">Gracias a Dios: The People’s Church in Nicaragua</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/becca-renk" title="Posts by Becca Renk">Becca Renk</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/does-kremlin-desire-conflict-ukraine-spin-out-control/5811075"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2022/06/Ukrainian_soldier_trench_Javelin_800_533_90-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/does-kremlin-desire-conflict-ukraine-spin-out-control/5811075">Does the Kremlin Want the Conflict in Ukraine to Spin Out of Control?</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/paul-craig-roberts" title="Posts by Dr. Paul Craig Roberts">Dr. Paul Craig Roberts</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/embarrassing-truth-behind-the-global-food-war/5810975"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/Film_Preview-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/embarrassing-truth-behind-the-global-food-war/5810975">Documentary: Embarrassing Truth Behind the Global Food War</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/southfront" title="Posts by South Front">South Front</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/president-vladimir-putin-signed-safe-conduct-president-joseph-biden-one-return-przemysl-rail-pass-24-hour-leave-pass-kiev-covert-mission-fool-new-york-times-london/5810990"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/01/russia-putin-51x46.png" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/president-vladimir-putin-signed-safe-conduct-president-joseph-biden-one-return-przemysl-rail-pass-24-hour-leave-pass-kiev-covert-mission-fool-new-york-times-london/5810990">Putin Signed “Safe Conduct” for Joe Biden, One Return Przemysl Rail Pass, 24-hour Leave Pass for Kiev, in “Covert” Mission to Fool NYT, et al (And It Did)</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/john-helmer" title="Posts by John Helmer">John Helmer</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/pilots-flight-attendants-who-recently-had-cardiac-arrests-in-flight-died-suddenly/5811018"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/f87ac61e-24ac-464c-b829-a766b5dff98d_723x385-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/pilots-flight-attendants-who-recently-had-cardiac-arrests-in-flight-died-suddenly/5811018">Pilots and Flight Attendants Who Recently Had Cardiac Arrests In-flight and “Died Suddenly”…</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/william-makis" title="Posts by Dr. William Makis">Dr. William Makis</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/africa-food-crisis-caused-west/5811020"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2022/05/A-Crisis-food-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/africa-food-crisis-caused-west/5811020">Africa’s Food Crisis Caused by the West. 278 million Africans— One in Five —are Facing Hunger</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/asad-ismi" title="Posts by Asad Ismi">Asad Ismi</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/latest-un-human-rights-council-report-nicaragua/5811041"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2022/02/gabriel_de_jesus_vado_ruiz-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/latest-un-human-rights-council-report-nicaragua/5811041">On the Latest UN Human Rights Council Report on Nicaragua</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/sefton" title="Posts by Stephen Sefton">Stephen Sefton</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/modus-operandi-peruvian-lawfare/5811040"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/01/pedro-castillo-peru-protst-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/modus-operandi-peruvian-lawfare/5811040">Modus Operandi of Peruvian Lawfare</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/miguel-santos-garcia" title="Posts by Miguel Santos García">Miguel Santos García</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/did-serbia-send-weapons-kiev-regime/5811053"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/MLRS-Serbia-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/did-serbia-send-weapons-kiev-regime/5811053">Did Serbia Send Weapons to Kiev Regime?</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/drago-bosnic" title="Posts by Drago Bosnic">Drago Bosnic</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/mike-antivax-grab-bag-memes-blurbs-links/5811048"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/antivaxx-MW-1-600x810-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/mike-antivax-grab-bag-memes-blurbs-links/5811048">Mike Whitney’s Antivax Grab-Bag: Memes, Blurbs and Links</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/mike-whitney" title="Posts by Mike Whitney">Mike Whitney</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/top-us-general-reaffirms-occupation-syria-during-visit/5811064"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2022/05/us-battalion-syria-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/top-us-general-reaffirms-occupation-syria-during-visit/5811064">Top US General Reaffirms Occupation of Syria During Visit</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/the-cradle" title="Posts by The Cradle">The Cradle</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="clearBoth"></div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/fish-killing-mania-australia-war-against-common-carp/5811032"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/carp-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/fish-killing-mania-australia-war-against-common-carp/5811032">Fish Killing Mania: Australia’s War Against the Common Carp</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/binoy-kampmark" title="Posts by Dr. Binoy Kampmark">Dr. Binoy Kampmark</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="article">
+<div class="alignleft"><a href="https://www.globalresearch.ca/east-palestine-containment-dam-overflows/5811067"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2023/03/mass-casualty-incident-after-mas-51x46.jpg" width="51"/></a></div>
+<strong class="title"><a href="https://www.globalresearch.ca/east-palestine-containment-dam-overflows/5811067">East Palestine’s “Containment Dam” Overflows</a></strong>
+<em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/mac-slavo" title="Posts by Mac Slavo">Mac Slavo</a></span>,
+March 06, 2023 </em>
+</div>
+<div class="clearBoth"></div> </div>
+</div>
+<div class="link-holder">
+<span><a href="/latest-news-and-top-stories/">More Articles...</a></span>
+</div>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+  jQuery('ul.accordion li.has-drop-down').each(function(i, item) {
+    if (i != 1) {
+      jQuery(item).removeClass('active');
+      jQuery(item).children('div.slide').slideUp(300);
+    }
+  });
+});
+</script>
+</div>
+</div>
+<div class="main-b"></div>
+</div>
+<div class="notranslate" id="footer">
+<div class="aside">
+<div class="widget_nav_menu leftfooter"><div class="menu-footerleftnav-container"><ul class="menu" id="menu-footerleftnav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5309785" id="menu-item-5309785"><a href="https://www.globalresearch.ca/news">Global Research News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302189" id="menu-item-5302189"><a href="https://www.globalresearch.ca/theme/i-books-series">I-BOOKS SERIES</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302190" id="menu-item-5302190"><a href="https://www.globalresearch.ca/countries-index">Countries Index</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302192" id="menu-item-5302192"><a href="https://www.globalresearch.ca/most-popular">Most Popular</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302193" id="menu-item-5302193"><a href="https://www.globalresearch.ca/links">Links</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302194" id="menu-item-5302194"><a href="https://www.globalresearch.ca/contact-2">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302195" id="menu-item-5302195"><a href="https://store.globalresearch.ca/member/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302196" id="menu-item-5302196"><a href="https://store.globalresearch.ca/">Online Store</a></li>
+</ul></div></div> </div>
+<div class="container">
+<div class="column-wrap">
+<div class="menuHeaders">
+<div class="title1">Themes</div>
+<div class="title2">Geographic Regions</div>
+</div>
+<div class="column widget_nav_menu"><div class="menu-footermenu2-container"><ul class="menu" id="menu-footermenu2"><li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302197" id="menu-item-5302197"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302198" id="menu-item-5302198"><a href="https://www.globalresearch.ca/theme/global-economy">Global Economy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302199" id="menu-item-5302199"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">Crimes against Humanity</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302200" id="menu-item-5302200"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302201" id="menu-item-5302201"><a href="https://www.globalresearch.ca/theme/law-and-justice">Law and Justice</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302202" id="menu-item-5302202"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Police State &amp; Civil Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302203" id="menu-item-5302203"><a href="https://www.globalresearch.ca/theme/culture-society-history">History</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302204" id="menu-item-5302204"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">9/11 &amp; ‘War on Terrorism’</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302205" id="menu-item-5302205"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media Disinformation</a></li>
+</ul></div></div><div class="column widget_nav_menu"><div class="menu-footermenu3-container"><ul class="menu" id="menu-footermenu3"><li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302206" id="menu-item-5302206"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302207" id="menu-item-5302207"><a href="https://www.globalresearch.ca/theme/oil-and-energy">Oil and Energy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302208" id="menu-item-5302208"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Police State &amp; Civil Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302209" id="menu-item-5302209"><a href="https://www.globalresearch.ca/theme/politics-and-religion">Religion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302210" id="menu-item-5302210"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty &amp; Social Inequality</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302211" id="menu-item-5302211"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science and Medicine</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302212" id="menu-item-5302212"><a href="https://www.globalresearch.ca/theme/united-nations">United Nations</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302213" id="menu-item-5302213"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302214" id="menu-item-5302214"><a href="https://www.globalresearch.ca/theme/women-s-rights">Women’s Rights</a></li>
+</ul></div></div> </div>
+<div class="text-container">
+<strong class="footer-logo"><a href="/">GlobalResearch Center for Research on Globalization</a></strong>
+<a class="privacy" href="/privacy-policy/">Privacy Policy</a>
+<span class="copy">Copyright © 2005-2023 <a href="https://www.globalresearch.ca">GlobalResearch.ca</a></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+document.getElementById('NLform').onsubmit = function() {
+  window.location = '/newsletter/';
+}
+</script>
+<script async="" src="https://magnetapi.klangoo.com/w/Widgets_89.js" type="text/javascript"></script>
+<div aria-hidden="true" class="pum pum-overlay pum-theme-5667467 pum-theme-enterprise-blue popmake-overlay pum-overlay-disabled auto_open click_open" data-popmake='{"id":5681503,"slug":"become-member","theme_id":5667467,"cookies":[{"event":"on_popup_close","settings":{"name":"pum-5681503","time":"1 week","path":true}}],"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-5681503"],"delay":"5000"}},{"type":"click_open","settings":{"extra_selectors":"","cookie_name":null}}],"mobile_disabled":null,"tablet_disabled":null,"meta":{"display":{"stackable":"1","overlay_disabled":"1","scrollable_content":false,"disable_reposition":false,"size":"micro","responsive_min_width":"0%","responsive_min_width_unit":false,"responsive_max_width":"100%","responsive_max_width_unit":false,"custom_width":"640px","custom_width_unit":false,"custom_height":"380px","custom_height_unit":false,"custom_height_auto":false,"location":"right bottom","position_from_trigger":false,"position_top":"100","position_left":"0","position_bottom":"100","position_right":"10","position_fixed":"1","animation_type":"fade","animation_speed":"350","animation_origin":"center top","overlay_zindex":false,"zindex":"1999999999"},"close":{"text":"","button_delay":"0","overlay_click":false,"esc_press":false,"f4_press":false},"click_open":[]}}' id="pum-5681503" role="dialog">
+<div class="pum-container popmake theme-5667467 pum-responsive pum-responsive-micro responsive size-micro pum-position-fixed" id="popmake-5681503">
+<div class="pum-content popmake-content">
+<div style="position: absolute;"><a href="https://www.globalresearch.ca/wp-content/uploads/2019/02/logo_def_globe_small.png"><img alt="" class="alignnone size-full wp-image-5605030" height="47" src="https://www.globalresearch.ca/wp-content/uploads/2019/02/logo_def_globe_small.png" width="37"/></a></div>
+<div style="text-align: center;">
+<p style="text-align: center;"><span style="font-family: helvetica, arial, sans-serif; font-size: 14pt; text-align: center;">Become Member of<br/>
+<span style="font-weight: bold;">Global Research<br/>
+</span> Free Books!</span></p>
+<span class="pum-close popmake-close" data-do-default="1"><a href="https://donorbox.org/donate-to-global-research" style="font-family: Helvetica; background-color: #ee5800; color: white; text-decoration: none; display: inline-block; padding: 6px 12px; margin-bottom: 0; margin-top: 10px; font-size: 14px; font-weight: normal; line-height: 1.428571429; text-align: center; white-space: nowrap; vertical-align: middle; cursor: pointer; border: 1px solid transparent; border-radius: 4px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none;" target="_blank">Become a member</a></span>
+</div>
+</div>
+<button aria-label="Close" class="pum-close popmake-close" type="button">
+× </button>
+</div>
+</div>
+<script type="text/javascript">var algolia = {"debug":false,"application_id":"AZ3OVPR0K9","search_api_key":"7147fe690c6831ff61668ea7de6fccda","powered_by_enabled":true,"query":"","autocomplete":{"sources":[],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"searchable_posts":{"name":"gr_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]}}};</script><link href="https://www.globalresearch.ca/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=3.20.3" id="metaslider-flex-slider-css" media="all" property="stylesheet" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.20.3" id="metaslider-public-css" media="all" property="stylesheet" rel="stylesheet" type="text/css"/>
+<script src="https://www.globalresearch.ca/wp-content/plugins/dk-pdf/assets/js/frontend.js?ver=1.9.6" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202310" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.7.30","ajaxurl":"https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.globalresearch.ca\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"5667465","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php";
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker: Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit https:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_event":"Event: %s","triggers":{"click_open":"Click Open","auto_open":"Time Delay \/ Auto Open"},"cookies":{"on_popup_close":"On Popup Close","on_popup_open":"On Popup Open","pum_sub_form_success":"Subscription Form: Successful","pum_sub_form_already_subscribed":"Subscription Form: Already Subscribed","manual":"Manual JavaScript"}};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-5681503":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-5681503"],"delay":"5000"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-5681503","time":"1 week","path":true}}],"theme_id":"5667467","size":"micro","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","location":"right bottom","position_top":"100","position_bottom":"100","position_left":"0","position_right":"10","zindex":"1999999999","close_button_delay":"0","id":5681503,"slug":"become-member"}};
+/* ]]> */
+</script>
+<script src="//www.globalresearch.ca/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1598646263&amp;ver=1.7.30" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/wp-embed.min.js?ver=4.7.25" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.20.3" type="text/javascript"></script>
+<script type="text/javascript">
+var metaslider_5740873 = function($) {$('#metaslider_5740873').addClass('flexslider');
+            $('#metaslider_5740873').flexslider({ 
+                slideshowSpeed:7000,
+                animation:"slide",
+                controlNav:false,
+                directionNav:true,
+                pauseOnHover:true,
+                direction:"horizontal",
+                reverse:false,
+                animationSpeed:600,
+                prevText:"Previous",
+                nextText:"Next",
+                fadeFirstSlide:true,
+                easing:"linear",
+                slideshow:true
+            });
+            $(document).trigger('metaslider/initialized', '#metaslider_5740873');
+        };
+        var timer_metaslider_5740873 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_5740873, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_5740873, 1) : metaslider_5740873(window.jQuery);
+        };
+        timer_metaslider_5740873();
+var metaslider_5740881 = function($) {$('#metaslider_5740881').addClass('flexslider');
+            $('#metaslider_5740881').flexslider({ 
+                slideshowSpeed:8000,
+                animation:"slide",
+                controlNav:false,
+                directionNav:true,
+                pauseOnHover:true,
+                direction:"horizontal",
+                reverse:false,
+                animationSpeed:600,
+                prevText:"Previous",
+                nextText:"Next",
+                fadeFirstSlide:true,
+                easing:"linear",
+                slideshow:true
+            });
+            $(document).trigger('metaslider/initialized', '#metaslider_5740881');
+        };
+        var timer_metaslider_5740881 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_5740881, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_5740881, 1) : metaslider_5740881(window.jQuery);
+        };
+        timer_metaslider_5740881();
+var metaslider_5766598 = function($) {$('#metaslider_5766598').addClass('flexslider');
+            $('#metaslider_5766598').flexslider({ 
+                slideshowSpeed:5000,
+                animation:"slide",
+                controlNav:false,
+                directionNav:true,
+                pauseOnHover:true,
+                direction:"horizontal",
+                reverse:false,
+                animationSpeed:600,
+                prevText:"Previous",
+                nextText:"Next",
+                fadeFirstSlide:true,
+                easing:"linear",
+                slideshow:true
+            });
+            $(document).trigger('metaslider/initialized', '#metaslider_5766598');
+        };
+        var timer_metaslider_5766598 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_5766598, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_5766598, 1) : metaslider_5766598(window.jQuery);
+        };
+        timer_metaslider_5766598();
+var metaslider_5752339 = function($) {$('#metaslider_5752339').addClass('flexslider');
+            $('#metaslider_5752339').flexslider({ 
+                slideshowSpeed:7000,
+                animation:"slide",
+                controlNav:false,
+                directionNav:true,
+                pauseOnHover:true,
+                direction:"horizontal",
+                reverse:false,
+                animationSpeed:600,
+                prevText:"Previous",
+                nextText:"Next",
+                fadeFirstSlide:true,
+                easing:"linear",
+                slideshow:true
+            });
+            $(document).trigger('metaslider/initialized', '#metaslider_5752339');
+        };
+        var timer_metaslider_5752339 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_5752339, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_5752339, 1) : metaslider_5752339(window.jQuery);
+        };
+        timer_metaslider_5752339();
+</script>
+<script src="https://www.globalresearch.ca/wp-content/plugins/ml-slider/assets/easing/jQuery.easing.min.js?ver=3.20.3" type="text/javascript"></script>
+<script async="" defer="" src="https://stats.wp.com/e-202310.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.1',blog:'37090175',post:'202001',tz:'0',srv:'www.globalresearch.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '37090175', '202001' ]);
+</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7a504357bb19392b',m:'jhLd2ZJdlGXKfIaE8Eu2SusHtB5HUtSqFKOXE31e6d4-1678332875-0-AWgIb+M/w4jRMkZ9lZw/+ZUP0ongsXr7GmgpKxt2CyjbWgw9VCo6fmT44Z0iGdNJZTUnwxkT0JmUiycrmvjC5ztS+nY09mZDnGK0zLdPzdroG/uhCgZqpAnTTOqigeMFdQ==',s:[0x807fc19d5f,0x370e61ec47],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

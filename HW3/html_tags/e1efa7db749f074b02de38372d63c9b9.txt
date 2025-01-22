@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<!-- The above 2 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<link href="//img.paper.li" rel="dns-prefetch"/>
+<link href="//d38hokjm2drjyk.cloudfront.net" rel="dns-prefetch"/>
+<link href="//connect.facebook.net" rel="dns-prefetch"/>
+<link href="//www.googletagmanager.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//platform.twitter.com" rel="dns-prefetch"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<script>
+  "seo ignore"; // seo hint;
+  window.dataLayer = window.dataLayer || [];
+  
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHR7NJ');</script>
+<!-- End Google Tag Manager -->
+<title>Richard Harrington collected this story</title>
+<!-- empty og -->
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<link href="//d2k854fi3lpqb8.cloudfront.net/assets/bundle-snip-e475a746ffb60c287d6d.css" media="screen" rel="stylesheet">
+<script>
+    window.paperli = {
+      host: 'paper.li',
+      locale: 'en',
+      logged_in: false,
+      imageproxy_token: {"tokenValidity":"1678333421794","token":"fa16268ea373424e2bdefb4a4b0c52bf60e4ce72"},
+      images_host: "d38hokjm2drjyk.cloudfront.net",
+      url: 'https://www.activistpost.com/2021/11/i-was-fired-from-my-teaching-job-for-refusing-to-get-vaccinated-heres-how-i-prepared.html',
+      articles_cta: {"pro":false,"link":"https://paper.li/f-1590312797","publisher":{"name":"Richard Harrington","avatar_url":"https://res.cloudinary.com/finity/image/upload/v1607121493/paperli/kbadpmqle6qptgmc7ikw.jpg"}},
+      favicon_url: 'https://www.activistpost.com/wp-content/uploads/2018/04/cropped-icon-32x32.jpg',
+      runtimePublicPath: '//d2k854fi3lpqb8.cloudfront.net/assets/'
+    };
+  </script>
+<!-- vendor plugins -->
+<script src="//d2k854fi3lpqb8.cloudfront.net/assets/vendor-a3ef76470afd62df5be26f9079137e40f8dfc6837fa28324c227f7c0027a5e0a.js"></script>
+<!-- language -->
+<script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/paper-view/en-7344aca94596a3c341d8083c1801d1e5ed291a343f5f32b3efc6dde239d2752a.js"></script>
+<script src="//d2k854fi3lpqb8.cloudfront.net/assets/i18n/i18n-6c1e1a8371dc0aa8883a1284d50f162e09519e9f8544127c6dfd09103397f43a.js"></script>
+<script>
+  if (!window.paperli) {
+    window.paperli = {};
+  }
+
+  paperli.origin_data = {
+    identifier: 'paper.li:main',
+    kiosk: false,
+    paper_on_domain_alias: false,
+    assets_host: 'd2k854fi3lpqb8.cloudfront.net',
+    payable: true
+  };
+
+
+  if (!paperli.conf) {
+    paperli.conf = {};
+  }
+  paperli.conf.ui_options = null;
+</script>
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nx8si');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+<script>
+  "seo ignore"; // seo hint;
+  
+  var _ga = _ga || {};
+  
+  _ga.getSocialActionTrackers_ = function(socialNetwork, socialAction, socialTarget) {
+    return function() {
+      var trackers = ga.getAll();
+      for (var i = 0, tracker; tracker = trackers[i]; i++) {
+        tracker.send('social', socialNetwork, socialAction, socialTarget);
+      }
+    };
+  };
+  
+  _ga.trackFacebook = function() {
+    try {
+      if (FB && FB.Event && FB.Event.subscribe) {
+        FB.Event.subscribe('edge.create', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'like', targetUrl));
+        });
+        FB.Event.subscribe('edge.remove', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'unlike', targetUrl));
+        });
+        FB.Event.subscribe('message.send', function(targetUrl) {
+          ga(_ga.getSocialActionTrackers_('facebook', 'send', targetUrl));
+        });
+      }
+    } catch (e) {}
+  };
+  
+  
+  _ga.trackTwitterHandler_ = function(intent_event) {
+    var targetUrl = ''; // must be present
+    if (intent_event && intent_event.type == 'tweet' || intent_event.type == 'click') {
+      if (intent_event.target.nodeName == 'IFRAME') {
+        targetUrl = _ga.extractParamFromUri_(intent_event.target.src, 'url');
+      }
+      var socialAction = intent_event.type + ((intent_event.type == 'click') ? '-' + intent_event.region : ''); //append the type of click to action
+      ga(_ga.getSocialActionTrackers_('twitter', socialAction, targetUrl));
+    }
+  };
+  
+  _ga.trackTwitter = function() {
+    intent_handler = function(intent_event) {
+      _ga.trackTwitterHandler_(intent_event);
+    };
+  
+    //bind twitter Click and Tweet events to Twitter tracking handler
+    twttr.events.bind('click', intent_handler);
+    twttr.events.bind('tweet', intent_handler);
+  };
+  
+  
+  _ga.extractParamFromUri_ = function(uri, paramName) {
+    if (!uri) {
+      return;
+    }
+    var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+    var params = regex.exec(uri);
+    if (params != null) {
+      return unescape(params[1]);
+    }
+    return;
+  };    
+</script>
+</link></head>
+<body class="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-WHR7NJ" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="fb-root"></div>
+<script>
+  window.FBAppId = '362293833600'; // set app id so can be reused in cloudinary
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '362293833600',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v12.0'
+    });
+
+    // Additional initialization code here
+    $(document).trigger('fb.init');
+
+    _ga.trackFacebook(); // Google Analytics tracking
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- Main content -->
+<div id="app"></div>
+<script src="//d2k854fi3lpqb8.cloudfront.net/assets/bundle-snip-3f05f6cf37cc1e0c08d6.js"></script>
+<script type="text/javascript">
+        paperli.reCaptcha = '6LdWYOIUAAAAAAlxx41rd4v9-0iFllIcogHeXjDg';
+      </script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LdWYOIUAAAAAAlxx41rd4v9-0iFllIcogHeXjDg"></script>
+</body>
+</html>

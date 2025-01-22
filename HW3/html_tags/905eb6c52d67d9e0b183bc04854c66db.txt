@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+<meta charset="utf-8"/>
+<link href="https://www.ukcolumn.org/article/what-explains-rising-cases-among-the-vaccinated" rel="canonical"/>
+<meta content="Developing evidence suggests that an intrinsic component of the innate immune system, tasked with recognising and activating the immune system to respond to bacteria and viruses, may be altered after vaccination." name="description"/>
+<meta content="UKColumn" property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.ukcolumn.org/article/what-explains-rising-cases-among-the-vaccinated" property="og:url"/>
+<meta content="What Explains Rising Cases Among the Vaccinated?" property="og:title"/>
+<meta content="Developing evidence suggests that an intrinsic component of the innate immune system, tasked with recognising and activating the immune system to respond to bacteria and viruses, may be altered after vaccination." property="og:description"/>
+<meta content="https://www.ukcolumn.org/sites/default/files/2021-10/genetic-jigsaw.jpg" property="og:image"/>
+<meta content="Dr Mike Williams" property="article:author"/>
+<meta content="UKColumn" property="article:publisher"/>
+<meta content="2021-10-30T11:57:45+01:00" property="article:published_time"/>
+<meta content="2021-10-30T12:55:14+01:00" property="article:modified_time"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Developing evidence suggests that an intrinsic component of the innate immune system, tasked with recognising and activating the immune system to respond to bacteria and viruses, may be altered after vaccination." name="twitter:description"/>
+<meta content="What Explains Rising Cases Among the Vaccinated?" name="twitter:title"/>
+<meta content="https://www.ukcolumn.org/sites/default/files/2021-10/genetic-jigsaw.jpg" name="twitter:image"/>
+<script async="" data-domain="www.ukcolumn.org" defer="" src="https://plausible.io/js/plausible.js"></script>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+<link href="/themes/custom/ukc_theme/ukc-logo-sm-sq.png" rel="icon" type="image/png"/>
+<title>What Explains Rising Cases Among the Vaccinated? | UKColumn</title>
+<link href="/sites/default/files/css/css_gMlKkvgAWH3iSTzM-GlvROYcGqSlEcMzX8pmJwYn5Og.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_Q4XKT19k6ADirkBzqVqcUeu2Wh5t0eayHimnGbMT4jk.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_hjFttaY50UR2V33E7zMsMr66nbCDiFQUnTnnSjS4Ufw.css" media="print" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&amp;family=Open+Sans:wght@400;600;700&amp;family=Playfair+Display:wght@400;600;700&amp;family=Roboto+Slab&amp;display=swap" media="all" rel="stylesheet"/>
+</head>
+<body class="path-node page-node-type-article sidebar-right fixed-width">
+<a class="visually-hidden focusable skip-link" href="#main-content">
+Skip to main content
+</a>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<aside class="mdc-drawer mdc-drawer--modal">
+<div class="mdc-drawer__content">
+<nav aria-labelledby="block-mainnavigation-menu" class="block block-menu navigation menu--main" id="block-mainnavigation" role="navigation">
+<h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a data-drupal-link-system-path="&lt;front&gt;" href="/"> <span>Home</span>
+</a>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Video</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2181" href="/ukcolumn-news-archive"> <span>UK Column News Archive</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3300" href="/series/uk-column-interviews"> <span>UK Column Interviews</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2186" href="/insight"> <span>Insight</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2524" href="/series/david-ellis-report"> <span>David Ellis Report</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a data-drupal-link-system-path="node/2301" href="/audio-podcasts"> <span>Podcasts</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution"> <span>A Dissident's Guide to the Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree"> <span>Deconstructing the Magic Money Tree</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2147" href="/series/dispatches-from-the-front"> <span>Dispatches from the Front</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Sections</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2196" href="/northern-exposure"> <span>Northern Exposure</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2151" href="/series/eu-military-unification"> <span>European Defence Union</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2195" href="/censored"> <span>Censored</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2343" href="/series/the-whistleblowers"> <span>The Whistleblowers</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Topics</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2176" href="/topic/coronavirus"> <span>Coronavirus</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2175" href="/topic/brexit"> <span>Brexit</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2166" href="/topic/children-education"> <span>Children &amp; Education</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2161" href="/topic/constitution"> <span>Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2163" href="/topic/defence"> <span>Defence</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2158" href="/topic/economy"> <span>Economy</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2167" href="/topic/environment"> <span>Environment</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2884" href="/topic/faith"> <span>Faith</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2164" href="/topic/health"> <span>Health</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2174" href="/topic/international"> <span>International</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2160" href="/topic/justice"> <span>Justice</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2168" href="/topic/media"> <span>Media</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2994" href="/topic/mind"> <span>Mind</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2157" href="/topic/politics"> <span>Politics</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2169" href="/topic/science"> <span>Science</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2170" href="/topic/technology"> <span>Technology</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Series</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution"> <span>A Dissident's Guide to the Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2571" href="/series/doctors-for-covid-ethics"> <span>Doctors for Covid Ethics</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2144" href="/series/common-purpose-effect"> <span>The Common Purpose Effect</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2138" href="/series/one-world-governance"> <span>One World Governance</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2154" href="/series/global-citizen-movement"> <span>Global Citizen Movement</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2153" href="/series/integrity-initiative"> <span>Integrity Initiative</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2150" href="/series/fake-news"> <span>Fake News</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2137" href="/series/leveson-inquiry"> <span>Leveson Inquiry</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2140" href="/series/oxford-cherwell-valley-college"> <span>Oxford &amp; Cherwell Valley College</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2127" href="/series/weekly-nudge"> <span>The Weekly Nudge</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2152" href="/series/white-helmets"> <span>The White Helmets</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree"> <span>Deconstructing the Magic Money Tree</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2858" href="/series/dying-for-good-health"> <span>Dying for Good Health</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2857" href="/series/no-smoke-without-fire"> <span>No Smoke Without Fire</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2887" href="/series/the-third-degree"> <span>The Third Degree</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-header-2-menu" class="block block-menu navigation menu--header" id="block-header-2" role="navigation">
+<h2 class="visually-hidden" id="block-header-2-menu">Header</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/695" href="/about-uk-column"> <span>About</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2180" href="/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3819" href="/careers"> <span>Careers</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/698" href="/donate"> <span>Donate</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://community.ukcolumn.org/"> <span>Community Website</span>
+</a>
+</li>
+</ul>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1-3">
+<div class="inner">
+<form accept-charset="UTF-8" action="/search" id="views-exposed-form-search-page-1" method="get" region="overlay">
+<div class="form--inline clearfix">
+<div class="form-item form-type-textfield form-item-keywords">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Keyword(s)</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-keywords" id="edit-keywords" maxlength="128" name="keywords" size="30" type="text" value=""/>
+</label>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"> <button class="button js-form-submit form-submit mdc-button mdc-button--unelevated mdc-button mdc-button--outlined" data-drupal-selector="edit-submit-search" id="edit-submit-search" type="submit" value="Search"></button>
+<div class="inner">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Search</span>
+</div>
+
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-menu-trigger-close">
+<button class="mdc-icon-button" id="close-overlay">
+<span class="far fa-times"></span>
+<span class="visually-hidden">Close</span>
+</button>
+</div>
+</aside>
+<div class="mdc-drawer-scrim"></div>
+<div class="layout-container">
+<header class="layout-header" role="banner">
+<div class="region region-top">
+<div class="inner">
+<nav aria-labelledby="block-social-menu" class="block block-menu navigation menu--social" id="block-social" role="navigation">
+<h2 class="visually-hidden" id="block-social-menu">Social</h2>
+<ul class="menu" region="top">
+<li class="menu-item">
+<a class="fab fa-facebook-f" href="https://facebook.com/ukcolumn" target="_blank"> <span>Facebook</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-telegram" href="https://t.me/ukcolumn" target="_self"> <span>Telegram</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-twitter" href="https://twitter.com/ukcolumn" target="_blank"> <span>Twitter</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-itunes" href="https://podcasts.apple.com/gb/podcast/uk-column-podcasts/id1008807223" target="_blank"> <span>iTunes</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-soundcloud" href="https://soundcloud.com/ukcolumn" target="_blank"> <span>Soundcloud</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fas fa-rss" data-drupal-link-system-path="rss.xml" href="/rss.xml"> <span>RSS</span>
+</a>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-header-menu" class="block block-menu navigation menu--header" id="block-header" role="navigation">
+<h2 class="visually-hidden" id="block-header-menu">Header</h2>
+<ul class="menu" region="top">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/695" href="/about-uk-column"> <span>About</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2180" href="/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3819" href="/careers"> <span>Careers</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/698" href="/donate"> <span>Donate</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://community.ukcolumn.org/"> <span>Community Website</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="region region-header">
+<div class="inner">
+<div class="block block-system block-system-branding-block" id="block-ukc-theme-sitebranding">
+<div class="inner">
+<a class="site-logo" href="/" rel="home">
+<img alt="Home" src="/themes/custom/ukc_theme/logo.png"/>
+</a>
+</div>
+</div>
+<nav aria-labelledby="block-main-navigation-header-menu" class="block block-menu navigation menu--main" id="block-main-navigation-header" role="navigation">
+<h2 class="visually-hidden" id="block-main-navigation-header-menu">Main navigation</h2>
+<ul class="menu" region="header">
+<li class="menu-item">
+<a data-drupal-link-system-path="&lt;front&gt;" href="/">Home</a>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Video</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2181" href="/ukcolumn-news-archive">UK Column News Archive</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3300" href="/series/uk-column-interviews">UK Column Interviews</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2186" href="/insight">Insight</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2524" href="/series/david-ellis-report">David Ellis Report</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a data-drupal-link-system-path="node/2301" href="/audio-podcasts">Podcasts</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution">A Dissident's Guide to the Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree">Deconstructing the Magic Money Tree</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2147" href="/series/dispatches-from-the-front">Dispatches from the Front</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Sections</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2196" href="/northern-exposure">Northern Exposure</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2151" href="/series/eu-military-unification">European Defence Union</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2195" href="/censored">Censored</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2343" href="/series/the-whistleblowers">The Whistleblowers</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Topics</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2176" href="/topic/coronavirus">Coronavirus</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2175" href="/topic/brexit">Brexit</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2166" href="/topic/children-education">Children &amp; Education</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2161" href="/topic/constitution">Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2163" href="/topic/defence">Defence</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2158" href="/topic/economy">Economy</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2167" href="/topic/environment">Environment</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2884" href="/topic/faith">Faith</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2164" href="/topic/health">Health</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2174" href="/topic/international">International</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2160" href="/topic/justice">Justice</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2168" href="/topic/media">Media</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2994" href="/topic/mind">Mind</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2157" href="/topic/politics">Politics</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2169" href="/topic/science">Science</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2170" href="/topic/technology">Technology</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Series</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution">A Dissident's Guide to the Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2571" href="/series/doctors-for-covid-ethics">Doctors for Covid Ethics</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2144" href="/series/common-purpose-effect">The Common Purpose Effect</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2138" href="/series/one-world-governance">One World Governance</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2154" href="/series/global-citizen-movement">Global Citizen Movement</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2153" href="/series/integrity-initiative">Integrity Initiative</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2150" href="/series/fake-news">Fake News</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2137" href="/series/leveson-inquiry">Leveson Inquiry</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2140" href="/series/oxford-cherwell-valley-college">Oxford &amp; Cherwell Valley College</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2127" href="/series/weekly-nudge">The Weekly Nudge</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2152" href="/series/white-helmets">The White Helmets</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree">Deconstructing the Magic Money Tree</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2858" href="/series/dying-for-good-health">Dying for Good Health</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2857" href="/series/no-smoke-without-fire">No Smoke Without Fire</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2887" href="/series/the-third-degree">The Third Degree</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1">
+<div class="inner">
+<form accept-charset="UTF-8" action="/search" id="views-exposed-form-search-page-1" method="get" region="header">
+<div class="form--inline clearfix">
+<div class="form-item form-type-textfield form-item-keywords">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Keyword(s)</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-keywords" id="edit-keywords--2" maxlength="128" name="keywords" size="30" type="text" value=""/>
+</label>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--2"> <button class="button js-form-submit form-submit mdc-button mdc-button--unelevated mdc-button mdc-button--outlined" data-drupal-selector="edit-submit-search-2" id="edit-submit-search--2" type="submit" value="Search"></button>
+<div class="inner">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Search</span>
+</div>
+
+</div>
+</div>
+</form>
+</div>
+</div>
+<button class="mdc-icon-button search-trigger">
+<span class="far fa-search"></span>
+<span class="far fa-times"></span>
+<span class="visually-hidden">Search</span>
+</button>
+<div class="modal-menu-trigger">
+<span class="visually-hidden">Menu</span>
+<button class="mdc-icon-button">
+<span class="far fa-bars"></span>
+<span class="visually-hidden">Open</span>
+</button>
+</div>
+</div>
+</div>
+</header>
+<main class="layout-main" role="main">
+<div class="inner">
+<a id="main-content" tabindex="-1"></a>
+<div class="field--name-field-section">
+<a href="/topic/coronavirus">Coronavirus</a>
+</div>
+<div class="region region-content-above">
+<div class="inner">
+<div class="hidden" data-drupal-messages-fallback=""></div>
+<div class="block block-core block-page-title-block" id="block-ukc-theme-page-title">
+<div class="inner">
+<h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">What Explains Rising Cases Among the Vaccinated?</span>
+</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="layout-main--wrapper">
+<div class="region region-content">
+<div class="inner">
+<div class="block block-system block-system-main-block" id="block-ukc-theme-content">
+<div class="inner">
+<article about="/article/what-explains-rising-cases-among-the-vaccinated" class="node node--type-article node--promoted node--view-mode-full" role="article" typeof="schema:Article">
+<div class="node__content">
+<img alt="" class="image-style-featured-image" height="520" src="/sites/default/files/styles/featured_image/public/2021-10/genetic-jigsaw.jpg?h=7947b596&amp;itok=hOQdrlyv" typeof="foaf:Image" width="980"/>
+<footer class="node__meta">
+<div class="node__submitted">
+<div class="author">
+by
+<div class="field field--name-field-author field--type-entity-reference field__items">
+<a href="/writer/dr-mike-williams" hreflang="en">Dr Mike Williams</a>
+</div>
+</div>
+<div class="authored">
+Saturday, 30th October 2021
+</div>
+</div>
+</footer>
+<div class="paragraph paragraph--type--text-block paragraph--view-mode--default">
+<div class="clearfix text-formatted field field--name-field-body"><p>In a prior article, this author has covered how <a href="https://www.ukcolumn.org/article/stabilising-the-code">mRNA Covid vaccine has been demonstrated to alter the function of toll-like receptors (TLRs)</a>. It was hypothesised that the functional change may be connected to anecdotal reports of both an increase and change in cancer presentation. In addition, because of the importance of TLRs in recognising foreign invaders in the body, including viruses, those changes may lead to an increased risk of infection, including SARS-CoV-2, and may hamper the safe resolution of said infection.</p>
+<p>This article will introduce to the reader the concept of <em>Innate Trained immunity (ITM)</em>, and speculate how this may be playing an important but generally unrecognised part in the battle against Covid-19. By drawing on current infection data; vaccine-induced alteration of TLR function; and ITM, we will tentatively expand the original hypothesis.</p>
+<h3>Innate Trained Immunity</h3>
+<p>For a significant time, the fundamental understanding of the immune system separated it into two broad categories: Innate &amp; Adaptive. The innate part was usually first in to the battle against infection but was considered non-specific, in that it did not possess a specific memory of the foreign invader. It had not adapted to it, and was more of a blunt instrument, albeit effective. Innate immunity can clear infection without inducing long-lived <em>adaptive immunity</em> antibodies</p>
+<p>On the other hand, the adaptive immune system, takes a while longer to respond and learn how to specifically and more efficiently deal with the invader, generating highly specific memory antibodies.</p>
+<p><a href="https://www.ncbi.nlm.nih.gov/books/NBK279396/">Vaccination aims to stimulate that adaptive response</a> so that if you become infected, the immune system will be primed to specifically deal with it:</p>
+<blockquote>
+<p>However, there are problems with vaccination in this context, as adaptive, specific antibodies out compete the broader (less specific) antibodies deployed in the innate response to infection. Which, of course, is the intention of being vaccinated: so that a more specific antibody response can more effectively deal with the infection. So why is it a problem? If the virus you have been vaccinated against, significantly changes, then the specific adaptive antibodies generated to fit that virus by the vaccine, may not recognise it as well as before, and fail to neutralise it. In addition, the broader innate response, that may have been able to deal with the changed virus, is crowded out by the adaptive response, leaving you vulnerable to significant infection.</p>
+</blockquote>
+<p>The innate and adaptive arms of the immune system interact, in reality, in complex ways and both need to function optimally in order that we remain healthy and free of disease.</p>
+<p>More recently, the view that components of the innate immune system did not possess adaptive functions <a href="https://www.nature.com/articles/s41577-020-0285-6#ref-CR4">has changed</a> and, <a href="https://www.nature.com/articles/s41577-020-0285-6#ref-CR5">indeed,</a> <a href="https://www.nature.com/articles/s41577-020-0285-6#ref-CR7">there</a> is an <a href="https://www.nature.com/articles/s41577-020-0285-6#ref-CR6">adaptive</a> <a href="https://www.nature.com/articles/s41577-020-0285-6#ref-CR8">function</a>. That is important because it may indicate that a potentially lethal flaw in our immune system – that the adaptive immune system can out compete the innate immune system, and leave us vulnerable to viral adaption - may be mitigated.</p>
+<h3>The mechanics</h3>
+<p>How does the innate immune system generate adaptive immunity? One word - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2791696/">Epigenetics</a>:</p>
+<blockquote>
+<p>Conrad Waddington introduced the term <em>epigenetics</em> in the early 1940s.<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2791696/#R1">[1]</a> He defined epigenetics as ‘‘the branch of biology which studies the causal interactions between genes and their products which bring the phenotype into being.’’<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2791696/#R2">[2]</a> In the original sense of this definition, epigenetics referred to all molecular pathways modulating the expression of a genotype into a particular phenotype. Over the following years, with the rapid growth of genetics, the meaning of the word has gradually narrowed. Epigenetics has been defined and today is generally accepted as ‘‘the study of changes in gene function that are mitotically and/or meiotically heritable and that do not entail a change in DNA sequence.’’<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2791696/#R3">[3]</a> The epigenetic modifications described in current literature generally comprise histone variants, posttranslational modifications of amino acids on the amino-terminal tail of histones, and covalent modifications of DNA bases.</p>
+</blockquote>
+<p>Simply put: Epigenetics is the study of control mechanisms of genes, that are inherited from one generation to the next. Of note, Epigenetics specifically references inherited <strong>control mechanisms </strong>that <strong>alter the expression of genes</strong>, and not inherited genes.</p>
+<p>This is an important distinction and describes a vital process, without which, the Human Race would not have survived. For example, if a tribe moved from a very hot climate to a very cold climate, and they relied solely on their genes to adapt, it may take generations for the most efficient genes to aid survival to be selected. Too late for the tribe. But if the control mechanisms could up-regulate certain genes and down regulate others to find the best adaptive fit, quickly, then survival is better assured.</p>
+<p><a href="https://academic.oup.com/icb/article-abstract/60/6/1469/5848649?redirectedFrom=fulltext">Epigenetics represents a widely accepted set of mechanisms</a>:</p>
+<blockquote>
+<p>… by which organisms respond to the environment by regulating phenotypic plasticity and life history transitions. Understanding the effects of environmental control on phenotypes and fitness, via epigenetic mechanisms, is essential for understanding the ability of organisms to rapidly adapt to environmental change.<em> </em></p>
+</blockquote>
+<p>One of the earliest indications of epigenetic changes, was work done on <a href="http://www.sci-news.com/genetics/neanderthals-woolly-mammoths-cold-adaptation-genes-07078.html">Woolly Mammoths and Neanderthals</a>:</p>
+<blockquote>
+<p>Professor Barkai and his colleague, Meidad Kislev, analyzed three case studies in order to examine the possible existence of molecular resemblance in the adaptation processes of Neanderthals and woolly mammoths …</p>
+<p>“Our observations present the likelihood of resemblance between numerous molecular variants that resulted in similar cold-adapted epigenetic traits of two species, both of which evolved in Eurasia from an African ancestor,” Kislev said.</p>
+</blockquote>
+<p>Would it not be a logical conclusion, therefore, that the immune system also possessed an ability to adapt epigenetically – even the innate immune system?</p>
+<p>Dr Mihai G. Netea writes in <strong><a href="https://www.nature.com/articles/s41577-021-00605-z.pdf">The epigenetic ghost of infections past</a>:</strong></p>
+<blockquote>
+<p>In the past decade, work from our group and of many colleagues showed that epigenetic reprogramming of innate immune cells and their progenitors is the molecular basis of trained immunity. Histone acetylation and methylation modulates chromatin accessibility and transcription efficiency in trained myeloid cells and natural killer cells (Saeed et al., 2014; Sun et al., 2009), whereas long non-coding RNAs function as transporters of histone methyltransferases within a topologically associated domain. Metabolic rewiring in the cell ensures provision of the substrates for these reactions, and various metabolites of the Krebs cycle function as modulators of the epigenetic processes. These effects have now been demonstrated in myeloid cells in the blood and tissues, as well as in haematopoietic stem cell progenitors in the bone marrow. The field of trained immunity is young and much remains to be learnt.</p>
+</blockquote>
+<p>Important genetic control mechanisms such as methylation and acetylation are rapidly reprogramming how our genes are expressed, in order to adapt them to the current infectious environment. Just like they did for our ancestors.</p>
+<p>Lau et al in <strong><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6225771/">Epigenetic control of innate and adaptive immune memory</a></strong> demonstrate the effects of those epigenetic controls:</p>
+<blockquote>
+<p>Clonal expansion and immunological memory are hallmark features of the mammalian adaptive immune response and essential for prolonged host control of pathogens. Recent work demonstrates that natural killer (NK) cells of the innate immune system also exhibit these adaptive traits during infection …</p>
+<p>Overall, our study reveals the dynamic nature of epigenetic modifications during the generation of innate and adaptive lymphocyte memory.</p>
+</blockquote>
+<h3>Current data</h3>
+<p>Presently, we have plausible biological, epigenetic mechanisms that support an expanded view of the immune response in general and innate immunity, specifically. But what of current data?</p>
+<p>Below is a graph depicting the relative risk reduction of Covid-19 cases between the vaccinated and unvaccinated. It is based on English data including vaccine uptake in the population:</p>
+<div class="align-center">
+<img alt="Fig 1. Percentage Relative Risk Reduction In Vaccinated versus Unvaccinated Per Percentage Vaccine Uptake." class="image-style-max-1300x1300" height="767" src="/sites/default/files/styles/max_1300x1300/public/2021-10/england-percent-covid19-cases-for-vaccinated.jpg?itok=bDOv05O2" typeof="foaf:Image" width="1300"/><div class="field field--name-field-caption">Fig 1. Percentage Relative Risk Reduction In Vaccinated versus Unvaccinated Per Percentage Vaccine Uptake.</div>
+</div>
+<p><em>The yellow trendline with a high R2 demonstrates that the higher the percentage of vaccine uptake, the less protection one has against acquiring Covid-19. From left to right also reflects younger to older cases, a consequence of vaccine roll-out reflecting older age groups being vaccinated first. The graph was generated from age-stratified data comparing the risk of Covid-19 between the vaccinated and unvaccinated. So, as we move from left to right, the vaccinated are at higher risk of infection and Covid-19 compared to the unvaccinated. </em></p>
+<p><strong>The graph shows that as more of the population is vaccinated (green arrow), the vaccinated are protected less and are at greater risk of infection compared to the unvaccinated (red arrow)</strong></p>
+<p>One explanation that may arise to explain the decreasing trend-line (yellow) is age. As the increase in vaccine uptake from left to right would reflect the vaccine roll-out: older first; younger last. But each plot reflects stratified age data: vaccinated and unvaccinated matched by age groups. So, as vaccine uptake increased (and presumably the longer one had been vaccinated) the <strong>risk of infection and being a Covid-19 case also increased, compared to the unvaccinated.</strong></p>
+<p>Another reason for the difference between vaccinated and unvaccinated may be waning antibodies. Although waning antibody protection after vaccination does contribute to the poor results of the vaccinated, it doesn’t explain them completely.</p>
+<p>If it was just waning antibodies, then the graph plots would show a levelling-off of risk between the vaccinated and unvaccinated; it wouldn’t show an increased risk for the vaccinated. Something else is happening here.</p>
+<h3>Pattern Recognition</h3>
+<p>From a <a href="https://www.ukcolumn.org/article/stabilising-the-code">prior article</a> we discussed how toll-like receptors detect foreign pathogens, raise the alarm and activate the innate immune system. We also noted that a <a href="https://www.medrxiv.org/content/10.1101/2021.05.03.21256520v1.full.pdf">key paper by Dominguez-Andres et al</a> demonstrated that:</p>
+<blockquote>
+<p><strong>The response of innate immune cells to TLR4 and TLR7/8 ligands was lower after BNT162b2 [Pfizer mRNA] vaccination’ … </strong></p>
+<p><strong>This may hamper the initial innate immune response against the virus</strong>, as defects in TLR7 have been shown to result in and increased susceptibility to COVID-19 in young males (Van Der Made et al., 2020). <strong>These results collectively demonstrate that the effects of the BNT162b2 vaccine go beyond the adaptive immune system and can also modulate innate immune responses.</strong> [Emphasis added].</p>
+</blockquote>
+<p>That being the case, are we seeing it play out in current Covid-19 data? We term that negative hampering of TLRs, <em>Immune Tolerance;</em> the opposite of adaptive <em>trained immunity.</em></p>
+<p>On the other hand we know from published literature that naturally infected and recovered <a href="https://www.nature.com/articles/s41556-021-00689-8">Covid-19 case are showing trained innate immunity</a>.</p>
+<p><em>Interestingly, recovery from the infection is accompanied by long-term transcriptional, epigenetic and functional rewiring of monocytes (also called trained immunity), inducing changes in the innate immune responses after COVID-19.</em></p>
+<p>Could it be that the unvaccinated are benefiting from trained immunity and the vaccinated are being hampered with immune tolerance? And is that sufficient to change the course of disease in the vaccinated versus unvaccinated populations?</p>
+<h3>Mortality</h3>
+<p>One of the confusing problems with the data was the apparent decreased mortality rate of the vaccinated, whilst the infection rates seemed to be moving in the opposite direction. Alarming suggestions of Marek’s disease aside, it just didn’t make sense.</p>
+<p>However, this recent <a href="http://www.eecs.qmul.ac.uk/~norman/papers/inconsistencies_vaccine.pdf">analysis by Professor Fenton</a> may shed some light on that:</p>
+<blockquote>
+<p>Our analysis has discovered that over 10 million people are missing from the PHE/ONS analysis and 1,236 deaths that occurred during week 26 are also missing. The vaccination status of this group is unknown. Furthermore, by reverse engineering the estimates from other ONS sources we have discovered that the PHE/ONS mortality report is underestimating the number of vaccinated people, from an approximate total of 39 million, by over 2 million people. Similarly, we believe the ONS may be underestimating the number of single dose vaccinated people by just over four hundred thousand. Given this, there is the possibility that as many as 22 million people, in week 26, were unvaccinated rather than the 9.5 million reported. Our analysis clearly suggests that, when compared to ONS death figures from week 26, all-cause mortality (UMR) for vaccinated people, compared to unvaccinated people, is certainly higher in single dosed individuals and slightly higher in those who are double dosed.</p>
+</blockquote>
+<p>Given the above, is a clearer picture perhaps beginning to form? Are the vaccinated, that appear to be starting to show both an increased rate of Covid-19 cases and, from Professor Fenton’s analysis, mortality, compared to the unvaccinated, suffering from a vaccine-induced modification of vital, innate immune mechanisms?</p>
+<p>If so, are the unvaccinated and vaccinated populations diverging: is one becoming more immunologically trained, benefiting from greater protection from Covid-19 disease and death; and the other, immunologically tolerant, and doing worse?</p>
+<p>There is abundant evidence now that natural immunity is <a href="https://brownstone.org/articles/79-research-studies-affirm-naturally-acquired-immunity-to-covid-19-documented-linked-and-quoted/">robust and long lasting</a> by comparison to vaccine-induced immunity. But we are told that is it beneficial, even if recovered from natural infection, to be vaccinated. This author’s view, given the above data alone, not even considering the exhaustive analysis beyond the scope of this article, does not support that conclusion. Relying on a <a href="https://medicalxpress.com/news/2021-10-vaccine-doses-boost-antibody-airways.html">temporary increase in antibody levels</a> as justification to get vaccinated after infection fails to take into account the complexity of the immune response, and may be detrimental.</p>
+<p>Are we surprised, therefore, to read the following from<a href="https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.39.2100822#html_fulltext"> Eurosurveillance</a>:</p>
+<blockquote>
+<p>The COVID-19 diagnosed cases were transferred on the day of their diagnosis to a COVID-19 unit on Ward B, which operated as a mixed ward because of the small number of COVID-19 patients in our hospital at the time. Half the ward was dedicated to COVID-19 patients, with dedicated staff in full PPE, while half remained a regular ward. <strong>The index case was treated on transfer day by a healthcare worker (HCW) who had recovered from COVID-19 a year earlier, and was vaccinated once, as per Israeli guidelines [<a href="https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.39.2100822#r5">5</a>].</strong> Three days after transfer day, this HCW attended a room in the regular ward with three patients of whom two developed symptoms compatible with COVID-19 2 days later and tested positive for SARS-CoV-2. Contact investigation on Ward B identified a total of 19 COVID-19 cases by SARS-CoV-2 PCR: 10 staff, including the aforementioned HCW, eight patients, including the three above, and one family member.<em> </em></p>
+<p>The calculated attack rate among all exposed patients and staff was 10.6% (16/151) for staff and 23.7% (23/97) for patients, in a population with 96.2% vaccination rate (238 vaccinated/248 exposed individuals). [Emphasis added].</p>
+</blockquote>
+<p>Does vaccination abrogate the protection afforded to a naturally infected and recovered person, that tends not to be re-infected? An important question, but the above report does not fill us with much confidence, also noting that the HCW was wearing full PPE.</p>
+<h3>In summary</h3>
+<p>Developing evidence suggests that an intrinsic component of the innate immune system called toll-like receptors, tasked with recognising and activating the immune system to respond to bacteria and viruses, may be altered after vaccination. That alteration may hamper the immune system’s ability to detect and act appropriately against SARS-CoV-2 — inducing, in part, an <em>Immune Tolerance</em>, and increasing the risk of significant infection.</p>
+<p>The innate immune system, contrary to prior held views, can ‘remember’ past infections demonstrating a crucial adaptive ability called <em>Immune Training </em>and is essential<em> </em>to fight infection.</p>
+<p>Current data may highlight vaccine-induced <em>Immune Tolerance</em> as a divergence between vaccinated and unvaccinated populations, with an increase in case and mortality rates amongst the vaccinated compared to the <em>Immune Trained</em> unvaccinated.</p>
+</div>
+</div>
+<div class="views-element-container"><div class="view view-author view-id-author view-display-id-default js-view-dom-id-aeba1a19c1a580160a583c453dcb56d6ac63dc0f125d745bea36687a254a7297">
+<div class="view-content">
+<div class="views-row">
+<article about="/writer/dr-mike-williams" class="node node--type-author node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/writer/dr-mike-williams" tabindex="0">
+<div class="author-image">
+<img alt="" class="image-style-author-profile" height="150" src="/sites/default/files/styles/author_profile/public/2021-03/male-head.jpg?h=04d92ac6&amp;itok=cRgqLVuM" typeof="foaf:Image" width="150"/>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Dr Mike Williams</span>
+</h2>
+Dr Mike Williams is a medical consultant, operating in private practice.
+</div>
+</a>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+<div class="region region-sidebar-right">
+<div class="inner">
+<div class="block block-ukc-core block-ukc-social-block" id="block-socialshareblock">
+<div class="inner">
+<div class="block-title">Share</div>
+<div class="social-wrapper"><a class="mdc-icon-button social-twitter" href="https://twitter.com/intent/tweet?text=What Explains Rising Cases Among the Vaccinated? https://www.ukcolumn.org/article/what-explains-rising-cases-among-the-vaccinated&amp;via=ukcolumn" target="_blank"><i class="fab fa-twitter"></i><span>Share on Twitter</span></a><a class="mdc-icon-button social-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.ukcolumn.org/article/what-explains-rising-cases-among-the-vaccinated" target="_blank"><i class="fab fa-facebook-f"></i><span>Share on Facebook</span></a><a class="mdc-icon-button social-print" href="#"><i class="fas fa-print"></i><span>Print</span></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="layout-footer" role="contentinfo">
+<div class="region region-footer">
+<div class="inner">
+<div class="block block-simple-block block-simple-blockfooter" id="block-ukcolumn">
+<div class="inner">
+<div class="block-title">UK Column</div>
+<p>The UK Column is an independent multimedia news website <a href="https://www.ukcolumn.org/community">supported by its members</a>.</p>
+</div>
+</div>
+<div class="block block-simple-block block-simple-blockcopyright" id="block-copyright">
+<div class="inner">
+<p>© 2006-2021 UK Column. For <a href="https://www.ukcolumn.org/user/login">permission</a> to use any content on this website please <a href="https://www.ukcolumn.org/contact">contact us</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2681","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"\/search":true},"user":{"uid":0,"permissionsHash":"24a7fea61d09ca75b04029346079397b67be32e4b80ac47ef82cea8e7c0d3bfa"}}</script>
+<script src="/sites/default/files/js/js_KcESXcZO7FVpSpeU6kavzpt6Ja5W0OnT-dGt68lPzD0.js"></script>
+</body>
+</html>

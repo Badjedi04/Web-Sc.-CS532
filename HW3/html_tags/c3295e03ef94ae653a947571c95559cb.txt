@@ -1,0 +1,1325 @@
+<!DOCTYPE html>
+
+<!--[if lte IE 9]>         <html class="no-js lt-ie9 lt-ie10"  itemscope itemtype="http://schema.org/Article"  lang="en-US"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" itemscope="" itemtype="http://schema.org/Article" lang="en-US"> <!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<!-- WP Header -->
+<script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Oswald:400']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+<meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
+<meta content="Mom Blasts School Board:  If You Approve Of This, You Belong On A National Registry, Not A School Board! (Video)" property="og:title"/>
+<meta content="Parents across the US are standing up and calling out their representatives on school boards for their lawlessness, including subjugating children to sexually e" property="og:description"/>
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2021/10/b31635fe380f28e136e2465edbceaad9.jpg" property="og:image"/>
+<meta content="1701" property="og:image:width"/>
+<meta content="1056" property="og:image:height"/>
+<meta content="article" property="og:type"/>
+<meta content="2021-10-28 18:47:07" property="og:article:published_time"/>
+<meta content="2021-10-28 19:04:32" property="og:article:modified_time"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Mom Blasts School Board:  If You Approve Of This, You Belong On A National Registry, Not A School Board! (Video)" name="twitter:title">
+<meta content="Parents across the US are standing up and calling out their representatives on school boards for their lawlessness, including subjugating children to sexually e" name="twitter:description"/>
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2021/10/b31635fe380f28e136e2465edbceaad9.jpg" name="twitter:image"/>
+<meta content="Tim Brown" name="author"/>
+<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Mom Blasts School Board: If You Approve Of This, You Belong On A National Registry, Not A School Board! (Video) - The Washington Standard</title>
+<link href="https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/" rel="canonical"/>
+<meta content="https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/" property="og:url"/>
+<meta content="The Washington Standard" property="og:site_name"/>
+<meta content="https://www.facebook.com/thewashingtonstandard/" property="article:author"/>
+<meta content="2021-10-28T22:47:07+00:00" property="article:published_time"/>
+<meta content="2021-10-28T23:04:32+00:00" property="article:modified_time"/>
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2021/10/b31635fe380f28e136e2465edbceaad9.jpg" property="og:image"/>
+<meta content="1701" property="og:image:width"/>
+<meta content="1056" property="og:image:height"/>
+<meta content="image/jpeg" property="og:image:type"/>
+<meta content="Tim Brown" name="author"/>
+<meta content="@FPPTim" name="twitter:creator"/>
+<meta content="Written by" name="twitter:label1"/>
+<meta content="Tim Brown" name="twitter:data1"/>
+<meta content="Est. reading time" name="twitter:label2"/>
+<meta content="6 minutes" name="twitter:data2"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/","url":"https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/","name":"Mom Blasts School Board: If You Approve Of This, You Belong On A National Registry, Not A School Board! (Video) - The Washington Standard","isPartOf":{"@id":"https://thewashingtonstandard.com/#website"},"primaryImageOfPage":{"@id":"https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/#primaryimage"},"image":{"@id":"https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/#primaryimage"},"thumbnailUrl":"https://thewashingtonstandard.com/wp-content/uploads/2021/10/b31635fe380f28e136e2465edbceaad9.jpg","datePublished":"2021-10-28T22:47:07+00:00","dateModified":"2021-10-28T23:04:32+00:00","author":{"@id":"https://thewashingtonstandard.com/#/schema/person/252c8d3047c3195c0a9e753ad0b83b54"},"breadcrumb":{"@id":"https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/#primaryimage","url":"https://thewashingtonstandard.com/wp-content/uploads/2021/10/b31635fe380f28e136e2465edbceaad9.jpg","contentUrl":"https://thewashingtonstandard.com/wp-content/uploads/2021/10/b31635fe380f28e136e2465edbceaad9.jpg","width":1701,"height":1056},{"@type":"BreadcrumbList","@id":"https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://thewashingtonstandard.com/"},{"@type":"ListItem","position":2,"name":"Mom Blasts School Board: If You Approve Of This, You Belong On A National Registry, Not A School Board! (Video)"}]},{"@type":"WebSite","@id":"https://thewashingtonstandard.com/#website","url":"https://thewashingtonstandard.com/","name":"The Washington Standard","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://thewashingtonstandard.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://thewashingtonstandard.com/#/schema/person/252c8d3047c3195c0a9e753ad0b83b54","name":"Tim Brown","description":"Tim Brown is an author and Editor at FreedomOutpost.com, SonsOfLibertyMedia.com, GunsInTheNews.com and TheWashingtonStandard.com. He is husband to his \"more precious than rubies\" wife, father of 10 \"mighty arrows\", jack of all trades, Christian and lover of liberty. He resides in the U.S. occupied Great State of South Carolina. . Follow Tim on Twitter. Also check him out on Gab, Minds, MeWe, Spreely, Mumbl It and Steemit","sameAs":["https://thewashingtonstandard.com","https://www.facebook.com/thewashingtonstandard/","https://www.instagram.com/reformedmediainc/","https://www.linkedin.com/in/tim-brown-471b8068/","https://www.pinterest.com/ReformedMediaInc/reformed-media/","https://twitter.com/FPPTim","https://bit.ly/settingbrushfires","https://soundcloud.com/tim-brown-151"],"url":"https://thewashingtonstandard.com/author/timbrown/"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//maxcdn.bootstrapcdn.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://thewashingtonstandard.com/feed/" rel="alternate" title="The Washington Standard » Feed" type="application/rss+xml"/>
+<link href="https://thewashingtonstandard.com/comments/feed/" rel="alternate" title="The Washington Standard » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/thewashingtonstandard.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://thewashingtonstandard.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link href="https://thewashingtonstandard.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.0.3" id="sab_font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/plugins/simple-author-bio/includes/../css/style.css?ver=6.0.3" id="sab_custom_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/components/font-icons/entypo/css/entypo.css?ver=1.5.4" id="vwcss-icon-entypo-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/components/font-icons/social-icons/css/zocial.css?ver=1.5.4" id="vwcss-icon-social-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/css/bootstrap.css?ver=1.5.4" id="vwcss-bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-mmenu/css/jquery.mmenu.custom.css?ver=1.5.4" id="vwcss-mmenu-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/style.css?ver=1.5.4" id="vwcss-theme-root-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso-child/style.css?ver=1.5.4" id="vwcss-theme-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<link href="https://thewashingtonstandard.com/wp-json/" rel="https://api.w.org/"/><link href="https://thewashingtonstandard.com/wp-json/wp/v2/posts/101520" rel="alternate" type="application/json"/><meta content="WordPress 6.0.3" name="generator"/>
+<link href="https://thewashingtonstandard.com/?p=101520" rel="shortlink"/>
+<link href="https://thewashingtonstandard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthewashingtonstandard.com%2Fmom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://thewashingtonstandard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthewashingtonstandard.com%2Fmom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<!-- Site Meta From Theme -->
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://thewashingtonstandard.com/xmlrpc.php" rel="pingback"/>
+<meta content="" name="description"/>
+<link href="//www.google-analytics.com" rel="dns-prefetch"/>
+<meta content="width=device-width,initial-scale=1.0,user-scalable=yes" name="viewport"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconapple.jpg" rel="shortcut icon"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconapple1.jpg" rel="apple-touch-icon"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconretina.jpg" rel="apple-touch-icon" sizes="114x114"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconipad.jpg" rel="apple-touch-icon" sizes="72x72"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconipadretiina.jpg" rel="apple-touch-icon" sizes="144x144"/>
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- End Site Meta From Theme --> <meta content="wordpress-plugin" name="onesignal">
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://thewashingtonstandard.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'daff2871-66e5-457e-8e41-9a9a7677efa1';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://thewashingtonstandard.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.32d5e245-163c-40cb-8f57-67057af17423";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['siteName'] = "https://thewashingtonstandard.com";
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-left';
+oneSignal_options['notifyButton']['theme'] = 'inverse';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return OneSignal.isPushNotificationsEnabled()
+                      .then(function(isPushEnabled) {
+                          return !isPushEnabled;
+                      });
+            };
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/cropped-TheWashingtonStandard_Iconipad-150x150.jpg" rel="icon" sizes="32x32">
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/cropped-TheWashingtonStandard_Iconipad-300x300.jpg" rel="icon" sizes="192x192">
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/cropped-TheWashingtonStandard_Iconipad-300x300.jpg" rel="apple-touch-icon">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2015/04/cropped-TheWashingtonStandard_Iconipad-300x300.jpg" name="msapplication-TileImage">
+<style id="vw-custom-font" type="text/css">
+</style>
+<!-- Theme's Custom CSS -->
+<style type="text/css">
+		/* Fix admin bar */
+		.admin-bar .mm-page { padding-top: 32px !important; }
+		@media screen and ( max-width: 782px ) {
+			.admin-bar .mm-page { padding-top: 46px !important; }
+		}
+
+		html { margin-top: 0px !important; }
+		* html body { margin-top: 0px !important; }
+		@media screen and ( max-width: 782px ) {
+			html { margin-top: 0px !important; }
+			* html body { margin-top: 0px !important; }
+		}
+		/* End */
+		
+		a, a:hover, a:focus,
+		.vw-page-title-box .vw-label,
+		.vw-post-categories a,
+		.vw-page-subtitle,
+		.vw-breaking-news-date,
+		.vw-date-box-date,
+		.vw-post-style-classic .vw-post-box-title a:hover,
+		.vw-post-likes-count.vw-post-liked .vw-icon,
+		.vw-menu-location-bottom .main-menu-link:hover,
+		.vw-accordion-header.ui-accordion-header-active span,
+		.vw-404-text,
+		#wp-calendar thead,
+		.vw-accordion .ui-state-hover span,
+		.vw-breadcrumb a:hover,
+		h1 em, h2 em, h3 em, h4 em, h5 em, h6 em,
+		.vw-post-share-big-number .vw-number
+		{
+			color: #0066bf;
+		}
+
+		.vw-site-social-profile-icon:hover,
+		.vw-breaking-news-label,
+		.vw-author-socials a:hover,
+		.vw-post-style-box:hover,
+		.vw-post-box:hover .vw-post-format-icon i,
+		.vw-gallery-direction-button:hover,
+		.widget_tag_cloud .tagcloud a:hover,
+		.vw-page-navigation-pagination .page-numbers:hover,
+		.vw-page-navigation-pagination .page-numbers.current,
+		#wp-calendar tbody td:hover,
+		.vw-widget-category-post-count,
+		.vwspc-section-full-page-link:hover .vw-button,
+		
+		.vw-tag-links a,
+		.vw-hamburger-icon:hover,
+		.pace .pace-progress,
+		.vw-review-score-percentage .vw-review-item-score, .vw-review-score-points .vw-review-item-score,
+		.vw-pricing-featured .vw-pricing-title,
+		.vw-menu-location-top .menu-item-depth-0:after,
+		.no-touch input[type=button]:hover, .no-touch input[type=submit]:hover, .no-touch button:hover, .no-touch .vw-button:hover, .no-touch .woocommerce a.button:hover, .no-touch .woocommerce button.button:hover, .no-touch .woocommerce input.button:hover, .no-touch .woocommerce #respond input#submit:hover,
+		/*.vw-page-content .vw-page-title-box .vw-label,*/
+		.vw-breaking-news-title,
+		.vw-quote-icon,
+		.vw-dropcap-circle, .vw-dropcap-box,
+		.vw-accordion .ui-icon:before,
+		.vw-post-categories .vw-sticky-link,
+		.no-touch .vw-swiper-arrow-left:hover, .no-touch .vw-swiper-arrow-right:hover,
+		.vw-post-categories > div,
+		.vw-previous-link-page:hover, .vw-next-link-page:hover,
+		.vw-review-summary-bar .vw-review-score-bar,
+		.vw-review-box-summary .vw-review-total-score,
+		.vw-author-socials .vw-icon-social,
+		.vw-instant-search-buton:hover,
+		.vw-scroll-to-top
+		{
+			background-color: #0066bf;
+		}
+
+		.vw-about-author-section .vw-author-name,
+		.vw-post-meta-large .vw-date-box,
+		#wp-calendar caption,
+		.vw-widget-feedburner-text,
+		.vw-login-title,
+		.widget_search label,
+		.vw-author-socials .vw-icon-social,
+		.vw-tabs.vw-style-top-tab .vw-tab-titles,
+		.vw-fixed-tab .vw-fixed-tab-title:hover, .vw-fixed-tab .vw-fixed-tab-title.is-active,
+		.vw-site-footer
+		{
+			border-color: #0066bf;
+		}
+
+		.vw-tabs.vw-style-top-tab .vw-tab-title.active {
+			background-color: #0066bf;
+			border-color: #0066bf;
+		}
+
+		/* Header font */
+		input[type=button], input[type=submit], button, .vw-button,
+		.woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit,
+		.vw-header-font-family,
+		.vw-pricing-price,
+		.vw-quote, blockquote,
+		.vw-copyright,
+		.vw-mega-menu-type-links-4-cols .menu-item-depth-1 > .menu-link {
+			font-family: Georgia, serif;
+		}
+
+		/* Body font */
+		.vw-breaking-news-link {
+			font-family: Georgia, serif;
+		}
+
+		.vw-page-title-section.vw-has-background .col-sm-12 {
+			padding-top: 0px;
+		}
+
+		
+		/* bbPress */
+		
+		
+		/* Custom Styles */
+		.vw-post-box .vw-post-box-title, blockquote {
+text-transform: none;
+}
+
+em {
+    color: #000000;
+}
+
+.vw-breadcrumb {
+    font-size: 16px;
+}
+
+.vw-post-style-small-top-thumbnail .vw-post-box-title {
+    font-size: 16px;
+}
+
+.vw-menu .menu-item > .sub-menu {
+	z-index: 1001;
+}	</style>
+<!-- End Theme's Custom CSS -->
+<style class="options-output" title="dynamic-css" type="text/css">.vw-site-header-inner{padding-top:15px;padding-bottom:10px;}h1, h2, h3, h4, h5, h6, .vw-header-font,.vw-social-counter-count,.vw-page-navigation-pagination .page-numbers,#wp-calendar caption,.vw-accordion-header-text,.vw-tab-title,.vw-post-categories,.vw-review-item-title,.vw-previous-link-page, .vw-next-link-page,#bbpress-forums .bbp-topic-title .bbp-topic-permalink, #bbpress-forums .bbp-forum-info .bbp-forum-title,#bbpress-forums #bbp-user-wrapper h2.entry-title,.widget.widget_display_topics li .bbp-forum-title, .widget.widget_display_replies li .bbp-forum-title{font-family:Georgia, serif;text-transform:capitalize;letter-spacing:0px;font-weight:400;font-style:normal;color:#000000;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h1, h2, h3, h4, h5, h6, .vw-header-font,.wf-loading .vw-social-counter-count,.wf-loading .vw-page-navigation-pagination .page-numbers,.wf-loading #wp-calendar caption,.wf-loading .vw-accordion-header-text,.wf-loading .vw-tab-title,.wf-loading .vw-post-categories,.wf-loading .vw-review-item-title,.wf-loading .vw-previous-link-page, .vw-next-link-page,.wf-loading #bbpress-forums .bbp-topic-title .bbp-topic-permalink, #bbpress-forums .bbp-forum-info .bbp-forum-title,.wf-loading #bbpress-forums #bbp-user-wrapper h2.entry-title,.wf-loading .widget.widget_display_topics li .bbp-forum-title, .widget.widget_display_replies li .bbp-forum-title,{opacity: 0;}.ie.wf-loading h1, h2, h3, h4, h5, h6, .vw-header-font,.ie.wf-loading .vw-social-counter-count,.ie.wf-loading .vw-page-navigation-pagination .page-numbers,.ie.wf-loading #wp-calendar caption,.ie.wf-loading .vw-accordion-header-text,.ie.wf-loading .vw-tab-title,.ie.wf-loading .vw-post-categories,.ie.wf-loading .vw-review-item-title,.ie.wf-loading .vw-previous-link-page, .vw-next-link-page,.ie.wf-loading #bbpress-forums .bbp-topic-title .bbp-topic-permalink, #bbpress-forums .bbp-forum-info .bbp-forum-title,.ie.wf-loading #bbpress-forums #bbp-user-wrapper h2.entry-title,.ie.wf-loading .widget.widget_display_topics li .bbp-forum-title, .widget.widget_display_replies li .bbp-forum-title,{visibility: hidden;}.vw-menu-location-main .main-menu-link{font-family:Oswald;text-transform:capitalize;letter-spacing:1px;font-weight:400;font-style:normal;font-size:16px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .vw-menu-location-main .main-menu-link,{opacity: 0;}.ie.wf-loading .vw-menu-location-main .main-menu-link,{visibility: hidden;}body,cite{font-family:Georgia, serif;font-weight:400;font-style:normal;color:#000000;font-size:16px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body,.wf-loading cite,{opacity: 0;}.ie.wf-loading body,.ie.wf-loading cite,{visibility: hidden;}.vw-logo-link{margin-top:00px;margin-right:0;margin-bottom:0;margin-left:0;}.vw-site-header,.vw-site-header-background{background-color:#ffffff;}.vw-site-wrapper,.vw-page-navigation-pagination{background-color:#ffffff;}.vw-top-bar{background:#ffffff;}.vw-menu-location-top .main-menu-link{color:#888888;}.vw-menu-location-top .main-menu-link:hover{color:#ffffff;}.vw-menu-location-top .sub-menu,.vw-menu-location-top .main-menu-item:hover .main-menu-link{background:#2082b5;}.vw-menu-location-top .sub-menu-link{color:#888888;}.vw-menu-location-top .sub-menu-link:hover{color:#ffffff;}.vw-menu-location-top .sub-menu-link:hover{background:#2082b5;}.vw-menu-main-inner{background:#2082b5;}.vw-menu-location-main .main-menu-link{color:#ffffff;}.vw-menu-location-main .main-menu-link:hover{color:#ffffff;}.vw-menu-location-main .main-menu-item:hover .main-menu-link{background:#000000;}.vw-menu-location-main .sub-menu{background:#2082b5;}.vw-menu-location-main .sub-menu-link{color:#ffffff;}.vw-menu-location-main .sub-menu-link:hover{color:#ffffff;}.vw-menu-location-main .sub-menu-link:hover{background:#000000;}.vw-site-footer{background-color:#222222;}.vw-site-footer-sidebars h1,.vw-site-footer-sidebars h2,.vw-site-footer-sidebars h3,.vw-site-footer-sidebars h4,.vw-site-footer-sidebars h5,.vw-site-footer-sidebars h6,.vw-site-footer-sidebars .widget-title,.vw-site-footer-sidebars .vw-widget-category-title,.vw-site-footer-sidebars .vw-social-counter-count{color:#ffffff;}.vw-site-footer-sidebars{color:#dcdcdc;}.vw-bottom-bar{background:#1e73be;}.vw-bottom-bar{color:#ffffff;}</style><script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="https://cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=e9690636-be5b-4e59-9d9b-2c2f234de825";s.id="infinity";s.setAttribute("data-guid","e9690636-be5b-4e59-9d9b-2c2f234de825");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
+<script async="" src="https://cdn1.lockerdomecdn.com/embeds/alive2god_thewashingtonstandard_sticky.js"></script>
+<div id="ld-4399-7086"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:14383647973389414,size:[0, 0],id:"ld-4399-7086"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-64272499-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-64272499-1');
+</script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/reformmedia-network/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<!-- End WP Header -->
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64272499-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=e9690636-be5b-4e59-9d9b-2c2f234de825";s.id="infinity";s.setAttribute("data-guid","e9690636-be5b-4e59-9d9b-2c2f234de825");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
+</meta></link></link></link></meta></meta></meta></head>
+<body class="post-template-default single single-post postid-101520 single-format-standard vw-site-enable-sticky-menu vw-blog-enable-masonry-layout vw-site-layout-full-width vw-post-layout-classic-no-featured-image" id="site-top">
+<!-- Site Wrapper -->
+<div class="vw-site-wrapper">
+<!-- Top Bar -->
+<div class="vw-top-bar">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-top-bar-inner">
+<div class="vw-top-bar-left">
+<!-- Top Menu -->
+<nav class="vw-menu-top-wrapper">
+<ul class="vw-menu vw-menu-location-top vw-menu-type-text clearfix" id="menu-top-menu"><li class="nav-menu-item-46005 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/privacy-policy/"><span>Privacy Policy</span></a></li>
+<li class="nav-menu-item-46006 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/contact/"><span>Contact</span></a></li>
+<li class="nav-menu-item-46010 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/about-us/"><span>About Us</span></a></li>
+<li class="nav-menu-item-49919 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link main-menu-link" href="http://nationalheadlinestoday.com"><span>National Headlines Today</span></a></li>
+<li class="nav-menu-item-49914 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-link main-menu-link"><span>Store</span></a>
+<ul class="sub-menu menu-odd menu-depth-1">
+<li class="nav-menu-item-49915 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://store.keepandbear.com?aff=38"><span>Keep &amp; Bear Arms</span></a></li>
+<li class="nav-menu-item-49911 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://shop.real.video?rfsn=1696931.be2bf6&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=1696931.be2bf6"><span>All Natural Products</span></a></li>
+<li class="nav-menu-item-49912 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://mydoterra.com/brownfamily"><span>Essential Oils</span></a></li>
+<li class="nav-menu-item-49910 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://www.ronpaulcurriculum.com/public/3346.cfm?affID=Alive2god"><span>Home Educate Your Kids For Free</span></a></li>
+<li class="nav-menu-item-49916 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://amzn.to/2DSKByF"><span>Amazon</span></a></li>
+<li class="nav-menu-item-49918 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://shareasale.com/r.cfm?b=530172&amp;u=1113712&amp;m=49871&amp;urllink=&amp;afftrack="><span>Bulletproof Vests</span></a></li>
+</ul>
+</li>
+</ul></nav>
+<!-- End Top Menu --> </div>
+<div class="vw-top-bar-right">
+<span class="vw-site-social-profile"><a class="vw-site-social-profile-icon vw-site-social-facebook" href="https://www.facebook.com/thewashingtonstandard" title="Facebook"><i class="vw-icon icon-social-facebook"></i></a><a class="vw-site-social-profile-icon vw-site-social-twitter" href="https://twitter.com/FPPTim" title="Twitter"><i class="vw-icon icon-social-twitter"></i></a><a class="vw-site-social-profile-icon vw-site-social-youtube" href="https://bit.ly/settingbrushfires" title="Youtube"><i class="vw-icon icon-social-youtube"></i></a></span>
+<a class="vw-instant-search-buton main-menu-link"><i class="vw-icon icon-entypo-search"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- End Top Bar -->
+<!-- Site Header : Left Logo -->
+<header class="vw-site-header vw-site-header-style-centered-logo" itemscope="" itemtype="http://schema.org/WPHeader">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-site-header-inner">
+<!-- Logo -->
+<div class="vw-logo-wrapper" itemscope="" itemtype="http://schema.org/Organization">
+<a class="vw-logo-link" href="https://thewashingtonstandard.com" itemprop="url">
+<!-- Site Logo -->
+<!-- Retina Site Logo -->
+<img alt="The Washington Standard" class="vw-logo-2x" height="134" itemprop="logo" src="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header.png" width="600"/>
+<img alt="The Washington Standard" class="vw-logo" height="134" itemprop="logo" src="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" width="600"/>
+</a>
+</div>
+<!-- End Logo -->
+<div class="vw-mobile-nav-button-wrapper">
+<span class="vw-mobile-nav-button">
+<span class="vw-hamburger-icon"><span></span></span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Main Menu -->
+<nav class="vw-menu-main-wrapper" id="vw-menu-main" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-menu-main-inner">
+<ul class="vw-menu vw-menu-location-main vw-menu-type-mega-post" id="menu-home-menu"><li class="nav-menu-item-48 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent vw-mega-menu-type-classic vw-cat-id-4"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/us-news/" itemprop="url"><span>US</span></a></li>
+<li class="nav-menu-item-50 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-6"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/politics/" itemprop="url"><span>Politics</span></a></li>
+<li class="nav-menu-item-66336 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-18"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/commentary/" itemprop="url"><span>Commentary</span></a></li>
+<li class="nav-menu-item-49 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-8"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/constitutionandlaw/" itemprop="url"><span>Constitution &amp; Law</span></a></li>
+<li class="nav-menu-item-51 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-5"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/worldnews/" itemprop="url"><span>World</span></a></li>
+<li class="nav-menu-item-58 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-11"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/economy/" itemprop="url"><span>Economy</span></a></li>
+<li class="nav-menu-item-49947 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom vw-mega-menu-type-classic"><a class="menu-link main-menu-link" href="http://gunsinthenews.com" itemprop="url"><span>Gun News</span></a></li>
+<li class="nav-menu-item-49946 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom vw-mega-menu-type-classic"><a class="menu-link main-menu-link" href="http://nationalheadlinestoday.com" itemprop="url"><span>National Headlines Today</span></a></li>
+<li class="nav-menu-item-49938 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children vw-mega-menu-type-classic"><a class="menu-link main-menu-link" itemprop="url"><span>Store</span></a><div class="sub-menu-wrapper">
+<ul class="sub-menu menu-odd menu-depth-1">
+<li class="nav-menu-item-49940 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://store.keepandbear.com?aff=38" itemprop="url"><span>Keep &amp; Bear Arms</span></a></li>
+<li class="nav-menu-item-49941 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://shop.real.video?rfsn=1696931.be2bf6&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=1696931.be2bf6" itemprop="url"><span>All Natural Products</span></a></li>
+<li class="nav-menu-item-49942 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://mydoterra.com/brownfamily" itemprop="url"><span>Essential Oils</span></a></li>
+<li class="nav-menu-item-49943 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://www.ronpaulcurriculum.com/public/3346.cfm?affID=Alive2god" itemprop="url"><span>Home Educate Your Kids For Free</span></a></li>
+<li class="nav-menu-item-49944 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://amzn.to/2DSKByF" itemprop="url"><span>Amazon</span></a></li>
+<li class="nav-menu-item-49945 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://shareasale.com/r.cfm?b=530172&amp;u=1113712&amp;m=49871&amp;urllink=&amp;afftrack=" itemprop="url"><span>Bulletproof Vests</span></a></li>
+</ul>
+</div>
+</li>
+<li class="nav-menu-item-56277 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page vw-mega-menu-type-classic"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/about-us/" itemprop="url"><span>About Us</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<!-- End Main Menu -->
+<!-- Mobile Menu -->
+<nav class="vw-menu-mobile-wrapper">
+<ul class="vw-menu-location-mobile" id="menu-home-menu-1"><li class="vw-mobile-additional-buttons"> <span class="vw-search-buton main-menu-item">
+<a class="vw-search-buton" href="https://thewashingtonstandard.com/search/"><i class="vw-icon icon-iconic-search"></i></a>
+</span>
+</li><li class="nav-menu-item-48 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/us-news/"><span>US</span></a></li>
+<li class="nav-menu-item-50 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/politics/"><span>Politics</span></a></li>
+<li class="nav-menu-item-66336 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/commentary/"><span>Commentary</span></a></li>
+<li class="nav-menu-item-49 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/constitutionandlaw/"><span>Constitution &amp; Law</span></a></li>
+<li class="nav-menu-item-51 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/worldnews/"><span>World</span></a></li>
+<li class="nav-menu-item-58 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/economy/"><span>Economy</span></a></li>
+<li class="nav-menu-item-49947 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link main-menu-link" href="http://gunsinthenews.com"><span>Gun News</span></a></li>
+<li class="nav-menu-item-49946 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link main-menu-link" href="http://nationalheadlinestoday.com"><span>National Headlines Today</span></a></li>
+<li class="nav-menu-item-49938 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-link main-menu-link"><span>Store</span></a>
+<ul class="sub-menu menu-odd menu-depth-1">
+<li class="nav-menu-item-49940 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://store.keepandbear.com?aff=38"><span>Keep &amp; Bear Arms</span></a></li>
+<li class="nav-menu-item-49941 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://shop.real.video?rfsn=1696931.be2bf6&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=1696931.be2bf6"><span>All Natural Products</span></a></li>
+<li class="nav-menu-item-49942 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://mydoterra.com/brownfamily"><span>Essential Oils</span></a></li>
+<li class="nav-menu-item-49943 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://www.ronpaulcurriculum.com/public/3346.cfm?affID=Alive2god"><span>Home Educate Your Kids For Free</span></a></li>
+<li class="nav-menu-item-49944 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://amzn.to/2DSKByF"><span>Amazon</span></a></li>
+<li class="nav-menu-item-49945 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://shareasale.com/r.cfm?b=530172&amp;u=1113712&amp;m=49871&amp;urllink=&amp;afftrack="><span>Bulletproof Vests</span></a></li>
+</ul>
+</li>
+<li class="nav-menu-item-56277 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/about-us/"><span>About Us</span></a></li>
+</ul>
+</nav>
+<!-- End Mobile Menu --></header>
+<!-- End Site Header : Left Logo -->
+<div class="vw-page-wrapper clearfix vw-sidebar-position-right">
+<div class="container">
+<div class="row">
+<div class="vw-page-content" itemprop="articleBody" role="main">
+<article class="vw-main-post post-101520 post type-post status-publish format-standard has-post-thumbnail hentry category-us-news category-videos">
+<div class="vw-breadcrumb vw-breadcrumb-envirra"><span><span typeof="v:Breadcrumb"><a class="home" href="https://thewashingtonstandard.com/" property="v:title" rel="v:url">Home</a></span><span class="vw-breadcrumb-separator">»</span><span typeof="v:Breadcrumb"><a href="https://thewashingtonstandard.com/category/us-news/" property="v:title" rel="v:url" title="US">US</a></span><span class="vw-breadcrumb-separator">»</span><span class="vw-breadcrumb-item-last">Mom Blasts School Board:  If You Approve Of This, You Belong On A National Registry, Not A School Board! (Video)</span></span></div>
+<div class="vw-post-categories"><div><a class="vw-category-link vw-cat-id-4" href="https://thewashingtonstandard.com/category/us-news/" rel="category" title="View all posts in US">US</a><span class="vw-category-separator">/</span><a class="vw-category-link vw-cat-id-4 vw-category-link vw-cat-id-7" href="https://thewashingtonstandard.com/category/videos/" rel="category" title="View all posts in Videos">Videos</a></div></div>
+<h1 class="entry-title">Mom Blasts School Board:  If You Approve Of This, You Belong On A National Registry, Not A School Board! (Video)</h1>
+<span class="author vcard hidden"><span class="fn">Tim Brown</span></span>
+<span class="updated hidden">2021-10-28</span>
+<div class="vw-post-meta vw-post-meta-large">
+<div class="vw-post-meta-inner">
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/timbrown/" itemprop="name" rel="author" title="View all posts by Tim Brown">Tim Brown</a>
+</span>
+<span class="vw-post-meta-separator">/</span>
+<i class="vw-icon icon-entypo-clock"></i> <a class="vw-post-date updated" href="https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/" rel="bookmark" title="Permalink to Mom Blasts School Board:  If You Approve Of This, You Belong On A National Registry, Not A School Board! (Video)"><time datetime="2021-10-28T18:47:07-04:00" itemprop="datePublished">October 28, 2021</time></a>
+</div>
+<div class="vw-post-meta-icons">
+</div>
+</div>
+<div class="vw-post-share-box">
+<div class="vw-post-share-big-number">
+<div class="vw-number">8</div>
+<div class="vw-unit">Shares</div>
+</div>
+<a class="vw-post-share-box-button vw-post-shares-social vw-post-shares-social-facebook" data-height="300" data-post-id="101520" data-share-to="facebook" data-width="500" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthewashingtonstandard.com%2Fmom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video%2F" title="Share to Facebook">
+<i class="vw-icon icon-social-facebook"></i>
+<span class="vw-button-label">Facebook</span>
+</a>
+<a class="vw-post-share-box-button vw-post-shares-social vw-post-shares-social-twitter" data-height="300" data-post-id="101520" data-share-to="twitter" data-width="500" href="https://twitter.com/home?status=Mom+Blasts+School+Board%3A++If+You+Approve+Of+This%2C+You+Belong+On+A+National+Registry%2C+Not+A+School+Board%21+%28Video%29%20-%20https%3A%2F%2Fthewashingtonstandard.com%2Fmom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video%2F" title="Share to Twitter">
+<i class="vw-icon icon-social-twitter"></i>
+<span class="vw-button-label">Twitter</span>
+</a>
+<a class="vw-post-share-box-button vw-post-shares-social vw-post-shares-social-pinterest" data-height="300" data-post-id="101520" data-share-to="pinterest" data-width="750" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fthewashingtonstandard.com%2Fmom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video%2F&amp;media=https://thewashingtonstandard.com/wp-content/uploads/2021/10/b31635fe380f28e136e2465edbceaad9.jpg&amp;description=Mom+Blasts+School+Board%3A++If+You+Approve+Of+This%2C+You+Belong+On+A+National+Registry%2C+Not+A+School+Board%21+%28Video%29" title="Share to Pinterest">
+<i class="vw-icon icon-social-pinterest"></i>
+<span class="vw-button-label">Pinterest</span>
+</a>
+<a class="vw-post-share-box-button vw-post-shares-social vw-post-shares-social-whatsapp" data-height="475" data-post-id="101520" data-share-to="whatsapp" data-width="500" href="https://wa.me/whatsappphonenumber/?text=Mom+Blasts+School+Board%3A++If+You+Approve+Of+This%2C+You+Belong+On+A+National+Registry%2C+Not+A+School+Board%21+%28Video%29%20-%20https%3A%2F%2Fthewashingtonstandard.com%2Fmom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video%2F" title="Share to WhatsApp">
+<i class="vw-icon icon-social-whatsapp"></i>
+<span class="vw-button-label">WhatsApp</span>
+</a>
+</div>
+<div class="vw-post-content clearfix"><div class="vw-before-post-content"><div id="ld-6559-6683"></div>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:13299126620103270,size:[0, 0],id:"ld-6559-6683"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<div data-endpoint="//trends.revcontent.com" data-rc-widget="" data-widget-host="habitat" data-widget-id="116226" id="rc-widget-272cf1"></div>
+<script defer="defer" src="https://assets.revcontent.com/master/delivery.js" type="text/javascript"></script>
+</div><p>Parents across the US are standing up and calling out their representatives on school boards for their lawlessness, including subjugating children to sexually explicit material, even queer, sodomite material. One mother recently called out the North Penn School Board about a book found in Oak Park Elementary School library that was not only explicit but was about boys sodomizing boys.</p>
+<ul>
+<li class="post"><strong><a href="https://thewashingtonstandard.com/emails-show-national-school-board-officers-worked-with-white-house-to-target-parents/">Emails Show National School Board Officers Worked with White House to Target Parents</a></strong></li>
+<li class="post"><strong><a href="https://settingbrushfires.com/when-parents-take-it-to-domestic-terrorist-school-boards-then-are-attacked-by-them-video/">When Parents Take It To Domestic Terrorist School Boards &amp; Then Are Attacked By Them (Video)</a></strong></li>
+<li class="post"><strong><a href="https://thewashingtonstandard.com/more-than-400000-parents-rip-into-national-school-board-association-for-labeling-them-domestic-terrorists-video/">More Than 400,000 Parents Rip Into National School Board Association For Labeling Them “Domestic Terrorists” (Video)</a></strong></li>
+<li class="post"><strong><a href="https://thewashingtonstandard.com/maoist-china-survivor-school-boards-doj-are-using-communist-tactics-video/">Maoist China Survivor: School Boards &amp; DOJ Are Using “Communist Tactics” Against Parents (Video)</a></strong></li>
+</ul>
+<p><a href="https://www.thereporteronline.com/2021/10/26/north-penn-parents-bash-board-over-books/">The Reporter Online</a> reported:</p>
+<p><em><a href="https://www.facebook.com/vicki.alfuth/posts/10104742394397608?__cft__[0]=AZUeQK-yGACZrBiir0CgXEQYzc_MH_Yt-ZKI9kmJQq3RBUmlDx1BG8vQYsYvH_knveJivOBD6IsrPkNG1AVTpQW1UW-S8DuaVlh5I_ngVgB5Hiutci-TYCqkh5tRPctpUr1bzryRGjgRQPTZV4npo1Wd&amp;__tn__=%2CO%2CP-R">Vicki Flannery</a> of North Wales gave a similar warning before reading excerpts from “All Boys Aren’t Blue,” a book she claimed “up until this week, resided in the Oak Park Elementary library. This book was removed because of one of our parents.”</em></p><div class="code-block code-block-1" style="margin: 8px 0; clear: both;">
+<ul>
+<li><a href="https://www.emfsol.com?aff=ctQ9GqtsMfLBD3XJZ"><strong>How To Protect Yourself From 5G, EMF &amp; RF Radiation</strong></a></li>
+<li><strong><a href="https://heavensharvest.com/collections/seed-kits/products/heirloom-vegetable-seed-bucket?variant=34283425333292" rel="nofollow noopener" target="_blank">Grab This Bucket Of Heirloom Seeds &amp; Get Free Shipping With Promo Code TIM</a></strong></li>
+<li><a href="https://shop.foodforestabundance.com/TIMBROWN" rel="nofollow noopener" target="_blank"><strong>Build Your Own Food Forest &amp; Save 5% With Promo Code TIMBROWN</strong></a></li>
+<li><strong><a href="https://mypatriotsupply.com/?rfsn=5131805.ffe1a3" rel="nofollow noopener" target="_blank">Here’s A Way You Can Stockpile Food For The Future</a></strong></li>
+<li><strong><a href="https://ammo.com/i/aGRNd0wwRGwxTFE9c" rel="nofollow noopener" target="_blank">Stockpile Your Ammo &amp; Save $15 On Your First Order</a></strong></li>
+<li><a href="https://timbrown.thegoodinside.com/pbx-trial-offer-557846" rel="nofollow noopener" target="_blank"><strong>Preparing Also Means Detoxifying – Here’s One Simple Way To Detoxify</strong></a></li>
+<li><strong><a href="https://mystore.com/timbrown" rel="nofollow noopener" target="_blank">Save Up To 66% Off MyPillow with Promo Code TIMBROWN</a></strong></li>
+<li><strong><a href="https://www.bereli.com?aff=4341">Grab guns, accessories, gear and optics at the lowest prices</a></strong>
+</li></ul></div>
+<p><em>Flannery then read excerpts from that book describing sex acts, before taking aim at the board.</em></p>
+<p><em>“Do any of you, any of you, find this book that depicts a sexual encounter and rape acceptable for any minor, regardless of gender or sexual orientation? Because I do not find this at all acceptable,” she said.</em></p><div class="code-block code-block-2" style="margin: 8px 0; clear: both;">
+<div id="ld-2166-6199"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11229617935827558,size:[0, 0],id:"ld-2166-6199"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+</div>
+<p><em>“A child is a child, and if you see this as acceptable, you belong on a national registry, and not a school board,” Flannery said.</em></p>
+<p>Flannery, who is a <a href="https://twitter.com/M4LmontcoPA">Chapter Chair for Moms for Liberty</a>, read small portions of the book to the school board and though it was explicit, there was far worse to come, which she refrained from reading.</p>
+<p>Watch her speech before the school board in which she declared, “Do any of you find this book that depicts this sexual encounter (sodomy) and rape acceptable for any minor regardless of gender or sexual orientation? Because I do not find this acceptable. A child is a child and if you see this as acceptable, you belong on a national registry, not a school board.”</p>
+<p>WARNING: This is not for little ears to hear. In fact, I believe it really isn’t for our ears but we must comprehend what these pushing the sodomite agenda mean to do and put a stop to it.</p>
+<p><iframe allowfullscreen="allowfullscreen" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/vlqpfv/?pub=ap9pb" width="640"></iframe></p>
+<p>That’s not the only book that was brought up by a parent.</p>
+<p><a href="https://pennsylvanianewstoday.com/north-pens-parents-beat-the-school-board-over-books-2/254065/">Pennsylvania News Today</a> reported:</p>
+<p><em>“Do you feel uncomfortable as an adult when you hear these words? How do you think this makes your child feel? My child can go to one of the libraries in this area and pick it up. I’m really tired of my stomach, thinking I can, “said parent Carrie Rocks.</em></p>
+<p><em>At a long school board meeting at North Penn High School on Thursday night, Rocks and several parents read a board excerpt from a book they claimed to have recently found at a school in the district. This is an excerpt that prompted a content warning for the District NPTV channel.</em></p>
+<p><em>While she was speaking, Rocks introduced herself as the mother of four Upper Gwinneds and posted a magnified photo of the page of the graphic novel Genderqueer, which deals with gender identity, claiming to be a “high school student.” She showed a page depicting sexual activity and asked the board when she read an excerpt containing words never said before at a school board meeting.</em></p>
+<p><em>“Who made the decision to make this OK? I know the fact that the list in this book had to come across one of your desks to approve. Is it your intention to care for your children? Who made it your job to steal their innocence? “She said.</em></p>
+<p><em>“Just because we think we’re only looking at six months doesn’t mean we don’t know what’s going on. That’s the constant barrage of your terrible policy and us. It was the mismanagement of the school and it drove us to a turning point. You are now Satan’s pawn for me. You all hate it, “Rocks said.</em></p>
+<ul>
+<li class="post"><strong><a href="https://thewashingtonstandard.com/this-is-not-a-negotiation-school-board-served-200-million-lawsuit-over-mask-mandate-by-fed-up-parents-video/">“This Is Not A Negotiation!”: School Board Served $200 Million Lawsuit Over Mask Mandate By Fed-Up Parents (Video)</a></strong></li>
+<li class="post"><strong><a href="https://thewashingtonstandard.com/mom-calls-out-school-board-over-allowing-twisted-perverted-sexual-books-in-library-they-cut-her-mic-off-but-she-gets-the-books-tossed-video/">Mom Calls Out School Board Over Allowing Twisted, Perverted Sexual Books In Library – They Cut Her Mic Off! – But She Gets The Books Tossed (Video)</a></strong></li>
+<li class="post"><strong><a href="https://thewashingtonstandard.com/iranian-immigrant-dad-blasts-school-board-over-woke-curriculum-in-school-as-garbage-ideology-video/">Iranian Immigrant Dad Blasts School Board Over “Woke” Curriculum In School As “Garbage Ideology” (VIDEO)</a></strong></li>
+<li class="post"><strong><a href="https://thewashingtonstandard.com/mama-bear-to-school-board-i-was-gonna-ask-but-im-not-asking-anymore-im-demanding-you-stop-this-mask-mandate-tonight-video/">Mama Bear To School Board: “I Was Gonna Ask, But I’m Not Asking Anymore… I’m Demanding You Stop This Mask Mandate Tonight!” (Video)</a></strong></li>
+<li class="post"><a href="https://settingbrushfires.com/parents-are-taking-it-to-their-employees-at-school-boards-you-work-for-us-video/"><strong>Parents Are Taking It To Their Employees At School Boards: You Work For Us! (Video)</strong></a></li>
+</ul>
+<p><a href="https://dfw.cbslocal.com/2021/10/27/book-sexually-explicit-images-themes-winds-keller-isd-texas-school-library/">That same book was recently discovered to be in Keller ISD School in Texas.</a></p>
+<p>Here’s the entire October 21, 2021 meeting.</p>
+<p><iframe allowfullscreen="allowfullscreen" frameborder="0" height="360" loading="lazy" src="https://www.youtube.com/embed/7HNs1nvEEDc" title="YouTube video player" width="640"><span class="mce_SELRES_start" data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;">﻿</span></iframe></p>
+<p>This would have been considered contributing to the deliquency of a minor when I was younger. Now, parents just want these criminals on a national registry? No way, they have shown they are irresponsible with children. Jesus had a proper dealing with such people who caused little ones to stumble and it involved the sea and a milestone.</p>
+<p>This comes as Hazard High School in Hazard, Kentucky engaged in this sexual, criminal activity between staff and student. Seriously, it’s like the culture has turned into a sexually charged pagan culture right under our noses. What’s even worse than what you see in the following images is the fact that the principal leading up this “man pageant” is also the mayor of Perry County City.</p>
+<p>According to Sports Keeda.com:</p>
+<p>Several faculty members were seen participating in the said events. Hazard High School Principal Donald “Happy” Mobelini, who happens to be the mayor of Perry County City, was also seen participating in the inappropriate event.</p>
+<p>Amongst the many disconcerting pictures posted online, the most eyebrow-raising images showcased students dancing inappropriately in front of principal Donald Mobelini.</p>
+<figure class="image"><img alt="Principal- Mayor Donald Mobelini participates in the event (Image via City of Hazard)" class="" data-img="https://staticg.sportskeeda.com/editor/2021/10/1a08e-16354078094580-1920.jpg" data-img-low="https://staticg.sportskeeda.com/editor/2021/10/1a08e-16354078094580-1920.jpg" height="1278" loading="lazy" src="https://staticg.sportskeeda.com/editor/2021/10/1a08e-16354078094580-1920.jpg" width="1920"><figcaption>Principal- Mayor Donald Mobelini participates in the event (Image via City of Hazard)</figcaption></img></figure>
+<p>The Hazard High School principal was seen partaking in the <a data-is-sponsored="false" href="https://www.sportskeeda.com/pop-culture/you-will-arrested-bizarre-devious-lick-tiktok-trend-stealing-random-items-school-slammed-authorities" rel="noopener noreferrer" target="_blank">event</a> which transpired before him.</p>
+<p><img alt="" class="aligncenter size-full wp-image-132521" height="867" loading="lazy" src="https://sonsoflibertymedia.com/wp-content/uploads/2021/10/246439938_418652826507267_6725580495219210143_n.jpg" width="400"> <img alt="" class="aligncenter size-medium wp-image-132522" height="867" loading="lazy" src="https://sonsoflibertymedia.com/wp-content/uploads/2021/10/246487339_1037879410275197_7736606225189950798_n.jpg" width="400"/> <img alt="" class="aligncenter size-medium wp-image-132523" height="867" loading="lazy" src="https://sonsoflibertymedia.com/wp-content/uploads/2021/10/246850128_447331556727177_2289382142135085377_n.jpg" width="400"/> <img alt="" class="aligncenter size-medium wp-image-132524" height="867" loading="lazy" src="https://sonsoflibertymedia.com/wp-content/uploads/2021/10/247091369_888894098498200_3682334447763321253_n.jpg" width="400"/> <img alt="" class="aligncenter size-medium wp-image-132525" height="867" loading="lazy" src="https://sonsoflibertymedia.com/wp-content/uploads/2021/10/248044043_1545833579095067_4782662309288307962_n.jpg" width="400"/> <img alt="" class="aligncenter size-medium wp-image-132526" height="867" loading="lazy" src="https://sonsoflibertymedia.com/wp-content/uploads/2021/10/248354705_903742703872838_5928808980660178751_n.jpg" width="400"/></img></p>
+<ul>
+<li class="post"><strong><a href="https://thewashingtonstandard.com/teacher-addresses-school-board-parents-dont-be-afraid-to-speak-out-for-your-kids-video/">Teacher Addresses School Board: “Parents Don’t Be Afraid To Speak Out For Your Kids!” (Video)</a></strong></li>
+<li class="post"><strong><a href="https://thewashingtonstandard.com/miss-california-mama-bear-carrie-prejean-boller-tells-school-board-were-done-asking-you-for-permission/">Miss California “Mama Bear” Carrie Prejean Boller Tells School Board “We’re Done Asking You For Permission” (Video)</a></strong></li>
+<li class="post"><strong><a href="https://thewashingtonstandard.com/glorious-michigan-mom-gavels-tyrannical-school-board-president-during-speech-gets-standing-ovation-video/">Glorious! Michigan Mom Gavels Tyrannical School Board President During Speech – Gets Standing Ovation! (Video)</a></strong></li>
+<li class="post"><a href="https://thewashingtonstandard.com/this-is-how-you-do-it-louisiana-parents-shout-down-mask-mandating-tyrants-at-state-school-board-meeting-its-glorious-video/"><strong>This Is How You Do It! Louisiana Parents Shout Down Mask Mandating Tyrants At State School Board Meeting – It’s Glorious! (Video)</strong></a></li>
+</ul>
+<p>I can’t believe that some dads in the community have not given some of these people a beatdown, and I mean a real, manly fist pounding and then charged them for breaking the law in the way they have done with their own offspring. What has become of our men – weak, sissified, pansies calling themselves men?</p>
+<p>Article posted with permission from<a href="https://sonsoflibertymedia.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/" rel="noopener" target="_blank"> Sons of Liberty Media</a></p>
+<hr/> <div class="dcms_author-info"> <div class="dcms_author-avatar"> </div> <h3 class="dcms_author-heading">Tim Brown</h3> <div class="dcms_author-description"> 		Tim Brown is an author and Editor at <a href="http://freedomoutpost.com/">FreedomOutpost.com</a>,  <a href="http://sonsoflibertymedia.com">SonsOfLibertyMedia.com</a>, <a href="http://gunsinthenews.com">GunsInTheNews.com</a> and <a href="https://thewashingtonstandard.com">TheWashingtonStandard.com</a>.  He is husband to his "more precious than rubies" wife, father of 10 "mighty arrows", jack of all trades, Christian and lover of liberty. He resides in the U.S. occupied Great State of South Carolina. .  Follow Tim on <a href="https://twitter.com/FPPTim">Twitter</a>. Also check him out on <a href="https://gab.ai/TimBrown">Gab</a>, <a href="https://www.minds.com/ReformedMedia">Minds</a>, <a href="https://mewe.com/profile/5aeb7f40a5f4e51028d301ff">MeWe</a>, <a href="https://www.spreely.com/page/TheWashingtonStandard">Spreely</a>, <a href="https://www.mumblit.com/TheWashingtonStandard">Mumbl It</a> and <a href="https://steemit.com/@reformedmedia">Steemit</a> </div> <div class="dcms_author-footer"> <div class="dcms_author-social"> <a class="author-url" href="https://thewashingtonstandard.com" target="_blank"><i aria-hidden="true" class="fa fa-link"></i></a> <a class="author-twitter" href="https://twitter.com/FPPTim" target="_blank"><i aria-hidden="true" class="fa fa-twitter"></i></a> <a class="author-facebook" href="https://www.facebook.com/thewashingtonstandard/" target="_blank"><i aria-hidden="true" class="fa fa-facebook"></i></a> <a class="author-pinterest" href="https://www.pinterest.com/ReformedMediaInc/reformed-media/" target="_blank"><i aria-hidden="true" class="fa fa-pinterest-p"></i></a> <a class="author-linkedin" href="https://www.linkedin.com/in/tim-brown-471b8068/" target="_blank"><i aria-hidden="true" class="fa fa-linkedin"></i></a> <a class="author-youtube" href="https://bit.ly/settingbrushfires" target="_blank"><i aria-hidden="true" class="fa fa-youtube"></i></a> <a class="author-instagram" href="https://www.instagram.com/reformedmediainc/" target="_blank"><i aria-hidden="true" class="fa fa-instagram"></i></a> </div> <div class="dcms_author-show-all"> <a href="https://thewashingtonstandard.com/author/timbrown/">View all posts <i aria-hidden="true" class="fa fa-angle-right"></i></a> </div> </div> </div><div class="vw-after-post-content"><div id="ld-9916-2787"></div>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11229615620571750,size:[0, 0],id:"ld-9916-2787"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<div id="ld-5476-3400"></div>
+<div id="ld-3144-5478"></div>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:13299128834695782,size:[0, 0],id:"ld-3144-5478"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11229615620571750,size:[0, 0],id:"ld-5476-3400"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<div id="rcjsload_600273"></div>
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script></div><!-- AI CONTENT END 2 -->
+</div>
+</article><!-- #post-## -->
+<div class="vw-related-posts vw-related-posts-style-default">
+<h3 class="vw-related-posts-title"><span>Related Posts</span></h3>
+<div class="vw-post-loop vw-post-loop-small-top-thumbnail vw-post-loop-small-top-thumbnail-2 vw-post-loop-col-2">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-block-grid vw-block-grid-xs-2 vw-block-grid-md-4">
+<div class="vw-block-grid-item">
+<div class="vw-post-box vw-post-style-small-top-thumbnail clearfix vw-post-format-standard" itemscope="" itemtype="http://schema.org/Article">
+<meta content="2023-03-08T18:16:40-05:00" itemprop="datePublished"/>
+<div itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+<meta content="The Washington Standard" itemprop="name"/>
+<div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" itemprop="url"/>
+<meta content="600" itemprop="width"/>
+<meta content="134" itemprop="height"/>
+</div>
+</div>
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/mattagorist/" itemprop="name" rel="author" title="Posts by Matt Agorist">Matt Agorist</a>
+</span>
+<a class="vw-post-box-thumbnail" href="https://thewashingtonstandard.com/200-cops-in-a-single-department-accused-of-domestic-violence-sex-crimes-including-against-children/" rel="bookmark">
+<img alt="" class="attachment-vw_one_six_thumbnail size-vw_one_six_thumbnail wp-post-image" height="116" itemprop="image" loading="lazy" sizes="(max-width: 165px) 100vw, 165px" src="https://thewashingtonstandard.com/wp-content/uploads/2023/03/08ff3426ef851196111855f593a7166d-165x116.jpg" srcset="https://thewashingtonstandard.com/wp-content/uploads/2023/03/08ff3426ef851196111855f593a7166d-165x116.jpg 165w, https://thewashingtonstandard.com/wp-content/uploads/2023/03/08ff3426ef851196111855f593a7166d-85x60.jpg 85w" width="165"/> </a>
+<div class="vw-post-box-inner">
+<h5 class="vw-post-box-title" itemprop="headline">
+<a href="https://thewashingtonstandard.com/200-cops-in-a-single-department-accused-of-domestic-violence-sex-crimes-including-against-children/" itemprop="url" rel="bookmark" title="Permalink to 200 Cops In A Single Department Accused Of Domestic Violence &amp; Sex Crimes, Including Against Children">200 Cops In A Single Department Accused Of Domestic Violence &amp; Sex Crimes, Including Against Children</a>
+</h5>
+</div>
+</div> </div>
+<div class="vw-block-grid-item">
+<div class="vw-post-box vw-post-style-small-top-thumbnail clearfix vw-post-format-standard" itemscope="" itemtype="http://schema.org/Article">
+<meta content="2023-03-08T18:14:20-05:00" itemprop="datePublished"/>
+<div itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+<meta content="The Washington Standard" itemprop="name"/>
+<div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" itemprop="url"/>
+<meta content="600" itemprop="width"/>
+<meta content="134" itemprop="height"/>
+</div>
+</div>
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/timbrown/" itemprop="name" rel="author" title="Posts by Tim Brown">Tim Brown</a>
+</span>
+<a class="vw-post-box-thumbnail" href="https://thewashingtonstandard.com/nanny-state-dead-ahead-video/" rel="bookmark">
+<img alt="" class="attachment-vw_one_six_thumbnail size-vw_one_six_thumbnail wp-post-image" height="116" itemprop="image" loading="lazy" sizes="(max-width: 165px) 100vw, 165px" src="https://thewashingtonstandard.com/wp-content/uploads/2023/02/Nanny_State_2023-165x116.jpg" srcset="https://thewashingtonstandard.com/wp-content/uploads/2023/02/Nanny_State_2023-165x116.jpg 165w, https://thewashingtonstandard.com/wp-content/uploads/2023/02/Nanny_State_2023-85x60.jpg 85w" width="165"/> </a>
+<div class="vw-post-box-inner">
+<h5 class="vw-post-box-title" itemprop="headline">
+<a href="https://thewashingtonstandard.com/nanny-state-dead-ahead-video/" itemprop="url" rel="bookmark" title="Permalink to Nanny State Dead Ahead! (Video)">Nanny State Dead Ahead! (Video)</a>
+</h5>
+</div>
+</div> </div>
+<div class="vw-block-grid-item">
+<div class="vw-post-box vw-post-style-small-top-thumbnail clearfix vw-post-format-standard" itemscope="" itemtype="http://schema.org/Article">
+<meta content="2023-03-08T18:10:27-05:00" itemprop="datePublished"/>
+<div itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+<meta content="The Washington Standard" itemprop="name"/>
+<div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" itemprop="url"/>
+<meta content="600" itemprop="width"/>
+<meta content="134" itemprop="height"/>
+</div>
+</div>
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/thewashingtonstandard/" itemprop="name" rel="author" title="Posts by The Washington Standard">The Washington Standard</a>
+</span>
+<a class="vw-post-box-thumbnail" href="https://thewashingtonstandard.com/readin-ritin-rainbow-madness-drag-queen-forces-11-year-old-to-leave-class-for-denying-73-genders/" rel="bookmark">
+<img alt="" class="attachment-vw_one_six_thumbnail size-vw_one_six_thumbnail wp-post-image" height="116" itemprop="image" loading="lazy" sizes="(max-width: 165px) 100vw, 165px" src="https://thewashingtonstandard.com/wp-content/uploads/2023/03/88cee20990c68b34c65f49221b1e4836-165x116.jpg" srcset="https://thewashingtonstandard.com/wp-content/uploads/2023/03/88cee20990c68b34c65f49221b1e4836-165x116.jpg 165w, https://thewashingtonstandard.com/wp-content/uploads/2023/03/88cee20990c68b34c65f49221b1e4836-85x60.jpg 85w" width="165"/> </a>
+<div class="vw-post-box-inner">
+<h5 class="vw-post-box-title" itemprop="headline">
+<a href="https://thewashingtonstandard.com/readin-ritin-rainbow-madness-drag-queen-forces-11-year-old-to-leave-class-for-denying-73-genders/" itemprop="url" rel="bookmark" title="Permalink to Readin’, ‘Ritin, &amp; Rainbow Madness! Drag Queen Forces 11-Year-Old To Leave Class For Denying 73 Genders">Readin’, ‘Ritin, &amp; Rainbow Madness! Drag Queen Forces 11-Year-Old To Leave Class For Denying 73 Genders</a>
+</h5>
+</div>
+</div> </div>
+<div class="vw-block-grid-item">
+<div class="vw-post-box vw-post-style-small-top-thumbnail clearfix vw-post-format-standard" itemscope="" itemtype="http://schema.org/Article">
+<meta content="2023-03-08T12:29:44-05:00" itemprop="datePublished"/>
+<div itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+<meta content="The Washington Standard" itemprop="name"/>
+<div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" itemprop="url"/>
+<meta content="600" itemprop="width"/>
+<meta content="134" itemprop="height"/>
+</div>
+</div>
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/mattagorist/" itemprop="name" rel="author" title="Posts by Matt Agorist">Matt Agorist</a>
+</span>
+<a class="vw-post-box-thumbnail" href="https://thewashingtonstandard.com/video-of-cop-beating-innocent-man-for-not-using-sidewalk-was-so-disturbing-the-cop-was-arrested/" rel="bookmark">
+<img alt="" class="attachment-vw_one_six_thumbnail size-vw_one_six_thumbnail wp-post-image" height="116" itemprop="image" loading="lazy" sizes="(max-width: 165px) 100vw, 165px" src="https://thewashingtonstandard.com/wp-content/uploads/2023/03/85cf8c580b276ad2b4b0dbdcc146a673-165x116.jpg" srcset="https://thewashingtonstandard.com/wp-content/uploads/2023/03/85cf8c580b276ad2b4b0dbdcc146a673-165x116.jpg 165w, https://thewashingtonstandard.com/wp-content/uploads/2023/03/85cf8c580b276ad2b4b0dbdcc146a673-85x60.jpg 85w" width="165"/> </a>
+<div class="vw-post-box-inner">
+<h5 class="vw-post-box-title" itemprop="headline">
+<a href="https://thewashingtonstandard.com/video-of-cop-beating-innocent-man-for-not-using-sidewalk-was-so-disturbing-the-cop-was-arrested/" itemprop="url" rel="bookmark" title="Permalink to Video of Cop Beating Innocent Man for Not Using Sidewalk was So Disturbing the Cop Was Arrested">Video of Cop Beating Innocent Man for Not Using Sidewalk was So Disturbing the Cop Was Arrested</a>
+</h5>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="vw-post-navigation clearfix">
+<a class="vw-post-navigation-previous" href="https://thewashingtonstandard.com/8000-mayo-clinic-employees-to-be-fired-for-refusing-covid-19-shots-hundreds-take-to-the-street-in-protest-video/">
+<div class="vw-post-navigation-content">
+<span class="vw-post-navigation-label">Previous post</span>
+<h3 class="vw-post-navigation-title">
+				8000 Mayo Clinic Employees to be Fired for Refusing COVID-19 Shots - Hundreds Take To The Street In Protest (Video)			</h3>
+</div>
+</a>
+<a class="vw-post-navigation-next" href="https://thewashingtonstandard.com/a-message-from-a-militia-leader-time-for-the-rightful-rulers-to-do-our-duty-video/">
+<div class="vw-post-navigation-content">
+<span class="vw-post-navigation-label">Next post</span>
+<h3 class="vw-post-navigation-title">
+				A Message From A Militia Leader: Time For The Rightful Rulers To Do Our Duty! (Video)			</h3>
+</div>
+</a>
+</div>
+</div>
+<aside class="vw-page-sidebar vw-page-sidebar-right" itemscope="" itemtype="http://schema.org/WPSideBar">
+<meta content="Right Sidebar" itemprop="name"/>
+<div class="vw-sticky-sidebar-wrapper"><div class="vw-sticky-sidebar"><div class="widget widget_text" id="text-15"> <div class="textwidget"><style>@import url("//fonts.googleapis.com/css?family=Noticia+Text:400,400italic,700,700italic");
+body.greenarrow_web_form {
+  background-image: url(%%studio_root_url%%assets/form-seamlesstexture8_500.jpg);
+}</p>
+<p>.greenarrow_web_form {
+  /* =Buttons
+   *-------------------------------------------------------------- */
+  /* =Buttons (Call to Action)
+   *-------------------------------------------------------------- */
+  /* =Buttons (Sizes)
+   *-------------------------------------------------------------- */
+  /* =Buttons (Colors)
+   *-------------------------------------------------------------- */
+}
+.greenarrow_web_form html, .greenarrow_web_form body, .greenarrow_web_form div, .greenarrow_web_form span, .greenarrow_web_form applet, .greenarrow_web_form object, .greenarrow_web_form iframe,
+.greenarrow_web_form h1, .greenarrow_web_form h2, .greenarrow_web_form h3, .greenarrow_web_form h4, .greenarrow_web_form h5, .greenarrow_web_form h6, .greenarrow_web_form p, .greenarrow_web_form blockquote, .greenarrow_web_form pre,
+.greenarrow_web_form a, .greenarrow_web_form abbr, .greenarrow_web_form acronym, .greenarrow_web_form address, .greenarrow_web_form big, .greenarrow_web_form cite, .greenarrow_web_form code,
+.greenarrow_web_form del, .greenarrow_web_form dfn, .greenarrow_web_form em, .greenarrow_web_form img, .greenarrow_web_form ins, .greenarrow_web_form kbd, .greenarrow_web_form q, .greenarrow_web_form s, .greenarrow_web_form samp,
+.greenarrow_web_form small, .greenarrow_web_form strike, .greenarrow_web_form strong, .greenarrow_web_form sub, .greenarrow_web_form sup, .greenarrow_web_form tt, .greenarrow_web_form var,
+.greenarrow_web_form b, .greenarrow_web_form u, .greenarrow_web_form i, .greenarrow_web_form center,
+.greenarrow_web_form dl, .greenarrow_web_form dt, .greenarrow_web_form dd, .greenarrow_web_form ol, .greenarrow_web_form ul, .greenarrow_web_form li,
+.greenarrow_web_form fieldset, .greenarrow_web_form form, .greenarrow_web_form label, .greenarrow_web_form legend,
+.greenarrow_web_form table, .greenarrow_web_form caption, .greenarrow_web_form tbody, .greenarrow_web_form tfoot, .greenarrow_web_form thead, .greenarrow_web_form tr, .greenarrow_web_form th, .greenarrow_web_form td,
+.greenarrow_web_form article, .greenarrow_web_form aside, .greenarrow_web_form canvas, .greenarrow_web_form details, .greenarrow_web_form embed,
+.greenarrow_web_form figure, .greenarrow_web_form figcaption, .greenarrow_web_form footer, .greenarrow_web_form header, .greenarrow_web_form hgroup,
+.greenarrow_web_form menu, .greenarrow_web_form nav, .greenarrow_web_form output, .greenarrow_web_form ruby, .greenarrow_web_form section, .greenarrow_web_form summary,
+.greenarrow_web_form time, .greenarrow_web_form mark, .greenarrow_web_form audio, .greenarrow_web_form video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+.greenarrow_web_form html {
+  line-height: 1;
+}
+.greenarrow_web_form ol, .greenarrow_web_form ul {
+  list-style: none;
+}
+.greenarrow_web_form table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.greenarrow_web_form caption, .greenarrow_web_form th, .greenarrow_web_form td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+.greenarrow_web_form q, .greenarrow_web_form blockquote {
+  quotes: none;
+}
+.greenarrow_web_form q:before, .greenarrow_web_form q:after, .greenarrow_web_form blockquote:before, .greenarrow_web_form blockquote:after {
+  content: "";
+  content: none;
+}
+.greenarrow_web_form a img {
+  border: none;
+}
+.greenarrow_web_form article, .greenarrow_web_form aside, .greenarrow_web_form details, .greenarrow_web_form figcaption, .greenarrow_web_form figure, .greenarrow_web_form footer, .greenarrow_web_form header, .greenarrow_web_form hgroup, .greenarrow_web_form main, .greenarrow_web_form menu, .greenarrow_web_form nav, .greenarrow_web_form section, .greenarrow_web_form summary {
+  display: block;
+}
+.greenarrow_web_form body {
+  line-height: 1;
+  font-family: "Open Sans", sans-serif;
+  padding: 0;
+  background-color: #ededed;
+}
+.greenarrow_web_form .main-box {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  padding: 50px;
+  background-color: #FFF;
+  text-shadow: 0px 0px 0px #CCC;
+  line-height: 1.5em;
+}
+.greenarrow_web_form .rounded-box {
+  margin-top: 75px;
+  margin-bottom: 75px;
+  border: 1px solid #CCC;
+  -webkit-box-shadow: 2px 2px 4px 0px #999999;
+  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  box-shadow: 2px 2px 4px 0px #999999;
+  /* Opera 10.5, IE9+, Firefox 4+, Chrome 6+, iOS 5 */
+  -webkit-border-radius: 5px;
+  border-radius: 10px;
+}
+.greenarrow_web_form .alert-error {
+  color: #b94a48;
+  background-color: #f2dede;
+  border: 1px solid #eed3d7;
+  padding: 8px 35px 8px 14px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+.greenarrow_web_form h1 {
+  font-family: "Noticia Text", sans-serif;
+  margin: 0px 0px 20px 0px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2.5em;
+  color: #3F86C0;
+  line-height: 1.2em;
+}
+.greenarrow_web_form p {
+  padding-bottom: 10px;
+}
+.greenarrow_web_form ul.form-fields {
+  list-style: none;
+  padding-left: 0px;
+}
+.greenarrow_web_form ul.form-fields li {
+  position: relative;
+  text-align: left;
+  line-height: 2em;
+  padding: 10px 0px 0px 10px;
+  margin: -10px -10px 10px -10px;
+}
+.greenarrow_web_form ul.form-fields li.field_with_errors {
+  background-color: #FFEEEE;
+  border: 1px solid #FFDDDD;
+  margin-bottom: 15px;
+}
+.greenarrow_web_form ul.form-fields li.field_with_errors span.error {
+  color: #FF0000;
+  font-weight: normal;
+  text-align: center;
+  display: block;
+}
+.greenarrow_web_form ul.form-fields li label {
+  display: inline-block;
+  vertical-align: top;
+  font-family: "Noticia Text", sans-serif;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #3F86C0;
+}
+.greenarrow_web_form ul.form-fields li .quick-tip {
+  display: block;
+  color: gray;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 0.9em;
+}
+.greenarrow_web_form ul.form-fields div.field-content label.radio {
+  font-family: "Open Sans", san-serif;
+  display: list-item;
+  font-size: 0.9em;
+  margin-left: 25px;
+  font-weight: normal;
+  color: #666;
+}
+.greenarrow_web_form ul.form-fields div.field-content label.checkbox {
+  font-family: "Open Sans", san-serif;
+  width: 300px;
+  font-size: 0.9em;
+  margin-left: 25px;
+  font-weight: normal;
+  color: #666;
+}
+.greenarrow_web_form .main-box .form-description p {
+  margin: 10px 0px 25px 0px;
+  color: #666;
+  padding: 20px 0px;
+  border-bottom: 1px solid #DDD;
+  border-top: 1px solid #DDD;
+}
+.greenarrow_web_form ul.form-fields input[type="text"], .greenarrow_web_form ul.form-fields select, .greenarrow_web_form ul.form-fields textarea, .greenarrow_web_form ul.form-fields div.field-content {
+  display: inline-block;
+  width: 490px;
+  line-height: 1.5em;
+  font-family: "Open Sans", san-serif;
+}
+.greenarrow_web_form ul.form-fields div.field-content {
+  display: inline-block;
+}
+.greenarrow_web_form div.form-actions-container {
+  padding-top: 20px;
+  border-top: 1px solid #DDD;
+}
+.greenarrow_web_form button, .greenarrow_web_form a.button {
+  -moz-border-radius: 5px;
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-border-radius: 5px;
+  background-color: #f9f9f9;
+  /* Alabaster */
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -ms-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: linear-gradient(top, #f9f9f9, #f1f1f1);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  color: #333;
+  cursor: pointer;
+  display: inline-block;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#f9f9f9, endColorstr=#f1f1f1);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 0;
+  padding: 4px 10px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #fff;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.greenarrow_web_form input[type='reset'], .greenarrow_web_form input[type='button'], .greenarrow_web_form input[type='submit'] {
+  -moz-border-radius: 5px;
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-border-radius: 5px;
+  background-color: #f9f9f9;
+  /* Alabaster */
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -ms-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: linear-gradient(top, #f9f9f9, #f1f1f1);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  color: #333;
+  cursor: pointer;
+  display: inline-block;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#f9f9f9, endColorstr=#f1f1f1);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 0;
+  padding: 4px 10px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #fff;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.greenarrow_web_form button:hover, .greenarrow_web_form a.button:hover {
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  background-color: #fff;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(white), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, white, #f1f1f1);
+  background-image: -moz-linear-gradient(top, white, #f1f1f1);
+  background-image: -ms-linear-gradient(top, white, #f1f1f1);
+  background-image: -o-linear-gradient(top, white, #f1f1f1);
+  background-image: linear-gradient(top, white, #f1f1f1);
+  border: 1px solid #ddd;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  color: #333;
+}
+.greenarrow_web_form input[type='reset']:hover, .greenarrow_web_form input[type='button']:hover, .greenarrow_web_form input[type='submit']:hover {
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  background-color: #fff;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(white), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, white, #f1f1f1);
+  background-image: -moz-linear-gradient(top, white, #f1f1f1);
+  background-image: -ms-linear-gradient(top, white, #f1f1f1);
+  background-image: -o-linear-gradient(top, white, #f1f1f1);
+  background-image: linear-gradient(top, white, #f1f1f1);
+  border: 1px solid #ddd;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  color: #333;
+}
+.greenarrow_web_form button:active, .greenarrow_web_form a.button:active {
+  -moz-box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -ms-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: linear-gradient(top, #f9f9f9, #f1f1f1);
+  box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+.greenarrow_web_form input[type='reset']:active, .greenarrow_web_form input[type='button']:active, .greenarrow_web_form input[type='submit']:active {
+  -moz-box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -ms-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: linear-gradient(top, #f9f9f9, #f1f1f1);
+  box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+.greenarrow_web_form .call-to-action {
+  text-align: center;
+}
+.greenarrow_web_form .call-to-action a.button {
+  font-size: 24px;
+  padding: 15px 35px;
+}
+.greenarrow_web_form .call-to-action a.button:hover {
+  text-decoration: none;
+}
+.greenarrow_web_form .ie7 .call-to-action a.button {
+  padding: 11px 35px 19px 35px;
+}
+.greenarrow_web_form .small a.button {
+  font-size: 10px;
+  padding: 3px 6px;
+}
+.greenarrow_web_form .medium a.button {
+  font-size: 16px;
+  padding: 8px 16px;
+}
+.greenarrow_web_form .large a.button {
+  font-size: 18px;
+  padding: 10px 35px;
+}
+.greenarrow_web_form .xlarge a.button {
+  font-size: 24px;
+  padding: 12px 55px;
+}
+.greenarrow_web_form a.colored, .greenarrow_web_form button.colored {
+  background-color: #1874cd;
+  /* Dodger Blue */
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#4f9eea), to(#1874cd));
+  background-image: -webkit-linear-gradient(top, #4f9eea, #1874cd);
+  background-image: -moz-linear-gradient(top, #4f9eea, #1874cd);
+  background-image: -ms-linear-gradient(top, #4f9eea, #1874cd);
+  background-image: -o-linear-gradient(top, #4f9eea, #1874cd);
+  background-image: linear-gradient(top, #4f9eea, #1874cd);
+  border: 1px solid #115290;
+  color: #fff;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4f9eea, endColorstr=#1874cd);
+  text-shadow: 0 -1px 0 #115290;
+}
+.greenarrow_web_form a.colored:hover, .greenarrow_web_form button.colored:hover {
+  background-color: #7db7f0;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#7db7f0), to(#1874cd));
+  background-image: -webkit-linear-gradient(top, #7db7f0, #1874cd);
+  background-image: -moz-linear-gradient(top, #7db7f0, #1874cd);
+  background-image: -ms-linear-gradient(top, #7db7f0, #1874cd);
+  background-image: -o-linear-gradient(top, #7db7f0, #1874cd);
+  background-image: linear-gradient(top, #7db7f0, #1874cd);
+  border: 1px solid #115290;
+  color: #fff;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7db7f0, endColorstr=#1874cd);
+  text-shadow: 0 -1px 0 #115290;
+}
+</style>
+<div class="greenarrow_web_form">
+<div class="main-box">
+<h1>Sign Up To Receive Our Daily Updates</h1>
+<form accept-charset="UTF-8" action="http://if.inboxfirst.com/ga/front/forms/1019/subscriptions/" class="simple_form embedded-ga-subscription-form" id="new_pending_subscriber" method="post" novalidate="novalidate" target="_parent">
+<div style="margin: 0; padding: 0; display: inline;"><input name="utf8" type="hidden" value="✓"/></div>
+<ul class="form-fields">
+<li style="list-style-type: none;">
+<ul class="form-fields">
+<li class="form-field clear text required pending_subscriber_email"><label class="text required control-label" for="pending_subscriber_email"><abbr title="required">*</abbr> Email</label><br/>
+<input class="string required" id="pending_subscriber_email" name="pending_subscriber[email]" size="50" type="text"/></li>
+</ul>
+</li>
+</ul>
+<p><script async="" defer="" src="https://www.google.com/recaptcha/api.js"></script><br/>
+<script>
+  function onCaptchaFormSubmit(token) {
+    document.getElementById("new_pending_subscriber").submit();
+  }
+</script></p>
+<ul class="form-fields">
+<li>
+<div class="form-actions-container call-to-action"><button class="button colored g-recaptcha" data-callback="onCaptchaFormSubmit" data-sitekey="6LcQK5wUAAAAAM8CPJoJl_AiFtnAhNNB--YdWQLM" type="submit">Subscribe</button></div>
+</li>
+</ul>
+</form>
+</div>
+</div>
+</div>
+</div><div class="widget widget_text" id="text-12"> <div class="textwidget"><p><script src="https://whatfinger-videos.b-cdn.net/widgets/new-wfw.js"></script></p>
+<div data-action="widget" id="wWidget_72c367966e"></div>
+<p><script type="application/javascript">var wWidgetConf_72c367966e = {rows: 4,cols: 1,backgroundColor: 'rgb(240, 240, 240)',textColor: 'rgb(0, 0, 0)',borderColor: '#DDD',displayContent: '0',contentSort: '0',contentType: '0',showTitle: '1',showThumb: '1',widgetID: 'wWidget_72c367966e',layout: 'basic'};</script></p>
+</div>
+</div><div class="widget widget_text" id="text-17"> <div class="textwidget"><p><center><a href="https://mypatriotsupply.com/products/new-for-2020-ultimate-preparedness-kit-survival-made-simple?rfsn=5131805.ffe1a3"><img src="https://reformedmedia.net/wp-content/uploads/2022/04/b368b4fa324a6a16f15f475322d0d378.png"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-18"> <div class="textwidget"><p><center><a href="https://www.emfsol.com/?aff=ctQ9GqtsMfLBD3XJZ"><img src="https://thewashingtonstandard.com/wp-content/uploads/2022/10/7289b313c0f61ba6177c38a84d37904d.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-26"> <div class="textwidget"><p><center><a href="https://www.bereli.com?aff=4341"><img src="https://thewashingtonstandard.com/wp-content/uploads/2023/01/berili.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-20"> <div class="textwidget"><p><center><a href="https://timbrown.thegoodinside.com/pbx-trial-offer-557846"><img src="https://thewashingtonstandard.com/wp-content/uploads/2022/10/PBX60.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-25"> <div class="textwidget"><p><center><a href="https://2ndamendmentshirts.com/"><img src="https://thewashingtonstandard.com/wp-content/uploads/2022/12/2ND-AMENDMENT-SHIRTS.png"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-21"> <div class="textwidget"><p><center><a href="https://mystore.com/timbrown"><img src="https://thewashingtonstandard.com/wp-content/uploads/2023/03/timbrown6.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-9"> <div class="textwidget"><p><center><a href="https://heavensharvest.com/collections/seed-kits/products/heirloom-vegetable-seed-bucket?variant=34283425333292"><img src="https://thewashingtonstandard.com/wp-content/uploads/2023/01/heirloom-seed-bucket-seeds-spread1.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-24"> <div class="textwidget"><p><a href="https://mywayuniversity.com/"><img src="https://settingbrushfires.com/wp-content/uploads/2022/10/averting-disease-healthy-body.jpg"/></a></p>
+</div>
+</div><div class="widget widget_text" id="text-23"> <div class="textwidget"><p><a href="https://shop.foodforestabundance.com/TIMBROWN"><img src="https://settingbrushfires.com/wp-content/uploads/2022/10/Food-Forest-Abundance-Install-1-1-1024x684-1.jpg"/></a></p>
+</div>
+</div><div class="widget widget_text" id="text-8"> <div class="textwidget"><p><center><a href="https://wn.nr/FbxxdBD"><img src="https://user-assets.out.sh/user-assets/38224/fEkmrSPjlwqXNS2c/fn-scar-20s-dmr-contest-graphic.jpg" width="360"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-4"> <div class="textwidget"><p><center><a href="https://ammo.com/i/aGRNd0wwRGwxTFE9c" title="Click Here To Save $15 at Ammo.com"><img alt="Click Here To Save $15 at Ammo.com" border="0" height="400" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/refer-a-friend/animated/09_240_400_dark_a2-min.gif" width="240"/></a></center></p>
+</div>
+</div><div class="widget_text widget widget_custom_html" id="custom_html-4"><div class="textwidget custom-html-widget"><div id="ld-8894-6461"></div>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11366057571234406,size:[0, 0],id:"ld-8894-6461"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<!-- Begin Constant Contact Active Forms -->
+<script> var _ctct_m = "26757d10df877cf88ecaa7b09a195719"; </script>
+<script async="" defer="" id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js"></script>
+<!-- End Constant Contact Active Forms --></div></div><div class="widget widget_categories" id="categories-3"><h3 class="widget-title"><span>Categories</span></h3>
+<ul>
+<li class="cat-item cat-item-18"><a href="https://thewashingtonstandard.com/category/commentary/">Commentary</a>
+</li>
+<li class="cat-item cat-item-8"><a href="https://thewashingtonstandard.com/category/constitutionandlaw/">Constitution &amp; Law</a>
+</li>
+<li class="cat-item cat-item-11"><a href="https://thewashingtonstandard.com/category/economy/">Economy</a>
+</li>
+<li class="cat-item cat-item-6"><a href="https://thewashingtonstandard.com/category/politics/">Politics</a>
+</li>
+<li class="cat-item cat-item-1"><a href="https://thewashingtonstandard.com/category/uncategorized/">Uncategorized</a>
+</li>
+<li class="cat-item cat-item-4"><a href="https://thewashingtonstandard.com/category/us-news/">US</a>
+</li>
+<li class="cat-item cat-item-7"><a href="https://thewashingtonstandard.com/category/videos/">Videos</a>
+</li>
+<li class="cat-item cat-item-5"><a href="https://thewashingtonstandard.com/category/worldnews/">World</a>
+</li>
+</ul>
+</div></div></div>
+</aside>
+</div>
+</div>
+</div>
+<!-- Site Footer -->
+<footer class="vw-site-footer" itemscope="" itemtype="http://schema.org/WPFooter">
+<!-- Bottom Bar -->
+<div class="vw-bottom-bar">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-bottom-bar-inner">
+<div class="vw-bottom-bar-left">
+<div class="vw-copyright">Copyright © The Washington Standard, All Rights Reserved.
+Our posts contain affiliate links and we earn a small commission from those links. This is how we help to make money so we can continue to bring you amazing content. Thank you for your support.
+</div> </div>
+<div class="vw-bottom-bar-right">
+<span class="vw-site-social-profile"><a class="vw-site-social-profile-icon vw-site-social-facebook" href="https://www.facebook.com/thewashingtonstandard" title="Facebook"><i class="vw-icon icon-social-facebook"></i></a><a class="vw-site-social-profile-icon vw-site-social-twitter" href="https://twitter.com/FPPTim" title="Twitter"><i class="vw-icon icon-social-twitter"></i></a><a class="vw-site-social-profile-icon vw-site-social-youtube" href="https://bit.ly/settingbrushfires" title="Youtube"><i class="vw-icon icon-social-youtube"></i></a></span> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- End Bottom Bar -->
+</footer>
+<!-- End Site Footer -->
+</div>
+<!-- End Site Wrapper -->
+<!-- WP Footer -->
+<div class="zoom-anim-dialog mfp-hide" id="vw-post-shares-dialog">
+<span class="vw-post-shares-subtitle">SHARE</span>
+<h1 class="vw-header-font vw-post-shares-title">Mom Blasts School Board:  If You Approve Of This, You Belong On A National Registry, Not A School Board! (Video)</h1>
+<div class="vw-post-shares-socials">
+<a class="vw-post-shares-social vw-post-shares-social-facebook" data-height="300" data-post-id="101520" data-share-to="facebook" data-width="500" href="https://www.facebook.com/sharer.php?u=https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/"><i class="vw-icon icon-social-facebook"></i></a>
+<a class="vw-post-shares-social vw-post-shares-social-twitter" data-height="300" data-post-id="101520" data-share-to="twitter" data-width="500" href="https://twitter.com/intent/tweet?status=Mom+Blasts+School+Board%3A++If+You+Approve+Of+This%2C+You+Belong+On+A+National+Registry%2C+Not+A+School+Board%21+%28Video%29%20-%20https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/"><i class="vw-icon icon-social-twitter"></i></a>
+<a class="vw-post-shares-social vw-post-shares-social-pinterest" data-height="300" data-post-id="101520" data-share-to="pinterest" data-width="750" href="https://pinterest.com/pin/create/button/?url=https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/&amp;media=https://thewashingtonstandard.com/wp-content/uploads/2021/10/b31635fe380f28e136e2465edbceaad9.jpg&amp;description=Mom+Blasts+School+Board%3A++If+You+Approve+Of+This%2C+You+Belong+On+A+National+Registry%2C+Not+A+School+Board%21+%28Video%29"><i class="vw-icon icon-social-pinterest"></i></a>
+<a class="vw-post-shares-social vw-post-shares-social-gplus" data-height="475" data-post-id="101520" data-share-to="gplus" data-width="500" href="https://plus.google.com/share?url=https://thewashingtonstandard.com/mom-blasts-school-board-if-you-approve-of-this-you-belong-on-a-national-registry-not-a-school-board-video/"><i class="vw-icon icon-social-gplus"></i></a>
+</div>
+</div>
+<span class="vw-scroll-to-top"><i class="vw-icon icon-entypo-up-open"></i></span>
+<script id="swv-js" src="https://thewashingtonstandard.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.4" type="text/javascript"></script>
+<script id="contact-form-7-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/thewashingtonstandard.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script id="contact-form-7-js" src="https://thewashingtonstandard.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.4" type="text/javascript"></script>
+<script id="vwjs-post-shares-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var vw_post_shares = {"ajaxurl":"https:\/\/thewashingtonstandard.com\/wp-admin\/admin-ajax.php","is_caching_enabled":"1"};
+/* ]]> */
+</script>
+<script id="vwjs-post-shares-js" src="https://thewashingtonstandard.com/wp-content/plugins/espresso-theme-options-panel/plugin-terrory/post-shares/post-shares.js?ver=1.5.4" type="text/javascript"></script>
+<script id="instant-search-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var instant_search = {"blog_url":"https:\/\/thewashingtonstandard.com","ajax_url":"https:\/\/thewashingtonstandard.com\/wp-admin\/admin-ajax.php","placeholder":"Search"};
+/* ]]> */
+</script>
+<script id="instant-search-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/inc/instant-search/instant-search.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-fitvids-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.fitvids.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-pace-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/components/pace/pace.min.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-backstretch-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-backstretch/jquery.backstretch.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-hoverintent-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.hoverIntent.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-imagesloaded-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/imagesloaded.pkgd.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-isotope-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/isotope.pkgd.min.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-jquery-easing-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.easing.compatibility.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-magnific-popup-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.magnific-popup.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-modernizr-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/modernizr.min.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-imgliquid-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/imgLiquid.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-raty-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/raty/jquery.raty.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-superfish-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-superfish/superfish.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-tipsy-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-tipsy/jquery.tipsy.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-newsticker-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.newsTicker.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-sticky-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.sticky.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-swiper-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/swiper/swiper.jquery.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-mmenu-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-mmenu/js/jquery.mmenu.min.all.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-main-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var vw_main_js = {"theme_path":"https:\/\/thewashingtonstandard.com\/wp-content\/themes\/espresso","ajaxurl":"https:\/\/thewashingtonstandard.com\/wp-admin\/admin-ajax.php","slider_slide_duration":"5000","slider_transition_speed":"2500","VW_CONST_BACKSTRETCH_OPT_FADE":"600","VW_CONST_BACKSTRETCH_OPT_CENTEREDY":"true","VW_CONST_BACKSTRETCH_OPT_CENTEREDX":"true","VW_CONST_BACKSTRETCH_OPT_DURATION":"5000"};
+/* ]]> */
+</script>
+<script id="vwjs-main-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/main.js?ver=1.5.4" type="text/javascript"></script>
+<script id="jquery-effects-core-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="jquery-effects-fade-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="jquery-ui-core-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="jquery-ui-accordion-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="jquery-ui-tabs-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="vwscjs-main-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/shortcodes.js?ver=1.5.4" type="text/javascript"></script>
+<script async="async" id="remote_sdk-js" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.0.3" type="text/javascript"></script>
+<script id="vw-backstretch-image-captions-template" type="text/template">
+					<div class="vw-page-title-image-captions vw-featured-image-caption-wrapper">
+											</div>
+				</script>
+<script type="text/javascript">
+					"use strict";
+					if ( jQuery.backstretch ) {
+						var $target = jQuery( '.vw-page-title-section' );
+						$target.backstretch(
+							['https://thewashingtonstandard.com/wp-content/uploads/2021/10/b31635fe380f28e136e2465edbceaad9.jpg'], {
+								fade: 600,
+								centeredY: true,
+								centeredX: true,
+								duration: 5000,
+							}
+						).removeClass( 'vw-has-no-background' ).addClass( 'vw-backstretch vw-has-background' );
+
+						var $image_captions = jQuery( '#vw-backstretch-image-captions-template' ).html();
+						$target.find( '.vw-page-title-box' ).before( $image_captions );
+
+						jQuery( '.vw-gallery-direction-button.vw-gallery-direction-next' ).click( function() {
+							$target.backstretch("next");
+						} );
+
+						jQuery( '.vw-gallery-direction-button.vw-gallery-direction-prev' ).click( function() {
+							$target.backstretch("prev");
+						} );
+
+						jQuery(window).on("backstretch.after", function (e, instance, index) {
+							jQuery( '.vw-page-title-image-captions .vw-featured-image-caption' )
+								.addClass( 'hidden' )
+								.eq( index ).removeClass( 'hidden' );
+						});
+					}
+				</script>
+<script type="text/javascript">
+        jQuery(document).ready(function ($) {
+
+            for (let i = 0; i < document.forms.length; ++i) {
+                let form = document.forms[i];
+				if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="-LgxwVAj" value="860K.@Bz3ScQPfg" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="ZKeqQV" value="HB_YyRi9" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="yLZWuDHYKiSEOh" value="Dl1]EjPqsF@K" />'); }
+            }
+
+            $(document).on('submit', 'form', function () {
+				if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="-LgxwVAj" value="860K.@Bz3ScQPfg" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="ZKeqQV" value="HB_YyRi9" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="yLZWuDHYKiSEOh" value="Dl1]EjPqsF@K" />'); }
+                return true;
+            });
+
+            jQuery.ajaxSetup({
+                beforeSend: function (e, data) {
+
+                    if (data.type !== 'POST') return;
+
+                    if (typeof data.data === 'object' && data.data !== null) {
+						data.data.append("-LgxwVAj", "860K.@Bz3ScQPfg");
+data.data.append("ZKeqQV", "HB_YyRi9");
+data.data.append("yLZWuDHYKiSEOh", "Dl1]EjPqsF@K");
+                    }
+                    else {
+                        data.data = data.data + '&-LgxwVAj=860K.@Bz3ScQPfg&ZKeqQV=HB_YyRi9&yLZWuDHYKiSEOh=Dl1]EjPqsF@K';
+                    }
+                }
+            });
+
+        });
+    </script>
+<!-- End WP Footer -->
+</body>
+</html>
+<!-- Page generated by LiteSpeed Cache 5.3.2 on 2023-03-08 22:32:08 -->

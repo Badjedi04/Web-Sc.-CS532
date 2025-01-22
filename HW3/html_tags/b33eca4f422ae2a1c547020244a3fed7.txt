@@ -1,0 +1,1409 @@
+<!DOCTYPE html>
+
+<html lang="en-GB">
+<head>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-174493255-2"></script>
+<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'UA-174493255-2');
+	</script>
+<script src="https://adserv.davidicke.com/www/delivery/spcjs.php?id=1" type="text/javascript"></script>
+<style>.revive-ad { position:relative; }.revive-ad .disc { background-color:rgba(0,0,0,0.5);font-size:8px;padding:2px;color:#fff;position:absolute;top:0;right:5px; }.revive-ad a img { display:block;margin-bottom:25px; width:100%!important; }</style>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="http://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&amp;family=Viga&amp;family=Anton&amp;display=swap" rel="stylesheet"/>
+<title>Google and the CIA: How Independent Are Multinational Giants? – David Icke</title>
+<meta content="max-image-preview:large" name="robots">
+<meta content="https://davidicke.com/wp-content/uploads/2020/06/ET33a4GWsAE-cwy.png" property="og:image:secure_url">
+<meta content="https://davidicke.com/wp-content/uploads/2020/06/ET33a4GWsAE-cwy.png" property="og:image"/>
+<meta content="" property="og:image:type"/>
+<meta content="900" property="og:image:width"/>
+<meta content="599" property="og:image:height"/>
+<link href="https://davidicke.com/feed/" rel="alternate" title="David Icke » Feed" type="application/rss+xml">
+<link href="https://davidicke.com/comments/feed/" rel="alternate" title="David Icke » Comments Feed" type="application/rss+xml">
+<link href="https://davidicke.com/2021/03/30/google-and-the-cia-how-independent-are-multinational-giants/feed/" rel="alternate" title="David Icke » Google and the CIA: How Independent Are Multinational Giants? Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/davidicke.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://davidicke.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://davidicke.com/wp-includes/css/classic-themes.min.css?ver=1" id="classic-theme-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://davidicke.com/wp-content/plugins/Ultimate-Premium-Plugin/css/sfsi-style.css?ver=16.0" id="SFSIPLUSmainCss-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://davidicke.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.3" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://davidicke.com/wp-content/plugins/ultimate-social-media-icons/css/sfsi-style.css?ver=2.8.0" id="SFSImainCss-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://davidicke.com/wp-content/plugins/wp-contact-form7-email-spam-blocker/public/css/contact-form-7-email-spam-blocker-public.css?ver=1.0.0" id="contact-form-7-email-spam-blocker-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://davidicke.com/wp-content/themes/wp-bootstrap-4/style.css?1_1&amp;ver=6.1.1" id="parent-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://davidicke.com/wp-content/themes/wp-bootstrap-4/assets/css/open-iconic-bootstrap.css?ver=v4.0.0" id="open-iconic-bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://davidicke.com/wp-content/themes/wp-bootstrap-4/assets/css/bootstrap.css?ver=v4.0.0" id="bootstrap-4-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://davidicke.com/wp-content/themes/davidicke/style.css?ver=1.0.2" id="wp-bootstrap-4-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://davidicke.com/wp-content/plugins/mailin/css/mailin-front.css?ver=6.1.1" id="sib-front-css-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://davidicke.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://davidicke.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script id="contact-form-7-email-spam-blocker-js" src="https://davidicke.com/wp-content/plugins/wp-contact-form7-email-spam-blocker/public/js/contact-form-7-email-spam-blocker-public.js?ver=1.0.0" type="text/javascript"></script>
+<script id="sib-front-js-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var sibErrMsg = {"invalidMail":"Please fill out valid email address","requiredField":"Please fill out required fields","invalidDateFormat":"Please fill out valid date format","invalidSMSFormat":"Please fill out valid phone number"};
+var ajax_sib_front_object = {"ajax_url":"https:\/\/davidicke.com\/wp-admin\/admin-ajax.php","ajax_nonce":"7ee2e86e0c","flag_url":"https:\/\/davidicke.com\/wp-content\/plugins\/mailin\/img\/flags\/"};
+/* ]]> */
+</script>
+<script id="sib-front-js-js" src="https://davidicke.com/wp-content/plugins/mailin/js/mailin-front.js?ver=1675938855" type="text/javascript"></script>
+<link href="https://davidicke.com/wp-json/" rel="https://api.w.org/"/><link href="https://davidicke.com/wp-json/wp/v2/posts/592888" rel="alternate" type="application/json"/><link href="https://davidicke.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://davidicke.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 6.1.1" name="generator"/>
+<link href="https://davidicke.com/2021/03/30/google-and-the-cia-how-independent-are-multinational-giants/" rel="canonical"/>
+<link href="https://davidicke.com?p=592888" rel="shortlink"/>
+<style type="text/css">
+</style>
+<meta content="summary" name="twitter:card"/>
+<meta content="@" name="twitter:site"/>
+<meta content="@" name="twitter:creator"/>
+<meta content="https://davidicke.com/2021/03/30/google-and-the-cia-how-independent-are-multinational-giants/" name="twitter:url"/>
+<meta content="Google and the CIA: How Independent Are Multinational Giants?" name="twitter:title"/>
+<meta content="How independent are the largest corporations in the world? It is often portrayed that companies such as Google are simply private corporations that have very few connections to the establishment. Yet, as It turns out, there are endless connections between many corporate giants and the military-intelligence complex. We got a glimpse into this relationship back in 2016, when the former CEO of [...]" name="twitter:description"/>
+<meta content="https://davidicke.com/wp-content/uploads/2020/06/ET33a4GWsAE-cwy.png?1678319107" name="twitter:image"/>
+<meta content="https://davidicke.com/wp-content/uploads/2020/06/ET33a4GWsAE-cwy.png" data-id="sfsi" property="og:image:secure_url"/><meta content="summary_large_image" data-id="sfsi" property="twitter:card"/><meta content="https://davidicke.com/wp-content/uploads/2020/06/ET33a4GWsAE-cwy.png" data-id="sfsi" property="twitter:image"/><meta content="" data-id="sfsi" property="og:image:type"><meta content="900" data-id="sfsi" property="og:image:width"><meta content="599" data-id="sfsi" property="og:image:height"><meta content="https://davidicke.com/2021/03/30/google-and-the-cia-how-independent-are-multinational-giants/" data-id="sfsi" property="og:url"/><meta content="
+
+
+
+
+How independent are the largest corporations in the world? It is often portrayed that companies such as Google are simply private corporations that have very few connections to the establishment. Yet, as It turns out, there are endless connections between many corporate giants and the military-intelligence complex.
+
+
+
+We got a glimpse into this relationship back in 2016, when the former CEO of Google, Eric Schmidt, who, at the time, was Executive Chairman of Google’s parent company, Alphabet Inc, became the head of a new innovation board at the Pentagon. Later that year, Jeff Bezos, the CEO of Amazon, joined the same board at the Pentagon.
+
+
+
+Google and DARPA
+
+
+
+The ties between Google and US government agencies run much deeper than this, however. The relationship started even before the tech company was founded in the late 1990s. In 1994, the US government launched the Digital Library Initiative (DLI). This initiative awarded research grants to various university projects, mostly those who focused on developments in the early and emerging internet, with the overarching aim of this initiative being the creation of a global digital library.
+
+
+
+Multiple organizations were involved in selecting projects for DLI funds. Three of these organizations were the National Science Foundation, the National Aeronautics and Space Administration (NASA), and The Defense Advanced Research Projects Agency (DARPA), which is the arm of the US Department of Defense that funds and develops emerging technologies.
+
+
+
+One project that received funding through the DLI was at Stanford University, called The Stanford Integrated Digital Library Project. Between 1994 and 1999, the project received over $4.5 million in awards. The description of the award is very interesting, as it essentially describes what Google became:
+
+
+
+Read More: Google and the CIA: How Independent Are Multinational Giants?
+
+
+
+[answer-banner]
+" data-id="sfsi" property="og:description"/><meta content="Google and the CIA: How Independent Are Multinational Giants?" data-id="sfsi" property="og:title"/><link href="https://davidicke.com/xmlrpc.php" rel="pingback"/><link href="https://davidicke.com/wp-content/uploads/2020/05/favicon.ico" rel="icon" sizes="32x32">
+<link href="https://davidicke.com/wp-content/uploads/2020/05/favicon.ico" rel="icon" sizes="192x192"/>
+<link href="https://davidicke.com/wp-content/uploads/2020/05/favicon.ico" rel="apple-touch-icon"/>
+<meta content="https://davidicke.com/wp-content/uploads/2020/05/favicon.ico" name="msapplication-TileImage"/>
+<style type="text/css">.sfsibeforpstwpr .sfsiplus_norm_row.sfsi_plus_wDivothr .sfsi_premium_wicons:nth-child(2) {margin-left: 2.5px !important;margin-right: 2.5px !important;} .sfsibeforpstwpr .sfsiplus_norm_row.sfsi_plus_wDivothr .sfsi_premium_wicons, .sfsiaftrpstwpr .sfsiplus_norm_row.sfsi_plus_wDivothr .sfsi_premium_wicons{width: 40px !important;height: auto !important; margin-left: 2.5px !important;margin-right: 2.5px !important;margin-bottom: 5px !important;} .sfsibeforpstwpr .sfsiplus_norm_row.sfsi_plus_wDivothr .sfsi_premium_wicons .sciconfront, .sfsibeforpstwpr .sfsiplus_norm_row.sfsi_plus_wDivothr .sfsi_premium_wicons .sciconback, .sfsiaftrpstwpr .sfsiplus_norm_row.sfsi_plus_wDivothr .sfsi_premium_wicons .sciconfront, .sfsiaftrpstwpr .sfsiplus_norm_row.sfsi_plus_wDivothr .sfsi_premium_wicons .sciconback {width: 40px !important;height: 40px !important; }</style><meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="How independent are the largest corporations in the world? It is often portrayed that companies such as Google are simply private corporations that have very few connections to the establishment. Yet, as It turns out, there are endless connections between many corporate giants and the military-intelligence complex. We got a glimpse into this relationship back in 2016, when the former CEO of [...]" property="og:description">
+<meta content="https://davidicke.com/2021/03/30/google-and-the-cia-how-independent-are-multinational-giants/" property="og:url"/>
+<meta content="Google and the CIA: How Independent Are Multinational Giants?" property="og:title"/>
+</meta></link></meta></meta></meta></link></link></meta></meta></head>
+<body class="post-template-default single single-post postid-592888 single-format-standard wp-custom-logo usm-premium-16.0-updated-2022-08-24 sfsi_plus_16.0 sfsi_plus_count_disabled sfsi_plus_actvite_theme_default sfsi_actvite_theme_flat">
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+<div class="site" id="page">
+<header>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top main-nav fade show" id="mainNav">
+<div class="container">
+<a class="navbar-brand" href="/"><img alt="David Icke" class="img-fluid w-100" src="/wp-content/uploads/2020/12/DI.com-Logo-2.png"/></a>
+<button aria-controls="mainNavigation" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#mainNavigation" data-toggle="collapse" type="button">
+<svg class="feather feather-menu" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><line x1="3" x2="21" y1="12" y2="12"></line><line x1="3" x2="21" y1="6" y2="6"></line><line x1="3" x2="21" y1="18" y2="18"></line></svg>
+</button>
+<div class="collapse navbar-collapse" id="mainNavigation">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item">
+<a class="nav-link" href="/">Home</a>
+</li>
+<li class="nav-item dropdown megamenu">
+<a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="" id="megamneu">News</a>
+<div aria-labelledby="megamneu" class="dropdown-menu bg-white border-0 p-0 m-0">
+<div class="container">
+<div class="row w-100">
+<div class="col-12 col-md-12">
+<div class="p-4">
+<div class="row">
+<div class="col-12 col-md-12 col-lg-4 mb-4 mb-lg-0">
+<h6 class="text-uppercase">By Location</h6>
+<hr/>
+<ul class="list-unstyled">
+<li class="nav-item"><a class="nav-link mega" href="/category/uk-news">UK News</a></li>
+<li class="nav-item"><a class="nav-link mega" href="/category/us-news">US News</a></li>
+<li class="nav-item"><a class="nav-link mega" href="/category/world-news">World News</a></li>
+<li class="nav-item"><a class="nav-link mega" href="/category/european-union">EU News</a></li>
+<li class="nav-item"><a class="nav-link mega" href="/category/middle-east-news">Middle East News</a></li>
+</ul>
+</div>
+<div class="col-12 col-md-12 col-lg-4 mb-4 mb-lg-0">
+<h6 class="text-uppercase">Current Events</h6>
+<hr/>
+<ul class="list-unstyled">
+<li class="nav-item"><a class="nav-link mega" href="/category/coronavirus">Coronavirus</a></li>
+<li class="nav-item"><a class="nav-link mega" href="/category/technology">Technology</a></li>
+<li class="nav-item"><a class="nav-link mega" href="/category/health">Health</a></li>
+</ul>
+</div>
+<div class="col-12 col-md-12 col-lg-4 mb-4 mb-lg-0">
+<h6 class="text-uppercase">Nature of Reality</h6>
+<hr/>
+<ul class="list-unstyled">
+<li class="nav-item"><a class="nav-link mega" href="/category/the-awakening/">The Awakening</a></li>
+<li class="nav-item"><a class="nav-link mega" href="/category/new-physics">New Physics</a></li>
+<li class="nav-item"><a class="nav-link mega" href="/category/planetary-change">Planetary Change</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://ickonic.com/DavidIckeLive" rel="noreferrer" target="_blank">Live Events</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://shop.davidicke.com" rel="noreferrer" target="_blank">Shop</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://social.davidicke.com" rel="noreferrer" target="_blank">Forum</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="https://www.ickonic.com" rel="noreferrer" target="_blank">Ickonic</a>
+</li>
+</ul>
+<ul class="navbar-nav ml-auto">
+<li class="nav-item">
+<a class="btn btn-outline-light" href="/newsletter">
+<svg class="feather feather-trending-up" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline><polyline points="17 6 23 6 23 12"></polyline></svg>
+Subscribe to our Newsletter
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<nav class="navbar navbar-expand navbar-dark bg-dark bg-dark-secondary fade show">
+<div class="container">
+<div class="collapse navbar-collapse" id="subNavigation">
+<ul class="navbar-nav mr-auto mob-hide">
+<li class="nav-item">
+<a class="nav-link" href="/category/featured">Featured News</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/category/world-news">World News</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/category/uk-news">UK News</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/category/us-news">US News</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/category/european-union">EU News</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/category/nature-of-reality">Nature of Reality</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/category/common-law">Common Law</a>
+</li>
+</ul>
+<form class="form-inline fi-search my-2 my-lg-0 position-relative" onsubmit="return SearchWebsite()">
+<svg class="feather feather-search fs-absolute" fill="none" height="24" id="searchButton" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line></svg>
+<input class="form-control form-control-sm search" id="searchInput" placeholder="Search" type="text"/>
+</form>
+</div>
+</div>
+</nav>
+</header>
+<div class="container-fluid body-content" id="content">
+<div class="container">
+<div class="row">
+<div class="col-12 col-lg-8">
+<div class="content-area" id="primary">
+<main class="site-main" id="main">
+<article class="mainpost mt-3r post-592888 post type-post status-publish format-standard has-post-thumbnail hentry category-big-brother category-business-and-economy category-corporate-crime category-global-government category-illuminati-criminals category-new-world-order category-us-news tag-big-tech tag-cia tag-darpa tag-google tag-silicon-valley" id="post-592888">
+<div class="content-container">
+<h4 class="credits">
+Posted by Richard Willett - Memes and headline comments by David Icke <a class="float-right" href="#">Posted on 30 March 2021</a>
+</h4>
+<header class="entry-header">
+<h1 class="entry-title card-title h2">Google and the CIA: How Independent Are Multinational Giants?</h1> </header>
+<div class="entry-content">
+<div class="sfsibeforpstwpr" style="display:flex;justify-content:flex-start; clear:both;"></div>
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-575612" decoding="async" height="599" sizes="(max-width: 900px) 100vw, 900px" src="https://davidicke.com/wp-content/uploads/2020/06/ET33a4GWsAE-cwy.png" srcset="https://davidicke.com/wp-content/uploads/2020/06/ET33a4GWsAE-cwy.png 900w, https://davidicke.com/wp-content/uploads/2020/06/ET33a4GWsAE-cwy-500x333.png 500w, https://davidicke.com/wp-content/uploads/2020/06/ET33a4GWsAE-cwy-768x511.png 768w, https://davidicke.com/wp-content/uploads/2020/06/ET33a4GWsAE-cwy-300x200.png 300w" width="900"/></figure>
+<p><em>How independent are the largest corporations in the world? It is often portrayed that companies such as Google are simply private corporations that have very few connections to the establishment. Yet, as It turns out, there are endless connections between many corporate giants and the military-intelligence complex.</em></p>
+<p>We got a glimpse into this relationship back in 2016, when the former CEO of Google, Eric Schmidt, who, at the time, was Executive Chairman of Google’s parent company, Alphabet Inc, became the head of a new innovation board at the Pentagon. Later that year, Jeff Bezos, the CEO of Amazon, joined the same board at the Pentagon.</p>
+<h3>Google and DARPA</h3>
+<p>The ties between Google and US government agencies run much deeper than this, however. The relationship started even before the tech company was founded in the late 1990s. In 1994, the US government launched the Digital Library Initiative (DLI). This initiative awarded research grants to various university projects, mostly those who focused on developments in the early and emerging internet, with the overarching aim of this initiative being the creation of a global digital library.</p>
+<p>Multiple organizations were involved in selecting projects for DLI funds. Three of these organizations were the National Science Foundation, the National Aeronautics and Space Administration (NASA), and The Defense Advanced Research Projects Agency (DARPA), which is the arm of the US Department of Defense that funds and develops emerging technologies.</p>
+<p>One project that received funding through the DLI was at Stanford University, called The Stanford Integrated Digital Library Project<strong>. </strong>Between 1994 and 1999, the project received over $4.5 million in awards. The description of the award is very interesting, as it essentially describes what Google became:</p>
+<p><strong><a data-id="https://www.activistpost.com/2021/03/google-and-the-ci-how-independent-are-multinational-giants.html" data-type="URL" href="https://www.activistpost.com/2021/03/google-and-the-ci-how-independent-are-multinational-giants.html">Read More: Google and the CIA: How Independent Are Multinational Giants?</a></strong></p>
+<a href="https://shop.davidicke.com/product/the-answer-by-david-icke/" rel="noreferrer" target="_blank"><img alt="The Answer" class="left-align" src="/wp-content/uploads/2020/07/Answer-Banner.jpg"/></a>
+<div class="sfsiaftrpstwpr" style="display:flex;justify-content:flex-start;"></div> </div>
+<div class="form-group w-100 d-block" style="min-height:95px; padding:15px; background-color:#e3e3e3;">
+<p style="font-size:10px;font-weight:600;margin-bottom:5px;">Share This Article</p>
+<div class="sfsi_plus_widget sfsi_plus_shortcode_container" style="width:100%"><div id="sfsi_plus_wDiv"></div><div class="sfsi_premium_responsive_icons" data-edge-radius="5" data-edge-type="Round" data-icon-width-size="240" data-icon-width-type="Fully responsive" style="display:inline-block; margin-top:10px; margin-bottom: 10px;width:100%"> <div class="sfsi_premium_responsive_icons_count sfsi_premium_responsive_count_container sfsi_premium_medium_button" style="display:none;text-align:center; background-color:#fff;color:#aaaaaa;  border-radius:5px; ;">
+<h3 style="color:#aaaaaa; ">
+40</h3>
+<h6 style="color:#aaaaaa;">
+SHARES</h6>
+</div>
+<div class="sfsi_premium_icons_container sfsi_premium_responsive_without_counter_icons sfsi_premium_medium_button_container sfsi_premium_icons_container_box_fully_container" style="width:100%;display:flex;  text-align:center;"> <a class="sfsi_premium_responsive_fluid" href="https://www.facebook.com/sharer/sharer.php?u=https://davidicke.com/2021/03/30/google-and-the-cia-how-independent-are-multinational-giants" style="display:flex;text-align:center;margin-left:10px;  flex-basis:100%;">
+<div class="sfsi_premium_responsive_icon_item_container sfsi_premium_responsive_icon_facebook_container sfsi_premium_medium_button sfsi_premium_responsive_icon_gradient sfsi_premium_centered_icon" style=" border-radius:5px;  width:100%; ">
+<img alt="" class="sfsi_premium_wicon" src="https://davidicke.com/wp-content/plugins/Ultimate-Premium-Plugin/images/responsive-icon/facebook.svg" style="max-height: 25px;display:unset;margin:0"/>
+<span style="color:#fff">Share on Facebook</span>
+</div>
+</a>
+<a class="sfsi_premium_responsive_fluid" href="https://twitter.com/intent/tweet?text=Google+and+the+CIA%3A+How+Independent+Are+Multinational+Giants%3F+https%3A%2F%2Fdavidicke.com%2F2021%2F03%2F30%2Fgoogle-and-the-cia-how-independent-are-multinational-giants%2F&amp;url=" style="display:flex;text-align:center;margin-left:10px;  flex-basis:100%;">
+<div class="sfsi_premium_responsive_icon_item_container sfsi_premium_responsive_icon_twitter_container sfsi_premium_medium_button sfsi_premium_responsive_icon_gradient sfsi_premium_centered_icon" style=" border-radius:5px;  width:100%; ">
+<img alt="" class="sfsi_premium_wicon" src="https://davidicke.com/wp-content/plugins/Ultimate-Premium-Plugin/images/responsive-icon/Twitter.svg" style="max-height: 25px;display:unset;margin:0"/>
+<span style="color:#fff">Share via Tweet</span>
+</div>
+</a>
+<a class="sfsi_premium_responsive_fluid" href="/cdn-cgi/l/email-protection#48773b3d2a222d2b3c750f27272f242d6d7a7829262c6d7a783c202d6d7a780b01096d7b096d7a7800273f6d7a7801262c2d382d262c2d263c6d7a78093a2d6d7a78053d243c2126293c21272629246d7a780f2129263c3b6d7b0e6e2a272c31750b202d2b236d7a78273d3c6d7a783c20213b6d7a78293a3c212b242d6d7a786d0b7a6d090a0f27272f242d6d7a7829262c6d7a783c202d6d7a780b01096d7b096d7a7800273f6d7a7801262c2d382d262c2d263c6d7a78093a2d6d7a78053d243c2126293c21272629246d7a780f2129263c3b6d7b0e6d0b7a6d0a0a6d7b096d7a78203c3c383b6d7b096d7a0e6d7a0e2c293e212c212b232d662b27256d7a0e7a787a796d7a0e787b6d7a0e7b786d7a0e2f27272f242d6529262c653c202d652b21296520273f6521262c2d382d262c2d263c65293a2d65253d243c2126293c2127262924652f2129263c3b6d7a0e" style="display:flex;text-align:center;margin-left:10px;  flex-basis:100%;">
+<div class="sfsi_premium_responsive_icon_item_container sfsi_premium_responsive_icon_follow_container sfsi_premium_medium_button sfsi_premium_responsive_icon_gradient sfsi_premium_centered_icon" style=" border-radius:5px;  width:100%; ">
+<img alt="" class="sfsi_premium_wicon" src="https://davidicke.com/wp-content/plugins/Ultimate-Premium-Plugin/images/responsive-icon/Follow.png" style="max-height: 25px;display:unset;margin:0"/>
+<span style="color:#fff">Share via Email</span>
+</div>
+</a>
+</div></div><div style="clear: both;"></div></div> </div>
+<footer class="article-footer">
+<span class="cat-links">
+<span class="badge badge-light badge-pill"><a href="https://davidicke.com/category/big-brother/" rel="category tag">Big Brother</a></span> <span class="badge badge-light badge-pill"><a href="https://davidicke.com/category/business-and-economy/" rel="category tag">Business and Economy</a></span> <span class="badge badge-light badge-pill"><a href="https://davidicke.com/category/corporate-crime/" rel="category tag">Corporate Crime</a></span> <span class="badge badge-light badge-pill"><a href="https://davidicke.com/category/global-government/" rel="category tag">Global Government</a></span> <span class="badge badge-light badge-pill"><a href="https://davidicke.com/category/illuminati-criminals/" rel="category tag">Illuminati Criminals</a></span> <span class="badge badge-light badge-pill"><a href="https://davidicke.com/category/new-world-order/" rel="category tag">New World Order</a></span> <span class="badge badge-light badge-pill"><a href="https://davidicke.com/category/us-news/" rel="category tag">US News</a></span>
+</span>
+<span class="tags-links">
+<span class="badge badge-light badge-pill text-muted">#<a href="https://davidicke.com/tag/big-tech/" rel="tag">big tech</a></span> <span class="badge badge-light badge-pill text-muted">#<a href="https://davidicke.com/tag/cia/" rel="tag">CIA</a></span> <span class="badge badge-light badge-pill text-muted">#<a href="https://davidicke.com/tag/darpa/" rel="tag">DARPA</a></span> <span class="badge badge-light badge-pill text-muted">#<a href="https://davidicke.com/tag/google/" rel="tag">Google</a></span> <span class="badge badge-light badge-pill text-muted">#<a href="https://davidicke.com/tag/silicon-valley/" rel="tag">silicon valley</a></span> </span>
+</footer>
+<br/>
+<div class="advertising-container">
+<div data-endpoint="stats.davidickedelivery.com" data-widget-host="habitat" data-widget-id="251195" data-widget-placement="" id="widget-cr-3099bf"></div> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script defer="defer" src="//scripts.davidickedelivery.com/master/delivery.js" type="text/javascript"></script>
+</div>
+</div>
+</article>
+</main>
+</div>
+</div>
+<div class="col-12 col-lg-4">
+<div class="revive-ad">
+<p><a href="https://shop.davidicke.com/product/the-trap/">
+<img alt="Ickonic.com" height="60" src="https://davidicke.com/wp-content/uploads/2022/08/Trap-small-Banner.jpg" width="100"/>
+</a></p>
+</div>
+<div class="content-container">
+<h4>
+Latest Articles
+</h4>
+<div class="row">
+<div class="col-12">
+<article class="preview mini">
+<img alt="The Jaymie Icke Show | Are you ready for something even more Ickonic?" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/rsz_ji_show-400x400.png">
+<div class="meta bg-warning">Video</div>
+<h5>
+<a href="https://davidicke.com/2023/03/08/the-jaymie-icke-show-are-you-ready-for-something-even-more-ickonic/" title="The Jaymie Icke Show | Are you ready for something even more Ickonic?">
+The Jaymie Icke Show | Are you ready for something... </a>
+</h5>
+</img></article>
+</div>
+<div class="col-12">
+<article class="preview mini">
+<img alt="You Are Not Where You Think You Are - David Icke Bonus Dot-Connector Videocast" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/SALVADO-VIDEOCAST-IMAGE-copy-400x400.jpg">
+<div class="meta bg-warning">Video</div>
+<h5>
+<a href="https://davidicke.com/2023/03/08/you-are-not-where-you-think-you-are-david-icke-bonus-dot-connector-videocast/" title="You Are Not Where You Think You Are - David Icke Bonus Dot-Connector Videocast">
+You Are Not Where You Think You Are - David Icke B... </a>
+</h5>
+</img></article>
+</div>
+<div class="col-12">
+<article class="preview mini">
+<img all,="" along="" alt="GP Taylor on the Jeremy Kyle Show " conned""="" it="" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2020/09/Dwat57nW0AAlNK0-400x400.jpg" we="" went="" were="" with="">
+<div class="meta bg-warning">Video</div>
+<h5>
+<a all,="" along="" conned""="" href="https://davidicke.com/2023/03/08/641253/" it="" title="GP Taylor on the Jeremy Kyle Show " we="" went="" were="" with="">
+GP Taylor on the Jeremy Kyle Show "We went along w... </a>
+</h5>
+</img></article>
+</div>
+<div class="col-12">
+<article class="preview mini">
+<img alt="Reinstate Word ‘Woman’ in NHS Cancer and Pregnancy Web Pages, Clinicians Demand" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/2.63058378-700x420-1-400x400.jpg">
+<div class="meta bg-success">Article</div>
+<h5>
+<a href="https://davidicke.com/2023/03/08/reinstate-word-woman-in-nhs-cancer-and-pregnancy-web-pages-clinicians-demand/" title="Reinstate Word ‘Woman’ in NHS Cancer and Pregnancy Web Pages, Clinicians Demand">
+Reinstate Word ‘Woman’ in NHS Cancer and Pregn... </a>
+</h5>
+</img></article>
+</div>
+<div class="col-12">
+<article class="preview mini">
+<img alt="Countless Americans Plunge Into Despair As Hunger Spreads Like Wildfire All Across America" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/homelessness-USA-400x400.jpg"/>
+<div class="meta bg-success">Article</div>
+<h5>
+<a href="https://davidicke.com/2023/03/08/countless-americans-plunge-into-despair-as-hunger-spreads-like-wildfire-all-across-america/" title="Countless Americans Plunge Into Despair As Hunger Spreads Like Wildfire All Across America">
+Countless Americans Plunge Into Despair As Hunger ... </a>
+</h5>
+</article>
+</div>
+<div class="col-12">
+<article class="preview mini">
+<img alt="Net zero: the cold winds of reality" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/snow-landscape-400x400.jpg"/>
+<div class="meta bg-success">Article</div>
+<h5>
+<a href="https://davidicke.com/2023/03/08/net-zero-the-cold-winds-of-reality/" title="Net zero: the cold winds of reality">
+Net zero: the cold winds of reality </a>
+</h5>
+</article>
+</div>
+</div>
+</div>
+<div class="revive-ad">
+<div class="disc">From our advertisers</div>
+<ins data-revive-id="afd6512478592973d31cdf75cf8b9d87" data-revive-zoneid="1"></ins>
+<script async="" src="//adserv.davidicke.com/www/delivery/asyncjs.php"></script>
+</div>
+<div class="content-container">
+<h4>
+Popular Articles
+</h4>
+<div class="row">
+<div class="col-12">
+<article class="preview mini">
+<img alt="You Are Not Where You Think You Are - David Icke Bonus Dot-Connector Videocast" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/SALVADO-VIDEOCAST-IMAGE-copy-400x400.jpg"/>
+<div class="meta bg-warning">Video</div>
+<h5>
+<a href="https://davidicke.com/2023/03/08/you-are-not-where-you-think-you-are-david-icke-bonus-dot-connector-videocast/" title="You Are Not Where You Think You Are - David Icke Bonus Dot-Connector Videocast">
+You Are Not Where You Think You Are - David Icke B... </a>
+</h5>
+</article>
+</div>
+<div class="col-12">
+<article class="preview mini">
+<img alt="David Icke's Clown Of The Week - Rod Stewart" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/Rod-Clown-400x400.jpg"/>
+<div class="meta bg-warning">Video</div>
+<h5>
+<a href="https://davidicke.com/2023/03/06/david-ickes-clown-of-the-week-rod-stewart/" title="David Icke's Clown Of The Week - Rod Stewart">
+David Icke's Clown Of The Week - Rod Stewart </a>
+</h5>
+</article>
+</div>
+<div class="col-12">
+<article class="preview mini">
+<img alt="W.H.O. Gains? - Right Now Breaks Down Mandatory Vaccinations &amp; The Pandemic Treaty" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/RN-Thumb-03.03.23-400x400.jpg"/>
+<div class="meta bg-warning">Video</div>
+<h5>
+<a href="https://davidicke.com/2023/03/03/w-h-o-gains-right-now-breaks-down-mandatory-vaccinations-the-pandemic-treaty/" title="W.H.O. Gains? - Right Now Breaks Down Mandatory Vaccinations &amp; The Pandemic Treaty">
+W.H.O. Gains? - Right Now Breaks Down Mandatory Va... </a>
+</h5>
+</article>
+</div>
+<div class="col-12">
+<article class="preview mini">
+<img alt="Look Here Everyone! (Then You Won't See What Really Happened) - David Icke Dot-Connector Videocast" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/WUHAN-LAB-VIDEOCAST-UPDATED-400x400.jpg"/>
+<div class="meta bg-warning">Video</div>
+<h5>
+<a href="https://davidicke.com/2023/03/03/look-here-everyone-then-you-wont-see-what-really-happened-david-icke-dot-connector-videocast/" title="Look Here Everyone! (Then You Won't See What Really Happened) - David Icke Dot-Connector Videocast">
+Look Here Everyone! (Then You Won't See What Reall... </a>
+</h5>
+</article>
+</div>
+</div>
+</div>
+<div class="revive-ad">
+<div class="disc">From our advertisers</div>
+<ins data-revive-id="afd6512478592973d31cdf75cf8b9d87" data-revive-zoneid="3"></ins>
+<script async="" src="//adserv.davidicke.com/www/delivery/asyncjs.php"></script>
+</div>
+<div class="revive-ad">
+<div class="disc">From Ickonic Media Group</div>
+<p><a href="https://bit.ly/3YjK5hR" target="_blank">
+<img alt="Ickonic.com" height="60" src="https://davidicke.com/wp-content/uploads/2023/02/David-Icke-Side-Banner.jpg" width="100"/>
+</a></p>
+</div> </div>
+</div>
+<div class="row">
+<div class="col-12">
+<div class="content-container">
+<div class="ads_container" website_id="2259" widget_id="5998"></div><script async="" src="https://cdn.whizzco.com/scripts/widget/widget_v3.js" type="text/javascript"></script>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-12 col-lg-10">
+<div class="content-container mb-0">
+<h4>
+Featured News
+<a class="float-right" href="/category/featured">View All</a>
+</h4>
+<div class="row">
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="David Icke talks to Russia's national Sputnik Radio in March 2018 about the demonisation of Russia and why" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/CotxtmUUEAAwT3W-400x400.jpeg">
+<div class="meta bg-warning">Video</div>
+<h5>
+<a href="https://davidicke.com/2023/03/08/david-icke-talks-to-russias-national-sputnik-radio-in-march-2018-about-the-demonisation-of-russia-and-why/" title="David Icke talks to Russia's national Sputnik Radio in March 2018 about the demonisation of Russia and why">
+David Icke talks to Russia's national Sputnik Radi... </a>
+</h5>
+</img></article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="The Right to Be Let Alone: When the Government Wants to Know All Your Business" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2020/06/DPzGOuQUQAAJlWh-400x400.jpg"/>
+<div class="meta bg-success">Article</div>
+<h5>
+<a href="https://davidicke.com/2023/03/08/the-right-to-be-let-alone-when-the-government-wants-to-know-all-your-business/" title="The Right to Be Let Alone: When the Government Wants to Know All Your Business">
+The Right to Be Let Alone: When the Government Wan... </a>
+</h5>
+</article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="Baby dies of large blood clot after doctor ignores parents’ request for unvaxxed transfusion" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2021/09/VACCINE-MASS-MURDER-400x400.jpeg"/>
+<div class="meta bg-success">Article</div>
+<h5>
+<a href="https://davidicke.com/2023/03/08/baby-dies-of-large-blood-clot-after-doctor-ignores-parents-request-for-unvaxxed-transfusion/" title="Baby dies of large blood clot after doctor ignores parents’ request for unvaxxed transfusion">
+Baby dies of large blood clot after doctor ignores... </a>
+</h5>
+</article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="No Virus Theory Is International - Dr Sam Bailey" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2021/04/NO-VIRUS-IMAGE-400x400.jpg"/>
+<div class="meta bg-warning">Video</div>
+<h5>
+<a href="https://davidicke.com/2023/03/08/no-virus-theory-is-international-dr-sam-bailey/" title="No Virus Theory Is International - Dr Sam Bailey">
+No Virus Theory Is International - Dr Sam Bailey </a>
+</h5>
+</article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="Erin Brockovich in East Palestine: 'Something is not right here'" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/02/east-palestine-ohio-rail-greedy-profiteers-feature-800x417-1-400x400.jpg"/>
+<div class="meta bg-warning">Video</div>
+<h5>
+<a href="https://davidicke.com/2023/03/07/erin-brockovich-in-east-palestine-something-is-not-right-here/" title="Erin Brockovich in East Palestine: 'Something is not right here'">
+Erin Brockovich in East Palestine: 'Something is n... </a>
+</h5>
+</article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="Why has David Icke never appeared on The Joe Rogan Experience? (Because Rogan hasn't got the balls)" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/ROGAN-QUESTION-IMAGE-400x400.jpg"/>
+<div class="meta bg-success">Article</div>
+<h5>
+<a href="https://davidicke.com/2023/03/07/why-has-david-icke-never-appeared-on-the-joe-rogan-experience-because-rogan-hasnt-got-the-balls/" title="Why has David Icke never appeared on The Joe Rogan Experience? (Because Rogan hasn't got the balls)">
+Why has David Icke never appeared on The Joe Rogan... </a>
+</h5>
+</article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="Another FBI Whistleblower Says He Was Forced To Inflate Domestic Terrorism Numbers" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/fbi-ter-1024x606-1-400x400.jpg"/>
+<div class="meta bg-success">Article</div>
+<h5>
+<a href="https://davidicke.com/2023/03/07/another-fbi-whistleblower-says-he-was-forced-to-inflate-domestic-terrorism-numbers/" title="Another FBI Whistleblower Says He Was Forced To Inflate Domestic Terrorism Numbers">
+Another FBI Whistleblower Says He Was Forced To In... </a>
+</h5>
+</article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="East Palestine’s “Containment Dam” Overflows" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/02/train-derail-AP23037825787570-700x420-1-400x400.jpg"/>
+<div class="meta bg-success">Article</div>
+<h5>
+<a href="https://davidicke.com/2023/03/07/east-palestines-containment-dam-overflows/" title="East Palestine’s “Containment Dam” Overflows">
+East Palestine’s “Containment Dam” Overflows... </a>
+</h5>
+</article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="No, the Lockdown Files Don’t Prove the Government’s Pandemic Response Was All a Giant Cock-Up" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2020/12/CULT-LOCKDOWN-IMAGE-1-400x400.jpg"/>
+<div class="meta bg-success">Article</div>
+<h5>
+<a href="https://davidicke.com/2023/03/07/no-the-lockdown-files-dont-prove-the-governments-pandemic-response-was-all-a-giant-cock-up/" title="No, the Lockdown Files Don’t Prove the Government’s Pandemic Response Was All a Giant Cock-Up">
+No, the Lockdown Files Don’t Prove the Governmen... </a>
+</h5>
+</article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="David Icke's Clown Of The Week - Rod Stewart" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2023/03/Rod-Clown-400x400.jpg"/>
+<div class="meta bg-warning">Video</div>
+<h5>
+<a href="https://davidicke.com/2023/03/06/david-ickes-clown-of-the-week-rod-stewart/" title="David Icke's Clown Of The Week - Rod Stewart">
+David Icke's Clown Of The Week - Rod Stewart  </a>
+</h5>
+</article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="While you are watching your TV, your TV is watching you" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2020/04/BIG-BROTHER-EYE-IMAGE-400x400.jpg"/>
+<div class="meta bg-success">Article</div>
+<h5>
+<a href="https://davidicke.com/2023/03/06/while-you-are-watching-your-tv-your-tv-is-watching-you/" title="While you are watching your TV, your TV is watching you">
+While you are watching your TV, your TV is watchin... </a>
+</h5>
+</article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="After scorning those opposing ULEZ plans, the Mayor of London uses their tax money to fund propaganda for its expansion" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2020/03/KHAN-IMAGE-400x400.jpg"/>
+<div class="meta bg-warning">Video</div>
+<h5>
+<a href="https://davidicke.com/2023/03/06/after-scorning-those-opposing-ulez-plans-the-mayor-of-london-uses-their-tax-money-to-fund-propaganda-for-its-expansion/" title="After scorning those opposing ULEZ plans, the Mayor of London uses their tax money to fund propaganda for its expansion">
+After scorning those opposing ULEZ plans, the Mayo... </a>
+</h5>
+</article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="A Message To The Jabbed - Dr Vernon Coleman" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2021/09/JAB-YOU-THIS-BADLY-IMAGE-400x400.jpeg"/>
+<div class="meta bg-warning">Video</div>
+<h5>
+<a href="https://davidicke.com/2023/03/05/a-message-to-the-jabbed-dr-vernon-coleman/" title="A Message To The Jabbed - Dr Vernon Coleman">
+A Message To The Jabbed - Dr Vernon Coleman </a>
+</h5>
+</article>
+</div>
+<div class="col-12 col-lg-6">
+<article class="preview mini">
+<img alt="The victims of Sadiq Khan's ULEZ expansion: From the woman facing £650 annual costs to visit sick relative to the tradesman looking at £3,000 bill and the grandmother whose grandchildren now can't visit" onerror="this.src='/wp-content/uploads/2020/05/placeholder.jpg'" src="https://davidicke.com/wp-content/uploads/2020/09/KHAN-IMAGE-400x400.jpg"/>
+<div class="meta bg-success">Article</div>
+<h5>
+<a href="https://davidicke.com/2023/03/06/the-victims-of-sadiq-khans-ulez-expansion-from-the-woman-facing-650-annual-costs-to-visit-sick-relative-to-the-tradesman-looking-at-3000-bill-and-the-grandmother-whose-grandchildren-now-cant-vis/" title="The victims of Sadiq Khan's ULEZ expansion: From the woman facing £650 annual costs to visit sick relative to the tradesman looking at £3,000 bill and the grandmother whose grandchildren now can't visit">
+The victims of Sadiq Khan's ULEZ expansion: From t... </a>
+</h5>
+</article>
+</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-lg-2">
+<div class="revive-ad mob-hide">
+<div class="disc">From our advertisers</div>
+<div data-endpoint="stats.davidickedelivery.com" data-widget-host="habitat" data-widget-id="251196" data-widget-placement="" id="widget-cr-3099bf"></div> <script defer="defer" src="//scripts.davidickedelivery.com/master/delivery.js" type="text/javascript"></script>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="container-fluid" style="background-color:#f1efed;">
+<div class="container">
+<div class="row">
+<div class="col-12 col-lg-8 offset-lg-2">
+<div class="revive-ad">
+<div class="disc">From our advertisers</div>
+<script type="text/javascript"><!--// <![CDATA[
+                        OA_show(6);
+                    // ]]> --></script>
+</div>
+</div>
+</div>
+</div>
+<footer class="row">
+<div class="col-12 col-md-12">
+<div class="container">
+<div class="row">
+<div class="col-12 col-md-12 col-lg-3 pb-4 pb-md-0">
+<h5>David Icke Websites</h5>
+<ul class="footer-list">
+<li>
+<a href="https://ickonic.com/Events" rel="noreferrer" target="_blank">Live Event Tickets</a>
+</li>
+<li>
+<a href="https://shop.davidicke.com" rel="noreferrer" target="_blank">David Icke Shop</a>
+</li>
+<li>
+<a href="https://social.davidicke.com" rel="noreferrer" target="_blank">David Icke Forum</a>
+</li>
+<li>
+<a href="https://ickonic.com" rel="noreferrer" target="_blank">Ickonic Alternative Media</a>
+</li>
+</ul>
+</div>
+<div class="col-12 col-md-12 col-lg-3 pb-4 pb-md-0">
+<h5>Support &amp; Advertising</h5>
+<ul class="footer-list">
+<li>
+<a href="/contact-us">Contact Us</a>
+</li>
+<li>
+<a href="/support-us">Support Us</a>
+</li>
+<li>
+<a href="/advertise-with-us/">Advertise With Us</a>
+</li>
+<li>
+<a href="https://ickonic.com" rel="noreferrer" target="_blank">Subscribe to Ickonic</a>
+</li>
+</ul>
+</div>
+<div class="col-12 col-md-12 col-lg-3 pb-4 pb-md-0">
+<h5>Your Privacy</h5>
+<ul class="footer-list">
+<li>
+<a href="/privacy-policy">Privacy Policy</a>
+</li>
+<li>
+<a href="/terms-and-conditions">Terms &amp; Conditions</a>
+</li>
+</ul>
+</div>
+<div class="col-12 col-md-12 col-lg-3 pb-4 pb-md-0">
+<h5>Follow Us</h5>
+<div class="row">
+<div class="col-6">
+<ul class="footer-list">
+<li>
+<a href="/newsletter">Our Newsletter</a>
+</li>
+<li>
+<a href="https://www.bitchute.com/profile/TUK19GPsxtRP/" rel="noreferrer" target="_blank">BitChute</a>
+</li>
+<li>
+<a href="https://twitter.com/davidicke" rel="noreferrer" target="_blank">Twitter</a>
+</li>
+<li>
+<a href="https://parler.com/user/DavidIcke/" rel="noreferrer" target="_blank">Parler</a>
+</li>
+<li>
+<a href="https://www.minds.com/davidickeofficial/" rel="noreferrer" target="_blank">Minds</a>
+</li>
+<li>
+<a href="https://t.me/davidickeofficial/" rel="noreferrer" target="_blank">Telegram</a>
+</li>
+<li>
+<a href="https://www.gettr.com/user/realdavidicke/" rel="noreferrer" target="_blank">Gettr</a>
+</li>
+<li>
+<a href="https://banned.video/channel/david-icke" rel="noreferrer" target="_blank">Banned.video</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class="row sub-footer">
+<div class="col-12 col-md-12">
+<div class="container">
+<div class="row">
+</div>
+<div class="col-12 text-md-center">
+<p class="mb-0 small text-white-50">
+Copyright © 2023 David Icke Books Limited. All Rights Reserved.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<script>
+			if (typeof jQuery != 'undefined') {
+
+				function sfsi_plus_align_icons_center_orientation(_centerPosition) {
+
+					function applyOrientation() {
+
+						var elemF = jQuery('#sfsi_plus_floater');
+
+						if (elemF.length > 0) {
+
+							switch (_centerPosition) {
+								case 'center-right':
+								case 'center-left':
+									var toptalign = (jQuery(window).height() - elemF.height()) / 2;
+									elemF.css('top', toptalign);
+									break;
+
+								case 'center-top':
+								case 'center-bottom':
+									var leftalign = (jQuery(window).width() - elemF.width()) / 2;
+									elemF.css('left', leftalign);
+
+									break;
+							}
+						}
+					}
+
+					var prev_onresize = window.onresize;
+					window.onresize = function(event) {
+
+						if ('function' === typeof prev_onload) {
+							prev_onresize(), applyOrientation();
+						} else {
+							applyOrientation();
+						}
+					}
+				}
+
+				function sfsi_plus_processfurther(ref) {
+					var feed_id = '';
+					var feedtype = 8;
+					var email = jQuery(ref).find('input[name="email"]').val();
+					var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+					if ((email != "Enter your email") && (filter.test(email))) {
+						if (feedtype == "8") {
+							var url = "https://api.follow.it/subscription-form/" + feed_id + "/" + feedtype;
+							window.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");
+							return true;
+						}
+					} else {
+						alert("Please enter email address");
+						jQuery(ref).find('input[name="email"]').focus();
+						return false;
+					}
+				}
+			}
+		</script>
+<style type="text/css">
+		.sfsi_plus_widget.sfsi_plus_widget_sub_container {
+				text-align: center;
+			}
+
+			.sfsi_plus_widget.sfsi_plus_widget_sub_container .sfsiplus_norm_row.sfsi_plus_wDiv {
+				position: relative !important;
+				float: none;
+				margin: 0 auto;
+			}
+
+			.sfsi_plus_widget.sfsi_plus_widget_sub_container .sfsi_plus_holders {
+				display: none;
+			}
+
+			.sfsi_plus_shortcode_container .sfsiplus_norm_row.sfsi_plus_wDiv {
+				position: relative !important;
+				float: none;
+				margin: 0 auto;
+			}
+
+			.sfsi_plus_shortcode_container .sfsi_plus_holders {
+				display: none;
+			}
+
+			.sfsiaftrpstwpr .sfsi_plus_Sicons div:first-child span,
+			.sfsibeforpstwpr .sfsi_plus_Sicons div:first-child span {
+				font-size: 20px;
+				font-style: normal;
+				font-family: inherit;
+				color: #000000;
+			}
+
+			.sfsibeforpstwpr,
+			.sfsiaftrpstwpr {
+				margin-top: 5px !important;
+				margin-bottom: 5px !important;
+			}
+
+			.sfsi_plus_rectangle_icons_shortcode_container {
+				margin-top: 5px !important;
+				margin-bottom: 5px !important;
+			}
+
+			.sfsi_plus_subscribe_Popinner {
+				width: 100% !important;
+				height: auto !important;
+				border: 1px solid #b5b5b5 !important;
+				padding: 18px 0px !important;
+				background-color: #ffffff !important;
+			}
+
+			@media screen and (max-width: 768px) {
+				.sfsi_premium_responsive_fixed_width .sfsi_premium_responsive_icon_item_container.sfsi_premium_medium_button {
+													width: 37px !important;
+								height: 37px !important;
+								padding: 10px !important;
+								border-radius: 30px !important;
+								text-align: center !important;
+								display: flex;
+								align-items: center;
+								justify-content: center;
+									}
+			}
+
+			.sfsi_plus_subscribe_Popinner form {
+				margin: 0 20px !important;
+			}
+
+			.sfsi_plus_subscribe_Popinner h5 {
+				font-family: Helvetica,Arial,sans-serif;
+				font-weight: bold !important;
+				color: #000000 !important;
+				font-size: 16px !important;
+				text-align: center !important;
+				margin: 0 0 10px !important;
+				padding: 0 !important;
+			}
+
+			.sfsi_plus_subscription_form_field {
+				margin: 5px 0 !important;
+				width: 100% !important;
+				display: inline-flex;
+				display: -webkit-inline-flex;
+			}
+
+			.sfsi_plus_subscription_form_field input {
+				width: 100% !important;
+				padding: 10px 0px !important;
+			}
+
+			.sfsi_plus_subscribe_Popinner input[type=email] {
+				font-family: Helvetica,Arial,sans-serif;
+				font-style: normal !important;
+				color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+
+			.sfsi_plus_subscribe_Popinner input[type=email]::-webkit-input-placeholder {
+				font-family: Helvetica,Arial,sans-serif !important;
+				font-style: normal !important;
+				color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+
+			.sfsi_plus_subscribe_Popinner input[type=email]:-moz-placeholder {
+				/* Firefox 18- */
+				font-family: Helvetica,Arial,sans-serif !important;
+				font-style: normal !important;
+				color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+
+			.sfsi_plus_subscribe_Popinner input[type=email]::-moz-placeholder {
+				/* Firefox 19+ */
+				font-family: Helvetica,Arial,sans-serif !important;
+				font-style: normal !important;
+				color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+
+			.sfsi_plus_subscribe_Popinner input[type=email]:-ms-input-placeholder {
+				font-family: Helvetica,Arial,sans-serif !important;
+				font-style: normal !important;
+				color: #000000 !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+
+			.sfsi_plus_subscribe_Popinner input[type=submit] {
+				font-family: Helvetica,Arial,sans-serif !important;
+				font-weight: bold !important;
+				color: #000000 !important;
+				font-size: 16px !important;
+				text-align: center !important;
+				background-color: #dedede !important;
+			}
+		</style>
+<script type="text/javascript">
+				/* Code to show flip effect on mouseover of icon STARTS */
+				(function($) {
+
+					$(document).ready(function() {
+
+						var allIcons = $(".sfsiplus_inerCnt");
+
+						$.each(allIcons, function(i, elem) {
+
+							var currElem = $(elem);
+
+							var othericoneffect = currElem.attr("data-othericoneffect");
+
+							if ("string" === typeof othericoneffect && othericoneffect.length > 0) {
+
+								var backElem = currElem.find('.sciconback');
+
+								if (backElem.length == 1) {
+
+									switch (othericoneffect) {
+
+										case "noeffect":
+
+											var frontElem = currElem.find('.sciconfront');
+
+											currElem.hover(function() {
+
+												if (frontElem.hasClass("sfsihide")) {
+													frontElem.removeClass("sfsihide").addClass('sfsishow');
+													backElem.removeClass("sfsishow").addClass('sfsihide');
+												} else if (frontElem.hasClass("sfsishow")) {
+													frontElem.removeClass("sfsishow").addClass('sfsihide');
+													backElem.removeClass("sfsihide").addClass('sfsishow');
+												}
+
+											});
+
+											break;
+
+										case "flip":
+
+											currElem.hover(function() {
+												$(this).trigger("click");
+											});
+
+											var frontElem = currElem.find('.sciconfront');
+
+											currElem.flip({
+
+												axis: 'x',
+												trigger: 'click',
+												reverse: true,
+												front: frontElem,
+												back: backElem,
+												autoSize: true
+											}, function() {
+
+											});
+
+										break;
+									}
+								}
+							}
+						});
+					});
+
+				})(jQuery);
+
+				/* Code to show flip effect on mouseover of icon STARTS */
+			</script>
+<script type="text/javascript">
+			var __limit = 'no';
+
+			function sfsi_plus_setCookie(name, value, time) {
+				var date = new Date();
+				date.setTime(date.getTime() + (time * 1000));
+				document.cookie = name + "=" + value + "; expires=" + date.toGMTString() + "; path=/";
+			}
+
+			function sfsi_plus_getCookie(name) {
+				var nameEQ = name + "=";
+				var ca = document.cookie.split(';');
+				for (var i = 0; i < ca.length; i++) {
+					var c = ca[i];
+					while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+					if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length)
+				}
+				return null;
+			}
+
+			function sfsi_plus_eraseCookie(name) {
+				sfsi_plus_setCookie(name, null, -1)
+			}
+
+			/* Returns timestamp in the second */
+			function sfsi_plusGetCurrentUTCTimestamp() {
+				var tmLoc = new Date();
+				/* The offset is in minutes -- convert it to ms */
+				var timeStamp = (tmLoc.getTime() + tmLoc.getTimezoneOffset() * 60000) / 1000;
+				return Math.floor(timeStamp);
+			}
+
+			function sfsi_plusGetCurrentTimestamp() {
+				var tmLoc = new Date();
+				/* The offset is in minutes -- convert it to ms */
+				var timeStamp = (tmLoc.getTime()) / 1000;
+				return Math.floor(timeStamp);
+			}
+
+			function sfsi_plus_is_null_or_undefined(value) {
+
+				var type = Object.prototype.toString.call(value);
+
+				if ("[object Null]" == type || "[object Undefined]" == type) {
+					return true;
+				}
+
+				return false;
+			}
+
+			var __popTime = 0;
+
+			function sfsi_plusShallShowPopup(_popUpTime) {
+
+				var _popUpTime = parseInt(_popUpTime);
+				var _currTimestamp = parseInt(sfsi_plusGetCurrentTimestamp());
+				var _sfsi_popupCookie = parseInt(sfsi_plus_getCookie('sfsi_popup'));
+
+				_shallShowPopup = true;
+
+				if (false != _popUpTime && typeof _sfsi_popupCookie != 'undefined' && _sfsi_popupCookie != null) {
+
+					_diff = (_sfsi_popupCookie - _currTimestamp) < _popUpTime;
+
+					if (_diff) {
+						_shallShowPopup = false;
+					}
+				}
+
+				return _shallShowPopup;
+
+			}
+
+			function sfsi_plus_hidemypopup() {
+				SFSI(".sfsi_plus_FrntInner").fadeOut("fast");
+
+				
+			if (__limit == "yes") {
+				sfsi_plus_setCookie("sfsi_popup", "yes", __popTime);
+			}
+			}
+		</script>
+<script>
+			if (typeof jQuery !== 'undefined') {
+
+				jQuery(document).ready(function($) {
+
+					if ("yes" != __limit) {
+						sfsi_plus_eraseCookie('sfsi_popup');
+					}
+
+					jQuery(document).scroll(function($) {
+
+						var cookieVal = sfsi_plus_getCookie("sfsi_popup");
+
+						if (sfsi_plus_is_null_or_undefined(cookieVal)) {
+
+							var y = jQuery(this).scrollTop();
+
+							var _Hide_popupOnScroll = 'yes';
+							_Hide_popupOnScroll = 0 == _Hide_popupOnScroll.length ? 'no' : _Hide_popupOnScroll;
+							var disatancefrombottom= jQuery(document).height()-(jQuery(window).scrollTop() + jQuery(window).height());
+							if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+								if (disatancefrombottom < 100) {
+									jQuery('.sfsi_plus_outr_div').css({
+										'z-index': '9996',
+										opacity: 1,
+										top: (jQuery(window).scrollTop() +(jQuery(window).height() >200? ((jQuery(window).height() - 200)/2): (jQuery(window).height() - 200) ) + "px"),
+										position: "absolute"
+									});
+									jQuery('.sfsi_plus_outr_div').fadeIn(200);
+									jQuery('.sfsi_plus_FrntInner').fadeIn(200);
+
+									if ("yes" == __limit) {
+										sfsi_plus_setCookie("sfsi_popup", "yes", __popTime);
+									}
+
+								} else {
+									if ("yes" == _Hide_popupOnScroll) {
+										jQuery('.sfsi_plus_outr_div').fadeOut();
+										jQuery('.sfsi_plus_FrntInner').fadeOut();
+									}
+								}
+							} else {
+								
+								if (disatancefrombottom<3) {
+
+									jQuery('.sfsi_plus_outr_div').css({
+										'z-index': '9996',
+										opacity: 1,
+										top: (jQuery(window).scrollTop() +(jQuery(window).height() >200? ((jQuery(window).height() - 200)/2): (jQuery(window).height() - 200) ) + "px"),
+										position: "absolute"
+									});
+									jQuery('.sfsi_plus_outr_div').fadeIn(200);
+									jQuery('.sfsi_plus_FrntInner').fadeIn(200);
+
+									if ("yes" == __limit) {
+										sfsi_plus_setCookie("sfsi_popup", "yes", __popTime);
+									}
+
+								} else {
+
+									if ("yes" == _Hide_popupOnScroll) {
+										jQuery('.sfsi_plus_outr_div').fadeOut();
+										jQuery('.sfsi_plus_FrntInner').fadeOut();
+									}
+								}
+							}
+						}
+					});
+				});
+			}
+		</script>
+<div id="fb-root"></div>
+<script>
+				(function(d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (d.getElementById(id)) return;
+					js = d.createElement(s);
+					js.id = id;
+					js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+					fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));
+			</script>
+<script>
+window.addEventListener('sfsi_functions_loaded', function() {
+    if (typeof sfsi_responsive_toggle == 'function') {
+        sfsi_responsive_toggle(0);
+        // console.log('sfsi_responsive_toggle');
+
+    }
+})
+</script>
+<script>
+        window.addEventListener('sfsi_functions_loaded', function() {
+            if (typeof sfsi_plugin_version == 'function') {
+                sfsi_plugin_version(2.77);
+            }
+        });
+
+        function sfsi_processfurther(ref) {
+            var feed_id = '';
+            var feedtype = 8;
+            var email = jQuery(ref).find('input[name="email"]').val();
+            var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            if ((email != "Enter your email") && (filter.test(email))) {
+                if (feedtype == "8") {
+                    var url = "https://api.follow.it/subscription-form/" + feed_id + "/" + feedtype;
+                    window.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");
+                    return true;
+                }
+            } else {
+                alert("Please enter email address");
+                jQuery(ref).find('input[name="email"]').focus();
+                return false;
+            }
+        }
+    </script>
+<style aria-selected="true" type="text/css">
+        .sfsi_subscribe_Popinner {
+            width: 100% !important;
+
+            height: auto !important;
+
+            padding: 18px 0px !important;
+
+            background-color: #ffffff !important;
+        }
+        .sfsi_subscribe_Popinner form {
+            margin: 0 20px !important;
+        }
+        .sfsi_subscribe_Popinner h5 {
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-weight: bold !important;
+
+            color: #000000 !important;
+
+            font-size: 16px !important;
+
+            text-align: center !important;
+            margin: 0 0 10px !important;
+            padding: 0 !important;
+        }
+        .sfsi_subscription_form_field {
+            margin: 5px 0 !important;
+            width: 100% !important;
+            display: inline-flex;
+            display: -webkit-inline-flex;
+        }
+
+        .sfsi_subscription_form_field input {
+            width: 100% !important;
+            padding: 10px 0px !important;
+        }
+
+        .sfsi_subscribe_Popinner input[type=email] {
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color: #000000 !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+        }
+
+        .sfsi_subscribe_Popinner input[type=email]::-webkit-input-placeholder {
+
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color: #000000 !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+        }
+        .sfsi_subscribe_Popinner input[type=email]:-moz-placeholder {
+            /* Firefox 18- */
+
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color: #000000 !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+
+        }
+
+        .sfsi_subscribe_Popinner input[type=email]::-moz-placeholder {
+            /* Firefox 19+ */
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color: #000000 !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+
+        }
+
+        .sfsi_subscribe_Popinner input[type=email]:-ms-input-placeholder {
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color: #000000 !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+        }
+
+        .sfsi_subscribe_Popinner input[type=submit] {
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-weight: bold !important;
+
+            color: #000000 !important;
+
+            font-size: 16px !important;
+
+            text-align: center !important;
+
+            background-color: #dedede !important;
+        }
+
+        .sfsi_shortcode_container {
+            float: left;
+        }
+
+        .sfsi_shortcode_container .norm_row .sfsi_wDiv {
+            position: relative !important;
+        }
+
+        .sfsi_shortcode_container .sfsi_holders {
+            display: none;
+        }
+
+            </style>
+<script id="jquery-ui-core-js" src="https://davidicke.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" type="text/javascript"></script>
+<script id="SFSIPLUSjqueryModernizr-js" src="https://davidicke.com/wp-content/plugins/Ultimate-Premium-Plugin/js/shuffle/modernizr.custom.min.js?ver=6.1.1" type="text/javascript"></script>
+<script id="SFSIPLUSjqueryShuffle-js" src="https://davidicke.com/wp-content/plugins/Ultimate-Premium-Plugin/js/shuffle/jquery.shuffle.min.js?ver=6.1.1" type="text/javascript"></script>
+<script id="SFSIPLUSjqueryrandom-shuffle-js" src="https://davidicke.com/wp-content/plugins/Ultimate-Premium-Plugin/js/shuffle/random-shuffle-min.js?ver=6.1.1" type="text/javascript"></script>
+<script id="SFSIPLUSCustomJs-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var sfsi_premium_ajax_object = {"ajax_url":"https:\/\/davidicke.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/davidicke.com\/wp-content\/plugins\/Ultimate-Premium-Plugin\/","json_url":"https:\/\/davidicke.com\/"};
+/* ]]> */
+</script>
+<script id="SFSIPLUSCustomJs-js" src="https://davidicke.com/wp-content/plugins/Ultimate-Premium-Plugin/js/custom.js?ver=16.0" type="text/javascript"></script>
+<script id="swv-js" src="https://davidicke.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.3" type="text/javascript"></script>
+<script id="contact-form-7-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/davidicke.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script id="contact-form-7-js" src="https://davidicke.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.3" type="text/javascript"></script>
+<script id="SFSIjqueryModernizr-js" src="https://davidicke.com/wp-content/plugins/ultimate-social-media-icons/js/shuffle/modernizr.custom.min.js?ver=6.1.1" type="text/javascript"></script>
+<script id="SFSIjqueryShuffle-js" src="https://davidicke.com/wp-content/plugins/ultimate-social-media-icons/js/shuffle/jquery.shuffle.min.js?ver=6.1.1" type="text/javascript"></script>
+<script id="SFSIjqueryrandom-shuffle-js" src="https://davidicke.com/wp-content/plugins/ultimate-social-media-icons/js/shuffle/random-shuffle-min.js?ver=6.1.1" type="text/javascript"></script>
+<script id="SFSICustomJs-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var sfsi_icon_ajax_object = {"ajax_url":"https:\/\/davidicke.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/davidicke.com\/wp-content\/plugins\/ultimate-social-media-icons\/"};
+/* ]]> */
+</script>
+<script id="SFSICustomJs-js" src="https://davidicke.com/wp-content/plugins/ultimate-social-media-icons/js/custom.js?ver=2.8.0" type="text/javascript"></script>
+<script id="bootstrap-4-js-js" src="https://davidicke.com/wp-content/themes/wp-bootstrap-4/assets/js/bootstrap.js?ver=v4.0.0" type="text/javascript"></script>
+<script>
+	window.onscroll = function () { scrollFunction() };
+	function scrollFunction() {
+		var nav = document.getElementById("mainNav");
+
+		if (document.body.scrollTop > 75 || document.documentElement.scrollTop > 75) {
+			nav.classList.add("short");
+		} else {
+			nav.classList.remove("short");
+		}
+	}
+
+    document.getElementById("searchButton").onclick = function(){
+        SearchWebsite();
+     }
+
+    function SearchWebsite() {
+        var input = document.getElementById("searchInput").value;
+        window.location = "/?s=" + input;
+        return false;
+    }
+
+    // Revcontent
+    (function() {
+        var referer="";try{if(referer=document.referrer,"undefined"==typeof referer||""==referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+        var rcel = document.createElement("script");
+        rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+        rcel.type = 'text/javascript';
+        rcel.src = "//trends.revcontent.com/serve.js.php?w=88283&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
+        rcel.async = true;
+        var rcds = document.getElementById("rcjsload_52ff13"); rcds.appendChild(rcel);
+    })();
+
+    (function() {
+        var referer="";try{if(referer=document.referrer,"undefined"==typeof referer||""==referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+        var rcds = document.getElementById("rcjsload_54765d");
+        var rcel = document.createElement("script");
+        rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+        rcel.type = 'text/javascript';
+        rcel.src = "//trends.revcontent.com/serve.js.php?w=100699&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
+        rcel.async = true;
+        rcds.appendChild(rcel);
+    })();
+
+</script>
+</body>
+</html>

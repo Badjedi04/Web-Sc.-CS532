@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
+<title>Spätes Eingeständnis | Rubikon-Magazin</title>
+<meta content="Die WHO selbst bestätigt, dass die COVID-19-PCR-Tests zu fehlerhaften Ergebnissen führen ― der Lockdown hat keine wissenschaftliche Grundlage." name="description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.rubikon.news/artikel/spates-eingestandnis" property="og:url"/>
+<meta content="https://www.rubikon.news/uploads/store/a78e35caff6be5fcfa38e570cd036003.jpg" property="og:image"/>
+<meta content="Spätes Eingeständnis" property="og:title"/>
+<link href="/artikel/spates-eingestandnis" rel="canonical"/>
+<link href="/favicon.ico" rel="shortcut icon"/>
+<link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/manifest.json" rel="manifest"/>
+<link color="#5bbad5" href="/safari-pinned-tab.svg" rel="mask-icon"/>
+<meta content="#2d89ef" name="msapplication-TileColor"/>
+<meta content="/mstile-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="same-origin" name="referrer"/>
+<meta content="JwVuMMQ38SnaFh_J0kAEwg" name="cubits-verify"/>
+<meta content="rdxv12" name="flattr:id"/>
+<link href="https://www.rubikon.news/artikel.atom" rel="alternate" title="Rubikon Magazin" type="application/atom+xml">
+<link href="/assets/frontend/frontend-ddd5e843bc335d9a1389174d96c8c07f3c21ef19cc734b7bf8170ef77b415c9f.css" media="screen" rel="stylesheet">
+<link href="/assets/frontend/print-cdf4c7231ffb7df61d9ebcc81586c0d706335cd9a47a77d90cb0a54e9740ffa8.css" media="print" rel="stylesheet">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="PHiKlgRCm/3r7dVtkBLjLPmEPgh4oLN9Qw4D5VGyUoSej8vMl59zfYBJqWSvCYifjibbbWDueJeZSFI0aQ+Afw==" name="csrf-token">
+</meta></meta></link></link></link></head>
+<body>
+<a class="skip-main" href="#main">Zum Inhalt:</a>
+<input id="navbar-noscript-toggle" style="display: none;" type="checkbox"/>
+<aside class="sidebar">
+<div class="sidebar-header">
+<label class="button secondary btn-menu icon-close" for="navbar-noscript-toggle"></label>
+</div>
+<div class="search">
+<div class="search__button icon2-search">
+<form accept-charset="UTF-8" action="/artikel/suche" method="get">
+<input name="search_articles[sort]" type="hidden" value="chronologisch absteigend"/>
+<input class="search__field" id="search_articles_query" name="search_articles[query]" type="text"/>
+</form> </div>
+<!--     <input class="search__field" name="search_articles[query]" type="text" placeholder="Suche" /> -->
+</div>
+<nav>
+<ul>
+<li><a href="/artikel">Alle Artikel</a></li>
+<li><a href="/autoren">Autoren</a></li>
+<li><a href="/freunde">Freunde</a></li>
+<li><a href="/kontakt">Team</a></li>
+<li><a href="/newsletter">Newsletter</a></li>
+<li><a href="/unterstuetzen">Unterstützen</a></li>
+</ul>
+</nav>
+<div class="book-promotion">
+<a href="https://www.buchkomplizen.de/unsere-komplizen/rubikon/strategien-der-macht.html" target="_blank"><img alt="Strategien der Macht" class="book-promotion__img" src="https://www.rubikon.news/media/images/1fc5307e0fc7db36fe0c9a7c28ccee9f.jpeg"/></a>
+<div class="book-promotion__text">
+<a class="book-promotion__bookstore" href="/buecher">Unsere Bücher</a>:<br/>
+<a class="book-promotion__link" href="https://www.buchkomplizen.de/unsere-komplizen/rubikon/strategien-der-macht.html" target="_blank">Strategien der Macht</a>
+<br/><span>von</span>
+<a href="https://www.rubikon.news/autoren/roland-rottenfusser">Roland Rottenfußer</a>
+</div>
+</div>
+</aside>
+<label class="sidebar-content-protection" for="navbar-noscript-toggle"></label>
+<div class="topbar">
+<div class="topbar__menu">
+<label class="button tertiary btn-menu icon-menu" for="navbar-noscript-toggle">
+<span class="icon2-menu"></span>
+<span class="topbar__menu--text">Menü</span>
+</label>
+<div class="logo">
+<a class="logo" href="/">
+<img alt="Rubikon" src="/assets/logo-dd0fcd373a0c872bb432f7596d9e700155c5d7fa07ec99a3777d44621e8c61fe.svg">
+</img></a> </div>
+<div class="topbar__support">
+<a class="button button--small-gutter hover-color-blue" href="/unterstuetzen">
+<span class="topbar__support--text">Unterstützen</span><span class="icon2-support"></span>
+</a> </div>
+</div>
+<nav class="topbar__filter">
+<ul>
+<li class=""><a href="/rubrik/1">Fassadendemokratie &amp; Tiefer Staat</a></li>
+<li class=""><a href="/rubrik/6">Medien- &amp; Ideologiekritik</a></li>
+<li class=""><a href="/rubrik/2">Krieg &amp; Frieden</a></li>
+<li class=""><a href="/rubrik/3">Arm &amp; Reich</a></li>
+<li class=""><a href="/rubrik/7">Bildung &amp; Soziales</a></li>
+<li class=""><a href="/rubrik/4">Natur &amp; Umwelt </a></li>
+<li class=""><a href="/rubrik/5">Seele &amp; Bewusstsein</a></li>
+</ul>
+</nav>
+<div class="topbar__filter topbar__filter--mobile">
+<select id="rubric-select">
+<option disabled="" selected="" value="-1">Schwerpunkt wählen</option>
+<option value="/rubrik/1"><a href="/artikel/spates-eingestandnis">Fassadendemokratie &amp; Tiefer Staat</a></option>
+<option value="/rubrik/6"><a href="/artikel/spates-eingestandnis">Medien- &amp; Ideologiekritik</a></option>
+<option value="/rubrik/2"><a href="/artikel/spates-eingestandnis">Krieg &amp; Frieden</a></option>
+<option value="/rubrik/3"><a href="/artikel/spates-eingestandnis">Arm &amp; Reich</a></option>
+<option value="/rubrik/7"><a href="/artikel/spates-eingestandnis">Bildung &amp; Soziales</a></option>
+<option value="/rubrik/4"><a href="/artikel/spates-eingestandnis">Natur &amp; Umwelt </a></option>
+<option value="/rubrik/5"><a href="/artikel/spates-eingestandnis">Seele &amp; Bewusstsein</a></option>
+</select>
+</div>
+</div>
+<div class="topbar__spacer"></div>
+<div id="main" tabindex="-1">
+<header class="header-normal">
+<div class="header-content">
+<div class="header-image">
+<img alt="Spätes Eingeständnis" src="/uploads/store/a78e35caff6be5fcfa38e570cd036003.jpg"/>
+</div>
+<div class="article-meta">
+<input id="article-options-dropdown" name="article-options-dropdown" type="checkbox"/>
+<div class="article-options">
+<label for="article-options-dropdown">Artikeloptionen <i class="fa fa-caret-down"></i><i class="fa fa-caret-up"></i></label>
+<div class="options-dropdown">
+<a href="/artikel/spates-eingestandnis/read" id="read-article" target="_blank">Vorlesen</a>
+<a href="/artikel/spates-eingestandnis.md">Republizieren als .md</a>
+<a href="/artikel/spates-eingestandnis.pdf" id="download-pdf" target="_blank">Druckversion als .pdf</a>
+</div>
+</div>
+  
+      Mittwoch, 31. März 2021, 17:00 Uhr<br>
+      ~8 Minuten Lesezeit
+    </br></div>
+<h1>Spätes Eingeständnis</h1>
+<h2>Die WHO selbst bestätigt, dass die COVID-19-PCR-Tests zu fehlerhaften Ergebnissen führen ― der Lockdown hat keine wissenschaftliche Grundlage.</h2>
+<div class="article-meta">
+      von <a href="/autoren/michel-chossudovsky">Michel Chossudovsky</a>
+<br/><p>Foto: Viacheslav Lopatin/Shutterstock.com</p>
+</div>
+<div class="article-teaser">
+<p>Stellen Sie sich vor, Sie führen bei Ihrem Arzt einen Schwangerschaftstest durch. Nachdem dieser positiv ausgefallen ist, fordert der Arzt Sie nach ein paar Wochen auf, den Test zu wiederholen. Was würden Sie davon halten? Wäre nicht anzunehmen, dass der Mediziner dem von ihm selbst durchgeführten Test nicht traut, dass Sie also möglicherweise gar nicht schwanger sind? Es klingt absurd, aber etwas Ähnliches ist im Fall der COVID-19-PCR-Tests geschehen. Es ist zu den meisten Menschen noch nicht durchgedrungen ― weil die Hauptmedien mit dieser Erkenntnis nicht gerade hausieren gehen ―, aber es ist wahr: Die wichtigste Gesundheitsorganisation der Welt, die WHO, hat ihre Empfehlung für die von Christian Drosten und Kollegen entwickelten Tests im Januar zurückgenommen. Im Klartext bedeutet das: Wir haben einen Fehler gemacht. Aber wer würde von der WHO schon klare Worte erwarten? Daher hat sich der Autor die Mühe gemacht, deren eher verklausulierte Ausdrucksweise zu entschlüsseln.</p>
+</div>
+<!-- <div class="social-links">
+      <a href="#">Twitter</a>
+      <a href="#">Facebook</a>
+      <a href="#">Mail</a>
+      <a href="#">Drucken</a>
+    </div> -->
+</div>
+</header>
+<div class="article">
+<div class="article-content">
+<p>Der Echtzeit-Reverse- Transkriptase-Polymerase-Kettenreaktion-Test (rRT-PCR) wurde am 23. Januar 2020 von der Weltgesundheitsorganisation WHO als Mittel zum Nachweis des SARS-CoV-2-Virus anerkannt, auf Empfehlung einer virologischen Forschungsgruppe mit Sitz am Universitätsklinikum der Charité, Berlin, die von der Bill and Melinda Gates Foundation unterstützt wurde. Für weitere Details siehe die <a href="https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000045">Drosten-Studie</a>.</p>
+<p>Genau ein Jahr später, am 20. Januar 2021, nimmt die WHO die Empfehlung zurück. Sie sagen nicht: „Wir haben einen Fehler gemacht“. Der Widerruf ist vorsichtig formuliert. </p>
+<p>Während die WHO die Gültigkeit ihrer missverständlichen Richtlinien vom Januar 2020 nicht bestreitet, empfiehlt sie dennoch einen „wiederholten Test“ ― was, wie jeder weiß, eine Unmöglichkeit ist.</p>
+<p>Die strittige Frage betrifft die Anzahl der Amplifikationszyklen (Ct). Der <a href="https://cormandrostenreview.com/report/">Kritik der Drosten-Studie</a> von dem Wissenschaftlerteam um den Genetiker Pieter Borger zufolge sollte „die Anzahl der Amplifikationszyklen weniger als 35 betragen, vorzugsweise 25 bis 30 Zyklen. Im Falle des <em>Virusnachweises werden bei mehr als 35 Zyklen</em> nur Signale erfasst, die nicht mit infektiösen Viren korrelieren, wie sie durch Isolierung in der Zellkultur bestimmt werden.“</p>
+<p>Die WHO gibt ein Jahr später stillschweigend zu, dass <em>alle</em> PCR-Tests, die mit einer Amplifikationsschwelle von 35 Zyklen (Ct) oder höher durchgeführt werden, <em>invalide</em> sind. Doch genau das hat die WHO im Januar 2020 in Absprache mit dem Virologenteam der Berliner Charité empfohlen.</p>
+<p>Wird der Test bei einem Ct-Wert von 35 oder höher durchgeführt ― wie von der WHO empfohlen, können Virussegmente nicht nachgewiesen werden, was bedeutet, dass <em>alle</em> sogenannten bestätigten „positiven Fälle“, die im Laufe der vergangenen 14 Monate tabelliert wurden, ungültig sind.</p>
+<p>Laut der Analyse von Pieter Borger, Bobby Rajesh Malhotra, Michael Yeadon und weiteren Wissenschaftlern ist ein Ct größer als 35 „in den meisten Laboratorien in Europa und den USA“ die Norm.</p>
+<h1>Das Mea culpa der WHO</h1>
+<p>Nachfolgend finden Sie die sorgfältig formulierte „Rücknahme“ der WHO ― mit Hervorhebungen durch den Autor. Den vollständigen Text mit Link zum Originaldokument können Sie im Anschluss des Artikels lesen:</p>
+<p>Die <a href="https://www.who.int/publications-detail-redirect/diagnostic-testing-for-sars-cov-2">WHO-Richtlinie zur Diagnostik von SARS-CoV-2</a> besagt, dass eine <em>sorgfältige Interpretation schwach positiver Ergebnisse</em> erforderlich ist (1). Die zum nach Nachweis des Virus erforderliche <em>Zyklusschwelle (Ct)</em> ist umgekehrt proportional zur Viruslast des Patienten. Stimmen die Testergebnisse nicht mit dem klinischen Bild überein, sollte eine <em>neue Probe entnommen und</em> mit der gleichen oder einer anderen NAT-Technologie <em>noch einmal getestet</em> werden.</p>
+<p>Die WHO weist IVD-Anwender darauf hin, dass die Krankheitsprävalenz den Prognosewert der Testergebnisse verändert. Mit abnehmender Krankheitsprävalenz <em>steigt das Risiko eines falsch positiven Ergebnisses</em> (2). Das bedeutet: Die Wahrscheinlichkeit, dass eine Person mit einem positiven Ergebnis (SARS-CoV-2 nachgewiesen) tatsächlich mit SARS-CoV-2 infiziert ist, sinkt mit abnehmender Prävalenz, unabhängig von der angegebenen Spezifität.</p>
+<h1>„Falsch positiv" ist das zugrunde liegende Konzept</h1>
+<p>Dabei geht es nicht um „schwache Positiv-Werte“ und das „Risiko von erhöhten Falsch-Positiv-Werten“.</p>
+<p>Dieses Eingeständnis der WHO bestätigt, dass eine Einstufung von Corona-Positiv aus einem PCR-Test ― mit einer Amplifikationsschwelle von 35 Zyklen oder höher ― unzulässig ist. In diesem Fall empfiehlt die WHO einen erneuten Test: „Es sollte eine neue Probe entnommen und erneut getestet werden ...“. </p>
+<blockquote>
+<p>Die WHO fordert „Wiederholungstests“, was gleichbedeutend ist mit „Wir haben Mist gebaut“.</p>
+</blockquote>
+<p>Diese Empfehlung ist pro-forma. Passieren wird nichts. Millionen von Menschen weltweit sind seit Anfang Februar 2020 bereits getestet worden. Dennoch müssen wir feststellen, dass <em>diese Einstufungen ― laut WHO ― wertlos sind</em>, solange nicht erneut getestet wird. </p>
+<p>In diesem Zusammenhang ist erwähnenswert, dass es mehrere weitere Fehler in Bezug auf den PCR-Test gibt, die in diesem Artikel nicht angesprochen werden (3).</p>
+<p>Von Anfang an wurde der PCR-Test routinemäßig mit einem Ct-Amplifikationsschwelle von 35 oder höher praktiziert, entsprechend den Empfehlungen der WHO vom Januar 2020. Das bedeutet, dass die PCR-Methodik, wie sie weltweit angewandt wird, im Laufe der vergangenen 12 bis 14 Monate zur Erstellung von fehlerhaften und irreführenden Covid-Statistiken geführt hat.</p>
+<p>Genau diese Statistiken sind es, die zur Messung der Ausbreitung der sogenannten Pandemie verwendet werden. Ab einem Amplifikationszyklus von 35 oder höher kann der Test das Virus nicht mehr nachweisen. Daher sind die Zahlen bedeutungslos.</p>
+<p>Daraus folgt, dass es keine wissenschaftliche Datenbasis für die Bestätigung der Existenz einer Pandemie gibt.</p>
+<p>Das wiederum bedeutet, dass die Lockdown-/Wirtschaftsmaßnahmen, die zu sozialer Angst, Massenarmut und Arbeitslosigkeit geführt haben ― angeblich um die Ausbreitung des Virus einzudämmen ―, keinerlei Legitimation besitzen.</p>
+<p>Unter wissenschaftlichen Gesichtspunkten:</p>
+<p><em>„Wird eine Person mittels PCR</em> bei der Verwendung eines Schwellenwerts von 35 Zyklen oder höher <em>― wie in den meisten Laboren in Europa und den USA der Fall ― positiv getestet, liegt die Wahrscheinlichkeit, dass diese Person tatsächlich infiziert ist, weniger als bei 3 Prozent und die Wahrscheinlichkeit, dass dieses Ergebnis falsch-positiv ist, beträgt 97 Prozent“</em> (4).</p>
+<p>Wie bereits ausgeführt, beträgt „die Wahrscheinlichkeit, dass das Ergebnis falsch positiv ist, 97 Prozent". Daraus folgt, dass die Verwendung des mehr als 35-Zyklen-Nachweises unweigerlich dazu beiträgt, die Anzahl der „falsch-positiven" Ergebnisse in die Höhe zu treiben.</p>
+<p>Zum Entstehungszeitpunkt dieses Artikels, März 2021, wird der Test trotz des WHO-Widerrufs ausgiebig genutzt, um die Zahlen in die Höhe zu treiben, um die Angstkampagne aufrechtzuerhalten und die anhaltende Lockdown-Politik sowie die Durchsetzung der Covid-Impfung zu rechtfertigen.</p>
+<p>Ironischerweise werden die fehlerhaften Zahlen, die auf „ungültigen Positiv-Werten“ basieren, wiederum manipuliert, um einen Aufwärtstrend bei den Covid-Positivwerten zu gewährleisten.</p>
+<p>Darüber hinaus werden diese PCR-Tests routinemäßig nicht von einer medizinischen Diagnose der getesteten Patienten begleitet.</p>
+<p>Mittlerweile haben die nationalen Gesundheitsbehörden (gefakte) Warnungen vor einer „Dritten Welle“ als Teil ihrer Propagandakampagne zur Unterstützung des Covid-19-Impfstoffs herausgegeben.</p>
+<p>Die WHO bestätigt, dass das Corona-PCR-Testverfahren in der angewandten Form keine Aussagekraft besitzt. Für die Durchführung der Covid-Impfung gibt es absolut keine wissenschaftliche Grundlage.</p>
+<p>Sowohl die WHO als auch die wissenschaftliche Einschätzung von <em>Pieter Borger</em> und Kollegen (oben zitiert) bestätigen eindeutig, dass die von den Regierungen angewandten Tests zur Rechtfertigung des Lockdowns und der Destabilisierung der Volkswirtschaften <em>unzulässig</em> sind. </p>
+<h1>Unzulässige Daten und das Spiel mit den Zahlen</h1>
+<p>Diese „unzulässigen Schätzungen“ sind die „Zahlen“, die von den Medien im Zuge der „Ersten Welle“ und der „Zweiten Welle“ rund um die Uhr unermüdlich zitiert wurden, um die Angstkampagne zu befeuern und <em>alle</em> Maßnahmen der Regierungen zu „rechtfertigen“:</p>
+<ul>
+<li>Lockdown,</li>
+<li>Stilllegen der Wirtschaftstätigkeit,</li>
+<li>Armut und Massenarbeitslosigkeit,</li>
+<li>Insolvenzen,</li>
+<li>soziale Distanzierung,</li>
+<li>Gesichtsmaske,</li>
+<li>Sperrstunden,</li>
+<li>Impfung,</li>
+<li>Immunitätspass.</li>
+</ul>
+<p>Unzulässige Daten ― überlegen Sie sich es zweimal, bevor Sie sich impfen lassen.</p>
+<blockquote>
+<p>Nun sind wir in eine sogenannte „Dritte Welle“ hineingeraten. Aber wo sind die Daten? Es ist ein komplexes „Lügengespinst“. Das ist ein Verbrechen an der Menschheit.</p>
+</blockquote>
+<hr/>
+<p><strong>Anhang:</strong></p>
+<p>Nachfolgend finden Sie die sorgfältig formulierte „Rücknahme“ der WHO mit Link zum Originaldokument: </p>
+<p><a href="https://www.who.int/news/item/20-01-2021-who-information-notice-for-ivd-users-2020-05">Vollständiger Text der WHO-Direktive</a> vom 20. Januar 2021</p>
+<h1>WHO-Informationsblatt für IVD-Anwender 2020/05</h1>
+<h2>Nukleinsäuretesttechnologien (NAT), die die Polymerasekettenreaktion (PCR) zum Nachweis von SARS-CoV-2 verwenden</h2>
+<p><em>Produkttyp</em>: Nukleinsäuretesttechnologien (NAT), die die Polymerasekettenreaktion (PCR) zum Nachweis von SARS-CoV-2 verwenden</p>
+<p><em>Datum</em>: 13. Januar 2021   </p>
+<p><em>WHO-Kennnummer</em>: 2020/5, Version 2</p>
+<p><em>Zielgruppe</em>: Laborfachleute und Anwender von IVDs</p>
+<p>Zweck dieser Mittelung: Klärung von Informationen, die zuvor von der WHO herausgegeben wurden. Dieser Hinweis ersetzt den WHO-Informationshinweis für Anwender von In-Vitro-Diagnostik-Medizinprodukten (IVD) 2020/05 Version 1, herausgegeben am 14. Dezember 2020.</p>
+<h2>Problembeschreibung</h2>
+<p>Die WHO fordert die Anwender auf, bei der Interpretation der Ergebnisse von Proben, die mit der PCR-Methode getestet wurden, die Gebrauchsanweisung (IFU) zu beachten.</p>
+<p>Anwender von IVD müssen die Gebrauchsanweisung sorgfältig lesen und befolgen, um festzustellen, ob eine manuelle Anpassung der PCR-Positivitätsschwelle vom Hersteller empfohlen wird.</p>
+<p>Die Leitlinien der WHO zur <a href="https://www.who.int/publications/i/item/diagnostic-testing-for-sars-cov-2">Diagnostik von SARS-CoV-2</a> besagen, dass eine sorgfältige Interpretation schwach positiver Ergebnisse erforderlich ist (1). Die zum Virusnachweis erforderliche Zyklusschwelle (Ct) ist umgekehrt proportional zur Viruslast des Patienten. Wenn die Testergebnisse nicht mit dem klinischen Bild übereinstimmen, sollte eine neue Probe entnommen und mit der gleichen oder einer anderen NAT-Technologie erneut getestet werden.</p>
+<p>Die WHO weist IVD-Anwender darauf hin, dass die Krankheitsprävalenz den Prognosewert der Testergebnisse verändert. </p>
+<p>Mit abnehmender Krankheitsprävalenz steigt das Risiko falsch positiver Ergebnisse (2). </p>
+<p>Das bedeutet, dass die Wahrscheinlichkeit, dass eine Person mit einem positiven Ergebnis (SARS-CoV-2 nachgewiesen) tatsächlich mit SARS-CoV-2 infiziert ist, mit abnehmender Prävalenz sinkt, unabhängig von der angegebenen Spezifität.</p>
+<p>Die meisten PCR-Tests sind als Diagnosehilfe angegeben. Daher müssen medizinische Fachkräfte jedes Ergebnis im Zusammenhang mit dem Zeitpunkt der Probenentnahme, dem Probentyp, den Testspezifikationen, den klinischen Beobachtungen, der Patientenanamnese, dem bestätigten Status von Kontakten und epidemiologischen Informationen berücksichtigen.</p>
+<h2>Von IVD-Anwendern zu beachtende Anweisungen</h2>
+<ol>
+<li>Bitte lesen Sie die Gebrauchsanweisung sorgfältig und vollständig.</li>
+<li>Wenden Sie sich an Ihre örtliche Vertretung, wenn Ihnen ein Aspekt der Gebrauchsanweisung unklar ist.</li>
+<li>Überprüfen Sie die Gebrauchsanweisung für jede eingehende Sendung, um eventuelle Änderungen der Gebrauchsanweisung zu erkennen.</li>
+<li>Übermitteln Sie den Ct-Wert im Bericht an den anfragenden Gesundheitsdienstleister.</li>
+</ol>
+<hr/>
+<p><strong>Redaktionelle Anmerkung:</strong> Dieser Text erschien am 16. März 2021 unter dem Titel „<a href="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959">The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of ‚Positive Cases‘ are Meaningless. The Lockdown Has No Scientific Basis</a>“ bei <em>Global Research</em>. Er wurde von <em>Sabine Amann</em> aus dem ehrenamtlichen <a href="https://www.rubikon.news/kontakt"><em>Rubikon</em>-Übersetzerteam</a> übersetzt und vom ehrenamtlichen <a href="https://www.rubikon.news/kontakt"><em>Rubikon</em>-Korrektoratteam</a> lektoriert.</p>
+<hr/>
+<p><strong>Quellen und Anmerkungen:</strong></p>
+<p>(1) Diagnostische Tests für SARS-CoV-2. Genf: Weltgesundheitsorganisation; 2020, WHO-Referenznummer WHO/2019-nCoV/laboratory/2020.6.<br/>
+(2) Altman DG, Bland JM. Diagnostic tests 2: Predictive values. BMJ. 1994 Jul 9;309(6947):102. doi: 10.1136/bmj.309.6947.102.<br/>
+(3) Siehe Michel Chossudovsky <a href="https://www.globalresearch.ca/the-2020-worldwide-corona-crisis-destroying-civil-society-engineered-economic-depression-global-coup-detat-and-the-great-reset/5730652">E-Book</a>: Die weltweite Coronakrise 2020: Zerstörung der Zivilgesellschaft, technische Wirtschaftskrise, globaler Staatsstreich und „Great Reset“, Kapitel II.<br/>
+(4) Pieter Borger, Bobby Rajesh Malhotra, Michael Yeadon, Clare Craig, Kevin McKernan und Kollegen: Review report Corman-Drosten et alii, <em>Eurosurveillance</em>, 27. November 2020, 3. Die Anzahl der Amplifikationszyklen.</p>
+</div>
+<div class="article-end">
+<div class="shariff article_sharing rs_skip" data-mail-subject="Spätes Eingeständnis" data-mail-url="mailto:" data-services='["whatsapp","facebook","telegram","twitter","diaspora","mail","print","info"]' data-title="Spätes Eingeständnis | Rubikon - Magazin für die kritische Masse"></div>
+<img alt="" class="divider-image" src="/assets/ill-feather-0947f794066c6a6fa2b166f1afd221e3e3c5eb00710d02afbec06626aa1e5f6f.png"/>
+<div class="article-sms">
+<div class="article-sms-image">
+<a class="no-border" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">
+<img alt="Spenden per SMS" src="/assets/ic-sms-146d281c37d2c9a5c50fa303d001611ebe453e901bb97c62f9a45b98870a8f52.png"/>
+</a>
+</div>
+<div class="article-sms-info">
+        Hat Ihnen dieser Artikel gefallen? Dann senden Sie einfach eine SMS mit dem Stichwort <strong>Rubikon10</strong> an die <strong>81190</strong> und mit Ihrer nächsten Handyrechnung werden Ihnen 10 Euro in Rechnung gestellt, die abzüglich einer Gebühr von 17 Cent unmittelbar unserer Arbeit zugutekommen.
+        <div class="button-set left"><a class="button primary" href="sms://81190?body=Rubikon10">Jetzt per SMS spenden</a></div>
+</div>
+</div>
+<div class="article-author">
+<div class="article-author-image">
+<a href="/autoren/michel-chossudovsky"><img alt="Michel Chossudovsky" src="/uploads/store/4733f76ac7a6f4d27cf2eb18a6e625a1.jpg"/></a>
+</div>
+<div class="article-author-bio">
+<p><strong>Michel Chossudovsky</strong>, Jahrgang 1946, ist ein kanadischer Professor der Wirtschaftswissenschaften an der Universität Ottawa. Er ist der Herausgeber des <em>Centre for Research on Globalization</em> und bekannt für seine globalisierungskritischen Publikationen.</p>
+</div>
+</div>
+<div class="article-license">
+<div class="article-license-image">
+<a class="no-border" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">
+<img alt="Creative Commons Lizenzvertrag" src="/assets/ic-cc-3328fe794e7dfbff5a441672472cde808f6df46243cbf1f47ee8af7f2323c264.png"/>
+</a>
+</div>
+<div class="article-license-info">
+          Dieses Werk ist unter einer <strong>Creative Commons-Lizenz</strong> (<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International</a>) lizenziert. Unter Einhaltung der Lizenzbedingungen dürfen Sie es verbreiten und vervielfältigen.
+        </div>
+</div>
+</div>
+</div>
+<div class="wrapper">
+<div class="content wide">
+<h1>Weiterlesen</h1>
+<div class="article-loop">
+<div class="loop-main">
+<article class="article-vertical article-big">
+<a class="article-image" href="/artikel/reaktionare-rebellen"><img alt="Reaktionäre Rebellen" src="/uploads/store/469b169c3050b12923772bf8a0fc22ae.jpg"/></a>
+<div class="tag">Thematisch verwandter Artikel</div>
+<h2><a href="/artikel/reaktionare-rebellen">Reaktionäre Rebellen</a></h2>
+<p>Beim Versuch, Schuldige für das totalitäre Desaster zu finden, landen nicht selten emanzipative Ideen mit auf dem Scheiterhaufen. Teil 1/2. </p>
+<div class="article-meta">
+                28.02.2023
+                von <a href="/autoren/daniel-sandmann">Daniel  Sandmann</a>
+</div>
+</article>
+</div>
+<div class="loop-other">
+<article class="article-vertical article">
+<a class="article-image" href="/artikel/die-debatte-um-team-mensch"><img alt="Die Debatte um Team Mensch" src="/uploads/store/0c2436cc1d4ca5bf14de9734e28897c0.jpg"/></a>
+<div class="tag">Aktueller Artikel</div>
+<h2><a href="/artikel/die-debatte-um-team-mensch">Die Debatte um Team Mensch</a></h2>
+<div class="moreinfo">
+<p>Sven Böttcher und Elisa Gratias diskutieren in einem neuen Videogespräch über die Aussichten der Menschheit auf eine lebenswerte Zukunft.</p>
+<div class="article-meta">
+                  07.03.2023
+                  von <a href="/autoren/sven-bottcher">Sven Böttcher</a>, <a href="/autoren/elisa-gratias">Elisa  Gratias</a>
+</div>
+</div>
+</article>
+<article class="article-vertical article">
+<a class="article-image" href="/artikel/profiteure-des-sterbens"><img alt="Profiteure des Sterbens" src="/uploads/store/79ebda8a129c13165ae609a1bba8b07b.jpg"/></a>
+<div class="tag">Aus dem Archiv</div>
+<h2><a href="/artikel/profiteure-des-sterbens">Profiteure des Sterbens</a></h2>
+<div class="moreinfo">
+<p>Die Aufklärung über die Folgen der Waffenproduktion muss dort beginnen, wo die Waffen produziert werden. Interview mit dem Rüstungsgegner Lothar Höfler.</p>
+<div class="article-meta">
+                  25.02.2020
+                  von <a href="/autoren/laurent-stein">Laurent  Stein</a>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-wrapper">
+<div class="footer-content">
+<div class="footer1">
+<div class="footer-left">
+<h3>Post vom Rubikon</h3>
+<p>Wenn Sie in regelmäßigen Abständen über neue Veröffentlichungen im „Rubikon — Magazin für die kritische Masse“
+          informiert werden möchten, tragen Sie bitte hier Ihre E-Mail-Adresse ein:</p>
+<form accept-charset="UTF-8" action="/subscription#newsletter" class="newsletter-form" id="new_subscriber" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="a70U0S9Nfktj5GTKJY0+45Bm/u94tMnVPhUq2BzwNI0uHO9YIj7n8OXgos1yEaddfH4swmLWTjyMzqHooJEgeQ=="/>
+<input id="subscriber_email" name="subscriber[email]" placeholder="Ihre E-Mail Adresse" type="email"/>
+<div class="non-visible">
+<input id="subscriber_last_name" name="subscriber[last_name]" placeholder="Ihr Name" type="text"/>
+</div>
+<div class="non-visible">
+<input name="subscriber[checked]" type="hidden" value="0"/><input id="subscriber_checked" name="subscriber[checked]" placeholder="Einverstanden" type="checkbox" value="1"/>
+</div>
+<button class="button secondary" type="submit">Abonnieren</button>
+</form> </div>
+<div class="footer-center">
+<img alt="Exklusives" src="/assets/ill-exklusives_d-80edca19e74a72950368b416c4d1461a7a27f546cbb98790d27a8d86deed8789.png"/>
+</div>
+<div class="footer-right">
+<h3>Der Rubikon</h3>
+<p>Rubikon ist das Magazin für die kritische Masse. Wir berichten über das, was in den Massenmedien nicht zu finden ist. Herausgegeben wird der Rubikon in Mainz, geschrieben wird er von unabhängigen Journalistinnen und Journalisten überall auf der Welt.</p>
+<a class="button larger" href="/spenden">Jetzt spenden</a><br/>
+</div>
+</div>
+<div class="footer2">
+<a href="https://t.me/RubikonMagazin">Telegram</a>
+<a href="https://www.bitchute.com/channel/RubikonMagazin/">Videos</a>
+<a href="https://rubikonmagazin.podbean.com/">Podcasts</a>
+<a href="https://www.rubikon.news/artikel.atom">Newsfeed</a>
+<a href="/newsletter">Newsletter</a>
+</div>
+<div class="footer2">
+<a href="http://www.rubikon-magazin.shop">Shop</a>
+<a href="/buecher">Bücher</a>
+<a href="/freunde">Freunde</a>
+<a href="/kontakt">Team</a>
+<a href="/impressum">Impressum</a>
+<a href="/datenschutz">Datenschutz</a>
+</div>
+<div class="footer3">
+       © 2017–2023 Rubikon | Release 2.0.3 vom 08.04.2022
+    </div>
+</div>
+</footer>
+<script src="/assets/frontend/frontend-c64ff02dee5bfee3153887bcbff62194b33719ae9347db5908059e3b97bc9b9d.js"></script>
+<script>
+var _paq = _paq || [];
+_paq.push(["setCookieDomain", "*.rubikon.news"]);
+_paq.push(["setDomains", ["*.rubikon.news"]]);
+_paq.push(["setDoNotTrack", true]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//stats.rubikon.news/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '2']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<noscript>
+<img alt="Rubikon" src="https://stats.rubikon.news/piwik.php?idsite=2&amp;rec=1" style="border:0"/>
+</noscript>
+</body>
+</html>

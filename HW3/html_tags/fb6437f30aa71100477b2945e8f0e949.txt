@@ -1,0 +1,1316 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98" type="text/javascript"></script><!DOCTYPE html>
+
+<!--[if IE 8]><html class="lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]><html class="lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!--> <html> <!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+<meta content="app-id=305343404,affiliate-data=at=11l3M5&amp;ct=us.itunes.uni.tumblr.ipdt,app-argument=tumblr://x-callback-url/blog?blogName=sataniccapitalist&amp;postID=647209796272013312&amp;referrer=smart-app-banner" name="apple-itunes-app"/>
+<meta charset="utf-8"/>
+<title>Satanic Capitalist — IMF Silently Creates New Money Layer - Why You...</title>
+<meta content="https://www.activistpost.com/2021/03/imf-silently-creates-new-money-layer-why-you-need-to-leave-the-banks.html IMF Silently Creates New Money Layer - Why You Need To Leave The Banks - Activist Post" name="description"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<meta content="#35465D" name="theme-color"/>
+<style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=8dc19229b35110eb91d0b18db945d689" media="screen" rel="stylesheet"/><link href="https://64.media.tumblr.com/d75dfb27e5d4e4b90358796b88d35c67/54854a327c1d3f90-a7/s128x128u_c1/b169c306d9e7a231e1fb79cccc3e2c09b57334e0.jpg" rel="shortcut icon"/>
+<link href="https://64.media.tumblr.com/d75dfb27e5d4e4b90358796b88d35c67/54854a327c1d3f90-a7/s128x128u_c1/b169c306d9e7a231e1fb79cccc3e2c09b57334e0.jpg" rel="apple-touch-icon-precomposed"/>
+<link href="https://sataniccapitalist.tumblr.com/rss" rel="alternate" type="application/rss+xml"/>
+<link href="https://assets.tumblr.com/default-theme/r1/main-min.css" rel="stylesheet"/>
+<!-- HTML5 Shiv -->
+<!--[if lt IE 9]>
+            <script src="https://static.tumblr.com/hriofhd/Qj0m8pn7q/html5shiv.js"></script>
+        <![endif]-->
+<style>
+            /* Colors */
+            body {
+                background: #FAFAFA;
+            }
+
+            .blog-title {
+                font-family: 'Gibson', sans-serif, "Helvetica Neue", HelveticaNeue, Arial, sans-serif;
+                font-weight: bold;
+            }
+
+            .blog-title a,
+            .description,
+            .search-no-results,
+            .likes-no-likes,
+            .related-posts-wrapper > h2,
+            .loader .loader-bar,
+            .widget-title,
+            .tagged-page-cta .tagged-page-cta-desc {
+                color: #444444;
+            }
+
+            .tagged-page-cta .tagged-page-cta-tag {
+                color: #444444;
+                border-color: #444444;
+            }
+
+            a {
+                color: #529ECC;
+            }
+
+            #pagination a,
+            .nav-wrapper .nav-item .label {
+                color: #529ECC;
+            }
+
+            #pagination a.next:after {
+                border-left-color: #529ECC;
+            }
+
+            #pagination a.previous:after {
+                border-right-color: #529ECC;
+            }
+
+            .header-image.cover {
+                background-image: url(https://64.media.tumblr.com/7a212f37b71b2db26634d26f24452e93/54854a327c1d3f90-1b/s2048x3072_c0,10209,100000,89529/609f7ee3c55b5d3d00e5338c80a3f24a477c3081.jpg);
+            }
+
+            .user-avatar {
+                background-color: #FAFAFA;
+                border-color: #FAFAFA;
+            }
+
+            .avatar-style-square .user-avatar {
+                -webkit-box-shadow: 0 0 0 4px #FAFAFA;
+                box-shadow: 0 0 0 4px #FAFAFA;
+            }
+
+            .no-header-image .logo-wrapper,
+            .contain-header-image .logo-wrapper {
+                color: #529ECC;
+            }
+
+            /* Adjust logo for light accents on light backgrounds */
+            .light-on-light.no-header-image .logo-wrapper,
+            .light-on-light.contain-header-image .logo-wrapper {
+                color: #444;
+            }
+
+            /* Adjust logo for dark accents on dark backgrounds */
+            .dark-on-dark.no-header-image .logo-wrapper,
+            .dark-on-dark.contain-header-image .logo-wrapper {
+                color: #fff;
+            }
+
+            /* Logged-out compact Tumblr iframe */
+            .tmblr-iframe-compact .tmblr-iframe--unified-controls {
+                min-width: 100%;
+                background-color: #FAFAFA;
+            }
+
+            /* Sticky nav colors */
+            .nav-fixed {
+                background-color: #FAFAFA;
+            }
+
+            .nav-responsive .inline-nav::after {
+                background-image: linear-gradient(left, rgba(250,250,250, 0) 0%, rgba(250,250,250,1) 100%);
+                background-image: -webkit-linear-gradient(left, rgba(250,250,250, 0) 0%, rgba(250,250,250,1) 100%);
+                background-image: -moz-linear-gradient(left, rgba(250,250,250, 0) 0%, rgba(250,250,250,1) 100%);
+                background-image: -ms-linear-gradient(left, rgba(250,250,250, 0) 0%, rgba(250,250,250,1) 100%);
+                background-image: -o-linear-gradient(left, rgba(250,250,250, 0) 0%, rgba(250,250,250,1) 100%);
+            }
+
+            @media screen and (max-device-width: 568px) {
+                .header-image.cover {
+                    background-image: url(https://64.media.tumblr.com/7a212f37b71b2db26634d26f24452e93/54854a327c1d3f90-1b/s2048x3072_c0,10209,100000,89529/609f7ee3c55b5d3d00e5338c80a3f24a477c3081.jpg);
+                    -webkit-background-size: cover;
+                    background-size: cover;
+                }
+
+                .avatar-style-square .user-avatar {
+                    -webkit-box-shadow: 0 0 0 3px #FAFAFA;
+                    -moz-box-shadow: 0 0 0 3px #FAFAFA;
+                    box-shadow: 0 0 0 3px #FAFAFA;
+                }
+
+            }
+
+            /* Custom CSS */
+            
+        </style>
+<link href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=sataniccapitalist%26postID=647209796272013312" rel="alternate"><link href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=sataniccapitalist&amp;postID=647209796272013312" rel="alternate"><link href="https://www.tumblr.com/oembed/1.0?url=https://sataniccapitalist.tumblr.com/post/647209796272013312/imf-silently-creates-new-money-layer-why-you" rel="alternate" title="https://www.activistpost.com/2021/03/imf-silently-creates-new-money-layer-why-you-need-to-leave-the-banks.html
+IMF Silently Creates New Money Layer - Why You Need To Leave The Banks - Activist Post" type="application/json+oembed"><link href="https://sataniccapitalist.tumblr.com/post/647209796272013312/imf-silently-creates-new-money-layer-why-you/amp" rel="amphtml"><script data-customproperties='{"theme": "tumblrofficial"}' data-provider="tumblr.com" data-service="blognetwork" defer="" id="bilmur" nonce="cK5kyosClUKdsdMntGFPVUK7Mgs" src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202310" type="application/javascript"></script><script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><link href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3" rel="stylesheet" type="text/css"/><!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta content="48119224995" property="fb:app_id"><meta content="Tumblr" property="og:site_name"><meta content="IMF Silently Creates New Money Layer - Why You Need To Leave The Banks - Activist Post" property="og:title"><meta content="https://www.activistpost.com/2021/03/imf-silently-creates-new-money-layer-why-you-need-to-leave-the-banks.html
+Willem Middelkoop, author of The Big Reset, details what the latest move means for fiat..." property="og:description"><meta content="https://sataniccapitalist.tumblr.com/post/647209796272013312/imf-silently-creates-new-money-layer-why-you" property="og:url"><meta content="article" property="og:type"/><meta content="https://64.media.tumblr.com/5e477e15769647c927aa796756e5544e/49dea841bb9a159f-63/s1280x1920/596eaef49f8ac2039ecd3c4b31e0e0f41d4d6ff0.jpg" property="og:image"/><meta content="https://64.media.tumblr.com/5e477e15769647c927aa796756e5544e/49dea841bb9a159f-63/s1280x1920/596eaef49f8ac2039ecd3c4b31e0e0f41d4d6ff0.jpg" property="og:image:secure_url"/><meta content="image/jpeg" property="og:image:type"/><meta content="895" property="og:image:width"/><meta content="587" property="og:image:height"/><meta content="tumblr://x-callback-url/blog?blogName=sataniccapitalist&amp;postID=647209796272013312" property="al:ios:url"/><meta content="Tumblr" property="al:ios:app_name"/><meta content="305343404" property="al:ios:app_store_id"/><meta content="tumblr://x-callback-url/blog?blogName=sataniccapitalist&amp;postID=647209796272013312" property="al:android:url"/><meta content="Tumblr" property="al:android:app_name"/><meta content="com.tumblr" property="al:android:package"/><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"SocialMediaPosting","url":"https:\/\/sataniccapitalist.tumblr.com\/post\/647209796272013312\/imf-silently-creates-new-money-layer-why-you","mainEntityOfPage":true,"datePublished":"2021-03-31T21:49:20+00:00","author":"sataniccapitalist","articleBody":"https:\/\/www.activistpost.com\/2021\/03\/imf-silently-creates-new-money-layer-why-you-need-to-leave-the-banks.html\nIMF Silently Creates New Money Layer - Why You Need To Leave The Banks - Activist Post","@context":"http:\/\/schema.org"}</script><link href="https://sataniccapitalist.tumblr.com/post/647209796272013312/imf-silently-creates-new-money-layer-why-you" rel="canonical"/></meta></meta></meta></meta></meta></link></link></link></link></head>
+<body class="regular permalink display-related-posts" data-urlencoded-name="sataniccapitalist">
+<!-- This is in case the search engine skips the title tag-->
+<h1 style="display: none;">Satanic Capitalist — IMF Silently Creates New Money Layer - Why You...</h1>
+<div class="app-nag">
+<div class="app-nag-header clearfix">
+<div class="app-nag-icon">
+<div class="app-nag-icon-ios">
+<svg enable-background="new 0 0 1024 1024" version="1.1" viewbox="0 0 1024 1024" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+<path d="M1024,771c0,139.2-113.8,253-253,253H253C113.8,1024,0,910.2,0,771V253C0,113.8,113.8,0,253,0h518 c139.2,0,253,113.8,253,253V771z" fill="#36465D"></path>
+<path d="M463.9,209.4" fill="none" stroke="#FFF100" stroke-miterlimit="10" stroke-width="4"></path>
+<path d="M628.1,681c8.2,0,17.1-1.2,25.8-3.3V530.3h111.6V401.8h-68.6V473H585.4v162.4 C586,676.3,609.1,681,628.1,681z M654.4,250.5h-68.6v94h68.6V250.5z M754.3,722.9c-12.7,7.1-28.9,12.4-44.3,14.5l11.4,33.8 c-20.5,27-71.4,45.5-118.1,46.3c-1.6,0-3.1,0-4.7,0c0,0,0,0,0,0c-32.5,0-59.5-5.7-81.9-15.3c26.2,40,72.7,72.6,150.5,72.6c0,0,0,0,0,0c1.6,0,3.1,0,4.7,0c46.6-0.8,97.6-19.4,118.1-46.3L754.3,722.9z" fill="#231F20" opacity="0.6"></path>
+<path d="M355,359.5" fill="none" stroke="#FFF100" stroke-miterlimit="10" stroke-width="4"></path>
+<path d="M577.5,830.6c65.1,0,129.7-23.2,151-51.3l4.3-5.6l-40.4-119.7c-0.4-1.1-1.4-1.9-2.6-1.9h-7.6h-3.5l-79.1,0 c-1.2,0-2.3-0.8-2.6-2c-1.1-4-1.7-8.9-1.8-14.9V489c0-1.5,1.2-2.7,2.7-2.7h106.1c1.5,0,2.7-1.2,2.7-2.7V333.8c0-1.5-1.2-2.7-2.7-2.7 H598.4c-1.5,0-2.7-1.2-2.7-2.7V182.5c0-1.5-1.2-2.7-2.7-2.7h-82.6h-28.9h-73.8c-13.3,0-28.5,9.8-30.8,28 c-9.3,75.3-43.8,120.5-108.7,142.2l-7.2,2.4c-1.1,0.4-1.9,1.4-1.9,2.6v128.6c0,1.5,1.2,2.7,2.7,2.7h50.4h0h15.9c0,0,0,120,0,158.3 C328.1,771,415.7,830.6,577.5,830.6z M701.6,769.5c-20.3,19.5-62,34.1-102,34.7c-1.5,0-3,0-4.5,0h0 c-131.5,0-166.6-100.4-166.6-159.7V462.3c0-1.5-1.2-2.7-2.7-2.7h-63.6c-1.5,0-2.7-1.2-2.7-2.7v-83c0-1.1,0.7-2.1,1.7-2.5 c68-26.5,105.9-79,115.9-160.3c0.6-4.5,4.3-4.6,4.3-4.6h84.9c1.5,0,2.7,1.2,2.7,2.7v145.9c0,1.5,1.2,2.7,2.7,2.7h105.7 c1.5,0,2.7,1.2,2.7,2.7v96.4c0,1.5-1.2,2.7-2.7,2.7H571.3c-1.5,0-2.7,1.2-2.7,2.7l0,173.2c0.6,39,19.5,58.8,56.1,58.8 c14.7,0,31.6-3.4,47.1-9.3c1.4-0.6,3,0.2,3.5,1.6l27,80C702.6,767.7,702.4,768.8,701.6,769.5z" fill="#FFFFFF"></path>
+<path d="M328.1,528.9h73.8v-40.2c0-1.3-1.1-2.4-2.4-2.4h-71.4V528.9z" fill="#2D3F54" opacity="0.5"></path>
+</svg>
+</div>
+<div class="app-nag-icon-android">
+<svg enable-background="new 0 0 1024 1024" version="1.1" viewbox="0 0 1024 1024" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+<path d="M463.9,209.4" fill="none" stroke="#FFF100" stroke-miterlimit="10" stroke-width="4"></path>
+<path d="M628.1,681c8.2,0,17.1-1.2,25.8-3.3V530.3h111.6V401.8h-68.6V473H585.4v162.4 C586,676.3,609.1,681,628.1,681z M654.4,250.5h-68.6v94h68.6V250.5z M754.3,722.9c-12.7,7.1-28.9,12.4-44.3,14.5l11.4,33.8 c-20.5,27-71.4,45.5-118.1,46.3c-1.6,0-3.1,0-4.7,0c0,0,0,0,0,0c-32.5,0-59.5-5.7-81.9-15.3c26.2,40,72.7,72.6,150.5,72.6c0,0,0,0,0,0c1.6,0,3.1,0,4.7,0c46.6-0.8,97.6-19.4,118.1-46.3L754.3,722.9z" fill="#231F20" opacity="0.5"></path>
+<path d="M355,359.5" fill="none" stroke="#FFF100" stroke-miterlimit="10" stroke-width="4"></path>
+<path d="M577.5,830.6c65.1,0,129.7-23.2,151-51.3l4.3-5.6l-40.4-119.7c-0.4-1.1-1.4-1.9-2.6-1.9h-7.6h-3.5l-79.1,0 c-1.2,0-2.3-0.8-2.6-2c-1.1-4-1.7-8.9-1.8-14.9V489c0-1.5,1.2-2.7,2.7-2.7h106.1c1.5,0,2.7-1.2,2.7-2.7V333.8c0-1.5-1.2-2.7-2.7-2.7 H598.4c-1.5,0-2.7-1.2-2.7-2.7V182.5c0-1.5-1.2-2.7-2.7-2.7h-82.6h-28.9h-73.8c-13.3,0-28.5,9.8-30.8,28 c-9.3,75.3-43.8,120.5-108.7,142.2l-7.2,2.4c-1.1,0.4-1.9,1.4-1.9,2.6v128.6c0,1.5,1.2,2.7,2.7,2.7h50.4h0h15.9c0,0,0,120,0,158.3 C328.1,771,415.7,830.6,577.5,830.6z M701.6,769.5c-20.3,19.5-62,34.1-102,34.7c-1.5,0-3,0-4.5,0h0 c-131.5,0-166.6-100.4-166.6-159.7V462.3c0-1.5-1.2-2.7-2.7-2.7h-63.6c-1.5,0-2.7-1.2-2.7-2.7v-83c0-1.1,0.7-2.1,1.7-2.5 c68-26.5,105.9-79,115.9-160.3c0.6-4.5,4.3-4.6,4.3-4.6h84.9c1.5,0,2.7,1.2,2.7,2.7v145.9c0,1.5,1.2,2.7,2.7,2.7h105.7 c1.5,0,2.7,1.2,2.7,2.7v96.4c0,1.5-1.2,2.7-2.7,2.7H571.3c-1.5,0-2.7,1.2-2.7,2.7l0,173.2c0.6,39,19.5,58.8,56.1,58.8 c14.7,0,31.6-3.4,47.1-9.3c1.4-0.6,3,0.2,3.5,1.6l27,80C702.6,767.7,702.4,768.8,701.6,769.5z" fill="#36465D"></path>
+<path d="M328.1,528.9h73.8v-40.2c0-1.3-1.1-2.4-2.4-2.4h-71.4V528.9z" fill="#2D3F54" opacity="0.5"></path>
+</svg>
+</div>
+</div>
+<div class="app-nag-ratings">
+<svg height="30px" version="1.1" viewbox="0 0 181 30" width="181px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
+<path d="M15.8,25.2 L6.1,29.8 L7.5,19.2 L0.1,11.4 L10.6,9.5 L15.8,0 L20.9,9.5 L31.4,11.4 L24,19.2 L25.4,29.8 L15.8,25.2 Z" fill="#FFC00E"></path>
+<path d="M52.8,25.2 L43.1,29.8 L44.5,19.2 L37.1,11.4 L47.6,9.5 L52.8,0 L57.9,9.5 L68.4,11.4 L61,19.2 L62.4,29.8 L52.8,25.2 Z" fill="#FFC00E"></path>
+<path d="M89.8,25.2 L80.1,29.8 L81.5,19.2 L74.1,11.4 L84.6,9.5 L89.8,0 L94.9,9.5 L105.4,11.4 L98,19.2 L99.4,29.8 L89.8,25.2 Z" fill="#FFC00E"></path>
+<path d="M126.8,25.2 L117.1,29.8 L118.5,19.2 L111.1,11.4 L121.6,9.5 L126.8,0 L131.9,9.5 L142.4,11.4 L135,19.2 L136.4,29.8 L126.8,25.2 Z" fill="#FFC00E"></path>
+<path d="M163.8,25.2 L154.1,29.8 L155.5,19.2 L148.1,11.4 L158.6,9.5 L163.8,0 L168.9,9.5 L179.4,11.4 L172,19.2 L173.4,29.8 L163.8,25.2 Z" fill="#E7E7E7"></path>
+<path d="M163.3,25.1 L154.1,29.8 L155.5,19.2 L148.1,11.4 L158.6,9.5 L163.3,0.9 L163.3,25.1 Z" fill="#FFC00E"></path>
+</g>
+</svg>
+<div class="app-nag-ratings-text app-nag-ratings-text-android">
+                        1.5M ratings
+                    </div>
+<div class="app-nag-ratings-text app-nag-ratings-text-ios">
+                        277k ratings
+                    </div>
+</div>
+<div class="app-nag-close-button">
+<svg height="15px" version="1.1" viewbox="0 0 30 30" width="15px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
+<path d="M12.510351,14.6860639 L0,27.1964147 L2.175713,29.3721278 L14.686064,16.8617771 L27.196415,29.3721278 L29.372128,27.1964147 L16.861777,14.6860639 L29.372128,2.1757132 L27.196415,0 L14.686064,12.5103507 L2.175713,0 L0,2.1757132 L12.510351,14.6860639 L12.510351,14.6860639 Z" fill="#D3D3D3"></path>
+</g>
+</svg>
+</div>
+</div>
+<div class="app-nag-body">
+<h2 class="app-nag-callout">See, that’s what the app is perfect for.</h2>
+<a class="app-nag-large-button app-nag-app-store-link button blue">Sounds perfect</a>
+<a class="app-nag-large-button app-nag-app-store-deny">Wahhhh, I don’t wanna</a>
+</div>
+</div>
+<section class="h-entry" id="page">
+<div class="header-wrapper avatar-style-square">
+<header class="top-blog-header" id="header">
+<div class="header-image-wrapper">
+<a class="header-image parallax cover" data-bg-image="https://64.media.tumblr.com/7a212f37b71b2db26634d26f24452e93/54854a327c1d3f90-1b/s2048x3072_c0,10209,100000,89529/609f7ee3c55b5d3d00e5338c80a3f24a477c3081.jpg" href="/">
+</a>
+<div class="loader-bg"></div>
+</div>
+<div class="blog-title-wrapper content">
+<figure class="avatar-wrapper p-author h-card">
+<a class="user-avatar" href="/" style="background-image: url(https://64.media.tumblr.com/d75dfb27e5d4e4b90358796b88d35c67/54854a327c1d3f90-a7/s128x128u_c1/b169c306d9e7a231e1fb79cccc3e2c09b57334e0.jpg)"><img alt="sataniccapitalist" class="print-only invisible" src="https://64.media.tumblr.com/d75dfb27e5d4e4b90358796b88d35c67/54854a327c1d3f90-a7/s128x128u_c1/b169c306d9e7a231e1fb79cccc3e2c09b57334e0.jpg"/></a>
+</figure>
+<div class="title-group">
+<h1 class="blog-title"><a href="/">Satanic Capitalist</a></h1>
+<span class="description">
+                                "We are, each of us, all we have."
+                            </span>
+</div>
+</div>
+</header>
+</div>
+<div class="nav-wrapper nav-responsive">
+<nav class="nav-menu">
+<ul class="inline-nav">
+<li class="nav-item nav-item--posts">
+<a class="label" href="/">Posts</a>
+</li>
+<li class="nav-item nav-item--likes">
+<a class="label" href="/likes">Likes</a>
+</li>
+<li class="nav-item nav-item--following">
+<a class="label" href="/following">Following</a>
+</li>
+<li class="nav-item nav-item--ask">
+<a class="label" href="/ask">Ask me anything</a>
+</li>
+<li class="nav-item nav-item--submit">
+<a class="label" href="/submit">Submit a post</a>
+</li>
+<li class="nav-item nav-item--archive">
+<a class="label external-page" href="/archive">Archive</a>
+</li>
+</ul>
+</nav>
+</div>
+<section class="content clearfix avatar-style-square show-nav" id="posts">
+<div class="container">
+<div class="main">
+<article class="text not-page post-647209796272013312 active exposed" data-post-id="647209796272013312">
+<div class="post-wrapper clearfix">
+<header class="post-header">
+</header>
+<section class="post">
+<div class="post-content">
+<div class="body-text e-content"><p><a href="https://href.li/?https://www.activistpost.com/2021/03/imf-silently-creates-new-money-layer-why-you-need-to-leave-the-banks.html">https://www.activistpost.com/2021/03/imf-silently-creates-new-money-layer-why-you-need-to-leave-the-banks.html</a></p><div class="npf-link-block has-poster"><a href="https://href.li/?https://www.activistpost.com/2021/03/imf-silently-creates-new-money-layer-why-you-need-to-leave-the-banks.html" target="_blank"><div class="poster" style="background-image:url(https://64.media.tumblr.com/5e477e15769647c927aa796756e5544e/49dea841bb9a159f-63/s1280x1920/596eaef49f8ac2039ecd3c4b31e0e0f41d4d6ff0.jpg)"><div class="title">IMF Silently Creates New Money Layer - Why You Need To Leave The Banks - Activist Post</div></div><div class="bottom"><div class="description">
+                    Willem Middelkoop, author of The Big Reset, details what the latest move means for fiat currencies, cryptocurrencies and precious metals.                </div><div class="site-name">
+                Activist Post            </div></div></a></div></div>
+</div>
+<section class="inline-meta post-extra">
+</section>
+<section class="inline-meta post-extra">
+</section>
+</section>
+<section class="panel">
+<footer class="post-footer">
+<section class="panel">
+<section class="inline-meta date-notes">
+<div class="date-note-wrapper">
+<span>
+<a class="meta-item post-notes" href="https://sataniccapitalist.tumblr.com/post/647209796272013312/imf-silently-creates-new-money-layer-why-you#notes">5 notes</a>
+<section class="clearfix" id="notes-count">
+<div class="notes-wrapper-header">
+<span class="notes-wrapper-header-close">
+<svg height="15px" version="1.1" viewbox="0 0 30 30" width="15px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1">
+<path d="M12.510351,14.6860639 L0,27.1964147 L2.175713,29.3721278 L14.686064,16.8617771 L27.196415,29.3721278 L29.372128,27.1964147 L16.861777,14.6860639 L29.372128,2.1757132 L27.196415,0 L14.686064,12.5103507 L2.175713,0 L0,2.1757132 L12.510351,14.6860639 L12.510351,14.6860639 Z" fill="#D3D3D3"></path>
+</g>
+</svg>
+</span>
+                                                                                    5 notes
+                                                                                </div>
+</section>
+</span>
+<a class="meta-item post-date" href="https://sataniccapitalist.tumblr.com/post/647209796272013312/imf-silently-creates-new-money-layer-why-you" title="1 year ago">Mar 31st, 2021</a><time class="dt-published" datetime="2021-03-31 17:49:20"></time>
+</div>
+</section>
+<section class="post-controls">
+<div class="controls-wrapper">
+<div class="control share-control">
+<nav class="pop">
+<a class="share selector" href="#"></a>
+<div class="pop-menu share-menu south" id="share_647209796272013312">
+<ul>
+<li class="open-in-app"><a class="share-item open-in-app" data-post="647209796272013312" href="#">Open in app</a></li>
+<li><a class="share-item facebook" href="https://facebook.com/sharer.php?u=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F647209796272013312%2Fimf-silently-creates-new-money-layer-why-you&amp;t=" target="_blank">Facebook</a></li>
+<li><a class="share-item twitter" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.activistpost.com%2F2021%2F03%2Fimf-silently-creates-new-money-layer-why-you-need-to-leave-the-banks.htmlIMF%20Silently%20Creates%20New%20Money%20Layer%20-%20Why%20You%20Need%20To%20Leave%20The%20Banks%20-%20Activist%20Post%20https%3A%2F%2Ftmblr.co%2FZptQtiZxMU5nya00" target="_blank">Tweet</a></li>
+<li><a class="share-item reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F647209796272013312%2Fimf-silently-creates-new-money-layer-why-you" target="_blank">Reddit</a></li>
+<li><a class="share-item mail" href="mailto:?subject=A%20post%20from%20Satanic%20Capitalist&amp;body=https%3A%2F%2Fwww.activistpost.com%2F2021%2F03%2Fimf-silently-creates-new-money-layer-why-you-need-to-leave-the-banks.htmlIMF%20Silently%20Creates%20New%20Money%20Layer...%20https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F647209796272013312%2Fimf-silently-creates-new-money-layer-why-you">Mail</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/647209796272013312/embed">Embed</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/647209796272013312/imf-silently-creates-new-money-layer-why-you">Permalink <i class="arrow"></i></a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="control reblog-control"><a class="reblog_button" href="https://www.tumblr.com/reblog/sataniccapitalist/647209796272013312/MuEOLZh3" style="display: block;width:24px;height:24px;"><svg fill="#000" height="100%" viewbox="0 0 21 21" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+<div class="control like-control"><div class="like_button" data-blog-name="sataniccapitalist" data-post-id="647209796272013312" id="like_button_647209796272013312"><iframe allowtransparency="true" class="like_toggle" frameborder="0" height="24" id="like_iframe_647209796272013312" name="like_iframe_647209796272013312" scrolling="no" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=sataniccapitalist&amp;post_id=647209796272013312&amp;color=black&amp;rk=MuEOLZh3" width="24"></iframe></div></div>
+</div>
+</section>
+</section>
+<section class="inline-meta date-notes">
+<span class="notes-pop-container">
+<section class="notes-wrapper clearfix">
+<div class="notes-anchor" id="notes"></div>
+<ol class="notes"><!-- START NOTES --><li class="note like tumblelog_hotmenandmotorcycles without_commentary"><a class="avatar_frame" href="https://hotmenandmotorcycles.tumblr.com/" rel="nofollow" target="_blank" title="Hot Men &amp; Motorcycles "><img alt="" class="avatar" src="https://assets.tumblr.com/images/default_avatar/cone_open_64.png"/></a><span class="action"><a href="https://hotmenandmotorcycles.tumblr.com/" rel="nofollow" title="Hot Men &amp; Motorcycles">hotmenandmotorcycles</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_elpsykangaroo777 without_commentary"><a class="avatar_frame" href="https://elpsykangaroo777.tumblr.com/" rel="nofollow" target="_blank" title="Welcome to My Twisted ™ Mind... "><img alt="" class="avatar" src="https://64.media.tumblr.com/c7e4b1525781e779faff2925ef9e35e6/f0b64ae2e0060e46-c5/s64x64u_c1/eca2992d0c9bd618e8dafd12115e3f2fd9b545d1.jpg"/></a><span class="action"><a href="https://elpsykangaroo777.tumblr.com/" rel="nofollow" title="Welcome to My Twisted ™ Mind...">elpsykangaroo777</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_pinetreeanarchism without_commentary"><a class="avatar_frame" href="https://pinetreeanarchism.tumblr.com/" rel="nofollow" target="_blank" title="Pine Tree Anarchism"><img alt="" class="avatar" src="https://64.media.tumblr.com/avatar_60e904a17cbd_64.pnj"/></a><span class="action" data-post-url="https://pinetreeanarchism.tumblr.com/post/647211091089358849"><a class="tumblelog" href="https://pinetreeanarchism.tumblr.com/post/647211091089358849" rel="nofollow" title="Pine Tree Anarchism">pinetreeanarchism</a> reblogged this from <a class="source_tumblelog" href="https://pinetreeanarchism.tumblr.com/" rel="nofollow" title="Pine Tree Anarchism">pinetreeanarchism</a> </span><div class="clear"></div></li><li class="note reblog tumblelog_greystravels without_commentary"><a class="avatar_frame" href="https://greystravels.tumblr.com/" rel="nofollow" target="_blank" title="greys travels"><img alt="" class="avatar" src="https://64.media.tumblr.com/avatar_fbb2f9de9f04_64.pnj"/></a><span class="action" data-post-url="https://greystravels.tumblr.com/post/647210502931578880"><a class="tumblelog" href="https://greystravels.tumblr.com/post/647210502931578880" rel="nofollow" title="greys travels">greystravels</a> reblogged this from <a class="source_tumblelog" href="https://sataniccapitalist.tumblr.com/" rel="nofollow" title="Satanic Capitalist">sataniccapitalist</a> </span><div class="clear"></div></li><li class="note reblog tumblelog_sataniccapitalist original_post with_commentary"><a class="avatar_frame" href="https://sataniccapitalist.tumblr.com/" rel="nofollow" target="_blank" title="Satanic Capitalist"><img alt="" class="avatar" src="https://64.media.tumblr.com/d75dfb27e5d4e4b90358796b88d35c67/54854a327c1d3f90-a7/s64x64u_c1/6527ba93907dddb2dd8c41009d463ad29211087f.jpg"/></a><span class="action" data-post-url="https://sataniccapitalist.tumblr.com/post/647209796272013312"><a class="tumblelog" href="https://sataniccapitalist.tumblr.com/" rel="nofollow" title="Satanic Capitalist">sataniccapitalist</a> posted this                                                                        </span><div class="clear"></div><blockquote><a href="https://sataniccapitalist.tumblr.com/post/647209796272013312" rel="nofollow" title="View post">
+                                https://www.activistpost.com/2021/03/imf-silently-creates-new-money-layer-why-you-need-to-leave-the-banks.html                            </a></blockquote></li><!-- END NOTES --></ol></section>
+</span>
+</section>
+</footer>
+</section>
+</div>
+</article>
+<section class="related-posts-wrapper">
+<h2>More you might like</h2>
+<div class="related-posts">
+<article class="text reblogged not-page post-711177589097742336 active exposed" data-post-id="711177589097742336">
+<div class="post-wrapper clearfix">
+<header class="post-header">
+<a class="reblog-link" href="https://antiwaradvocates.tumblr.com/post/710001548680413184"><i class="reblog-icon"></i>antiwaradvocates</a>
+</header>
+<section class="post">
+<div class="post-content">
+<div class="reblog-list">
+<div class="post-reblog-trail-item original-reblog-content">
+<div class="post-reblog-header">
+<div class="post-avatar">
+<div class="post-avatar-wrapper">
+<a class="post-avatar-link" href="https://depsidase.tumblr.com/post/709995216388685826" target="_blank">
+<img class="post-avatar-image" src="https://64.media.tumblr.com/avatar_bb539ec5006f_64.pnj"/>
+</a>
+</div>
+</div>
+<a class="post-tumblelog-name" href="https://depsidase.tumblr.com/post/709995216388685826" target="_blank">depsidase</a>
+</div>
+<div class="post-reblog-content">
+<div class="post-body">
+<p></p><div class="npf_row"><div class="npf_col"><figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/ccb935f6636ad7b0b6bffb530b1ae5c0/be2bb6ea04cb6dd6-e8/s1280x1920/566628ea1d12cae5cca2a969aae542d991fc6b38.jpg" data-big-photo-height="726" data-big-photo-width="953"><img alt="image" class="post_media_photo image" sizes="(max-width: 953px) 100vw, 953px" src="https://64.media.tumblr.com/ccb935f6636ad7b0b6bffb530b1ae5c0/be2bb6ea04cb6dd6-e8/s1280x1920/566628ea1d12cae5cca2a969aae542d991fc6b38.jpg" srcset="https://64.media.tumblr.com/ccb935f6636ad7b0b6bffb530b1ae5c0/be2bb6ea04cb6dd6-e8/s75x75_c1/ed5bbdf5707bb78b67e39b5481c6afb33a15b4db.jpg 75w, https://64.media.tumblr.com/ccb935f6636ad7b0b6bffb530b1ae5c0/be2bb6ea04cb6dd6-e8/s100x200/316359dae337537598fe4491febcd383d198a266.jpg 100w, https://64.media.tumblr.com/ccb935f6636ad7b0b6bffb530b1ae5c0/be2bb6ea04cb6dd6-e8/s250x400/137f200a7ebe82e329f28084f78cac58d370df9f.jpg 250w, https://64.media.tumblr.com/ccb935f6636ad7b0b6bffb530b1ae5c0/be2bb6ea04cb6dd6-e8/s400x600/8b98be8b4bfcc1a76e4c1dda9f61616c7d60db69.jpg 400w, https://64.media.tumblr.com/ccb935f6636ad7b0b6bffb530b1ae5c0/be2bb6ea04cb6dd6-e8/s500x750/faca255951d52dacb431d78717faf8b35f58f7dc.jpg 500w, https://64.media.tumblr.com/ccb935f6636ad7b0b6bffb530b1ae5c0/be2bb6ea04cb6dd6-e8/s540x810/4f03c1ffb9f0e506caf52a98f8e1285210b285bf.jpg 540w, https://64.media.tumblr.com/ccb935f6636ad7b0b6bffb530b1ae5c0/be2bb6ea04cb6dd6-e8/s640x960/fb7266f22a14d264d5a1baae3a6d1c94ecbff780.jpg 640w, https://64.media.tumblr.com/ccb935f6636ad7b0b6bffb530b1ae5c0/be2bb6ea04cb6dd6-e8/s1280x1920/566628ea1d12cae5cca2a969aae542d991fc6b38.jpg 953w"/></a></figure></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="inline-meta post-extra has-reblog">
+</section>
+</section>
+<section class="panel">
+<footer class="post-footer">
+<section class="panel">
+<section class="inline-meta date-notes">
+<div class="date-note-wrapper">
+<a class="meta-item post-notes" href="https://sataniccapitalist.tumblr.com/post/711177589097742336?is_related_post=1#notes">340 notes</a>
+</div>
+</section>
+<section class="post-controls">
+<div class="controls-wrapper">
+<div class="control share-control">
+<nav class="pop">
+<a class="share selector" href="#"></a>
+<div class="pop-menu share-menu south" id="share_711177589097742336">
+<ul>
+<li class="open-in-app"><a class="share-item open-in-app" data-post="711177589097742336" href="#">Open in app</a></li>
+<li><a class="share-item facebook" href="https://facebook.com/sharer.php?u=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711177589097742336%3Fis_related_post%3D1&amp;t=" target="_blank">Facebook</a></li>
+<li><a class="share-item twitter" href="https://twitter.com/intent/tweet?text=depsidase%3A%20https%3A%2F%2Ftmblr.co%2FZptQtidUd3-IOy00" target="_blank">Tweet</a></li>
+<li><a class="share-item reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711177589097742336%3Fis_related_post%3D1" target="_blank">Reddit</a></li>
+<li><a class="share-item mail" href="mailto:?subject=A%20post%20from%20Satanic%20Capitalist&amp;body=depsidase%3A%20https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711177589097742336">Mail</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711177589097742336/embed">Embed</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711177589097742336?is_related_post=1">Permalink <i class="arrow"></i></a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="control reblog-control"><a class="reblog_button" href="https://www.tumblr.com/reblog/sataniccapitalist/711177589097742336/aDtWyaeE" style="display: block;width:24px;height:24px;"><svg fill="#000" height="100%" viewbox="0 0 21 21" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+<div class="control like-control"><div class="like_button" data-blog-name="sataniccapitalist" data-post-id="711177589097742336" id="like_button_711177589097742336"><iframe allowtransparency="true" class="like_toggle" frameborder="0" height="24" id="like_iframe_711177589097742336" name="like_iframe_711177589097742336" scrolling="no" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=sataniccapitalist&amp;post_id=711177589097742336&amp;color=black&amp;rk=aDtWyaeE&amp;root_id=709995216388685826" width="24"></iframe></div></div>
+</div>
+</section>
+</section>
+</footer>
+</section>
+</div>
+</article>
+<article class="text reblogged not-page post-711177862834749440 active exposed" data-post-id="711177862834749440">
+<div class="post-wrapper clearfix">
+<header class="post-header">
+<a class="reblog-link" href="https://antiwaradvocates.tumblr.com/post/709187427916480512"><i class="reblog-icon"></i>antiwaradvocates</a>
+</header>
+<section class="post">
+<div class="post-content">
+<div class="reblog-list">
+<div class="post-reblog-trail-item original-reblog-content">
+<div class="post-reblog-header">
+<div class="post-avatar">
+<div class="post-avatar-wrapper">
+<a class="post-avatar-link" href="https://bellybuttonblue2.tumblr.com/post/703642842353041408" target="_blank">
+<img class="post-avatar-image" src="https://64.media.tumblr.com/09b9882a86faeb9ad5b45e0b2649f8db/bf419a575a5685f0-b6/s64x64u_c1/947b071605264fe1829fcb797d509260291429b6.pnj"/>
+</a>
+</div>
+</div>
+<a class="post-tumblelog-name" href="https://bellybuttonblue2.tumblr.com/post/703642842353041408" target="_blank">bellybuttonblue2</a>
+</div>
+<div class="post-reblog-content">
+<div class="post-body">
+<p></p><div class="npf_row"><div class="npf_col"><figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/413e3001ad8afb5242783b0e0ad2fff0/a35a0a657f6e5e4f-f7/s1280x1920/a35cd28ec5dc468c4d27b30e05b4308e0d88eeae.jpg" data-big-photo-height="559" data-big-photo-width="1080"><img alt="image" class="post_media_photo image" sizes="(max-width: 1080px) 100vw, 1080px" src="https://64.media.tumblr.com/413e3001ad8afb5242783b0e0ad2fff0/a35a0a657f6e5e4f-f7/s1280x1920/a35cd28ec5dc468c4d27b30e05b4308e0d88eeae.jpg" srcset="https://64.media.tumblr.com/413e3001ad8afb5242783b0e0ad2fff0/a35a0a657f6e5e4f-f7/s75x75_c1/678e97c68c96ba9dbf71f64950731af4dee9ad0b.jpg 75w, https://64.media.tumblr.com/413e3001ad8afb5242783b0e0ad2fff0/a35a0a657f6e5e4f-f7/s100x200/b0ffb9369637ccc206b1a5e5c7a15ae8c861b9c8.jpg 100w, https://64.media.tumblr.com/413e3001ad8afb5242783b0e0ad2fff0/a35a0a657f6e5e4f-f7/s250x400/48ddd52cb0d77f00e0b67e1c06296ca6275144ae.jpg 250w, https://64.media.tumblr.com/413e3001ad8afb5242783b0e0ad2fff0/a35a0a657f6e5e4f-f7/s400x600/a63c4079aad8b75b018b02e9574b555794a2abc1.jpg 400w, https://64.media.tumblr.com/413e3001ad8afb5242783b0e0ad2fff0/a35a0a657f6e5e4f-f7/s500x750/498aa668205e1e0718e4e124c2aa2a22aad94751.jpg 500w, https://64.media.tumblr.com/413e3001ad8afb5242783b0e0ad2fff0/a35a0a657f6e5e4f-f7/s540x810/4b443214dc55f8368e2a4a5f97405f0a27825140.jpg 540w, https://64.media.tumblr.com/413e3001ad8afb5242783b0e0ad2fff0/a35a0a657f6e5e4f-f7/s640x960/14431b2fb05fa752464cca2c5243ba8bc4682fc8.jpg 640w, https://64.media.tumblr.com/413e3001ad8afb5242783b0e0ad2fff0/a35a0a657f6e5e4f-f7/s1280x1920/a35cd28ec5dc468c4d27b30e05b4308e0d88eeae.jpg 1080w"/></a></figure></div></div><div class="npf_row"><div class="npf_col"><figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/16b93d9a7183dd09d9ebeeb85a9647cf/a35a0a657f6e5e4f-82/s1280x1920/7ed6abcb55d1b06f1ffe037e86e009fee5f0d5ea.jpg" data-big-photo-height="872" data-big-photo-width="1080"><img alt="image" class="post_media_photo image" sizes="(max-width: 1080px) 100vw, 1080px" src="https://64.media.tumblr.com/16b93d9a7183dd09d9ebeeb85a9647cf/a35a0a657f6e5e4f-82/s1280x1920/7ed6abcb55d1b06f1ffe037e86e009fee5f0d5ea.jpg" srcset="https://64.media.tumblr.com/16b93d9a7183dd09d9ebeeb85a9647cf/a35a0a657f6e5e4f-82/s75x75_c1/24c968caa7415d7e315d2f9d7faa68a56adccb70.jpg 75w, https://64.media.tumblr.com/16b93d9a7183dd09d9ebeeb85a9647cf/a35a0a657f6e5e4f-82/s100x200/1eb30e1c1d5470c9194e1c1b7c8c1deafcce7666.jpg 100w, https://64.media.tumblr.com/16b93d9a7183dd09d9ebeeb85a9647cf/a35a0a657f6e5e4f-82/s250x400/f9ebf6650bb25311f99a429929e3114cd39df20b.jpg 250w, https://64.media.tumblr.com/16b93d9a7183dd09d9ebeeb85a9647cf/a35a0a657f6e5e4f-82/s400x600/c0ec0158325e8f2e099ae3415f90b2e168eb26be.jpg 400w, https://64.media.tumblr.com/16b93d9a7183dd09d9ebeeb85a9647cf/a35a0a657f6e5e4f-82/s500x750/6bda582e5fa04555786f5b06e6088f0d4182de4a.jpg 500w, https://64.media.tumblr.com/16b93d9a7183dd09d9ebeeb85a9647cf/a35a0a657f6e5e4f-82/s540x810/92576d0b461b48e361f4556f8b5005c2c93bed0a.jpg 540w, https://64.media.tumblr.com/16b93d9a7183dd09d9ebeeb85a9647cf/a35a0a657f6e5e4f-82/s640x960/f97483f53a837daf78b1db895cf11bef0b9026cb.jpg 640w, https://64.media.tumblr.com/16b93d9a7183dd09d9ebeeb85a9647cf/a35a0a657f6e5e4f-82/s1280x1920/7ed6abcb55d1b06f1ffe037e86e009fee5f0d5ea.jpg 1080w"/></a></figure></div></div><div class="npf_row"><div class="npf_col"><figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/a346cd53e52f202ac1be6d41041765f8/a35a0a657f6e5e4f-96/s1280x1920/9737407d5421c620e1ca1d20d90259b301e93c31.jpg" data-big-photo-height="1303" data-big-photo-width="1080"><img alt="image" class="post_media_photo image" sizes="(max-width: 1080px) 100vw, 1080px" src="https://64.media.tumblr.com/a346cd53e52f202ac1be6d41041765f8/a35a0a657f6e5e4f-96/s1280x1920/9737407d5421c620e1ca1d20d90259b301e93c31.jpg" srcset="https://64.media.tumblr.com/a346cd53e52f202ac1be6d41041765f8/a35a0a657f6e5e4f-96/s75x75_c1/a352fb113303e6c0de42982e93cb3ea1e6e993a6.jpg 75w, https://64.media.tumblr.com/a346cd53e52f202ac1be6d41041765f8/a35a0a657f6e5e4f-96/s100x200/c479966bc55fb5f7c9adcd4d225f5432970495a5.jpg 100w, https://64.media.tumblr.com/a346cd53e52f202ac1be6d41041765f8/a35a0a657f6e5e4f-96/s250x400/2dbf6c7f72709aeea31553d34e455edab2433a27.jpg 250w, https://64.media.tumblr.com/a346cd53e52f202ac1be6d41041765f8/a35a0a657f6e5e4f-96/s400x600/06d939adc97ef1ac507f1bfeed0e504d35d842a2.jpg 400w, https://64.media.tumblr.com/a346cd53e52f202ac1be6d41041765f8/a35a0a657f6e5e4f-96/s500x750/737169085edb8d38ce5e0ed40885af769e6c3f62.jpg 500w, https://64.media.tumblr.com/a346cd53e52f202ac1be6d41041765f8/a35a0a657f6e5e4f-96/s540x810/65a0b47b829f07947d38a91ab509091cb67db374.jpg 540w, https://64.media.tumblr.com/a346cd53e52f202ac1be6d41041765f8/a35a0a657f6e5e4f-96/s640x960/8ab8687e52d59f22bbe8107c4c5aeb4973fb5c8a.jpg 640w, https://64.media.tumblr.com/a346cd53e52f202ac1be6d41041765f8/a35a0a657f6e5e4f-96/s1280x1920/9737407d5421c620e1ca1d20d90259b301e93c31.jpg 1080w"/></a></figure></div></div>
+</div>
+</div>
+</div>
+<div class="post-reblog-trail-item">
+<div class="post-reblog-header">
+<div class="post-avatar">
+<div class="post-avatar-wrapper">
+<a class="post-avatar-link sub-icon-reblog" href="https://hellhelpwhichever.tumblr.com/post/703856989534617600" target="_blank">
+<img class="post-avatar-image" src="https://64.media.tumblr.com/fe3b33103af2273c84ce7c2ab7b9f3a0/596053bf40cdbb65-85/s64x64u_c1/320537f049fee20069505034bde5f8b02653545d.jpg"/>
+</a>
+</div>
+</div>
+<a class="post-tumblelog-name" href="https://hellhelpwhichever.tumblr.com/post/703856989534617600" target="_blank">hellhelpwhichever</a>
+</div>
+<div class="post-reblog-content">
+<div class="post-body">
+<p>Holy shit, fucking drag him</p>
+</div>
+</div>
+</div>
+<div class="post-reblog-trail-item">
+<div class="post-reblog-header">
+<div class="post-avatar">
+<div class="post-avatar-wrapper">
+<a class="post-avatar-link sub-icon-reblog" href="https://quasi-normalcy.tumblr.com/post/708429004745621504" target="_blank">
+<img class="post-avatar-image" src="https://64.media.tumblr.com/avatar_5236db0d17cc_64.pnj"/>
+</a>
+</div>
+</div>
+<a class="post-tumblelog-name" href="https://quasi-normalcy.tumblr.com/post/708429004745621504" target="_blank">quasi-normalcy</a>
+</div>
+<div class="post-reblog-content">
+<div class="post-body">
+<p>The highlighted portions are good, but I also really like this line:</p><p>"People do not go to war for abstract theories of government. They fight for property and privilege and that was what Virginia fought for in the Civil War."</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="inline-meta post-extra has-reblog">
+</section>
+</section>
+<section class="panel">
+<footer class="post-footer">
+<section class="panel">
+<section class="inline-meta date-notes">
+<div class="date-note-wrapper">
+<a class="meta-item post-notes" href="https://sataniccapitalist.tumblr.com/post/711177862834749440?is_related_post=1#notes">16,891 notes</a>
+</div>
+</section>
+<section class="post-controls">
+<div class="controls-wrapper">
+<div class="control share-control">
+<nav class="pop">
+<a class="share selector" href="#"></a>
+<div class="pop-menu share-menu south" id="share_711177862834749440">
+<ul>
+<li class="open-in-app"><a class="share-item open-in-app" data-post="711177862834749440" href="#">Open in app</a></li>
+<li><a class="share-item facebook" href="https://facebook.com/sharer.php?u=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711177862834749440%3Fis_related_post%3D1&amp;t=" target="_blank">Facebook</a></li>
+<li><a class="share-item twitter" href="https://twitter.com/intent/tweet?text=quasi-normalcy%3A%20hellhelpwhichever%3A%20bellybuttonblue2%3A%20Holy%20shit%2C%20fucking%20drag%20him%20The%20highlighted%20portions%20are%20good%2C%20but%20I%20also%20really%20like%20this%20line%3A%20%E2%80%9CPeople%20do%20not%20go%20to%20war%20for%20abstract%20theories%20of%20government.%20They%20fight%20for%20property%20and...%20https%3A%2F%2Ftmblr.co%2FZptQtidUd7_EOm00" target="_blank">Tweet</a></li>
+<li><a class="share-item reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711177862834749440%3Fis_related_post%3D1" target="_blank">Reddit</a></li>
+<li><a class="share-item mail" href="mailto:?subject=A%20post%20from%20Satanic%20Capitalist&amp;body=quasi-normalcy%3A%20hellhelpwhichever%3A%20bellybuttonblue2%3A%20Holy%20shit%2C%20fucking%20drag%20him%20The%20highlighted%20portions%20are%20good%2C%20but%20I%20also%20really%20like%20this%20line%3A%20%E2%80%9CPeople%20do%20not%20go%20to%20war%20for%20abstract...%20https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711177862834749440">Mail</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711177862834749440/embed">Embed</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711177862834749440?is_related_post=1">Permalink <i class="arrow"></i></a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="control reblog-control"><a class="reblog_button" href="https://www.tumblr.com/reblog/sataniccapitalist/711177862834749440/Sed2L2zZ" style="display: block;width:24px;height:24px;"><svg fill="#000" height="100%" viewbox="0 0 21 21" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+<div class="control like-control"><div class="like_button" data-blog-name="sataniccapitalist" data-post-id="711177862834749440" id="like_button_711177862834749440"><iframe allowtransparency="true" class="like_toggle" frameborder="0" height="24" id="like_iframe_711177862834749440" name="like_iframe_711177862834749440" scrolling="no" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=sataniccapitalist&amp;post_id=711177862834749440&amp;color=black&amp;rk=Sed2L2zZ&amp;root_id=703642842353041408" width="24"></iframe></div></div>
+</div>
+</section>
+</section>
+</footer>
+</section>
+</div>
+</article>
+<article class="photo not-page post-711096545082327040 active exposed" data-post-id="711096545082327040">
+<div class="post-wrapper clearfix">
+<section class="post">
+<figure class="post-content high-res" data-photo-width="1280">
+<div class="photo-wrapper">
+<div class="photo-wrapper-inner">
+<a href="https://sataniccapitalist.tumblr.com/image/711096545082327040"><img alt="" height="1395" src="https://64.media.tumblr.com/bf88b24eff1447298fa222db32207072/1c24309af8f89a06-62/s1280x1920/2ff6358bf06f9ff40df10d99933932a690f290bb.jpg" width="1280"/></a>
+</div>
+</div>
+<figcaption class="caption">
+</figcaption>
+</figure>
+<section class="inline-meta post-extra">
+</section>
+</section>
+<section class="panel">
+<footer class="post-footer">
+<section class="panel">
+<section class="inline-meta date-notes">
+<div class="date-note-wrapper">
+<a class="meta-item post-notes" href="https://sataniccapitalist.tumblr.com/post/711096545082327040?is_related_post=1#notes">11 notes</a>
+</div>
+</section>
+<section class="post-controls">
+<div class="controls-wrapper">
+<div class="control share-control">
+<nav class="pop">
+<a class="share selector" href="#"></a>
+<div class="pop-menu share-menu south" id="share_711096545082327040">
+<ul>
+<li class="open-in-app"><a class="share-item open-in-app" data-post="711096545082327040" href="#">Open in app</a></li>
+<li><a class="share-item facebook" href="https://facebook.com/sharer.php?u=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711096545082327040%3Fis_related_post%3D1&amp;t=Satanic%20Capitalist" target="_blank">Facebook</a></li>
+<li><a class="share-item twitter" href="https://twitter.com/intent/tweet?text=%F0%9F%93%B7%20%20https%3A%2F%2Ftmblr.co%2FZptQtidUKefAey00" target="_blank">Tweet</a></li>
+<li><a class="share-item pinterest" href="//www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711096545082327040%3Fis_related_post%3D1&amp;media=https://64.media.tumblr.com/bf88b24eff1447298fa222db32207072/1c24309af8f89a06-62/s500x750/8b38a8ad495825d6363eb628e680957da1c4021c.jpg" target="_blank">Pinterest</a></li>
+<li><a class="share-item reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711096545082327040%3Fis_related_post%3D1" target="_blank">Reddit</a></li>
+<li><a class="share-item mail" href="mailto:?subject=A%20photo%20from%20Satanic%20Capitalist&amp;body=%F0%9F%93%B7%20%20https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711096545082327040">Mail</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711096545082327040/embed">Embed</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711096545082327040?is_related_post=1">Permalink <i class="arrow"></i></a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="control reblog-control"><a class="reblog_button" href="https://www.tumblr.com/reblog/sataniccapitalist/711096545082327040/mBEeL0Ko" style="display: block;width:24px;height:24px;"><svg fill="#000" height="100%" viewbox="0 0 21 21" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+<div class="control like-control"><div class="like_button" data-blog-name="sataniccapitalist" data-post-id="711096545082327040" id="like_button_711096545082327040"><iframe allowtransparency="true" class="like_toggle" frameborder="0" height="24" id="like_iframe_711096545082327040" name="like_iframe_711096545082327040" scrolling="no" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=sataniccapitalist&amp;post_id=711096545082327040&amp;color=black&amp;rk=mBEeL0Ko" width="24"></iframe></div></div>
+</div>
+</section>
+</section>
+</footer>
+</section>
+</div>
+</article>
+<article class="text reblogged not-page post-711159119978151936 active exposed" data-post-id="711159119978151936">
+<div class="post-wrapper clearfix">
+<header class="post-header">
+<a class="reblog-link" href="https://rickbamford.tumblr.com/post/711158246560481280"><i class="reblog-icon"></i>rickbamford</a>
+</header>
+<section class="post">
+<div class="post-content">
+<div class="reblog-list">
+<div class="post-reblog-trail-item original-reblog-content">
+<div class="post-reblog-header">
+<div class="post-avatar">
+<div class="post-avatar-wrapper">
+<a class="post-avatar-link" href="https://liberalsarecool.tumblr.com/post/711157723905048576" target="_blank">
+<img class="post-avatar-image" src="https://64.media.tumblr.com/dacff8da4a660089f6fde76bc0521b05/dee1dc5d6faedf35-95/s64x64u_c1/a9e268b013e3e49ab052ac71af1706d16383d5ec.jpg"/>
+</a>
+</div>
+</div>
+<a class="post-tumblelog-name" href="https://liberalsarecool.tumblr.com/post/711157723905048576" target="_blank">liberalsarecool</a>
+</div>
+<div class="post-reblog-content">
+<div class="post-body">
+<p></p><div class="npf_row"><div class="npf_col"><figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/a1bfe98399b616218857bca629cb34b5/29485d1e9baca22a-f1/s1280x1920/adba173d8cb4149ba4bae5b34120147d156b775b.jpg" data-big-photo-height="802" data-big-photo-width="1080"><img alt="image" class="post_media_photo image" sizes="(max-width: 1080px) 100vw, 1080px" src="https://64.media.tumblr.com/a1bfe98399b616218857bca629cb34b5/29485d1e9baca22a-f1/s1280x1920/adba173d8cb4149ba4bae5b34120147d156b775b.jpg" srcset="https://64.media.tumblr.com/a1bfe98399b616218857bca629cb34b5/29485d1e9baca22a-f1/s75x75_c1/86ae552726684cd9b496a992057fc4b23669273c.jpg 75w, https://64.media.tumblr.com/a1bfe98399b616218857bca629cb34b5/29485d1e9baca22a-f1/s100x200/6d02057622e2415d5a49aa650304785dcb2970a7.jpg 100w, https://64.media.tumblr.com/a1bfe98399b616218857bca629cb34b5/29485d1e9baca22a-f1/s250x400/a9774f850385c36246b188a8c4595f4fa7a1be61.jpg 250w, https://64.media.tumblr.com/a1bfe98399b616218857bca629cb34b5/29485d1e9baca22a-f1/s400x600/6a183e02758fd1ecc7557748c669609652ba7c5f.jpg 400w, https://64.media.tumblr.com/a1bfe98399b616218857bca629cb34b5/29485d1e9baca22a-f1/s500x750/9326cec0ff4a28dee835a18df929e6a8638dc3c8.jpg 500w, https://64.media.tumblr.com/a1bfe98399b616218857bca629cb34b5/29485d1e9baca22a-f1/s540x810/183da04ca28be2c05f0b905427f9a7b0fdfd4ff2.jpg 540w, https://64.media.tumblr.com/a1bfe98399b616218857bca629cb34b5/29485d1e9baca22a-f1/s640x960/d127ba4a3faaa7e789fb91d4298fafc7c50884f5.jpg 640w, https://64.media.tumblr.com/a1bfe98399b616218857bca629cb34b5/29485d1e9baca22a-f1/s1280x1920/adba173d8cb4149ba4bae5b34120147d156b775b.jpg 1080w"/></a></figure></div></div><p>Conservative authoritarianism is not new.</p><p>Christofascism is not new.</p><p>Republicans are just the latest version.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="inline-meta post-extra has-reblog">
+</section>
+</section>
+<section class="panel">
+<footer class="post-footer">
+<section class="panel">
+<section class="inline-meta date-notes">
+<div class="date-note-wrapper">
+<a class="meta-item post-notes" href="https://sataniccapitalist.tumblr.com/post/711159119978151936?is_related_post=1#notes">553 notes</a>
+</div>
+</section>
+<section class="post-controls">
+<div class="controls-wrapper">
+<div class="control share-control">
+<nav class="pop">
+<a class="share selector" href="#"></a>
+<div class="pop-menu share-menu south" id="share_711159119978151936">
+<ul>
+<li class="open-in-app"><a class="share-item open-in-app" data-post="711159119978151936" href="#">Open in app</a></li>
+<li><a class="share-item facebook" href="https://facebook.com/sharer.php?u=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711159119978151936%3Fis_related_post%3D1&amp;t=" target="_blank">Facebook</a></li>
+<li><a class="share-item twitter" href="https://twitter.com/intent/tweet?text=liberalsarecool%3A%20Conservative%20authoritarianism%20is%20not%20new.%20Christofascism%20is%20not%20new.%20Republicans%20are%20just%20the%20latest%20version.%20https%3A%2F%2Ftmblr.co%2FZptQtidUYtEb4y00" target="_blank">Tweet</a></li>
+<li><a class="share-item reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711159119978151936%3Fis_related_post%3D1" target="_blank">Reddit</a></li>
+<li><a class="share-item mail" href="mailto:?subject=A%20post%20from%20Satanic%20Capitalist&amp;body=liberalsarecool%3A%20Conservative%20authoritarianism%20is%20not%20new.%20Christofascism%20is%20not%20new.%20Republicans%20are%20just%20the%20latest%20version.%20https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711159119978151936">Mail</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711159119978151936/embed">Embed</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711159119978151936?is_related_post=1">Permalink <i class="arrow"></i></a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="control reblog-control"><a class="reblog_button" href="https://www.tumblr.com/reblog/sataniccapitalist/711159119978151936/btYledZy" style="display: block;width:24px;height:24px;"><svg fill="#000" height="100%" viewbox="0 0 21 21" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+<div class="control like-control"><div class="like_button" data-blog-name="sataniccapitalist" data-post-id="711159119978151936" id="like_button_711159119978151936"><iframe allowtransparency="true" class="like_toggle" frameborder="0" height="24" id="like_iframe_711159119978151936" name="like_iframe_711159119978151936" scrolling="no" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=sataniccapitalist&amp;post_id=711159119978151936&amp;color=black&amp;rk=btYledZy&amp;root_id=711157723905048576" width="24"></iframe></div></div>
+</div>
+</section>
+</section>
+</footer>
+</section>
+</div>
+</article>
+<article class="text reblogged not-page post-711159711109627904 active exposed" data-post-id="711159711109627904">
+<div class="post-wrapper clearfix">
+<header class="post-header">
+<a class="reblog-link" href="https://savedfromsalvation.tumblr.com/post/711153768978317312"><i class="reblog-icon"></i>savedfromsalvation</a>
+</header>
+<section class="post">
+<div class="post-content">
+<div class="reblog-list">
+<div class="post-reblog-trail-item original-reblog-content">
+<div class="post-reblog-header">
+<div class="post-avatar">
+<div class="post-avatar-wrapper">
+<a class="post-avatar-link" href="https://wiionme.tumblr.com/post/711139672223612928" target="_blank">
+<img class="post-avatar-image" src="https://64.media.tumblr.com/5b1b14ff1280d1ff1bea761e21f342c1/e8407d97f928dcec-44/s64x64u_c1/f30757053947df3d756dfd2d184274365f5e0dd4.jpg"/>
+</a>
+</div>
+</div>
+<a class="post-tumblelog-name" href="https://wiionme.tumblr.com/post/711139672223612928" target="_blank">wiionme</a>
+</div>
+<div class="post-reblog-content">
+<div class="post-body">
+<p></p><div class="npf_row"><div class="npf_col"><figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/449cdcfed61ee1d34094a3285c73f789/adb540a935936e70-15/s1280x1920/bf83ec4cb475781ff8e959a2708fccc22e9d5b9c.jpg" data-big-photo-height="" data-big-photo-width=""><img alt="image" class="post_media_photo image" sizes="(max-width: 480px) 100vw, 480px" src="https://64.media.tumblr.com/449cdcfed61ee1d34094a3285c73f789/adb540a935936e70-15/s500x750/9cb8849f62580fc09adb238f9cd70cd045c12aa9.jpg" srcset="https://64.media.tumblr.com/449cdcfed61ee1d34094a3285c73f789/adb540a935936e70-15/s75x75_c1/ffebd2e09cfb7fe09663830c3929fe9130498a53.jpg 75w, https://64.media.tumblr.com/449cdcfed61ee1d34094a3285c73f789/adb540a935936e70-15/s100x200/5f839425c6aa711edbbc72c70fe63a1d0eea1d11.jpg 100w, https://64.media.tumblr.com/449cdcfed61ee1d34094a3285c73f789/adb540a935936e70-15/s250x400/94fc1551d769e8984be4fe00073ec521f230c4fb.jpg 250w, https://64.media.tumblr.com/449cdcfed61ee1d34094a3285c73f789/adb540a935936e70-15/s400x600/4916ba00b665021cacfcdf59570b6b4241b71a7b.jpg 400w, https://64.media.tumblr.com/449cdcfed61ee1d34094a3285c73f789/adb540a935936e70-15/s500x750/9cb8849f62580fc09adb238f9cd70cd045c12aa9.jpg 480w"/></a></figure></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="inline-meta post-extra has-reblog">
+</section>
+</section>
+<section class="panel">
+<footer class="post-footer">
+<section class="panel">
+<section class="inline-meta date-notes">
+<div class="date-note-wrapper">
+<a class="meta-item post-notes" href="https://sataniccapitalist.tumblr.com/post/711159711109627904?is_related_post=1#notes">64 notes</a>
+</div>
+</section>
+<section class="post-controls">
+<div class="controls-wrapper">
+<div class="control share-control">
+<nav class="pop">
+<a class="share selector" href="#"></a>
+<div class="pop-menu share-menu south" id="share_711159711109627904">
+<ul>
+<li class="open-in-app"><a class="share-item open-in-app" data-post="711159711109627904" href="#">Open in app</a></li>
+<li><a class="share-item facebook" href="https://facebook.com/sharer.php?u=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711159711109627904%3Fis_related_post%3D1&amp;t=" target="_blank">Facebook</a></li>
+<li><a class="share-item twitter" href="https://twitter.com/intent/tweet?text=wiionme%3A%20https%3A%2F%2Ftmblr.co%2FZptQtidUY-r7Ga00" target="_blank">Tweet</a></li>
+<li><a class="share-item reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711159711109627904%3Fis_related_post%3D1" target="_blank">Reddit</a></li>
+<li><a class="share-item mail" href="mailto:?subject=A%20post%20from%20Satanic%20Capitalist&amp;body=wiionme%3A%20https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711159711109627904">Mail</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711159711109627904/embed">Embed</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711159711109627904?is_related_post=1">Permalink <i class="arrow"></i></a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="control reblog-control"><a class="reblog_button" href="https://www.tumblr.com/reblog/sataniccapitalist/711159711109627904/2MkSsDmF" style="display: block;width:24px;height:24px;"><svg fill="#000" height="100%" viewbox="0 0 21 21" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+<div class="control like-control"><div class="like_button" data-blog-name="sataniccapitalist" data-post-id="711159711109627904" id="like_button_711159711109627904"><iframe allowtransparency="true" class="like_toggle" frameborder="0" height="24" id="like_iframe_711159711109627904" name="like_iframe_711159711109627904" scrolling="no" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=sataniccapitalist&amp;post_id=711159711109627904&amp;color=black&amp;rk=2MkSsDmF&amp;root_id=711139672223612928" width="24"></iframe></div></div>
+</div>
+</section>
+</section>
+</footer>
+</section>
+</div>
+</article>
+<article class="photo reblogged not-page post-711138682028113920 active exposed" data-post-id="711138682028113920">
+<div class="post-wrapper clearfix">
+<header class="post-header">
+<a class="reblog-link" href="https://master7mindd.tumblr.com/post/711123147607474177/kufiyah-a-palestinian-lawyer-wearing-his"><i class="reblog-icon"></i>master7mindd</a>
+</header>
+<section class="post">
+<figure class="post-content high-res with-caption" data-photo-width="749">
+<div class="photo-wrapper">
+<div class="photo-wrapper-inner">
+<a href="https://sataniccapitalist.tumblr.com/image/711138682028113920"><img alt="kufiyah:
+“ “ A Palestinian lawyer wearing his official robes kicks a tear gas canister back toward Israeli soldiers during a demonstration by scores of Palestinian lawyers called for by the Palestinian Bar Association in solidarity with protesters at..." height="564" src="https://64.media.tumblr.com/7f79773e5e03499af79513395fb4ed1b/tumblr_nw681uz3lt1rqqkk7o1_1280.png" width="749"/></a>
+</div>
+</div>
+<div class="reblog-list">
+<div class="post-reblog-trail-item original-reblog-content">
+<div class="post-reblog-header">
+<div class="post-avatar">
+<div class="post-avatar-wrapper">
+<a class="post-avatar-link" href="https://kufiyah.tumblr.com/post/131100840124" target="_blank">
+<img class="post-avatar-image" src="https://assets.tumblr.com/images/default_avatar/octahedron_open_64.png"/>
+</a>
+</div>
+</div>
+<a class="post-tumblelog-name" href="https://kufiyah.tumblr.com/post/131100840124" target="_blank">kufiyah</a>
+</div>
+<div class="post-reblog-content">
+<div class="post-body">
+<p></p><blockquote><p>
+
+A Palestinian lawyer wearing his official robes kicks a tear gas canister back toward Israeli soldiers during a demonstration by scores of Palestinian lawyers called for by the Palestinian Bar Association in solidarity with protesters at the Al-Aqsa mosque compound in Jerusalem’s Old City, near Ramallah, West Bank
+
+<br/></p></blockquote>
+</div>
+</div>
+</div>
+</div>
+</figure>
+<section class="inline-meta post-extra has-reblog">
+</section>
+</section>
+<section class="panel">
+<footer class="post-footer">
+<section class="panel">
+<section class="inline-meta date-notes">
+<div class="date-note-wrapper">
+<a class="meta-item post-notes" href="https://sataniccapitalist.tumblr.com/post/711138682028113920/kufiyah-a-palestinian-lawyer-wearing-his?is_related_post=1#notes">46,394 notes</a>
+</div>
+</section>
+<section class="post-controls">
+<div class="controls-wrapper">
+<div class="control share-control">
+<nav class="pop">
+<a class="share selector" href="#"></a>
+<div class="pop-menu share-menu south" id="share_711138682028113920">
+<ul>
+<li class="open-in-app"><a class="share-item open-in-app" data-post="711138682028113920" href="#">Open in app</a></li>
+<li><a class="share-item facebook" href="https://facebook.com/sharer.php?u=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711138682028113920%2Fkufiyah-a-palestinian-lawyer-wearing-his%3Fis_related_post%3D1&amp;t=Satanic%20Capitalist" target="_blank">Facebook</a></li>
+<li><a class="share-item twitter" href="https://twitter.com/intent/tweet?text=%F0%9F%93%B7%20kufiyah%3A%20A%20Palestinian%20lawyer%20wearing%20his%20official%20robes%20kicks%20a%20tear%20gas%20canister%20back%20toward%20Israeli%20soldiers%20during%20a%20demonstration%20by%20scores%20of%20Palestinian%20lawyers%20called%20for%20by%20the%20Palestinian%20Bar%20Association%20in%20solidarity%20with...%20https%3A%2F%2Ftmblr.co%2FZptQtidUUDqGKq00" target="_blank">Tweet</a></li>
+<li><a class="share-item pinterest" href="//www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711138682028113920%2Fkufiyah-a-palestinian-lawyer-wearing-his%3Fis_related_post%3D1&amp;media=https://64.media.tumblr.com/7f79773e5e03499af79513395fb4ed1b/tumblr_nw681uz3lt1rqqkk7o1_500.png" target="_blank">Pinterest</a></li>
+<li><a class="share-item reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711138682028113920%2Fkufiyah-a-palestinian-lawyer-wearing-his%3Fis_related_post%3D1" target="_blank">Reddit</a></li>
+<li><a class="share-item mail" href="mailto:?subject=A%20photo%20from%20Satanic%20Capitalist&amp;body=%F0%9F%93%B7%20kufiyah%3A%20A%20Palestinian%20lawyer%20wearing%20his%20official%20robes%20kicks%20a%20tear%20gas%20canister%20back%20toward%20Israeli%20soldiers%20during%20a%20demonstration%20by%20scores...%20https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711138682028113920%2Fkufiyah-a-palestinian-lawyer-wearing-his">Mail</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711138682028113920/embed">Embed</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711138682028113920/kufiyah-a-palestinian-lawyer-wearing-his?is_related_post=1">Permalink <i class="arrow"></i></a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="control reblog-control"><a class="reblog_button" href="https://www.tumblr.com/reblog/sataniccapitalist/711138682028113920/Q3X6Zl9o" style="display: block;width:24px;height:24px;"><svg fill="#000" height="100%" viewbox="0 0 21 21" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+<div class="control like-control"><div class="like_button" data-blog-name="sataniccapitalist" data-post-id="711138682028113920" id="like_button_711138682028113920"><iframe allowtransparency="true" class="like_toggle" frameborder="0" height="24" id="like_iframe_711138682028113920" name="like_iframe_711138682028113920" scrolling="no" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=sataniccapitalist&amp;post_id=711138682028113920&amp;color=black&amp;rk=Q3X6Zl9o&amp;root_id=131100840124" width="24"></iframe></div></div>
+</div>
+</section>
+</section>
+</footer>
+</section>
+</div>
+</article>
+<article class="photo reblogged not-page post-711138748216295424 active exposed" data-post-id="711138748216295424">
+<div class="post-wrapper clearfix">
+<header class="post-header">
+<a class="reblog-link" href="https://www.tumblr.com/afraidofamericans/711124300632113152/thoughtportal-record-profits-are-unpaid-wages"><i class="reblog-icon"></i>afraidofamericans</a>
+</header>
+<section class="post">
+<figure class="post-content high-res with-caption" data-photo-width="523">
+<div class="photo-wrapper">
+<div class="photo-wrapper-inner">
+<a href="https://sataniccapitalist.tumblr.com/image/711138748216295424"><img alt="thoughtportal:
+“record profits are unpaid wages
+”" height="503" src="https://64.media.tumblr.com/4c3e2f7496cd715e141e26c04cd0b699/f65963b3216ba588-98/s540x810/83e8192d5d1726de7b47aa999be888b5dfaa08bf.png" width="523"/></a>
+</div>
+</div>
+<div class="reblog-list">
+<div class="post-reblog-trail-item original-reblog-content">
+<div class="post-reblog-header">
+<div class="post-avatar">
+<div class="post-avatar-wrapper">
+<a class="post-avatar-link" href="https://thoughtportal.tumblr.com/post/710171774098243584" target="_blank">
+<img class="post-avatar-image" src="https://64.media.tumblr.com/avatar_04828a48dd43_64.pnj"/>
+</a>
+</div>
+</div>
+<a class="post-tumblelog-name" href="https://thoughtportal.tumblr.com/post/710171774098243584" target="_blank">thoughtportal</a>
+</div>
+<div class="post-reblog-content">
+<div class="post-body">
+<p>record profits are unpaid wages<br/></p>
+</div>
+</div>
+</div>
+</div>
+</figure>
+<section class="inline-meta post-extra has-reblog has-tags">
+<a class="meta-item tag-link" href="https://sataniccapitalist.tumblr.com/tagged/capitalism">capitalism</a>
+</section>
+</section>
+<section class="panel">
+<footer class="post-footer">
+<section class="panel">
+<section class="inline-meta date-notes">
+<div class="date-note-wrapper">
+<a class="meta-item post-notes" href="https://sataniccapitalist.tumblr.com/post/711138748216295424/thoughtportal-record-profits-are-unpaid-wages?is_related_post=1#notes">17,101 notes</a>
+</div>
+</section>
+<section class="post-controls">
+<div class="controls-wrapper">
+<div class="control share-control">
+<nav class="pop">
+<a class="share selector" href="#"></a>
+<div class="pop-menu share-menu south" id="share_711138748216295424">
+<ul>
+<li class="open-in-app"><a class="share-item open-in-app" data-post="711138748216295424" href="#">Open in app</a></li>
+<li><a class="share-item facebook" href="https://facebook.com/sharer.php?u=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711138748216295424%2Fthoughtportal-record-profits-are-unpaid-wages%3Fis_related_post%3D1&amp;t=Satanic%20Capitalist" target="_blank">Facebook</a></li>
+<li><a class="share-item twitter" href="https://twitter.com/intent/tweet?text=%F0%9F%93%B7%20thoughtportal%3A%20record%20profits%20are%20unpaid%20wages%20https%3A%2F%2Ftmblr.co%2FZptQtidUUEnvSi00" target="_blank">Tweet</a></li>
+<li><a class="share-item pinterest" href="//www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711138748216295424%2Fthoughtportal-record-profits-are-unpaid-wages%3Fis_related_post%3D1&amp;media=https://64.media.tumblr.com/4c3e2f7496cd715e141e26c04cd0b699/f65963b3216ba588-98/s500x750/65fe813e7c66a4de4a763a73b19260ecec057f41.png" target="_blank">Pinterest</a></li>
+<li><a class="share-item reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711138748216295424%2Fthoughtportal-record-profits-are-unpaid-wages%3Fis_related_post%3D1" target="_blank">Reddit</a></li>
+<li><a class="share-item mail" href="mailto:?subject=A%20photo%20from%20Satanic%20Capitalist&amp;body=%F0%9F%93%B7%20thoughtportal%3A%20record%20profits%20are%20unpaid%20wages%20https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711138748216295424%2Fthoughtportal-record-profits-are-unpaid-wages">Mail</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711138748216295424/embed">Embed</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711138748216295424/thoughtportal-record-profits-are-unpaid-wages?is_related_post=1">Permalink <i class="arrow"></i></a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="control reblog-control"><a class="reblog_button" href="https://www.tumblr.com/reblog/sataniccapitalist/711138748216295424/htwRLC0Q" style="display: block;width:24px;height:24px;"><svg fill="#000" height="100%" viewbox="0 0 21 21" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+<div class="control like-control"><div class="like_button" data-blog-name="sataniccapitalist" data-post-id="711138748216295424" id="like_button_711138748216295424"><iframe allowtransparency="true" class="like_toggle" frameborder="0" height="24" id="like_iframe_711138748216295424" name="like_iframe_711138748216295424" scrolling="no" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=sataniccapitalist&amp;post_id=711138748216295424&amp;color=black&amp;rk=htwRLC0Q&amp;root_id=710171774098243584" width="24"></iframe></div></div>
+</div>
+</section>
+</section>
+</footer>
+</section>
+</div>
+</article>
+<article class="reblogged link not-page post-711271689270460416 active exposed" data-post-id="711271689270460416">
+<div class="post-wrapper clearfix">
+<header class="post-header">
+<a class="reblog-link" href="https://russalex.tumblr.com/post/711268991006572544/elon-musk-goes-all-in-on-jan-6-denial"><i class="reblog-icon"></i>russalex</a>
+</header>
+<section class="post">
+<div class="post-content with-caption with-thumbnail">
+<div class="link-wrapper">
+<a class="link" href="https://href.li/?https://www.huffpost.com/entry/elon-musk-jan-6-denial-twitter_n_64074f7ce4b018d7c56cd6a2">
+<div class="link-thumbnail"><img alt="" src="https://64.media.tumblr.com/c82b9b1eb308af464f8842aaaae31294/095732469670dfe1-31/s1280x1920/3c8cb679986cb2acf0d0acf32f2d3cf4dcd35a4a.jpg"/></div>
+<div class="link-text-wrapper clearfix">
+<div class="link-text">
+<div class="link-host">huffpost.com</div>
+<h2 class="link-title">Elon Musk Goes All In On Jan. 6 Denial</h2>
+</div>
+</div>
+</a>
+</div>
+<div class="reblog-list">
+<div class="post-reblog-trail-item original-reblog-content">
+<div class="post-reblog-header">
+<div class="post-avatar">
+<div class="post-avatar-wrapper">
+<a class="post-avatar-link" href="https://justinspoliticalcorner.tumblr.com/post/711221320422178816" target="_blank">
+<img class="post-avatar-image" src="https://64.media.tumblr.com/a38d941de938c4b2b3f782920ee985a7/9b57483711fba4d6-dd/s64x64u_c1/510b5aa65fa9b3db27a83111a0e1841b462ce71c.pnj"/>
+</a>
+</div>
+</div>
+<a class="post-tumblelog-name" href="https://justinspoliticalcorner.tumblr.com/post/711221320422178816" target="_blank">justinspoliticalcorner</a>
+</div>
+<div class="post-reblog-content">
+<div class="post-body">
+<p><a href="https://href.li/?https://www.huffpost.com/entry/elon-musk-jan-6-denial-twitter_n_64074f7ce4b018d7c56cd6a2">Sara Boboltz at HuffPost: </a></p><blockquote><p>Twitter CEO Elon Musk on Tuesday joined the right-wing chorus denying that a violent riot took place at the U.S. Capitol on Jan. 6, 2021, after <a href="https://href.li/?https://www.huffpost.com/news/topic/fox-news">Fox News</a> <a href="https://href.li/?https://www.huffpost.com/entry/tucker-carlson-jan-6-capitol-footage_n_6406a21be4b079d3eb5daaae">aired cherry-picked footage of the incident</a> provided by Republican House Speaker Kevin McCarthy.</p><p>Replying to the communications director of a Freedom Caucus-aligned organization who alleged that members of the House committee investigating the riot had lied, Elon took to his social media platform to <a href="https://twitter.com/elonmusk/status/1633021151197954048">write</a>: “Besides misleading the public, they withheld evidence for partisan political reasons that sent people to prison for far more serious crimes than they committed. That is deeply wrong, legally and morally.”</p><p>“This is crazy. The public was misled,” Musk <a href="https://twitter.com/elonmusk/status/1633000192558628864">said</a> in a separate tweet about the footage, which aired Monday on Fox News host <a href="https://href.li/?https://www.huffpost.com/news/topic/tucker-carlson">Tucker Carlson</a>’s show.</p><p>After right-wing <a href="https://href.li/?https://www.splcenter.org/fighting-hate/extremist-files/individual/mike-cernovich">conspiracy theorist Mike Cernovich</a> wrote that “the Big Lie of the January 6th” had been “exposed,” Musk <a href="https://twitter.com/elonmusk/status/1633007173222670336">replied</a>, “Shocking indeed.”</p><p>And in response to a Twitter user who accused the BBC of not covering “the Jan 6 new evidence,” Musk tweeted at one of the broadcaster’s accounts, <a href="https://twitter.com/elonmusk/status/1633013177691803648">writing</a>: “What say you, @BBCWorld? Your credibility is at stake.”</p><p>Other commentary came over the course of several hours early Tuesday, shortly after Musk, the world’s richest person, <a href="https://twitter.com/elonmusk/status/1632906725312561153">suggested</a> that he uses Twitter while on the toilet for long periods.</p></blockquote><p><br/></p><p>Right-wing wanker Twitter CEO Elon Musk joined in the Capitol Insurrection denialism in the wake of Tucker Carlson’s selectively released videos about that day </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="inline-meta post-extra has-reblog has-source">
+<a class="meta-item source-link" href="https://href.li/?https://www.huffpost.com/entry/elon-musk-jan-6-denial-twitter_n_64074f7ce4b018d7c56cd6a2">Source: huffpost.com</a>
+</section>
+</section>
+<section class="panel">
+<footer class="post-footer">
+<section class="panel">
+<section class="inline-meta date-notes">
+<div class="date-note-wrapper">
+<a class="meta-item post-notes" href="https://sataniccapitalist.tumblr.com/post/711271689270460416/elon-musk-goes-all-in-on-jan-6-denial?is_related_post=1#notes">9 notes</a>
+</div>
+</section>
+<section class="post-controls">
+<div class="controls-wrapper">
+<div class="control share-control">
+<nav class="pop">
+<a class="share selector" href="#"></a>
+<div class="pop-menu share-menu south" id="share_711271689270460416">
+<ul>
+<li class="open-in-app"><a class="share-item open-in-app" data-post="711271689270460416" href="#">Open in app</a></li>
+<li><a class="share-item facebook" href="https://facebook.com/sharer.php?u=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711271689270460416%2Felon-musk-goes-all-in-on-jan-6-denial%3Fis_related_post%3D1&amp;t=Satanic%20Capitalist" target="_blank">Facebook</a></li>
+<li><a class="share-item twitter" href="https://twitter.com/intent/tweet?text=Elon%20Musk%20Goes%20All%20In%20On%20Jan.%206%20Denial%20-%20justinspoliticalcorner%3A%20Sara%20Boboltz%20at%20HuffPost%3A%C2%A0%20Twitter%20CEO%20Elon%20Musk%20on%20Tuesday%20joined%20the%20right-wing%20chorus%20denying%20that%20a%20violent%20riot%20took%20place%20at%20the%20U.S.%20Capitol%20on%20Jan.%206%2C%202021%2C%20after%20Fox...%20https%3A%2F%2Ftmblr.co%2FZptQtidUyTKvmW00" target="_blank">Tweet</a></li>
+<li><a class="share-item reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711271689270460416%2Felon-musk-goes-all-in-on-jan-6-denial%3Fis_related_post%3D1" target="_blank">Reddit</a></li>
+<li><a class="share-item mail" href="mailto:?subject=A%20link%20from%20Satanic%20Capitalist&amp;body=Elon%20Musk%20Goes%20All%20In%20On%20Jan.%206%20Denial%20-%20justinspoliticalcorner%3A%20Sara%20Boboltz%20at%20HuffPost%3A%C2%A0%20Twitter%20CEO%20Elon%20Musk%20on%20Tuesday%20joined%20the%20right-wing%20chorus...%20https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711271689270460416%2Felon-musk-goes-all-in-on-jan-6-denial">Mail</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711271689270460416/embed">Embed</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711271689270460416/elon-musk-goes-all-in-on-jan-6-denial?is_related_post=1">Permalink <i class="arrow"></i></a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="control reblog-control"><a class="reblog_button" href="https://www.tumblr.com/reblog/sataniccapitalist/711271689270460416/xmxEthDH" style="display: block;width:24px;height:24px;"><svg fill="#000" height="100%" viewbox="0 0 21 21" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+<div class="control like-control"><div class="like_button" data-blog-name="sataniccapitalist" data-post-id="711271689270460416" id="like_button_711271689270460416"><iframe allowtransparency="true" class="like_toggle" frameborder="0" height="24" id="like_iframe_711271689270460416" name="like_iframe_711271689270460416" scrolling="no" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=sataniccapitalist&amp;post_id=711271689270460416&amp;color=black&amp;rk=xmxEthDH&amp;root_id=711221320422178816" width="24"></iframe></div></div>
+</div>
+</section>
+</section>
+</footer>
+</section>
+</div>
+</article>
+<article class="text reblogged not-page post-711271493816958976 active exposed" data-post-id="711271493816958976">
+<div class="post-wrapper clearfix">
+<header class="post-header">
+<a class="reblog-link" href="https://russalex.tumblr.com/post/711268472821317632"><i class="reblog-icon"></i>russalex</a>
+</header>
+<section class="post">
+<div class="post-content">
+<div class="reblog-list">
+<div class="post-reblog-trail-item original-reblog-content">
+<div class="post-reblog-header">
+<div class="post-avatar">
+<div class="post-avatar-wrapper">
+<a class="post-avatar-link" href="https://porterdavis.tumblr.com/post/711262701530316800" target="_blank">
+<img class="post-avatar-image" src="https://64.media.tumblr.com/0c6892bc5cd705650115de5689f6f94c/ac122da2a3316ca6-b5/s64x64u_c1/92bf4108206fd1ca79a9c29cc074b61c4d506b7e.pnj"/>
+</a>
+</div>
+</div>
+<a class="post-tumblelog-name" href="https://porterdavis.tumblr.com/post/711262701530316800" target="_blank">porterdavis</a>
+</div>
+<div class="post-reblog-content">
+<div class="post-body">
+<p></p><h1>Back-sliding</h1><div class="npf_row"><div class="npf_col"><figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/d13e8a56bf913e7d098ff35c76ad1c01/ebfde94aa7592a19-c7/s1280x1920/75a9166560082f0ee4d9eb808d26d8c9f2f861c2.png" data-big-photo-height="1928" data-big-photo-width="1284"><img alt="image" class="post_media_photo image" sizes="(max-width: 1280px) 100vw, 1280px" src="https://64.media.tumblr.com/d13e8a56bf913e7d098ff35c76ad1c01/ebfde94aa7592a19-c7/s1280x1920/75a9166560082f0ee4d9eb808d26d8c9f2f861c2.png" srcset="https://64.media.tumblr.com/d13e8a56bf913e7d098ff35c76ad1c01/ebfde94aa7592a19-c7/s75x75_c1/0ab6b98f10f8c3a91435b8f5af804fb008bb8b99.png 75w, https://64.media.tumblr.com/d13e8a56bf913e7d098ff35c76ad1c01/ebfde94aa7592a19-c7/s100x200/e3d2f315a92fa9a9d24bc593935b3bafed0b31ff.png 100w, https://64.media.tumblr.com/d13e8a56bf913e7d098ff35c76ad1c01/ebfde94aa7592a19-c7/s250x400/e3561a9693960b7d84dfb87ed0f6cbbcb02208cc.png 250w, https://64.media.tumblr.com/d13e8a56bf913e7d098ff35c76ad1c01/ebfde94aa7592a19-c7/s400x600/2af8bdee1b3ce92e0e72b77a802bb086bec21de1.png 400w, https://64.media.tumblr.com/d13e8a56bf913e7d098ff35c76ad1c01/ebfde94aa7592a19-c7/s500x750/238de751a08a360e436784b6af2a9dec133967bd.png 499w, https://64.media.tumblr.com/d13e8a56bf913e7d098ff35c76ad1c01/ebfde94aa7592a19-c7/s540x810/4fb79337d442bd9ff6fdaa063a0a3b83f76450d5.png 539w, https://64.media.tumblr.com/d13e8a56bf913e7d098ff35c76ad1c01/ebfde94aa7592a19-c7/s640x960/1ee4eac51e188d7ddff99ff32ca95845f0f62598.png 639w, https://64.media.tumblr.com/d13e8a56bf913e7d098ff35c76ad1c01/ebfde94aa7592a19-c7/s1280x1920/75a9166560082f0ee4d9eb808d26d8c9f2f861c2.png 1279w, https://64.media.tumblr.com/d13e8a56bf913e7d098ff35c76ad1c01/ebfde94aa7592a19-c7/s2048x3072/5387e56c03389d5f8fc83aa758430cbb15f95cb9.png 1284w"/></a></figure></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="inline-meta post-extra has-reblog">
+</section>
+</section>
+<section class="panel">
+<footer class="post-footer">
+<section class="panel">
+<section class="inline-meta date-notes">
+<div class="date-note-wrapper">
+<a class="meta-item post-notes" href="https://sataniccapitalist.tumblr.com/post/711271493816958976?is_related_post=1#notes">25 notes</a>
+</div>
+</section>
+<section class="post-controls">
+<div class="controls-wrapper">
+<div class="control share-control">
+<nav class="pop">
+<a class="share selector" href="#"></a>
+<div class="pop-menu share-menu south" id="share_711271493816958976">
+<ul>
+<li class="open-in-app"><a class="share-item open-in-app" data-post="711271493816958976" href="#">Open in app</a></li>
+<li><a class="share-item facebook" href="https://facebook.com/sharer.php?u=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711271493816958976%3Fis_related_post%3D1&amp;t=" target="_blank">Facebook</a></li>
+<li><a class="share-item twitter" href="https://twitter.com/intent/tweet?text=porterdavis%3A%20Back-sliding%20https%3A%2F%2Ftmblr.co%2FZptQtidUyQUtqa00" target="_blank">Tweet</a></li>
+<li><a class="share-item reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711271493816958976%3Fis_related_post%3D1" target="_blank">Reddit</a></li>
+<li><a class="share-item mail" href="mailto:?subject=A%20post%20from%20Satanic%20Capitalist&amp;body=porterdavis%3A%20Back-sliding%20https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711271493816958976">Mail</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711271493816958976/embed">Embed</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711271493816958976?is_related_post=1">Permalink <i class="arrow"></i></a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="control reblog-control"><a class="reblog_button" href="https://www.tumblr.com/reblog/sataniccapitalist/711271493816958976/5b69zkEk" style="display: block;width:24px;height:24px;"><svg fill="#000" height="100%" viewbox="0 0 21 21" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+<div class="control like-control"><div class="like_button" data-blog-name="sataniccapitalist" data-post-id="711271493816958976" id="like_button_711271493816958976"><iframe allowtransparency="true" class="like_toggle" frameborder="0" height="24" id="like_iframe_711271493816958976" name="like_iframe_711271493816958976" scrolling="no" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=sataniccapitalist&amp;post_id=711271493816958976&amp;color=black&amp;rk=5b69zkEk&amp;root_id=711262701530316800" width="24"></iframe></div></div>
+</div>
+</section>
+</section>
+</footer>
+</section>
+</div>
+</article>
+<article class="text reblogged not-page post-711271471474966528 active exposed" data-post-id="711271471474966528">
+<div class="post-wrapper clearfix">
+<header class="post-header">
+<a class="reblog-link" href="https://reagan-was-a-horrible-president.tumblr.com/post/711268081002020864"><i class="reblog-icon"></i>reagan-was-a-horrible-president</a>
+</header>
+<section class="post">
+<div class="post-content">
+<div class="reblog-list">
+<div class="post-reblog-trail-item original-reblog-content">
+<div class="post-reblog-header">
+<div class="post-avatar">
+<div class="post-avatar-wrapper">
+<a class="post-avatar-link" href="https://republicansaredomesticterrorists.tumblr.com/post/711096495235072000" target="_blank">
+<img class="post-avatar-image" src="https://64.media.tumblr.com/avatar_a0cb21eb91f2_64.pnj"/>
+</a>
+</div>
+</div>
+<a class="post-tumblelog-name" href="https://republicansaredomesticterrorists.tumblr.com/post/711096495235072000" target="_blank">republicansaredomesticterrorists</a>
+</div>
+<div class="post-reblog-content">
+<div class="post-body">
+<div class="npf-link-block has-poster"><a href="https://href.li/?https://www.azcentral.com/story/opinion/op-ed/ej-montini/2023/03/03/arizona-fake-electors-face-real-prosecutor-kris-mayes-jack-smith/69967156007/" target="_blank"><div class="poster" style="background-image:url(https://64.media.tumblr.com/50111d55c795c2e9cb7e5122d376cb7d/ccec3cf4268738de-10/s540x810/a6783d996da6b07eb17699b73b8eb7f6476dca95.jpg)"><div class="title">Arizona's fake electors will finally answer to a real prosecutor</div></div><div class="bottom"><div class="description">
+                    Arizona Attorney General Kris Mayes is going to do what predecessor Mark Brnovich refused to do: investigate those who tried to steal an ele                </div><div class="site-name">
+                The Arizona Republic            </div></div></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="inline-meta post-extra has-reblog">
+</section>
+</section>
+<section class="panel">
+<footer class="post-footer">
+<section class="panel">
+<section class="inline-meta date-notes">
+<div class="date-note-wrapper">
+<a class="meta-item post-notes" href="https://sataniccapitalist.tumblr.com/post/711271471474966528?is_related_post=1#notes">84 notes</a>
+</div>
+</section>
+<section class="post-controls">
+<div class="controls-wrapper">
+<div class="control share-control">
+<nav class="pop">
+<a class="share selector" href="#"></a>
+<div class="pop-menu share-menu south" id="share_711271471474966528">
+<ul>
+<li class="open-in-app"><a class="share-item open-in-app" data-post="711271471474966528" href="#">Open in app</a></li>
+<li><a class="share-item facebook" href="https://facebook.com/sharer.php?u=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711271471474966528%3Fis_related_post%3D1&amp;t=" target="_blank">Facebook</a></li>
+<li><a class="share-item twitter" href="https://twitter.com/intent/tweet?text=republicansaredomesticterrorists%3A%20https%3A%2F%2Ftmblr.co%2FZptQtidUyQA48e00" target="_blank">Tweet</a></li>
+<li><a class="share-item reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711271471474966528%3Fis_related_post%3D1" target="_blank">Reddit</a></li>
+<li><a class="share-item mail" href="mailto:?subject=A%20post%20from%20Satanic%20Capitalist&amp;body=republicansaredomesticterrorists%3A%20https%3A%2F%2Fsataniccapitalist.tumblr.com%2Fpost%2F711271471474966528">Mail</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711271471474966528/embed">Embed</a></li>
+<li><a class="share-item permalink" href="https://sataniccapitalist.tumblr.com/post/711271471474966528?is_related_post=1">Permalink <i class="arrow"></i></a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="control reblog-control"><a class="reblog_button" href="https://www.tumblr.com/reblog/sataniccapitalist/711271471474966528/Lw44zQrD" style="display: block;width:24px;height:24px;"><svg fill="#000" height="100%" viewbox="0 0 21 21" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+<div class="control like-control"><div class="like_button" data-blog-name="sataniccapitalist" data-post-id="711271471474966528" id="like_button_711271471474966528"><iframe allowtransparency="true" class="like_toggle" frameborder="0" height="24" id="like_iframe_711271471474966528" name="like_iframe_711271471474966528" scrolling="no" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=sataniccapitalist&amp;post_id=711271471474966528&amp;color=black&amp;rk=Lw44zQrD&amp;root_id=711096495235072000" width="24"></iframe></div></div>
+</div>
+</section>
+</section>
+</footer>
+</section>
+</div>
+</article>
+</div>
+<div class="related-posts-cta content">
+<!-- @todo: translate these strings -->
+<a class="related-post-cta button bordered open-in-app">See this in the app</a>
+<a class="related-post-cta see-more button bordered" href="/">Show more</a>
+</div>
+</section>
+</div> <!-- .main -->
+<div class="sidebar">
+<div class="widget highlighted-posts">
+<div class="widget-title">Top Photos</div>
+<div class="posts">
+<div class="post post-micro post-type-photo" data-type="photo">
+<div class="post-content">
+<div class="post-content-inner">
+<div class="post-thumbnail-container" style="background-image: url('https://64.media.tumblr.com/93d57b6ff08241a1b4cd6f0136505f6c/acd676d55dda0914-a6/s250x400/1de5069a2dfae6b318c587391c90dea78773cdb7.jpg');"></div>
+</div>
+</div>
+<div class="post-glass post-micro-glass">
+<a class="permalink" href="https://sataniccapitalist.tumblr.com/post/711191736902434816?is_highlighted_post=1" target="_blank"></a>
+</div>
+</div>
+<div class="post post-micro post-type-photo" data-type="photo">
+<div class="post-content">
+<div class="post-content-inner">
+<div class="post-thumbnail-container" style="background-image: url('https://64.media.tumblr.com/bf88b24eff1447298fa222db32207072/1c24309af8f89a06-62/s250x400/643397ff88b2542d27d435a88f4ed80151b7d93c.jpg');"></div>
+</div>
+</div>
+<div class="post-glass post-micro-glass">
+<a class="permalink" href="https://sataniccapitalist.tumblr.com/post/711096545082327040?is_highlighted_post=1" target="_blank"></a>
+</div>
+</div>
+<div class="post post-micro post-type-photo" data-type="photo">
+<div class="post-content">
+<div class="post-content-inner">
+<div class="post-thumbnail-container" style="background-image: url('https://64.media.tumblr.com/7f79773e5e03499af79513395fb4ed1b/tumblr_nw681uz3lt1rqqkk7o1_250.png');"></div>
+</div>
+</div>
+<div class="post-glass post-micro-glass">
+<a class="permalink" href="https://sataniccapitalist.tumblr.com/post/711138682028113920/kufiyah-a-palestinian-lawyer-wearing-his?is_highlighted_post=1" target="_blank"></a>
+</div>
+</div>
+<div class="post post-micro post-type-photo" data-type="photo">
+<div class="post-content">
+<div class="post-content-inner">
+<div class="post-thumbnail-container" style="background-image: url('https://64.media.tumblr.com/8974877406b891328c5ef9a3bdef467e/667a0352d7e779bd-3d/s250x400/69bca681ec4a75294e3c519c876c26c2165236e7.jpg');"></div>
+</div>
+</div>
+<div class="post-glass post-micro-glass">
+<a class="permalink" href="https://sataniccapitalist.tumblr.com/post/711138714120863744/workingclasshistory-on-this-day-6-march-1913?is_highlighted_post=1" target="_blank"></a>
+</div>
+</div>
+<div class="post post-micro post-type-photo" data-type="photo">
+<div class="post-content">
+<div class="post-content-inner">
+<div class="post-thumbnail-container" style="background-image: url('https://64.media.tumblr.com/4c3e2f7496cd715e141e26c04cd0b699/f65963b3216ba588-98/s250x400/f7f994b521aaf30fa2050059db927a4f7e2a71c3.png');"></div>
+</div>
+</div>
+<div class="post-glass post-micro-glass">
+<a class="permalink" href="https://sataniccapitalist.tumblr.com/post/711138748216295424/thoughtportal-record-profits-are-unpaid-wages?is_highlighted_post=1" target="_blank"></a>
+</div>
+</div>
+<div class="post post-micro post-type-photo" data-type="photo">
+<div class="post-content">
+<div class="post-content-inner">
+<div class="post-thumbnail-container" style="background-image: url('https://64.media.tumblr.com/6cbd1a1b7aabc7a51ba0959234d02bf9/33c2c62d416592c1-ed/s250x400/03ff33c30a77e9189b92b0ad5ea41e2907ee7246.jpg');"></div>
+</div>
+</div>
+<div class="post-glass post-micro-glass">
+<a class="permalink" href="https://sataniccapitalist.tumblr.com/post/711138669617201152/workingclasshistory-on-this-day-5-march-1965-the?is_highlighted_post=1" target="_blank"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="widget likes-widget">
+<div class="widget-title">Recently Liked</div>
+<article class="text reblogged not-page post-711270168221859840 active exposed" data-post-id="711270168221859840">
+<div class="post-wrapper clearfix">
+<header class="post-header">
+<a class="post-blog" href="https://my-big-fat-aesthetic-blog.tumblr.com/post/711270168221859840?is_liked_post=1"><img class="blog-avatar" data-blog-card-username="my-big-fat-aesthetic-blog" src="https://64.media.tumblr.com/avatar_017de89edaf5_30.pnj"/>my-big-fat-aesthetic-blog</a>
+<a class="reblog-link" data-blog-card-username="formulateinfinity" href="https://formulateinfinity.tumblr.com/post/700141236324089856/on-vacation-with-my-bf-and-i-look-and-feel-amazing"><i class="reblog_sm"></i>formulateinfinity</a>
+</header>
+<section class="post">
+<div class="post-content">
+<div class="reblog-list">
+<div class="post-reblog-trail-item original-reblog-content">
+<div class="post-reblog-header">
+<div class="post-avatar">
+<div class="post-avatar-wrapper">
+<a class="post-avatar-link" href="https://formulateinfinity.tumblr.com/post/700141236324089856" target="_blank">
+<img class="post-avatar-image" src="https://64.media.tumblr.com/6866c5c0d1ad6fd69770e7db6bb06c1e/93084b405d118cd2-32/s64x64u_c1/b160eacc98787a82c47947c5952c7987157709ab.jpg"/>
+</a>
+</div>
+</div>
+<a class="post-tumblelog-name" href="https://formulateinfinity.tumblr.com/post/700141236324089856" target="_blank">formulateinfinity</a>
+</div>
+<div class="post-reblog-content">
+<div class="post-body">
+<p></p><p>on vacation with my bf and i look and feel amazing</p><div class="npf_row"><div class="npf_col"><figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/253d26ade3e62f621810bf3f1821fe88/fbc24c98aec31f40-27/s1280x1920/83a0bc0b2005eba6db346e1e2e5faf2c8b11cc27.jpg" data-big-photo-height="2048" data-big-photo-width="1210"><img alt="image" class="post_media_photo image" sizes="(max-width: 1210px) 100vw, 1210px" src="https://64.media.tumblr.com/253d26ade3e62f621810bf3f1821fe88/fbc24c98aec31f40-27/s1280x1920/83a0bc0b2005eba6db346e1e2e5faf2c8b11cc27.jpg" srcset="https://64.media.tumblr.com/253d26ade3e62f621810bf3f1821fe88/fbc24c98aec31f40-27/s75x75_c1/61f7f023c11c7d528392dc53ffe2186bdce3a31b.jpg 75w, https://64.media.tumblr.com/253d26ade3e62f621810bf3f1821fe88/fbc24c98aec31f40-27/s100x200/465478e192b398bde4076f0deb928bf2c074a9c6.jpg 100w, https://64.media.tumblr.com/253d26ade3e62f621810bf3f1821fe88/fbc24c98aec31f40-27/s250x400/2ba5b7708b7103f03e979b31436e7c34bea96745.jpg 236w, https://64.media.tumblr.com/253d26ade3e62f621810bf3f1821fe88/fbc24c98aec31f40-27/s400x600/ca89863371695def1ba873771bb67ccf51c08475.jpg 354w, https://64.media.tumblr.com/253d26ade3e62f621810bf3f1821fe88/fbc24c98aec31f40-27/s500x750/ee0ad2894053cf40a9922ecba888f9b82cdbb7c7.jpg 443w, https://64.media.tumblr.com/253d26ade3e62f621810bf3f1821fe88/fbc24c98aec31f40-27/s540x810/5e64553acc5109fe77081f2c7a8d13fd9f597bf5.jpg 479w, https://64.media.tumblr.com/253d26ade3e62f621810bf3f1821fe88/fbc24c98aec31f40-27/s640x960/9ca726f757a83c54500243525bea938f1a5e6b1e.jpg 567w, https://64.media.tumblr.com/253d26ade3e62f621810bf3f1821fe88/fbc24c98aec31f40-27/s1280x1920/83a0bc0b2005eba6db346e1e2e5faf2c8b11cc27.jpg 1134w, https://64.media.tumblr.com/253d26ade3e62f621810bf3f1821fe88/fbc24c98aec31f40-27/s2048x3072/76fd38a5a9246c7eb13a1ab3957cc6468455360f.jpg 1210w"/></a></figure></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="inline-meta post-extra has-reblog">
+</section>
+</section>
+<section class="panel">
+<footer class="post-footer">
+<section class="panel">
+<section class="inline-meta date-notes">
+<div class="date-note-wrapper">
+<a class="meta-item post-notes" href="https://my-big-fat-aesthetic-blog.tumblr.com/post/711270168221859840?is_liked_post=1#notes" target="_blank">66 notes</a>
+</div>
+</section>
+<section class="post-controls">
+<div class="controls-wrapper">
+<div class="control share-control">
+<nav class="pop">
+<a class="share selector" href="#"></a>
+<div class="pop-menu share-menu south" id="share_711270168221859840">
+<ul>
+<li class="open-in-app"><a class="share-item open-in-app" data-post="711270168221859840" href="#">Open in app</a></li>
+<li><a class="share-item facebook" href="https://facebook.com/sharer.php?u=https%3A%2F%2Fmy-big-fat-aesthetic-blog.tumblr.com%2Fpost%2F711270168221859840%3Fis_liked_post%3D1&amp;t=" target="_blank">Facebook</a></li>
+<li><a class="share-item twitter" href="https://twitter.com/intent/tweet?text=formulateinfinity%3A%20on%20vacation%20with%20my%20bf%20and%20i%20look%20and%20feel%20amazing%20https%3A%2F%2Ftmblr.co%2FZfxxVqdUy7CKCa00" target="_blank">Tweet</a></li>
+<li><a class="share-item reddit" href="https://reddit.com/submit?url=https%3A%2F%2Fmy-big-fat-aesthetic-blog.tumblr.com%2Fpost%2F711270168221859840%3Fis_liked_post%3D1" target="_blank">Reddit</a></li>
+<li><a class="share-item mail" href="mailto:?subject=A%20post%20from%20Satanic%20Capitalist&amp;body=formulateinfinity%3A%20on%20vacation%20with%20my%20bf%20and%20i%20look%20and%20feel%20amazing%20https%3A%2F%2Fmy-big-fat-aesthetic-blog.tumblr.com%2Fpost%2F711270168221859840">Mail</a></li>
+<li><a class="share-item permalink" href="https://my-big-fat-aesthetic-blog.tumblr.com/post/711270168221859840/embed">Embed</a></li>
+<li><a class="share-item permalink" href="https://my-big-fat-aesthetic-blog.tumblr.com/post/711270168221859840?is_liked_post=1">Permalink <i class="arrow"></i></a></li>
+</ul>
+</div>
+</nav>
+</div>
+<div class="control reblog-control"><a class="reblog_button" href="https://www.tumblr.com/reblog/my-big-fat-aesthetic-blog/711270168221859840/xgNNQrXx" style="display: block;width:24px;height:24px;"><svg fill="#000" height="100%" viewbox="0 0 21 21" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a></div>
+<div class="control like-control"><div class="like_button" data-blog-name="my-big-fat-aesthetic-blog" data-post-id="711270168221859840" id="like_button_711270168221859840"><iframe allowtransparency="true" class="like_toggle" frameborder="0" height="24" id="like_iframe_711270168221859840" name="like_iframe_711270168221859840" scrolling="no" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=sataniccapitalist&amp;post_id=711270168221859840&amp;color=black&amp;rk=xgNNQrXx&amp;root_id=700141236324089856" width="24"></iframe></div></div>
+</div>
+</section>
+</section>
+</footer>
+</section>
+</div>
+</article>
+</div> <!-- .likes-widget -->
+</div> <!-- .sidebar -->
+</div> <!-- .container -->
+</section>
+<footer class="content clearfix" id="footer">
+</footer>
+</section>
+<script>
+            var Optica = {};
+            Optica.ENDLESS_SCROLLING = true;
+            Optica.SHOW_NAV = true;
+            Optica.LAYOUT = "regular";
+            Optica.GRID_LAYOUT = (Optica.LAYOUT === 'grid');
+            Optica.TITLE_COLOR = "#444444";
+            Optica.ACCENT_COLOR = "#529ECC";
+            Optica.BACKGROUND_COLOR = "#FAFAFA";
+
+            
+                Optica.NU_OPTICA_BLOG_CARDS = true;
+            
+            
+
+            Optica.RELATED_POSTS_CTA_VARIANTS = [
+               {
+                   variant: "C",
+                   text: "See the rest of this Tumblr"
+               },
+               {
+                   variant: "D",
+                   text: "See sataniccapitalist's whole Tumblr"
+               },
+               {
+                   variant: "E",
+                   text: "You scrolled this far. Check out the rest."
+               }
+            ];
+            Optica.NO_LIKES_VARIANTS = [
+                "This Tumblr hasn't liked any posts yet.",
+                "This Tumblr doesn't like anything…yet.",
+                "No likes! Sheesh!",
+                "Amazing! This Tumblr doesn't like anything.",
+                "Incredible! This Tumblr doesn't like anything.",
+                "Neat! This Tumblr doesn't like anything.",
+                "Apparently this Tumblr is hard to please.",
+                "Wow! This Tumblr hasn't liked anything ever.",
+                "This Tumblr hasn't liked anything yet. How very intriguing.",
+                "This Tumblr has never met a post it didn't not like."
+            ];
+            Optica.NO_POSTS_VARIANTS = [
+                "This Tumblr hasn't made any posts.",
+                "This silly Tumblr hasn't posted anything yet.",
+                "This Tumblr is cool, but empty.",
+                "This Tumblr is content-free.",
+                "This minimalist Tumblr has no posts.",
+                "Meditate for a while on this empty Tumblr.",
+                "Posts? Nah.",
+                "This Tumblr has hardly any posts. \nNone at all, in fact.",
+                "This Tumblr hasn't posted anything."
+            ];
+            Optica.NO_FOLLOWING_VARIANTS = [
+                "This Tumblr hasn't followed any other Tumblrs.",
+                "Aw. This Tumblr isn't following anyone.",
+                "Nope, this Tumblr doesn't follow anyone.",
+                "This cool Tumblr doesn't follow anyone.",
+                "This far-out Tumblr doesn't follow anyone.",
+                "This fiercely independent Tumblr doesn't follow anyone.",
+                "This Tumblr doesn't follow anything except for its own rules.",
+                "This Tumblr doesn't really \"follow\" anything."
+            ];
+        </script>
+<script src="https://assets.tumblr.com/default-theme/r1/main-min.js"></script>
+<script src="https://static.tumblr.com/t1owtkf/bSAnvroul/jquery.waypoints.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+                    $(function() {
+                        var trackingPixels = {"711177589097742336":"PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIG5vbmNlPSJjSzVreW9zQ2xVS2RzZE1udEdGUFZVSzdNZ3MiPiFmdW5jdGlvbihzKXtzLnNyYz0naHR0cHM6Ly9weC5zcnZjcy50dW1ibHIuY29tL2ltcGl4dT9UPTE2NzgzMzI1MDgmSj1leUowZVhCbElqb2ljRzl6ZENJc0luVnliQ0k2SW1oMGRIQTZMeTl6WVhSaGJtbGpZMkZ3YVhSaGJHbHpkQzUwZFcxaWJISXVZMjl0TDNCdmMzUXZOalEzTWpBNU56azJNamN5TURFek16RXlMMmx0WmkxemFXeGxiblJzZVMxamNtVmhkR1Z6TFc1bGR5MXRiMjVsZVMxc1lYbGxjaTEzYUhrdGVXOTFJaXdpY21WeGRIbHdaU0k2TUN3aWNtOTFkR1VpT2lJdmNHOXpkQzg2YVdRdk9uTjFiVzFoY25raUxDSndiM04wY3lJNlczc2ljbTl2ZEY5aWJHOW5hV1FpT2pJd056STNNRGMxTlN3aWNtOXZkRjl3YjNOMGFXUWlPaUkzTURrNU9UVXlNVFl6T0RnMk9EVTRNallpTENKd2IzTjBhV1FpT2lJM01URXhOemMxT0Rrd09UYzNOREl6TXpZaUxDSmliRzluYVdRaU9qSTJNemcxTWpnM015d2ljMjkxY21ObElqb3pPVGw5WFgwPSZVPUZFREVIUEtCQUQmSz1hMzc0NzE0MTA3ZDBhYzhkOTYxNDAzZWI4YWZlNDVlNmMzZjE3Njc0NzZmOGQ4NDJkZTk4MGQ1ZGRjNDVkMzg0JlI9Jy5yZXBsYWNlKC8mUj1bXiYkXSovLCcnKS5jb25jYXQoJyZSPScrZXNjYXBlKGRvY3VtZW50LnJlZmVycmVyKSkuc2xpY2UoMCwyMDAwKS5yZXBsYWNlKC8lLj8uPyQvLCcnKTt9KG5ldyBJbWFnZSgpKTs8L3NjcmlwdD48bm9zY3JpcHQ+PGltZyBzdHlsZT0icG9zaXRpb246YWJzb2x1dGU7ei1pbmRleDotMzMzNDt0b3A6MHB4O2xlZnQ6MHB4O3Zpc2liaWxpdHk6aGlkZGVuOyIgc3JjPSJodHRwczovL3B4LnNydmNzLnR1bWJsci5jb20vaW1waXh1P1Q9MTY3ODMzMjUwOCZKPWV5SjBlWEJsSWpvaWNHOXpkQ0lzSW5WeWJDSTZJbWgwZEhBNkx5OXpZWFJoYm1salkyRndhWFJoYkdsemRDNTBkVzFpYkhJdVkyOXRMM0J2YzNRdk5qUTNNakE1TnprMk1qY3lNREV6TXpFeUwybHRaaTF6YVd4bGJuUnNlUzFqY21WaGRHVnpMVzVsZHkxdGIyNWxlUzFzWVhsbGNpMTNhSGt0ZVc5MUlpd2ljbVZ4ZEhsd1pTSTZNQ3dpY205MWRHVWlPaUl2Y0c5emRDODZhV1F2T25OMWJXMWhjbmtpTENKd2IzTjBjeUk2VzNzaWNtOXZkRjlpYkc5bmFXUWlPakl3TnpJM01EYzFOU3dpY205dmRGOXdiM04wYVdRaU9pSTNNRGs1T1RVeU1UWXpPRGcyT0RVNE1qWWlMQ0p3YjNOMGFXUWlPaUkzTVRFeE56YzFPRGt3T1RjM05ESXpNellpTENKaWJHOW5hV1FpT2pJMk16ZzFNamczTXl3aWMyOTFjbU5sSWpvek9UbDlYU3dpYm05elkzSnBjSFFpT2pGOSZVPUZFREVIUEtCQUQmSz1kNjQ1YzlmYjZhMGUwN2RkZThhODAyMWUyY2VlNjYzMjljNGJlMTVmMjE0YWEwZDEzMGJhNzI2ZjA1NDAwNGFlJlI9Ij48L25vc2NyaXB0Pg==","711177862834749440":"PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIG5vbmNlPSJjSzVreW9zQ2xVS2RzZE1udEdGUFZVSzdNZ3MiPiFmdW5jdGlvbihzKXtzLnNyYz0naHR0cHM6Ly9weC5zcnZjcy50dW1ibHIuY29tL2ltcGl4dT9UPTE2NzgzMzI1MDgmSj1leUowZVhCbElqb2ljRzl6ZENJc0luVnliQ0k2SW1oMGRIQTZMeTl6WVhSaGJtbGpZMkZ3YVhSaGJHbHpkQzUwZFcxaWJISXVZMjl0TDNCdmMzUXZOalEzTWpBNU56azJNamN5TURFek16RXlMMmx0WmkxemFXeGxiblJzZVMxamNtVmhkR1Z6TFc1bGR5MXRiMjVsZVMxc1lYbGxjaTEzYUhrdGVXOTFJaXdpY21WeGRIbHdaU0k2TUN3aWNtOTFkR1VpT2lJdmNHOXpkQzg2YVdRdk9uTjFiVzFoY25raUxDSndiM04wY3lJNlczc2ljbTl2ZEY5aWJHOW5hV1FpT2pVME5EYzNOakF4TUN3aWNtOXZkRjl3YjNOMGFXUWlPaUkzTURNMk5ESTROREl6TlRNd05ERTBNRGdpTENKd2IzTjBhV1FpT2lJM01URXhOemM0TmpJNE16UTNORGswTkRBaUxDSmliRzluYVdRaU9qSTJNemcxTWpnM015d2ljMjkxY21ObElqb3pPVGw5WFgwPSZVPUhOSU5GTkpHQUMmSz1kNGU4YjE5YWExNTg2NjE1NGFiYTJkODc0ZjM2ZDU2OTkxNWE5NmExNzdmMDg3Nzk1NmYyNWNlYzQzYmQ3ZjFiJlI9Jy5yZXBsYWNlKC8mUj1bXiYkXSovLCcnKS5jb25jYXQoJyZSPScrZXNjYXBlKGRvY3VtZW50LnJlZmVycmVyKSkuc2xpY2UoMCwyMDAwKS5yZXBsYWNlKC8lLj8uPyQvLCcnKTt9KG5ldyBJbWFnZSgpKTs8L3NjcmlwdD48bm9zY3JpcHQ+PGltZyBzdHlsZT0icG9zaXRpb246YWJzb2x1dGU7ei1pbmRleDotMzMzNDt0b3A6MHB4O2xlZnQ6MHB4O3Zpc2liaWxpdHk6aGlkZGVuOyIgc3JjPSJodHRwczovL3B4LnNydmNzLnR1bWJsci5jb20vaW1waXh1P1Q9MTY3ODMzMjUwOCZKPWV5SjBlWEJsSWpvaWNHOXpkQ0lzSW5WeWJDSTZJbWgwZEhBNkx5OXpZWFJoYm1salkyRndhWFJoYkdsemRDNTBkVzFpYkhJdVkyOXRMM0J2YzNRdk5qUTNNakE1TnprMk1qY3lNREV6TXpFeUwybHRaaTF6YVd4bGJuUnNlUzFqY21WaGRHVnpMVzVsZHkxdGIyNWxlUzFzWVhsbGNpMTNhSGt0ZVc5MUlpd2ljbVZ4ZEhsd1pTSTZNQ3dpY205MWRHVWlPaUl2Y0c5emRDODZhV1F2T25OMWJXMWhjbmtpTENKd2IzTjBjeUk2VzNzaWNtOXZkRjlpYkc5bmFXUWlPalUwTkRjM05qQXhNQ3dpY205dmRGOXdiM04wYVdRaU9pSTNNRE0yTkRJNE5ESXpOVE13TkRFME1EZ2lMQ0p3YjNOMGFXUWlPaUkzTVRFeE56YzROakk0TXpRM05EazBOREFpTENKaWJHOW5hV1FpT2pJMk16ZzFNamczTXl3aWMyOTFjbU5sSWpvek9UbDlYU3dpYm05elkzSnBjSFFpT2pGOSZVPUhOSU5GTkpHQUMmSz02YzgyMTg0NjZlYTUwNDE1NjExNTA1ZDMyMDc0NDM1OTgyZDYxNjQ1ZjRjMDQ5ZmEzYjk4MDlhZWJhMTkzNWJjJlI9Ij48L25vc2NyaXB0Pg==","711096545082327040":"PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIG5vbmNlPSJjSzVreW9zQ2xVS2RzZE1udEdGUFZVSzdNZ3MiPiFmdW5jdGlvbihzKXtzLnNyYz0naHR0cHM6Ly9weC5zcnZjcy50dW1ibHIuY29tL2ltcGl4dT9UPTE2NzgzMzI1MDgmSj1leUowZVhCbElqb2ljRzl6ZENJc0luVnliQ0k2SW1oMGRIQTZMeTl6WVhSaGJtbGpZMkZ3YVhSaGJHbHpkQzUwZFcxaWJISXVZMjl0TDNCdmMzUXZOalEzTWpBNU56azJNamN5TURFek16RXlMMmx0WmkxemFXeGxiblJzZVMxamNtVmhkR1Z6TFc1bGR5MXRiMjVsZVMxc1lYbGxjaTEzYUhrdGVXOTFJaXdpY21WeGRIbHdaU0k2TUN3aWNtOTFkR1VpT2lJdmNHOXpkQzg2YVdRdk9uTjFiVzFoY25raUxDSndiM04wY3lJNlczc2ljRzl6ZEdsa0lqb2lOekV4TURrMk5UUTFNRGd5TXpJM01EUXdJaXdpWW14dloybGtJam95TmpNNE5USTROek1zSW5OdmRYSmpaU0k2TXprNWZWMTkmVT1FTEJMQ01BSEJNJks9YWMyZDhiMWZlMjU3OGVlZDE3YWE2NWQwZGEyYjIxZjE4MGI5NTc4ODkwM2FiMGM0NzM2Y2E2NmE2MzlkMTQwYiZSPScucmVwbGFjZSgvJlI9W14mJF0qLywnJykuY29uY2F0KCcmUj0nK2VzY2FwZShkb2N1bWVudC5yZWZlcnJlcikpLnNsaWNlKDAsMjAwMCkucmVwbGFjZSgvJS4\/Lj8kLywnJyk7fShuZXcgSW1hZ2UoKSk7PC9zY3JpcHQ+PG5vc2NyaXB0PjxpbWcgc3R5bGU9InBvc2l0aW9uOmFic29sdXRlO3otaW5kZXg6LTMzMzQ7dG9wOjBweDtsZWZ0OjBweDt2aXNpYmlsaXR5OmhpZGRlbjsiIHNyYz0iaHR0cHM6Ly9weC5zcnZjcy50dW1ibHIuY29tL2ltcGl4dT9UPTE2NzgzMzI1MDgmSj1leUowZVhCbElqb2ljRzl6ZENJc0luVnliQ0k2SW1oMGRIQTZMeTl6WVhSaGJtbGpZMkZ3YVhSaGJHbHpkQzUwZFcxaWJISXVZMjl0TDNCdmMzUXZOalEzTWpBNU56azJNamN5TURFek16RXlMMmx0WmkxemFXeGxiblJzZVMxamNtVmhkR1Z6TFc1bGR5MXRiMjVsZVMxc1lYbGxjaTEzYUhrdGVXOTFJaXdpY21WeGRIbHdaU0k2TUN3aWNtOTFkR1VpT2lJdmNHOXpkQzg2YVdRdk9uTjFiVzFoY25raUxDSndiM04wY3lJNlczc2ljRzl6ZEdsa0lqb2lOekV4TURrMk5UUTFNRGd5TXpJM01EUXdJaXdpWW14dloybGtJam95TmpNNE5USTROek1zSW5OdmRYSmpaU0k2TXprNWZWMHNJbTV2YzJOeWFYQjBJam94ZlE9PSZVPUVMQkxDTUFIQk0mSz1kNzk0MTE5OGM3OWJlMzQwZWQ5ZDE5NDJlZDQ1NzVhZTMzYzRjOWMyMDczNzExZGViYTY0ODcxMzIwNjViNjAyJlI9Ij48L25vc2NyaXB0Pg==","711159119978151936":"PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIG5vbmNlPSJjSzVreW9zQ2xVS2RzZE1udEdGUFZVSzdNZ3MiPiFmdW5jdGlvbihzKXtzLnNyYz0naHR0cHM6Ly9weC5zcnZjcy50dW1ibHIuY29tL2ltcGl4dT9UPTE2NzgzMzI1MDgmSj1leUowZVhCbElqb2ljRzl6ZENJc0luVnliQ0k2SW1oMGRIQTZMeTl6WVhSaGJtbGpZMkZ3YVhSaGJHbHpkQzUwZFcxaWJISXVZMjl0TDNCdmMzUXZOalEzTWpBNU56azJNamN5TURFek16RXlMMmx0WmkxemFXeGxiblJzZVMxamNtVmhkR1Z6TFc1bGR5MXRiMjVsZVMxc1lYbGxjaTEzYUhrdGVXOTFJaXdpY21WeGRIbHdaU0k2TUN3aWNtOTFkR1VpT2lJdmNHOXpkQzg2YVdRdk9uTjFiVzFoY25raUxDSndiM04wY3lJNlczc2ljbTl2ZEY5aWJHOW5hV1FpT2pVd056Y3hOeXdpY205dmRGOXdiM04wYVdRaU9pSTNNVEV4TlRjM01qTTVNRFV3TkRnMU56WWlMQ0p3YjNOMGFXUWlPaUkzTVRFeE5Ua3hNVGs1TnpneE5URTVNellpTENKaWJHOW5hV1FpT2pJMk16ZzFNamczTXl3aWMyOTFjbU5sSWpvek9UbDlYWDA9JlU9T09CQkpBT0VISCZLPTJjMmQ0OWViMGYyN2Q2Mzc0YjJiNjMxMmU2NTQ1Nzk5MTRjNDE5M2I1MTA5MWM1MzE3OWI4NzQyZTJmN2YyMzkmUj0nLnJlcGxhY2UoLyZSPVteJiRdKi8sJycpLmNvbmNhdCgnJlI9Jytlc2NhcGUoZG9jdW1lbnQucmVmZXJyZXIpKS5zbGljZSgwLDIwMDApLnJlcGxhY2UoLyUuPy4\/JC8sJycpO30obmV3IEltYWdlKCkpOzwvc2NyaXB0Pjxub3NjcmlwdD48aW1nIHN0eWxlPSJwb3NpdGlvbjphYnNvbHV0ZTt6LWluZGV4Oi0zMzM0O3RvcDowcHg7bGVmdDowcHg7dmlzaWJpbGl0eTpoaWRkZW47IiBzcmM9Imh0dHBzOi8vcHguc3J2Y3MudHVtYmxyLmNvbS9pbXBpeHU\/VD0xNjc4MzMyNTA4Jko9ZXlKMGVYQmxJam9pY0c5emRDSXNJblZ5YkNJNkltaDBkSEE2THk5ellYUmhibWxqWTJGd2FYUmhiR2x6ZEM1MGRXMWliSEl1WTI5dEwzQnZjM1F2TmpRM01qQTVOemsyTWpjeU1ERXpNekV5TDJsdFppMXphV3hsYm5Sc2VTMWpjbVZoZEdWekxXNWxkeTF0YjI1bGVTMXNZWGxsY2kxM2FIa3RlVzkxSWl3aWNtVnhkSGx3WlNJNk1Dd2ljbTkxZEdVaU9pSXZjRzl6ZEM4NmFXUXZPbk4xYlcxaGNua2lMQ0p3YjNOMGN5STZXM3NpY205dmRGOWliRzluYVdRaU9qVXdOemN4Tnl3aWNtOXZkRjl3YjNOMGFXUWlPaUkzTVRFeE5UYzNNak01TURVd05EZzFOellpTENKd2IzTjBhV1FpT2lJM01URXhOVGt4TVRrNU56Z3hOVEU1TXpZaUxDSmliRzluYVdRaU9qSTJNemcxTWpnM015d2ljMjkxY21ObElqb3pPVGw5WFN3aWJtOXpZM0pwY0hRaU9qRjkmVT1PT0JCSkFPRUhIJks9OGY1ZjA5N2ZlZGUzZWZjNzRiYTM2YWY4ZWQwMWQ4MWQ3MzNmNzQwMjMxZjJmOTE0ZThhYjM0NzNmN2IyZTdkZCZSPSI+PC9ub3NjcmlwdD4=","711159711109627904":"PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIG5vbmNlPSJjSzVreW9zQ2xVS2RzZE1udEdGUFZVSzdNZ3MiPiFmdW5jdGlvbihzKXtzLnNyYz0naHR0cHM6Ly9weC5zcnZjcy50dW1ibHIuY29tL2ltcGl4dT9UPTE2NzgzMzI1MDgmSj1leUowZVhCbElqb2ljRzl6ZENJc0luVnliQ0k2SW1oMGRIQTZMeTl6WVhSaGJtbGpZMkZ3YVhSaGJHbHpkQzUwZFcxaWJISXVZMjl0TDNCdmMzUXZOalEzTWpBNU56azJNamN5TURFek16RXlMMmx0WmkxemFXeGxiblJzZVMxamNtVmhkR1Z6TFc1bGR5MXRiMjVsZVMxc1lYbGxjaTEzYUhrdGVXOTFJaXdpY21WeGRIbHdaU0k2TUN3aWNtOTFkR1VpT2lJdmNHOXpkQzg2YVdRdk9uTjFiVzFoY25raUxDSndiM04wY3lJNlczc2ljbTl2ZEY5aWJHOW5hV1FpT2pRNE5EWTJPVGNzSW5KdmIzUmZjRzl6ZEdsa0lqb2lOekV4TVRNNU5qY3lNakl6TmpFeU9USTRJaXdpY0c5emRHbGtJam9pTnpFeE1UVTVOekV4TVRBNU5qSTNPVEEwSWl3aVlteHZaMmxrSWpveU5qTTROVEk0TnpNc0luTnZkWEpqWlNJNk16azVmVjE5JlU9QUtLRktPR0dHRSZLPThkZDc1MjhhOTdhOTU4ODljYTU1ZjUzYWMwMThmYzUzNjQ4NGRiNGM2ZGYxNDJmNzAzN2M3YmIxNGUxNzgzM2EmUj0nLnJlcGxhY2UoLyZSPVteJiRdKi8sJycpLmNvbmNhdCgnJlI9Jytlc2NhcGUoZG9jdW1lbnQucmVmZXJyZXIpKS5zbGljZSgwLDIwMDApLnJlcGxhY2UoLyUuPy4\/JC8sJycpO30obmV3IEltYWdlKCkpOzwvc2NyaXB0Pjxub3NjcmlwdD48aW1nIHN0eWxlPSJwb3NpdGlvbjphYnNvbHV0ZTt6LWluZGV4Oi0zMzM0O3RvcDowcHg7bGVmdDowcHg7dmlzaWJpbGl0eTpoaWRkZW47IiBzcmM9Imh0dHBzOi8vcHguc3J2Y3MudHVtYmxyLmNvbS9pbXBpeHU\/VD0xNjc4MzMyNTA4Jko9ZXlKMGVYQmxJam9pY0c5emRDSXNJblZ5YkNJNkltaDBkSEE2THk5ellYUmhibWxqWTJGd2FYUmhiR2x6ZEM1MGRXMWliSEl1WTI5dEwzQnZjM1F2TmpRM01qQTVOemsyTWpjeU1ERXpNekV5TDJsdFppMXphV3hsYm5Sc2VTMWpjbVZoZEdWekxXNWxkeTF0YjI1bGVTMXNZWGxsY2kxM2FIa3RlVzkxSWl3aWNtVnhkSGx3WlNJNk1Dd2ljbTkxZEdVaU9pSXZjRzl6ZEM4NmFXUXZPbk4xYlcxaGNua2lMQ0p3YjNOMGN5STZXM3NpY205dmRGOWliRzluYVdRaU9qUTRORFkyT1Rjc0luSnZiM1JmY0c5emRHbGtJam9pTnpFeE1UTTVOamN5TWpJek5qRXlPVEk0SWl3aWNHOXpkR2xrSWpvaU56RXhNVFU1TnpFeE1UQTVOakkzT1RBMElpd2lZbXh2WjJsa0lqb3lOak00TlRJNE56TXNJbk52ZFhKalpTSTZNems1ZlYwc0ltNXZjMk55YVhCMElqb3hmUT09JlU9QUtLRktPR0dHRSZLPTYzNThlYjA4MzZkNjE2NzU1NjQwZWM4NWNhZmUzNDkxMTNlZTM5Mjc1YjAyMGNhYzk4ZTA2YjBkY2QyNzFlNTYmUj0iPjwvbm9zY3JpcHQ+","711138682028113920":"PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIG5vbmNlPSJjSzVreW9zQ2xVS2RzZE1udEdGUFZVSzdNZ3MiPiFmdW5jdGlvbihzKXtzLnNyYz0naHR0cHM6Ly9weC5zcnZjcy50dW1ibHIuY29tL2ltcGl4dT9UPTE2NzgzMzI1MDgmSj1leUowZVhCbElqb2ljRzl6ZENJc0luVnliQ0k2SW1oMGRIQTZMeTl6WVhSaGJtbGpZMkZ3YVhSaGJHbHpkQzUwZFcxaWJISXVZMjl0TDNCdmMzUXZOalEzTWpBNU56azJNamN5TURFek16RXlMMmx0WmkxemFXeGxiblJzZVMxamNtVmhkR1Z6TFc1bGR5MXRiMjVsZVMxc1lYbGxjaTEzYUhrdGVXOTFJaXdpY21WeGRIbHdaU0k2TUN3aWNtOTFkR1VpT2lJdmNHOXpkQzg2YVdRdk9uTjFiVzFoY25raUxDSndiM04wY3lJNlczc2ljbTl2ZEY5aWJHOW5hV1FpT2pRMU56azBNams1TENKeWIyOTBYM0J2YzNScFpDSTZJakV6TVRFd01EZzBNREV5TkNJc0luQnZjM1JwWkNJNklqY3hNVEV6T0RZNE1qQXlPREV4TXpreU1DSXNJbUpzYjJkcFpDSTZNall6T0RVeU9EY3pMQ0p6YjNWeVkyVWlPak01T1gxZGZRPT0mVT1FTk1CTEJCR01PJks9N2Q5OWE0YjU3YTNmNTFlNzkyNGIwMTllNWY4YTkwYmRhZGVhMTNmNDc3MjY5MzZmM2FjOWQwMGZjYjljZDI5MyZSPScucmVwbGFjZSgvJlI9W14mJF0qLywnJykuY29uY2F0KCcmUj0nK2VzY2FwZShkb2N1bWVudC5yZWZlcnJlcikpLnNsaWNlKDAsMjAwMCkucmVwbGFjZSgvJS4\/Lj8kLywnJyk7fShuZXcgSW1hZ2UoKSk7PC9zY3JpcHQ+PG5vc2NyaXB0PjxpbWcgc3R5bGU9InBvc2l0aW9uOmFic29sdXRlO3otaW5kZXg6LTMzMzQ7dG9wOjBweDtsZWZ0OjBweDt2aXNpYmlsaXR5OmhpZGRlbjsiIHNyYz0iaHR0cHM6Ly9weC5zcnZjcy50dW1ibHIuY29tL2ltcGl4dT9UPTE2NzgzMzI1MDgmSj1leUowZVhCbElqb2ljRzl6ZENJc0luVnliQ0k2SW1oMGRIQTZMeTl6WVhSaGJtbGpZMkZ3YVhSaGJHbHpkQzUwZFcxaWJISXVZMjl0TDNCdmMzUXZOalEzTWpBNU56azJNamN5TURFek16RXlMMmx0WmkxemFXeGxiblJzZVMxamNtVmhkR1Z6TFc1bGR5MXRiMjVsZVMxc1lYbGxjaTEzYUhrdGVXOTFJaXdpY21WeGRIbHdaU0k2TUN3aWNtOTFkR1VpT2lJdmNHOXpkQzg2YVdRdk9uTjFiVzFoY25raUxDSndiM04wY3lJNlczc2ljbTl2ZEY5aWJHOW5hV1FpT2pRMU56azBNams1TENKeWIyOTBYM0J2YzNScFpDSTZJakV6TVRFd01EZzBNREV5TkNJc0luQnZjM1JwWkNJNklqY3hNVEV6T0RZNE1qQXlPREV4TXpreU1DSXNJbUpzYjJkcFpDSTZNall6T0RVeU9EY3pMQ0p6YjNWeVkyVWlPak01T1gxZExDSnViM05qY21sd2RDSTZNWDA9JlU9RU5NQkxCQkdNTyZLPTcyMzIwZTE0ZTcyOGFlZmYyYWE0M2RjZGFlNjU4OTc3OWVkMWJmODBhYWI0MzdhZjI0ZWEwMGU1MzE1ODRhMWYmUj0iPjwvbm9zY3JpcHQ+","711138748216295424":"PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIG5vbmNlPSJjSzVreW9zQ2xVS2RzZE1udEdGUFZVSzdNZ3MiPiFmdW5jdGlvbihzKXtzLnNyYz0naHR0cHM6Ly9weC5zcnZjcy50dW1ibHIuY29tL2ltcGl4dT9UPTE2NzgzMzI1MDgmSj1leUowZVhCbElqb2ljRzl6ZENJc0luVnliQ0k2SW1oMGRIQTZMeTl6WVhSaGJtbGpZMkZ3YVhSaGJHbHpkQzUwZFcxaWJISXVZMjl0TDNCdmMzUXZOalEzTWpBNU56azJNamN5TURFek16RXlMMmx0WmkxemFXeGxiblJzZVMxamNtVmhkR1Z6TFc1bGR5MXRiMjVsZVMxc1lYbGxjaTEzYUhrdGVXOTFJaXdpY21WeGRIbHdaU0k2TUN3aWNtOTFkR1VpT2lJdmNHOXpkQzg2YVdRdk9uTjFiVzFoY25raUxDSndiM04wY3lJNlczc2ljbTl2ZEY5aWJHOW5hV1FpT2pNME5EYzJOemt6T0N3aWNtOXZkRjl3YjNOMGFXUWlPaUkzTVRBeE56RTNOelF3T1RneU5ETTFPRFFpTENKd2IzTjBhV1FpT2lJM01URXhNemczTkRneU1UWXlPVFUwTWpRaUxDSmliRzluYVdRaU9qSTJNemcxTWpnM015d2ljMjkxY21ObElqb3pPVGw5WFgwPSZVPUFDUEpMTktDRkgmSz1iNTVlYTI3Y2NlOWIxNzVkNzZhOTU1ZDg2ODA2Mzg1MDg5YjVlOTE0NDNmMjJlNjAxNDRiMmY0NGE3ZmYzZWI2JlI9Jy5yZXBsYWNlKC8mUj1bXiYkXSovLCcnKS5jb25jYXQoJyZSPScrZXNjYXBlKGRvY3VtZW50LnJlZmVycmVyKSkuc2xpY2UoMCwyMDAwKS5yZXBsYWNlKC8lLj8uPyQvLCcnKTt9KG5ldyBJbWFnZSgpKTs8L3NjcmlwdD48bm9zY3JpcHQ+PGltZyBzdHlsZT0icG9zaXRpb246YWJzb2x1dGU7ei1pbmRleDotMzMzNDt0b3A6MHB4O2xlZnQ6MHB4O3Zpc2liaWxpdHk6aGlkZGVuOyIgc3JjPSJodHRwczovL3B4LnNydmNzLnR1bWJsci5jb20vaW1waXh1P1Q9MTY3ODMzMjUwOCZKPWV5SjBlWEJsSWpvaWNHOXpkQ0lzSW5WeWJDSTZJbWgwZEhBNkx5OXpZWFJoYm1salkyRndhWFJoYkdsemRDNTBkVzFpYkhJdVkyOXRMM0J2YzNRdk5qUTNNakE1TnprMk1qY3lNREV6TXpFeUwybHRaaTF6YVd4bGJuUnNlUzFqY21WaGRHVnpMVzVsZHkxdGIyNWxlUzFzWVhsbGNpMTNhSGt0ZVc5MUlpd2ljbVZ4ZEhsd1pTSTZNQ3dpY205MWRHVWlPaUl2Y0c5emRDODZhV1F2T25OMWJXMWhjbmtpTENKd2IzTjBjeUk2VzNzaWNtOXZkRjlpYkc5bmFXUWlPak0wTkRjMk56a3pPQ3dpY205dmRGOXdiM04wYVdRaU9pSTNNVEF4TnpFM056UXdPVGd5TkRNMU9EUWlMQ0p3YjNOMGFXUWlPaUkzTVRFeE16ZzNORGd5TVRZeU9UVTBNalFpTENKaWJHOW5hV1FpT2pJMk16ZzFNamczTXl3aWMyOTFjbU5sSWpvek9UbDlYU3dpYm05elkzSnBjSFFpT2pGOSZVPUFDUEpMTktDRkgmSz1lYjdjMDU5NjZlNGIwZWU2ZGU5MTQ1MWNmZGNkZWE0MWNjYmMxOGI3YzEzODUyNWViZjMxZDZhZmJlNmQwNTIyJlI9Ij48L25vc2NyaXB0Pg==","711271689270460416":"PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIG5vbmNlPSJjSzVreW9zQ2xVS2RzZE1udEdGUFZVSzdNZ3MiPiFmdW5jdGlvbihzKXtzLnNyYz0naHR0cHM6Ly9weC5zcnZjcy50dW1ibHIuY29tL2ltcGl4dT9UPTE2NzgzMzI1MDgmSj1leUowZVhCbElqb2ljRzl6ZENJc0luVnliQ0k2SW1oMGRIQTZMeTl6WVhSaGJtbGpZMkZ3YVhSaGJHbHpkQzUwZFcxaWJISXVZMjl0TDNCdmMzUXZOalEzTWpBNU56azJNamN5TURFek16RXlMMmx0WmkxemFXeGxiblJzZVMxamNtVmhkR1Z6TFc1bGR5MXRiMjVsZVMxc1lYbGxjaTEzYUhrdGVXOTFJaXdpY21WeGRIbHdaU0k2TUN3aWNtOTFkR1VpT2lJdmNHOXpkQzg2YVdRdk9uTjFiVzFoY25raUxDSndiM04wY3lJNlczc2ljbTl2ZEY5aWJHOW5hV1FpT2pJMU9EUTFOVEk1TENKeWIyOTBYM0J2YzNScFpDSTZJamN4TVRJeU1UTXlNRFF5TWpFM09EZ3hOaUlzSW5CdmMzUnBaQ0k2SWpjeE1USTNNVFk0T1RJM01EUTJNRFF4TmlJc0ltSnNiMmRwWkNJNk1qWXpPRFV5T0RjekxDSnpiM1Z5WTJVaU9qTTVPWDFkZlE9PSZVPUZFUElFREpBRFAmSz0yOTE2ZDJkYzNjMWRjZmE4N2NjMDc3NzM1NzI0NWYwNTYyMzNjN2YzMGE3ZmJkZjlmZTIxNjJkNTI2N2VlODM5JlI9Jy5yZXBsYWNlKC8mUj1bXiYkXSovLCcnKS5jb25jYXQoJyZSPScrZXNjYXBlKGRvY3VtZW50LnJlZmVycmVyKSkuc2xpY2UoMCwyMDAwKS5yZXBsYWNlKC8lLj8uPyQvLCcnKTt9KG5ldyBJbWFnZSgpKTs8L3NjcmlwdD48bm9zY3JpcHQ+PGltZyBzdHlsZT0icG9zaXRpb246YWJzb2x1dGU7ei1pbmRleDotMzMzNDt0b3A6MHB4O2xlZnQ6MHB4O3Zpc2liaWxpdHk6aGlkZGVuOyIgc3JjPSJodHRwczovL3B4LnNydmNzLnR1bWJsci5jb20vaW1waXh1P1Q9MTY3ODMzMjUwOCZKPWV5SjBlWEJsSWpvaWNHOXpkQ0lzSW5WeWJDSTZJbWgwZEhBNkx5OXpZWFJoYm1salkyRndhWFJoYkdsemRDNTBkVzFpYkhJdVkyOXRMM0J2YzNRdk5qUTNNakE1TnprMk1qY3lNREV6TXpFeUwybHRaaTF6YVd4bGJuUnNlUzFqY21WaGRHVnpMVzVsZHkxdGIyNWxlUzFzWVhsbGNpMTNhSGt0ZVc5MUlpd2ljbVZ4ZEhsd1pTSTZNQ3dpY205MWRHVWlPaUl2Y0c5emRDODZhV1F2T25OMWJXMWhjbmtpTENKd2IzTjBjeUk2VzNzaWNtOXZkRjlpYkc5bmFXUWlPakkxT0RRMU5USTVMQ0p5YjI5MFgzQnZjM1JwWkNJNklqY3hNVEl5TVRNeU1EUXlNakUzT0RneE5pSXNJbkJ2YzNScFpDSTZJamN4TVRJM01UWTRPVEkzTURRMk1EUXhOaUlzSW1Kc2IyZHBaQ0k2TWpZek9EVXlPRGN6TENKemIzVnlZMlVpT2pNNU9YMWRMQ0p1YjNOamNtbHdkQ0k2TVgwPSZVPUZFUElFREpBRFAmSz1hOTY1NmM2NWFjNzM1OGVmOTc3NDZhODZmNzgyYWJkNTdhZDY0NGRhMGJjMzUxMGJhY2NhY2YxNTllNWYyZWM5JlI9Ij48L25vc2NyaXB0Pg==","711271493816958976":"PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIG5vbmNlPSJjSzVreW9zQ2xVS2RzZE1udEdGUFZVSzdNZ3MiPiFmdW5jdGlvbihzKXtzLnNyYz0naHR0cHM6Ly9weC5zcnZjcy50dW1ibHIuY29tL2ltcGl4dT9UPTE2NzgzMzI1MDgmSj1leUowZVhCbElqb2ljRzl6ZENJc0luVnliQ0k2SW1oMGRIQTZMeTl6WVhSaGJtbGpZMkZ3YVhSaGJHbHpkQzUwZFcxaWJISXVZMjl0TDNCdmMzUXZOalEzTWpBNU56azJNamN5TURFek16RXlMMmx0WmkxemFXeGxiblJzZVMxamNtVmhkR1Z6TFc1bGR5MXRiMjVsZVMxc1lYbGxjaTEzYUhrdGVXOTFJaXdpY21WeGRIbHdaU0k2TUN3aWNtOTFkR1VpT2lJdmNHOXpkQzg2YVdRdk9uTjFiVzFoY25raUxDSndiM04wY3lJNlczc2ljbTl2ZEY5aWJHOW5hV1FpT2pNNE1URTFOVFEyTENKeWIyOTBYM0J2YzNScFpDSTZJamN4TVRJMk1qY3dNVFV6TURNeE5qZ3dNQ0lzSW5CdmMzUnBaQ0k2SWpjeE1USTNNVFE1TXpneE5qazFPRGszTmlJc0ltSnNiMmRwWkNJNk1qWXpPRFV5T0RjekxDSnpiM1Z5WTJVaU9qTTVPWDFkZlE9PSZVPVBFQUpKTk5HTkImSz05ZjY0YWIzZWZlZWEwNWViYzRhYmJlOWVjYWI3N2RlNWIwMTFkOTQxMGNmOTJhNTQwYjkzMjI1OWI5MjFlNGU4JlI9Jy5yZXBsYWNlKC8mUj1bXiYkXSovLCcnKS5jb25jYXQoJyZSPScrZXNjYXBlKGRvY3VtZW50LnJlZmVycmVyKSkuc2xpY2UoMCwyMDAwKS5yZXBsYWNlKC8lLj8uPyQvLCcnKTt9KG5ldyBJbWFnZSgpKTs8L3NjcmlwdD48bm9zY3JpcHQ+PGltZyBzdHlsZT0icG9zaXRpb246YWJzb2x1dGU7ei1pbmRleDotMzMzNDt0b3A6MHB4O2xlZnQ6MHB4O3Zpc2liaWxpdHk6aGlkZGVuOyIgc3JjPSJodHRwczovL3B4LnNydmNzLnR1bWJsci5jb20vaW1waXh1P1Q9MTY3ODMzMjUwOCZKPWV5SjBlWEJsSWpvaWNHOXpkQ0lzSW5WeWJDSTZJbWgwZEhBNkx5OXpZWFJoYm1salkyRndhWFJoYkdsemRDNTBkVzFpYkhJdVkyOXRMM0J2YzNRdk5qUTNNakE1TnprMk1qY3lNREV6TXpFeUwybHRaaTF6YVd4bGJuUnNlUzFqY21WaGRHVnpMVzVsZHkxdGIyNWxlUzFzWVhsbGNpMTNhSGt0ZVc5MUlpd2ljbVZ4ZEhsd1pTSTZNQ3dpY205MWRHVWlPaUl2Y0c5emRDODZhV1F2T25OMWJXMWhjbmtpTENKd2IzTjBjeUk2VzNzaWNtOXZkRjlpYkc5bmFXUWlPak00TVRFMU5UUTJMQ0p5YjI5MFgzQnZjM1JwWkNJNklqY3hNVEkyTWpjd01UVXpNRE14Tmpnd01DSXNJbkJ2YzNScFpDSTZJamN4TVRJM01UUTVNemd4TmprMU9EazNOaUlzSW1Kc2IyZHBaQ0k2TWpZek9EVXlPRGN6TENKemIzVnlZMlVpT2pNNU9YMWRMQ0p1YjNOamNtbHdkQ0k2TVgwPSZVPVBFQUpKTk5HTkImSz0xM2JmYzYzY2Y5ZDRlOThiYTZlMDY3N2Y2ZmU5MDQ0MzA4ODE5Mjk3MmYzNzNiOWZkNTBjODc5YTVkNjk2MGJkJlI9Ij48L25vc2NyaXB0Pg==","711271471474966528":"PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIG5vbmNlPSJjSzVreW9zQ2xVS2RzZE1udEdGUFZVSzdNZ3MiPiFmdW5jdGlvbihzKXtzLnNyYz0naHR0cHM6Ly9weC5zcnZjcy50dW1ibHIuY29tL2ltcGl4dT9UPTE2NzgzMzI1MDgmSj1leUowZVhCbElqb2ljRzl6ZENJc0luVnliQ0k2SW1oMGRIQTZMeTl6WVhSaGJtbGpZMkZ3YVhSaGJHbHpkQzUwZFcxaWJISXVZMjl0TDNCdmMzUXZOalEzTWpBNU56azJNamN5TURFek16RXlMMmx0WmkxemFXeGxiblJzZVMxamNtVmhkR1Z6TFc1bGR5MXRiMjVsZVMxc1lYbGxjaTEzYUhrdGVXOTFJaXdpY21WeGRIbHdaU0k2TUN3aWNtOTFkR1VpT2lJdmNHOXpkQzg2YVdRdk9uTjFiVzFoY25raUxDSndiM04wY3lJNlczc2ljbTl2ZEY5aWJHOW5hV1FpT2pNek1UUTNNVGd4TUN3aWNtOXZkRjl3YjNOMGFXUWlPaUkzTVRFd09UWTBPVFV5TXpVd056SXdNREFpTENKd2IzTjBhV1FpT2lJM01URXlOekUwTnpFME56UTVOalkxTWpnaUxDSmliRzluYVdRaU9qSTJNemcxTWpnM015d2ljMjkxY21ObElqb3pPVGw5WFgwPSZVPURHT09BTEhMSEUmSz1kZDQ0YTU3MzA0NzUzMmFmYzEzMTFhNmEyM2Y1Y2FmZmIyMDkyNTZhMzk2NzlhZjkwNGI1ODJlOTk1ODU4ZjU0JlI9Jy5yZXBsYWNlKC8mUj1bXiYkXSovLCcnKS5jb25jYXQoJyZSPScrZXNjYXBlKGRvY3VtZW50LnJlZmVycmVyKSkuc2xpY2UoMCwyMDAwKS5yZXBsYWNlKC8lLj8uPyQvLCcnKTt9KG5ldyBJbWFnZSgpKTs8L3NjcmlwdD48bm9zY3JpcHQ+PGltZyBzdHlsZT0icG9zaXRpb246YWJzb2x1dGU7ei1pbmRleDotMzMzNDt0b3A6MHB4O2xlZnQ6MHB4O3Zpc2liaWxpdHk6aGlkZGVuOyIgc3JjPSJodHRwczovL3B4LnNydmNzLnR1bWJsci5jb20vaW1waXh1P1Q9MTY3ODMzMjUwOCZKPWV5SjBlWEJsSWpvaWNHOXpkQ0lzSW5WeWJDSTZJbWgwZEhBNkx5OXpZWFJoYm1salkyRndhWFJoYkdsemRDNTBkVzFpYkhJdVkyOXRMM0J2YzNRdk5qUTNNakE1TnprMk1qY3lNREV6TXpFeUwybHRaaTF6YVd4bGJuUnNlUzFqY21WaGRHVnpMVzVsZHkxdGIyNWxlUzFzWVhsbGNpMTNhSGt0ZVc5MUlpd2ljbVZ4ZEhsd1pTSTZNQ3dpY205MWRHVWlPaUl2Y0c5emRDODZhV1F2T25OMWJXMWhjbmtpTENKd2IzTjBjeUk2VzNzaWNtOXZkRjlpYkc5bmFXUWlPak16TVRRM01UZ3hNQ3dpY205dmRGOXdiM04wYVdRaU9pSTNNVEV3T1RZME9UVXlNelV3TnpJd01EQWlMQ0p3YjNOMGFXUWlPaUkzTVRFeU56RTBOekUwTnpRNU5qWTFNamdpTENKaWJHOW5hV1FpT2pJMk16ZzFNamczTXl3aWMyOTFjbU5sSWpvek9UbDlYU3dpYm05elkzSnBjSFFpT2pGOSZVPURHT09BTEhMSEUmSz0zYzViM2ViODUyZTM5MTljYWViZDA5ZmEwNTRjYWU5ZGFjODAzZTM4MzgzMzZmYWUxN2M1Y2IyMjA4ODY5MzY1JlI9Ij48L25vc2NyaXB0Pg=="};
+
+                        var analytics_frame = document.getElementById('ga_target');
+                        var analytics_iframe_loaded;
+                        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+                        var eventer = window[eventMethod];
+                        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+                        eventer(messageEvent,function(e) {
+                            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+                            if (message[0] == 'analytics_iframe_loaded') {
+                                analytics_iframe_loaded = true;
+                            }
+                        });
+
+                        $('.related-posts > article').waypoint(function() {
+                            if (!analytics_iframe_loaded) {
+                                return;
+                            }
+
+                            var post_id = $(this.element).data('post-id');
+                            if (typeof trackingPixels[post_id] == 'undefined' || !trackingPixels[post_id]) {
+                                return;
+                            }
+
+                            var trackingPixel = trackingPixels[post_id];
+
+                            analytics_frame.contentWindow.postMessage(
+                                ['tick_related_post', trackingPixel].join(';'),
+                                analytics_frame.src.split('/analytics.html')[0]
+                            );
+
+                            trackingPixels[post_id] = null;
+                        }, {
+                            offset: '100%'
+                        });
+                    });
+                </script>
+<iframe frameborder="0" height="1" id="ga_target" scrolling="no" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" width="1"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#" +
+                              "https://sataniccapitalist.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/post/647209796272013312/imf-silently-creates-new-money-layer-why-you?route=%2Fpost%2F%3Aid%2F%3Asummary'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script nonce="cK5kyosClUKdsdMntGFPVUK7Mgs" type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1678332507&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL3NhdGFuaWNjYXBpdGFsaXN0LnR1bWJsci5jb20vcG9zdC82NDcyMDk3OTYyNzIwMTMzMTIvaW1mLXNpbGVudGx5LWNyZWF0ZXMtbmV3LW1vbmV5LWxheWVyLXdoeS15b3UiLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii9wb3N0LzppZC86c3VtbWFyeSJ9&U=HCGGAKLGBJ&K=8254d8a3166acacd8e9248622f4a01d95101727a7622e827055d0895f074f461&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img src="https://px.srvcs.tumblr.com/impixu?T=1678332507&amp;J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL3NhdGFuaWNjYXBpdGFsaXN0LnR1bWJsci5jb20vcG9zdC82NDcyMDk3OTYyNzIwMTMzMTIvaW1mLXNpbGVudGx5LWNyZWF0ZXMtbmV3LW1vbmV5LWxheWVyLXdoeS15b3UiLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii9wb3N0LzppZC86c3VtbWFyeSIsIm5vc2NyaXB0IjoxfQ==&amp;U=HCGGAKLGBJ&amp;K=c11c6246bbc84bd5f585afab7ac706d40c67d68dd5f6dbe79b90e199f5f826c8&amp;R=" style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;"/></noscript><script nonce="cK5kyosClUKdsdMntGFPVUK7Mgs" type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1678332507&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9zYXRhbmljY2FwaXRhbGlzdC50dW1ibHIuY29tL3Bvc3QvNjQ3MjA5Nzk2MjcyMDEzMzEyL2ltZi1zaWxlbnRseS1jcmVhdGVzLW5ldy1tb25leS1sYXllci13aHkteW91IiwicmVxdHlwZSI6MCwicm91dGUiOiIvcG9zdC86aWQvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiNjQ3MjA5Nzk2MjcyMDEzMzEyIiwiYmxvZ2lkIjoyNjM4NTI4NzMsInNvdXJjZSI6MzN9XX0=&U=PFALMCBCED&K=7fb0be57865d9a3f39bd30296519069370fae480c9771ba891d746a13e9cb356&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img src="https://px.srvcs.tumblr.com/impixu?T=1678332507&amp;J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9zYXRhbmljY2FwaXRhbGlzdC50dW1ibHIuY29tL3Bvc3QvNjQ3MjA5Nzk2MjcyMDEzMzEyL2ltZi1zaWxlbnRseS1jcmVhdGVzLW5ldy1tb25leS1sYXllci13aHkteW91IiwicmVxdHlwZSI6MCwicm91dGUiOiIvcG9zdC86aWQvOnN1bW1hcnkiLCJwb3N0cyI6W3sicG9zdGlkIjoiNjQ3MjA5Nzk2MjcyMDEzMzEyIiwiYmxvZ2lkIjoyNjM4NTI4NzMsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&amp;U=PFALMCBCED&amp;K=37ebe43bf4052ca83459ed47f4ecaba0acd9273af6078e546d7cf0673ddf6fde&amp;R=" style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;"/></noscript><noscript data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;c86f8a500596474a7ef5034081f694bd&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:false,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=793c93bae6eb1a776634ad1a85e64aff&quot;,&quot;tumblelogName&quot;:&quot;sataniccapitalist&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;Satanic Capitalist&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/64.media.tumblr.com\/d75dfb27e5d4e4b90358796b88d35c67\/54854a327c1d3f90-a7\/s64x64u_c1\/6527ba93907dddb2dd8c41009d463ad29211087f.jpg&quot;,&quot;tumblelogAvatar128&quot;:&quot;https:\/\/64.media.tumblr.com\/d75dfb27e5d4e4b90358796b88d35c67\/54854a327c1d3f90-a7\/s128x128u_c1\/b169c306d9e7a231e1fb79cccc3e2c09b57334e0.jpg&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/sataniccapitalist.tumblr.com&quot;,&quot;isOptica&quot;:true,&quot;isCustomTheme&quot;:false,&quot;themeHeaderImage&quot;:&quot;https:\/\/64.media.tumblr.com\/7a212f37b71b2db26634d26f24452e93\/54854a327c1d3f90-1b\/s2048x3072_c0,10209,100000,89529\/609f7ee3c55b5d3d00e5338c80a3f24a477c3081.jpg&quot;,&quot;themeBackgroundColor&quot;:&quot;#FAFAFA&quot;,&quot;themeTitleColor&quot;:&quot;#444444&quot;,&quot;themeAccentColor&quot;:&quot;#529ECC&quot;,&quot;brag&quot;:true,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:false,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;single_post&quot;,&quot;currentPage&quot;:1,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;647209796272013312&quot;,&quot;src&quot;:&quot;https:\/\/sataniccapitalist.tumblr.com\/post\/647209796272013312\/imf-silently-creates-new-money-layer-why-you&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;openInPeeprUrl&quot;:&quot;https:\/\/www.tumblr.com\/sataniccapitalist&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_continue_or_install_cta&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_continue_or_install_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;bn_header_open_btn&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:14399,&quot;installUrlOpenFailed&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_header_app_open_failed&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_header_app_open_failed\u0026mt=8&quot;},&quot;loginWallVariant&quot;:&quot;small_center&quot;}},&quot;Flags&quot;:{&quot;features&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwibW9iaWxlX3dlYl9nYXRlIjp0cnVlLCJzYWZlX21vZGUiOnRydWUsInNhZmVfbW9kZV9lbmFibGVkIjp0cnVlLCJrZXljb21tYW5kX2F1dG9fcGFnaW5hdGUiOnRydWUsImxvZ2dlZF9vdXRfc2VhcmNoIjp0cnVlLCJrcmFrZW5fd2ViX2xvZ2dpbmdfbGlicmFyeSI6dHJ1ZSwibGl2ZXBob3Rvc193ZWIiOnRydWUsInVzZXJfdGFnX2ZpbHRlcmluZyI6dHJ1ZSwic2FmZV9tb2RlX293bl9wb3N0Ijp0cnVlLCJwcm9qZWN0X3hfYXBwZWFsIjp0cnVlLCJtb2JpbGVfd2ViX3Bob3Rvc2V0cyI6dHJ1ZSwiaGlkZV9kZWZhdWx0X2hlYWRlcnNfYmxvZ19jYXJkcyI6dHJ1ZSwibm90aWZpY2F0aW9uX3JlcGx5X2xpbmtfdG9fbm90ZXMiOnRydWUsInR5cGluZ19pbmRpY2F0b3Jfd3JpdGUiOnRydWUsInR1bWJscl92aWRlb19zcG9uc29yZWRfZGF5Ijp0cnVlLCJjYXB0Y2hhOnVzZV9yZWNhcHRjaGEyIjp0cnVlLCJsaXR0bGVfc2lzdGVyIjp0cnVlLCJsb2dfbGFkeSI6dHJ1ZSwicmVkcG9wX3Bvc3RfZm9ybV9tb2JpbGVfY3JlYXRlIjp0cnVlLCJsZWdhY3lfcG9zdF9mb3JtX2J1dHRvbnNfbGlua190b19yZWRwb3AiOnRydWUsInNob3dfdHNwX2NsaWNrX3Rocm91Z2hfdG9nZ2xlIjp0cnVlLCJkYXJsYV9hZF9mZWVkYmFjayI6dHJ1ZSwic3RhdHVzX2luZGljYXRvciI6dHJ1ZSwiY29udmVyc2F0aW9uYWxfbm90aWZpY2F0aW9ucyI6dHJ1ZSwiZGlzYWJsZV95YWhvb19iX2Nvb2tpZSI6dHJ1ZSwibGl2ZXBob3RvcyI6dHJ1ZX0=&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1678332507000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s's post?%3$sIf it violates our community guidelines, we'll remove it.%4$s&quot;:&quot;%1$sReport %2$s's reblog?%3$sIf it violates our community guidelines, we'll remove it.%4$s&quot;,&quot;%1$sReport %2$s's reply?%3$sIf it violates our community guidelines, we'll remove it.%4$s&quot;:&quot;%1$sReport %2$s's reblog?%3$sIf it violates our community guidelines, we'll remove it.%4$s&quot;,&quot;%1$sDelete your tip??%2$s&quot;:&quot;%1$sDelete your tip?%2$s&quot;,&quot;Deleting your tip&quot;:&quot;Deleting your tip will only remove it from the replies tab and notes. %1$sYou won't receive a refund of your tip.%2$s For further help contact %3$sTumblr Support%4$s.&quot;}}" id="bootloader"></noscript><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=793c93bae6eb1a776634ad1a85e64aff"></script></body>
+</html>

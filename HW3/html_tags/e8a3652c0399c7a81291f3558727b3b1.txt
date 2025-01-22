@@ -1,0 +1,1412 @@
+<!DOCTYPE html>
+
+<!--[if lte IE 9]>         <html class="no-js lt-ie9 lt-ie10"  itemscope itemtype="http://schema.org/Article"  lang="en-US"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" itemscope="" itemtype="http://schema.org/Article" lang="en-US"> <!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<!-- WP Header -->
+<script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Oswald:400']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+<meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
+<meta content="Who Are Nancy Pelosi &amp; Chuck Schumer?" property="og:title"/>
+<meta content="Ever wonder just who are Nancy Pelosi and Chuck Schumer, other than a Representative and a Senator?  Let us open up some information on both of these people s" property="og:description"/>
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2020/05/schumer-pelos-hi-rez.jpg" property="og:image"/>
+<meta content="1400" property="og:image:width"/>
+<meta content="788" property="og:image:height"/>
+<meta content="article" property="og:type"/>
+<meta content="2020-05-19 14:21:07" property="og:article:published_time"/>
+<meta content="2020-05-19 14:21:07" property="og:article:modified_time"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Who Are Nancy Pelosi &amp; Chuck Schumer?" name="twitter:title">
+<meta content="Ever wonder just who are Nancy Pelosi and Chuck Schumer, other than a Representative and a Senator?  Let us open up some information on both of these people s" name="twitter:description"/>
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2020/05/schumer-pelos-hi-rez.jpg" name="twitter:image"/>
+<meta content="Leon Puissegur" name="author"/>
+<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Who Are Nancy Pelosi &amp; Chuck Schumer? - The Washington Standard</title>
+<link href="https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/" rel="canonical"/>
+<meta content="https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/" property="og:url"/>
+<meta content="The Washington Standard" property="og:site_name"/>
+<meta content="2020-05-19T18:21:07+00:00" property="article:published_time"/>
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2020/05/schumer-pelos-hi-rez.jpg" property="og:image"/>
+<meta content="1400" property="og:image:width"/>
+<meta content="788" property="og:image:height"/>
+<meta content="image/jpeg" property="og:image:type"/>
+<meta content="Leon Puissegur" name="author"/>
+<meta content="Written by" name="twitter:label1"/>
+<meta content="Leon Puissegur" name="twitter:data1"/>
+<meta content="Est. reading time" name="twitter:label2"/>
+<meta content="24 minutes" name="twitter:data2"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/","url":"https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/","name":"Who Are Nancy Pelosi & Chuck Schumer? - The Washington Standard","isPartOf":{"@id":"https://thewashingtonstandard.com/#website"},"primaryImageOfPage":{"@id":"https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/#primaryimage"},"image":{"@id":"https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/#primaryimage"},"thumbnailUrl":"https://thewashingtonstandard.com/wp-content/uploads/2020/05/schumer-pelos-hi-rez.jpg","datePublished":"2020-05-19T18:21:07+00:00","dateModified":"2020-05-19T18:21:07+00:00","author":{"@id":"https://thewashingtonstandard.com/#/schema/person/f0b22214a9eae808e58b40c5410521ca"},"breadcrumb":{"@id":"https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/#primaryimage","url":"https://thewashingtonstandard.com/wp-content/uploads/2020/05/schumer-pelos-hi-rez.jpg","contentUrl":"https://thewashingtonstandard.com/wp-content/uploads/2020/05/schumer-pelos-hi-rez.jpg","width":1400,"height":788},{"@type":"BreadcrumbList","@id":"https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://thewashingtonstandard.com/"},{"@type":"ListItem","position":2,"name":"Who Are Nancy Pelosi &#038; Chuck Schumer?"}]},{"@type":"WebSite","@id":"https://thewashingtonstandard.com/#website","url":"https://thewashingtonstandard.com/","name":"The Washington Standard","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://thewashingtonstandard.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://thewashingtonstandard.com/#/schema/person/f0b22214a9eae808e58b40c5410521ca","name":"Leon Puissegur","description":"Leon Puissegur is a Disabled Vietnam Veteran with 3 children and 9 grandchildren. He has been married to the same wonderful lady for 43 years. He is an award-winning author and has been writing opinion pieces over the years and in just the last few years has written 4 books and a large number of articles on many sites. You can purchase his books at Amazon.","sameAs":["https://thewashingtonstandard.com"],"url":"https://thewashingtonstandard.com/author/leonpuissegur/"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//maxcdn.bootstrapcdn.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://thewashingtonstandard.com/feed/" rel="alternate" title="The Washington Standard » Feed" type="application/rss+xml"/>
+<link href="https://thewashingtonstandard.com/comments/feed/" rel="alternate" title="The Washington Standard » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/thewashingtonstandard.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://thewashingtonstandard.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link href="https://thewashingtonstandard.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.0.3" id="sab_font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/plugins/simple-author-bio/includes/../css/style.css?ver=6.0.3" id="sab_custom_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/components/font-icons/entypo/css/entypo.css?ver=1.5.4" id="vwcss-icon-entypo-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/components/font-icons/social-icons/css/zocial.css?ver=1.5.4" id="vwcss-icon-social-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/css/bootstrap.css?ver=1.5.4" id="vwcss-bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-mmenu/css/jquery.mmenu.custom.css?ver=1.5.4" id="vwcss-mmenu-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/style.css?ver=1.5.4" id="vwcss-theme-root-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso-child/style.css?ver=1.5.4" id="vwcss-theme-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<link href="https://thewashingtonstandard.com/wp-json/" rel="https://api.w.org/"/><link href="https://thewashingtonstandard.com/wp-json/wp/v2/posts/77318" rel="alternate" type="application/json"/><meta content="WordPress 6.0.3" name="generator"/>
+<link href="https://thewashingtonstandard.com/?p=77318" rel="shortlink"/>
+<link href="https://thewashingtonstandard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthewashingtonstandard.com%2Fwho-are-nancy-pelosi-chuck-schumer%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://thewashingtonstandard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthewashingtonstandard.com%2Fwho-are-nancy-pelosi-chuck-schumer%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<!-- Site Meta From Theme -->
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://thewashingtonstandard.com/xmlrpc.php" rel="pingback"/>
+<meta content="" name="description"/>
+<link href="//www.google-analytics.com" rel="dns-prefetch"/>
+<meta content="width=device-width,initial-scale=1.0,user-scalable=yes" name="viewport"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconapple.jpg" rel="shortcut icon"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconapple1.jpg" rel="apple-touch-icon"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconretina.jpg" rel="apple-touch-icon" sizes="114x114"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconipad.jpg" rel="apple-touch-icon" sizes="72x72"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconipadretiina.jpg" rel="apple-touch-icon" sizes="144x144"/>
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- End Site Meta From Theme --> <meta content="wordpress-plugin" name="onesignal">
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://thewashingtonstandard.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'daff2871-66e5-457e-8e41-9a9a7677efa1';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://thewashingtonstandard.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.32d5e245-163c-40cb-8f57-67057af17423";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['siteName'] = "https://thewashingtonstandard.com";
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-left';
+oneSignal_options['notifyButton']['theme'] = 'inverse';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return OneSignal.isPushNotificationsEnabled()
+                      .then(function(isPushEnabled) {
+                          return !isPushEnabled;
+                      });
+            };
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/cropped-TheWashingtonStandard_Iconipad-150x150.jpg" rel="icon" sizes="32x32">
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/cropped-TheWashingtonStandard_Iconipad-300x300.jpg" rel="icon" sizes="192x192">
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/cropped-TheWashingtonStandard_Iconipad-300x300.jpg" rel="apple-touch-icon">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2015/04/cropped-TheWashingtonStandard_Iconipad-300x300.jpg" name="msapplication-TileImage">
+<style id="vw-custom-font" type="text/css">
+</style>
+<!-- Theme's Custom CSS -->
+<style type="text/css">
+		/* Fix admin bar */
+		.admin-bar .mm-page { padding-top: 32px !important; }
+		@media screen and ( max-width: 782px ) {
+			.admin-bar .mm-page { padding-top: 46px !important; }
+		}
+
+		html { margin-top: 0px !important; }
+		* html body { margin-top: 0px !important; }
+		@media screen and ( max-width: 782px ) {
+			html { margin-top: 0px !important; }
+			* html body { margin-top: 0px !important; }
+		}
+		/* End */
+		
+		a, a:hover, a:focus,
+		.vw-page-title-box .vw-label,
+		.vw-post-categories a,
+		.vw-page-subtitle,
+		.vw-breaking-news-date,
+		.vw-date-box-date,
+		.vw-post-style-classic .vw-post-box-title a:hover,
+		.vw-post-likes-count.vw-post-liked .vw-icon,
+		.vw-menu-location-bottom .main-menu-link:hover,
+		.vw-accordion-header.ui-accordion-header-active span,
+		.vw-404-text,
+		#wp-calendar thead,
+		.vw-accordion .ui-state-hover span,
+		.vw-breadcrumb a:hover,
+		h1 em, h2 em, h3 em, h4 em, h5 em, h6 em,
+		.vw-post-share-big-number .vw-number
+		{
+			color: #0066bf;
+		}
+
+		.vw-site-social-profile-icon:hover,
+		.vw-breaking-news-label,
+		.vw-author-socials a:hover,
+		.vw-post-style-box:hover,
+		.vw-post-box:hover .vw-post-format-icon i,
+		.vw-gallery-direction-button:hover,
+		.widget_tag_cloud .tagcloud a:hover,
+		.vw-page-navigation-pagination .page-numbers:hover,
+		.vw-page-navigation-pagination .page-numbers.current,
+		#wp-calendar tbody td:hover,
+		.vw-widget-category-post-count,
+		.vwspc-section-full-page-link:hover .vw-button,
+		
+		.vw-tag-links a,
+		.vw-hamburger-icon:hover,
+		.pace .pace-progress,
+		.vw-review-score-percentage .vw-review-item-score, .vw-review-score-points .vw-review-item-score,
+		.vw-pricing-featured .vw-pricing-title,
+		.vw-menu-location-top .menu-item-depth-0:after,
+		.no-touch input[type=button]:hover, .no-touch input[type=submit]:hover, .no-touch button:hover, .no-touch .vw-button:hover, .no-touch .woocommerce a.button:hover, .no-touch .woocommerce button.button:hover, .no-touch .woocommerce input.button:hover, .no-touch .woocommerce #respond input#submit:hover,
+		/*.vw-page-content .vw-page-title-box .vw-label,*/
+		.vw-breaking-news-title,
+		.vw-quote-icon,
+		.vw-dropcap-circle, .vw-dropcap-box,
+		.vw-accordion .ui-icon:before,
+		.vw-post-categories .vw-sticky-link,
+		.no-touch .vw-swiper-arrow-left:hover, .no-touch .vw-swiper-arrow-right:hover,
+		.vw-post-categories > div,
+		.vw-previous-link-page:hover, .vw-next-link-page:hover,
+		.vw-review-summary-bar .vw-review-score-bar,
+		.vw-review-box-summary .vw-review-total-score,
+		.vw-author-socials .vw-icon-social,
+		.vw-instant-search-buton:hover,
+		.vw-scroll-to-top
+		{
+			background-color: #0066bf;
+		}
+
+		.vw-about-author-section .vw-author-name,
+		.vw-post-meta-large .vw-date-box,
+		#wp-calendar caption,
+		.vw-widget-feedburner-text,
+		.vw-login-title,
+		.widget_search label,
+		.vw-author-socials .vw-icon-social,
+		.vw-tabs.vw-style-top-tab .vw-tab-titles,
+		.vw-fixed-tab .vw-fixed-tab-title:hover, .vw-fixed-tab .vw-fixed-tab-title.is-active,
+		.vw-site-footer
+		{
+			border-color: #0066bf;
+		}
+
+		.vw-tabs.vw-style-top-tab .vw-tab-title.active {
+			background-color: #0066bf;
+			border-color: #0066bf;
+		}
+
+		/* Header font */
+		input[type=button], input[type=submit], button, .vw-button,
+		.woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit,
+		.vw-header-font-family,
+		.vw-pricing-price,
+		.vw-quote, blockquote,
+		.vw-copyright,
+		.vw-mega-menu-type-links-4-cols .menu-item-depth-1 > .menu-link {
+			font-family: Georgia, serif;
+		}
+
+		/* Body font */
+		.vw-breaking-news-link {
+			font-family: Georgia, serif;
+		}
+
+		.vw-page-title-section.vw-has-background .col-sm-12 {
+			padding-top: 0px;
+		}
+
+		
+		/* bbPress */
+		
+		
+		/* Custom Styles */
+		.vw-post-box .vw-post-box-title, blockquote {
+text-transform: none;
+}
+
+em {
+    color: #000000;
+}
+
+.vw-breadcrumb {
+    font-size: 16px;
+}
+
+.vw-post-style-small-top-thumbnail .vw-post-box-title {
+    font-size: 16px;
+}
+
+.vw-menu .menu-item > .sub-menu {
+	z-index: 1001;
+}	</style>
+<!-- End Theme's Custom CSS -->
+<style class="options-output" title="dynamic-css" type="text/css">.vw-site-header-inner{padding-top:15px;padding-bottom:10px;}h1, h2, h3, h4, h5, h6, .vw-header-font,.vw-social-counter-count,.vw-page-navigation-pagination .page-numbers,#wp-calendar caption,.vw-accordion-header-text,.vw-tab-title,.vw-post-categories,.vw-review-item-title,.vw-previous-link-page, .vw-next-link-page,#bbpress-forums .bbp-topic-title .bbp-topic-permalink, #bbpress-forums .bbp-forum-info .bbp-forum-title,#bbpress-forums #bbp-user-wrapper h2.entry-title,.widget.widget_display_topics li .bbp-forum-title, .widget.widget_display_replies li .bbp-forum-title{font-family:Georgia, serif;text-transform:capitalize;letter-spacing:0px;font-weight:400;font-style:normal;color:#000000;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h1, h2, h3, h4, h5, h6, .vw-header-font,.wf-loading .vw-social-counter-count,.wf-loading .vw-page-navigation-pagination .page-numbers,.wf-loading #wp-calendar caption,.wf-loading .vw-accordion-header-text,.wf-loading .vw-tab-title,.wf-loading .vw-post-categories,.wf-loading .vw-review-item-title,.wf-loading .vw-previous-link-page, .vw-next-link-page,.wf-loading #bbpress-forums .bbp-topic-title .bbp-topic-permalink, #bbpress-forums .bbp-forum-info .bbp-forum-title,.wf-loading #bbpress-forums #bbp-user-wrapper h2.entry-title,.wf-loading .widget.widget_display_topics li .bbp-forum-title, .widget.widget_display_replies li .bbp-forum-title,{opacity: 0;}.ie.wf-loading h1, h2, h3, h4, h5, h6, .vw-header-font,.ie.wf-loading .vw-social-counter-count,.ie.wf-loading .vw-page-navigation-pagination .page-numbers,.ie.wf-loading #wp-calendar caption,.ie.wf-loading .vw-accordion-header-text,.ie.wf-loading .vw-tab-title,.ie.wf-loading .vw-post-categories,.ie.wf-loading .vw-review-item-title,.ie.wf-loading .vw-previous-link-page, .vw-next-link-page,.ie.wf-loading #bbpress-forums .bbp-topic-title .bbp-topic-permalink, #bbpress-forums .bbp-forum-info .bbp-forum-title,.ie.wf-loading #bbpress-forums #bbp-user-wrapper h2.entry-title,.ie.wf-loading .widget.widget_display_topics li .bbp-forum-title, .widget.widget_display_replies li .bbp-forum-title,{visibility: hidden;}.vw-menu-location-main .main-menu-link{font-family:Oswald;text-transform:capitalize;letter-spacing:1px;font-weight:400;font-style:normal;font-size:16px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .vw-menu-location-main .main-menu-link,{opacity: 0;}.ie.wf-loading .vw-menu-location-main .main-menu-link,{visibility: hidden;}body,cite{font-family:Georgia, serif;font-weight:400;font-style:normal;color:#000000;font-size:16px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body,.wf-loading cite,{opacity: 0;}.ie.wf-loading body,.ie.wf-loading cite,{visibility: hidden;}.vw-logo-link{margin-top:00px;margin-right:0;margin-bottom:0;margin-left:0;}.vw-site-header,.vw-site-header-background{background-color:#ffffff;}.vw-site-wrapper,.vw-page-navigation-pagination{background-color:#ffffff;}.vw-top-bar{background:#ffffff;}.vw-menu-location-top .main-menu-link{color:#888888;}.vw-menu-location-top .main-menu-link:hover{color:#ffffff;}.vw-menu-location-top .sub-menu,.vw-menu-location-top .main-menu-item:hover .main-menu-link{background:#2082b5;}.vw-menu-location-top .sub-menu-link{color:#888888;}.vw-menu-location-top .sub-menu-link:hover{color:#ffffff;}.vw-menu-location-top .sub-menu-link:hover{background:#2082b5;}.vw-menu-main-inner{background:#2082b5;}.vw-menu-location-main .main-menu-link{color:#ffffff;}.vw-menu-location-main .main-menu-link:hover{color:#ffffff;}.vw-menu-location-main .main-menu-item:hover .main-menu-link{background:#000000;}.vw-menu-location-main .sub-menu{background:#2082b5;}.vw-menu-location-main .sub-menu-link{color:#ffffff;}.vw-menu-location-main .sub-menu-link:hover{color:#ffffff;}.vw-menu-location-main .sub-menu-link:hover{background:#000000;}.vw-site-footer{background-color:#222222;}.vw-site-footer-sidebars h1,.vw-site-footer-sidebars h2,.vw-site-footer-sidebars h3,.vw-site-footer-sidebars h4,.vw-site-footer-sidebars h5,.vw-site-footer-sidebars h6,.vw-site-footer-sidebars .widget-title,.vw-site-footer-sidebars .vw-widget-category-title,.vw-site-footer-sidebars .vw-social-counter-count{color:#ffffff;}.vw-site-footer-sidebars{color:#dcdcdc;}.vw-bottom-bar{background:#1e73be;}.vw-bottom-bar{color:#ffffff;}</style><script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="https://cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=e9690636-be5b-4e59-9d9b-2c2f234de825";s.id="infinity";s.setAttribute("data-guid","e9690636-be5b-4e59-9d9b-2c2f234de825");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
+<script async="" src="https://cdn1.lockerdomecdn.com/embeds/alive2god_thewashingtonstandard_sticky.js"></script>
+<div id="ld-4399-7086"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:14383647973389414,size:[0, 0],id:"ld-4399-7086"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-64272499-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-64272499-1');
+</script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/reformmedia-network/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<!-- End WP Header -->
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64272499-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=e9690636-be5b-4e59-9d9b-2c2f234de825";s.id="infinity";s.setAttribute("data-guid","e9690636-be5b-4e59-9d9b-2c2f234de825");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
+</meta></link></link></link></meta></meta></meta></head>
+<body class="post-template-default single single-post postid-77318 single-format-standard vw-site-enable-sticky-menu vw-blog-enable-masonry-layout vw-site-layout-full-width vw-post-layout-classic-no-featured-image" id="site-top">
+<!-- Site Wrapper -->
+<div class="vw-site-wrapper">
+<!-- Top Bar -->
+<div class="vw-top-bar">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-top-bar-inner">
+<div class="vw-top-bar-left">
+<!-- Top Menu -->
+<nav class="vw-menu-top-wrapper">
+<ul class="vw-menu vw-menu-location-top vw-menu-type-text clearfix" id="menu-top-menu"><li class="nav-menu-item-46005 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/privacy-policy/"><span>Privacy Policy</span></a></li>
+<li class="nav-menu-item-46006 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/contact/"><span>Contact</span></a></li>
+<li class="nav-menu-item-46010 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/about-us/"><span>About Us</span></a></li>
+<li class="nav-menu-item-49919 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link main-menu-link" href="http://nationalheadlinestoday.com"><span>National Headlines Today</span></a></li>
+<li class="nav-menu-item-49914 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-link main-menu-link"><span>Store</span></a>
+<ul class="sub-menu menu-odd menu-depth-1">
+<li class="nav-menu-item-49915 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://store.keepandbear.com?aff=38"><span>Keep &amp; Bear Arms</span></a></li>
+<li class="nav-menu-item-49911 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://shop.real.video?rfsn=1696931.be2bf6&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=1696931.be2bf6"><span>All Natural Products</span></a></li>
+<li class="nav-menu-item-49912 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://mydoterra.com/brownfamily"><span>Essential Oils</span></a></li>
+<li class="nav-menu-item-49910 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://www.ronpaulcurriculum.com/public/3346.cfm?affID=Alive2god"><span>Home Educate Your Kids For Free</span></a></li>
+<li class="nav-menu-item-49916 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://amzn.to/2DSKByF"><span>Amazon</span></a></li>
+<li class="nav-menu-item-49918 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://shareasale.com/r.cfm?b=530172&amp;u=1113712&amp;m=49871&amp;urllink=&amp;afftrack="><span>Bulletproof Vests</span></a></li>
+</ul>
+</li>
+</ul></nav>
+<!-- End Top Menu --> </div>
+<div class="vw-top-bar-right">
+<span class="vw-site-social-profile"><a class="vw-site-social-profile-icon vw-site-social-facebook" href="https://www.facebook.com/thewashingtonstandard" title="Facebook"><i class="vw-icon icon-social-facebook"></i></a><a class="vw-site-social-profile-icon vw-site-social-twitter" href="https://twitter.com/FPPTim" title="Twitter"><i class="vw-icon icon-social-twitter"></i></a><a class="vw-site-social-profile-icon vw-site-social-youtube" href="https://bit.ly/settingbrushfires" title="Youtube"><i class="vw-icon icon-social-youtube"></i></a></span>
+<a class="vw-instant-search-buton main-menu-link"><i class="vw-icon icon-entypo-search"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- End Top Bar -->
+<!-- Site Header : Left Logo -->
+<header class="vw-site-header vw-site-header-style-centered-logo" itemscope="" itemtype="http://schema.org/WPHeader">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-site-header-inner">
+<!-- Logo -->
+<div class="vw-logo-wrapper" itemscope="" itemtype="http://schema.org/Organization">
+<a class="vw-logo-link" href="https://thewashingtonstandard.com" itemprop="url">
+<!-- Site Logo -->
+<!-- Retina Site Logo -->
+<img alt="The Washington Standard" class="vw-logo-2x" height="134" itemprop="logo" src="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header.png" width="600"/>
+<img alt="The Washington Standard" class="vw-logo" height="134" itemprop="logo" src="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" width="600"/>
+</a>
+</div>
+<!-- End Logo -->
+<div class="vw-mobile-nav-button-wrapper">
+<span class="vw-mobile-nav-button">
+<span class="vw-hamburger-icon"><span></span></span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Main Menu -->
+<nav class="vw-menu-main-wrapper" id="vw-menu-main" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-menu-main-inner">
+<ul class="vw-menu vw-menu-location-main vw-menu-type-mega-post" id="menu-home-menu"><li class="nav-menu-item-48 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-4"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/us-news/" itemprop="url"><span>US</span></a></li>
+<li class="nav-menu-item-50 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-6"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/politics/" itemprop="url"><span>Politics</span></a></li>
+<li class="nav-menu-item-66336 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent vw-mega-menu-type-classic vw-cat-id-18"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/commentary/" itemprop="url"><span>Commentary</span></a></li>
+<li class="nav-menu-item-49 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-8"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/constitutionandlaw/" itemprop="url"><span>Constitution &amp; Law</span></a></li>
+<li class="nav-menu-item-51 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-5"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/worldnews/" itemprop="url"><span>World</span></a></li>
+<li class="nav-menu-item-58 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-11"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/economy/" itemprop="url"><span>Economy</span></a></li>
+<li class="nav-menu-item-49947 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom vw-mega-menu-type-classic"><a class="menu-link main-menu-link" href="http://gunsinthenews.com" itemprop="url"><span>Gun News</span></a></li>
+<li class="nav-menu-item-49946 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom vw-mega-menu-type-classic"><a class="menu-link main-menu-link" href="http://nationalheadlinestoday.com" itemprop="url"><span>National Headlines Today</span></a></li>
+<li class="nav-menu-item-49938 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children vw-mega-menu-type-classic"><a class="menu-link main-menu-link" itemprop="url"><span>Store</span></a><div class="sub-menu-wrapper">
+<ul class="sub-menu menu-odd menu-depth-1">
+<li class="nav-menu-item-49940 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://store.keepandbear.com?aff=38" itemprop="url"><span>Keep &amp; Bear Arms</span></a></li>
+<li class="nav-menu-item-49941 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://shop.real.video?rfsn=1696931.be2bf6&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=1696931.be2bf6" itemprop="url"><span>All Natural Products</span></a></li>
+<li class="nav-menu-item-49942 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://mydoterra.com/brownfamily" itemprop="url"><span>Essential Oils</span></a></li>
+<li class="nav-menu-item-49943 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://www.ronpaulcurriculum.com/public/3346.cfm?affID=Alive2god" itemprop="url"><span>Home Educate Your Kids For Free</span></a></li>
+<li class="nav-menu-item-49944 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://amzn.to/2DSKByF" itemprop="url"><span>Amazon</span></a></li>
+<li class="nav-menu-item-49945 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://shareasale.com/r.cfm?b=530172&amp;u=1113712&amp;m=49871&amp;urllink=&amp;afftrack=" itemprop="url"><span>Bulletproof Vests</span></a></li>
+</ul>
+</div>
+</li>
+<li class="nav-menu-item-56277 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page vw-mega-menu-type-classic"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/about-us/" itemprop="url"><span>About Us</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<!-- End Main Menu -->
+<!-- Mobile Menu -->
+<nav class="vw-menu-mobile-wrapper">
+<ul class="vw-menu-location-mobile" id="menu-home-menu-1"><li class="vw-mobile-additional-buttons"> <span class="vw-search-buton main-menu-item">
+<a class="vw-search-buton" href="https://thewashingtonstandard.com/search/"><i class="vw-icon icon-iconic-search"></i></a>
+</span>
+</li><li class="nav-menu-item-48 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/us-news/"><span>US</span></a></li>
+<li class="nav-menu-item-50 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/politics/"><span>Politics</span></a></li>
+<li class="nav-menu-item-66336 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/commentary/"><span>Commentary</span></a></li>
+<li class="nav-menu-item-49 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/constitutionandlaw/"><span>Constitution &amp; Law</span></a></li>
+<li class="nav-menu-item-51 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/worldnews/"><span>World</span></a></li>
+<li class="nav-menu-item-58 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/economy/"><span>Economy</span></a></li>
+<li class="nav-menu-item-49947 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link main-menu-link" href="http://gunsinthenews.com"><span>Gun News</span></a></li>
+<li class="nav-menu-item-49946 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link main-menu-link" href="http://nationalheadlinestoday.com"><span>National Headlines Today</span></a></li>
+<li class="nav-menu-item-49938 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-link main-menu-link"><span>Store</span></a>
+<ul class="sub-menu menu-odd menu-depth-1">
+<li class="nav-menu-item-49940 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://store.keepandbear.com?aff=38"><span>Keep &amp; Bear Arms</span></a></li>
+<li class="nav-menu-item-49941 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://shop.real.video?rfsn=1696931.be2bf6&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=1696931.be2bf6"><span>All Natural Products</span></a></li>
+<li class="nav-menu-item-49942 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://mydoterra.com/brownfamily"><span>Essential Oils</span></a></li>
+<li class="nav-menu-item-49943 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://www.ronpaulcurriculum.com/public/3346.cfm?affID=Alive2god"><span>Home Educate Your Kids For Free</span></a></li>
+<li class="nav-menu-item-49944 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://amzn.to/2DSKByF"><span>Amazon</span></a></li>
+<li class="nav-menu-item-49945 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://shareasale.com/r.cfm?b=530172&amp;u=1113712&amp;m=49871&amp;urllink=&amp;afftrack="><span>Bulletproof Vests</span></a></li>
+</ul>
+</li>
+<li class="nav-menu-item-56277 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/about-us/"><span>About Us</span></a></li>
+</ul>
+</nav>
+<!-- End Mobile Menu --></header>
+<!-- End Site Header : Left Logo -->
+<div class="vw-page-wrapper clearfix vw-sidebar-position-right">
+<div class="container">
+<div class="row">
+<div class="vw-page-content" itemprop="articleBody" role="main">
+<article class="vw-main-post post-77318 post type-post status-publish format-standard has-post-thumbnail hentry category-commentary">
+<div class="vw-breadcrumb vw-breadcrumb-envirra"><span><span typeof="v:Breadcrumb"><a class="home" href="https://thewashingtonstandard.com/" property="v:title" rel="v:url">Home</a></span><span class="vw-breadcrumb-separator">»</span><span typeof="v:Breadcrumb"><a href="https://thewashingtonstandard.com/category/commentary/" property="v:title" rel="v:url" title="Commentary">Commentary</a></span><span class="vw-breadcrumb-separator">»</span><span class="vw-breadcrumb-item-last">Who Are Nancy Pelosi &amp; Chuck Schumer?</span></span></div>
+<div class="vw-post-categories"><div><a class="vw-category-link vw-cat-id-18" href="https://thewashingtonstandard.com/category/commentary/" rel="category" title="View all posts in Commentary">Commentary</a></div></div>
+<h1 class="entry-title">Who Are Nancy Pelosi &amp; Chuck Schumer?</h1>
+<span class="author vcard hidden"><span class="fn">Leon Puissegur</span></span>
+<span class="updated hidden">2020-05-19</span>
+<div class="vw-post-meta vw-post-meta-large">
+<div class="vw-post-meta-inner">
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/leonpuissegur/" itemprop="name" rel="author" title="View all posts by Leon Puissegur">Leon Puissegur</a>
+</span>
+<span class="vw-post-meta-separator">/</span>
+<i class="vw-icon icon-entypo-clock"></i> <a class="vw-post-date updated" href="https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/" rel="bookmark" title="Permalink to Who Are Nancy Pelosi &amp; Chuck Schumer?"><time datetime="2020-05-19T14:21:07-04:00" itemprop="datePublished">May 19, 2020</time></a>
+</div>
+<div class="vw-post-meta-icons">
+</div>
+</div>
+<div class="vw-post-share-box">
+<div class="vw-post-share-big-number">
+<div class="vw-number">9</div>
+<div class="vw-unit">Shares</div>
+</div>
+<a class="vw-post-share-box-button vw-post-shares-social vw-post-shares-social-facebook" data-height="300" data-post-id="77318" data-share-to="facebook" data-width="500" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthewashingtonstandard.com%2Fwho-are-nancy-pelosi-chuck-schumer%2F" title="Share to Facebook">
+<i class="vw-icon icon-social-facebook"></i>
+<span class="vw-button-label">Facebook</span>
+</a>
+<a class="vw-post-share-box-button vw-post-shares-social vw-post-shares-social-twitter" data-height="300" data-post-id="77318" data-share-to="twitter" data-width="500" href="https://twitter.com/home?status=Who+Are+Nancy+Pelosi+%26%23038%3B+Chuck+Schumer%3F%20-%20https%3A%2F%2Fthewashingtonstandard.com%2Fwho-are-nancy-pelosi-chuck-schumer%2F" title="Share to Twitter">
+<i class="vw-icon icon-social-twitter"></i>
+<span class="vw-button-label">Twitter</span>
+</a>
+<a class="vw-post-share-box-button vw-post-shares-social vw-post-shares-social-pinterest" data-height="300" data-post-id="77318" data-share-to="pinterest" data-width="750" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fthewashingtonstandard.com%2Fwho-are-nancy-pelosi-chuck-schumer%2F&amp;media=https://thewashingtonstandard.com/wp-content/uploads/2020/05/schumer-pelos-hi-rez.jpg&amp;description=Who+Are+Nancy+Pelosi+%26%23038%3B+Chuck+Schumer%3F" title="Share to Pinterest">
+<i class="vw-icon icon-social-pinterest"></i>
+<span class="vw-button-label">Pinterest</span>
+</a>
+<a class="vw-post-share-box-button vw-post-shares-social vw-post-shares-social-whatsapp" data-height="475" data-post-id="77318" data-share-to="whatsapp" data-width="500" href="https://wa.me/whatsappphonenumber/?text=Who+Are+Nancy+Pelosi+%26%23038%3B+Chuck+Schumer%3F%20-%20https%3A%2F%2Fthewashingtonstandard.com%2Fwho-are-nancy-pelosi-chuck-schumer%2F" title="Share to WhatsApp">
+<i class="vw-icon icon-social-whatsapp"></i>
+<span class="vw-button-label">WhatsApp</span>
+</a>
+</div>
+<div class="vw-post-content clearfix"><div class="vw-before-post-content"><div id="ld-6559-6683"></div>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:13299126620103270,size:[0, 0],id:"ld-6559-6683"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<div data-endpoint="//trends.revcontent.com" data-rc-widget="" data-widget-host="habitat" data-widget-id="116226" id="rc-widget-272cf1"></div>
+<script defer="defer" src="https://assets.revcontent.com/master/delivery.js" type="text/javascript"></script>
+</div><p style="font-weight: 400;">Ever wonder just who are Nancy Pelosi and Chuck Schumer, other than a Representative and a Senator?  Let us open up some information on both of these people so anyone can readily see just who they are, what they represent, and the type of ideologies they have. What will be shown will blow your mind so read on before sharing this with your friends.</p>
+<p style="font-weight: 400;">Let us begin with Nancy Pelosi and use Her background to see who supports her office and what they are to our nation, be prepared for a wild description of the Pelosi background. One of the first things that pop out like a sore thumb is her association and part of the <a data-saferedirecturl="https://www.google.com/url?q=http://archive.discoverthenetworks.org/groupProfile.asp?grpid%3D6497&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNGYQpgHnCXOujANmguq1LC_kVvZXQ" href="http://archive.discoverthenetworks.org/groupProfile.asp?grpid=6497"><strong>Congressional Progressive Caucus</strong></a><strong><u>.    </u></strong></p>
+<p style="font-weight: 400;"><strong><u>(See – <a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/organizations/congressional-progressive-caucus-cpc/&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNE2tEKA2abjElwdZNIhLfLoNHCL-A" href="https://www.discoverthenetworks.org/organizations/congressional-progressive-caucus-cpc/">https://www.discoverthenetworks.org/organizations/congressional-progressive-caucus-cpc/</a>)</u></strong></p><div class="code-block code-block-1" style="margin: 8px 0; clear: both;">
+<ul>
+<li><a href="https://www.emfsol.com?aff=ctQ9GqtsMfLBD3XJZ"><strong>How To Protect Yourself From 5G, EMF &amp; RF Radiation</strong></a></li>
+<li><strong><a href="https://heavensharvest.com/collections/seed-kits/products/heirloom-vegetable-seed-bucket?variant=34283425333292" rel="nofollow noopener" target="_blank">Grab This Bucket Of Heirloom Seeds &amp; Get Free Shipping With Promo Code TIM</a></strong></li>
+<li><a href="https://shop.foodforestabundance.com/TIMBROWN" rel="nofollow noopener" target="_blank"><strong>Build Your Own Food Forest &amp; Save 5% With Promo Code TIMBROWN</strong></a></li>
+<li><strong><a href="https://mypatriotsupply.com/?rfsn=5131805.ffe1a3" rel="nofollow noopener" target="_blank">Here’s A Way You Can Stockpile Food For The Future</a></strong></li>
+<li><strong><a href="https://ammo.com/i/aGRNd0wwRGwxTFE9c" rel="nofollow noopener" target="_blank">Stockpile Your Ammo &amp; Save $15 On Your First Order</a></strong></li>
+<li><a href="https://timbrown.thegoodinside.com/pbx-trial-offer-557846" rel="nofollow noopener" target="_blank"><strong>Preparing Also Means Detoxifying – Here’s One Simple Way To Detoxify</strong></a></li>
+<li><strong><a href="https://mystore.com/timbrown" rel="nofollow noopener" target="_blank">Save Up To 66% Off MyPillow with Promo Code TIMBROWN</a></strong></li>
+<li><strong><a href="https://www.bereli.com?aff=4341">Grab guns, accessories, gear and optics at the lowest prices</a></strong>
+</li></ul></div>
+<p style="font-weight: 400;">Surely, one has to wonder just what Nancy Pelosi has to do with the “Progressive” branch of the Democratic Party, which really should be the Socialist Party. So, allow us to expand on this ideology which is perhaps the worst thing for any type of Freedom.</p>
+<blockquote>
+<p style="font-weight: 400;"><strong>“The Congressional Progressive Caucus (CPC) was founded in 1991 by </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/individualProfile.asp?indid%3D2266&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNFHLmscG7CyVPcQVLD8cHdc9trcew" href="https://www.discoverthenetworks.org/individualProfile.asp?indid=2266"><strong>Bernie Sanders</strong></a><strong>, a self-identified socialist who had recently been elected to the U.S. House of Representatives. Sanders’ CPC co-founders included House members Ron Dellums, </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/individualProfile.asp?indid%3D1513&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNFMdutHlOxO-mDPtpqiHz0fsfc64Q" href="https://www.discoverthenetworks.org/individualProfile.asp?indid=1513"><strong>Lane Evans</strong></a><strong>, Thomas Andrews, </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/individualProfile.asp?indid%3D1314&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNF_hHAJ1jnEVbyAuujOR1lCNPO6oQ" href="https://www.discoverthenetworks.org/individualProfile.asp?indid=1314"><strong>Peter DeFazio</strong></a><strong>, and </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/individualProfile.asp?indid%3D1264&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNFyRC81xXfr-iPiYafnkiPLg2SJgg" href="https://www.discoverthenetworks.org/individualProfile.asp?indid=1264"><strong>Maxine Waters</strong></a><strong>. The </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/groupProfile.asp?grpid%3D6991&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNHa9bulS04Ag0MLkXYp9MOdBk1fIA" href="https://www.discoverthenetworks.org/groupProfile.asp?grpid=6991"><strong>Institute for Policy Studies</strong></a><strong> (IPS) was also involved in CPC’s founding and in Caucus activities thereafter; IPS continues to advise CPC on various matters to this day.</strong></p>
+<p style="font-weight: 400;"><strong>Another key player in establishing CPC was the </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/groupProfile.asp?grpid%3D6428&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNH8vwjCjQlCCeHboObc-97RS3iI7w" href="https://www.discoverthenetworks.org/groupProfile.asp?grpid=6428"><strong>Democratic Socialists of America</strong></a><strong> (DSA), which has maintained a close alliance with the Caucus ever since. In 1997, DSA’s political director, Chris Riddiough, organized a meeting with CPC leaders to discuss how the two groups might be able to “unite our forces on a common agenda.” Among those who participated in the meeting were Bernie Sanders, labor leader </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/individualProfile.asp?indid%3D1630&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNGkgjGR5vSmR2shKsrsWBcqa7A4lQ" href="https://www.discoverthenetworks.org/individualProfile.asp?indid=1630"><strong>Richard Trumka</strong></a><strong>, professor </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/individualProfile.asp?indid%3D1232&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNHr0lIodDXfUefH-6tri-yxewfRkQ" href="https://www.discoverthenetworks.org/individualProfile.asp?indid=1232"><strong>Noam Chomsky</strong></a><strong>, feminist </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/individualProfile.asp?indid%3D1332&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNGPMLYj9MNAzTG-BbKbcYJ80xKiEQ" href="https://www.discoverthenetworks.org/individualProfile.asp?indid=1332"><strong>Patricia Ireland</strong></a><strong>, Rev. </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/individualProfile.asp?indid%3D687&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNG1tXVY0wQnXxpK4WWv7m60sC7OQg" href="https://www.discoverthenetworks.org/individualProfile.asp?indid=687"><strong>Jesse Jackson</strong></a><strong>, Senator Paul Wellstone, journalist William Greider, and the socialist author </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/individualProfile.asp?indid%3D1058&amp;source=gmail&amp;ust=1589997499782000&amp;usg=AFQjCNGUtdIHYuLhr5xcuiPn4mM6hurFEQ" href="https://www.discoverthenetworks.org/individualProfile.asp?indid=1058"><strong>Barbara Ehrenreich</strong></a><strong>.</strong></p>
+<p style="font-weight: 400;"><strong>A 2002 report by Joelle Fishman, chair of the </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/groupProfile.asp?grpid%3D7511&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNEhWGZS89wZq8qiHqCKYxy3R1KoUw" href="https://www.discoverthenetworks.org/groupProfile.asp?grpid=7511"><strong>Communist Party USA</strong></a><strong>‘s Political Action Committee, stated that the Progressive Caucus “provides an important lever that can be used to advance workers’ issues and move the debate to the left in every Congressional District in the country.” In a 2010 CPUSA report, Party member David Bell identified Progressive Caucus members as his organization’s “</strong><a data-saferedirecturl="https://www.google.com/url?q=https://timesexaminer.com/political/1333-if-voters-only-knew-some-history%23!/ccomment&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNEKoASGMANrt2VXfTwio9LwpupeAQ" href="https://timesexaminer.com/political/1333-if-voters-only-knew-some-history#!/ccomment"><strong>allies</strong></a><strong> in Congress.”</strong></p>
+<p style="font-weight: 400;"><strong>In October 2009, the Socialist Party of America announced that at least 70 Congressional Democrats were members of its Caucus at that time—i.e., members of the </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/groupProfile.asp?grpid%3D6428&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNFeEi4JJHE2e6AS7CP8aVjySsVaAg" href="https://www.discoverthenetworks.org/groupProfile.asp?grpid=6428"><strong>Democratic Socialists of America</strong></a><strong>. Most of those individuals belonged to the Congressional Progressive Caucus and/or the </strong><a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/groupProfile.asp?grpid%3D7126&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNEpwZE6EpjrHnjOy625Db_tCqMuqA" href="https://www.discoverthenetworks.org/groupProfile.asp?grpid=7126"><strong>Congressional Black Caucus</strong></a><strong>.</strong></p>
+<p style="font-weight: 400;"><strong>As of March 2015, CPC consisted of 68 members of the House of Representatives—all of them leftist Democrats—and one U.S. Senator (Bernie Sanders, an Independent who caucused with the Democrats).</strong></p>
+<p style="font-weight: 400;"><strong>For a comprehensive list of all CPC members (and links to their respective profiles), </strong><a data-saferedirecturl="https://www.google.com/url?q=https://api.discoverthenetworks.org/members-of-the-congressional-progressive-caucus/&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNENTPgSkEm76eA2FtPxU7gL3uHzFQ" href="https://api.discoverthenetworks.org/members-of-the-congressional-progressive-caucus/"><strong>click here</strong></a><strong>.”</strong></p>
+</blockquote>
+<p style="font-weight: 400;">After reading this, we clearly see that Nancy Pelosi is associated, in one way or another, to the Socialist Democratic Party with links to the Communist Party through the “Workers Party” which supports Nancy Pelosi and helps with her campaign. This should be deeply troubling to anyone who holds the idea that Nancy Pelosi is for the people of the United States especially, since the Socialist and Communist groups work against the very freedom we all want. Pelosi actually was proud to be a keynote speaker for the San Francisco Democratic Socialists of America! Nancy Pelosi has ties to these groups because they use her to obtain a pathway towards a Socialist style government and Nancy Pelosi is on board for that by being a part of these groups. See below.</p><div class="code-block code-block-2" style="margin: 8px 0; clear: both;">
+<div id="ld-2166-6199"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11229617935827558,size:[0, 0],id:"ld-2166-6199"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+</div>
+<blockquote>
+<p style="font-weight: 400;"><strong>“On November 11 1995, Pelosi and fellow Democratic Congressman Ron Dellums were the <a data-saferedirecturl="https://www.google.com/url?q=http://keywiki.org/Nancy_Pelosi&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNEMSVVIGpIEc2UQ6MgqNVa2G9OVhA" href="http://keywiki.org/Nancy_Pelosi">keynote speakers</a> at a public hearing on jobs and economic insecurity in San Francisco. The event was co-sponsored by the San Francisco <a data-saferedirecturl="https://www.google.com/url?q=http://archive.discoverthenetworks.org/groupProfile.asp?grpid%3D6428&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNFPJRY1R0T4Erkq-0FHzXExZ4_bzw" href="http://archive.discoverthenetworks.org/groupProfile.asp?grpid=6428">Democratic Socialists of America</a> (DSA) and the Full Employment Coalition.</strong></p>
+<p>In the 1996 Congressional elections, the DSA’s Political Action Committee <a data-saferedirecturl="https://www.google.com/url?q=http://keywiki.org/Nancy_Pelosi&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNEMSVVIGpIEc2UQ6MgqNVa2G9OVhA" href="http://keywiki.org/Nancy_Pelosi">endorsed</a> Pelosi’s candidacy. “I pride myself in being called a liberal,” Pelosi said that year. “… I don’t consider myself a moderate.”</p></blockquote>
+<p style="font-weight: 400;">Nancy Pelosi does not hide her participation in or with the Socialist groups that, in the end, wish to destroy our nation and turn it into a Socialist regime much like that of Cuba or Venezuela. But Nancy Pelosi does not stop with the Socialists and her connection to the Communist groups are even greater. She has co-sponsored at least one bill heavily favored by the Communist Party! This shows, without a doubt, that Nancy Pelosi helps the enemy of our nation by supporting their ideas which will destroy our Freedom and way of life.</p>
+<blockquote>
+<p style="font-weight: 400;"><strong>“In 1997 Pelosi </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://keywiki.org/Nancy_Pelosi&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNEMSVVIGpIEc2UQ6MgqNVa2G9OVhA" href="http://keywiki.org/Nancy_Pelosi">co-sponsored</a></strong><strong> Congressman Matthew Martinez’s Job Creation and Infrastructure Restoration Act, which proposed to use $250 billion in federal funds for the establishment of union-wage jobs rebuilding infrastructure (e.g., schools, hospitals, libraries, public transportation, highways, and parks). Martinez had previously introduced this bill in </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://beta.congress.gov/bill/104th-congress/house-bill/1591&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHd4W1CkIkgPiArnO4i-6bNtc5U3g" href="http://beta.congress.gov/bill/104th-congress/house-bill/1591">1995</a></strong><strong> at the request of the Los Angeles Labor Coalition for Public Works Jobs, whose leaders were all supporters or members of the </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://archive.discoverthenetworks.org/groupProfile.asp?grpid%3D7511&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHazfNf1Ss6C0PaTjQZoRXWWP7IJw" href="http://archive.discoverthenetworks.org/groupProfile.asp?grpid=7511">Communist Party USA</a></strong><strong>.”<br/>
+</strong></p>
+</blockquote>
+<p style="font-weight: 400;">This illustrates how Nancy Pelosi will help the Communist Party, even though she co-sponsored the bill. Nancy Pelosi uses the power of her office not to promote the Freedom of the United States Citizens, but to help her friends in the Communist Party!  This seems to explain why Nancy Pelosi is so very friendly towards the Communist Chinese who wish to do harm to the United States. Just think of the headlines across the nation if just one Republican did this very thing and how fast they would be demands to have them kicked out of their office for working with the Communist Party.  But like all the Socialists/Communists in the former Democratic Party, nothing is stated because the Democrats are working hand in hand with both the Socialists and Communists to destroy the United States. But Nancy Pelosi’s connection to the Communist Party does not end there.</p>
+<blockquote>
+<p style="font-weight: 400;"><strong>“In 2001, on the hundredth anniversary of the birth of the late Harry Bridges (1901-90)—a former leader of the International Longshoremen’s and Warehousemen’s Union who was later (in </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://keywiki.org/Nancy_Pelosi&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNEMSVVIGpIEc2UQ6MgqNVa2G9OVhA" href="http://keywiki.org/Nancy_Pelosi">1992</a></strong><strong>) exposed as having been a longtime </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.frontpagemag.com/fpm/266122/when-nancy-met-harry-lloyd-billingsley&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHedHLvJR5Sc0PY1S_CvYzBYCAZMw" href="http://www.frontpagemag.com/fpm/266122/when-nancy-met-harry-lloyd-billingsley">member</a></strong><strong> of the </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://archive.discoverthenetworks.org/groupProfile.asp?grpid%3D7511&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHazfNf1Ss6C0PaTjQZoRXWWP7IJw" href="http://archive.discoverthenetworks.org/groupProfile.asp?grpid=7511">Communist Party USA</a></strong><strong>‘s Central Committee—Pelosi </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://keywiki.org/Nancy_Pelosi&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNEMSVVIGpIEc2UQ6MgqNVa2G9OVhA" href="http://keywiki.org/Nancy_Pelosi">honored</a></strong><strong> Bridges as a man who was “beloved by the workers of this Nation, and recognized as one of the most important labor leaders in the world.” Bridges’ International Longshoremen’s and Warehousemen’s Union, Pelosi added, was “the most progressive union of the time.” As </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://en.wikipedia.org/wiki/Joshua_Muravchik&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNGcsBXE0VdNwgD17K96bdk5NHNRnw" href="https://en.wikipedia.org/wiki/Joshua_Muravchik">scholar</a></strong><strong> Joshua Muavichik </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.weeklystandard.com/Content/Public/Articles/000/000/013/783zfoqh.asp&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHXpKfxjEs-pdmZMgxNKRU6RMM99A" href="http://www.weeklystandard.com/Content/Public/Articles/000/000/013/783zfoqh.asp">explains</a></strong><strong>, Bridges had been directly approved for his Central Committee post by the Kremlin: “This means, plain and simple, that he had devoted his life to the service of the Soviet Union and its ruler, </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://archive.discoverthenetworks.org/individualProfile.asp?indid%3D2042&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNH8x-GwCo4d1AgJ6EQy91910vDzNw" href="http://archive.discoverthenetworks.org/individualProfile.asp?indid=2042">Joseph Stalin</a></strong><strong>, one of the three greatest mass murderers of all time.” Pelosi’s praise of Bridges, </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.frontpagemag.com/fpm/266122/when-nancy-met-harry-lloyd-billingsley&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHedHLvJR5Sc0PY1S_CvYzBYCAZMw" href="http://www.frontpagemag.com/fpm/266122/when-nancy-met-harry-lloyd-billingsley">Muravchik adds</a></strong><strong>, does not mean that Pelosi was ever a Communist, but it did illustrate “Pelosi’s wretched record in judging who are history’s good guys and who are its bad.”</strong></p>
+<p>In 2001 as well, Pelosi also <strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.weeklystandard.com/Content/Public/Articles/000/000/013/783zfoqh.asp&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHXpKfxjEs-pdmZMgxNKRU6RMM99A" href="http://www.weeklystandard.com/Content/Public/Articles/000/000/013/783zfoqh.asp">praised</a></strong><strong> another prominent Bay Area socialist, Vivian Hallinan—whose husband, Vincent Hallinan, had </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.aim.org/aim-column/speaker-pelosis-controversial-marxist-connections/&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNGC3M_yYl2aS2f80mnPrCYVzYxSBQ" href="http://www.aim.org/aim-column/speaker-pelosis-controversial-marxist-connections/">co-founded</a></strong><strong> the </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://archive.discoverthenetworks.org/groupProfile.asp?grpid%3D6162&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNGnVsf6HHqVLc2VupzaZDzh3Qf3YQ" href="http://archive.discoverthenetworks.org/groupProfile.asp?grpid=6162">National Lawyers Guild</a></strong><strong>‘s San Francisco chapter and had run for U.S. president in 1952 on the Progressive Party (which was a </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.frontpagemag.com/fpm/266122/when-nancy-met-harry-lloyd-billingsley&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHedHLvJR5Sc0PY1S_CvYzBYCAZMw" href="http://www.frontpagemag.com/fpm/266122/when-nancy-met-harry-lloyd-billingsley">Communist Party front</a></strong><strong>) ticket—as “a role model for many of us” and a “</strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.aim.org/aim-column/speaker-pelosis-controversial-marxist-connections/&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNGC3M_yYl2aS2f80mnPrCYVzYxSBQ" href="http://www.aim.org/aim-column/speaker-pelosis-controversial-marxist-connections/">pioneer</a></strong><strong>” in “a wide range of progressive causes.” In Pelosi’s </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.frontpagemag.com/fpm/266122/when-nancy-met-harry-lloyd-billingsley&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHedHLvJR5Sc0PY1S_CvYzBYCAZMw" href="http://www.frontpagemag.com/fpm/266122/when-nancy-met-harry-lloyd-billingsley">view</a></strong><strong>, “Vivian was devoted intellectually and passionately to many causes, well before they became popularly embraced.” Accuracy In Media’s </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.aim.org/aim-column/speaker-pelosis-controversial-marxist-connections/&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNGC3M_yYl2aS2f80mnPrCYVzYxSBQ" href="http://www.aim.org/aim-column/speaker-pelosis-controversial-marxist-connections/">Cliff Kincaid</a></strong><strong> notes that “these causes included support for communists in Central America during the 1980s, when Soviet- and Cuban-backed forces were subverting Central America through violence and terrorism and fighting for control of the region.” Indeed, Pelosi’s tribute specifically lauded Mrs. Hallinan for having: (a) “opposed U.S. policy in Central America” under President Reagan; (b) “befriended Daniel Ortega, Nicaragua’s [Communist] Sandinista leader”; and (c) met with Cuban dictator </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://archive.discoverthenetworks.org/individualProfile.asp?indid%3D912&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHiUufNXiy5esM3A_v-2WVDLQ8RXw" href="http://archive.discoverthenetworks.org/individualProfile.asp?indid=912">Fidel Castro</a></strong><strong>. The Hallinan family, it should be noted, was at one time under </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.aim.org/aim-column/speaker-pelosis-controversial-marxist-connections/&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNGC3M_yYl2aS2f80mnPrCYVzYxSBQ" href="http://www.aim.org/aim-column/speaker-pelosis-controversial-marxist-connections/">scrutiny</a></strong><strong> by the California Senate Fact-finding Subcommittee on Un-American Activities for its efforts in promoting pro-Soviet propaganda.”</strong></p></blockquote>
+<p style="font-weight: 400;">Once again, we clearly see that Nancy Pelosi uses the power of her office to help the Communist Party and gives speeches praising the heads of the Communist Party that she helps. This shows that Nancy Pelosi is not worried about the regular people in her district but more so about the Communists and Socialists in her district. In the paragraphs above we see that Nancy Pelosi HONORED a Communist that had very deep ties to Russia and the Kremlin. But not a word from the Democrats about this deep link to the Russian Communist Party. Why does the Democratic Party ignore this type of affiliation to the Russian Communist Party?  We can only guess that is because Nancy Pelosi helps them obtain objects that her high profile office can obtain for them. How much more is not shown and how much more is hidden under her family with her son and daughters and her husband? We also see the “Progressive Party being a Communist Party front, so with that in mind we could state that the current Progressive Party is also deeply included with the Communist Party and once again the United States takes a back seat for the Communists and Socialists that are honored friends of Nancy Pelosi.  Let all that sink in deep.</p>
+<p style="font-weight: 400;">Now let us show just how Nancy Pelosi gets to smear people and having the media help her to do this. Below is a video clip showing Nancy Pelosi explaining how they use the “Smear tactic”.  Keep in mind that this explanation she gives is about making up a lie having the Media publish the lie and then using the Media publication to show the Lie is true!  Let that sink in for a while because it shows the caliber of people Democrats are and they have been doing this for over a hundred years.</p>
+<p style="font-weight: 400;">First, we will write what Nancy Pelosi explains then you can see the clip to see for yourself that this is not a lie, then we will move on to Chuck Schumer, another top Democrat that should be a Communist.</p>
+<p style="font-weight: 400;">In Nancy Pelosi’s own words below:</p>
+<blockquote>
+<p style="font-weight: 400;"><strong>“You Demonize then you do what we call a wrap up smear. You smear somebody with falsehoods and all the rest, and then you merchandize it and then you write it and see it is reported in the press that this, this, and this, so they have that delegation that the press reported the smear and that is called a wrap up smear. Now I am going to merchandize the presses report on the smear that we made.  And it, it’s a tactic, its self-evident.”</strong></p>
+</blockquote>
+<p style="font-weight: 400;">PELOSI SMEAR <a data-saferedirecturl="https://www.google.com/url?q=https://t.co/y5WYtq5xKs&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNEPypuFH4eTw_AJUGHI6nz3LCeRRQ" href="https://t.co/y5WYtq5xKs">pic.twitter.com/y5WYtq5xKs</a></p>
+<p style="font-weight: 400;"><strong>So, Nancy Pelosi explains how the Democrats “smear” people they wish to show as bad. Let’s go over that briefly.</strong></p>
+<p style="font-weight: 400;"><strong>First, you demonize your opponent by telling LIES about them.</strong></p>
+<p style="font-weight: 400;"><strong>Second, the press publishes your LIES like they were true</strong></p>
+<p style="font-weight: 400;"><strong>Third, you show the press reports as a fact that the LIES you began are true!</strong></p>
+<p style="font-weight: 400;">That is what the Democrats did with the impeachment hearings and the Russia LIES, and so many other things that we could not list anything about Chuck Schumer, but we go there next.  Remember this, Nancy Pelosi showed us how she does a “Wrap Up Smear” so anything she states now should be considered a LIE and nothing more than Socialist Propaganda!<strong> </strong></p>
+<p style="font-weight: 400;"><strong>CHUCK SCHUMER</strong><strong> </strong></p>
+<p style="font-weight: 400;">Let us begin with Chuck Schumer in his Senate campaign in 1998, here we find the first links with Socialists and Communist groups who either backed him or worked for him.  Nice to know just where he stands due to what he states and does in the Senate especially for his dear friend Nancy Pelosi who is much like him with the same style deep connections to the very same Anti-United States groups. We also have to state that Chuck Schumer jumps the fence more than a cat in heat!</p>
+<blockquote>
+<p style="font-weight: 400;"><strong>In 1998 Schumer was elected to the U.S. Senate. His candidacy was </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://keywiki.org/Charles_E._Schumer&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNEztDaio1d2Y1s3tZgD9nAkT3KCrw" href="http://keywiki.org/Charles_E._Schumer">backed</a></strong><strong> by the </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://archive.discoverthenetworks.org/groupProfile.asp?grpid%3D7546&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHr5FlKs67ZI9j3eWr8E5K5a6qK7g" href="http://archive.discoverthenetworks.org/groupProfile.asp?grpid=7546">Committees of Correspondence for Democracy and Socialism</a></strong><strong>, a </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://archive.discoverthenetworks.org/groupProfile.asp?grpid%3D7511&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHazfNf1Ss6C0PaTjQZoRXWWP7IJw" href="http://archive.discoverthenetworks.org/groupProfile.asp?grpid=7511">Communist Party USA</a></strong><strong> splinter group. In subsequent years, Schumer also received </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://keywiki.org/Charles_E._Schumer&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNEztDaio1d2Y1s3tZgD9nAkT3KCrw" href="http://keywiki.org/Charles_E._Schumer">support</a></strong><strong> from the </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://archive.discoverthenetworks.org/groupProfile.asp?grpid%3D6965&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHpvf-41vQ8yEYoXuyf_jZClhvG8w" href="http://archive.discoverthenetworks.org/groupProfile.asp?grpid=6965">Working Families Party</a></strong><strong>.</strong><strong> </strong></p>
+</blockquote>
+<p style="font-weight: 400;">Please by all means go to the web site of the <strong><a data-saferedirecturl="https://www.google.com/url?q=http://archive.discoverthenetworks.org/groupProfile.asp?grpid%3D7546&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNHr5FlKs67ZI9j3eWr8E5K5a6qK7g" href="http://archive.discoverthenetworks.org/groupProfile.asp?grpid=7546">Committees of Correspondence for Democracy and Socialism</a></strong><strong><u> </u></strong>and look at their platform to see just what they support.</p>
+<p style="font-weight: 400;">(<a data-saferedirecturl="https://www.google.com/url?q=https://www.discoverthenetworks.org/organizations/committees-of-correspondence-for-democracy-and-socialism-ccds/&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNE6nu2BuSg2cRZWOv55Ta5uslE5VQ" href="https://www.discoverthenetworks.org/organizations/committees-of-correspondence-for-democracy-and-socialism-ccds/">https://www.discoverthenetworks.org/organizations/committees-of-correspondence-for-democracy-and-socialism-ccds/</a>)</p>
+<p style="font-weight: 400;">This brief outline shows the following;</p>
+<ul>
+<li style="font-weight: 400;">Ranks third among Marxist organizations in the United States today, in terms of size and influence</li>
+<li style="font-weight: 400;">Seeks to dismantle capitalism and replace it with socialism</li>
+<li style="font-weight: 400;">Views the United States and Israel as the two chief sources of evil on earth</li>
+</ul>
+<p style="font-weight: 400;">Now, let that be called outlandish to everyone that loves Freedom.  Once again, Chuck Schumer is linked to this group and that cannot be denied and should be an indicator of where he stands. How can we trust anyone that associates themselves with a group like that?  Can you imagine how fast a Republican would be forced to retire or leave his office if they were associated with such groups, but we must digress because Democrats have no conscious that would keep them from being associated with such groups, yet here it is displayed rather boldly we may add that Chuck Schumer has their support.</p>
+<p style="font-weight: 400;">Let us continue with Chuck Schumer’s outside groups and ideas that when shown here do not reflect an individual that loves the United States. Schumer does not seem to stick to one point unless it benefits his ideology. By this, we can clearly demonstrate that with his reversal of the Defense of Marriage Act where Schumer was first for it, then against it.  Much like most Democrats, where they will be for one thing if it benefits them and be against it the next day because the “opinions” have changed, Schumer uses the very same tactic. Let us show how he changed his stand with Marriage.</p>
+<blockquote>
+<p style="font-weight: 400;">”<strong>In 2004, Schumer, while advocating civil unions for homosexual couples, </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.issues2000.org/domestic/Charles_Schumer_Civil_Rights.htm&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNGAx8pv62tg4YbiowonCx_BzXEDgg" href="http://www.issues2000.org/domestic/Charles_Schumer_Civil_Rights.htm">opposed</a></strong><strong> a same-sex-marriage amendment and stated that marriage should be defined only as a union between one man and one woman. But his views on this issue evolved dramatically over the next few years, and in March 2009 the senator announced his support for gay marriage, </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.nytimes.com/2009/03/24/nyregion/24schumer.html&amp;source=gmail&amp;ust=1589997499783000&amp;usg=AFQjCNGyeoU6gC4EghA89FWqYNcrPRn3YQ" href="http://www.nytimes.com/2009/03/24/nyregion/24schumer.html">saying</a></strong><strong>: “It’s time. Equality is something that has always been a hallmark of America and no group should be deprived of it.” In December 2009 he aggressively </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.nytimes.com/2009/12/04/nyregion/04marriage.html&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNHUkDL72O12GkLVrSp7VWh9K7_c7Q" href="http://www.nytimes.com/2009/12/04/nyregion/04marriage.html">lobbied</a></strong><strong> members of the New York State Senate who were undecided in their position on legislation designed to legalize gay marriage. And in 2013 he </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://reason.com/blog/2013/06/27/meet-the-democrats-who-voted-for-the-def&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNH6ph4mEGfqj1yzP37wEyYGMAHe3A" href="http://reason.com/blog/2013/06/27/meet-the-democrats-who-voted-for-the-def">praised</a></strong><strong> a Supreme Court ruling that struck down </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.freedomtomarry.org/states/entry/c/doma&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNHS0gnhGgG71rLyNvmYhhDdVa48xg" href="http://www.freedomtomarry.org/states/entry/c/doma">Section 3</a></strong><strong> of the </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://en.wikipedia.org/wiki/Defense_of_Marriage_Act&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNFTu6StdKnonjlO4vjDQf9Ypf_SPA" href="https://en.wikipedia.org/wiki/Defense_of_Marriage_Act">Defense of Marriage Act</a></strong><strong>. “The march to equality in America is unstoppable,” </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://reason.com/blog/2013/06/27/meet-the-democrats-who-voted-for-the-def&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNH6ph4mEGfqj1yzP37wEyYGMAHe3A" href="http://reason.com/blog/2013/06/27/meet-the-democrats-who-voted-for-the-def">said</a></strong><strong> Schumer.”</strong></p>
+</blockquote>
+<p style="font-weight: 400;">Here it is clear that his ideology changed in just 5 short years, but why, was it because he felt it was not right in 2004 but in 2009 it was?  Maybe it was because he saw more votes from the very group, he was against in 2004?  No matter which it may have been, it shows that Schumer will change his mind if it benefits his election. Remember that Democrats support ideologies when it benefits them and when that benefit is lost, they change their direction, it is shown time after time.</p>
+<p style="font-weight: 400;">When Obama came into office it was like being in a candy shop for the Democrats who quickly passed the “Affordable Care Act” which has proven to be anything but affordable. Chuck Schumer quickly jumped on board to support the bill because it fell into his Socialistic ideology, he has gone to along with many Democrats who really should call themselves Socialists.</p>
+<blockquote>
+<p style="font-weight: 400;"><strong>“In 2009-10, Schumer </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress%3D111%26session%3D1%26vote%3D00396&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNEnQxaz05jTlvfBsoA-OgoIiZNrpQ" href="http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=111&amp;session=1&amp;vote=00396">was</a></strong><strong> a key </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress%3D111%26session%3D2%26vote%3D00105&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNHkB3NUGATqjN60oR2Hsa1dOxLZeA" href="http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=111&amp;session=2&amp;vote=00105">supporter</a></strong><strong> of the Patient Protection and Affordable Care Act—i.e., </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://archive.discoverthenetworks.org/viewSubCategory.asp?id%3D1957&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNFwpdbvnJoSm0e5iH5YWMHHDIcKWA" href="http://archive.discoverthenetworks.org/viewSubCategory.asp?id=1957">Obamacare</a></strong><strong>—</strong><strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.schumer.senate.gov/Issues/healthcare.htm&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNHOoynHu_MAoxzjhGKJ51FWOYfY6g" href="http://www.schumer.senate.gov/Issues/healthcare.htm">calling</a></strong><strong> it a “historic” bill that not only would “help over 30 million Americans … gain access to affordable health insurance,” but would also “cu[t] the federal deficit by $143 billion over 10 years and up to $1.3 trillion in the second decade.”</strong></p>
+<p>When the Congressional Budget Office (CBO) in February 2013 projected that some 3 million people ultimately would stop working in order to lower their household incomes so they could qualify for Obamacare’s taxpayer-funded subsidies, Schumer <strong><a data-saferedirecturl="https://www.google.com/url?q=http://www.frontpagemag.com/2014/jack-kerwick/the-democratic-party-and-karl-marx/&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNEF1SNCB96h2i1_V-iByxpLcrR9nA" href="http://www.frontpagemag.com/2014/jack-kerwick/the-democratic-party-and-karl-marx/">explained</a></strong><strong> that “many American workers” would now “have freedom … to do things that they couldn’t [previously] do.” “The single mom who’s raising three kids [and] has to keep a job because of healthcare,” he elaborated, “can now spend some time raising those kids. That’s a family value.”</strong></p></blockquote>
+<p>It is clear that Schumer supports the Committees of Correspondence for Democracy and Socialism in his words near the end where he celebrates the fact that a single mom will be able to stay at home with her 3 children. That is just what the Socialists want to happen, to have people on the governments back where the government can control them to help destroy the Capitalistic ideology of the United States.  Nice to know that Chuck Schumer is happy with that, but it is normal for a Socialist to be fine with keeping people at home instead of working for their money and contributing to the tax base. When people work, they cannot be controlled. Even today that is seen across our nation as certain areas fall under a very Socialistic style of government where the mayor, governor or others tell you where you can go, what to wear, and how to wear it! That is true Socialism/Communism. If we keep electing these people like Nancy Pelosi and Chuck Schumer to office, one day they will get what they want and the United States will be no more. Let us get back to Chuck Schumer.</p>
+<p style="font-weight: 400;">Chuck Schumer is a dear friend of Nancy Pelosi and supports her ideology without reservation. Schumer has even more problematic connections that are not revealed in many of his biographies. We will delve into some of his connections to Socialist and Communist organizations and include a connection or two with George Soros, the man who was a Hitler youth and could be stated was a Nazi.</p>
+<p style="font-weight: 400;">Below is one instance where Schumer placed his support with Socialist and Communist groups in backing other people.</p>
+<blockquote>
+<p style="font-weight: 400;"><strong>“In 1982 leftist </strong><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Major_Owens&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNG279kcAVC6tLo0jz2OAxuUoX4xoA" href="https://keywiki.org/Major_Owens">Major Owens</a> (he later openly joined <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Democratic_Socialists_of_America&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNE7r0i2F1Xn1jJU6hNlRpM0SasoSw" href="https://keywiki.org/Democratic_Socialists_of_America">Democratic Socialists of America</a>, ran in the primary to contest the New York City Congressional seat vacated by the retiring <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Shirley_Chisholm&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNE9N6pVMGr6sCo24RL-heClU7nLMg" href="https://keywiki.org/Shirley_Chisholm">Shirley Chisholm</a>. His main opponent was the Democratic Party machine’s favored candidate <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/index.php?title%3DVander_Beatty%26action%3Dedit%26redlink%3D1&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNFv2vAGv2Sjp-OriqTG9XrERWg0zA" href="https://keywiki.org/index.php?title=Vander_Beatty&amp;action=edit&amp;redlink=1">Vander Beatty</a>. Owens prevailed, helped with the endorsements of Council President <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/index.php?title%3DCarol_Bellamy%26action%3Dedit%26redlink%3D1&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNH5-eYkDlbmGI0HcUwjdubpmVcuVw" href="https://keywiki.org/index.php?title=Carol_Bellamy&amp;action=edit&amp;redlink=1">Carol Bellamy</a>, Congressman <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_Schumer&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNHYXmCgqdQ98wGtQ62xheQmrCvQQQ" href="https://keywiki.org/Charles_Schumer">Charles Schumer</a>, Councilwoman and DSAer <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Ruth_Messinger&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNGzTlxTlWm6GRhMC14-2y5wjcF7hQ" href="https://keywiki.org/Ruth_Messinger">Ruth Messinger</a>, and Communist Party and DSA ally Congresswoman <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Bella_Abzug&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNF0c4tMRHMr8Fwxyg9FvK5S-BpTww" href="https://keywiki.org/Bella_Abzug">Bella Abzug</a>.<sup><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_E._Schumer%23cite_note-7&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNEL7Gr0U0W3EoidNmFNp-4PE-MhTw" href="https://keywiki.org/Charles_E._Schumer#cite_note-7">[7]</a>”</sup></strong></p>
+</blockquote>
+<p style="font-weight: 400;">7.<a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_E._Schumer%23cite_ref-7&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNESQ_Wu4qcy6TT5wWjkZCQ-Zcps1A" href="https://keywiki.org/Charles_E._Schumer#cite_ref-7">Jump up ↑</a> {New York Democratic Socialist October 1982]</p>
+<p style="font-weight: 400;">As can be seen here from<a href="https://keywiki.org/Charles_E._Schumer"> this site</a>, Chuck Schumer began his association with both Socialists and Communists in 1982 when he did this as noted above, but this does not end here as can be seen below with yet another individual.</p>
+<blockquote>
+<p style="font-weight: 400;"><strong>“In 1990, as part of the <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/index.php?title%3DNew_Democratic_Coalition%26action%3Dedit%26redlink%3D1&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNFcdgFJTvRZPzMxzKhYGjUAQ93UVg" href="https://keywiki.org/index.php?title=New_Democratic_Coalition&amp;action=edit&amp;redlink=1">New Democratic Coalition</a>, Charles E. Schumer personally endorsed the New York mayoral campaign of well known <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Democratic_Socialists_of_America&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNE7r0i2F1Xn1jJU6hNlRpM0SasoSw" href="https://keywiki.org/Democratic_Socialists_of_America">Democratic Socialists of America</a> member <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/David_Dinkins&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNEO460LGuwYy6mRARqMEHYCwcFaww" href="https://keywiki.org/David_Dinkins">David Dinkins</a>.</strong></p>
+<p style="font-weight: 400;"><strong>The <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/index.php?title%3DNew_Democratic_Coalition%26action%3Dedit%26redlink%3D1&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNFcdgFJTvRZPzMxzKhYGjUAQ93UVg" href="https://keywiki.org/index.php?title=New_Democratic_Coalition&amp;action=edit&amp;redlink=1">New Democratic Coalition</a> was a “coalition of progressive Democrats” which included <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/New_York_City_Democratic_Socialists_of_America&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNGm99Q0trAP8GG0lRPN22TxB9mb8Q" href="https://keywiki.org/New_York_City_Democratic_Socialists_of_America">New York Democratic Socialists of America</a>, many individual Democratic Socialists including <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Ronnie_Eldridge&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNF0pkzycvfe0g0Q3rijyA0W3d1jdQ" href="https://keywiki.org/Ronnie_Eldridge">Ronnie Eldridge</a>, and <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Ruth_Messinger&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNGzTlxTlWm6GRhMC14-2y5wjcF7hQ" href="https://keywiki.org/Ruth_Messinger">Ruth Messinger</a> and some communists including <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Margaret_Chin&amp;source=gmail&amp;ust=1589997499784000&amp;usg=AFQjCNFIqO02dHEjjsG539x5fyixLOzVXw" href="https://keywiki.org/Margaret_Chin">Margaret Chin</a>, a known <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Communist_Workers_Party&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNHbg1CZBkrWrKHbpR_v9ObU83vdrg" href="https://keywiki.org/Communist_Workers_Party">Communist Workers Party</a> leader and <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Communist_Party_USA&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNF3xUGWje0QuCoCAiXCvNRYSpsOqg" href="https://keywiki.org/Communist_Party_USA">Communist Party USA</a> supporters such as <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Richard_Gottfried&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNGVs3et72WBdjxsvF7CkLhN9VXbrw" href="https://keywiki.org/Richard_Gottfried">Richard Gottfried</a>, <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Frances_Boehm&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNFA_jWwYo_Fvl1EvqtqMGDgHgUsTg" href="https://keywiki.org/Frances_Boehm">Frances Boehm</a>, and <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Miriam_Friedlander&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNF1Rj-OJeezhZjDQkZ0qFTOAntkvA" href="https://keywiki.org/Miriam_Friedlander">Miriam Friedlander</a>.<sup><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_E._Schumer%23cite_note-8&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNEuQIIzmdqIG65-Eced9SlHqeLflg" href="https://keywiki.org/Charles_E._Schumer#cite_note-8">[8]</a>”</sup></strong></p>
+</blockquote>
+<p style="font-weight: 400;">As seen above, Chuck Schumer is part of the New Democratic Coalition which is of itself an organization that has deep ties to Socialists and Communists, both of which wish to destroy the United States. One has to wonder why the almighty do good news media are not up in arms about Chuck Schumer being a part of any sort of Socialist/Communist group! But we know all too well that the news media is up to their eyeballs in the very same Socialist/Communist groups so they will not expose the very groups that support them.</p>
+<p style="font-weight: 400;">Let us continue on with the Socialist/Communist supported Chuck Schumer and what it is all about.</p>
+<blockquote>
+<p style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Communist_Party_USA&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNF3xUGWje0QuCoCAiXCvNRYSpsOqg" href="https://keywiki.org/Communist_Party_USA">Communist Party USA</a> breakaway group <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Committees_of_Correspondence&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNEdPFxLCZ3ZK2tAPrhZTSqrg2_njQ" href="https://keywiki.org/Committees_of_Correspondence">Committees of Correspondence</a> supported<sup><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_E._Schumer%23cite_note-10&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNHMF4QR2QyH_YC-BMsjPic5Vlt4PA" href="https://keywiki.org/Charles_E._Schumer#cite_note-10">[10]</a></sup>Schumer’s 1998 election bid.</strong></p>
+<p style="font-weight: 400;"><strong><em>Fifty members of the Metro NY CofC turned out on Oct. 24 to discuss the 1998 elections in the context of the fight to defeat the right. The discussion set the tone for the remainder of the meeting, and resulted in new efforts on the Living Wage campaign, education, organization and finances of the local CofC. The following statement was adopted: “The New York Metro Committees of Correspondence urges the defeat of all reactionary candidates and the election of Charles Schumer and Carl McCall, and a vote for Peter Vallone on the Working Families Party line, and further that this position be communicated to the membership in an immediate mailing.”</em></strong><strong> </strong></p>
+</blockquote>
+<p style="font-weight: 400;">Chuck Schumer just seems to be involved with or in either a Socialist or a Communist group from all over the place. The part above shows that Schumer was not just supported by a Communist group, but they seemed to have campaigned for Schumer.  Is it any wonder that Schumer hates everything President Trump is doing?  President Trump loves the United States while Schumer seems to be tied to groups that have in some of their material that they are out to destroy our Capitalist way of life and impose the Socialist/Communist way in its place.  This is why certain parts of our nation are keeping people under what could be declared as Martial Law due to the Communist Chinese Wuhan Virus! Let us take a close look at a bill co-sponsored by Chuck Schumer, this will blow many peoples minds as it shows his support for Communist-style work.</p>
+<blockquote>
+<p style="font-weight: 400;"><strong>“H.R. 950, the Job Creation and Infrastructure Restoration Act of 1997 was introduced in the 105th Congress on March 5, 1997 by Congressman <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Matthew_Martinez&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNEssdg8VSI2Xjsz_lF-ochpB7NmSQ" href="https://keywiki.org/Matthew_Martinez">Matthew Martinez</a> of California. It had 33 original co-sponsors, including <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_Schumer&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNG9P7LqBEbMVdNqNWktwKk2QyWpow" href="https://keywiki.org/Charles_Schumer">Charles Schumer</a>. The primary purpose of this emergency federal jobs legislation was to provide much needed jobs at union wages to crisis ridden cities by putting the unemployed to work rebuilding our nation’s infrastructure (schools, housing, hospitals, libraries, public transportation, highways, parks, environmental improvements, etc. $250 billion is authorized for emergency public works jobs over a five year period.</strong></p>
+<p style="font-weight: 400;"><strong>Congressman Martinez had previously introduced this bill in the last Congress (as HR 1591) at the the request of over 50 prominent Labor leaders who formed the <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/index.php?title%3DLos_Angeles_Labor_Coalition_for_Public_Works_Jobs%26action%3Dedit%26redlink%3D1&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNEsXQ_ewfV3luKq6AKtkAEOXInDyQ" href="https://keywiki.org/index.php?title=Los_Angeles_Labor_Coalition_for_Public_Works_Jobs&amp;action=edit&amp;redlink=1">Los Angeles Labor Coalition for Public Works Jobs</a>, which is why it is often referred to as the “Martinez Public Works Jobs Bill.”<sup><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_E._Schumer%23cite_note-11&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNGFkfUV0UoMiWjwRPF8YTaX04R_aw" href="https://keywiki.org/Charles_E._Schumer#cite_note-11">[11]</a></sup></strong></p>
+<p style="font-weight: 400;"><strong><em>This is the most significant jobs legislation introduced in Congress since Franklin Delano Roosevelt’s New Deal established the Works Progress Administration (WPA). This bill is the WPA-type program for today. It has strong provisions which will put hundreds of thousands of unemployed building trades workers to work as well as provide jobs for victims of plant closures, welfare recipients who are parents, youth, and the long term unemployed. The public works projects which will be established under this bill will be built in communities with the highest levels of unemployment and with the greatest needs.</em></strong></p>
+<p style="font-weight: 400;"><strong><em>The goal of the New York Coalition for Public Works Jobs is to build the movement to pass the Martinez Jobs bill as part of the National Labor Coalition for Public Works Jobs. You can help by asking your union, community organization, or local government body to to join those who have already passed resolutions to endorse the bill. Such a resolution has been introduced in the New York City Council. Calling on additional Congressional Representatives to co-sponsor the bill is very important. We will be organizing petition campaigns, visits to elected officials, and demonstrations and other actions for a public works jobs program.</em></strong></p>
+<p style="font-weight: 400;"><strong>The leaders of the <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/index.php?title%3DLos_Angeles_Labor_Coalition_for_Public_Works_Jobs%26action%3Dedit%26redlink%3D1&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNEsXQ_ewfV3luKq6AKtkAEOXInDyQ" href="https://keywiki.org/index.php?title=Los_Angeles_Labor_Coalition_for_Public_Works_Jobs&amp;action=edit&amp;redlink=1">Los Angeles Labor Coalition for Public Works Jobs</a> and its only affiliate <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/index.php?title%3DNew_York_Coalition_for_Public_Works_Jobs%26action%3Dedit%26redlink%3D1&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNGAcolLenWmU6NwtUyVah2TnR5N1A" href="https://keywiki.org/index.php?title=New_York_Coalition_for_Public_Works_Jobs&amp;action=edit&amp;redlink=1">New York Coalition for Public Works Jobs</a>, were all known supporters or members of the <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Communist_Party_USA&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNF3xUGWje0QuCoCAiXCvNRYSpsOqg" href="https://keywiki.org/Communist_Party_USA">Communist Party USA</a>.</strong></p>
+<p style="font-weight: 400;"><strong>Los Angeles , <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/National_Labor_Coalition_For_Public_Works_Jobs&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNEAvrFCoxHAiLQgdhpfoN0N_CLoWA" href="https://keywiki.org/National_Labor_Coalition_For_Public_Works_Jobs">National Labor Coalition For Public Works Jobs</a></strong></p>
+<ul>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Jerry_Acosta&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNGYT52ksKjS_coCtiqzmiAztDXs-Q" href="https://keywiki.org/Jerry_Acosta">Jerry Acosta</a> – Chairman</strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Art_Rodriguez&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNGm2xMHDSGljUTWKi8adgH_h-cDVA" href="https://keywiki.org/Art_Rodriguez">Art Rodriguez</a> – Coordinator</strong></li>
+</ul>
+<p style="font-weight: 400;"><strong>A New York affiliate, <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/index.php?title%3DNew_York_Coalition_for_Public_Works_Jobs%26action%3Dedit%26redlink%3D1&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNGAcolLenWmU6NwtUyVah2TnR5N1A" href="https://keywiki.org/index.php?title=New_York_Coalition_for_Public_Works_Jobs&amp;action=edit&amp;redlink=1">New York Coalition for Public Works Jobs</a>, c/o <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/index.php?title%3DUtility_Workers_Union_of_America%26action%3Dedit%26redlink%3D1&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNET_WlFmFQmN4GeTEcZ1VHEhvj1qg" href="https://keywiki.org/index.php?title=Utility_Workers_Union_of_America&amp;action=edit&amp;redlink=1">Utility Workers Union of America</a> Local 1-2.</strong></p>
+<ul>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Eddie_Davis&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNFOB51Z0peJJ9lFVrznz-Ydc9FP-w" href="https://keywiki.org/Eddie_Davis">Eddie Davis</a></strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Bill_Davis&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNHxGwlgyCpR_F_psj012IRvdiL0Qg" href="https://keywiki.org/Bill_Davis">Bill Davis</a>”</strong></li>
+</ul>
+<p style="font-weight: 400;">11.<a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_E._Schumer%23cite_ref-11&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNFIB-CdIDYPLR8ouXyQGIIkzUJ1YA" href="https://keywiki.org/Charles_E._Schumer#cite_ref-11">Jump up ↑</a> <a data-saferedirecturl="https://www.google.com/url?q=http://www.hartford-hwp.com/archives/45b/085.html&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNGRWfHy0fAllaAqPbjS87yHfD_Y0w" href="http://www.hartford-hwp.com/archives/45b/085.html">[1]</a> The Job Creation and Infrastructure Restoration Act of 1997 (H.R. 950)From the New York State Communist Party 16 March 1997, email list, accessed June 14, 2010</p>
+</blockquote>
+<p style="font-weight: 400;">Chuck Schumer was a co-sponsor of this bill that was deemed “Communist Party Jobs Bill”.  Now, that in and of itself is a lot to consider but it does not make for a huge surprise to see that especially after it has been shown how close Chuck Schumer is to both the Socialist and Communist Parties and their ideologies. What is amazing here is that the very same “Unions” that support Chuck Schumer also seem to be supported by either the Socialists or Communists. But this is just a small part of some even more damning items we will show below with the ‘Working Families Party”.</p>
+<blockquote>
+<p style="font-weight: 400;"><strong>Senator Schumer is close to the <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Working_Families_Party&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNGTD4ftmGDjnuYgPYN7sb-VQy6pGw" href="https://keywiki.org/Working_Families_Party">Working Families Party</a>.</strong></p>
+<h3>2000 WFP Convention</h3>
+<p style="font-weight: 400;"><strong>The New York <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Working_Families_Party&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNGTD4ftmGDjnuYgPYN7sb-VQy6pGw" href="https://keywiki.org/Working_Families_Party">Working Families Party</a> 2000 Convention was held at the Desmond Hotel, March 26.</strong></p>
+<p style="font-weight: 400;"><strong>Attendees included;</strong></p>
+<ul>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Jim_Duncan&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNFiHk9TfZwVF-X4CfGXQsoXF8_FEQ" href="https://keywiki.org/Jim_Duncan">Jim Duncan</a>, WFP co-chair and statewide political director of the <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/United_Auto_Workers&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNG9GV9jjV77iikhXRzZq931SAXLww" href="https://keywiki.org/United_Auto_Workers">United Auto Workers</a></strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Bertha_Lewis&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNG-MEOmwKXg2jiqKJnFDcZOqUYg9w" href="https://keywiki.org/Bertha_Lewis">Bertha Lewis</a>, WFP co-chair and chair of New York <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/ACORN&amp;source=gmail&amp;ust=1589997499785000&amp;usg=AFQjCNHxK5NLcOCC9HYsoN-Yr6Z6XA-onQ" href="https://keywiki.org/ACORN">ACORN</a></strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Bob_Master&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNG3bquoplEHE4bmDBbusBGq8X6hAA" href="https://keywiki.org/Bob_Master">Bob Master</a>, WFP co-chair and statewide political director of the <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Communication_Workers_of_America&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNHi6CB7c8SRPmO02MtsSl9fs-FuHg" href="https://keywiki.org/Communication_Workers_of_America">Communication Workers of America</a></strong></li>
+<li style="font-weight: 400;"><strong>State Senator <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Eric_Schneiderman&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNFETODIU0mAb4LfYMKeGVTpls81dA" href="https://keywiki.org/Eric_Schneiderman">Eric Schneiderman</a></strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Chris_Silvera&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGPnOS4cz8lNHR0P8Zpc-JdxIfWOA" href="https://keywiki.org/Chris_Silvera">Chris Silvera</a>, Treasurer of <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Teamsters&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNF51B3ci45fKLo3jywOHp25lxfxoQ" href="https://keywiki.org/Teamsters">Teamsters</a> local 808</strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Dennis_Hughes&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNG9dIan44yhmkJjbgJWSZ0QDEfNzw" href="https://keywiki.org/Dennis_Hughes">Dennis Hughes</a>, president New York Federation of Labor</strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Jose_Velazquez&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGojRB5lrGWyuQfKovKFxznIftt_w" href="https://keywiki.org/Jose_Velazquez">Jose Velazquez</a>, Lithographers local 1 organizer</strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Ed_Vargas&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNHxQchwAgLbWRPAExZTOJeRpvKDNw" href="https://keywiki.org/Ed_Vargas">Ed Vargas</a>, director of the state council of <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/UNITE&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNHDOMfSBLJ4fTM-RCLQtQeGEdntRA" href="https://keywiki.org/UNITE">UNITE</a></strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Karen_Scharff&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNENJjfDJiR-d1MvcZwgSXAz4yVBeg" href="https://keywiki.org/Karen_Scharff">Karen Scharff</a>, executive director of <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Citizen_Action&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNFWHtBsKjU7IgUiJPk8RwsCGRZAZg" href="https://keywiki.org/Citizen_Action">Citizen Action</a> New York</strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Jim_Hightower&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNEFT0aX1YptebRZKiEyNr6vJnj9nw" href="https://keywiki.org/Jim_Hightower">Jim Hightower</a></strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Maude_Hurd&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNFWKpAT-BCo9GSg_oGGiI-16xImfQ" href="https://keywiki.org/Maude_Hurd">Maude Hurd</a>, national chair of <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/ACORN&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNG9BHLJkB1dmRoYEYH9kZ3VHT_2eg" href="https://keywiki.org/ACORN">ACORN</a></strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Bradley_Erck&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNE7AGzwz4317qlCgEJ9UNxD1YAG7A" href="https://keywiki.org/Bradley_Erck">Bradley Erck</a>, a rep. on the Niagara County legislature and UAW Local 686, legislative committee chair</strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Larry_Handley&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNEtIDXSK3xyXtmUW9wlX3KqRw3uLA" href="https://keywiki.org/Larry_Handley">Larry Handley</a>, President <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Amalgamated_Transit_Union&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNF_3Q5cOITY30UgRnCnwSf0k4uYrA" href="https://keywiki.org/Amalgamated_Transit_Union">Amalgamated Transit Union</a></strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Arthur_Cheliotes&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNHOOaaTf4r3ZnniPs3jFX2vqR0goQ" href="https://keywiki.org/Arthur_Cheliotes">Arthur Cheliotes</a>, president of <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Communication_Workers_of_America&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNHi6CB7c8SRPmO02MtsSl9fs-FuHg" href="https://keywiki.org/Communication_Workers_of_America">Communication Workers of America</a> local 1180</strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Hillary_Clinton&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGkLXbeKd4v7bWiB2V2GNs5xCZ11A" href="https://keywiki.org/Hillary_Clinton">Hillary Clinton</a></strong></li>
+<li style="font-weight: 400;"><strong>State Assemblyman <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Roger_Green&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNEhTFKFfwjzui_rSbVXOmS3Ipr8qw" href="https://keywiki.org/Roger_Green">Roger Green</a></strong></li>
+<li style="font-weight: 400;"><strong>Senator <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Chuck_Schumer&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGu2tKcHs1hgZYeEcp3H5aSKKFY-g" href="https://keywiki.org/Chuck_Schumer">Chuck Schumer</a></strong></li>
+<li style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Antoine_Thompson&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGW1L2nN-oP_oWn9KTU4KuRwI8HPQ" href="https://keywiki.org/Antoine_Thompson">Antoine Thompson</a>, new board president of Citizen Action, upstate <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/New_York&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGFJD8Fu3GYQ25M97yKZuFV8GaJ_Q" href="https://keywiki.org/New_York">New York</a></strong></li>
+</ul>
+<p style="font-weight: 400;"><strong>Schumer told the conference that the support of labor was the decisive factor throughout his political career. “In my first race i was an underdog. but i had labor in my corner and I squeaked by and won. in 1998 no one thought i could beat Al D’Amato. But once again I had labor in my corner…We won because we stood for things. we can’t be a successful party and movement unless we stand for things that matter to working people. the WFP has shown us this”</strong></p>
+<p style="font-weight: 400;"><strong>There were sizable delegations from <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/ACORN&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNG9BHLJkB1dmRoYEYH9kZ3VHT_2eg" href="https://keywiki.org/ACORN">ACORN</a> and <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Citizen_Action&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNFWHtBsKjU7IgUiJPk8RwsCGRZAZg" href="https://keywiki.org/Citizen_Action">Citizen Action</a>.<sup><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_E._Schumer%23cite_note-12&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNHJCgro4QzwuFJ7pN_qrdPJr9RrNA" href="https://keywiki.org/Charles_E._Schumer#cite_note-12">[12]</a></sup></strong></p>
+<h3>WFP support</h3>
+<p style="font-weight: 400;"><strong><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Communist_Party_USA&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNFnzRZPXAuvJvgeKTC2QDjr1EbEIQ" href="https://keywiki.org/Communist_Party_USA">Communist Party USA</a> members <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Elena_Mora&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGf92VaWlHNOSGZXfPA2fg_L2IDUA" href="https://keywiki.org/Elena_Mora">Elena Mora</a> and <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Gabe_Falsetta&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNFxKahVTCC2nlgmWhy5BEoKUZTSVQ" href="https://keywiki.org/Gabe_Falsetta">Gabe Falsetta</a> wrote a report for the <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/People%2527s_World&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNHEYL_-fxklVW_93AIRsTycHzW8XQ" href="https://keywiki.org/People%27s_World">People’s World</a>, of November 19 2004 “Many positives in N.Y. elections,” commenting on the gains made by “progressive” candidates.<sup><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_E._Schumer%23cite_note-13&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGtKx7AxTZHbYJxWhxYf7PGN2Shsw" href="https://keywiki.org/Charles_E._Schumer#cite_note-13">[13]</a></sup></strong></p>
+<p style="font-weight: 400;"><strong><em>At press time, Democrat <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Brian_Higgins&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNHLDoQ4pgnUd77JrwrpfzzjDHj_FQ" href="https://keywiki.org/Brian_Higgins">Brian Higgins</a> appeared very close to winning the 27th Congressional District seat, which represents parts of Buffalo. The GOP has held the seat for 12 years. The vote tally was extremely close and continuing.</em></strong></p>
+<p style="font-weight: 400;"><strong><em>Higgins had the strong support of labor and the <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Working_Families_Party&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGgroe21SweZiT51kKI_7loo6Ky2Q" href="https://keywiki.org/Working_Families_Party">Working Families Party</a>. The WFP also attracted 150,000 votes on its line for Sen. <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_Schumer&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNEEqKpp89FwhW6FribHzL-3hEmRXQ" href="https://keywiki.org/Charles_Schumer">Charles Schumer</a>, and about 120,000 for Kerry. <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/War_Resisters_League&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNEzOqBTHluGryOEn5v1eG8RVouTCA" href="https://keywiki.org/War_Resisters_League">War Resisters League</a> leader <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/David_McReynolds&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGj2dMFAB48zg9CkcZ5ttZDA4EZEg" href="https://keywiki.org/David_McReynolds">David McReynolds</a> ran against Schumer as a Green Party candidate and garnered 33,000 votes.</em></strong></p>
+<p style="font-weight: 400;"><strong>In 2004, the <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Working_Families_Party&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGgroe21SweZiT51kKI_7loo6Ky2Q" href="https://keywiki.org/Working_Families_Party">Working Families Party</a> endorsed Democrat Charles Schumer for U.S. Senate. Thus, Schumer’s name appeared on the ballot twice — once as a Democrat and once as the candidate of the Working Families Party. Supporters of the Working Families Party — 155,000 of them — voted for Schumer on the Working Families Party ballot line.<sup><a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_E._Schumer%23cite_note-14&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNHxVmOXCKcr6tUnl3LeXalEHMbhBg" href="https://keywiki.org/Charles_E._Schumer#cite_note-14">[14]</a></sup></strong></p>
+<h3>WFP pre-election gathering</h3>
+<p style="font-weight: 400;"><strong>Many high-power politicians–United States Senator <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Charles_Schumer&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNEEqKpp89FwhW6FribHzL-3hEmRXQ" href="https://keywiki.org/Charles_Schumer">Charles Schumer</a>, Mayor <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Bill_de_Blasio&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNFOmpmq5go-3NdY5fEg0aC3q6i7zQ" href="https://keywiki.org/Bill_de_Blasio">Bill de Blasio</a>, Council Speaker <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Melissa_Mark-Viverito&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGj-HWv99kRNaTdmyK9X186GZb6Xg" href="https://keywiki.org/Melissa_Mark-Viverito">Melissa Mark-Viverito</a>, Public Advocate <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Letitia_James&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGScGI39opul697ERN5qJs8pVvZqA" href="https://keywiki.org/Letitia_James">Letitia James</a> and State Senator <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/James_Sanders&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNFhksExm0N60Ye-reltyFuhV_ScQA" href="https://keywiki.org/James_Sanders">James Sanders</a>–fired up a hundreds-strong crowd of supporters of the labor-backed <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/Working_Families_Party&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNGgroe21SweZiT51kKI_7loo6Ky2Q" href="https://keywiki.org/Working_Families_Party">Working Families Party</a> 9/9/2014 with speeches vowing to keep Republicans from controlling the State Senate, to raise the minimum wage, to create a public financing system for state elections and to organize low-paid fast food and airport workers.</strong></p>
+<p style="font-weight: 400;"><strong>The crowd, a mix of union members and activist groups like <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/index.php?title%3DVocal-NY%26action%3Dedit%26redlink%3D1&amp;source=gmail&amp;ust=1589997499786000&amp;usg=AFQjCNF62rYYfLkKqHdjzknjob0q0osB8g" href="https://keywiki.org/index.php?title=Vocal-NY&amp;action=edit&amp;redlink=1">Vocal-NY</a> and <a data-saferedirecturl="https://www.google.com/url?q=https://keywiki.org/New_York_Communities_for_Change&amp;source=gmail&amp;ust=1589997499787000&amp;usg=AFQjCNEiOcQVulYv89oVACJyURmB3AiqeA" href="https://keywiki.org/New_York_Communities_for_Change">New York Communities for Change</a>, crammed into the basement of Manhattan’s Saint Vartan’s Armenian Cathedral for the event, entitled “Justice for Workers.” The evening started with a reading by poet Maria “Mariposa” Fernandez, who read a piece detailing the difficult life of a Hispanic service worker that simultaneously railed against pollution, an America “ruled by warmongering men,” “U.S. colonialism and imperialism” and the Atlantic slave trade.</strong></p>
+<p style="font-weight: 400;"><strong>“We’re not going to take back one Senate, we’re going to take back two Senates, one in Washington and one in Albany!” said Mr. Schumer, recalling his long relationship with WFP, which dates back to his first successful run for his seat in 1998–when Republicans dominated both houses of the federal legislature. “We sent Al D’Amato back to Island Park, and we put Newt Gingrich on the midnight train to Georgia. Now we’re going to do that again!”</strong></p>
+</blockquote>
+<p>Article posted with permission from <a href="https://sonsoflibertymedia.com/who-are-nancy-pelosi-chuck-schumer/">Sons Of Liberty Media</a></p>
+<hr/> <div class="dcms_author-info"> <div class="dcms_author-avatar"> </div> <h3 class="dcms_author-heading">Leon Puissegur</h3> <div class="dcms_author-description"> 		Leon Puissegur is a Disabled Vietnam Veteran with 3 children and 9
+grandchildren. He has been married to the same wonderful lady for 43
+years. He is an award-winning author and has been writing opinion pieces over the years and in just the last few years has written 4 books and a large number of articles on many sites. You can <a href="https://www.amazon.com/gp/search?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;index=books&amp;keywords=Leon%20Puissegur&amp;linkCode=ur2&amp;tag=freedomoutpos-20">purchase his books at Amazon</a>. 	</div> <div class="dcms_author-footer"> <div class="dcms_author-social"> <a class="author-url" href="https://thewashingtonstandard.com" target="_blank"><i aria-hidden="true" class="fa fa-link"></i></a> </div> <div class="dcms_author-show-all"> <a href="https://thewashingtonstandard.com/author/leonpuissegur/">View all posts <i aria-hidden="true" class="fa fa-angle-right"></i></a> </div> </div> </div><div class="vw-after-post-content"><div id="ld-9916-2787"></div>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11229615620571750,size:[0, 0],id:"ld-9916-2787"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<div id="ld-5476-3400"></div>
+<div id="ld-3144-5478"></div>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:13299128834695782,size:[0, 0],id:"ld-3144-5478"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11229615620571750,size:[0, 0],id:"ld-5476-3400"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<div id="rcjsload_600273"></div>
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script></div><!-- AI CONTENT END 2 -->
+</div>
+</article><!-- #post-## -->
+<div class="vw-related-posts vw-related-posts-style-default">
+<h3 class="vw-related-posts-title"><span>Related Posts</span></h3>
+<div class="vw-post-loop vw-post-loop-small-top-thumbnail vw-post-loop-small-top-thumbnail-2 vw-post-loop-col-2">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-block-grid vw-block-grid-xs-2 vw-block-grid-md-4">
+<div class="vw-block-grid-item">
+<div class="vw-post-box vw-post-style-small-top-thumbnail clearfix vw-post-format-standard" itemscope="" itemtype="http://schema.org/Article">
+<meta content="2023-03-08T18:15:28-05:00" itemprop="datePublished"/>
+<div itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+<meta content="The Washington Standard" itemprop="name"/>
+<div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" itemprop="url"/>
+<meta content="600" itemprop="width"/>
+<meta content="134" itemprop="height"/>
+</div>
+</div>
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/johnwhitehead/" itemprop="name" rel="author" title="Posts by John Whitehead">John Whitehead</a>
+</span>
+<a class="vw-post-box-thumbnail" href="https://thewashingtonstandard.com/the-right-to-be-let-alone-when-the-government-wants-to-know-all-your-business/" rel="bookmark">
+<img alt="" class="attachment-vw_one_six_thumbnail size-vw_one_six_thumbnail wp-post-image" height="116" itemprop="image" loading="lazy" sizes="(max-width: 165px) 100vw, 165px" src="https://thewashingtonstandard.com/wp-content/uploads/2023/03/quote-the-makers-of-our-constitution-conferred-as-against-the-government-the-right-to-be-let-louis-d-brandeis-67-78-10-165x116.jpg" srcset="https://thewashingtonstandard.com/wp-content/uploads/2023/03/quote-the-makers-of-our-constitution-conferred-as-against-the-government-the-right-to-be-let-louis-d-brandeis-67-78-10-165x116.jpg 165w, https://thewashingtonstandard.com/wp-content/uploads/2023/03/quote-the-makers-of-our-constitution-conferred-as-against-the-government-the-right-to-be-let-louis-d-brandeis-67-78-10-85x60.jpg 85w" width="165"> </img></a>
+<div class="vw-post-box-inner">
+<h5 class="vw-post-box-title" itemprop="headline">
+<a href="https://thewashingtonstandard.com/the-right-to-be-let-alone-when-the-government-wants-to-know-all-your-business/" itemprop="url" rel="bookmark" title="Permalink to The Right To Be Let Alone: When The Government Wants To Know All Your Business">The Right To Be Let Alone: When The Government Wants To Know All Your Business</a>
+</h5>
+</div>
+</div> </div>
+<div class="vw-block-grid-item">
+<div class="vw-post-box vw-post-style-small-top-thumbnail clearfix vw-post-format-standard" itemscope="" itemtype="http://schema.org/Article">
+<meta content="2023-03-08T18:14:20-05:00" itemprop="datePublished"/>
+<div itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+<meta content="The Washington Standard" itemprop="name"/>
+<div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" itemprop="url"/>
+<meta content="600" itemprop="width"/>
+<meta content="134" itemprop="height"/>
+</div>
+</div>
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/timbrown/" itemprop="name" rel="author" title="Posts by Tim Brown">Tim Brown</a>
+</span>
+<a class="vw-post-box-thumbnail" href="https://thewashingtonstandard.com/nanny-state-dead-ahead-video/" rel="bookmark">
+<img alt="" class="attachment-vw_one_six_thumbnail size-vw_one_six_thumbnail wp-post-image" height="116" itemprop="image" loading="lazy" sizes="(max-width: 165px) 100vw, 165px" src="https://thewashingtonstandard.com/wp-content/uploads/2023/02/Nanny_State_2023-165x116.jpg" srcset="https://thewashingtonstandard.com/wp-content/uploads/2023/02/Nanny_State_2023-165x116.jpg 165w, https://thewashingtonstandard.com/wp-content/uploads/2023/02/Nanny_State_2023-85x60.jpg 85w" width="165"> </img></a>
+<div class="vw-post-box-inner">
+<h5 class="vw-post-box-title" itemprop="headline">
+<a href="https://thewashingtonstandard.com/nanny-state-dead-ahead-video/" itemprop="url" rel="bookmark" title="Permalink to Nanny State Dead Ahead! (Video)">Nanny State Dead Ahead! (Video)</a>
+</h5>
+</div>
+</div> </div>
+<div class="vw-block-grid-item">
+<div class="vw-post-box vw-post-style-small-top-thumbnail clearfix vw-post-format-standard" itemscope="" itemtype="http://schema.org/Article">
+<meta content="2023-03-08T10:29:26-05:00" itemprop="datePublished"/>
+<div itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+<meta content="The Washington Standard" itemprop="name"/>
+<div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" itemprop="url"/>
+<meta content="600" itemprop="width"/>
+<meta content="134" itemprop="height"/>
+</div>
+</div>
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/thewashingtonstandard/" itemprop="name" rel="author" title="Posts by The Washington Standard">The Washington Standard</a>
+</span>
+<a class="vw-post-box-thumbnail" href="https://thewashingtonstandard.com/people-are-leaving-the-state-flies-in-the-face-of-the-same-media-that-reported-that-the-governor-was-reelected-by-the-people-doesnt-it-video/" rel="bookmark">
+<img alt="" class="attachment-vw_one_six_thumbnail size-vw_one_six_thumbnail wp-post-image" height="116" itemprop="image" loading="lazy" sizes="(max-width: 165px) 100vw, 165px" src="https://thewashingtonstandard.com/wp-content/uploads/2023/03/running-165x116.jpg" srcset="https://thewashingtonstandard.com/wp-content/uploads/2023/03/running-165x116.jpg 165w, https://thewashingtonstandard.com/wp-content/uploads/2023/03/running-85x60.jpg 85w" width="165"/> </a>
+<div class="vw-post-box-inner">
+<h5 class="vw-post-box-title" itemprop="headline">
+<a href="https://thewashingtonstandard.com/people-are-leaving-the-state-flies-in-the-face-of-the-same-media-that-reported-that-the-governor-was-reelected-by-the-people-doesnt-it-video/" itemprop="url" rel="bookmark" title="Permalink to People Are Leaving The State: Flies In The Face Of The Same Media That Reported That The Governor Was Reelected By The People, Doesn’t It? (Video)">People Are Leaving The State: Flies In The Face Of The Same Media That Reported That The Governor Was Reelected By The People, Doesn’t It? (Video)</a>
+</h5>
+</div>
+</div> </div>
+<div class="vw-block-grid-item">
+<div class="vw-post-box vw-post-style-small-top-thumbnail clearfix vw-post-format-standard" itemscope="" itemtype="http://schema.org/Article">
+<meta content="2023-03-08T09:33:54-05:00" itemprop="datePublished"/>
+<div itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+<meta content="The Washington Standard" itemprop="name"/>
+<div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" itemprop="url"/>
+<meta content="600" itemprop="width"/>
+<meta content="134" itemprop="height"/>
+</div>
+</div>
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/thewashingtonstandard/" itemprop="name" rel="author" title="Posts by The Washington Standard">The Washington Standard</a>
+</span>
+<a class="vw-post-box-thumbnail" href="https://thewashingtonstandard.com/parents-education-whos-in-charge-of-kids/" rel="bookmark">
+<img alt="" class="attachment-vw_one_six_thumbnail size-vw_one_six_thumbnail wp-post-image" height="116" itemprop="image" loading="lazy" sizes="(max-width: 165px) 100vw, 165px" src="https://thewashingtonstandard.com/wp-content/uploads/2023/03/9f642c9a7d318d80ccf304f4b19931e1-165x116.jpg" srcset="https://thewashingtonstandard.com/wp-content/uploads/2023/03/9f642c9a7d318d80ccf304f4b19931e1-165x116.jpg 165w, https://thewashingtonstandard.com/wp-content/uploads/2023/03/9f642c9a7d318d80ccf304f4b19931e1-85x60.jpg 85w" width="165"/> </a>
+<div class="vw-post-box-inner">
+<h5 class="vw-post-box-title" itemprop="headline">
+<a href="https://thewashingtonstandard.com/parents-education-whos-in-charge-of-kids/" itemprop="url" rel="bookmark" title="Permalink to Parents &amp; Education: Who’s In Charge Of Kids?">Parents &amp; Education: Who’s In Charge Of Kids?</a>
+</h5>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="vw-post-navigation clearfix">
+<a class="vw-post-navigation-previous" href="https://thewashingtonstandard.com/an-in-depth-look-at-american-propaganda-operation-mockingbird-mind-control/">
+<div class="vw-post-navigation-content">
+<span class="vw-post-navigation-label">Previous post</span>
+<h3 class="vw-post-navigation-title">
+				An In-Depth Look At American Propaganda, Operation Mockingbird &amp; Mind Control			</h3>
+</div>
+</a>
+<a class="vw-post-navigation-next" href="https://thewashingtonstandard.com/the-100-billion-rushing-test-scheme/">
+<div class="vw-post-navigation-content">
+<span class="vw-post-navigation-label">Next post</span>
+<h3 class="vw-post-navigation-title">
+				The $100 Billion ‘Rushing’ Test Scheme			</h3>
+</div>
+</a>
+</div>
+</div>
+<aside class="vw-page-sidebar vw-page-sidebar-right" itemscope="" itemtype="http://schema.org/WPSideBar">
+<meta content="Right Sidebar" itemprop="name"/>
+<div class="vw-sticky-sidebar-wrapper"><div class="vw-sticky-sidebar"><div class="widget widget_text" id="text-15"> <div class="textwidget"><style>@import url("//fonts.googleapis.com/css?family=Noticia+Text:400,400italic,700,700italic");
+body.greenarrow_web_form {
+  background-image: url(%%studio_root_url%%assets/form-seamlesstexture8_500.jpg);
+}</p>
+<p>.greenarrow_web_form {
+  /* =Buttons
+   *-------------------------------------------------------------- */
+  /* =Buttons (Call to Action)
+   *-------------------------------------------------------------- */
+  /* =Buttons (Sizes)
+   *-------------------------------------------------------------- */
+  /* =Buttons (Colors)
+   *-------------------------------------------------------------- */
+}
+.greenarrow_web_form html, .greenarrow_web_form body, .greenarrow_web_form div, .greenarrow_web_form span, .greenarrow_web_form applet, .greenarrow_web_form object, .greenarrow_web_form iframe,
+.greenarrow_web_form h1, .greenarrow_web_form h2, .greenarrow_web_form h3, .greenarrow_web_form h4, .greenarrow_web_form h5, .greenarrow_web_form h6, .greenarrow_web_form p, .greenarrow_web_form blockquote, .greenarrow_web_form pre,
+.greenarrow_web_form a, .greenarrow_web_form abbr, .greenarrow_web_form acronym, .greenarrow_web_form address, .greenarrow_web_form big, .greenarrow_web_form cite, .greenarrow_web_form code,
+.greenarrow_web_form del, .greenarrow_web_form dfn, .greenarrow_web_form em, .greenarrow_web_form img, .greenarrow_web_form ins, .greenarrow_web_form kbd, .greenarrow_web_form q, .greenarrow_web_form s, .greenarrow_web_form samp,
+.greenarrow_web_form small, .greenarrow_web_form strike, .greenarrow_web_form strong, .greenarrow_web_form sub, .greenarrow_web_form sup, .greenarrow_web_form tt, .greenarrow_web_form var,
+.greenarrow_web_form b, .greenarrow_web_form u, .greenarrow_web_form i, .greenarrow_web_form center,
+.greenarrow_web_form dl, .greenarrow_web_form dt, .greenarrow_web_form dd, .greenarrow_web_form ol, .greenarrow_web_form ul, .greenarrow_web_form li,
+.greenarrow_web_form fieldset, .greenarrow_web_form form, .greenarrow_web_form label, .greenarrow_web_form legend,
+.greenarrow_web_form table, .greenarrow_web_form caption, .greenarrow_web_form tbody, .greenarrow_web_form tfoot, .greenarrow_web_form thead, .greenarrow_web_form tr, .greenarrow_web_form th, .greenarrow_web_form td,
+.greenarrow_web_form article, .greenarrow_web_form aside, .greenarrow_web_form canvas, .greenarrow_web_form details, .greenarrow_web_form embed,
+.greenarrow_web_form figure, .greenarrow_web_form figcaption, .greenarrow_web_form footer, .greenarrow_web_form header, .greenarrow_web_form hgroup,
+.greenarrow_web_form menu, .greenarrow_web_form nav, .greenarrow_web_form output, .greenarrow_web_form ruby, .greenarrow_web_form section, .greenarrow_web_form summary,
+.greenarrow_web_form time, .greenarrow_web_form mark, .greenarrow_web_form audio, .greenarrow_web_form video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+.greenarrow_web_form html {
+  line-height: 1;
+}
+.greenarrow_web_form ol, .greenarrow_web_form ul {
+  list-style: none;
+}
+.greenarrow_web_form table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.greenarrow_web_form caption, .greenarrow_web_form th, .greenarrow_web_form td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+.greenarrow_web_form q, .greenarrow_web_form blockquote {
+  quotes: none;
+}
+.greenarrow_web_form q:before, .greenarrow_web_form q:after, .greenarrow_web_form blockquote:before, .greenarrow_web_form blockquote:after {
+  content: "";
+  content: none;
+}
+.greenarrow_web_form a img {
+  border: none;
+}
+.greenarrow_web_form article, .greenarrow_web_form aside, .greenarrow_web_form details, .greenarrow_web_form figcaption, .greenarrow_web_form figure, .greenarrow_web_form footer, .greenarrow_web_form header, .greenarrow_web_form hgroup, .greenarrow_web_form main, .greenarrow_web_form menu, .greenarrow_web_form nav, .greenarrow_web_form section, .greenarrow_web_form summary {
+  display: block;
+}
+.greenarrow_web_form body {
+  line-height: 1;
+  font-family: "Open Sans", sans-serif;
+  padding: 0;
+  background-color: #ededed;
+}
+.greenarrow_web_form .main-box {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  padding: 50px;
+  background-color: #FFF;
+  text-shadow: 0px 0px 0px #CCC;
+  line-height: 1.5em;
+}
+.greenarrow_web_form .rounded-box {
+  margin-top: 75px;
+  margin-bottom: 75px;
+  border: 1px solid #CCC;
+  -webkit-box-shadow: 2px 2px 4px 0px #999999;
+  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  box-shadow: 2px 2px 4px 0px #999999;
+  /* Opera 10.5, IE9+, Firefox 4+, Chrome 6+, iOS 5 */
+  -webkit-border-radius: 5px;
+  border-radius: 10px;
+}
+.greenarrow_web_form .alert-error {
+  color: #b94a48;
+  background-color: #f2dede;
+  border: 1px solid #eed3d7;
+  padding: 8px 35px 8px 14px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+.greenarrow_web_form h1 {
+  font-family: "Noticia Text", sans-serif;
+  margin: 0px 0px 20px 0px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2.5em;
+  color: #3F86C0;
+  line-height: 1.2em;
+}
+.greenarrow_web_form p {
+  padding-bottom: 10px;
+}
+.greenarrow_web_form ul.form-fields {
+  list-style: none;
+  padding-left: 0px;
+}
+.greenarrow_web_form ul.form-fields li {
+  position: relative;
+  text-align: left;
+  line-height: 2em;
+  padding: 10px 0px 0px 10px;
+  margin: -10px -10px 10px -10px;
+}
+.greenarrow_web_form ul.form-fields li.field_with_errors {
+  background-color: #FFEEEE;
+  border: 1px solid #FFDDDD;
+  margin-bottom: 15px;
+}
+.greenarrow_web_form ul.form-fields li.field_with_errors span.error {
+  color: #FF0000;
+  font-weight: normal;
+  text-align: center;
+  display: block;
+}
+.greenarrow_web_form ul.form-fields li label {
+  display: inline-block;
+  vertical-align: top;
+  font-family: "Noticia Text", sans-serif;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #3F86C0;
+}
+.greenarrow_web_form ul.form-fields li .quick-tip {
+  display: block;
+  color: gray;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 0.9em;
+}
+.greenarrow_web_form ul.form-fields div.field-content label.radio {
+  font-family: "Open Sans", san-serif;
+  display: list-item;
+  font-size: 0.9em;
+  margin-left: 25px;
+  font-weight: normal;
+  color: #666;
+}
+.greenarrow_web_form ul.form-fields div.field-content label.checkbox {
+  font-family: "Open Sans", san-serif;
+  width: 300px;
+  font-size: 0.9em;
+  margin-left: 25px;
+  font-weight: normal;
+  color: #666;
+}
+.greenarrow_web_form .main-box .form-description p {
+  margin: 10px 0px 25px 0px;
+  color: #666;
+  padding: 20px 0px;
+  border-bottom: 1px solid #DDD;
+  border-top: 1px solid #DDD;
+}
+.greenarrow_web_form ul.form-fields input[type="text"], .greenarrow_web_form ul.form-fields select, .greenarrow_web_form ul.form-fields textarea, .greenarrow_web_form ul.form-fields div.field-content {
+  display: inline-block;
+  width: 490px;
+  line-height: 1.5em;
+  font-family: "Open Sans", san-serif;
+}
+.greenarrow_web_form ul.form-fields div.field-content {
+  display: inline-block;
+}
+.greenarrow_web_form div.form-actions-container {
+  padding-top: 20px;
+  border-top: 1px solid #DDD;
+}
+.greenarrow_web_form button, .greenarrow_web_form a.button {
+  -moz-border-radius: 5px;
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-border-radius: 5px;
+  background-color: #f9f9f9;
+  /* Alabaster */
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -ms-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: linear-gradient(top, #f9f9f9, #f1f1f1);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  color: #333;
+  cursor: pointer;
+  display: inline-block;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#f9f9f9, endColorstr=#f1f1f1);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 0;
+  padding: 4px 10px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #fff;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.greenarrow_web_form input[type='reset'], .greenarrow_web_form input[type='button'], .greenarrow_web_form input[type='submit'] {
+  -moz-border-radius: 5px;
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-border-radius: 5px;
+  background-color: #f9f9f9;
+  /* Alabaster */
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -ms-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: linear-gradient(top, #f9f9f9, #f1f1f1);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  color: #333;
+  cursor: pointer;
+  display: inline-block;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#f9f9f9, endColorstr=#f1f1f1);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 0;
+  padding: 4px 10px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #fff;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.greenarrow_web_form button:hover, .greenarrow_web_form a.button:hover {
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  background-color: #fff;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(white), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, white, #f1f1f1);
+  background-image: -moz-linear-gradient(top, white, #f1f1f1);
+  background-image: -ms-linear-gradient(top, white, #f1f1f1);
+  background-image: -o-linear-gradient(top, white, #f1f1f1);
+  background-image: linear-gradient(top, white, #f1f1f1);
+  border: 1px solid #ddd;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  color: #333;
+}
+.greenarrow_web_form input[type='reset']:hover, .greenarrow_web_form input[type='button']:hover, .greenarrow_web_form input[type='submit']:hover {
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  background-color: #fff;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(white), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, white, #f1f1f1);
+  background-image: -moz-linear-gradient(top, white, #f1f1f1);
+  background-image: -ms-linear-gradient(top, white, #f1f1f1);
+  background-image: -o-linear-gradient(top, white, #f1f1f1);
+  background-image: linear-gradient(top, white, #f1f1f1);
+  border: 1px solid #ddd;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  color: #333;
+}
+.greenarrow_web_form button:active, .greenarrow_web_form a.button:active {
+  -moz-box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -ms-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: linear-gradient(top, #f9f9f9, #f1f1f1);
+  box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+.greenarrow_web_form input[type='reset']:active, .greenarrow_web_form input[type='button']:active, .greenarrow_web_form input[type='submit']:active {
+  -moz-box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -ms-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: linear-gradient(top, #f9f9f9, #f1f1f1);
+  box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+.greenarrow_web_form .call-to-action {
+  text-align: center;
+}
+.greenarrow_web_form .call-to-action a.button {
+  font-size: 24px;
+  padding: 15px 35px;
+}
+.greenarrow_web_form .call-to-action a.button:hover {
+  text-decoration: none;
+}
+.greenarrow_web_form .ie7 .call-to-action a.button {
+  padding: 11px 35px 19px 35px;
+}
+.greenarrow_web_form .small a.button {
+  font-size: 10px;
+  padding: 3px 6px;
+}
+.greenarrow_web_form .medium a.button {
+  font-size: 16px;
+  padding: 8px 16px;
+}
+.greenarrow_web_form .large a.button {
+  font-size: 18px;
+  padding: 10px 35px;
+}
+.greenarrow_web_form .xlarge a.button {
+  font-size: 24px;
+  padding: 12px 55px;
+}
+.greenarrow_web_form a.colored, .greenarrow_web_form button.colored {
+  background-color: #1874cd;
+  /* Dodger Blue */
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#4f9eea), to(#1874cd));
+  background-image: -webkit-linear-gradient(top, #4f9eea, #1874cd);
+  background-image: -moz-linear-gradient(top, #4f9eea, #1874cd);
+  background-image: -ms-linear-gradient(top, #4f9eea, #1874cd);
+  background-image: -o-linear-gradient(top, #4f9eea, #1874cd);
+  background-image: linear-gradient(top, #4f9eea, #1874cd);
+  border: 1px solid #115290;
+  color: #fff;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4f9eea, endColorstr=#1874cd);
+  text-shadow: 0 -1px 0 #115290;
+}
+.greenarrow_web_form a.colored:hover, .greenarrow_web_form button.colored:hover {
+  background-color: #7db7f0;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#7db7f0), to(#1874cd));
+  background-image: -webkit-linear-gradient(top, #7db7f0, #1874cd);
+  background-image: -moz-linear-gradient(top, #7db7f0, #1874cd);
+  background-image: -ms-linear-gradient(top, #7db7f0, #1874cd);
+  background-image: -o-linear-gradient(top, #7db7f0, #1874cd);
+  background-image: linear-gradient(top, #7db7f0, #1874cd);
+  border: 1px solid #115290;
+  color: #fff;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7db7f0, endColorstr=#1874cd);
+  text-shadow: 0 -1px 0 #115290;
+}
+</style>
+<div class="greenarrow_web_form">
+<div class="main-box">
+<h1>Sign Up To Receive Our Daily Updates</h1>
+<form accept-charset="UTF-8" action="http://if.inboxfirst.com/ga/front/forms/1019/subscriptions/" class="simple_form embedded-ga-subscription-form" id="new_pending_subscriber" method="post" novalidate="novalidate" target="_parent">
+<div style="margin: 0; padding: 0; display: inline;"><input name="utf8" type="hidden" value="✓"/></div>
+<ul class="form-fields">
+<li style="list-style-type: none;">
+<ul class="form-fields">
+<li class="form-field clear text required pending_subscriber_email"><label class="text required control-label" for="pending_subscriber_email"><abbr title="required">*</abbr> Email</label><br/>
+<input class="string required" id="pending_subscriber_email" name="pending_subscriber[email]" size="50" type="text"/></li>
+</ul>
+</li>
+</ul>
+<p><script async="" defer="" src="https://www.google.com/recaptcha/api.js"></script><br/>
+<script>
+  function onCaptchaFormSubmit(token) {
+    document.getElementById("new_pending_subscriber").submit();
+  }
+</script></p>
+<ul class="form-fields">
+<li>
+<div class="form-actions-container call-to-action"><button class="button colored g-recaptcha" data-callback="onCaptchaFormSubmit" data-sitekey="6LcQK5wUAAAAAM8CPJoJl_AiFtnAhNNB--YdWQLM" type="submit">Subscribe</button></div>
+</li>
+</ul>
+</form>
+</div>
+</div>
+</div>
+</div><div class="widget widget_text" id="text-12"> <div class="textwidget"><p><script src="https://whatfinger-videos.b-cdn.net/widgets/new-wfw.js"></script></p>
+<div data-action="widget" id="wWidget_72c367966e"></div>
+<p><script type="application/javascript">var wWidgetConf_72c367966e = {rows: 4,cols: 1,backgroundColor: 'rgb(240, 240, 240)',textColor: 'rgb(0, 0, 0)',borderColor: '#DDD',displayContent: '0',contentSort: '0',contentType: '0',showTitle: '1',showThumb: '1',widgetID: 'wWidget_72c367966e',layout: 'basic'};</script></p>
+</div>
+</div><div class="widget widget_text" id="text-17"> <div class="textwidget"><p><center><a href="https://mypatriotsupply.com/products/new-for-2020-ultimate-preparedness-kit-survival-made-simple?rfsn=5131805.ffe1a3"><img src="https://reformedmedia.net/wp-content/uploads/2022/04/b368b4fa324a6a16f15f475322d0d378.png"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-18"> <div class="textwidget"><p><center><a href="https://www.emfsol.com/?aff=ctQ9GqtsMfLBD3XJZ"><img src="https://thewashingtonstandard.com/wp-content/uploads/2022/10/7289b313c0f61ba6177c38a84d37904d.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-26"> <div class="textwidget"><p><center><a href="https://www.bereli.com?aff=4341"><img src="https://thewashingtonstandard.com/wp-content/uploads/2023/01/berili.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-20"> <div class="textwidget"><p><center><a href="https://timbrown.thegoodinside.com/pbx-trial-offer-557846"><img src="https://thewashingtonstandard.com/wp-content/uploads/2022/10/PBX60.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-25"> <div class="textwidget"><p><center><a href="https://2ndamendmentshirts.com/"><img src="https://thewashingtonstandard.com/wp-content/uploads/2022/12/2ND-AMENDMENT-SHIRTS.png"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-21"> <div class="textwidget"><p><center><a href="https://mystore.com/timbrown"><img src="https://thewashingtonstandard.com/wp-content/uploads/2023/03/timbrown6.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-9"> <div class="textwidget"><p><center><a href="https://heavensharvest.com/collections/seed-kits/products/heirloom-vegetable-seed-bucket?variant=34283425333292"><img src="https://thewashingtonstandard.com/wp-content/uploads/2023/01/heirloom-seed-bucket-seeds-spread1.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-24"> <div class="textwidget"><p><a href="https://mywayuniversity.com/"><img src="https://settingbrushfires.com/wp-content/uploads/2022/10/averting-disease-healthy-body.jpg"/></a></p>
+</div>
+</div><div class="widget widget_text" id="text-23"> <div class="textwidget"><p><a href="https://shop.foodforestabundance.com/TIMBROWN"><img src="https://settingbrushfires.com/wp-content/uploads/2022/10/Food-Forest-Abundance-Install-1-1-1024x684-1.jpg"/></a></p>
+</div>
+</div><div class="widget widget_text" id="text-8"> <div class="textwidget"><p><center><a href="https://wn.nr/FbxxdBD"><img src="https://user-assets.out.sh/user-assets/38224/fEkmrSPjlwqXNS2c/fn-scar-20s-dmr-contest-graphic.jpg" width="360"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-4"> <div class="textwidget"><p><center><a href="https://ammo.com/i/aGRNd0wwRGwxTFE9c" title="Click Here To Save $15 at Ammo.com"><img alt="Click Here To Save $15 at Ammo.com" border="0" height="400" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/refer-a-friend/animated/09_240_400_dark_a2-min.gif" width="240"/></a></center></p>
+</div>
+</div><div class="widget_text widget widget_custom_html" id="custom_html-4"><div class="textwidget custom-html-widget"><div id="ld-8894-6461"></div>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11366057571234406,size:[0, 0],id:"ld-8894-6461"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<!-- Begin Constant Contact Active Forms -->
+<script> var _ctct_m = "26757d10df877cf88ecaa7b09a195719"; </script>
+<script async="" defer="" id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js"></script>
+<!-- End Constant Contact Active Forms --></div></div><div class="widget widget_categories" id="categories-3"><h3 class="widget-title"><span>Categories</span></h3>
+<ul>
+<li class="cat-item cat-item-18"><a href="https://thewashingtonstandard.com/category/commentary/">Commentary</a>
+</li>
+<li class="cat-item cat-item-8"><a href="https://thewashingtonstandard.com/category/constitutionandlaw/">Constitution &amp; Law</a>
+</li>
+<li class="cat-item cat-item-11"><a href="https://thewashingtonstandard.com/category/economy/">Economy</a>
+</li>
+<li class="cat-item cat-item-6"><a href="https://thewashingtonstandard.com/category/politics/">Politics</a>
+</li>
+<li class="cat-item cat-item-1"><a href="https://thewashingtonstandard.com/category/uncategorized/">Uncategorized</a>
+</li>
+<li class="cat-item cat-item-4"><a href="https://thewashingtonstandard.com/category/us-news/">US</a>
+</li>
+<li class="cat-item cat-item-7"><a href="https://thewashingtonstandard.com/category/videos/">Videos</a>
+</li>
+<li class="cat-item cat-item-5"><a href="https://thewashingtonstandard.com/category/worldnews/">World</a>
+</li>
+</ul>
+</div></div></div>
+</aside>
+</div>
+</div>
+</div>
+<!-- Site Footer -->
+<footer class="vw-site-footer" itemscope="" itemtype="http://schema.org/WPFooter">
+<!-- Bottom Bar -->
+<div class="vw-bottom-bar">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-bottom-bar-inner">
+<div class="vw-bottom-bar-left">
+<div class="vw-copyright">Copyright © The Washington Standard, All Rights Reserved.
+Our posts contain affiliate links and we earn a small commission from those links. This is how we help to make money so we can continue to bring you amazing content. Thank you for your support.
+</div> </div>
+<div class="vw-bottom-bar-right">
+<span class="vw-site-social-profile"><a class="vw-site-social-profile-icon vw-site-social-facebook" href="https://www.facebook.com/thewashingtonstandard" title="Facebook"><i class="vw-icon icon-social-facebook"></i></a><a class="vw-site-social-profile-icon vw-site-social-twitter" href="https://twitter.com/FPPTim" title="Twitter"><i class="vw-icon icon-social-twitter"></i></a><a class="vw-site-social-profile-icon vw-site-social-youtube" href="https://bit.ly/settingbrushfires" title="Youtube"><i class="vw-icon icon-social-youtube"></i></a></span> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- End Bottom Bar -->
+</footer>
+<!-- End Site Footer -->
+</div>
+<!-- End Site Wrapper -->
+<!-- WP Footer -->
+<div class="zoom-anim-dialog mfp-hide" id="vw-post-shares-dialog">
+<span class="vw-post-shares-subtitle">SHARE</span>
+<h1 class="vw-header-font vw-post-shares-title">Who Are Nancy Pelosi &amp; Chuck Schumer?</h1>
+<div class="vw-post-shares-socials">
+<a class="vw-post-shares-social vw-post-shares-social-facebook" data-height="300" data-post-id="77318" data-share-to="facebook" data-width="500" href="https://www.facebook.com/sharer.php?u=https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/"><i class="vw-icon icon-social-facebook"></i></a>
+<a class="vw-post-shares-social vw-post-shares-social-twitter" data-height="300" data-post-id="77318" data-share-to="twitter" data-width="500" href="https://twitter.com/intent/tweet?status=Who+Are+Nancy+Pelosi+%26%23038%3B+Chuck+Schumer%3F%20-%20https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/"><i class="vw-icon icon-social-twitter"></i></a>
+<a class="vw-post-shares-social vw-post-shares-social-pinterest" data-height="300" data-post-id="77318" data-share-to="pinterest" data-width="750" href="https://pinterest.com/pin/create/button/?url=https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/&amp;media=https://thewashingtonstandard.com/wp-content/uploads/2020/05/schumer-pelos-hi-rez.jpg&amp;description=Who+Are+Nancy+Pelosi+%26%23038%3B+Chuck+Schumer%3F"><i class="vw-icon icon-social-pinterest"></i></a>
+<a class="vw-post-shares-social vw-post-shares-social-gplus" data-height="475" data-post-id="77318" data-share-to="gplus" data-width="500" href="https://plus.google.com/share?url=https://thewashingtonstandard.com/who-are-nancy-pelosi-chuck-schumer/"><i class="vw-icon icon-social-gplus"></i></a>
+</div>
+</div>
+<span class="vw-scroll-to-top"><i class="vw-icon icon-entypo-up-open"></i></span>
+<script id="swv-js" src="https://thewashingtonstandard.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.4" type="text/javascript"></script>
+<script id="contact-form-7-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/thewashingtonstandard.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script id="contact-form-7-js" src="https://thewashingtonstandard.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.4" type="text/javascript"></script>
+<script id="vwjs-post-shares-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var vw_post_shares = {"ajaxurl":"https:\/\/thewashingtonstandard.com\/wp-admin\/admin-ajax.php","is_caching_enabled":"1"};
+/* ]]> */
+</script>
+<script id="vwjs-post-shares-js" src="https://thewashingtonstandard.com/wp-content/plugins/espresso-theme-options-panel/plugin-terrory/post-shares/post-shares.js?ver=1.5.4" type="text/javascript"></script>
+<script id="instant-search-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var instant_search = {"blog_url":"https:\/\/thewashingtonstandard.com","ajax_url":"https:\/\/thewashingtonstandard.com\/wp-admin\/admin-ajax.php","placeholder":"Search"};
+/* ]]> */
+</script>
+<script id="instant-search-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/inc/instant-search/instant-search.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-fitvids-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.fitvids.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-pace-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/components/pace/pace.min.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-backstretch-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-backstretch/jquery.backstretch.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-hoverintent-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.hoverIntent.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-imagesloaded-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/imagesloaded.pkgd.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-isotope-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/isotope.pkgd.min.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-jquery-easing-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.easing.compatibility.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-magnific-popup-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.magnific-popup.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-modernizr-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/modernizr.min.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-imgliquid-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/imgLiquid.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-raty-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/raty/jquery.raty.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-superfish-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-superfish/superfish.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-tipsy-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-tipsy/jquery.tipsy.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-newsticker-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.newsTicker.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-sticky-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.sticky.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-swiper-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/swiper/swiper.jquery.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-mmenu-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-mmenu/js/jquery.mmenu.min.all.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-main-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var vw_main_js = {"theme_path":"https:\/\/thewashingtonstandard.com\/wp-content\/themes\/espresso","ajaxurl":"https:\/\/thewashingtonstandard.com\/wp-admin\/admin-ajax.php","slider_slide_duration":"5000","slider_transition_speed":"2500","VW_CONST_BACKSTRETCH_OPT_FADE":"600","VW_CONST_BACKSTRETCH_OPT_CENTEREDY":"true","VW_CONST_BACKSTRETCH_OPT_CENTEREDX":"true","VW_CONST_BACKSTRETCH_OPT_DURATION":"5000"};
+/* ]]> */
+</script>
+<script id="vwjs-main-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/main.js?ver=1.5.4" type="text/javascript"></script>
+<script id="jquery-effects-core-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="jquery-effects-fade-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="jquery-ui-core-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="jquery-ui-accordion-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="jquery-ui-tabs-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="vwscjs-main-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/shortcodes.js?ver=1.5.4" type="text/javascript"></script>
+<script async="async" id="remote_sdk-js" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.0.3" type="text/javascript"></script>
+<script id="vw-backstretch-image-captions-template" type="text/template">
+					<div class="vw-page-title-image-captions vw-featured-image-caption-wrapper">
+											</div>
+				</script>
+<script type="text/javascript">
+					"use strict";
+					if ( jQuery.backstretch ) {
+						var $target = jQuery( '.vw-page-title-section' );
+						$target.backstretch(
+							['https://thewashingtonstandard.com/wp-content/uploads/2020/05/schumer-pelos-hi-rez.jpg'], {
+								fade: 600,
+								centeredY: true,
+								centeredX: true,
+								duration: 5000,
+							}
+						).removeClass( 'vw-has-no-background' ).addClass( 'vw-backstretch vw-has-background' );
+
+						var $image_captions = jQuery( '#vw-backstretch-image-captions-template' ).html();
+						$target.find( '.vw-page-title-box' ).before( $image_captions );
+
+						jQuery( '.vw-gallery-direction-button.vw-gallery-direction-next' ).click( function() {
+							$target.backstretch("next");
+						} );
+
+						jQuery( '.vw-gallery-direction-button.vw-gallery-direction-prev' ).click( function() {
+							$target.backstretch("prev");
+						} );
+
+						jQuery(window).on("backstretch.after", function (e, instance, index) {
+							jQuery( '.vw-page-title-image-captions .vw-featured-image-caption' )
+								.addClass( 'hidden' )
+								.eq( index ).removeClass( 'hidden' );
+						});
+					}
+				</script>
+<script type="text/javascript">
+        jQuery(document).ready(function ($) {
+
+            for (let i = 0; i < document.forms.length; ++i) {
+                let form = document.forms[i];
+				if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="-LgxwVAj" value="860K.@Bz3ScQPfg" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="ZKeqQV" value="HB_YyRi9" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="yLZWuDHYKiSEOh" value="Dl1]EjPqsF@K" />'); }
+            }
+
+            $(document).on('submit', 'form', function () {
+				if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="-LgxwVAj" value="860K.@Bz3ScQPfg" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="ZKeqQV" value="HB_YyRi9" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="yLZWuDHYKiSEOh" value="Dl1]EjPqsF@K" />'); }
+                return true;
+            });
+
+            jQuery.ajaxSetup({
+                beforeSend: function (e, data) {
+
+                    if (data.type !== 'POST') return;
+
+                    if (typeof data.data === 'object' && data.data !== null) {
+						data.data.append("-LgxwVAj", "860K.@Bz3ScQPfg");
+data.data.append("ZKeqQV", "HB_YyRi9");
+data.data.append("yLZWuDHYKiSEOh", "Dl1]EjPqsF@K");
+                    }
+                    else {
+                        data.data = data.data + '&-LgxwVAj=860K.@Bz3ScQPfg&ZKeqQV=HB_YyRi9&yLZWuDHYKiSEOh=Dl1]EjPqsF@K';
+                    }
+                }
+            });
+
+        });
+    </script>
+<!-- End WP Footer -->
+</body>
+</html>
+<!-- Page generated by LiteSpeed Cache 5.3.2 on 2023-03-08 22:27:33 -->

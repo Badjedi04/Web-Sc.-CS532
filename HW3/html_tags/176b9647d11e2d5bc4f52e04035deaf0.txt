@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+
+<html lang="en" prefix="dc: http://purl.org/dc/elements/1.1/#; dcterms: http://purl.org/dc/terms/#">
+<head><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta charset="utf-8"/><meta content="width=device-width" name="viewport"/><script src="../../wicket/resource/org.apache.wicket.resource.JQueryResourceReference/jquery/jquery-1.11.1.min-ver-8101D596B2B8FA35FE3A634EA342D7C3.js" type="text/javascript"></script>
+<link href="/css_min/min/orcid-min.css?v=12088" rel="stylesheet" type="text/css"/>
+<script src="../../wicket/resource/org.europepmc.account.AccountSigninPanel/AccoutSigninPanel-ver-23536C62407C81CFCDCB80EBF689D4C9.js" type="text/javascript"></script>
+<script src="../../wicket/resource/org.apache.wicket.ajax.AbstractDefaultAjaxBehavior/res/js/wicket-event-jquery.min-ver-F070EDFAD7E5A1BD9662F385470094FF.js" type="text/javascript"></script>
+<script src="../../wicket/resource/org.apache.wicket.ajax.AbstractDefaultAjaxBehavior/res/js/wicket-ajax-jquery.min-ver-1D4EE56166B3A1106E05B678CC2AB1EF.js" type="text/javascript"></script>
+<script src="../../wicket/resource/org.apache.wicket.extensions.ajax.markup.html.modal.ModalWindow/res/modal.min-ver-E43C9229F7812A6259B89C7E5B5028FB.js" type="text/javascript"></script>
+<link href="../../wicket/resource/org.apache.wicket.extensions.ajax.markup.html.modal.ModalWindow/res/modal.min-ver-E99D4201F0F6C5D3081AD42ACB1F22C2.css" rel="stylesheet" type="text/css"/>
+<script id="wicket-ajax-base-url" type="text/javascript">
+/*<![CDATA[*/
+Wicket.Ajax.baseUrl="article/ppr/ppr232448";
+/*]]>*/
+</script>
+<style id="uk-bl-ukpmc-web-pages-template-TemplatePage-0">
+/*<![CDATA[*/
+
+#search-feature-link {
+display: none;
+}
+@media only screen and (max-width: 800px) {
+#search-feature-link {
+display: block;
+}
+}
+
+/*]]>*/
+</style>
+<script src="../../wicket/resource/uk.bl.ukpmc.web.pages.template.TemplatePage/TemplatePage-ver-540ECA69167ECC178EB8C919D0809EB3.js" type="text/javascript"></script>
+<title>Europe PMC</title>
+<link href="/template/font-awesome/css/all.min.css" rel="stylesheet"/>
+<link href="/template/EPMC-iconfont/style.css?v=12088" rel="stylesheet"/>
+<link href="/images/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="/Funders/RSS/MostViewedArticles.xml" rel="alternate" title="Europe PMC: Popular articles" type="application/rss+xml"/>
+<link href="/Funders/RSS/AllFunders.xml" rel="alternate" title="Europe PMC: Recent articles" type="application/rss+xml"/>
+<link href="/Funders/rss/NewJournals.xml" rel="alternate" title="Europe PMC: Latest journals" type="application/rss+xml"/>
+<link href="/contentrss" rel="alternate" title="Europe PMC: Content Holdings" type="application/rss+xml"/>
+<meta content="#666" name="theme-color">
+<meta content="Europe PMC" name="author">
+<meta content="Europe PMC" name="owner">
+<meta content="Europe PMC, Europe PubMed Central, open access, research articles, journal articles, abstracts, full text, literature search, clinical guidelines, biological patents, life sciences, bioinformatics, biomedical research, citation search, biomedical journals, ORCIDs, text mining, citation networks, REST APIs " name="keywords"/>
+<meta content="Europe PMC is an archive of life sciences journal literature." name="description"/>
+<meta content="IE=11" http-equiv="X-UA-Compatible"/>
+<link href="/tools_epmc/opensearch_epmc.xml" rel="search" title="Search Europe PMC" type="application/opensearchdescription+xml"/>
+<link href="/template/jquery_ui.css?v=12088" media="print, screen" rel="stylesheet" type="text/css">
+<link href="/template/jquery_menu.css?v=12088" media="screen" rel="stylesheet" type="text/css">
+<script src="/template/yahoo-min.js?v=12088" type="text/javascript"></script>
+<script src="/template/dom-min.js?v=12088" type="text/javascript"></script>
+<script src="/template/enrichment.js?v=12088" type="text/javascript"></script>
+<link href="/template/enrichment.css?v=12088" media="print, screen" rel="stylesheet" type="text/css">
+<script src="/template/hoverIntent.js?v=12088" type="text/javascript"></script>
+<script src="/template/jquery.js?v=12088" type="text/javascript"></script>
+<link href="/template/ncbi/epmc.ncbi.css?v=12088" rel="stylesheet" type="text/css">
+<script src="/template/epmc.js?v=12088" type="text/javascript"></script>
+<link href="/template/epmc_new.css?v=12088" rel="stylesheet" type="text/css">
+<link href="/css/compromise.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+/*<![CDATA[*/
+
+$(document).ready(function () {
+if (window.location.pathname === '/') {
+$(".page_proper").first().addClass('epmc-home-page');
+}
+$("#Highlight_head").click(function (event) {
+event.preventDefault();
+$("#Highlight_body").slideToggle();
+});
+$("#Highlight_body a").click(function (event) {
+event.preventDefault();
+$("#Highlight_body").slideUp();
+});
+var locationHost = $.cookie('location_host');
+if (typeof locationHost === 'undefined' || locationHost == null || locationHost == "") {
+$.cookie("location_host", window.location.host);
+}
+});
+
+/*]]>*/
+</script>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+Wicket.Event.subscribe('/ajax/call/complete', function (jqEvent, attributes, jqXHR, errorThrown, textStatus) {
+if (jqXHR != null && jqXHR.responseText != null &&
+(jqXHR.responseText.match("ShowCitationDetails]]></redirect></ajax-response>")
+|| jqXHR.responseText.match("articles]]></redirect></ajax-response>"))) {
+var ua = window.navigator.userAgent;
+var msie = ua.indexOf("MSIE ");
+var trident = ua.indexOf("Trident/");
+if (msie > 0 || trident > 0) {
+window.document.execCommand("Stop");
+} else {
+window.stop();
+}
+}
+});
+
+/*]]>*/
+</script>
+<noscript><div><meta content="0;URL='/article/ppr/ppr232448?javascript_support=no'" http-equiv="refresh"/></div></noscript><title>Europe PMC</title><script src="https://cdn.jsdelivr.net/npm/get-root-node-polyfill@1.0.0/index.min.js"></script><script id="org-europepmc-backend-EntryPage-0">
+/*<![CDATA[*/
+// for processing latex encoding in abstract and fulltext
+window.MathJax = {
+tex: {
+inlineMath: [['$', '$'], ['\\(', '\\)']]
+}
+};
+/*]]>*/
+</script><link href="/css/chunk-00f8ff4e.a8744ce3.css" rel="prefetch"/><link href="/css/chunk-0174ae6e.dbe6b2e6.css" rel="prefetch"/><link href="/css/chunk-14e31b8e.03921488.css" rel="prefetch"/><link href="/css/chunk-1acce158.c4e32e2b.css" rel="prefetch"/><link href="/css/chunk-1f02c825.5bd53611.css" rel="prefetch"/><link href="/css/chunk-2a369350.d9f0ba2d.css" rel="prefetch"/><link href="/css/chunk-3752628e.73d6a007.css" rel="prefetch"/><link href="/css/chunk-47525778.f2f693d5.css" rel="prefetch"/><link href="/css/chunk-47c0a591.fe43186a.css" rel="prefetch"/><link href="/css/chunk-60a6e289.f8971f0e.css" rel="prefetch"/><link href="/css/chunk-65109596.53d94091.css" rel="prefetch"/><link href="/css/chunk-6602419f.190a4303.css" rel="prefetch"/><link href="/css/chunk-6c678518.c37ed247.css" rel="prefetch"/><link href="/css/chunk-6d7f8920.673f6fc3.css" rel="prefetch"/><link href="/css/chunk-720193c3.adeb4bbb.css" rel="prefetch"/><link href="/css/chunk-745b9968.c78a9010.css" rel="prefetch"/><link href="/css/chunk-748e43e9.9ba13bac.css" rel="prefetch"/><link href="/css/chunk-7525e87a.8c56bae4.css" rel="prefetch"/><link href="/css/chunk-76f0c490.413cd20e.css" rel="prefetch"/><link href="/css/chunk-7724a5fd.3ce2e8da.css" rel="prefetch"/><link href="/css/chunk-7c0aaf82.9ba4ea01.css" rel="prefetch"/><link href="/css/chunk-7fc48d7e.c7ea151b.css" rel="prefetch"/><link href="/css/chunk-807a2bd6.b85915e5.css" rel="prefetch"/><link href="/css/chunk-88c57614.dd3b2cb4.css" rel="prefetch"/><link href="/css/chunk-89a70d92.cafb0726.css" rel="prefetch"/><link href="/css/chunk-988e5c60.c795efbe.css" rel="prefetch"/><link href="/css/chunk-b547d4f6.ca89be19.css" rel="prefetch"/><link href="/css/chunk-b744e2c0.e8f4ac41.css" rel="prefetch"/><link href="/css/chunk-cac315d4.47cc104a.css" rel="prefetch"/><link href="/css/chunk-d361715e.660f509f.css" rel="prefetch"/><link href="/css/chunk-e9e7d366.c4482499.css" rel="prefetch"/><link href="/js/chunk-00f8ff4e.cd84591a.js" rel="prefetch"/><link href="/js/chunk-0174ae6e.aac78da8.js" rel="prefetch"/><link href="/js/chunk-14e31b8e.c80da3e0.js" rel="prefetch"/><link href="/js/chunk-1acce158.009b19b3.js" rel="prefetch"/><link href="/js/chunk-1f02c825.dd1a3ec8.js" rel="prefetch"/><link href="/js/chunk-2a369350.089041c9.js" rel="prefetch"/><link href="/js/chunk-2d0b33fc.e7e723a0.js" rel="prefetch"/><link href="/js/chunk-2d0c95e3.75e4032d.js" rel="prefetch"/><link href="/js/chunk-2d0de79d.005a56ba.js" rel="prefetch"/><link href="/js/chunk-2d0f07fe.80545912.js" rel="prefetch"/><link href="/js/chunk-2d213782.c363fd67.js" rel="prefetch"/><link href="/js/chunk-3752628e.f9c24455.js" rel="prefetch"/><link href="/js/chunk-47525778.a07f989b.js" rel="prefetch"/><link href="/js/chunk-47c0a591.a78159d4.js" rel="prefetch"/><link href="/js/chunk-60a6e289.42702081.js" rel="prefetch"/><link href="/js/chunk-65109596.d8ed165c.js" rel="prefetch"/><link href="/js/chunk-6602419f.1b17e874.js" rel="prefetch"/><link href="/js/chunk-6c678518.e8f7b13c.js" rel="prefetch"/><link href="/js/chunk-6d7f8920.4e3d78b9.js" rel="prefetch"/><link href="/js/chunk-720193c3.c5691375.js" rel="prefetch"/><link href="/js/chunk-745b9968.ff1356ce.js" rel="prefetch"/><link href="/js/chunk-748e43e9.dc042df7.js" rel="prefetch"/><link href="/js/chunk-7525e87a.6089c0c9.js" rel="prefetch"/><link href="/js/chunk-76f0c490.ba412ae3.js" rel="prefetch"/><link href="/js/chunk-7724a5fd.07449104.js" rel="prefetch"/><link href="/js/chunk-7c0aaf82.68d1a84d.js" rel="prefetch"/><link href="/js/chunk-7fc48d7e.307f751f.js" rel="prefetch"/><link href="/js/chunk-807a2bd6.36390f7d.js" rel="prefetch"/><link href="/js/chunk-88c57614.d9d231b2.js" rel="prefetch"/><link href="/js/chunk-89a70d92.80eb1e4d.js" rel="prefetch"/><link href="/js/chunk-988e5c60.acd69757.js" rel="prefetch"/><link href="/js/chunk-b547d4f6.3007c8e6.js" rel="prefetch"/><link href="/js/chunk-b744e2c0.3672859c.js" rel="prefetch"/><link href="/js/chunk-cac315d4.e9ef76b8.js" rel="prefetch"/><link href="/js/chunk-d361715e.8dcee85b.js" rel="prefetch"/><link href="/js/chunk-e9e7d366.e2be3dea.js" rel="prefetch"/><link as="style" href="/css/app.40f1dfa8.css" rel="preload"/><link as="style" href="/css/chunk-vendors.a2fcebda.css" rel="preload"/><link as="script" href="/js/app.4e8bfdc4.js" rel="preload"/><link as="script" href="/js/chunk-vendors.a63e2447.js" rel="preload"/><link href="/css/chunk-vendors.a2fcebda.css" rel="stylesheet"/><link href="/css/app.40f1dfa8.css" rel="stylesheet"/><link href="/css/local-compromise.css" rel="stylesheet" type="text/css"/><script src="../../wicket/resource/com.googlecode.wicket.jquery.core.resource.JQueryUIResourceReference/jquery-ui.min-ver-80CBC031ED1AE0BD82C578DD2D6A4EA0.js" type="text/javascript"></script>
+<script src="/js_min/min/epmc-min.js?v=12088" type="text/javascript"></script>
+<script src="/js_min/min/responsify-analytics-min.js?v=12088" type="text/javascript"></script>
+<link href="/css_min/min/jquery-ui-min.css?v=12088" rel="stylesheet" type="text/css">
+<link href="/css_min/min/advanced_search-min.css?v=12088" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+/*<![CDATA[*/
+Wicket.Event.add(window, "domready", function(event) { 
+Wicket.Ajax.ajax({"c":"id1","u":"../../funder-dashboard?1-1.IBehaviorListener.0-search-recentsearches&0=ppr&1=ppr232448","e":"click"});;
+Wicket.Ajax.ajax({"c":"id2","u":"../../funder-dashboard?1-1.IBehaviorListener.0-search-clipboard&0=ppr&1=ppr232448","e":"click"});;
+Wicket.Ajax.ajax({"c":"exportPanelLink","u":"../../funder-dashboard?1-1.IBehaviorListener.0-search-exportPanelLink&0=ppr&1=ppr232448","e":"click","coh":[function(attrs, jqXHR, textStatus){;onClickPanelLink();registerExportPanel();}]});;
+Wicket.Ajax.ajax({"c":"closeExportWindow","u":"../../funder-dashboard?1-1.IBehaviorListener.0-search-closeExportWindow&0=ppr&1=ppr232448","e":"click"});;
+;});
+/*]]>*/
+</script>
+</link></link></link></link></link></link></link></link></meta></meta></meta></head>
+<body>
+<span id="piwikIdSite" style="display:none">1</span>
+<div class="page_proper" id="body">
+<noscript>
+<div style="text-align:center">
+<p><b>Europe PMC</b> requires Javascript to function effectively.</p>
+<p>Either your web browser doesn't support Javascript or it is currently turned off. In the latter case, please
+turn on Javascript support in your web browser and reload this page.</p>
+</div>
+</noscript>
+<header>
+<div id="epmc_pageHeader">
+<div class="dark-gray">
+<div class="container">
+<div>
+<span>
+<span id="id3">
+<span style="color: white !important;">
+<i class="fa fa-user profile-icon"></i><a class="orcid_signin_text" href="/accounts/login" id="login-bar--signin-link">Sign in</a> | <a class="orcid_signin_text" href="/accounts/registration">Create an account</a>
+</span>
+</span>
+</span>
+<iframe id="iframeId" name="aframe" seamless="" style="border:none"></iframe>
+<span class="screenReader" id="orcidurlId">https://orcid.org</span>
+<span id="plusLogoutUrl" style="display:none">https://plus.europepmc.org</span>
+</div>
+</div>
+</div>
+<nav class="container">
+<ul id="epmc_mainNav">
+<li>
+<div class="logo">
+<a accesskey="U" href="/" target="_top">
+<span class="screenReader">Europe PMC</span>
+</a>
+</div>
+<a class="" href="#" id="menu_button" onclick="return navDrop(this);">
+<span>Menu</span>
+</a>
+<ul class="dropdown">
+<li>
+<a href="../../About" onclick="return navDrop(this);">
+<span>About</span>
+</a>
+<ul class="sub_menu">
+<li class="citation_navigation_unselected">
+<a href="../../About">
+<span>About Europe PMC</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../Preprints">
+<span>Preprints in Europe PMC</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../Funders">
+<span>Funders</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../BecomeFunder">
+<span>Become a funder</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../Governance">
+<span>Governance</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../Roadmap">
+<span>Roadmap</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../Outreach">
+<span>Outreach</span>
+</a>
+</li>
+</ul>
+</li><li>
+<a href="../../tools" onclick="return navDrop(this);">
+<span>Tools</span>
+</a>
+<ul class="sub_menu">
+<li class="citation_navigation_unselected">
+<a href="../../tools">
+<span>Tools overview</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../ArticleStatusMonitor">
+<span>Article status monitor</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../orcid/import">
+<span>ORCID article claiming</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../journalList">
+<span>Journal list</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../grantfinder">
+<span>Grant finder</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../LabsLink">
+<span>External links service</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../RssFeeds">
+<span>RSS feeds</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../Annotations">
+<span>Annotations</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../AnnotationsSubmission">
+<span>Annotations submission service</span>
+</a>
+</li>
+</ul>
+</li><li>
+<a href="../../developers" onclick="return navDrop(this);">
+<span>Developers</span>
+</a>
+<ul class="sub_menu">
+<li class="citation_navigation_unselected">
+<a href="../../developers">
+<span>Developer resources</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../RestfulWebService">
+<span>Articles RESTful API</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../GristAPI">
+<span>Grants RESTful API</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../API-case-studies">
+<span>API case studies</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../SoapWebServices">
+<span>SOAP web service</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../AnnotationsApi">
+<span>Annotations API</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../OaiService">
+<span>OAI service</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../downloads">
+<span>Bulk downloads</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="http://groups.google.com/a/ebi.ac.uk/forum/#!forum/epmc-webservices">
+<span>Developers Forum</span>
+</a>
+</li>
+</ul>
+</li><li>
+<a href="../../Help" onclick="return navDrop(this);">
+<span>Help</span>
+</a>
+<ul class="sub_menu">
+<li class="citation_navigation_unselected">
+<a href="../../Help">
+<span>Help using Europe PMC</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../searchsyntax">
+<span>Search syntax reference</span>
+</a>
+</li><li class="citation_navigation_unselected">
+<a href="../../ContactUs">
+<span>Contact us</span>
+</a>
+</li>
+</ul>
+</li><li class="contact-us">
+<a href="/ContactUs" onclick="return navDrop(this);">
+<span>Contact us</span>
+</a>
+<ul class="sub_menu">
+<li>
+<a href="/ContactUs">
+<span>Helpdesk</span>
+</a>
+</li>
+<li>
+<a href="/feedback?url=" onclick="var w = window.open('/feedback?url='+getReferredUrl(), 'ukpmc_feedback', 'scrollbars=no,location=no,menuBar=yes,resizable=yes,status=no,toolbar=yes,width=1050,height=810'); try {if (w.blur) w.focus();}catch(ignore){}; return false;"><span>Feedback</span></a>
+</li>
+<li>
+<a href="https://twitter.com/EuropePMC_news">
+<span>Twitter</span>
+</a>
+</li>
+<li>
+<a href="http://blog.europepmc.org">
+<span>Blog</span>
+</a>
+</li>
+<li>
+<a href="//europepmc.github.io/techblog/">
+<span>Tech blog</span>
+</a>
+</li>
+<li>
+<a href="//groups.google.com/a/ebi.ac.uk/forum/#!forum/epmc-webservices">
+<span>Developer Forum</span>
+</a>
+</li>
+</ul>
+</li><li class="last">
+<a href="https://plus.europepmc.org/" onmouseout="UnTipAllowed()" onmouseover="TipAllowed('Submit your manuscripts, manage your grants and publish your research impact using &lt;b&gt;Europe PMC plus&lt;/b&gt;')" target="epmcplus">
+<span>Europe PMC plus</span>
+</a>
+</li>
+</ul>
+<div style="clear:both"></div>
+</li>
+</ul>
+</nav>
+</div>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+function openFeedbackForm() {
+var referredURL = window.location.origin + window.location.pathname + encodeURIComponent(window.location.search)
+var w = window.open(
+window.location.protocol + '//' + window.location.host + '/feedback?url=' + referredURL,
+'ukpmc_feedback',
+'scrollbars=no,location=no,menuBar=yes,resizable=yes,status=no,toolbar=yes,width=550,height=810'
+);
+try {
+if (w.blur) w.focus();
+} catch(ignore){};
+return false;
+}
+function navDrop(link){
+if ($('#epmc_pageHeader').width() < 870) {
+if ($('.nav_clicked').length > 0){
+if ($(link).hasClass('nav_clicked')) {
+$(link).removeClass('nav_clicked');
+} else {
+if ($(link).not('#menu_button')) {
+$('.nav_clicked').not('#menu_button').removeClass('nav_clicked');
+}
+$(link).addClass('nav_clicked');
+}
+} else {
+$(link).addClass('nav_clicked');
+}
+return false;
+} else {
+return true;
+}
+}
+$(document).ready(function(){
+$('#epmc_mainNav a').each(function(){
+if($(this).attr('href').replace(/\./g, '').replace(/\//g, '') == window.location.pathname.replace(/\//g, '')){
+$(this).addClass('current');
+$(this).closest('ul').closest('li').children('a').addClass('current');
+}
+if(window.location.pathname.replace(/\//g, '').indexOf($(this).attr('href').replace(/\./g, '').replace(/\//g, ''))!= -1){
+$(this).addClass('parent');
+$(this).closest('ul').closest('li').children('a').addClass('current');
+}
+});
+if (window.location.pathname.includes('AnnotationsApi')) {
+$('#epmc_mainNav .dropdown a[href="./tools"]').removeClass('current');
+}
+});
+
+/*]]>*/
+</script>
+</header>
+<div id="epmc_pageBody">
+<div>
+<div>
+<script src="/Scripts/recaptcha_ajax.js?v=12088" type="text/javascript"></script>
+<div class="container">
+<div id="searchToolsBox">
+<div id="searchTools" style="display:none">
+<div class="epmc_searchTools">
+<a class="ukpmc_toolbar" href="../../funder-dashboard?1-1.ILinkListener-search-recentsearches&amp;0=ppr&amp;1=ppr232448" id="id1" onmouseout="UnTipAllowed()" onmouseover="TipAllowed('View your Recent Activity summary.', DELAY, 1000)">
+<i class="fas fa-clock"></i>
+Recent Activity
+</a>
+<div id="id4" style="display:none">
+<div id="id5" style="display:none"></div>
+</div>
+<a class="ukpmc_toolbar" href="#" onmouseout="UnTipAllowed()" onmouseover="TipAllowed('View your Export List summary', DELAY, 1000)" style="display:none">
+<i class="fa fa-download"></i>Export List
+</a>
+<a class="ukpmc_toolbar" href="../../funder-dashboard?1-1.ILinkListener-search-clipboard&amp;0=ppr&amp;1=ppr232448" id="id2" onmouseout="UnTipAllowed()" onmouseover="TipAllowed('View your Clipboard summary.&lt;br/&gt;This is a temporary store for items of interest to you.&lt;br/&gt;The items may be cleared after 24 hours.', DELAY, 1000)" style="display:none">
+<i class="fa fa-download"></i>
+Clipboard
+</a>
+<div id="id6" style="display:none">
+<div id="id7" style="display:none"></div>
+</div>
+<a class="ukpmc_toolbar" href="javascript:;" id="exportPanelLink" onmouseout="UnTipAllowed()" onmouseover="TipAllowed('Export citations', DELAY, 1000)">
+<i class="fa fa-download"></i>Export
+</a>
+</div>
+</div>
+</div>
+<div id="exportPanel"></div>
+<span id="closeExportWindow"></span>
+</div>
+<div id="id8">
+</div>
+<style>
+/*<![CDATA[*/
+
+.covid-19-find-out-more {
+float: right;
+margin-top: 32px;
+}
+@media screen and (max-width: 1000px) {
+.covid-19-find-out-more {
+float: none;
+margin-top: 16px;
+}
+}
+
+/*]]>*/
+</style>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+jQuery('#banner--search-input').on('input', function () {
+if (jQuery(this).val().length >= 1500) {
+alert('The maximum allowed query length is 1500 characters');
+}
+});
+$('#searchButton').on('click', function () {
+PiwikAnalyticsTracker.track('Search', 'Keyword', 'Manual Input - ' + $('#textfield').val());
+});
+function onClickPanelLink() {
+var speed = 500;
+if ($('#exportPanel').css('display') == 'none') {
+$("#exportPanel").slideDown(speed);
+$('body').append('<div class="wicket-mask-dark export" style="z-index: 2; position: absolute; top: 0px; left: 0px; background-image: none;"></div>"');
+exportDisplaySection();
+// $(".results_pagination_range").fadeOut(speed - 100)
+$('#exportPanel').focus();
+} else {
+$("#exportPanel").slideUp(speed);
+setTimeout(function () {
+$(".wicket-mask-dark.export").remove();
+}, speed);
+// $(".results_pagination_range").fadeIn(speed + 150);
+}
+}
+$(document).ready(function() {
+$('#covid-search-example-link').click(function() {
+PiwikAnalyticsTracker.track("Search", "Covid-19", "Clicked Covid search link");
+});
+$('#covid-19-find-out-more-link').click(function() {
+PiwikAnalyticsTracker.track("Home", "Home page", "COVID-19 preprints intiative");
+});
+})
+
+/*]]>*/
+</script>
+</div>
+</div>
+<div id="app"></div><script>
+/*<![CDATA[*/
+//survey changes
+function showSurvey(){
+$(window).scroll(function(){
+if (!navigator.cookieEnabled) {
+console.log("Cookie not enabled.");
+return;
+}
+if ($.cookie('no_impact_survey_session')) {
+console.log("no_impact_survey_session set.");
+return;
+}
+if ($.cookie('no_impact_survey_app')) {
+console.log("no_impact_survey_app set.");
+return;
+}
+$("div#europepmc_impact_survey").show();
+});
+}
+function hideSurvey() {
+$("div#europepmc_impact_survey").hide();
+$('#ask-me-later-container').hide();
+}
+function registerGdprAgreeClick() {
+var gdprAgreeIntervalId = setInterval(function() {
+var gdprBannerDisplay = $('#data-protection-banner').css('display');
+if (!gdprBannerDisplay || gdprBannerDisplay === 'none') {
+console.log('No GDPR banner...')
+showSurvey();
+clearInterval(gdprAgreeIntervalId);
+return;
+}
+console.log('GDPR Interval...')
+var agreeLink = $("#data-protection-agree");
+if (agreeLink) {
+$("#data-protection-agree").click(function(){
+showSurvey();
+});
+console.log('GDPR Interval stop')
+clearInterval(gdprAgreeIntervalId)
+}
+}, 100);
+}
+function repopupSurvey() {
+setTimeout(function(){
+console.log("no_impact_survey_session set. timeout.");
+if ($.cookie('no_impact_survey_app')) {
+return;
+}
+if ($.cookie('no_impact_survey_session')) {
+$("div#europepmc_impact_survey").show();
+$('#ask-me-later-container').hide();
+$.cookie('no_impact_survey_session', null);
+}
+}, 1800000);
+}
+function askMeLater() {
+$.cookie('no_impact_survey_session', 1);
+hideSurvey();
+$('#ask-me-later-container').show();
+repopupSurvey();
+}
+function donnotShowMeAgain() {
+$.cookie('no_impact_survey_app', 1, {expires : 365});
+hideSurvey();
+}
+$(document).ready(function(){
+console.log("inside document ready");
+$("div#impact_survey_close").click(function(){
+askMeLater();
+});
+$("#europepmc_impact_survey button").bind("click", function(){
+donnotShowMeAgain();
+});
+$("#ask-me-later-container").bind("click", function(){
+donnotShowMeAgain();
+$.cookie('no_impact_survey_session', null, {path : '/'});
+});
+$("a#impact_askMeLater").click(function(){
+askMeLater();
+});
+$("a#impact_donnotShowMeAgain").click(function(){
+donnotShowMeAgain();
+});
+if ($.cookie('no_impact_survey_session')) {
+$('#ask-me-later-container').show();
+}
+registerGdprAgreeClick();
+repopupSurvey();
+})
+// can be removed when moving to Vue
+window.onload = function () {
+if (window.location.pathname !== '/') {
+changeLinks(document.querySelectorAll("#epmc_mainNav a"), "./", "/");
+changeLinks(document.querySelectorAll(".top-menu--my-account, .top-menu--manage-account"), "./", "/accounts/");
+changeLinks(document.querySelectorAll(".top-menu--my-account, .top-menu--manage-account"), "/accounts/accounts/", "/accounts/");
+function changeLinks(links, source, target) {
+if (links.length) {
+var length = links.length;
+for(var i=0; i<length; i++) {
+var link = links[i];
+var href = link.getAttribute("href");
+if (href.startsWith(source)) {
+link.setAttribute("href", href.replace(source, target));
+}
+}
+}
+}
+}
+if (window.location.href.includes('orcid/auth/autoclose?auth=true')) {
+if (window.opener === undefined) {
+localStorage.setItem(
+'ORCID_AUTH_SUCCEEDED',
+urlParams('auth', window.location.href)
+)
+if (urlParams('iesupport', window.location.href) == null)
+createHiddenIframe()
+} else {
+window.opener.postMessage(
+urlParams('auth', window.location.href),
+window.location.protocol + '//' + window.location.host
+)
+window.opener.postMessage(
+urlParams('auth', window.location.href),
+window.location.protocol + '//' + window.location.host
+)
+}
+window.close()
+}
+function urlParams(name, url) {
+const results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(url)
+return results === null ? null : decodeURI(results[1]) || 0
+}
+function createHiddenIframe() {
+const iframe = document.createElement('iframe')
+const url = window.location.href + '&iesupport=true'
+iframe.setAttribute('id', 'orcid-auth-redirect')
+iframe.style.display = 'none'
+iframe.style.border = 'none'
+iframe.width = 0
+iframe.height = 0
+iframe.src =
+url.indexOf('https:') !== -1
+? url.replace('https:', 'http:')
+: url.replace('http:', 'https:')
+document.body.appendChild(iframe)
+}
+}
+/*]]>*/
+</script><script src="/js/chunk-vendors.a63e2447.js"></script><script src="/js/app.4e8bfdc4.js"></script>
+</div>
+<script src="/Scripts/wz_tooltip.js?v=12088" type="text/javascript"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+/**$(document).ready(function(){
+$('#container-1 > ul').tabs();
+});*/
+
+/*]]>*/
+</script>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+var width = $(window).width();
+if (width < 700) {
+/* $('#feedback-container').css('top', '44px'); */
+/* $('#feedback-container').css('position', 'absolute'); */
+$('#feedback-container').draggable();
+} else {
+//@date 23/08/2016 https://www.ebi.ac.uk/panda/jira/browse/CIT-2216
+//$('#feedback-container').css('top', height - 39 + 'px');
+//$('#feedback-container').css('position', 'fixed');
+}
+
+/*]]>*/
+</script>
+<style>
+/*<![CDATA[*/
+
+@media screen and (max-width: 870px) {
+#feedback-container {
+top: 44px;
+bottom: auto;
+position: absolute;
+}
+}
+
+/*]]>*/
+</style>
+<script type="text/javascript">
+/*<![CDATA[*/
+
+jQuery.cachedScript = function (url, options) {
+// Allow user to set any option except for dataType, cache, and url
+options = jQuery.extend(options || {}, {
+dataType: "script",
+cache: true,
+url: url
+});
+// Use $.ajax() since it is more flexible than $.getScript
+// Return the jqXHR object so we can chain callbacks
+return jQuery.ajax(options);
+};
+jQuery.cachedCss = function (url, options) {
+// Allow user to set any option except for dataType, cache, and url
+options = jQuery.extend(options || {}, {
+dataType: "text",
+cache: true,
+url: url
+});
+// Use $.ajax() since it is more flexible than $.getScript
+// Return the jqXHR object so we can chain callbacks
+return jQuery.ajax(options);
+};
+
+/*]]>*/
+</script>
+<script type="text/javascript"></script>
+<noscript></noscript>
+</div>
+</body>
+</html>

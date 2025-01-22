@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="" name="description"/>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text&amp;family=Roboto&amp;display=swap" rel="stylesheet"/>
+<link href="/images/favicon.jpg" rel="icon">
+<title>PDMJ: Primary Doctor Medical Journal</title>
+<meta content="Primary Doctor Medical Journal is a peer-reviewed online medical journal focused primarily on public health topics.  This new journal boasts the most thorough research to date in English on the topic of mask hazards.  Address research submissions to editor@pdmj.org." name=" description"/>
+<meta content="Masks, Colleen Huber, Medical Journal, Primary Doctor Medical Journal, PDMJ" name="keywords"/>
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<link href="/_app/start-0785d951.js" rel="modulepreload"/>
+<link href="/_app/chunks/vendor-b0b75c05.js" rel="modulepreload"/>
+<link href="/_app/assets/start-61d1577b.css" rel="stylesheet"/>
+<script type="module">
+			import { start } from "/_app/start-0785d951.js";
+			start({
+				target: document.body,
+				paths: {"base":"","assets":""},
+				session: {},
+				host: location.host,
+				route: true,
+				spa: true,
+				trailing_slash: "never",
+				hydrate: null
+			});
+		</script>
+</meta></link></head>
+<body>
+<div id="svelte">
+</div>
+<noscript>
+<h1>This site requires javascript to work</h1>
+</noscript>
+</body>
+</html>
+<style>
+	html,
+	body {
+		margin: 0;
+		padding: 0;
+		scroll-behavior: smooth;
+	}
+
+	h1 {
+		font-family: 'Crimson Text', 'Times New Roman', Times, serif;
+		font-size: 2rem;
+		text-align: center;
+	}
+</style>

@@ -1,0 +1,831 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Message to the World From the Elders of Australia</title>
+<meta content="initial-scale=1.0, width=device-width" name="viewport">
+<link href="https://www.bitchute.com/video/RlLneoQitcq9/" id="canonical" rel="canonical"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/css-element-queries/1.2.3/ResizeSensor.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/css-element-queries/1.2.3/ElementQueries.min.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.1.0/dist/svgMap.min.js" type="text/javascript"></script>
+<script src="/static/v140/js/theme.js" type="text/javascript"></script>
+<script crossorigin="anonymous" integrity="sha512-rmZcZsyhe0/MAjquhTgiUcb4d9knaFc7b5xAfju483gbEXTkeJRUMIPk6s3ySZMYUHEcjKbjLjyddGWMrNEvZg==" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/moment.min.js" type="text/javascript"></script>
+<script src="https://commentfreely.bitchute.com/static/comments/js/comments.js" type="text/javascript"></script>
+<script src="https://commentfreely.bitchute.com/static/comments/js/commentactions.js" type="text/javascript"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/css/bootstrap-slider.css" rel="stylesheet" type="text/css"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.3/toastr.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.9/plyr.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/rickshaw/1.6.3/rickshaw.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://cdn.jsdelivr.net/gh/StephanWagner/svgMap@v2.1.0/dist/svgMap.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://commentfreely.bitchute.com/static/comments/css/comments.css" rel="stylesheet" type="text/css">
+<link href="/static/v140/css/awards.css" rel="stylesheet" type="text/css">
+<link href="/static/v140/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="/static/v140/css/help-us-grow.css" rel="stylesheet" type="text/css"/>
+<link href="/static/v140/css/membership.css" rel="stylesheet" type="text/css"/>
+<link href="/static/v140/css/moderation.css" rel="stylesheet" type="text/css"/>
+<link href="/static/v140/css/monetization.css" rel="stylesheet" type="text/css"/>
+<link href="/static/v140/css/notification.css" rel="stylesheet" type="text/css"/>
+<link href="/static/v140/css/playlist.css" rel="stylesheet" type="text/css"/>
+<link href="/static/v140/css/search.css" rel="stylesheet" type="text/css"/>
+<link href="/static/v140/css/video.css" rel="stylesheet" type="text/css"/>
+<link href="/static/v140/css/theme-default-day.css" id="css-theme" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+    themeInit('/static/v140/','default');
+    if(Cookies.getJSON('preferences') && Cookies.getJSON('preferences').theme=='night') {
+        $('#css-theme').attr('href','/static/v140/css/theme-default-night.css');
+    } else {
+        $('#css-theme').attr('href','/static/v140/css/theme-default-day.css');
+    }
+</script>
+<link href="/static/v140/images/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/static/v140/images/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/static/v140/images/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/static/v140/images/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/static/v140/images/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/static/v140/images/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/static/v140/images/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/static/v140/images/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/static/v140/images/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/static/v140/images/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/static/v140/images/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/static/v140/images/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/static/v140/images/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/static/v140/manifest.json" rel="manifest"/>
+<meta content="#ffffff" name="msapplication-TileColor"/>
+<meta content="/static/v140/images/ms-icon-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="https://davidicke.com/2021/10/27/message-to-the-world-from-the-elders-of-australia-time-to-come-together-people-to-remove-the-demons-from-their-positions-of-human-control/" name="description">
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="https://static-3.bitchute.com/live/cover_images/AR5yv3sqIA1f/RlLneoQitcq9_640x360.jpg" name="twitter:url"/>
+<meta content="Message to the World From the Elders of Australia" name="twitter:title"/>
+<meta content="https://davidicke.com/2021/10/27/message-to-the-world-from-the-elders-of-australia-time-to-come-together-people-to-remove-the-demons-from-their-positions-of-human-control/" name="twitter:description"/>
+<meta content="@bitchute" name="twitter:site"/>
+<meta content="bitchute.com" name="twitter:domain"/>
+<meta content="https://static-3.bitchute.com/live/cover_images/AR5yv3sqIA1f/RlLneoQitcq9_640x360.jpg" name="twitter:image:src"/>
+<meta content="640" name="twitter:image:width"/>
+<meta content="360" name="twitter:image:height"/>
+<meta content="@bitchute" name="twitter:creator"/>
+<meta content="BitChute" property="og:site_name">
+<meta content="https://www.bitchute.com/video/RlLneoQitcq9/" property="og:url">
+<meta content="Message to the World From the Elders of Australia" property="og:title">
+<meta content="https://davidicke.com/2021/10/27/message-to-the-world-from-the-elders-of-australia-time-to-come-together-people-to-remove-the-demons-from-their-positions-of-human-control/" property="og:description">
+<meta content="https://static-3.bitchute.com/live/cover_images/AR5yv3sqIA1f/RlLneoQitcq9_640x360.jpg" property="og:image">
+<meta content="https://static-3.bitchute.com/live/cover_images/AR5yv3sqIA1f/RlLneoQitcq9_640x360.jpg" property="og:image:secure_url">
+<meta content="image/jpeg" property="og:image:type">
+<meta content="640" property="og:image:width">
+<meta content="360" property="og:image:height">
+<meta content="video.other" property="og:type">
+<link href="https://www.bitchute.com/oembed/?url=https://www.bitchute.com/video/RlLneoQitcq9/&amp;format=json" id="oembed" rel="alternate" type="application/json+oembed"/>
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></link></link></link></meta></head>
+<body>
+<div class="modal fade" id="auth_modal" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-hidden="true" class="close" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img alt="BitChute" class="modal-logo logo-full" src="/static/v140/images/logo-full-day.png"/></a>
+</div>
+<div class="modal-body">
+<ul class="nav nav-tabs">
+<li class="active" id="auth_login_tab">
+<a data-toggle="tab" href="#auth_login">Login</a>
+</li>
+<li id="auth_reset_tab">
+<a data-toggle="tab" href="#auth_reset">Password Reset</a>
+</li>
+</ul>
+<div class="tab-content">
+<div class="tab-pane active" data-target="/accounts/login/" id="auth_login">
+<form id="auth_login_form" method="post">
+<input name="csrfmiddlewaretoken" type="hidden" value="UNS51XzxfW2WhzCoAtGGdDHGjvKWACbSu2ZYcjzkSisXtejz5gQxs29OtyfI8X82"/>
+<div class="alert alert-danger hidden" id="auth_login_error"></div>
+<div class="form-group">
+<label>Username or Email Address</label>
+<div class="alert alert-danger hidden" id="auth_login_error_username"></div>
+<input autocomplete="username" class="form-control" id="id_username" maxlength="150" name="username" required="" type="text"/>
+</div>
+<div class="form-group">
+<label>Password</label>
+<div class="alert alert-danger hidden" id="auth_login_error_password"></div>
+<input autocomplete="off" class="form-control" id="id_password" maxlength="50" name="password" required="" type="password"/>
+</div>
+<div class="form-group hidden" id="auth_login_one_time_code">
+<label>One Time Code</label>
+<div class="alert alert-danger hidden" id="auth_login_error_one_time_code"></div>
+<input autocomplete="one-time-code" class="form-control" id="id_one_time_code" maxlength="6" name="one_time_code" type="Search"/>
+<p class="help">To complete the login process, please enter the one time code that was sent to your email address.</p>
+</div>
+</form>
+<p>Don't have an account? Create one <a href="/accounts/register/">here</a>.</p>
+</div>
+<div class="tab-pane" data-target="/accounts/reset/" id="auth_reset">
+<form id="auth_reset_form" method="post">
+<input name="csrfmiddlewaretoken" type="hidden" value="UNS51XzxfW2WhzCoAtGGdDHGjvKWACbSu2ZYcjzkSisXtejz5gQxs29OtyfI8X82"/>
+<div class="alert alert-danger hidden" id="auth_reset_error"></div>
+<label>Email Address</label>
+<div class="alert alert-danger hidden" id="auth_reset_error_email"></div>
+<input autocomplete="email" class="form-control" id="id_email" maxlength="254" name="email" placeholder="email@example.com" required="" type="email"/>
+<p class="help">Please provide the email address associated with your account to receive the password reset instructions.</p>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button class="btn btn-danger" id="auth_submit" type="button"><i class="fas fa-check fa-fw"></i> Submit</button>
+<button class="btn btn-default" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i> Cancel</button>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="error_modal" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-hidden="true" class="close" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img alt="BitChute" class="modal-logo logo-full" src="/static/v140/images/logo-full-day.png"/></a>
+</div>
+<div class="modal-body text-center">
+<p>An error has occurred whilst processing your request!</p>
+<img alt="Ninja" class="ninja img-responsive hidden-xs hidden-sm" src="/static/v140/images/ninja_stance.png"/>
+<p>If the issue persists, then please contact us at <a href="/cdn-cgi/l/email-protection#45363035352a373105272c31262d3031206b262a28"><span class="__cf_email__" data-cfemail="ccbfb9bcbca3beb88caea5b8afa4b9b8a9e2afa3a1">[email protected]</span></a>.</p>
+</div>
+<div class="modal-footer">
+<button class="btn btn-default" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i> Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="text-center hidden" id="announcement">
+<a class="inner" href="/help-us-grow/">
+<span class="message">BitChute is community funded, we depend on your support to maintain and improve the platform!</span>
+<span class="learn-more hidden-xs">Help Us Grow</span>
+</a>
+<span aria-label="Close" class="close" onclick="hideAnnouncement('UNS51XzxfW2WhzCoAtGGdDHGjvKWACbSu2ZYcjzkSisXtejz5gQxs29OtyfI8X82');"><i class="fas fa-times fa-fw"></i></span>
+</div>
+<nav class="transparent" id="nav-menu">
+<div id="nav-top-menu">
+<div class="top-menu-left">
+<div class="side-menu-toggle">
+<span onclick="toggleSideMenu()"><i class="fas fa-bars"></i></span>
+</div>
+<div class="logo">
+<a class="spa" href="/">
+<img alt="BitChute" class="nav-logo logo-full" src="/static/v140/images/logo-full-day.png"/>
+<img alt="BitChute" class="logo-icon" src="/static/v140/images/logo-icon-day.png"/>
+</a>
+</div>
+</div>
+<div class="top-menu-center">
+<div class="search-box">
+<form action="/search/" method="get">
+<input class="form-control search-text" maxlength="255" name="query" placeholder="Search …" type="text">
+<button class="search-submit" type="submit"><i class="fas fa-search"></i></button>
+</input></form>
+</div>
+</div>
+<div class="top-menu-right">
+<div class="user-link search-icon">
+<a data-placement="bottom" data-toggle="tooltip" href="/search/" title="Search …"><i class="fas fa-search fa-2x"></i></a>
+</div>
+<div class="user-link hidden" id="day-theme"><a data-placement="bottom" data-toggle="tooltip" onclick="themeDayMode();" title="Switch to Day Mode"><i class="fas fa-sun fa-2x"></i></a></div>
+<div class="user-link hidden" id="night-theme"><a data-placement="bottom" data-toggle="tooltip" onclick="themeNightMode();" title="Switch to Night Mode"><i class="fas fa-moon fa-2x"></i></a></div>
+<div class="unauth-link">
+<span><a onclick="authShowModal('#');">Login</a> <strong>/</strong> <a href="/accounts/register/">Register</a></span>
+</div>
+</div>
+</div>
+<div id="nav-side-menu">
+<div class="side-content">
+<p class="side-heading">Categories</p>
+<ul class="side-list list-unstyled">
+<li><a class="spa" href="/category/animation/"><i class="fal fa-chevron-double-right fa-xs"></i> Anime &amp; Animation</a></li>
+<li><a class="spa" href="/category/arts/"><i class="fal fa-chevron-double-right fa-xs"></i> Arts &amp; Literature</a></li>
+<li><a class="spa" href="/category/vehicles/"><i class="fal fa-chevron-double-right fa-xs"></i> Auto &amp; Vehicles</a></li>
+<li><a class="spa" href="/category/beauty/"><i class="fal fa-chevron-double-right fa-xs"></i> Beauty &amp; Fashion</a></li>
+<li><a class="spa" href="/category/finance/"><i class="fal fa-chevron-double-right fa-xs"></i> Business &amp; Finance</a></li>
+<li><a class="spa" href="/category/cuisine/"><i class="fal fa-chevron-double-right fa-xs"></i> Cuisine</a></li>
+<li><a class="spa" href="/category/diy/"><i class="fal fa-chevron-double-right fa-xs"></i> DIY &amp; Gardening</a></li>
+<li><a class="spa" href="/category/education/"><i class="fal fa-chevron-double-right fa-xs"></i> Education</a></li>
+<li><a class="spa" href="/category/entertainment/"><i class="fal fa-chevron-double-right fa-xs"></i> Entertainment</a></li>
+<li><a class="spa" href="/category/gaming/"><i class="fal fa-chevron-double-right fa-xs"></i> Gaming</a></li>
+<li><a class="spa" href="/category/health/"><i class="fal fa-chevron-double-right fa-xs"></i> Health &amp; Medical</a></li>
+<li><a class="spa" href="/category/music/"><i class="fal fa-chevron-double-right fa-xs"></i> Music</a></li>
+<li><a class="spa" href="/category/news/"><i class="fal fa-chevron-double-right fa-xs"></i> News &amp; Politics</a></li>
+<li><a class="spa" href="/category/family/"><i class="fal fa-chevron-double-right fa-xs"></i> People &amp; Family</a></li>
+<li><a class="spa" href="/category/animals/"><i class="fal fa-chevron-double-right fa-xs"></i> Pets &amp; Wildlife</a></li>
+<li><a class="spa" href="/category/science/"><i class="fal fa-chevron-double-right fa-xs"></i> Science &amp; Technology</a></li>
+<li><a class="spa" href="/category/spirituality/"><i class="fal fa-chevron-double-right fa-xs"></i> Spirituality &amp; Faith</a></li>
+<li><a class="spa" href="/category/sport/"><i class="fal fa-chevron-double-right fa-xs"></i> Sports &amp; Fitness</a></li>
+<li><a class="spa" href="/category/travel/"><i class="fal fa-chevron-double-right fa-xs"></i> Travel</a></li>
+<li><a class="spa" href="/category/vlogging/"><i class="fal fa-chevron-double-right fa-xs"></i> Vlogging</a></li>
+</ul>
+<a href="https://support.bitchute.com/policy/" rel="noopener noreferrer" target="_blank"><p class="side-heading">Policies</p></a>
+<ul class="side-list list-unstyled">
+<li><a href="https://support.bitchute.com/policy/guidelines/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Community Guidelines</a></li>
+<li><a href="https://support.bitchute.com/policy/terms/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Terms &amp; Conditions</a></li>
+<li><a href="https://support.bitchute.com/policy/privacy/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Privacy Policy</a></li>
+<li><a href="https://support.bitchute.com/policy/cookie/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Cookie Policy</a></li>
+<li><a href="https://support.bitchute.com/policy/contact/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Contact Us</a></li>
+</ul>
+<a href="https://support.bitchute.com/" rel="noopener noreferrer" target="_blank"><p class="side-heading">Support</p></a>
+<ul class="side-list list-unstyled">
+<li><a href="https://support.bitchute.com/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Knowledge Base</a></li>
+<li><a href="https://status.bitchute.com/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Service Status</a></li>
+</ul>
+</div>
+<div class="copyright">© 2017-2022 Bit Chute Limited</div>
+</div>
+<div id="nav-bottom-menu">
+<a class="menu-item spa" href="/search/"><i class="fas fa-search fa-2x"></i><p>Search</p></a>
+<a class="menu-item spa" href="/category/"><i class="fas fa-list fa-2x fa-fw"></i><p>Categories</p></a>
+<a class="menu-item" onclick="authShowModal('#');"><i class="fas fa-th fa-2x fa-fw"></i><p>Subscribed</p></a>
+<a class="menu-item" onclick="authShowModal('#');"><i class="fas fa-clock fa-2x fa-fw"></i><p>Watch Later</p></a>
+<a class="menu-item" onclick="authShowModal('#');"><i class="fas fa-cog fa-2x fa-fw"></i><p>Settings</p></a>
+</div>
+</nav>
+<div id="nav-top-menu-buffer"></div>
+<div id="wrapper">
+<div class="transparent" id="main-content">
+<div class="modal fade" id="confirm-modal" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-hidden="true" class="close" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img alt="BitChute" class="modal-logo logo-full" src="/static/v140/images/logo-full-day.png"/></a>
+</div>
+<div class="modal-body">
+<p>You are about to <span class="text-lowercase" id="confirm-modal-action">action</span>:</p>
+<p><strong class="text-uppercase" id="confirm-modal-detail">Object being modified by the action</strong></p>
+<p>Do you want to proceed?</p>
+</div>
+<div class="modal-footer">
+<button class="btn btn-danger" onclick="execConfirmModal();" type="button">
+<i class="fas fa-check fa-fw"></i> <span class="text-capitalize" id="confirm-modal-button">Action</span>
+</button>
+<button class="btn btn-default" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i> Cancel</button>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    var confirmcallback;
+    var confirmcallbackargs;
+
+    function execConfirmModal() {
+        $('#confirm-modal').modal('hide');
+        confirmcallback.apply(this,confirmcallbackargs);
+    }
+
+    function showConfirmModal(action,detail,callback,args) {
+        confirmcallback=callback;
+        confirmcallbackargs=args;
+        $('#confirm-modal-detail').html(detail);
+        $('#confirm-modal-action').text(action);
+        $('#confirm-modal-button').text(action);
+        $('#confirm-modal').modal('show');
+    }
+</script>
+<div class="modal fade" id="share-modal" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-hidden="true" class="close" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img alt="BitChute" class="modal-logo logo-full" src="/static/v140/images/logo-full-day.png"/></a>
+</div>
+<div class="modal-body">
+<div class="form-group">
+<label>Share Video Link</label>
+<div class="form-control video-share-details" id="share-modal-share">https://www.bitchute.com/video/RlLneoQitcq9/</div>
+<button class="btn btn-danger btn-clipboard" data-clipboard-target="#share-modal-share" type="button"><i class="fas fa-clipboard fa-fw"></i> Copy to clipboard</button>
+</div>
+<div class="form-group">
+<label>Embed Video HTML</label>
+<div class="form-control video-share-details" id="share-modal-embed">&lt;iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://www.bitchute.com/embed/RlLneoQitcq9/"&gt;&lt;/iframe&gt;</div>
+<button class="btn btn-danger btn-clipboard" data-clipboard-target="#share-modal-embed" type="button"><i class="fas fa-clipboard fa-fw"></i> Copy to clipboard</button>
+</div>
+</div>
+<div class="modal-footer">
+<button class="btn btn-default" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i> Close</button>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    function showShareModal() {
+        clipboardInit('.btn-clipboard');
+        $('#share-modal').modal('show');
+    }
+</script>
+<div class="modal fade" id="moderation-report-modal" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-hidden="true" class="close" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img alt="BitChute" class="modal-logo logo-full" src="/static/v140/images/logo-full-day.png"/></a>
+</div>
+<div class="modal-body">
+<h3 class="capitalize">Request <span id="moderation-contenttype"></span>Moderation</h3>
+<h5 class="pt10">Registered user account required</h5>
+<p>Please <a class="scripted-link" href="/accounts/login/?next=/video/RlLneoQitcq9/">Login</a> or <a class="scripted-link" href="/accounts/register/?next=/video/RlLneoQitcq9/">Register</a> to submit a moderation request.<p>
+<h5 class="pt5">Email Submissions</h5>
+<p>We also accept moderation reports via email. Please see the <a href="https://support.bitchute.com/policy/content-moderation#flagging--reporting" rel="noopener noreferrer" target="_blank">Content Moderation Policy</a> for instructions on how to make a moderation request via email.</p>
+</p></p></div>
+<div class="modal-footer">
+<button class="btn btn-default" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i> Close</button>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">$(document).ready(function(){moderationModalAttachEvents('report')});</script>
+<div class="modal fade playlist-modal" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-hidden="true" class="close" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i></button>
+<a class="spa" href="/"><img alt="BitChute" class="modal-logo logo-full" src="/static/v140/images/logo-full-day.png"/></a>
+</div>
+<div class="modal-body">
+<div class="form-group">
+<div class="create-playlist-entry-error alert alert-danger hidden"></div>
+<label>Add to Playlist</label>
+<span class="options"></span>
+</div>
+<div class="create-playlist-error alert alert-danger hidden"></div>
+<div class="form-group">
+<form id="create-playlist-form" method="post">
+<input name="csrfmiddlewaretoken" type="hidden" value="AZi2sC18O7RH7X1ejwsEOMhsrczPYFnVaepVDY1VrthIjCIpOjCv3bJABf4Bw0k5"/>
+<label></label>
+<div class="create-playlist-error-playlist alert alert-danger hidden"></div>
+<div class="name">
+<span class="toolbox-button create" data-placement="bottom" data-toggle="tooltip" data-video="RlLneoQitcq9" title="Create Playlist">
+<span class="fa-layers"><i class="fal fa-square"></i><i class="far fa-plus" data-fa-transform="shrink-7"></i></span>
+</span>
+</div>
+<p class="help"></p>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row" id="page-bar">
+<div class="col-xs-12">
+<h1 class="page-title" id="video-title">Message to the World From the Elders of Australia</h1>
+</div>
+</div>
+<div class="row" id="page-detail">
+<div class="col-xs-12">
+<div class="tab-scroll-outer">
+<div class="tab-scroll-inner">
+<ul class="nav nav-tabs nav-tabs-list">
+<li class="active"><a data-toggle="tab" href="#video-watch">Watch</a></li>
+</ul>
+</div>
+<div class="tab-scroll-left"><i class="fas fa-chevron-left"></i></div>
+<div class="tab-scroll-right"><i class="fas fa-chevron-right"></i></div>
+</div>
+<div class="tab-content">
+<div class="tab-pane active" id="video-watch">
+<div class="row">
+<div class="col-xs-12 col-sm-8 col-md-9 video-container">
+<div class="row">
+<div class="col-xs-12">
+<div class="wrapper">
+<video class="player" controls="" id="player" onplay="$('#loader-container').fadeOut('slow');" poster="https://static-3.bitchute.com/live/cover_images/AR5yv3sqIA1f/RlLneoQitcq9_640x360.jpg" ratio="16x9" width="100%">
+<source src="https://zn21g5kls-n995.bitchute.com/AR5yv3sqIA1f/RlLneoQitcq9.mp4" type="video/mp4"/>
+</video>
+<div class="hidden" id="autoplay-details">
+<div class="title">Next video playing soon</div>
+<div class="timer"><div class="spinner"><div class="pie"></div></div><div class="filler pie"></div><div class="mask"></div></div>
+<div class="dismiss">Click to cancel</div>
+</div>
+<div class="hidden" id="autoplay-paused">
+<div class="title">Autoplay has been paused</div>
+<div class="icon"><i class="fas fa-play"></i></div>
+<div class="continue">Click to watch next video</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="video-information">
+<div class="row">
+<div class="col-sm-6 col-xs-12">
+<div class="video-statistics">
+<i class="far fa-eye fa-fw"></i><span id="video-view-count"><i class="fas fa-spinner fa-pulse fa-fw"></i></span>
+<a class="video-like" data-placement="bottom" data-toggle="tooltip" id="video-like" onclick="authShowModal('/video/RlLneoQitcq9/');" title="I like this">
+<i class="action-icon far fa-thumbs-up fa-fw"></i>
+<span id="video-like-count"><i class="fas fa-spinner fa-pulse fa-fw"></i></span>
+</a>
+<a class="video-dislike" data-placement="bottom" data-toggle="tooltip" id="video-dislike" onclick="authShowModal('/video/RlLneoQitcq9/');" title="I dislike this">
+<i class="action-icon far fa-thumbs-down fa-fw"></i>
+<span id="video-dislike-count"><i class="fas fa-spinner fa-pulse fa-fw"></i></span>
+</a>
+</div>
+</div>
+<div class="col-sm-6 col-xs-12">
+<div class="video-actions">
+<div class="action-list text-right">
+<a data-placement="bottom" data-toggle="tooltip" onclick="authShowModal('/video/RlLneoQitcq9/');" title="Favorites"><i class="action-icon fas fa-star fa-fw"></i></a>
+<a data-placement="bottom" data-toggle="tooltip" onclick="authShowModal('/video/RlLneoQitcq9/');" title="Watch Later"><i class="action-icon fas fa-clock fa-fw"></i></a>
+<a data-placement="bottom" data-toggle="tooltip" onclick="authShowModal('/video/RlLneoQitcq9/');" title="Add to Playlist"><i class="action-icon fas fa-list fa-fw"></i></a>
+<a data-contenttype="video" data-identifier="RlLneoQitcq9" data-placement="bottom" data-toggle="tooltip" id="moderation-report-show" title="Flag Video"><i class="action-icon fas fa-flag fa-fw"></i></a>
+<a class="sharing-drop" data-placement="bottom" data-toggle="tooltip" title="Share"><i class="action-icon fas fa-share-alt fa-fw"></i></a>
+</div>
+<div class="sharing-bar text-right">
+<a aria-label="Share on Facebook" data-placement="bottom" data-toggle="tooltip" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.bitchute.com/video/RlLneoQitcq9/" rel="noopener noreferrer" target="_blank" title="Share on Facebook"><i class="action-icon fab fa-facebook fa-fw"></i></a>
+<a aria-label="Share on Twitter" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/share?text=Message%20to%20the%20World%20From%20the%20Elders%20of%20Australia&amp;url=https://bitchute.xyz/RlLneoQitcq9&amp;via=BitChute" rel="noopener noreferrer" target="_blank" title="Share on Twitter"><i class="action-icon fab fa-twitter fa-fw"></i></a>
++ <a aria-label="Share on Reddit" data-placement="bottom" data-toggle="tooltip" href="http://reddit.com/submit?url=https://bitchute.xyz/RlLneoQitcq9&amp;title=Message%20to%20the%20World%20From%20the%20Elders%20of%20Australia" rel="noopener noreferrer" target="_blank" title="Share on Reddit"><i class="action-icon fab fa-reddit fa-fw"></i></a>
+<a aria-label="Share on Gab" data-placement="bottom" data-toggle="tooltip" href="https://gab.com/compose?url=https%3A//www.bitchute.com/video/RlLneoQitcq9/" rel="noopener noreferrer" target="_blank" title="Share on Gab"><i class="action-icon fas fa-frog fa-fw"></i></a>
+<a aria-label="Share via Clipboard" data-placement="bottom" data-toggle="tooltip" href="javascript:showShareModal();" title="Share via Clipboard"><i class="action-icon fas fa-clipboard fa-fw"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="video-publish-date">
+First published at 20:23 UTC on October 31st, 2021.
+</div>
+<span class="tags" id="video-hashtags">
+<ul class="list-inline list-unstyled">
+</ul>
+</span>
+<div class="channel-banner">
+<div class="backdrop"></div>
+<div class="image-container">
+<a class="spa" href="/channel/tourguide/">
+<img alt="channel image" class="image lazyload" data-src="https://static-3.bitchute.com/live/channel_images/AR5yv3sqIA1f/Oay3wPpRVzwkK7lmH00uX6jQ_small.jpg" onerror="this.src='/static/v140/images/blank_small.png';this.onerror='';" src="/static/v140/images/loading_small.png"/>
+</a>
+</div>
+<div class="details">
+<p class="name"><a class="spa" href="/channel/tourguide/">Scenery On The Road To Tyranny</a></p>
+<p class="owner"><a class="spa" href="/profile/6hxAejZ1bTRw/">Free Range Slave</a></p>
+<p class="subscribers"><i class="fas fa-users fa-fw"></i> <span id="subscriber_count"><i class="fas fa-spinner fa-pulse"></i></span> subscribers</p>
+</div>
+<div class="actions">
+<div class="social">
+<a data-placement="bottom" data-toggle="tooltip" href="https://www.subscribestar.com/foolishgenius" rel="noopener noreferrer" target="_blank" title="Website"><i class="action-icon fas fa-link fa-fw"></i></a>
+<a data-placement="bottom" data-toggle="tooltip" href="https://gab.com/suckmysav" rel="noopener noreferrer" target="_blank" title="Gab">
+<i class="action-icon fas fa-frog fa-fw"></i>
+</a>
+</div>
+<div class="subscriber">
+<span class="creator-monetization" data-placement="bottom" data-toggle="tooltip" title="Tip or Pledge">
+<i class="action-icon fas fa-usd-circle fa-fw fa-lg remove faa-vertical animated hidden" data-fa-transform="down-1" id="on-usd-id"></i>
+<i class="action-icon fas fa-usd-circle fa-fw fa-lg" data-fa-transform="down-1" id="off-usd-id"></i>
+</span>
+<button class="btn btn-danger" onclick="authShowModal('');">Subscribe</button>
+<span class="notify-button" onclick="authShowModal('');"><i class="fas fa-bell-slash fa-fw fa-lg"></i></span>
+</div>
+</div>
+</div>
+<div class="video-detail-text" id="video-description">
+<div class="teaser"><p><a href="https://davidicke.com/2021/10/27/message-to-the-world-from-the-elders-of-australia-time-to-come-together-people-to-remove-the-demons-from-their-positions-of-human-control/" rel="nofollow">https://davidicke.com/2021/10/27/message-to-the-world-from-the-elders-of-australia-time-to-come-together-people-to-remove-the-demons-from-their-positions-of-human-control/</a></p></div>
+<span class="more hidden"><i class="fal fa-plus-square fa-fw" data-fa-transform="up-0.5"></i> MORE</span>
+<div class="full hidden"><p><a href="https://davidicke.com/2021/10/27/message-to-the-world-from-the-elders-of-australia-time-to-come-together-people-to-remove-the-demons-from-their-positions-of-human-control/" rel="nofollow">https://davidicke.com/2021/10/27/message-to-the-world-from-the-elders-of-australia-time-to-come-together-people-to-remove-the-demons-from-their-positions-of-human-control/</a></p></div>
+<span class="less hidden"><i class="fal fa-minus-square fa-fw" data-fa-transform="up-0.5"></i> LESS</span>
+</div>
+<table class="video-detail-list">
+<tr><td>Category</td><td><a class="spa" href="/category/news/">News &amp; Politics</a></td></tr>
+<tr><td>Sensitivity</td><td><a href="https://support.bitchute.com/policy/guidelines/#content-sensitivity" rel="noopener noreferrer" target="_blank">Normal - Content that is suitable for ages 16 and over</a></td></tr>
+</table>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="video-comments">
+<div class="lazyload" id="comment-frm-container">
+<div id="comments-container"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-3 sidebar">
+<div class="advert-standard-container">
+<a aria-label="Blood Sugar Support" href="/mac/fwbUSHrBt1pZ/" rel="noopener noreferrer" target="_blank">
+<div class="advert-inner">
+<img alt="Blood Sugar Support" class="img-responsive lazyload" data-src="https://static-3.bitchute.com/live/advert/fwbUSHrBt1pZ/Q9uo7NctTq60hqW95sKCvxCj_300x250.jpg" onerror="this.src='/static/v140/images/blank_300x250.png';this.onerror='';" src="/static/v140/images/loading_300x250.png"/>
+</div>
+</a>
+<span class="advert-label" data-placement="bottom" data-toggle="tooltip" onclick="showAdvertModal(false);" title="What is this?">Advertisement <i class="far fa-question-circle" data-fa-transform="grow-2"></i></span>
+</div>
+<div class="membership-container hidden">
+<a aria-label="Help BitChute Grow" class="spa" href="/help-us-grow/"><img alt="Help BitChute Grow" class="img-responsive" src="/static/v140/images/help-us-grow-small.png"/></a>
+</div>
+<div class="sidebar-video">
+<div class="sidebar-next text-center">
+<h2 class="sidebar-heading">Playing Next<span data-placement="bottom" data-toggle="tooltip" title="Currently watching videos from Scenery On The Road To Tyranny. The next video has been automatically selected from this channel."><i class="fal fa-question-circle fa-fw" data-fa-transform="shrink-4"></i></span></h2>
+<label class="sidebar-autoplay switch" data-placement="bottom" data-toggle="tooltip" title="Play next video automatically">
+<input id="autoplay-toggle" type="checkbox">
+<div class="slider"></div>
+</input></label>
+<div class="video-card">
+<a class="spa" href="/video/OVkx7CMm8Ks6/">
+<div class="video-card-image">
+<img alt="video image" class="img-responsive lazyload" data-src="https://static-3.bitchute.com/live/cover_images/AR5yv3sqIA1f/lghnFNjCohk1rSkgz2CPYEdt_320x180.jpg" onerror="this.src='/static/v140/images/blank_320x180.png';this.onerror='';" src="/static/v140/images/loading_320x180.png"/>
+<img alt="play" class="img-responsive play-overlay" src="/static/v140/images/play-button.png"/>
+<span class="video-views"><i class="far fa-eye"></i> 3209</span>
+<span class="video-duration">16:22</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a class="spa" href="/video/OVkx7CMm8Ks6/">Ten Year-Old Girl Exposes Pandemic Fraud and Murder By Injection Agenda</a></p>
+<p class="video-card-channel"><a class="spa" href="/channel/tourguide/">Scenery On The Road To Tyranny</a></p>
+<p class="video-card-published">1 year, 4 months ago</p>
+</div>
+</div>
+</div>
+<div class="sidebar-recent text-center">
+<h2 class="sidebar-heading">Related Videos<span data-placement="bottom" data-toggle="tooltip" title="Related videos have been selected from Scenery On The Road To Tyranny, the parent channel for this video"><i class="fal fa-question-circle fa-fw" data-fa-transform="shrink-4"></i></span></h2>
+<div class="video-card">
+<a class="spa" href="/video/AFSkkXPRDraT/">
+<div class="video-card-image">
+<img alt="video image" class="img-responsive lazyload" data-src="https://static-3.bitchute.com/live/cover_images/AR5yv3sqIA1f/AFSkkXPRDraT_320x180.jpg" onerror="this.src='/static/v140/images/blank_320x180.png';this.onerror='';" src="/static/v140/images/loading_320x180.png"/>
+<img alt="play" class="img-responsive play-overlay" src="/static/v140/images/play-button.png"/>
+<span class="video-views"><i class="far fa-eye"></i> 783</span>
+<span class="video-duration">3:54</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a class="spa" href="/video/AFSkkXPRDraT/">This will seem harsh (but then the truth often is)</a></p>
+<p class="video-card-published">6 hours ago</p>
+</div>
+</div>
+<div class="video-card">
+<a class="spa" href="/video/nGTYrRhQh3FZ/">
+<div class="video-card-image">
+<img alt="video image" class="img-responsive lazyload" data-src="https://static-3.bitchute.com/live/cover_images/AR5yv3sqIA1f/nGTYrRhQh3FZ_320x180.jpg" onerror="this.src='/static/v140/images/blank_320x180.png';this.onerror='';" src="/static/v140/images/loading_320x180.png"/>
+<img alt="play" class="img-responsive play-overlay" src="/static/v140/images/play-button.png"/>
+<span class="video-views"><i class="far fa-eye"></i> 456</span>
+<span class="video-duration">32:43</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a class="spa" href="/video/nGTYrRhQh3FZ/">Hungry Broke Dead</a></p>
+<p class="video-card-published">1 day, 8 hours ago</p>
+</div>
+</div>
+<div class="video-card">
+<a class="spa" href="/video/7IOIv4okVwWQ/">
+<div class="video-card-image">
+<img alt="video image" class="img-responsive lazyload" data-src="https://static-3.bitchute.com/live/cover_images/AR5yv3sqIA1f/7IOIv4okVwWQ_320x180.jpg" onerror="this.src='/static/v140/images/blank_320x180.png';this.onerror='';" src="/static/v140/images/loading_320x180.png"/>
+<img alt="play" class="img-responsive play-overlay" src="/static/v140/images/play-button.png"/>
+<span class="video-views"><i class="far fa-eye"></i> 305</span>
+<span class="video-duration">1:00:00</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a class="spa" href="/video/7IOIv4okVwWQ/">Understanding the Lies</a></p>
+<p class="video-card-published">2 days, 6 hours ago</p>
+</div>
+</div>
+<div class="video-card">
+<a class="spa" href="/video/OkuEC8VRXvZj/">
+<div class="video-card-image">
+<img alt="video image" class="img-responsive lazyload" data-src="https://static-3.bitchute.com/live/cover_images/AR5yv3sqIA1f/OkuEC8VRXvZj_320x180.jpg" onerror="this.src='/static/v140/images/blank_320x180.png';this.onerror='';" src="/static/v140/images/loading_320x180.png"/>
+<img alt="play" class="img-responsive play-overlay" src="/static/v140/images/play-button.png"/>
+<span class="video-views"><i class="far fa-eye"></i> 712</span>
+<span class="video-duration">7:09</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a class="spa" href="/video/OkuEC8VRXvZj/">Anaesthetics - Why YOU Are in Great Danger</a></p>
+<p class="video-card-published">3 days, 2 hours ago</p>
+</div>
+</div>
+<div class="video-card">
+<a class="spa" href="/video/Bimx89AHyloJ/">
+<div class="video-card-image">
+<img alt="video image" class="img-responsive lazyload" data-src="https://static-3.bitchute.com/live/cover_images/AR5yv3sqIA1f/Bimx89AHyloJ_320x180.jpg" onerror="this.src='/static/v140/images/blank_320x180.png';this.onerror='';" src="/static/v140/images/loading_320x180.png"/>
+<img alt="play" class="img-responsive play-overlay" src="/static/v140/images/play-button.png"/>
+<span class="video-views"><i class="far fa-eye"></i> 347</span>
+<span class="video-duration">28:46</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a class="spa" href="/video/Bimx89AHyloJ/">Gold Demand Hits 55 Year High As Recession Signals Flash Red</a></p>
+<p class="video-card-published">3 days, 6 hours ago</p>
+</div>
+</div>
+<div class="video-card">
+<a class="spa" href="/video/1MvnY8dsaClP/">
+<div class="video-card-image">
+<img alt="video image" class="img-responsive lazyload" data-src="https://static-3.bitchute.com/live/cover_images/AR5yv3sqIA1f/1MvnY8dsaClP_320x180.jpg" onerror="this.src='/static/v140/images/blank_320x180.png';this.onerror='';" src="/static/v140/images/loading_320x180.png"/>
+<img alt="play" class="img-responsive play-overlay" src="/static/v140/images/play-button.png"/>
+<span class="video-views"><i class="far fa-eye"></i> 265</span>
+<span class="video-duration">17:43</span>
+</div>
+</a>
+<div class="video-card-text">
+<p class="video-card-title"><a class="spa" href="/video/1MvnY8dsaClP/">Biden Exec Order to Mandate AI Propaganda</a></p>
+<p class="video-card-published">5 days, 4 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 video-sensitivity-warning hidden pb10">
+<h4 class="pb15"><i class="fas fa-exclamation-triangle"></i> Warning - This video exceeds your sensitivity preference!</h4>
+<p>To dismiss this warning and continue to watch the video please click on the button below.</p>
+<p><strong>Note - </strong>Autoplay has been disabled for this video.</p>
+<button class="btn btn-danger video-sensitivity-button" type="button"><i class="fas fa-video fa-fw"></i> Watch this video</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="advert-banner-container">
+<span class="advert-label" data-placement="bottom" data-toggle="tooltip" onclick="showAdvertModal(false);" title="What is this?">Advertisement <i class="far fa-question-circle" data-fa-transform="grow-2 down-1"></i></span>
+<span class="advert-dismiss" data-placement="bottom" data-toggle="tooltip" title="Dismiss advert">Dismiss <i class="fas fa-times" data-fa-transform="grow-3 down-1"></i></span>
+<a aria-label="Energy Complex" href="/mac/X6eWxm4H9t7e/" rel="noopener noreferrer" target="_blank">
+<div class="advert-inner">
+<img alt="Energy Complex" class="img-responsive lazyload" data-src="https://static-3.bitchute.com/live/advert/X6eWxm4H9t7e/NutFTU6DB3m0AcDRUknWCEYA_728x90.jpg" onerror="this.src='/static/v140/images/blank_728x90.png';this.onerror='';" src="/static/v140/images/loading_728x90.png"/>
+</div>
+</a>
+</div>
+<div class="modal fade" id="advert-modal" role="dialog">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-hidden="true" class="close" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i></button>
+<a href="/"><img alt="BitChute" class="modal-logo logo-full" src="/static/v140/images/logo-full-day.png"/></a>
+</div>
+<div class="modal-body">
+<p class="creator-advert-text">This advertisement has been selected by the videos creator, Free Range Slave.</p>
+<p class="platform-advert-text">This advertisement has been selected by the BitChute platform.</p>
+<p class="platform-advert-text">By purchasing and/or using the linked product you are helping to cover the costs of running BitChute.</p>
+<p>It is free for anyone to opt-out of receiving advertising via the Interface tab on the <a href="/settings/" rel="noopener noreferrer" target="_blank">Settings</a> page.</p>
+<p>To help support BitChute or find out more about our creator monetization policy:</p>
+<div class="row">
+<div class="col-xs-12 text-center">
+<div class="menu-options-container">
+<a class="spa" href="/help-us-grow/">
+<div class="menu-options-item monetization-links-item">
+<p><i class="fas fa-donate fa-4x"></i></p>
+<h4>HELP US GROW</h4>
+</div>
+</a>
+<a class="spa" href="/monetization/policy/">
+<div class="menu-options-item monetization-links-item">
+<p><i class="fas fa-file-contract fa-4x"></i></p>
+<h4>CREATOR MONETIZATION</h4>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button class="btn btn-default" data-dismiss="modal" type="button"><i class="fas fa-times fa-fw"></i> Close</button>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">function showAdvertModal(creator) {
+        if (creator) {
+            $('.creator-advert-text').removeClass('hidden');
+            $('.platform-advert-text').addClass('hidden');
+        } else {
+            $('.creator-advert-text').addClass('hidden');
+            $('.platform-advert-text').removeClass('hidden');
+        }
+        $('#advert-modal').modal('show');}
+    </script>
+<script>
+    $(document).ready(function () {
+        
+        setTimeout(videoCheckAdverts, 1000);
+        videoResetRefresh();
+        videoRefreshCounts('RlLneoQitcq9');
+        htmlRatioComponentHelper.initializeAll();
+        
+            
+                videoPlayerInit('/static/v140/', true, true);
+            
+        
+        monetizationInit('AR5yv3sqIA1f');
+        if (Cookies.getJSON('preferences')) $('#autoplay-toggle').prop('checked',Cookies.getJSON('preferences').autoplay);
+        playlistAttachEvents();
+        playlistAttachModalEvents();
+        spaAttachEvents();
+        scrollerAttachEvents();
+        videoAttachEvents();
+        uploadAttachEvents();
+        videoAutoplayInit(false);
+        
+        $('.plyr__menu__container button:nth-child(2)').addClass('hidden');
+        $('#show-visibility').on('shown.bs.tab', function(){renderContentRestrictionMap('');});
+    });
+</script>
+<script>
+    window.commentCount=0;
+    commentRefreshTime = 60000;
+    var commentRefreshTimeoutId;
+    var refreshAction = function refreshAction() {initComments('https://commentfreely.bitchute.com','eyJwcm9maWxlX2lkIjogImFub255bW91cyIsICJvd25lcl9pZCI6ICI2aHhBZWpaMWJUUnciLCAiZGlzcGxheV9uYW1lIjogImFub255bW91cyIsICJ0aHJlYWRfaWQiOiAiYmNfUmxMbmVvUWl0Y3E5IiwgImljb25fdXJsIjogIi9zdGF0aWMvdjE0MC9pbWFnZXMvYmxhbmstcHJvZmlsZS5wbmciLCAiY2ZfaXNfYWRtaW4iOiAiZmFsc2UiLCAiY2hhbm5lbF9pZCI6ICJBUjV5djNzcUlBMWYifQ== 4ba523eca399890b9920fcc78933b987a057d56b359d1bc16d3471d15d4c1bab 1678332857','anonymous','/static/v140/images/blank-profile.png', window.commentCount, refreshAction, false, false);}
+    function commentRefreshCounts() {
+        if (window.location.pathname.indexOf('RlLneoQitcq9') !== -1) {
+            $.post({
+                url: 'https://commentfreely.bitchute.com' + '/api/get_comment_count/',
+                data: {cf_auth: 'eyJwcm9maWxlX2lkIjogImFub255bW91cyIsICJvd25lcl9pZCI6ICI2aHhBZWpaMWJUUnciLCAiZGlzcGxheV9uYW1lIjogImFub255bW91cyIsICJ0aHJlYWRfaWQiOiAiYmNfUmxMbmVvUWl0Y3E5IiwgImljb25fdXJsIjogIi9zdGF0aWMvdjE0MC9pbWFnZXMvYmxhbmstcHJvZmlsZS5wbmciLCAiY2ZfaXNfYWRtaW4iOiAiZmFsc2UiLCAiY2hhbm5lbF9pZCI6ICJBUjV5djNzcUlBMWYifQ== 4ba523eca399890b9920fcc78933b987a057d56b359d1bc16d3471d15d4c1bab 1678332857', cf_thread: 'bc_RlLneoQitcq9'},
+                success: function (result) {
+                    remoteCount = Number(result['commentCount']);
+                    if ( window.commentCount > remoteCount ) { window.commentCount = remoteCount; }
+                    if ( remoteCount > window.commentCount ) $('.long-btn').show();
+                },
+                complete: function () {commentRefreshTimeoutId=setTimeout(commentRefreshCounts, commentRefreshTime)},
+            });
+        }
+    }
+    $( document ).ready(function() {refreshAction(); commentRefreshTimeoutId=setTimeout(commentRefreshCounts, commentRefreshTime)});
+</script>
+<script async="" src="https://cdn.jsdelivr.net/gh/amark/gun@debug/gun.js"></script>
+</div>
+<div id="loader-container"><div id="loader"><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></div></div>
+</div>
+<div id="page-footer">
+<div class="navigation">
+<div class="navigation-section">
+<a href="https://support.bitchute.com/policy/our-commitment/" rel="noopener noreferrer" target="_blank"><p class="navigation-heading">Company</p></a>
+<ul class="navigation-list list-unstyled">
+<li><a href="https://support.bitchute.com/policy/our-commitment/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Our Commitment</a></li>
+<li><a href="https://support.bitchute.com/policy/contact/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Contact Us</a></li>
+</ul>
+</div>
+<div class="navigation-section">
+<a href="https://support.bitchute.com/policy/" rel="noopener noreferrer" target="_blank"><p class="navigation-heading">Policies</p></a>
+<ul class="navigation-list list-unstyled">
+<li><a href="https://support.bitchute.com/policy/guidelines/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Community Guidelines</a></li>
+<li><a href="https://support.bitchute.com/policy/terms/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Terms &amp; Conditions</a></li>
+<li><a href="https://support.bitchute.com/policy/privacy/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Privacy Policy</a></li>
+<li><a href="https://support.bitchute.com/policy/cookie/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Cookie Policy</a></li>
+</ul>
+</div>
+<div class="navigation-section">
+<a href="https://support.bitchute.com/" rel="noopener noreferrer" target="_blank"><p class="navigation-heading">Support</p></a>
+<ul class="navigation-list list-unstyled">
+<li><a href="https://support.bitchute.com/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Knowledge Base</a></li>
+<li><a href="https://status.bitchute.com/" rel="noopener noreferrer" target="_blank"><i class="fal fa-chevron-double-right fa-xs"></i> Service Status</a></li>
+</ul>
+</div>
+</div>
+<div class="copyright">
+BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our <a href="https://support.bitchute.com/policy/" rel="noopener noreferrer" target="_blank">policies</a>. The content posted to the platform is not reflective or representative of the views of Bit Chute Limited, its staff or owners. © 2017-2022 Bit Chute Limited, Box 813, Andover House, George Yard, Andover, Hampshire, SP10 1PB. United Kingdom. Company number 10637289.
+</div>
+</div>
+<div id="nav-bottom-menu-buffer"></div>
+<span class="hidden" id="display_id">RlLneoQitcq9</span>
+<span class="nav-tabs-list hidden"></span>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/bootstrap-slider.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jeditable.js/1.7.3/jeditable.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.3/toastr.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.1/lazysizes.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.1/clipboard.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.6.9/plyr.polyfilled.min.js" type="text/javascript"></script>
+<script defer="" src="/static/v140/js/third-party/jquery.ui.widget.js" type="text/javascript"></script>
+<script defer="" src="/static/v140/js/third-party/jquery.iframe-transport.js" type="text/javascript"></script>
+<script defer="" src="/static/v140/js/third-party/jquery.fileupload.js" type="text/javascript"></script>
+<script defer="" src="/static/v140/js/third-party/fontawesome-all.min.js" type="text/javascript"></script>
+<script src="/static/v140/js/third-party/html-ratio-component.js" type="text/javascript"></script>
+<script src="/static/v140/js/auth.js" type="text/javascript"></script>
+<script src="/static/v140/js/channel.js" type="text/javascript"></script>
+<script src="/static/v140/js/channel-list.js" type="text/javascript"></script>
+<script src="/static/v140/js/common.js" type="text/javascript"></script>
+<script src="/static/v140/js/listing.js" type="text/javascript"></script>
+<script src="/static/v140/js/membership.js" type="text/javascript"></script>
+<script src="/static/v140/js/flagging.js" type="text/javascript"></script>
+<script src="/static/v140/js/monetization.js" type="text/javascript"></script>
+<script src="/static/v140/js/notification.js" type="text/javascript"></script>
+<script src="/static/v140/js/playlist.js" type="text/javascript"></script>
+<script src="/static/v140/js/search.js" type="text/javascript"></script>
+<script src="/static/v140/js/upload.js" type="text/javascript"></script>
+<script src="/static/v140/js/video.js" type="text/javascript"></script>
+<script async="" src="https://cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js" type="text/javascript"></script>
+<script async="" src="/static/v140/js/stream/p2p-graph.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js" type="text/javascript"></script>
+<script async="" src="https://cdnjs.cloudflare.com/ajax/libs/rickshaw/1.6.3/rickshaw.min.js" type="text/javascript"></script>
+<script type="text/javascript">channelCreateAttach();</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7a5042e39fac9c42',m:'igCIUdxUlo9t2vnG7ogPJkHNOpUE9YlZDTx5O9_mDjs-1678332857-0-AcS1juS9gEXdo7p2DJReWbIVD0Bvy5YMP5poDYHd2EJzBfvH9zrctupdqEov0Oyf0aDlHz8wbN8AjrWclKOHS7NQM3BfZw1UEOpk5ZxqZF5IliO0Dk5Z63/j8qRITfsfoW0bZDmB7w9tdnM/Hhnq/5k=',s:[0x65e1dfda8d,0x65de5dae90],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

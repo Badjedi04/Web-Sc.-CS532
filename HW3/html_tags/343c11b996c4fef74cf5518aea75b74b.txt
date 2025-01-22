@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
+<title>Die zweite Phase | Rubikon-Magazin</title>
+<meta content="Nach der anfänglichen Schocktherapie winken die Eliten mit kleinen Freiheiten, treiben die autoritäre Transformation aber umso geschickter voran." name="description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.rubikon.news/artikel/die-zweite-phase" property="og:url"/>
+<meta content="https://www.rubikon.news/uploads/store/3feb4bc71abe665f8336b774792b1dbf.jpg" property="og:image"/>
+<meta content="Die zweite Phase" property="og:title"/>
+<link href="/artikel/die-zweite-phase" rel="canonical"/>
+<link href="/favicon.ico" rel="shortcut icon"/>
+<link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/manifest.json" rel="manifest"/>
+<link color="#5bbad5" href="/safari-pinned-tab.svg" rel="mask-icon"/>
+<meta content="#2d89ef" name="msapplication-TileColor"/>
+<meta content="/mstile-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="same-origin" name="referrer"/>
+<meta content="JwVuMMQ38SnaFh_J0kAEwg" name="cubits-verify"/>
+<meta content="rdxv12" name="flattr:id"/>
+<link href="https://www.rubikon.news/artikel.atom" rel="alternate" title="Rubikon Magazin" type="application/atom+xml">
+<link href="/assets/frontend/frontend-ddd5e843bc335d9a1389174d96c8c07f3c21ef19cc734b7bf8170ef77b415c9f.css" media="screen" rel="stylesheet">
+<link href="/assets/frontend/print-cdf4c7231ffb7df61d9ebcc81586c0d706335cd9a47a77d90cb0a54e9740ffa8.css" media="print" rel="stylesheet">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="CZ+B9U+Pl5ht14K/sRrRr3V9BoX3eP8176VdZger6cH9WDfUtZXaTMtQaCNZpqWmDZQM1b4HlhVZRhgDU6kHZg==" name="csrf-token">
+</meta></meta></link></link></link></head>
+<body>
+<a class="skip-main" href="#main">Zum Inhalt:</a>
+<input id="navbar-noscript-toggle" style="display: none;" type="checkbox"/>
+<aside class="sidebar">
+<div class="sidebar-header">
+<label class="button secondary btn-menu icon-close" for="navbar-noscript-toggle"></label>
+</div>
+<div class="search">
+<div class="search__button icon2-search">
+<form accept-charset="UTF-8" action="/artikel/suche" method="get">
+<input name="search_articles[sort]" type="hidden" value="chronologisch absteigend"/>
+<input class="search__field" id="search_articles_query" name="search_articles[query]" type="text"/>
+</form> </div>
+<!--     <input class="search__field" name="search_articles[query]" type="text" placeholder="Suche" /> -->
+</div>
+<nav>
+<ul>
+<li><a href="/artikel">Alle Artikel</a></li>
+<li><a href="/autoren">Autoren</a></li>
+<li><a href="/freunde">Freunde</a></li>
+<li><a href="/kontakt">Team</a></li>
+<li><a href="/newsletter">Newsletter</a></li>
+<li><a href="/unterstuetzen">Unterstützen</a></li>
+</ul>
+</nav>
+<div class="book-promotion">
+<a href="https://www.buchkomplizen.de/unsere-komplizen/rubikon/strategien-der-macht.html" target="_blank"><img alt="Strategien der Macht" class="book-promotion__img" src="https://www.rubikon.news/media/images/1fc5307e0fc7db36fe0c9a7c28ccee9f.jpeg"/></a>
+<div class="book-promotion__text">
+<a class="book-promotion__bookstore" href="/buecher">Unsere Bücher</a>:<br/>
+<a class="book-promotion__link" href="https://www.buchkomplizen.de/unsere-komplizen/rubikon/strategien-der-macht.html" target="_blank">Strategien der Macht</a>
+<br/><span>von</span>
+<a href="https://www.rubikon.news/autoren/roland-rottenfusser">Roland Rottenfußer</a>
+</div>
+</div>
+</aside>
+<label class="sidebar-content-protection" for="navbar-noscript-toggle"></label>
+<div class="topbar">
+<div class="topbar__menu">
+<label class="button tertiary btn-menu icon-menu" for="navbar-noscript-toggle">
+<span class="icon2-menu"></span>
+<span class="topbar__menu--text">Menü</span>
+</label>
+<div class="logo">
+<a class="logo" href="/">
+<img alt="Rubikon" src="/assets/logo-dd0fcd373a0c872bb432f7596d9e700155c5d7fa07ec99a3777d44621e8c61fe.svg">
+</img></a> </div>
+<div class="topbar__support">
+<a class="button button--small-gutter hover-color-blue" href="/unterstuetzen">
+<span class="topbar__support--text">Unterstützen</span><span class="icon2-support"></span>
+</a> </div>
+</div>
+<nav class="topbar__filter">
+<ul>
+<li class=""><a href="/rubrik/1">Fassadendemokratie &amp; Tiefer Staat</a></li>
+<li class=""><a href="/rubrik/6">Medien- &amp; Ideologiekritik</a></li>
+<li class=""><a href="/rubrik/2">Krieg &amp; Frieden</a></li>
+<li class=""><a href="/rubrik/3">Arm &amp; Reich</a></li>
+<li class=""><a href="/rubrik/7">Bildung &amp; Soziales</a></li>
+<li class=""><a href="/rubrik/4">Natur &amp; Umwelt </a></li>
+<li class=""><a href="/rubrik/5">Seele &amp; Bewusstsein</a></li>
+</ul>
+</nav>
+<div class="topbar__filter topbar__filter--mobile">
+<select id="rubric-select">
+<option disabled="" selected="" value="-1">Schwerpunkt wählen</option>
+<option value="/rubrik/1"><a href="/artikel/die-zweite-phase">Fassadendemokratie &amp; Tiefer Staat</a></option>
+<option value="/rubrik/6"><a href="/artikel/die-zweite-phase">Medien- &amp; Ideologiekritik</a></option>
+<option value="/rubrik/2"><a href="/artikel/die-zweite-phase">Krieg &amp; Frieden</a></option>
+<option value="/rubrik/3"><a href="/artikel/die-zweite-phase">Arm &amp; Reich</a></option>
+<option value="/rubrik/7"><a href="/artikel/die-zweite-phase">Bildung &amp; Soziales</a></option>
+<option value="/rubrik/4"><a href="/artikel/die-zweite-phase">Natur &amp; Umwelt </a></option>
+<option value="/rubrik/5"><a href="/artikel/die-zweite-phase">Seele &amp; Bewusstsein</a></option>
+</select>
+</div>
+</div>
+<div class="topbar__spacer"></div>
+<div id="main" tabindex="-1">
+<header class="header-normal">
+<div class="header-content">
+<div class="header-image">
+<img alt="Die zweite Phase" src="/uploads/store/3feb4bc71abe665f8336b774792b1dbf.jpg"/>
+</div>
+<div class="article-meta">
+<input id="article-options-dropdown" name="article-options-dropdown" type="checkbox"/>
+<div class="article-options">
+<label for="article-options-dropdown">Artikeloptionen <i class="fa fa-caret-down"></i><i class="fa fa-caret-up"></i></label>
+<div class="options-dropdown">
+<a href="/artikel/die-zweite-phase/read" id="read-article" target="_blank">Vorlesen</a>
+<a href="/artikel/die-zweite-phase.md">Republizieren als .md</a>
+<a href="/artikel/die-zweite-phase.pdf" id="download-pdf" target="_blank">Druckversion als .pdf</a>
+</div>
+</div>
+  
+      Freitag, 26. März 2021, 15:00 Uhr<br>
+      ~10 Minuten Lesezeit
+    </br></div>
+<h1>Die zweite Phase</h1>
+<h2>Nach der anfänglichen Schocktherapie winken die Eliten mit kleinen Freiheiten, treiben die autoritäre Transformation aber umso geschickter voran.</h2>
+<div class="article-meta">
+      von <a href="/autoren/c-j-hopkins">C. J. Hopkins</a>
+<br/><p>Foto: asray/Shutterstock.com</p>
+</div>
+<div class="article-teaser">
+<p>Sie werden es gemerkt haben: Die Regierenden spielen derzeit geschickt mit unseren Ängsten und Hoffnungen. Manchmal scheint sich in der Corona-Politik Aufhellung am Horizont zu zeigen, werden stufenweise Lockerungen in Aussicht gestellt; dann wieder bringen Schreckensmeldungen unseren schon halb fertigen Turm aus Hoffnungs-Bauklötzen brutal zum Einsturz. Immer sollen wir noch ein bisschen länger durchhalten, rufen Einpeitscher wie Karl Lauterbach zum „letzten Gefecht“ auf. Menschlichkeit ist es nicht, was die Mächtigen motiviert, sich gelegentlich gnädig zu geben. Eher handelte es sich um ein sadistisches Katz-und-Maus-Spiel, das die Köpfe der Menschen besetzt hält, sie Schritt für Schritt einer Gehorsamsdressur unterwirft und sie dauerhaften „Tantalus-Qualen“ aussetzt. Die Corona-Strategen nämlich wissen genau, dass sie die Bürger nicht ewig in einer Atmosphäre schwärzester Aussichtslosigkeit festhalten können. Sie geben daher zwischen den Peitschenhieben manchmal etwas Zuckerbrot, gaukeln eine partielle Wiederherstellung der Freiheit vor, die wir allerdings durch neuartige Unterwerfungsrituale erkaufen müssten — andauernde Selbsttests zum Beispiel. Während die erste Wutwelle in der Bevölkerung auf diese Weise gebrochen wird, basteln die Mächtigen an einer neuen Phase auf ihrem Weg zur globalen Diktatur.</p>
+</div>
+<!-- <div class="social-links">
+      <a href="#">Twitter</a>
+      <a href="#">Facebook</a>
+      <a href="#">Mail</a>
+      <a href="#">Drucken</a>
+    </div> -->
+</div>
+</header>
+<div class="article">
+<div class="article-content">
+<p>So, wir befinden uns nun fast ein Jahr in der neuen Normalität — auch bekannt als „pathologisierter Totalitarismus“ —, und die Dinge sehen immer noch, na ja, ziemlich totalitär aus.</p>
+<p>Der größte Teil Westeuropas befindet sich immer noch im Lockdown oder unter Ausgangssperre oder in einer anderen Form des „Gesundheitsnotstands“. Die Polizei verhängt Geldstrafen und verhaftet Leute, die sich ohne triftigen Grund <a href="https://twitter.com/consent_factory/status/1367405934973231107">im Freien aufhalten</a>. Protest ist immer noch <a href="https://www.reuters.com/article/us-health-coronavirus-sweden-demonstrati/swedish-police-break-up-coronavirus-demonstration-in-stockholm-idUSKBN2AY0LE">verboten</a>. Andersdenkende werden immer noch <a href="https://www.npr.org/2021/02/08/965390755/facebook-widens-ban-on-covid-19-vaccine-misinformation-in-push-to-boost-confiden?t=1616753568397">zensiert</a>. Die <a href="https://twitter.com/GOVUK/status/1359921521192538118">offizielle Propaganda</a> ist unerbittlich. Die Regierungen regieren per Verordnung und unterwerfen die Menschen einer sich ständig ändernden Reihe von <a href="https://www.bbc.com/news/uk-56158405">zunehmend absurden Einschränkungen</a> der grundlegendsten Aspekte des täglichen Lebens.</p>
+<p>Und nun wird mit regelrecht religiösem Eifer die Kampagne geführt, die gesamte Menschheit gegen ein Virus zu impfen, das bei <a href="https://swprs.org/covid19-facts/">über 95 Prozent der Infizierten</a> leichte bis mittelschwere grippeähnliche Symptome oder, was noch häufiger vorkommt, überhaupt keine Symptome hervorruft und das über 99 Prozent der Infizierten überleben, das <a href="https://twitter.com/SHomburg/status/1356498148890411010">keine wirkliche Auswirkung</a> auf die altersbereinigten Sterberaten hat und dessen <a href="https://swprs.org/why-covid-19-is-a-strange-pandemic/">Sterblichkeitsprofil</a> mehr oder weniger identisch mit dem normalen Sterblichkeitsprofil ist.</p>
+<p>„Impfpässe“ — die zweifellos gruselig sind, aber keine Ähnlichkeit mit <a href="https://en.wikipedia.org/wiki/Aryan_certificate">arischen Abstammungsnachweisen</a> oder anderen faschistischen Apartheid-Dokumenten haben, also kommen Sie bloß nicht auf die Idee, einen solchen Vergleich anzustellen! — sind in einer Reihe von Ländern in der Entwicklung. <a href="https://www.jpost.com/israel-news/everything-you-need-to-know-about-israels-green-passport-program-659437">In Israel</a> sind sie bereits eingeführt worden.</p>
+<p>Mit anderen Worten, wie von uns Verschwörungstheoretikern vorhergesagt, sind die „vorübergehenden gesundheitspolitischen Notstandsmaßnahmen“, die von GloboCap (den globalen kapitalistischen Herrschaftsklassen) im März 2020 eingeführt wurden, immer noch voll und ganz in Kraft, und sogar noch mehr. Das heißt, wie Sie wahrscheinlich bemerkt haben, verschiebt sich der Tenor der Dinge ein wenig, was nicht überraschend ist, da GloboCap jetzt den Übergang von Phase 1 zu Phase 2 der Umsetzung der neuen Normalität durchführt.</p>
+<p>Phase 1 war so ziemlich im klassischen Sinne von Schock und Furcht. Ein apokalyptisches Virus wurde „entdeckt“. Ein globaler Ausnahmezustand wurde ausgerufen. Verfassungsmäßige Rechte wurden aufgehoben. <a href="https://off-guardian.org/2020/04/25/50-headlines-darker-more-of-the-new-normal/">Soldaten, Polizisten, Überwachungskameras</a>, <a href="https://www.vanityfair.com/news/2020/04/coronavirus-surveillance-is-entering-dystopian-territory">Militärdrohnen</a> und <a href="https://www.dailymail.co.uk/sciencetech/article-8318971/Robots-equipped-infrared-cameras-patrol-holiday-destinations-new-EU-plans.html">Roboterhunde</a> wurden eingesetzt, um den weltweiten Polizeistaat zu implementieren. Die Massen wurden mit offizieller Propaganda bombardiert, mit <a href="https://www.theguardian.com/world/2020/jan/31/a-man-lies-dead-in-the-street-the-image-that-captures-the-wuhan-coronavirus-crisis">Fotos von Menschen</a>, die auf der Straße tot umfallen, von <a href="https://twitter.com/consent_factory/status/1244943914303467520">bewusstlosen Patienten</a>, die qualvoll sterben, von Leichen, die in <a href="https://anti-empire.com/the-truth-behind-refrigerated-morgue-truck-stories-or-how-to-manufacture-mass-hysteria-by-burying-the-details/">behelfsmäßige Leichenwagen</a> gestopft werden, von <a href="https://www.nytimes.com/2020/04/02/nyregion/ny-coronavirus-usns-comfort.html">Krankenhausschiffen</a>, von Horrorgeschichten auf der Intensivstation, von <a href="https://www.cnbc.com/2020/03/03/who-says-coronavirus-death-rate-is-3point4percent-globally-higher-than-previously-thought.html">Hochrechnungen</a> über Hunderte von Millionen von Toten, von <a href="https://twitter.com/consent_factory/status/1276460900099080192">angsteinflößenden orwellschen Slogans</a>, von sentimentalen Kriegseinsatz-Plakaten und so weiter. Die volle Wucht der gewaltigsten Goebbels'schen Propagandamaschine der Geschichte wurde auf einmal auf die Öffentlichkeit losgelassen (siehe zum Beispiel <a href="https://edition.cnn.com/2020/04/16/us/coronavirus-pandemic-new-normal/index.html"><em>CNN</em></a>, <a href="https://www.npr.org/2020/04/27/845322553/new-normal-how-will-things-change-in-post-pandemic-world"><em>NPR</em></a>, <a href="https://www.cnbc.com/2020/04/15/new-york-moves-to-a-new-normal-as-gov-cuomo-outlines-gradual-reopening-of-businesses.html"><em>CNBC</em></a>, <a href="https://www.nytimes.com/2020/04/21/world/americas/coronavirus-social-impact.html"><em>The New York Times</em></a>, <a href="https://www.theguardian.com/books/2020/apr/03/our-new-normal-why-so-many-of-us-feel-unprepared-for-lockdown-life"><em>The Guardian</em></a>, <a href="https://www.theatlantic.com/ideas/archive/2020/03/you-will-adjust-new-normal/607873/"><em>The Atlantic</em></a>, <a href="https://www.forbes.com/sites/jeannemeister/2020/03/31/the-impact-of-the-coronavirus-on-hr-and-the-new-normal-of-work/#11e133a82b60"><em>Forbes</em></a> und andere „seriöse“ Quellen wie der <a href="https://www.euro.who.int/en/media-centre/sections/statements/2020/statement-transition-to-a-new-normal-during-the-covid-19-pandemic-must-be-guided-by-public-health-principles">Internationale Währungsfonds (IWF)</a> und die <a href="">Weltbankgruppe</a>, das <a href="https://www.weforum.org/agenda/2020/04/13-april-who-briefing-coronavirus-covid19-lockdown-restrictions-guidance/">Weltwirtschaftsforum (WEF)</a>, die <a href="https://www.un.org/africarenewal/news/coronavirus/new-normal-un-lays-out-roadmap-lift-economies-and-save-jobs-after-covid-19">Vereinten Nationen (UN)</a>, die <a href="https://www.euro.who.int/en/media-centre/sections/statements/2020/statement-transition-to-a-new-normal-during-the-covid-19-pandemic-must-be-guided-by-public-health-principles">Weltgesundheitsorganisation (WHO)</a>, die <a href="https://www.msnbc.com/stephanie-ruhle/watch/former-cdc-director-we-need-a-new-normal-82203717892">Centers for Disease Control and Prevention (CDC)</a>).</p>
+<p>Aber die Schock-und-Furcht-Phase kann nicht ewig andauern, noch war das jemals beabsichtigt.</p>
+<blockquote>
+<p>Ihr Zweck ist es, (a) die anvisierten Massen in einen Zustand der Unterwerfung hineinzuterrorisieren, (b) ihre Gesellschaft irreversibel zu destabilisieren, sodass sie radikal umstrukturiert werden kann, und (c) eine überwältigende Überlegenheit der Macht überzeugend zu demonstrieren, sodass Widerstand unvorstellbar wird. </p>
+</blockquote>
+<p>Diese Schock- und Furchttaktik — oder schnelle Dominanz — wurde von Imperien und aufstrebenden Imperien im Laufe der Militärgeschichte immer wieder angewandt. Sie wurde gerade von GloboCap gegen ..., also gegen die ganze Welt angewandt. Und nun geht diese Phase ihrem Ende entgegen.</p>
+<p>Die Gestalt von Phase 2 ist noch nicht ganz klar, aber man kann ein paar logische Vermutungen anstellen. Typischerweise ist dies die Phase, in der die Eroberungsmacht — in diesem Fall GloboCap — die Normalität, das heißt eine neue Normalität, in der Gesellschaft wiederherstellt, die sie gerade destabilisiert und terrorisiert hat. Es wird eine neue besatzungsfreundliche Regierung installiert, die Wirtschaft wieder angekurbelt, und ansonsten beginnt der allmähliche Übergang vom Kriegsrecht zu etwas, das dem normalen Alltagsleben ähnelt. Man verteilt Schokoriegel an Kinder, Finanzhilfen an Unternehmen, Macht an Generäle und die Polizei und Freiheit an die unter Schock stehende Öffentlichkeit.</p>
+<p>Dies scheint der Punkt zu sein, an dem wir uns im Moment befinden. Wie Sie wahrscheinlich bemerkt haben, sprechen die Medien, die Regierung und die medizinischen Experten derzeit vom <a href="https://nymag.com/intelligencer/2021/02/is-the-worst-of-the-pandemic-is-over-9-reasons-for-optimism.html">Ende der Pandemie</a> oder zumindest vom „<a href="https://www.theatlantic.com/health/archive/2021/02/how-know-when-pandemic-over/618122/">Ende der Notstandsphase</a>“ der Pandemie. Plötzlich ist ein gewisses Maß an Covid <a href="https://www.politico.com/newsletters/politico-nightly/2021/02/26/how-to-tell-when-the-pandemic-is-over-491909">tolerierbar</a>, „Null Covid ist <a href="https://www.bbc.com/news/health-56047489">unwahrscheinlich</a>“ und so weiter. Dies geschieht ziemlich genau auf Kommando.</p>
+<p>Jetzt, wo die Impfkampagne in vollem Gange ist, versuchen sie, die Massenparanoia und den Hass, den sie seit über einem Jahr geschürt haben, mit etwas Hoffnung und einer Vision einer Zukunft nach der Krise zu mildern. </p>
+<blockquote>
+<p>Die Regierungen lockern vorsichtig die Einschränkungen und sorgen dafür, dass wir verstehen, dass sie wieder gnadenlos gegen uns vorgehen werden, wenn wir nicht den Befehlen gehorchen, unsere Masken tragen, uns impfen lassen und so weiter. </p>
+</blockquote>
+<p>Sie wollen uns sanft in die pathologisiert-totalitäre Zukunft hineinführen, sodass es sich so anfühlt, als würden wir befreit werden und zu einem gewissen Anschein normalen Lebens zurückkehren, wenn auch in einer neuen, schrecklicheren, ständig von Viren und Extremisten bedrohten Welt.</p>
+<p>Hier in Deutschland zum Beispiel hat die Regierung beschlossen, dem Volk etwas Freiheit und Vertrauen <a href="https://www.zeit.de/news/2021-03/04/soeder-maerz-wird-im-corona-kampf-ein-uebergangsmonat?utm_referrer=https%3A%2F%2Fconsentfactory.org%2F">zurückzugeben</a>, aber sie sind bereit, uns wieder hart einzusperren, wenn sie den Verdacht haben, dass wir ihr Vertrauen nicht weise genutzt haben. Nach dem <a href="https://www.dw.com/en/coronavirus-germany-extends-lockdown-with-plan-to-relax-restrictions/a-56763824">5-Stufen-Plan</a> können Buchhandlungen und Blumenläden diese Woche wieder öffnen, mit einer Begrenzung von einer Person pro zehn Quadratmeter, bis zu zehn Personen können kontaktlosen Sport treiben, und fünf Personen aus nicht mehr als zwei Haushalten können sich treffen — und somit auch kontaktlosen Sport treiben –; es sei denn, die Inzidenzrate positiver PCR-Tests steigt über 100 pro tausend, in diesem Fall gehen wir zurück zum harten Lockdown. </p>
+<p>Zwei Wochen danach, am 22. März, sofern die Positiv-Test-Rate unter 50 bleibt, können Restaurants im Freien wieder geöffnet werden, und Theater, Kinos und Opernhäuser können wieder öffnen. Wenn die Positiv-Test-Rate jedoch mehr als 50, aber weniger als 100 beträgt, wird das Essen im Freien nur auf Basis einer strikten Vorreservierung erlaubt sein. Man nimmt an, dass es umherziehende Schlägertrupps geben wird, die die Buchungsunterlagen der Restaurants überprüfen und die Gäste auffordern, ihre Papiere vorzuzeigen. Es gibt noch weitere kafkaeske Auflagen in dem Plan, aber ich denke, Sie haben schon verstanden, worum es geht.</p>
+<p>Währenddessen in den USA, obwohl Washington, DC <a href="https://www.npr.org/2021/03/04/973847405/capitol-police-call-for-extension-of-national-guard-help">unter Besatzung bleibt</a> und das Kapitol von Stacheldrahtzäunen umgeben wird, um die Demokratie vor einem <a href="https://greenwald.substack.com/p/as-the-insurrection-narrative-crumbles">imaginären Feind</a> direkt aus George Orwells 1984 zu schützen, schließen sichTexas, Mississippi und ein paar andere Staaten Florida in offener Rebellion an und erlauben den Menschen, auswärts essen zu gehen, sich mit ihren Familien und Freunden zu treffen, in der Öffentlichkeit ohne medizinisch aussehende Masken herumzulaufen und ansonsten ihr Leben in einer völlig unverkrampft-paranoiden Weise zu leben.</p>
+<p>Ungeachtet der <a href="https://twitter.com/MMFlint/status/1367167700745732102">Empörung der Covid-Kultisten</a> ist diese Entwicklung für GloboCap nicht von großer Bedeutung, denn die Machtzentren an der Küste stehen ganz im Zeichen der neuen Normalität, und die Liberalen, die sie überwiegend beherrschen, haben sich in paranoide, hysterische Eiferer verwandelt, die jetzt einen beträchtlichen Teil ihrer Zeit damit verbringen, Jagd zu machen auf angebliche Covid-Leugner, Maskenverweigerer, Impfverweigerer, weiß-supremistische Extremisten, Verschwörungstheoretiker, Libertäre, tote rassistische Karikaturisten und jeden anderen, der sich nicht ihrer pathologisiert-totalitären Ideologie anpasst, und sie dann obsessiv in den sozialen Medien zu trollen oder <a href="https://twitter.com/consent_factory/status/1368228519352938500">ihre Gedankenverbrechen</a> der Wirklichkeitspolizei zu melden.</p>
+<p>Diese Verwandlung der relativ wohlhabenden, überwiegend liberalen Mittel-/Oberschicht und der Millionen, die vergeblich danach streben, in stumpfsinnig-ordnungsbeflissene gute Deutsche — oder besser gesagt stumpfsinnig-ordnungsbeflissene neue Normale — hat auch hier in Westeuropa und anderswo im globalen kapitalistischen Imperium stattgefunden und war eines der Hauptziele von GloboCap in Phase 1 der Einführung der neuen Normalität. Diese Transformation ist schon seit geraumer Zeit im Gange, weniger dramatisch und ohne ein Virus. Sie wird sich fortsetzen, sobald dieses Virus verschwunden ist.</p>
+<p>Bei der neuen Normalität geht es nicht nur um ein Virus. Bei der neuen Normalität ging es nie nur um ein Virus. Man braucht eine neue Normalität nicht wegen eines Virus. </p>
+<blockquote>
+<p>Man braucht eine neue Normalität, wenn die derzeitige Normalität ihre Nützlichkeit für die Machthaber verloren hat, die in unserem Fall die globalen kapitalistischen herrschenden Klassen sind.</p>
+</blockquote>
+<p>Ich schreibe darüber seit — nun, fast mein ganzes Leben lang, und ich <a href="https://consentfactory.org/">veröffentliche diese Kolumnen</a> seit fünf Jahren, also werde ich hier nicht alles zusammenfassen, aber im Grunde leben wir in einer dieser historischen Transformationen der Struktur der politischen Macht, die wir normalerweise nicht erkennen, bis sie stattgefunden hat; nicht nur eine Wachablösung: eine Transformation der Natur der Macht, wie sie ausgeübt wird, die Überzeugungen, auf denen sie basiert, und die Realität, die durch diese Überzeugungen ins Leben gerufen wird.</p>
+<p>Diese Transformation begann mit dem Ende des Kalten Krieges, als der globale Kapitalismus das erste global-hegemoniale ideologische System der Geschichte wurde. Die Einführung der neuen Normalität ist Teil dieser Transformation, nicht die ganze, aber eine wesentliche Etappe. Wir befinden uns im Übergang von einer ideologischen Realität zu einer post-ideologischen, pathologisierten Realität, einer Realität, in der jede Abweichung von der offiziellen Ideologie, das heißt der „Normalität“, nicht länger eine politische Herausforderung oder Bedrohung darstellt, sondern eine Krankheit oder psychiatrische Störung.</p>
+<p>Ich werde jetzt mal so frei sein und mich selbst zitieren, damit ich nicht wieder versuchen muss, das zu erklären. Hier ist eine Passage aus <a href="https://consentfactory.org/2021/02/08/the-new-normal-war-on-domestic-terror/">einer aktuellen Kolumne</a>:</p>
+<p><em>„Ein global-hegemoniales System, zum Beispiel der globale Kapitalismus, hat keine äußeren Feinde, da es kein Territorium außerhalb des Systems gibt. Seine einzigen Feinde befinden sich innerhalb des Systems und sind daher per Definition Aufrührer, auch bekannt als Terroristen und Extremisten. Diese Begriffe sind natürlich völlig belangslos. Sie sind rein strategisch und werden gegen jeden eingesetzt, der von der offiziellen Ideologie von GloboCap abweicht, die, falls Sie sich fragen, Normalität genannt wird oder, in unserem Fall, derzeit ‚neue‘ Normalität. (...)</em></p>
+<p><em>Die neue Art von Terroristen hasst uns nicht nur für unsere Freiheit, sie hassen uns, weil sie die Realität hassen. Sie sind nicht mehr unsere politischen oder ideologischen Gegner, sie leiden an einer psychiatrischen Störung. Mit ihnen muss nicht mehr gestritten oder ihnen zugehört werden, sie müssen behandelt, umerzogen und deprogrammiert werden, bis sie die Realität akzeptieren.“</em></p>
+<p>Während wir von Phase 1 zu Phase 2 der neuen Normalität übergehen, wird die Pathologisierung des politischen Abweichens weitergehen und sich verstärken, sowohl offen als auch subtil. GloboCap und die Konzernmedien werden weiterhin vor drohenden Angriffen auf die Demokratie durch imaginäre inländische Terroristen warnen, ebenso wie vor den alten nichtinländischen Terroristen. </p>
+<p>Sie werden auch weiterhin vor unmittelbaren Bedrohungen durch exotische Viren und Varianten von exotischen Viren warnen sowie vor permanenten Erkrankungen, die durch Viren verursacht werden, und anderen Bedrohungen für unsere Körperflüssigkeiten. Vor allem werden sie weiterhin vor der Gefahr warnen, „Fehlinformationen“, „Verschwörungstheorien“ oder jede andere Art von unbestätigten, nicht autorisierten und nicht auf Fakten geprüften Inhalten zu konsumieren. Sie werden die Quellen solcher Inhalte gründlich analysieren und die pathologischen Zustände, unter denen diese Quellen offensichtlich leiden, ausführlich erklären. Sie werden eine Vielzahl von Behandlungen und Heilmethoden erforschen und prophylaktische Maßnahmen gegen eine mögliche Berührung mit diesen Quellen empfehlen.</p>
+<p>Diese vielfältigen „Bedrohungen der Demokratie“ — zum Beispiel Terroristen, Viren, Fehlinformationen, Rassismus, Sexismus, Homophobie, Transphobie, Wahlsystem-Skepsis, weiß-suprematistischer Pfannkuchensirup, vorsätzlicher Pronomen-Missbrauch, kindlich sture Maskenverweigerung, Impf-Skepsis, Religion et cetera — werden zu einem einzigen Goldstein-ähnlichen Feind verschmelzen, den die neuen normalen Kinder reflexartig hassen und fürchten lernen und den sie zum Schweigen bringen und von der „normalen“ Gesellschaft absondern wollen oder von ihrer Krankheit mit staatlich verordneten, „sicheren und effektiven“ pharmazeutischen Therapien heilen.</p>
+<p>Aber was soll‘s ... Ich würde mir keine Sorgen machen. Ich rege mich wahrscheinlich nur umsonst auf. Immerhin, wie viele meiner Ex-Freunde Ihnen sagen werden — durch ihre mehrfachen Masken und prophylaktischen Gesichtsschilde hindurch —, bin ich nur ein paranoider Verschwörungstheoretiker, der ungeprüfte Fehlinformationen verbreitet.</p>
+<hr/>
+<p><strong>Redaktionelle Anmerkung:</strong> Diese Kolummne erschien zuerst am 8. März 2021 unter dem Titel „<a href="https://consentfactory.org/2021/03/08/the-new-normal-phase-2/">The New Normal (Phase 2)</a>“ bei <em>Consent Factory</em>. Sie wurde von <em>Sabine Amann</em> vom ehrenamtlichen <a href="https://www.rubikon.news/kontakt">Rubikon-Übersetzerteam</a> übersetzt und vom ehrenamtlichen <a href="https://www.rubikon.news/kontakt">Rubikon-Korrektoratteam</a> lektoriert.</p>
+</div>
+<div class="article-end">
+<div class="shariff article_sharing rs_skip" data-mail-subject="Die zweite Phase" data-mail-url="mailto:" data-services='["whatsapp","facebook","telegram","twitter","diaspora","mail","print","info"]' data-title="Die zweite Phase | Rubikon - Magazin für die kritische Masse"></div>
+<img alt="" class="divider-image" src="/assets/ill-feather-0947f794066c6a6fa2b166f1afd221e3e3c5eb00710d02afbec06626aa1e5f6f.png"/>
+<div class="article-sms">
+<div class="article-sms-image">
+<a class="no-border" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">
+<img alt="Spenden per SMS" src="/assets/ic-sms-146d281c37d2c9a5c50fa303d001611ebe453e901bb97c62f9a45b98870a8f52.png"/>
+</a>
+</div>
+<div class="article-sms-info">
+        Hat Ihnen dieser Artikel gefallen? Dann senden Sie einfach eine SMS mit dem Stichwort <strong>Rubikon10</strong> an die <strong>81190</strong> und mit Ihrer nächsten Handyrechnung werden Ihnen 10 Euro in Rechnung gestellt, die abzüglich einer Gebühr von 17 Cent unmittelbar unserer Arbeit zugutekommen.
+        <div class="button-set left"><a class="button primary" href="sms://81190?body=Rubikon10">Jetzt per SMS spenden</a></div>
+</div>
+</div>
+<div class="article-author">
+<div class="article-author-image">
+<a href="/autoren/c-j-hopkins"><img alt="C. J. Hopkins" src="/uploads/store/cb3e9007725335b13ea0c7f46d535e7b.jpg"/></a>
+</div>
+<div class="article-author-bio">
+<p><strong>C. J. Hopkins</strong> ist ein preisgekrönter Dramatiker, Romanautor und politischer Satiriker/Kommentator mit Sitz in Berlin. Seine Stücke wurden international an Theatern und Festivals produziert. Seine politischen Satiren und Kommentare werden von <em>Consent Factory</em>, <em>RT.com</em>, <em>OffGuardian</em>, <em>ZeroHedge</em>, <em>ColdType</em>, <em>Dissident Voice</em> und anderen Publikationen veröffentlicht. Sein dystopischer Science-Fiction-Roman „Zone 23“ wurde 2017 bei Snoggsworthy, Swaine &amp; Cormorant veröffentlicht.</p>
+</div>
+</div>
+<div class="article-license">
+<div class="article-license-image">
+<a class="no-border" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">
+<img alt="Creative Commons Lizenzvertrag" src="/assets/ic-cc-3328fe794e7dfbff5a441672472cde808f6df46243cbf1f47ee8af7f2323c264.png"/>
+</a>
+</div>
+<div class="article-license-info">
+          Dieses Werk ist unter einer <strong>Creative Commons-Lizenz</strong> (<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International</a>) lizenziert. Unter Einhaltung der Lizenzbedingungen dürfen Sie es verbreiten und vervielfältigen.
+        </div>
+</div>
+</div>
+</div>
+<div class="wrapper">
+<div class="content wide">
+<h1>Weiterlesen</h1>
+<div class="article-loop">
+<div class="loop-main">
+<article class="article-vertical article-big">
+<a class="article-image" href="/artikel/schiller-tell-und-ballweg"><img alt="Schiller, Tell und Ballweg" src="/uploads/store/2b587746a3598ab97c4bd0adafbe7105.jpg"/></a>
+<div class="tag">Thematisch verwandter Artikel</div>
+<h2><a href="/artikel/schiller-tell-und-ballweg">Schiller, Tell und Ballweg</a></h2>
+<p>Freiheit ist die Quintessenz alles Menschlichen. </p>
+<div class="article-meta">
+                08.03.2023
+                von <a href="/autoren/lea-sohner">Lea Söhner</a>
+</div>
+</article>
+</div>
+<div class="loop-other">
+<article class="article-vertical article">
+<a class="article-image" href="/artikel/todliches-schweigen"><img alt="Tödliches Schweigen" src="/uploads/store/20df7238f0012e2a2c489804d3fdb26e.jpg"/></a>
+<div class="tag">Aktueller Artikel</div>
+<h2><a href="/artikel/todliches-schweigen">Tödliches Schweigen</a></h2>
+<div class="moreinfo">
+<p>Keine der zuständigen Behörden ist derzeit willens, die Grenzwerte von Impfschadensfällen preiszugeben, ab deren Erreichen das Präparat zurückgezogen werden muss.</p>
+<div class="article-meta">
+                  15.02.2023
+                  von <a href="/autoren/bastian-barucker">Bastian Barucker</a>
+</div>
+</div>
+</article>
+<article class="article-vertical article">
+<a class="article-image" href="/artikel/merkels-raute"><img alt="Merkels Raute " src="/uploads/store/fe3e2b6cc42492d3cc6af4699b767546.jpg"/></a>
+<div class="tag">Aus dem Archiv</div>
+<h2><a href="/artikel/merkels-raute">Merkels Raute </a></h2>
+<div class="moreinfo">
+<p>In der Ära Merkel entwickelte sich eine Einheitspartei, die nun mit Corona unübersehbar zum Vorschein kommt. Teil 1/2.</p>
+<div class="article-meta">
+                  23.02.2021
+                  von <a href="/autoren/ralf-rosmiarek">Ralf Rosmiarek</a>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-wrapper">
+<div class="footer-content">
+<div class="footer1">
+<div class="footer-left">
+<h3>Post vom Rubikon</h3>
+<p>Wenn Sie in regelmäßigen Abständen über neue Veröffentlichungen im „Rubikon — Magazin für die kritische Masse“
+          informiert werden möchten, tragen Sie bitte hier Ihre E-Mail-Adresse ein:</p>
+<form accept-charset="UTF-8" action="/subscription#newsletter" class="newsletter-form" id="new_subscriber" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="IlZdRt38lz9QI/SQEepIOOgNdIIvp7nf7wycP1VcmutQS1iGFH+5Yp+6ZtD9Jv9y2YSPUm2VKuc9/ecpR6sVBQ=="/>
+<input id="subscriber_email" name="subscriber[email]" placeholder="Ihre E-Mail Adresse" type="email"/>
+<div class="non-visible">
+<input id="subscriber_last_name" name="subscriber[last_name]" placeholder="Ihr Name" type="text"/>
+</div>
+<div class="non-visible">
+<input name="subscriber[checked]" type="hidden" value="0"/><input id="subscriber_checked" name="subscriber[checked]" placeholder="Einverstanden" type="checkbox" value="1"/>
+</div>
+<button class="button secondary" type="submit">Abonnieren</button>
+</form> </div>
+<div class="footer-center">
+<img alt="Exklusives" src="/assets/ill-exklusives_d-80edca19e74a72950368b416c4d1461a7a27f546cbb98790d27a8d86deed8789.png"/>
+</div>
+<div class="footer-right">
+<h3>Der Rubikon</h3>
+<p>Rubikon ist das Magazin für die kritische Masse. Wir berichten über das, was in den Massenmedien nicht zu finden ist. Herausgegeben wird der Rubikon in Mainz, geschrieben wird er von unabhängigen Journalistinnen und Journalisten überall auf der Welt.</p>
+<a class="button larger" href="/spenden">Jetzt spenden</a><br/>
+</div>
+</div>
+<div class="footer2">
+<a href="https://t.me/RubikonMagazin">Telegram</a>
+<a href="https://www.bitchute.com/channel/RubikonMagazin/">Videos</a>
+<a href="https://rubikonmagazin.podbean.com/">Podcasts</a>
+<a href="https://www.rubikon.news/artikel.atom">Newsfeed</a>
+<a href="/newsletter">Newsletter</a>
+</div>
+<div class="footer2">
+<a href="http://www.rubikon-magazin.shop">Shop</a>
+<a href="/buecher">Bücher</a>
+<a href="/freunde">Freunde</a>
+<a href="/kontakt">Team</a>
+<a href="/impressum">Impressum</a>
+<a href="/datenschutz">Datenschutz</a>
+</div>
+<div class="footer3">
+       © 2017–2023 Rubikon | Release 2.0.3 vom 08.04.2022
+    </div>
+</div>
+</footer>
+<script src="/assets/frontend/frontend-c64ff02dee5bfee3153887bcbff62194b33719ae9347db5908059e3b97bc9b9d.js"></script>
+<script>
+var _paq = _paq || [];
+_paq.push(["setCookieDomain", "*.rubikon.news"]);
+_paq.push(["setDomains", ["*.rubikon.news"]]);
+_paq.push(["setDoNotTrack", true]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//stats.rubikon.news/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '2']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<noscript>
+<img alt="Rubikon" src="https://stats.rubikon.news/piwik.php?idsite=2&amp;rec=1" style="border:0"/>
+</noscript>
+</body>
+</html>

@@ -1,0 +1,623 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out - Global ResearchGlobal Research - Centre for Research on Globalization</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="index,noarchive,follow,noodp" name="googlebot"/>
+<meta content="all,index,follow" name="robots"/>
+<meta content="all,index,follow" name="msnbot"/>
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/all.css?t=005" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/style.css?t=001" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/favicon2.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369" rel="canonical">
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out - Global Research" property="og:title"/>
+<meta content="All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version). To receive Global Research’s Daily Newsletter (selected articles), click here. Visit and follow us on Instagram at @crg_globalresearch. ***   The European Union database of suspected drug reaction reports …" property="og:description"/>
+<meta content="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369" property="og:url"/>
+<meta content="Global Research" property="og:site_name"/>
+<meta content="EudraVigilance" property="article:tag"/>
+<meta content="English" property="article:section"/>
+<meta content="2021-11-01T14:49:33+00:00" property="article:published_time"/>
+<meta content="2021-11-01T14:49:35+00:00" property="article:modified_time"/>
+<meta content="2021-11-01T14:49:35+00:00" property="og:updated_time"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2020/12/covid-vaccine-HIV-feature-800x417.jpg" property="og:image"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2020/12/covid-vaccine-HIV-feature-800x417.jpg" property="og:image:secure_url"/>
+<meta content="800" property="og:image:width"/>
+<meta content="417" property="og:image:height"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version). To receive Global Research’s Daily Newsletter (selected articles), click here. Visit and follow us on Instagram at @crg_globalresearch. ***   The European Union database of suspected drug reaction reports […]" name="twitter:description"/>
+<meta content="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out - Global Research" name="twitter:title"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2020/12/covid-vaccine-HIV-feature-800x417.jpg" name="twitter:image"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//maxcdn.bootstrapcdn.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.globalresearch.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.25"}};
+			!function(t,a,e){var r,n,i,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(i=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},n=0;n<i.length;n++)e.supports[i[n]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),o.toDataURL().length<3e3)?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,65039,8205,55356,57096),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,55356,57096),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55357,56425,55356,57341,8205,55357,56507),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55357,56425,55356,57341,55357,56507),0,0),e!==o.toDataURL()}return!1}(i[n]),e.supports.everything=e.supports.everything&&e.supports[i[n]],"flag"!==i[n]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[i[n]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://www.globalresearch.ca/wp-content/plugins/gtranslate/gtranslate-style24.css?ver=4.7.25" id="gtranslate-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/share-this/css/style.css?ver=4.7.25" id="st-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.globalresearch.ca/wp-content/uploads/pum/pum-site-styles.css?generated=1598646263&amp;ver=1.7.30" id="popup-maker-site-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/dk-pdf/assets/css/frontend.css?ver=1.9.6" id="dkpdf-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=5.1" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/simple-pagination/css/default.css?ver=2.1.7" id="simple-pagination-css-css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script src="https://www.globalresearch.ca/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408" type="text/javascript"></script>
+<link href="https://www.globalresearch.ca/wp-json/" rel="https://api.w.org/"/>
+<link href="https://www.globalresearch.ca/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://www.globalresearch.ca/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="https://wp.me/p2vCQD-oaxb" rel="shortlink"/>
+<link href="https://www.globalresearch.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.globalresearch.ca%2F28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out%2F5760369" rel="alternate" type="application/json+oembed"/>
+<link href="https://www.globalresearch.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.globalresearch.ca%2F28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out%2F5760369&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" src="https://ws.sharethis.com/button/buttons.js" type="text/javascript"></script><script type="text/javascript">stLight.options({publisher:'wp.9bffc2a3-d7c6-4a77-b502-4dabc8559ee3'});var st_type='wordpress3.4.1';</script><style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09F}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style>
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<style>
+			.algolia-search-highlight {
+				background-color: #fffbcc;
+				border-radius: 2px;
+				font-style: normal;
+			}
+		</style>
+<link href="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369/amp" rel="amphtml"><link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon-32x32.png" rel="icon" sizes="32x32"/>
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" rel="icon" sizes="192x192"/>
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" rel="apple-touch-icon-precomposed"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" name="msapplication-TileImage"/>
+<style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(51,102,153,.88);}</style>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/jquery.main.js" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/gr.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9062277-1']);
+  _gaq.push(['_setDomainName', 'globalresearch.ca']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:95869,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<link href="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369" rel="canonical"/>
+<meta content="5760369" itemprop="identifier"/>
+<meta content="article" itemprop="pageType"/>
+<meta content="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369" itemprop="url"/>
+<meta content="1 November 2021" itemprop="datePublished"/>
+<meta content="1 November 2021" itemprop="dateModified"/>
+<meta content="Brian Shilhavy" itemprop="author"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2020/12/covid-vaccine-HIV-feature-800x417.jpg" itemprop="thumbnailUrl"/>
+<meta content="en" itemprop="inLanguage"/>
+<!-- -->
+</link></link></head>
+<body>
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="grtopbar notranslate">
+<div class="grtopnav">
+<div class="grtoplinksleft">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav-top"><li class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5302078" id="menu-item-5302078"><a href="https://www.globalresearch.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302079" id="menu-item-5302079"><a href="https://www.globalresearch.ca/about-2">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302080" id="menu-item-5302080"><a href="https://www.globalresearch.ca/contact-2">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302082" id="menu-item-5302082"><a href="https://store.globalresearch.ca/member/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302083" id="menu-item-5302083"><a href="https://store.globalresearch.ca/">Store</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5449212" id="menu-item-5449212"><a href="https://store.globalresearch.ca/donate/">Donate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5629561" id="menu-item-5629561"><a href="https://www.globalresearch.ca/archives">Archives</a></li>
+</ul></div><div></div></div> </div>
+<div class="grtoplinksright">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav-top"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586040" id="menu-item-5586040"><a href="https://www.globalresearch.ca/region/usa">USA</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586034" id="menu-item-5586034"><a href="https://www.globalresearch.ca/region/canada">Canada</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586036" id="menu-item-5586036"><a href="https://www.globalresearch.ca/region/latin-america-caribbean">Latin America</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586039" id="menu-item-5586039"><a href="https://www.globalresearch.ca/region/sub-saharan-africa">Africa</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586037" id="menu-item-5586037"><a href="https://www.globalresearch.ca/region/middle-east">Middle East</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586035" id="menu-item-5586035"><a href="https://www.globalresearch.ca/region/europe">Europe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586041" id="menu-item-5586041"><a href="https://www.globalresearch.ca/region/russia-and-fsu">Russia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586033" id="menu-item-5586033"><a href="https://www.globalresearch.ca/region/asia">Asia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586038" id="menu-item-5586038"><a href="https://www.globalresearch.ca/region/oceania">Oceania</a></li>
+</ul></div><div></div></div>
+</div>
+</div>
+</div>
+<div id="wrapper">
+<div class="w1">
+<div class="w2">
+<div class="language-holder notranslate" style="text-align: right;width: 260px;">
+<div id="languages">
+<ul>
+<li><a href="https://www.globalresearch.ca/category/italiano/">Italiano</a></li>
+<li><a href="https://www.globalresearch.ca/category/deutsch/">Deutsch</a></li>
+<li><a href="https://www.globalresearch.ca/category/portugues/">Português</a></li>
+<li><a href="https://www.globalresearch.ca/category/srpski/">srpski</a></li>
+<li><a href="https://www.globalresearch.ca/category/arabic">العربية</a></li>
+<li style="margin-right:0"><a href="https://www.globalresearch.ca/category/chinese">中文</a></li>
+</ul>
+<p>Notre site en Français: <a href="https://www.mondialisation.ca/" title="Centre de reserche sur la mondialisation">mondialisation.ca</a></p>
+Nuestro sitio en español: <a href="https://www.globalizacion.ca" target="_blank" title="Globalizacion">Globalizacion</a>
+<br/>
+<a href="https://asia-pacificresearch.com" target="_blank" title="Asia-Pacific Research">Asia-Pacific Research</a>
+</div>
+</div>
+<div class="notranslate" id="header">
+<h1 class="logo_en"><a href="https://www.globalresearch.ca" title="Global Research">Global Research</a></h1>
+<div class="headerright">
+<div class="authorsearch">
+<form action="/authors">
+<input name="query" onblur="if (this.value == '') { this.value='Search Authors...';} " onfocus=" if (this.value == 'Search Authors...') { this.value = ''; }" type="text" value="Search Authors..."/>
+<input id="searchsubmit" src="https://www.globalresearch.ca/images/search-icon.jpg" type="image" value="Search"/>
+</form>
+</div>
+<div class="translatebox" id="translatebox" style="float:left;margin-top:-35px;margin-left:206px;width:175px">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</div>
+<div class="searchbox">
+<form action="https://www.globalresearch.ca">
+<input name="s" onblur="if (this.value == '') { this.value='Search...';} " onfocus=" if (this.value == 'Search...') { this.value = ''; }" type="text" value="Search..."/>
+<input id="searchsubmit" src="https://www.globalresearch.ca/images/search-icon.jpg" type="image" value="Search">
+</input></form>
+</div>
+<div class="newsletter">
+<form action="https://lp.constantcontactpages.com/su/IJiNQuW" id="NLform" method="get" name="ccoptin">
+<input class="emailinput" id="mce-EMAIL" name="EMAIL" onblur="if(this.value=='')this.value='GR Newsletter, Enter Email'" onfocus="if(this.value=='GR Newsletter, Enter Email')this.value=''" type="text" value="GR Newsletter, Enter Email"/>
+<input name="go" src="//www.globalresearch.ca/images/submit-icon.jpg" type="image" value="GO">
+</input></form>
+</div>
+<div class="social-networks">
+<ul>
+<li class="grtv"><a href="http://tv.globalresearch.ca/" target="_blank" title="Global Research TV">grtv</a></li>
+<li class="youtube"><a href="https://www.youtube.com/globalresearchtv" target="_blank" title="Global Research YouTube Channel">youtube</a></li>
+<li class="twitter"><a href="https://twitter.com/CRG_CRM" target="_blank" title="Follow Global Research on Twitter">twitter</a></li>
+<li class="facebook"><a href="https://www.facebook.com/GlobalResearchCRG" target="_blank" title="Connect on Facebook">facebook</a></li>
+<li class="rss"><a href="https://www.globalresearch.ca/feed" title="">rss</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+<div class="notranslate" id="grnavbar">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586043" id="menu-item-5586043"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US Nato War</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586044" id="menu-item-5586044"><a href="https://www.globalresearch.ca/theme/global-economy">Economy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586046" id="menu-item-5586046"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Civil Rights</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586047" id="menu-item-5586047"><a href="https://www.globalresearch.ca/theme/environment">Environment</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586048" id="menu-item-5586048"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586049" id="menu-item-5586049"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586050" id="menu-item-5586050"><a href="https://www.globalresearch.ca/theme/law-and-justice">Justice</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586051" id="menu-item-5586051"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">9/11</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586052" id="menu-item-5586052"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">War Crimes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586053" id="menu-item-5586053"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586054" id="menu-item-5586054"><a href="https://www.globalresearch.ca/theme/culture-society-history">History</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586055" id="menu-item-5586055"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science</a></li>
+</ul></div><div></div></div>
+</div>
+<div class="main-t"></div>
+<div class="main-c">
+<div class="main-content">
+<div id="content" style="width:100%;background:white;">
+<div id="singleArticle">
+<div class="post" id="post-5760369">
+<div class="title">
+<h2 itemprop="headline">28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out</h2>
+<div class="meta">
+<div class="post-info">
+<div class="author">By <a href="https://www.globalresearch.ca/author/brian-shilhavy" title="Posts by Brian Shilhavy">Brian Shilhavy</a></div>
+<div class="grDate">Global Research, November 01, 2021</div>
+<div class="sourceDate"> <a href="https://healthimpactnews.com/2021/28103-deaths-2637525-injuries-following-covid-shots-in-european-database-of-adverse-reactions-european-members-of-parliament-speak-out/" target="_blank">Health Impact News</a> 31 October 2021</div>
+</div>
+<div class="catAndTag">
+<div class="cats">Region: <a href="https://www.globalresearch.ca/region/europe" rel="tag">Europe</a></div>
+<div class="cats">Theme: <a href="https://www.globalresearch.ca/theme/science-and-medicine" rel="tag">Science and Medicine</a></div>
+</div>
+</div>
+<div class="sharethis">
+<div class="sharethisleft">
+<span style="float:left"><span class="fontSize" style="float:left"><a href="#" id="toggleFont"></a></span> <p id="print-page-link" style="margin: 10px 0px;"><a href="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369?print=1" id="print-link" rel="nofollow"><img src="https://www.globalresearch.ca/wp-content/plugins/print-me/images/printme.png" style="width: 25px;height: 25px;" title="print"/></a></p></span> <span> <a href="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369?pdf=5760369" target="_blank"> <img src="/wp-content/uploads/2021/05/pdf01.png" style="height:23px;width:20px;margin-top:3px;margin-left:7px;"/> </a> </span> <span style="float:right;margin-left:10px;width:130px;">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</span>
+</div>
+<div class="sharethisright" style="display:flex;overflow:clip;max-height:25px;align-items:center;">
+<span class="st_facebook_hcount" displaytext="facebook" st_title="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out" st_url="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369"></span>
+<span class="st_fblike_hcount" displaytext="fblike" st_title="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out" st_url="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369" style="height:26px"></span>
+<span class="st_twitter_hcount" displaytext="twitter" st_title="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out" st_url="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369" st_username="grtvnews" st_via="grtvnews"></span>
+<span class="st_email_hcount" displaytext="email" st_title="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out" st_url="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369"></span>
+<span class="st_plusone_hcount" displaytext="plusone" st_title="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out" st_url="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369" style="width:1px; display: inline-block"></span>
+<span class="st_sharethis_hcount" displaytext="sharethis" st_title="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out" st_url="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369"></span>
+</div>
+</div>
+</div>
+<div class="content" itemprop="articleBody">
+<div class="postThumbnail">
+<img alt="" class="attachment-single-post-thumbnail size-single-post-thumbnail wp-post-image" height="209" sizes="(max-width: 400px) 100vw, 400px" src="https://www.globalresearch.ca/wp-content/uploads/2020/12/covid-vaccine-HIV-feature-800x417-400x209.jpg" srcset="https://www.globalresearch.ca/wp-content/uploads/2020/12/covid-vaccine-HIV-feature-800x417-400x209.jpg 400w, https://www.globalresearch.ca/wp-content/uploads/2020/12/covid-vaccine-HIV-feature-800x417-300x156.jpg 300w, https://www.globalresearch.ca/wp-content/uploads/2020/12/covid-vaccine-HIV-feature-800x417-768x400.jpg 768w, https://www.globalresearch.ca/wp-content/uploads/2020/12/covid-vaccine-HIV-feature-800x417.jpg 800w" width="400">
+</img></div>
+<p>All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version).</p>
+<p dir="ltr">To receive Global Research’s Daily Newsletter (selected articles), <a href="https://lp.constantcontactpages.com/su/IJiNQuW?EMAIL=&amp;go.x=0&amp;go.y=0&amp;go=GO">click here</a>.</p>
+<p>Visit and follow us on Instagram at @<a href="https://www.instagram.com/crg_globalresearch/">crg_globalresearch</a>.</p>
+<p>***</p>
+<p> </p>
+<p><em>The European Union database of suspected drug reaction reports is <a href="http://www.adrreports.eu/en/index.html" rel="noopener noreferrer" target="_blank">EudraVigilance,</a> and they are now reporting 28,103 fatalities, and 2,637,525 injuries, following COVID-19 injections.</em></p>
+<p>A <em>Health Impact News</em> subscriber from Europe reminded us that this database maintained at EudraVigilance is only for countries in Europe who are part of the European Union (EU), which comprises 27 countries.</p>
+<p>The total number of countries in Europe is much higher, almost twice as many, numbering around 50. (There are some differences of opinion as to which countries are technically part of Europe.)</p>
+<p>So as high as these numbers are, they do NOT reflect all of Europe. The actual number in Europe who are reported dead or injured following COVID-19 shots would be much higher than what we are reporting here.</p>
+<p>The EudraVigilance database reports that through October 19, 2021 there are <strong>28,103 deaths and 2,637,525 injuries</strong> reported following injections of four experimental COVID-19 shots:</p>
+<ul>
+<li><a href="https://dap.ema.europa.eu/analytics/saw.dll?PortalPages&amp;PortalPath=%2Fshared%2FPHV%20DAP%2F_portal%2FDAP&amp;Action=Navigate&amp;P0=1&amp;P1=eq&amp;P2=%22Line%20Listing%20Objects%22.%22Substance%20High%20Level%20Code%22&amp;P3=1+40983312" rel="noopener noreferrer" target="_blank">COVID-19 MRNA VACCINE MODERNA (CX-024414)</a></li>
+<li><a href="https://dap.ema.europa.eu/analytics/saw.dll?PortalPages&amp;PortalPath=%2Fshared%2FPHV%20DAP%2F_portal%2FDAP&amp;Action=Navigate&amp;P0=1&amp;P1=eq&amp;P2=%22Line%20Listing%20Objects%22.%22Substance%20High%20Level%20Code%22&amp;P3=1+42325700" rel="noopener noreferrer" target="_blank">COVID-19 MRNA VACCINE PFIZER-BIONTECH</a></li>
+<li><a href="https://dap.ema.europa.eu/analytics/saw.dll?PortalPages&amp;PortalPath=%2Fshared%2FPHV%20DAP%2F_portal%2FDAP&amp;Action=Navigate&amp;P0=1&amp;P1=eq&amp;P2=%22Line%20Listing%20Objects%22.%22Substance%20High%20Level%20Code%22&amp;P3=1+40995439" rel="noopener noreferrer" target="_blank">COVID-19 VACCINE ASTRAZENECA (CHADOX1 NCOV-19)</a></li>
+<li><a href="https://dap.ema.europa.eu/analyticsSOAP/saw.dll?PortalPages&amp;PortalPath=%2Fshared%2FPHV%20DAP%2F_portal%2FDAP&amp;Action=Navigate&amp;P0=1&amp;P1=eq&amp;P2=%22Line%20Listing%20Objects%22.%22Substance%20High%20Level%20Code%22&amp;P3=1+42287887" rel="noopener noreferrer" target="_blank">COVID-19 VACCINE JANSSEN (AD26.COV2.S</a>)</li>
+</ul>
+<p>From the total of injuries recorded, almost half of them (1,249,109) are <strong>serious</strong> injuries.</p>
+<p style="padding-left: 30px;">“<strong>Seriousness</strong> provides information on the suspected undesirable effect; it can be classified as ‘serious’ if it corresponds to a medical occurrence that results in <strong>death</strong>, is life-threatening, requires inpatient hospitalisation, results in another medically important condition, or prolongation of existing hospitalisation, results in persistent or significant disability or incapacity, or is a congenital anomaly/birth defect.”</p>
+<p>A <em>Health Impact News</em> subscriber in Europe ran the reports for each of the four COVID-19 shots we are including here. It is a lot of work to tabulate each reaction with injuries and fatalities, since there is no place on the <a href="http://www.adrreports.eu/en/background.html" rel="noopener noreferrer" target="_blank">EudraVigilance</a> system we have found that tabulates all the results.</p>
+<p>Since we have started publishing this, others from Europe have also calculated the numbers and confirmed the totals.*</p>
+<p>Here is the summary data through October 19, 2021.</p>
+<p><strong>Total reactions</strong> for the mRNA vaccine <strong>Tozinameran</strong> (code <strong>BNT162b2</strong>, <strong>Comirnaty</strong>) from <strong><u>BioNTech</u></strong><strong><u>/ </u></strong><strong>Pfizer: </strong><strong>13,271 </strong><strong>death</strong><strong>s </strong>and <strong>1,168,872 </strong>injuries to 19/10/2021</p>
+<ul>
+<li>31,537   Blood and lymphatic system disorders <strong>incl. 183 deaths</strong></li>
+<li>33,677   Cardiac disorders <strong>incl. 1,958 deaths</strong></li>
+<li>312        Congenital, familial and genetic disorders <strong>incl. 25 deaths</strong></li>
+<li>16,024   Ear and labyrinth disorders <strong>incl. 10 deaths</strong></li>
+<li>1,012     Endocrine disorders <strong>incl. 5 deaths</strong></li>
+<li>18,146   Eye disorders <strong>incl. 30 deaths</strong></li>
+<li>100,624 Gastrointestinal disorders <strong>incl. 541 deaths</strong></li>
+<li>301,622 General disorders and administration site conditions <strong>incl. 3,778 deaths</strong></li>
+<li>1,337     Hepatobiliary disorders <strong>incl. 64 deaths</strong></li>
+<li>11,765   Immune system disorders <strong>incl. 65 deaths</strong></li>
+<li>43,138   Infections and infestations <strong>incl. 1,340 deaths</strong></li>
+<li>15,919   Injury, poisoning and procedural complications <strong>incl. 208 deaths</strong></li>
+<li>29,450   Investigations <strong>incl. 418 deaths</strong></li>
+<li>8,182     Metabolism and nutrition disorders <strong>incl. 236 deaths</strong></li>
+<li>149,865 Musculoskeletal and connective tissue disorders<strong> incl. 163 deaths</strong></li>
+<li>983        Neoplasms benign, malignant and unspecified (incl cysts and polyps) <strong>incl. 95 deaths</strong></li>
+<li>202,217 Nervous system disorders <strong>incl. 1,430 deaths</strong></li>
+<li>1,587     Pregnancy, puerperium and perinatal conditions <strong>incl. 46 deaths</strong></li>
+<li>185        Product issues <strong>incl. 2 deaths</strong></li>
+<li>21,513   Psychiatric disorders <strong>incl. 168 deaths</strong></li>
+<li>4,061     Renal and urinary disorders <strong>incl. 212 deaths</strong></li>
+<li>33,753   Reproductive system and breast disorders <strong>incl. 4 deaths</strong></li>
+<li>50,834   Respiratory, thoracic and mediastinal disorders <strong>incl. 1,551 deaths</strong></li>
+<li>55,669   Skin and subcutaneous tissue disorders <strong>incl. 118 deaths</strong></li>
+<li>2,332     Social circumstances <strong>incl. 18 deaths</strong></li>
+<li>1,760     Surgical and medical procedures <strong>incl. 36 deaths</strong></li>
+<li>31,368   Vascular disorders <strong>incl. 567 deaths</strong></li>
+</ul>
+<p><strong>Total reactions</strong> for the mRNA vaccine <strong>mRNA-1273</strong><strong>(</strong><strong>CX-024414) </strong><strong>from</strong> <strong>Moderna: </strong><strong>7,543 death</strong><strong>s </strong>and <strong>341,634 injuries</strong>to 19/10/2021</p><div data-widget-id="rel_89-4"> </div>
+<ul>
+<li>6,923     Blood and lymphatic system disorders <strong>incl. 78 deaths</strong></li>
+<li>10,706   Cardiac disorders <strong>incl. 811 deaths</strong></li>
+<li>137        Congenital, familial and genetic disorders <strong>incl. 4 deaths</strong></li>
+<li>4,229     Ear and labyrinth disorders <strong>incl. 1 death</strong></li>
+<li>290        Endocrine disorders <strong>incl. 3 deaths</strong></li>
+<li>5,154     Eye disorders <strong>incl. 23 deaths</strong></li>
+<li>28,856   Gastrointestinal disorders <strong>incl. 294 deaths</strong></li>
+<li>91,974   General disorders and administration site conditions <strong>incl. 2,764 deaths</strong></li>
+<li>561        Hepatobiliary disorders <strong>incl. 30 deaths</strong></li>
+<li>2,909     Immune system disorders <strong>incl. 11 deaths</strong></li>
+<li>11,413   Infections and infestations <strong>incl. 596 deaths</strong></li>
+<li>7,377     Injury, poisoning and procedural complications <strong>incl. 141 deaths</strong></li>
+<li>6,389     Investigations <strong>incl. 132 deaths</strong></li>
+<li>3,271     Metabolism and nutrition disorders <strong>incl. 171 deaths</strong></li>
+<li>42,103   Musculoskeletal and connective tissue disorders <strong>incl. 155 deaths</strong></li>
+<li>431        Neoplasms benign, malignant and unspecified (incl cysts and polyps) <strong>incl. 52 deaths</strong></li>
+<li>58,789   Nervous system disorders <strong>incl. 758 deaths</strong></li>
+<li>648        Pregnancy, puerperium and perinatal conditions <strong>incl. 8 deaths</strong></li>
+<li>66           Product issues <strong>incl. 2 deaths</strong></li>
+<li>6,354     Psychiatric disorders <strong>incl. 132 deaths</strong></li>
+<li>1,971     Renal and urinary disorders <strong>incl. 137 deaths</strong></li>
+<li>6,174     Reproductive system and breast disorders <strong>incl. 6 deaths</strong></li>
+<li>15,051   Respiratory, thoracic and mediastinal disorders <strong>incl. 780 deaths</strong></li>
+<li>18,450   Skin and subcutaneous tissue disorders <strong>incl. 66 deaths</strong></li>
+<li>1,553     Social circumstances <strong>incl. 28 deaths</strong></li>
+<li>1,187     Surgical and medical procedures <strong>incl. 75 deaths</strong></li>
+<li>8,668     Vascular disorders <strong>incl. 285 deaths</strong></li>
+</ul>
+<p><strong>Total reactions</strong> for the <strong>vaccine </strong><strong>AZD1222</strong><strong>/VAXZEVRIA </strong><strong>(CHADOX1 NCOV-19)</strong><strong> from </strong><strong>Oxford</strong><strong>/</strong><strong> </strong><strong>AstraZeneca</strong>: <strong>5,767 death</strong><strong>s </strong>and <strong>1,039,136 injuries</strong> to 19/10/2021</p>
+<ul>
+<li>12,601   Blood and lymphatic system disorders <strong>incl. 236 deaths</strong></li>
+<li>18,113   Cardiac disorders <strong>incl. 659 deaths</strong></li>
+<li>175        Congenital familial and genetic disorders <strong>incl. 7 deaths</strong></li>
+<li>12,248   Ear and labyrinth disorders <strong>incl. 1 death</strong></li>
+<li>557        Endocrine disorders <strong>incl. 4 deaths</strong></li>
+<li>18,324   Eye disorders <strong>incl. 28 deaths</strong></li>
+<li>100,110 Gastrointestinal disorders <strong>incl. 300 deaths</strong></li>
+<li>273,678 General disorders and administration site conditions <strong>incl. 1,376 deaths</strong></li>
+<li>908        Hepatobiliary disorders <strong>incl. 54 deaths</strong></li>
+<li>4,241     Immune system disorders <strong>incl. 26 deaths</strong></li>
+<li>29,229   Infections and infestations <strong>incl. 367 deaths</strong></li>
+<li>11,837   Injury poisoning and procedural complications <strong>incl. 166 deaths</strong></li>
+<li>22,810   Investigations <strong>incl. 137 deaths</strong></li>
+<li>12,087   Metabolism and nutrition disorders <strong>incl. 88 deaths</strong></li>
+<li>155,324 Musculoskeletal and connective tissue disorders <strong>incl. 85 deaths</strong></li>
+<li>570        Neoplasms benign malignant and unspecified (incl cysts and polyps) <strong>incl. 20 deaths</strong></li>
+<li>215,104 Nervous system disorders <strong>incl. 900 deaths</strong></li>
+<li>490        Pregnancy puerperium and perinatal conditions <strong>incl. 11 deaths</strong></li>
+<li>177        Product issues <strong>incl. 1 death</strong></li>
+<li>19,380   Psychiatric disorders <strong>incl. 57 deaths</strong></li>
+<li>3,911     Renal and urinary disorders <strong>incl. 55 deaths</strong></li>
+<li>14,363   Reproductive system and breast disorders <strong>incl. 2 deaths</strong></li>
+<li>36,720   Respiratory thoracic and mediastinal disorders <strong>incl. 691 deaths</strong></li>
+<li>47,763   Skin and subcutaneous tissue disorders <strong>incl. 43 deaths</strong></li>
+<li>1,391     Social circumstances <strong>incl. 6 deaths</strong></li>
+<li>1,273     Surgical and medical procedures <strong>incl. 24 deaths </strong></li>
+<li>25,752   Vascular disorders <strong>incl. 423 deaths</strong></li>
+</ul>
+<p><strong>Total reactions</strong> for the <strong>COVID-19 vaccine JANSSEN (AD26.COV2.S) from </strong><strong><u>Johnson &amp; Johnson</u></strong>: <strong>1,522 deaths </strong>and <strong>87,883 injuries</strong> to 19/10/2021</p>
+<ul>
+<li>824        Blood and lymphatic system disorders <strong>incl</strong>. <strong>35 deaths</strong></li>
+<li>1,512     Cardiac disorders i<strong>ncl. 141 deaths</strong></li>
+<li>31           Congenital, familial and genetic disorders</li>
+<li>865        Ear and labyrinth disorders <strong>incl. 1 death</strong></li>
+<li>54           Endocrine disorders <strong>incl. 1 death</strong></li>
+<li>1,188     Eye disorders <strong>incl. 6 deaths</strong></li>
+<li>7,668     Gastrointestinal disorders <strong>incl. 66 deaths</strong></li>
+<li>22,981   General disorders and administration site conditions <strong>incl. 408 deaths</strong></li>
+<li>108        Hepatobiliary disorders <strong>incl. 9 deaths</strong></li>
+<li>364        Immune system disorders <strong>incl. 7 deaths</strong></li>
+<li>2,933     Infections and infestations <strong>incl. 107 deaths</strong></li>
+<li>816        Injury, poisoning and procedural complications <strong>incl. 16 deaths</strong></li>
+<li>4,359     Investigations <strong>incl. 90 deaths</strong></li>
+<li>531        Metabolism and nutrition disorders <strong>incl. 36 deaths</strong></li>
+<li>13,245   Musculoskeletal and connective tissue disorders <strong>incl. 34 deaths</strong></li>
+<li>46           Neoplasms benign, malignant and unspecified (incl cysts and polyps) <strong>incl. 2 deaths</strong></li>
+<li>17,645   Nervous system disorders <strong>incl. 165 deaths</strong></li>
+<li>33           Pregnancy, puerperium and perinatal conditions <strong>incl. 1 death</strong></li>
+<li>22           Product issues</li>
+<li>1,208     Psychiatric disorders <strong>incl. 13 deaths</strong></li>
+<li>345        Renal and urinary disorders <strong>incl. 17 deaths</strong></li>
+<li>1,544     Reproductive system and breast disorders <strong>incl. 6 deaths</strong></li>
+<li>3,133     Respiratory, thoracic and mediastinal disorders <strong>incl. 176 deaths</strong></li>
+<li>2,708     Skin and subcutaneous tissue disorders <strong>incl. 6 deaths</strong></li>
+<li>276        Social circumstances <strong>incl. 4 deaths</strong></li>
+<li>630        Surgical and medical procedures <strong>incl. 46 deaths</strong></li>
+<li>2,814     Vascular disorders <strong>incl. 129 deaths</strong></li>
+</ul>
+<p><img alt="" class="aligncenter wp-image-73373" height="236" sizes="(max-width: 1446px) 100vw, 1446px" src="https://healthimpactnews.com/wp-content/uploads/sites/2/2021/10/Summary-Oct-19.jpg" srcset="https://healthimpactnews.com/wp-content/uploads/sites/2/2021/10/Summary-Oct-19.jpg 1446w, https://healthimpactnews.com/wp-content/uploads/sites/2/2021/10/Summary-Oct-19-300x86.jpg 300w, https://healthimpactnews.com/wp-content/uploads/sites/2/2021/10/Summary-Oct-19-1024x295.jpg 1024w, https://healthimpactnews.com/wp-content/uploads/sites/2/2021/10/Summary-Oct-19-768x221.jpg 768w" width="819"/></p>
+<p>*These totals are estimates based on reports submitted to <a href="http://www.adrreports.eu/en/background.html" rel="noopener noreferrer" target="_blank">EudraVigilance</a>. Totals may be much higher based on percentage of adverse reactions that are reported. Some of these reports may also be reported to the individual country’s adverse reaction databases, such as the U.S. VAERS database and the UK Yellow Card system. The fatalities are grouped by symptoms, and some fatalities may have resulted from multiple symptoms.</p>
+<p><strong>European Members of Parliament Speak Out Against Mandatory COVID-19 Vaccines</strong></p>
+<p>Several members of the European Parliament spoke out in Brussels this past week against mandatory COVID-19 vaccines. You can read the <a href="https://off-guardian.org/2021/10/30/watch-meps-protest-vaccine-passports/" rel="noopener noreferrer" target="_blank">full story and watch the full video here</a>.</p>
+<p>We have extracted German Member of European Parliament Christine Anderson’s comments in the video below. This is on our <a href="https://rumble.com/voiwmp-german-mep-christine-anderson-in-brussels-opposing-covid-19-vaccine-mandate.html" rel="noopener noreferrer" target="_blank">Rumble</a> and <a href="https://www.bitchute.com/video/Cn1sTvc4lIZp/" rel="noopener noreferrer" target="_blank">Bitchute</a> video channels.</p>
+<p style="padding-left: 30px;">I will not be reduced to a mere guinea pig by getting vaccinated with an experimental drug, and I will most assuredly not get vaccinated because my government tells me to and promises, in return, I will be granted freedom.</p>
+<p style="padding-left: 30px;">Let’s be clear about one thing: No one <em>grants me</em> freedom for I <em>am a free person</em>.</p>
+<p><a href="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369/screen-shot-2021-11-01-at-10-46-01-pm" rel="attachment wp-att-5760370"><img alt="" class="wp-image-5760370 aligncenter" height="308" sizes="(max-width: 554px) 100vw, 554px" src="https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-11-01-at-10.46.01-PM.png" srcset="https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-11-01-at-10.46.01-PM.png 629w, https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-11-01-at-10.46.01-PM-300x167.png 300w, https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-11-01-at-10.46.01-PM-400x223.png 400w" width="554"/></a></p>
+<p style="text-align: center;"><a href="https://healthimpactnews.com/2021/28103-deaths-2637525-injuries-following-covid-shots-in-european-database-of-adverse-reactions-european-members-of-parliament-speak-out/">Watch the video here</a>.</p>
+<p><strong>Those Who Have Paid the Price for Obeying Mandatory COVID-19 Shots</strong></p>
+<p><img alt="" class="aligncenter wp-image-73368" height="574" sizes="(max-width: 1200px) 100vw, 1200px" src="https://healthimpactnews.com/wp-content/uploads/sites/2/2021/10/casaulties-covid-shots-11.1.jpg" srcset="https://healthimpactnews.com/wp-content/uploads/sites/2/2021/10/casaulties-covid-shots-11.1.jpg 1200w, https://healthimpactnews.com/wp-content/uploads/sites/2/2021/10/casaulties-covid-shots-11.1-300x232.jpg 300w, https://healthimpactnews.com/wp-content/uploads/sites/2/2021/10/casaulties-covid-shots-11.1-1024x791.jpg 1024w, https://healthimpactnews.com/wp-content/uploads/sites/2/2021/10/casaulties-covid-shots-11.1-768x593.jpg 768w, https://healthimpactnews.com/wp-content/uploads/sites/2/2021/10/casaulties-covid-shots-11.1-180x138.jpg 180w" width="743"/></p>
+<p>Here are a few stories of those who gave in to COVID-19 “vaccine” mandates, and paid a horrible price, including many who have died. Click here to <a href="https://healthimpactnews.com/2021/28103-deaths-2637525-injuries-following-covid-shots-in-european-database-of-adverse-reactions-european-members-of-parliament-speak-out/">read</a>.</p>
+<p>*</p>
+<p style="text-align: left;">Note to readers: Please click the share buttons above or below. Follow us on Instagram, @crg_globalresearch. Forward this article to your email lists. Crosspost on your blog site, internet forums. etc.</p>
+<p style="text-align: left;"><span style="font-size: 10pt;"><em>Featured image: Viacheslav Lopatin |  Credit: scaliger – stock.adobe.com</em></span></p>
+<p> </p>
+<div>
+<div class="copyright">The original source of this article is <a href="https://healthimpactnews.com/2021/28103-deaths-2637525-injuries-following-covid-shots-in-european-database-of-adverse-reactions-european-members-of-parliament-speak-out/" target="_blank">Health Impact News</a></div>
+<div class="copyright">Copyright © <a href="https://www.globalresearch.ca/author/brian-shilhavy" title="Posts by Brian Shilhavy">Brian Shilhavy</a>, <a href="https://healthimpactnews.com/2021/28103-deaths-2637525-injuries-following-covid-shots-in-european-database-of-adverse-reactions-european-members-of-parliament-speak-out/" target="_blank">Health Impact News</a>, 2021</div>
+<hr/>
+<p>
+<a href="https://www.facebook.com/GlobalResearchCRG"><strong>Comment on Global Research Articles on our Facebook page</strong></a>
+</p>
+<p>
+<a href="https://store.globalresearch.ca/member/"><strong>Become a Member of Global Research</strong></a>
+</p>
+</div> </div>
+</div>
+<div data-widget-id="rel_89-2" style="margin-left: 5px;"></div>
+<div style="margin-left:5px">
+<div class="jp-relatedposts" id="jp-relatedposts">
+<h3 class="jp-relatedposts-headline"><em>Related Articles from our Archives</em></h3>
+</div> </div>
+<hr>
+<div class="sharethis">
+<div class="sharethisleft">
+<span style="float:left"><span class="fontSize" style="float:left"><a href="#" id="toggleFont"></a></span> <p id="print-page-link" style="margin: 10px 0px;"><a href="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369?print=1" id="print-link" rel="nofollow"><img src="https://www.globalresearch.ca/wp-content/plugins/print-me/images/printme.png" style="width: 25px;height: 25px;" title="print"/></a></p></span> <span> <a href="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369?pdf=5760369" target="_blank"> <img src="/wp-content/uploads/2021/05/pdf01.png" style="height:23px;width:20px;margin-top:3px;margin-left:7px;"/> </a> </span> <span style="float:right;margin-left:10px;width:130px;">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</span>
+</div>
+<div class="sharethisright" style="display:flex;overflow:clip;max-height:25px;align-items:center;">
+<span class="st_facebook_hcount" displaytext="facebook" st_title="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out" st_url="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369"></span>
+<span class="st_fblike_hcount" displaytext="fblike" st_title="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out" st_url="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369" style="height:26px"></span>
+<span class="st_twitter_hcount" displaytext="twitter" st_title="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out" st_url="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369" st_username="grtvnews" st_via="grtvnews"></span>
+<span class="st_email_hcount" displaytext="email" st_title="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out" st_url="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369"></span>
+<span class="st_plusone_hcount" displaytext="plusone" st_title="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out" st_url="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369" style="width:1px; display: inline-block"></span>
+<span class="st_sharethis_hcount" displaytext="sharethis" st_title="28,103 Deaths 2,637,525 Injuries Following COVID Shots in European Database of Adverse Reactions – European Members of Parliament Speak Out" st_url="https://www.globalresearch.ca/28103-deaths-2637525-injuries-following-covid-shots-european-database-adverse-reactions-european-members-parliament-speak-out/5760369"></span>
+</div>
+</div>
+<div id="articleAuthor">
+<div class="authorName">
+<span>Articles by:</span>
+<a href="https://www.globalresearch.ca/author/brian-shilhavy" title="Posts by Brian Shilhavy">Brian Shilhavy</a> </div>
+</div>
+<div class="nr_clear"></div>
+<div id="disclaimer">
+<p><b>Disclaimer:</b> The contents of this article are of sole responsibility of the author(s). The Centre for Research on Globalization will not be responsible for any inaccurate or incorrect statement in this article. The Centre of Research on Globalization grants permission to cross-post Global Research articles on community internet sites as long the source and copyright are acknowledged together with a hyperlink to the original Global Research article. For publication of Global Research articles in print or other forms including commercial internet sites, contact: <a href="/cdn-cgi/l/email-protection#e19194838d88828095888e8f92a1868d8e83808d9384928480938289cf8280"><span class="__cf_email__" data-cfemail="91e1e4f3fdf8f2f0e5f8feffe2d1f6fdfef3f0fde3f4e2f4f0e3f2f9bff2f0">[email protected]</span></a></p>
+<p><a href="https://www.globalresearch.ca">www.globalresearch.ca</a> contains copyrighted material the use of which has not always been specifically authorized by the copyright owner. We are making such material available to our readers under the provisions of "fair use" in an effort to advance a better understanding of political, economic and social issues. The material on this site is distributed without profit to those who have expressed a prior interest in receiving it for research and educational purposes. If you wish to use copyrighted material for purposes other than "fair use" you must request permission from the
+copyright owner.</p>
+<p>For media inquiries: <a href="/cdn-cgi/l/email-protection#4e3e3b2c22272d2f3a2721203d0e2922212c2f223c2b3d2b2f3c2d26602d2f"><span class="__cf_email__" data-cfemail="bbcbced9d7d2d8dacfd2d4d5c8fbdcd7d4d9dad7c9dec8dedac9d8d395d8da">[email protected]</span></a></p>
+</div>
+</hr></div>
+</div>
+</div>
+</div>
+<div class="main-b"></div>
+</div>
+<div class="notranslate" id="footer">
+<div class="aside">
+<div class="widget_nav_menu leftfooter"><div class="menu-footerleftnav-container"><ul class="menu" id="menu-footerleftnav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5309785" id="menu-item-5309785"><a href="https://www.globalresearch.ca/news">Global Research News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302189" id="menu-item-5302189"><a href="https://www.globalresearch.ca/theme/i-books-series">I-BOOKS SERIES</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302190" id="menu-item-5302190"><a href="https://www.globalresearch.ca/countries-index">Countries Index</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302192" id="menu-item-5302192"><a href="https://www.globalresearch.ca/most-popular">Most Popular</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302193" id="menu-item-5302193"><a href="https://www.globalresearch.ca/links">Links</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302194" id="menu-item-5302194"><a href="https://www.globalresearch.ca/contact-2">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302195" id="menu-item-5302195"><a href="https://store.globalresearch.ca/member/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302196" id="menu-item-5302196"><a href="https://store.globalresearch.ca/">Online Store</a></li>
+</ul></div></div> </div>
+<div class="container">
+<div class="column-wrap">
+<div class="menuHeaders">
+<div class="title1">Themes</div>
+<div class="title2">Geographic Regions</div>
+</div>
+<div class="column widget_nav_menu"><div class="menu-footermenu2-container"><ul class="menu" id="menu-footermenu2"><li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302197" id="menu-item-5302197"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302198" id="menu-item-5302198"><a href="https://www.globalresearch.ca/theme/global-economy">Global Economy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302199" id="menu-item-5302199"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">Crimes against Humanity</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302200" id="menu-item-5302200"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302201" id="menu-item-5302201"><a href="https://www.globalresearch.ca/theme/law-and-justice">Law and Justice</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302202" id="menu-item-5302202"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Police State &amp; Civil Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302203" id="menu-item-5302203"><a href="https://www.globalresearch.ca/theme/culture-society-history">History</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302204" id="menu-item-5302204"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">9/11 &amp; ‘War on Terrorism’</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302205" id="menu-item-5302205"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media Disinformation</a></li>
+</ul></div></div><div class="column widget_nav_menu"><div class="menu-footermenu3-container"><ul class="menu" id="menu-footermenu3"><li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302206" id="menu-item-5302206"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302207" id="menu-item-5302207"><a href="https://www.globalresearch.ca/theme/oil-and-energy">Oil and Energy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302208" id="menu-item-5302208"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Police State &amp; Civil Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302209" id="menu-item-5302209"><a href="https://www.globalresearch.ca/theme/politics-and-religion">Religion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302210" id="menu-item-5302210"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty &amp; Social Inequality</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme current-post-ancestor active current-post-parent menu-item-5302211" id="menu-item-5302211"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science and Medicine</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302212" id="menu-item-5302212"><a href="https://www.globalresearch.ca/theme/united-nations">United Nations</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302213" id="menu-item-5302213"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302214" id="menu-item-5302214"><a href="https://www.globalresearch.ca/theme/women-s-rights">Women’s Rights</a></li>
+</ul></div></div> </div>
+<div class="text-container">
+<strong class="footer-logo"><a href="/">GlobalResearch Center for Research on Globalization</a></strong>
+<a class="privacy" href="/privacy-policy/">Privacy Policy</a>
+<span class="copy">Copyright © 2005-2023 <a href="https://www.globalresearch.ca">GlobalResearch.ca</a></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+document.getElementById('NLform').onsubmit = function() {
+  window.location = '/newsletter/';
+}
+</script>
+<script async="" src="https://magnetapi.klangoo.com/w/Widgets_89.js" type="text/javascript"></script>
+<div aria-hidden="true" class="pum pum-overlay pum-theme-5667467 pum-theme-enterprise-blue popmake-overlay pum-overlay-disabled auto_open click_open" data-popmake='{"id":5681503,"slug":"become-member","theme_id":5667467,"cookies":[{"event":"on_popup_close","settings":{"name":"pum-5681503","time":"1 week","path":true}}],"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-5681503"],"delay":"5000"}},{"type":"click_open","settings":{"extra_selectors":"","cookie_name":null}}],"mobile_disabled":null,"tablet_disabled":null,"meta":{"display":{"stackable":"1","overlay_disabled":"1","scrollable_content":false,"disable_reposition":false,"size":"micro","responsive_min_width":"0%","responsive_min_width_unit":false,"responsive_max_width":"100%","responsive_max_width_unit":false,"custom_width":"640px","custom_width_unit":false,"custom_height":"380px","custom_height_unit":false,"custom_height_auto":false,"location":"right bottom","position_from_trigger":false,"position_top":"100","position_left":"0","position_bottom":"100","position_right":"10","position_fixed":"1","animation_type":"fade","animation_speed":"350","animation_origin":"center top","overlay_zindex":false,"zindex":"1999999999"},"close":{"text":"","button_delay":"0","overlay_click":false,"esc_press":false,"f4_press":false},"click_open":[]}}' id="pum-5681503" role="dialog">
+<div class="pum-container popmake theme-5667467 pum-responsive pum-responsive-micro responsive size-micro pum-position-fixed" id="popmake-5681503">
+<div class="pum-content popmake-content">
+<div style="position: absolute;"><a href="https://www.globalresearch.ca/wp-content/uploads/2019/02/logo_def_globe_small.png"><img alt="" class="alignnone size-full wp-image-5605030" height="47" src="https://www.globalresearch.ca/wp-content/uploads/2019/02/logo_def_globe_small.png" width="37"/></a></div>
+<div style="text-align: center;">
+<p style="text-align: center;"><span style="font-family: helvetica, arial, sans-serif; font-size: 14pt; text-align: center;">Become Member of<br/>
+<span style="font-weight: bold;">Global Research<br/>
+</span> Free Books!</span></p>
+<span class="pum-close popmake-close" data-do-default="1"><a href="https://donorbox.org/donate-to-global-research" style="font-family: Helvetica; background-color: #ee5800; color: white; text-decoration: none; display: inline-block; padding: 6px 12px; margin-bottom: 0; margin-top: 10px; font-size: 14px; font-weight: normal; line-height: 1.428571429; text-align: center; white-space: nowrap; vertical-align: middle; cursor: pointer; border: 1px solid transparent; border-radius: 4px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none;" target="_blank">Become a member</a></span>
+</div>
+</div>
+<button aria-label="Close" class="pum-close popmake-close" type="button">
+× </button>
+</div>
+</div>
+<script type="text/javascript">var algolia = {"debug":false,"application_id":"AZ3OVPR0K9","search_api_key":"7147fe690c6831ff61668ea7de6fccda","powered_by_enabled":true,"query":"","autocomplete":{"sources":[],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"searchable_posts":{"name":"gr_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]}}};</script><script src="https://www.globalresearch.ca/wp-content/plugins/dk-pdf/assets/js/frontend.js?ver=1.9.6" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202310" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.7.30","ajaxurl":"https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.globalresearch.ca\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"5667465","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php";
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker: Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit https:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_event":"Event: %s","triggers":{"click_open":"Click Open","auto_open":"Time Delay \/ Auto Open"},"cookies":{"on_popup_close":"On Popup Close","on_popup_open":"On Popup Open","pum_sub_form_success":"Subscription Form: Successful","pum_sub_form_already_subscribed":"Subscription Form: Already Subscribed","manual":"Manual JavaScript"}};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-5681503":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-5681503"],"delay":"5000"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-5681503","time":"1 week","path":true}}],"theme_id":"5667467","size":"micro","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","location":"right bottom","position_top":"100","position_bottom":"100","position_left":"0","position_right":"10","zindex":"1999999999","close_button_delay":"0","id":5681503,"slug":"become-member"}};
+/* ]]> */
+</script>
+<script src="//www.globalresearch.ca/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1598646263&amp;ver=1.7.30" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/wp-embed.min.js?ver=4.7.25" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-content/plugins/print-me/js/printme.js?ver=0.5.1" type="text/javascript"></script>
+<script async="" defer="" src="https://stats.wp.com/e-202310.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.1',blog:'37090175',post:'5760369',tz:'0',srv:'www.globalresearch.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '37090175', '5760369' ]);
+</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7a503ab7af9f827e',m:'E4_CgbHTmMWRNSrMfjzFLKWbn2EYnH.A3V0CFJWSQYE-1678332522-0-AcBMH7LdZGAFu4LOm2KVxN6llIjYsa3GN5UhD/4VjWG3B1SoQbgNlTF6MbTYULqQTmudrlbOQ/lGm1ETzWd1JrvDCyPL2dnlFg9WHBpga0/+b9nP6c/Vf0Sm+6qkG6s8DHmRrK5yCcYWjT2klIaepxskiSW03jn9jn27L5AQuP7vCQAZbw8sQJa4k8oRaT8n7qfDCOq2eQQMOABcY7kuXvC5Ryw7nbenznhell4fgK8yNogsPvABUF2xFSHv94PO8YgPE8nfN1HTV4NkRu81R5KhR7hE2CzP4HXguTA464Gk',s:[0xd69b765ea5,0x39231c8e1e],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

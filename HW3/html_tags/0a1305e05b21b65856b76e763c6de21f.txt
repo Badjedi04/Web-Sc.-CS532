@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+<meta charset="utf-8"/>
+<link href="https://www.ukcolumn.org/ukcolumn-news/uk-column-news-31st-march-2021" rel="canonical"/>
+<meta content="UKColumn" property="og:site_name"/>
+<meta content="video" property="og:type"/>
+<meta content="https://www.ukcolumn.org/ukcolumn-news/uk-column-news-31st-march-2021" property="og:url"/>
+<meta content="UK Column News - 31st March 2021" property="og:title"/>
+<meta content="https://www.ukcolumn.org/sites/default/files/ukc-news-310321.jpg" property="og:image"/>
+<meta content="UKColumn" property="article:publisher"/>
+<meta content="2021-03-31T14:22:00+01:00" property="article:published_time"/>
+<meta content="2021-03-31T17:30:54+01:00" property="article:modified_time"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="UK Column News - 31st March 2021" name="twitter:title"/>
+<meta content="https://www.ukcolumn.org/sites/default/files/ukc-news-310321.jpg" name="twitter:image"/>
+<script async="" data-domain="www.ukcolumn.org" defer="" src="https://plausible.io/js/plausible.js"></script>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+<link href="/themes/custom/ukc_theme/ukc-logo-sm-sq.png" rel="icon" type="image/png"/>
+<title>UK Column News - 31st March 2021 | UKColumn</title>
+<link href="/sites/default/files/css/css_vHT2sjXQw-x-6B5b_yRF-3bHcLhOLQWTz2fwphlPG68.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_Q4XKT19k6ADirkBzqVqcUeu2Wh5t0eayHimnGbMT4jk.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_hjFttaY50UR2V33E7zMsMr66nbCDiFQUnTnnSjS4Ufw.css" media="print" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&amp;family=Open+Sans:wght@400;600;700&amp;family=Playfair+Display:wght@400;600;700&amp;family=Roboto+Slab&amp;display=swap" media="all" rel="stylesheet"/>
+</head>
+<body class="path-node page-node-type-video sidebar-right fixed-width">
+<a class="visually-hidden focusable skip-link" href="#main-content">
+Skip to main content
+</a>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<aside class="mdc-drawer mdc-drawer--modal">
+<div class="mdc-drawer__content">
+<nav aria-labelledby="block-mainnavigation-menu" class="block block-menu navigation menu--main" id="block-mainnavigation" role="navigation">
+<h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a data-drupal-link-system-path="&lt;front&gt;" href="/"> <span>Home</span>
+</a>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Video</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2181" href="/ukcolumn-news-archive"> <span>UK Column News Archive</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3300" href="/series/uk-column-interviews"> <span>UK Column Interviews</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2186" href="/insight"> <span>Insight</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2524" href="/series/david-ellis-report"> <span>David Ellis Report</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a data-drupal-link-system-path="node/2301" href="/audio-podcasts"> <span>Podcasts</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution"> <span>A Dissident's Guide to the Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree"> <span>Deconstructing the Magic Money Tree</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2147" href="/series/dispatches-from-the-front"> <span>Dispatches from the Front</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Sections</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2196" href="/northern-exposure"> <span>Northern Exposure</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2151" href="/series/eu-military-unification"> <span>European Defence Union</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2195" href="/censored"> <span>Censored</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2343" href="/series/the-whistleblowers"> <span>The Whistleblowers</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Topics</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2176" href="/topic/coronavirus"> <span>Coronavirus</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2175" href="/topic/brexit"> <span>Brexit</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2166" href="/topic/children-education"> <span>Children &amp; Education</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2161" href="/topic/constitution"> <span>Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2163" href="/topic/defence"> <span>Defence</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2158" href="/topic/economy"> <span>Economy</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2167" href="/topic/environment"> <span>Environment</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2884" href="/topic/faith"> <span>Faith</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2164" href="/topic/health"> <span>Health</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2174" href="/topic/international"> <span>International</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2160" href="/topic/justice"> <span>Justice</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2168" href="/topic/media"> <span>Media</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2994" href="/topic/mind"> <span>Mind</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2157" href="/topic/politics"> <span>Politics</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2169" href="/topic/science"> <span>Science</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2170" href="/topic/technology"> <span>Technology</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Series</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution"> <span>A Dissident's Guide to the Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2571" href="/series/doctors-for-covid-ethics"> <span>Doctors for Covid Ethics</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2144" href="/series/common-purpose-effect"> <span>The Common Purpose Effect</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2138" href="/series/one-world-governance"> <span>One World Governance</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2154" href="/series/global-citizen-movement"> <span>Global Citizen Movement</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2153" href="/series/integrity-initiative"> <span>Integrity Initiative</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2150" href="/series/fake-news"> <span>Fake News</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2137" href="/series/leveson-inquiry"> <span>Leveson Inquiry</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2140" href="/series/oxford-cherwell-valley-college"> <span>Oxford &amp; Cherwell Valley College</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2127" href="/series/weekly-nudge"> <span>The Weekly Nudge</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2152" href="/series/white-helmets"> <span>The White Helmets</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree"> <span>Deconstructing the Magic Money Tree</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2858" href="/series/dying-for-good-health"> <span>Dying for Good Health</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2857" href="/series/no-smoke-without-fire"> <span>No Smoke Without Fire</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2887" href="/series/the-third-degree"> <span>The Third Degree</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-header-2-menu" class="block block-menu navigation menu--header" id="block-header-2" role="navigation">
+<h2 class="visually-hidden" id="block-header-2-menu">Header</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/695" href="/about-uk-column"> <span>About</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2180" href="/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3819" href="/careers"> <span>Careers</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/698" href="/donate"> <span>Donate</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://community.ukcolumn.org/"> <span>Community Website</span>
+</a>
+</li>
+</ul>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1-3">
+<div class="inner">
+<form accept-charset="UTF-8" action="/search" id="views-exposed-form-search-page-1" method="get" region="overlay">
+<div class="form--inline clearfix">
+<div class="form-item form-type-textfield form-item-keywords">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Keyword(s)</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-keywords" id="edit-keywords" maxlength="128" name="keywords" size="30" type="text" value=""/>
+</label>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"> <button class="button js-form-submit form-submit mdc-button mdc-button--unelevated mdc-button mdc-button--outlined" data-drupal-selector="edit-submit-search" id="edit-submit-search" type="submit" value="Search"></button>
+<div class="inner">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Search</span>
+</div>
+
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-menu-trigger-close">
+<button class="mdc-icon-button" id="close-overlay">
+<span class="far fa-times"></span>
+<span class="visually-hidden">Close</span>
+</button>
+</div>
+</aside>
+<div class="mdc-drawer-scrim"></div>
+<div class="layout-container">
+<header class="layout-header" role="banner">
+<div class="region region-top">
+<div class="inner">
+<nav aria-labelledby="block-social-menu" class="block block-menu navigation menu--social" id="block-social" role="navigation">
+<h2 class="visually-hidden" id="block-social-menu">Social</h2>
+<ul class="menu" region="top">
+<li class="menu-item">
+<a class="fab fa-facebook-f" href="https://facebook.com/ukcolumn" target="_blank"> <span>Facebook</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-telegram" href="https://t.me/ukcolumn" target="_self"> <span>Telegram</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-twitter" href="https://twitter.com/ukcolumn" target="_blank"> <span>Twitter</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-itunes" href="https://podcasts.apple.com/gb/podcast/uk-column-podcasts/id1008807223" target="_blank"> <span>iTunes</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-soundcloud" href="https://soundcloud.com/ukcolumn" target="_blank"> <span>Soundcloud</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fas fa-rss" data-drupal-link-system-path="rss.xml" href="/rss.xml"> <span>RSS</span>
+</a>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-header-menu" class="block block-menu navigation menu--header" id="block-header" role="navigation">
+<h2 class="visually-hidden" id="block-header-menu">Header</h2>
+<ul class="menu" region="top">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/695" href="/about-uk-column"> <span>About</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2180" href="/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3819" href="/careers"> <span>Careers</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/698" href="/donate"> <span>Donate</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://community.ukcolumn.org/"> <span>Community Website</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="region region-header">
+<div class="inner">
+<div class="block block-system block-system-branding-block" id="block-ukc-theme-sitebranding">
+<div class="inner">
+<a class="site-logo" href="/" rel="home">
+<img alt="Home" src="/themes/custom/ukc_theme/logo.png"/>
+</a>
+</div>
+</div>
+<nav aria-labelledby="block-main-navigation-header-menu" class="block block-menu navigation menu--main" id="block-main-navigation-header" role="navigation">
+<h2 class="visually-hidden" id="block-main-navigation-header-menu">Main navigation</h2>
+<ul class="menu" region="header">
+<li class="menu-item">
+<a data-drupal-link-system-path="&lt;front&gt;" href="/">Home</a>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Video</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2181" href="/ukcolumn-news-archive">UK Column News Archive</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3300" href="/series/uk-column-interviews">UK Column Interviews</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2186" href="/insight">Insight</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2524" href="/series/david-ellis-report">David Ellis Report</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a data-drupal-link-system-path="node/2301" href="/audio-podcasts">Podcasts</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution">A Dissident's Guide to the Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree">Deconstructing the Magic Money Tree</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2147" href="/series/dispatches-from-the-front">Dispatches from the Front</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Sections</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2196" href="/northern-exposure">Northern Exposure</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2151" href="/series/eu-military-unification">European Defence Union</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2195" href="/censored">Censored</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2343" href="/series/the-whistleblowers">The Whistleblowers</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Topics</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2176" href="/topic/coronavirus">Coronavirus</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2175" href="/topic/brexit">Brexit</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2166" href="/topic/children-education">Children &amp; Education</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2161" href="/topic/constitution">Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2163" href="/topic/defence">Defence</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2158" href="/topic/economy">Economy</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2167" href="/topic/environment">Environment</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2884" href="/topic/faith">Faith</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2164" href="/topic/health">Health</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2174" href="/topic/international">International</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2160" href="/topic/justice">Justice</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2168" href="/topic/media">Media</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2994" href="/topic/mind">Mind</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2157" href="/topic/politics">Politics</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2169" href="/topic/science">Science</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2170" href="/topic/technology">Technology</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Series</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution">A Dissident's Guide to the Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2571" href="/series/doctors-for-covid-ethics">Doctors for Covid Ethics</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2144" href="/series/common-purpose-effect">The Common Purpose Effect</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2138" href="/series/one-world-governance">One World Governance</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2154" href="/series/global-citizen-movement">Global Citizen Movement</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2153" href="/series/integrity-initiative">Integrity Initiative</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2150" href="/series/fake-news">Fake News</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2137" href="/series/leveson-inquiry">Leveson Inquiry</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2140" href="/series/oxford-cherwell-valley-college">Oxford &amp; Cherwell Valley College</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2127" href="/series/weekly-nudge">The Weekly Nudge</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2152" href="/series/white-helmets">The White Helmets</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree">Deconstructing the Magic Money Tree</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2858" href="/series/dying-for-good-health">Dying for Good Health</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2857" href="/series/no-smoke-without-fire">No Smoke Without Fire</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2887" href="/series/the-third-degree">The Third Degree</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1">
+<div class="inner">
+<form accept-charset="UTF-8" action="/search" id="views-exposed-form-search-page-1" method="get" region="header">
+<div class="form--inline clearfix">
+<div class="form-item form-type-textfield form-item-keywords">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Keyword(s)</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-keywords" id="edit-keywords--2" maxlength="128" name="keywords" size="30" type="text" value=""/>
+</label>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--2"> <button class="button js-form-submit form-submit mdc-button mdc-button--unelevated mdc-button mdc-button--outlined" data-drupal-selector="edit-submit-search-2" id="edit-submit-search--2" type="submit" value="Search"></button>
+<div class="inner">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Search</span>
+</div>
+
+</div>
+</div>
+</form>
+</div>
+</div>
+<button class="mdc-icon-button search-trigger">
+<span class="far fa-search"></span>
+<span class="far fa-times"></span>
+<span class="visually-hidden">Search</span>
+</button>
+<div class="modal-menu-trigger">
+<span class="visually-hidden">Menu</span>
+<button class="mdc-icon-button">
+<span class="far fa-bars"></span>
+<span class="visually-hidden">Open</span>
+</button>
+</div>
+</div>
+</div>
+</header>
+<main class="layout-main" role="main">
+<div class="inner">
+<a id="main-content" tabindex="-1"></a>
+<div class="region region-content-above">
+<div class="inner">
+<div class="hidden" data-drupal-messages-fallback=""></div>
+<div class="block block-core block-page-title-block" id="block-ukc-theme-page-title">
+<div class="inner">
+<h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">UK Column News - 31st March 2021</span>
+</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="layout-main--wrapper">
+<div class="region region-content">
+<div class="inner">
+<div class="block block-system block-system-main-block" id="block-ukc-theme-content">
+<div class="inner">
+<article about="/ukcolumn-news/uk-column-news-31st-march-2021" class="node node--type-video node--view-mode-full" role="article">
+<div class="node__content">
+<div class="field field--name-field-video"><div>
+<div class="field field--name-field-media-oembed-video"><iframe allowtransparency="" class="media-oembed-content" frameborder="0" height="720" loading="lazy" src="/media/oembed?url=https%3A//odysee.com/%40ukcolumn%3A9/uk-column-news-31st-march-2021%3Ab&amp;max_width=0&amp;max_height=0&amp;hash=bB6VC34OJBY1eiiovfY_LBHDPSNk-0i7oMzq1wO3xuM" title="UK Column News - 31st March 2021" width="1280"></iframe>
+</div>
+</div>
+</div>
+<footer class="node__meta">
+<div class="node__submitted">
+<div class="authored">
+Wednesday, 31st March 2021
+</div>
+</div>
+</footer>
+<div class="clearfix text-formatted field field--name-body"><p></p>
+<p>Brian Gerrish, Mike Robinson and Alex Thomson with today's UK Column News.</p>
+<p>00:27 - New World Government Order By Treaty <br/><br/>
+Sources:<br/>
+***********<br/><br/>
+Telegraph Article: - <a href="https://archive.is/lDEYl">https://archive.is/lDEYl</a><br/><br/>
+Government Statement: - <a href="https://cutt.ly/GcrpfL0">https://cutt.ly/GcrpfL0</a><br/><br/>
+Telegraph Article: - <a href="https://archive.is/R66CC">https://archive.is/R66CC</a><br/><br/><br/><br/><br/>
+06:18 - Apparently Some Wouldn't Mind Dying of A Vaccine In the COVID 19 War<br/><br/>
+Sources:<br/>
+***********<br/><br/>
+Norwegian Argument: - <a href="https://www.tv2.no/a/13886747">https://www.tv2.no/a/13886747</a><br/><br/>
+Jean Marie Evans Obituary: - <a href="https://bit.ly/3u1RKC6">https://bit.ly/3u1RKC6</a><br/><br/>
+Check the Evidence Article: - <a href="https://bit.ly/2Pe7Utt&amp;nbsp">https://bit.ly/2Pe7Utt&amp;nbsp</a>;<br/><br/><br/><br/><br/><br/>
+10:36 - Why Are The Government and the NHS Hiding Vaccine ADR's?<br/><br/>
+Sources:<br/>
+************<br/><br/>
+NHS Information: - <a href="https://bit.ly/31zo3fp">https://bit.ly/31zo3fp</a><br/><br/>
+Government Advice: - <a href="https://cutt.ly/Scram6X">https://cutt.ly/Scram6X</a><br/><br/>
+Yellow Card Reporting site: - <a href="https://bit.ly/3fuKdI0">https://bit.ly/3fuKdI0</a><br/><br/>
+Government Weekly Summary of Vaccine ADR's: - <a href="https://bit.ly/2Pqygbv">https://bit.ly/2Pqygbv</a><br/><br/>
+Pfizer/BioNTech ADR's: - <a href="https://cutt.ly/Bcrfg8n">https://cutt.ly/Bcrfg8n</a><br/><br/>
+Astrazeneca ADR's: - <a href="https://bit.ly/3cFqzHw">https://bit.ly/3cFqzHw</a><br/><br/>
+UK Column Interview 01: - <a href="https://www.youtube.com/watch?v=RiHmE-E5eF0">https://www.youtube.com/watch?v=RiHmE-E5eF0</a><br/><br/>
+UK Column Interview 02: - <a href="https://www.ukcolumn.org/article/no-smoke-without-fire-part-3-vaccine-adverse-reactions&amp;nbsp">https://www.ukcolumn.org/article/no-smoke-without-fire-part-3-vaccine-a…</a>;<br/><br/><br/><br/><br/>
+30:30 - Lenny Henry Letter To Loved Ones<br/><br/>
+Sources:<br/>
+************<br/><br/>
+Guardian Article: - <a href="https://cutt.ly/rcrf8r9">https://cutt.ly/rcrf8r9</a><br/><br/><br/><br/><br/>
+35:29 -  Are We Ever Going To get Out of Lockdowns?<br/><br/>
+Sources:<br/>
+************<br/><br/>
+Talk Radio Tweet: - <a href="https://twitter.com/talkRADIO/status/1377173481775763457">https://twitter.com/talkRADIO/status/1377173481775763457</a><br/><br/><br/><br/><br/>
+39:20 - Checkpoints Set Up Across The Country<br/><br/><br/><br/><br/>
+42:04 - Why do We Have Napoleonic Laws in a Common Law Jurisdiction? <br/><br/>
+Sources:<br/>
+************<br/><br/>
+Karen Bradly Statement: - <a href="https://bit.ly/3ry7WJC">https://bit.ly/3ry7WJC</a><br/><br/><br/><br/><br/><br/>
+45:13 - No Influenza At All So We Must Be Terrified Of It<br/><br/>
+Sources:<br/>
+*************<br/><br/>
+GAVI Tweet: - <a href="https://twitter.com/gavi/status/1377176337807458306">https://twitter.com/gavi/status/1377176337807458306</a><br/><br/>
+GAVI Article: - <a href="https://bit.ly/3m6Wt2B">https://bit.ly/3m6Wt2B</a><br/><br/>
+PHE Week 37 Influenza &amp; COVID 19 Monitoring: -  <a href="https://bit.ly/3mblxpk">https://bit.ly/3mblxpk</a><br/><br/>
+WHO Global Influenza Surveillance: - <a href="https://bit.ly/3sDFtTX">https://bit.ly/3sDFtTX</a><br/><br/><br/><br/><br/><br/>
+48:25: - Reinner Fullmich Interview<br/><br/>
+Sources:<br/>
+************<br/><br/>
+Oval Media Interview: - <a href="https://www.youtube.com/watch?v=r02j7HaKYe8">https://www.youtube.com/watch?v=r02j7HaKYe8</a><br/><br/>
+Ned Pamphilon Translation: - <a href="https://www.nedpamphilon.uk/12-from-t4-to-covid1984/">https://www.nedpamphilon.uk/12-from-t4-to-covid1984/</a><br/><br/>
+Nature Biotechnology Profile: - Profile: <a href="https://www.nature.com/articles/nbt0908-965">https://www.nature.com/articles/nbt0908-965</a><br/><br/><br/><br/><br/>
+53:30 - David Noakes Advocates Statement <br/><br/><br/><br/>
+54:26 - Police on Guard For Thee In Canada<br/><br/>
+Sources:<br/>
+***********<br/><br/>
+PoGFT Website: - <a href="https://policeonguard.ca/">https://policeonguard.ca/</a><br/><br/>
+Julius Reuchel Video Interview: - <a href="https://www.youtube.com/watch?v=nHCVrl0HsFI">https://www.youtube.com/watch?v=nHCVrl0HsFI</a><br/><br/><br/><br/><br/>
+57:09 - The New Green Deal Pitch and the Race To Zero<br/><br/>
+Sources:<br/>
+***********<br/><br/>
+UN Climate Change Conference UK 2021: - <a href="https://ukcop26.org/">https://ukcop26.org/</a><br/><br/>
+COP 26 Tweet: - <a href="https://twitter.com/COP26/status/1377176339694809088">https://twitter.com/COP26/status/1377176339694809088</a><br/><br/>
+Rishi Sunak Statement: <a href="https://bit.ly/3sGSYlT">https://bit.ly/3sGSYlT</a><br/><br/>
+United Nations Race To Zero: - <a href="https://cutt.ly/zcrXc2r">https://cutt.ly/zcrXc2r</a><br/><br/>
+Mark Carney Businesses Will be Punished: - <a href="https://cutt.ly/ecr6RxQ">https://cutt.ly/ecr6RxQ</a><br/><br/>
+Mark Carney Niche Statement: - <a href="https://bit.ly/3fykvSO">https://bit.ly/3fykvSO</a><br/><br/>
+Mark Carney Companies Will Go Bankrupt Statement: - <a href="https://cutt.ly/6cr6sl3">https://cutt.ly/6cr6sl3</a><br/><br/>
+Jeremy Quin Statement: - <a href="https://bit.ly/2PI5piL">https://bit.ly/2PI5piL</a><br/><br/><br/><br/><br/><br/>
+01:02:03 - EU's Variable Standards<br/><br/>
+Sources<br/>
+*********<br/><br/>
+5Pillars Article: - <a href="https://bit.ly/39vm2oX">https://bit.ly/39vm2oX</a><br/><br/>
+Trouw Article: - <a href="https://bit.ly/3dj3WYw">https://bit.ly/3dj3WYw</a><br/><br/>
+DS Article 01: - <a href="https://cutt.ly/octrBkN">https://cutt.ly/octrBkN</a><br/><br/>
+DS Article 02: - <a href="https://cutt.ly/lcttWeS">https://cutt.ly/lcttWeS</a><br/><br/>
+De Telegraf Article: - <a href="https://bit.ly/2PeBqPN">https://bit.ly/2PeBqPN</a><br/><br/>
+Rotterdam Police Tweet: - <a href="https://twitter.com/Politie_Rdam/status/1376145880319938563&amp;nbsp">https://twitter.com/Politie_Rdam/status/1376145880319938563&amp;nbsp</a>;</p>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+<div class="region region-sidebar-right">
+<div class="inner">
+<div class="block block-ukc-core block-ukc-social-block" id="block-socialshareblock">
+<div class="inner">
+<div class="block-title">Share</div>
+<div class="social-wrapper"><a class="mdc-icon-button social-twitter" href="https://twitter.com/intent/tweet?text=UK Column News - 31st March 2021 https://www.ukcolumn.org/ukcolumn-news/uk-column-news-31st-march-2021&amp;via=ukcolumn" target="_blank"><i class="fab fa-twitter"></i><span>Share on Twitter</span></a><a class="mdc-icon-button social-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.ukcolumn.org/ukcolumn-news/uk-column-news-31st-march-2021" target="_blank"><i class="fab fa-facebook-f"></i><span>Share on Facebook</span></a><a class="mdc-icon-button social-print" href="#"><i class="fas fa-print"></i><span>Print</span></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="layout-footer" role="contentinfo">
+<div class="region region-footer">
+<div class="inner">
+<div class="block block-simple-block block-simple-blockfooter" id="block-ukcolumn">
+<div class="inner">
+<div class="block-title">UK Column</div>
+<p>The UK Column is an independent multimedia news website <a href="https://www.ukcolumn.org/community">supported by its members</a>.</p>
+</div>
+</div>
+<div class="block block-simple-block block-simple-blockcopyright" id="block-copyright">
+<div class="inner">
+<p>© 2006-2021 UK Column. For <a href="https://www.ukcolumn.org/user/login">permission</a> to use any content on this website please <a href="https://www.ukcolumn.org/contact">contact us</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2284","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"\/search":true},"user":{"uid":0,"permissionsHash":"24a7fea61d09ca75b04029346079397b67be32e4b80ac47ef82cea8e7c0d3bfa"}}</script>
+<script src="/sites/default/files/js/js_KcESXcZO7FVpSpeU6kavzpt6Ja5W0OnT-dGt68lPzD0.js"></script>
+</body>
+</html>

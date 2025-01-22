@@ -1,0 +1,2215 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Banned from YouTube: Dr. Simone Gold shares the truth about the COVID-19 vaccines</title><link href="https://rumble.com/vd2y2j-banned-from-youtube-dr.-simone-gold-shares-the-truth-about-the-covid-19-vac.html" rel="canonical"/><link href="https://connect.facebook.net" rel="dns-prefetch"/><link href="https://www.facebook.com" rel="dns-prefetch"/><link href="https://imasdk.googleapis.com" rel="dns-prefetch"/><link href="https://www.google-analytics.com" rel="preconnect"/><link href="https://sp.rmbl.ws" rel="preconnect"/><link href="https://rumble.com/api/Media/oembed.json?url=https%3A%2F%2Frumble.com%2Fembed%2Fvagrvv%2F" rel="alternate" title="Banned from YouTube: Dr. Simone Gold shares the truth about the COVID-19 vaccines" type="application/json+oembed"/><link href="https://rumble.com/api/Media/oembed.xml?url=https%3A%2F%2Frumble.com%2Fembed%2Fvagrvv%2F" rel="alternate" title="Banned from YouTube: Dr. Simone Gold shares the truth about the COVID-19 vaccines" type="application/xml+oembed"/><style>html{
+	background: #f3f5f8;
+	color:#061726;
+	font: normal 14px/1.5 system-ui, sans-serif;
+	-webkit-text-size-adjust: 100%;
+}
+body, a, button, input, textarea, select, option, h1, h2, h3, address, ul, ol { margin: 0; padding: 0; color: inherit; font-family: inherit; font-weight: inherit; font-size: inherit; text-decoration: inherit; font-style: inherit; line-height: inherit; }
+button, [type=button], [type=submit] { -webkit-appearance: button; cursor: pointer; background-color: transparent; border-style: none; }
+ul, ol { list-style: none; }
+label { cursor: pointer; }
+a:hover{ text-decoration: underline; }
+button{
+	white-space:nowrap;
+}
+.h1 {
+	font-size:2rem;
+	line-height: 1.3;
+	margin:1rem 0;
+	font-weight: 700;
+ 	word-wrap: break-word;
+	overflow-wrap: break-word;
+}
+small {
+	font-size: 0.9rem;
+	color: #495A6A;
+}
+.themable-locals-icon {
+	color: #421c52;
+}
+
+.flex {
+	display: flex;
+}
+
+.clear{
+	clear:both;
+}
+.round-button{
+	display: inline-flex;
+	padding: 0.5rem 0.7rem;
+	border-radius: 10rem;
+	font-weight: 600;
+	margin-left: 0.35rem;
+	margin-right: 0.35rem;
+	font-size: 1rem;
+	opacity: 1;
+	align-items: center;
+}
+.media-subscribe{
+	border: 1px solid #85C742;
+}
+.round-button:hover{
+	text-decoration:none;
+	opacity:0.85;
+}
+.round-button:disabled,
+.round-button:disabled:hover {
+	background: #999;
+	cursor: default;
+}
+.bg-green{
+	background: #85c742;
+	color:inherit;
+}
+.bg-green:hover,
+.bg-green:focus-visible {
+	background: #77b23b;
+	opacity: 1;
+}
+.bg-blue{
+	background: #37c;
+	color:#fff;
+}
+.bg-blue:hover,
+.bg-blue:focus-visible {
+	background: #2a62a7;
+	opacity: 1;
+}
+.bg-red{
+	background:#b70000;
+	color:#fff;
+}
+.bg-grey{
+	background:#999;
+	color:#fff;
+}
+.bg-white{
+	background:#fff;
+	color:#000;
+}
+.ringed-button {
+	box-shadow: inset 0 0 0 2px #85c742;
+    background-color: transparent;
+    color: #0d2437;
+}
+.transparent-button {
+    background-color: transparent;
+    color: #0d2437;
+}
+.ringed-button:hover,
+.ringed-button:focus-visible,
+.transparent-button:hover,
+.transparent-button:focus-visible {
+	background: #f3f5f8;
+}
+.select-arrow-bg{
+	-moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+	background-image:  url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 34 21'%3E%3Cpath d='M16.984 12.888L4.682 1.022.984 4.589l16 15.433 16-15.433-3.698-3.567z' /%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-position:  92% center;
+	background-size: 8px;
+}
+
+/* layout columns */
+.thirds{
+	margin-left:-1rem;
+	margin-right:-1rem;
+}
+.two-thirds, .one-thirds{
+	width:100%;
+	box-sizing:border-box;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+.video-processing-error {
+	background: #900;
+	color: white;
+	padding: 0.75rem 1rem;
+}
+
+/* Alerts (.lrt) */
+.lrt-container {
+	position: fixed;
+	top: 16px;
+	left: 0;
+	right: 0;
+	z-index: 300;
+
+	max-height: 0;
+	overflow: visible;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+}
+.lrt {
+	box-sizing: border-box;
+	min-width: 5em;
+	max-width: 80vw;
+	border: 1px solid currentColor;
+	box-shadow:0 5px 15px 0 rgba(0,0,0,0.4);
+	border-radius: 0.4em;
+	transition: opacity 500ms ease-in; /* maintain the same value for JS FADE_OUT_MS */
+
+	display: flex;
+	align-items: stretch;
+
+	cursor: pointer;
+}
+.lrt--fade-out {
+	opacity: 0;
+}
+.lrt--success {
+	border-color: #4c8800;
+	background: #85c742;
+	color: #284700;
+}
+.lrt--error {
+	border-color: #c00;
+	background: #900;
+	color: #fff;
+}
+
+.lrt__content {
+	padding: 0.6em 0.6em 0.6em 1em;
+}
+.lrt__content :any-link {
+	text-decoration: underline;
+}
+
+.lrt__count-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.lrt__count-number {
+    display: inline-block;
+    border: 1px solid currentColor;
+    padding: 0.1em 0.6em;
+    border-radius: calc(1px + 0.7em);
+    font-size: 0.8rem;
+    font-weight: 600;
+    opacity: 0.75;
+}
+
+.lrt__close {
+	padding: 0.6em 1em 0.6em 0.6em;
+	opacity: 0.75;
+}
+.lrt:hover > .lrt__close {
+	opacity: 1;
+}main{
+	padding:2rem 0;
+}
+.constrained{
+	box-sizing: border-box;
+	width: 100%;
+	max-width: 1700px;
+	margin: 0 auto;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}main{
+	padding-top:0;
+}
+.main-and-sidebar {
+	display: flex;
+	flex-direction: column;
+}
+.main-content {
+	width: 100%;
+	min-width: 300px;
+}
+.sidebar {
+	width: 100%;
+}
+.theater-mode {
+	overflow-x: hidden;
+}
+.theater-mode main {
+	padding-top: 0;
+}
+.theater-mode #theaterVideoPlayer {
+	position: relative;
+	z-index: 0;
+	background: #000;
+	border-top: 1px solid #000;
+	margin: 0 calc(50% - 50vw) -0.5rem;
+    height: 85vh;
+    box-shadow: 0 0 25px 0 rgb(0 0 0 / 25%);
+}
+.media-under-title{
+	display:flex;
+	align-items:center;
+	margin-bottom:1rem;
+}
+.mediaList-list.related{
+	background: #fff;
+	width: 100%;
+	margin:0 -1rem;
+	padding: 0.75rem 16px;
+}
+.play-count{
+	float: right;
+	margin-top: 12px;
+	font-size: 12px;
+	margin-left:6px;
+}
+#sovrn_beacon {
+	position: fixed;
+}
+
+#video-comments-loading {
+	text-align: center;
+	margin: 3rem 0;
+	color: #666;
+}
+
+.loading-spinner {
+	margin: 1rem auto;
+	width: 2.5rem;
+	height: 2.5rem;
+	border: 0.5rem solid #ccc;
+	border-top-color: #74a642;
+	border-radius: 50%;
+	animation: loading-spin 1s linear infinite;
+}
+
+@keyframes loading-spin {
+	100% { transform: rotate(360deg) }
+}
+
+.video-player,
+.video-processing-error {
+	margin-left: -1rem;
+	margin-right: -1rem;
+}
+.h1 {
+	margin: 1rem 0;
+	font-size: 20px;
+}
+.media-published{
+	margin-bottom: -0.5rem;
+	color: #495A6A;
+	cursor: default;
+}@media (orientation: portrait) and (max-width: 699.95px) {
+	#videoPlayer {
+		position: fixed;
+		z-index: 99;
+		width: 100%;
+	}
+
+	#player-spacer {
+		aspect-ratio: 16/9;
+		margin: 0 -1rem;
+	}
+}
+
+@media (min-width: 700px) {
+	#videoPlayer {
+		position: relative;
+		z-index: 0;
+		width: 100%;
+	}
+
+	#player-spacer { display: none;	}
+}
+
+@media (orientation: landscape) {
+	#player-spacer { display: none;	}
+}.user-image {
+	font-size: 24px;
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+}i.user-image--img {
+	display: block;
+	box-sizing: border-box;
+	border: 1px solid #eee;
+	border-radius: 50%;
+	background-color: white;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}i.user-image--img--id-0a8d3ddde8c349de85dbd29aee25f9d7 { background-image: url(https://sp.rmbl.ws/z8/b/M/2/c/bM2ca.baa.1-MostViralMoments-rqhz5j.jpeg); }.subscribe-button-count { margin-left: 0.5rem; font-weight:normal; opacity: 0.85; }i.media-user-image{
+	font-size: 50px;
+	width: 50px;
+	height: 50px;
+}
+.media-by{
+	display:flex;
+	align-items: center;
+	font-weight: 700;
+	background: white;
+    box-shadow: 0 1px 0 #d6e0ea;
+    padding: 10px;
+    margin: 0 -1rem 1rem;
+}
+.media-by--a:hover { text-decoration: none; }
+.media-by--a:hover .media-heading-name { text-decoration: underline; }
+.media-by-wrap{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	min-width: 0;
+	margin-right: 2rem;
+}
+.media-by--a{
+	display: flex;
+	align-items: center;
+}
+.media-heading-name-wrapper{
+	margin-left: 0.5rem;
+	max-width: calc(100% - 2.5rem);
+}
+.media-heading-name{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	max-width: 100%;
+	font-size: 16px;
+}
+.media-heading-info{
+	margin-left: 0.5rem;
+	white-space: nowrap;
+}
+.media-heading-num-followers{
+	color: #495A6A;
+	font-size: 0.857142857rem;
+	font-weight: 400;
+}
+.media-heading-published{
+	display:block;
+	color: #495A6A;
+}
+.media-heading-title,.media-earnings{
+	display:none;
+}
+.media-heading-verified {
+	height: 16px;
+	width: 16px;
+	margin: 0 0 -2px 7px;
+}
+.subscribe-buttons {
+	margin-left: auto;
+	white-space: nowrap;
+}
+.subscribe-buttons button {
+	justify-content: center;
+	padding: 0.4rem 1.2rem;
+	margin-left: 0.2rem;
+	margin-right: 0.2rem;
+}
+.subscribe-buttons button:last-child {
+	margin-right: 0;
+}
+.subscribe-button-count{
+	display:none
+}
+.media-by--a{
+	width: 100%;
+}.rumbles-vote{
+	display:flex;
+	align-items:center;
+	font-size:1rem;
+	color:#666;
+}
+
+.rumbles-vote-up { margin-right: 0.25rem; }
+.rumbles-vote-down { margin-left: 0.25rem; }
+
+.rumbles-vote-with-bar .rumbles-vote-up { margin-right: 0.75rem; }
+.rumbles-vote-with-bar .rumbles-vote-down { margin-left: 0.75rem; }
+
+.rumbles-vote-up,.rumbles-vote-down{
+	display: flex;
+	align-items: center;
+	padding:5px 12px;
+	line-height:0;
+	color:#495a6a;
+	border-radius: 25px;
+}
+button.rumbles-vote-up,
+button.rumbles-vote-down{
+	background: #fff;
+}
+button.rumbles-vote-up:hover,
+button.rumbles-vote-down:hover{
+	opacity:0.9;
+	background:#eee;
+}
+button.rumbles-vote-up.active,
+button.rumbles-vote-down.active{
+	background:#7a4;
+	color:#fff;
+}
+.icon-rumbles-up,.icon-rumbles-down{
+	stroke:currentColor;
+	width:17px;
+	height: 16px;
+	stroke-width: 0;
+	fill: currentColor;
+}
+.icon-rumbles-down{
+	transform: rotate(180deg);
+}
+.rumbles-vote .active svg {
+	fill: #fff;
+}
+.rumbles-vote svg {
+	margin-right: 0.25rem;
+}
+.rumbles-unit{
+	display:none;
+}
+.rating-bar {
+	display: block;
+    height: 5px;
+    border-radius: 25px;
+    width: 100%;
+	min-width: 1rem;
+    background: #495A6A;
+    overflow: hidden;
+    position: relative;
+}
+.rating-bar__fill {
+    background: #85C742;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    border-right: 2px solid #fff;
+    box-sizing: content-box;
+    transition: width 200ms ease;
+}
+.rumbles-vote {
+	font-size: 0.857142857rem;
+}
+.rumbles-counter {
+	margin-left: 0.5rem;
+}.media-engage .media-video-action{
+	align-items:center;
+	display:inline-flex;
+	color: #495A6A;
+	padding: 0 0.5rem;
+}
+.media-icon-license, .media-icon-embed{
+	margin:-5px 4px -5px -4px;
+	stroke:#495A6A;
+	stroke-width:1.5px;
+}
+.media-icon-license{
+	margin-left:6px;
+}.media-icon-share{
+	margin: -5px 7px -5px -1px;
+	stroke: #495A6A;
+	stroke-width: 1.5;
+}
+.media-engage{
+	display: flex;
+	flex-wrap: wrap;
+	z-index:5;
+	text-transform: uppercase;
+}
+
+.media-engage button {
+	margin: 0 1rem 0 0;
+	padding: 0.5rem 1rem;
+}
+.media-engage .media-subscribe {
+	padding-left: 1.75rem;
+	padding-right: 1.75rem;
+}
+.media-engage .locals-button {
+	padding-left: 2.5rem;
+	padding-right: 2.5rem;
+}.video-counters {
+	display: flex;
+	align-items: center;
+	font-size: 12px;
+	color: #495A6A;
+}
+
+.video-counters-video-page {
+	margin: 0 0.25rem;
+	float: right;
+	font-size: 1rem;
+	font-weight: 600;
+}
+
+.video-counters--item {
+	margin-right: 1rem;
+	display: flex;
+	align-items: baseline;
+}
+
+.video-counters-video-page .video-counters--item {
+	margin-right: 2rem;
+}
+
+.video-counters--item a:hover,
+.video-counters--item a:focus-visible {
+	opacity: 0.85;
+	text-decoration: none;
+}
+
+.video-counters--item:last-child {
+	margin-right: 0;
+}
+
+.video-counters--icon {
+	position: relative;
+	color: #495a6a;
+	margin-right: 7px;
+}
+
+.video-item--comments .video-counters--icon {
+	bottom: -3px;
+}.video-footer-buttons{
+	margin-bottom: 2rem;
+}
+.video-footer-buttons .rumbles-vote {
+	margin: 1rem 0;
+}
+.video-counters-video-page{
+	margin-left: auto;
+}p.media-description{
+	font-size:16px;
+	line-height:2rem;
+	margin:0;
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+}
+div.media-description-section {
+	margin-bottom: 3rem;
+}
+div.media-description{
+	padding: 1.5rem;
+}
+div.media-description-section{
+	background: #fff;
+	border-radius: 0.75rem;
+}
+div.media-locals-message {
+	display: flex;
+	align-items: center;
+	margin-top: 1.5rem;
+	padding: 1rem 1.5rem;
+	font-size: 1.15rem;
+	line-height: 1.4;
+}
+div.media-locals-message--with-separator {
+	border-bottom: 1px solid #D6E0EA;
+}
+.media-description :any-link {
+    color: #37c;
+}
+.media-description :any-link:hover {
+    color: #2A62A7;
+}
+.media-description--show-button{
+	padding-left:4rem;
+	margin-left:-3.5rem;
+	background: linear-gradient(to right,rgba(255,255,255,0) 0%,rgba(255,255,255,1) 40%);
+}
+.media-description--hide-button,.media-description--show-button{
+	display:inline-block;
+	font-weight: 600;
+	color: #788fa5;
+}
+.media-description--first{
+	cursor: pointer;
+}
+.media-description--expanded .media-description--first{
+	cursor: unset;
+}
+.media-description--hide-button, .media-description--more{
+	display:none;
+}
+.media-description--expanded .media-description--hide-button,
+.media-description--expanded .media-description--more{
+	display:block;
+}
+.media-description--expanded .media-description--show-button{
+	display: none;
+}
+#video-comments {
+	margin-top: 3rem;
+}.mediaList-link-more {
+	display: flex;
+	justify-content: center;
+	margin: auto 0 2rem;
+	padding-top: 1rem;
+}
+
+.mediaList-link-more a {
+	display: block;
+	border: 1px solid #ccc;
+	text-decoration: none;
+	text-align: center;
+	padding: 0.35rem 1.35rem;
+	border-radius: 10rem;
+	text-transform: lowercase;
+	background: #fff;
+	color: #666;
+}
+
+.mediaList-link-more a:hover {
+	background: #74a642;
+	border-color: #74a642;
+	color: #fff;
+}.singleMedia.content{
+	margin-top: -3.5rem;
+	padding:0;
+	border-top: none;
+}
+.mediaList-info.singleMedia{
+	padding: 1rem 0;
+}.mediaList-item{
+	padding: 0.75rem 0;
+}
+.mediaList-link {
+	display: flex;
+	overflow: hidden;
+	align-items: flex-start;
+}
+.mediaList-link:hover{
+	text-decoration:none;
+}
+.mediaList-link.size-large,
+.mediaList-link.size-xlarge {
+	flex-direction: column;
+	align-items: flex-start;
+}
+.mediaList-image-div{
+	width: 160px;
+	flex-shrink: 0;
+	margin-right: 10px;
+	position:relative;
+	line-height: 0;
+}
+.mediaList-image-div.size-large,
+.mediaList-image-div.size-xlarge{
+	width: 100%;
+	margin-right: 0;
+}
+.mediaList-image-div.size-small{
+	width:35%;
+}
+.mediaList-image{
+	width:100%;
+	border-radius: 0.75rem;
+	aspect-ratio: 16/9;
+	object-fit: fill;
+}
+img.mediaList-image{
+	background: #f3f5f8;
+	color: transparent;
+}
+.mediaList-image-live {
+	outline: 3px solid #F23160;
+	outline-offset: -3px;
+}
+.mediaList-image-upcoming {
+	outline: 3px solid #ec0;
+	outline-offset: -3px;
+}
+.mediaList-heading{
+	font-size: 13px;
+	font-weight: 600;
+	margin: 0.5rem 0;
+	line-height: 1.25;
+	max-height: 2.2rem;
+	overflow: hidden;
+}
+.mediaList-heading.size-xlarge {
+	font-size: 2rem;
+	line-height: 2.2rem;
+	max-height: 2.2rem;
+	margin-bottom: 1.5rem;
+}
+.mediaList-heading.size-large {
+	margin-top: 7px;
+	font-size: 1.2rem;
+	line-height: 1.5rem;
+	max-height: 1.5rem;
+}
+.mediaList-heading.size-xlarge,
+.mediaList-heading.size-large {
+	white-space: nowrap; display: block; text-overflow: ellipsis;
+}
+.mediaList-heading.size-medium, .mediaList-heading.size-small {
+	max-height: 2.5rem;
+	white-space: normal; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
+}
+.mediaList-by{
+	position:relative;
+	display: flex;
+	align-items: center;
+	line-height: 1.1;
+}
+.mediaList-by-image{
+	left:0;
+	margin-right: 7px;
+}
+.mediaList-by-heading{
+	font-weight:normal;
+	margin:0;
+	font-size: 12px;
+	color: #495A6A;
+	display: inline;
+	-webkit-line-clamp: 1;
+    display: -webkit-box;
+    max-height: 13px;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.mediaList-rumbles,
+.mediaList-earnings,
+.mediaList-liveCount {
+	display: block;
+	color:#587F33;
+}
+.mediaList-liveCount {
+	margin-top: -3px;
+	color: #F23160;
+}
+.mediaList-by.size-small .mediaList-rumbles,
+.mediaList-by.size-small .mediaList-earnings,
+.mediaList-by.size-small .mediaList-liveCount{
+	font-size: 0.8rem;
+}
+.mediaList-by.size-large .mediaList-earnings,
+.mediaList-by.size-xlarge .mediaList-earnings,
+.mediaList-by.size-large .mediaList-liveCount,
+.mediaList-by.size-xlarge .mediaList-liveCount {
+	display: inline;
+}
+
+.mediaList-timestamp{white-space: nowrap}
+
+.mediaList-duration,.mediaList-live,.mediaList-upcoming{
+	position:absolute;
+	bottom:7px;
+	right:7px;
+	color:#ddd;
+	background:#061726;
+	padding:3px 8px;
+	font-size:0.8rem;
+	font-weight: 700;
+	line-height: initial;
+}
+.mediaList-duration {
+	-webkit-backdrop-filter: blur(4px);
+	backdrop-filter: blur(4px);
+	border-radius: 25px;
+	overflow: hidden; /* no blur outside of radius */
+}
+.mediaList-live,
+.mediaList-upcoming{
+	border-radius: 25px;
+	bottom: 11px;
+	right: 11px;
+}
+.mediaList-live{
+	color:#fff;
+	background:#F23160;
+}
+.mediaList-upcoming{
+	background: #ec0;
+	color: #000;
+}
+.mediaList-info { width: 100%; box-sizing: border-box; }i.user-image--img--id-affd42ac2fca676f191f9639f93f6d5d { background-image: url(https://sp.rmbl.ws/z0/f/X/_/I/fX_Ia.asF-thrivetimeshow-qjowoz.png); }i.user-image--img--id-a8de64fa63214ca5e3db4af598a3d125 { background-image: url(https://sp.rmbl.ws/z8/P/h/b/a/Phbaa.baa-KGTV-pq4e1s.jpeg); }i.user-image--img--id-707e0f6a2abb32a463636741e7b881b4 { background-image: url(https://sp.rmbl.ws/z8/S/B/z/i/SBzia.baa.2-powerslap-rom62u.jpeg); }i.user-image--img--id-65dcf4733ab3cc83d9d968c6544859a4 { background-image: url(https://sp.rmbl.ws/z8/t/2/j/c/t2jca.baa-AwakenWithJP-r80t3j.jpeg); }i.user-image--img--id-ede3e85eef16ea5fcacf675ddb9023ee { background-image: url(https://sp.rmbl.ws/z8/z/W/u/c/zWuca.baa.1-DMLpodcast-rp5my9.jpeg); }i.user-image--img--id-10513a0cac051f5c1e1d44020cad3a25 { background-image: url(https://sp.rmbl.ws/z0/V/u/q/b/Vuqba.asF.4-71v3-r79nct.jpeg); }i.user-image--img--id-f4043eced61ce87f83fc2203a556840a { background-image: url(https://sp.rmbl.ws/z8/H/D/B/b/HDBba.baa.1-ACLJ-rnz1p3.jpeg); }i.user-image--img--id-d2d93b432f495024926b02c3e738fffc { background-image: url(https://sp.rmbl.ws/z8/5/s/R/c/5sRca.baa-RonPaulLibertyReport-qqhg5g.jpeg); }i.user-image--img--id-f67eb9a032a559a04a745037de96413b { background-image: url(https://sp.rmbl.ws/z8/U/K/d/b/UKdba.baa.1-Bongino-rj8lv1.jpeg); }.header{
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	color:#ddd;
+	background:#fff;
+	height:4rem;
+	padding:0;
+	z-index:200;
+	box-shadow: 0 1px 0 #d6e0ea;
+}
+.header-div{
+	display:flex;
+	color:#fff;
+	height:100%;
+	align-items:center;
+	position:relative;
+	padding: 0 1rem;
+}
+.main-menu-toggle,
+.menu-toggle {
+	display: flex;
+	align-items: center;
+}
+.main-menu-close,
+.main-menu-open{
+	stroke:#061726;
+	stroke-width:2px;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+}
+.main-menu-close{
+	display:none;
+	stroke-width:3px
+}
+.pop-show>.main-menu-close{display:inline-block}
+.pop-show>.main-menu-open{display:none}
+.header-logo{
+	width:8rem;
+	margin-right: 0.2rem;
+	display: flex;
+	flex-shrink:0;
+	align-items: center;
+}
+.header-logo img {
+	width: 100%;
+	height: auto;
+}
+.header-upload{
+	box-sizing: border-box;
+	border-radius:10rem;
+	padding: 0 0.35rem;
+	height:2.6rem;
+	width:2.6rem;
+	margin:0 1rem 0 0.5rem;
+	display: flex;
+	align-items: center;
+}
+.header-upload svg {
+	fill: #85C742;
+	width: 100%;
+}
+.header-upload-menu {
+	display: none;
+	right: 0;
+}
+.header-upload-menu.pop-show {
+	display: block;
+}
+main {
+	display: block;
+	margin-top: 4rem;
+	overflow: hidden;
+}
+.u-deemphasized {
+    color: #495a6a;
+}
+
+#main-menu.main-menu-nav-collapsed {
+	box-shadow: none;
+}
+#main-menu.main-menu-nav-collapsed,
+.main-menu-nav-collapsed .main-menu-heading {
+	font-size: 10px;
+	text-align: center;
+}
+.main-menu-nav-collapsed .main-menu-item-label,
+.main-menu-item-label-collapsed {
+	display: none;
+}
+.main-menu-nav-collapsed .main-menu-item-label-collapsed {
+	display: block;
+}
+.main-menu-nav-collapsed .main-menu-item {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.main-menu-nav-collapsed .main-menu-item {
+	padding: 8px 5px;
+}
+
+.main-menu-nav-collapsed .main-menu-heading {
+	padding: 1.5rem 5px 1rem;
+}
+
+.main-menu-nav-collapsed .main-menu-item-channel {
+	padding: 4px 5px;
+}
+.main-menu-nav-collapsed .main-menu-icon,
+.main-menu-nav-collapsed .user-image {
+	flex-shrink: 0;
+	width: 24px; height: 24px; font-size: 24px;
+	margin-right: 0;
+	margin-bottom: 0.5rem;
+}
+.main-menu-nav-collapsed .main-menu-icon {
+	stroke-width: 1.5px;
+}
+
+.main-menu-nav-collapsed .main-menu-item-channel .user-image {
+	flex-shrink: 0;
+	width: 30px; height: 30px; font-size: 30px;
+	margin: 0;
+}
+.header-user-actions {
+	display: flex;
+	align-items: center;
+}
+
+.header-user-actions button:last-child {
+	margin-right: 0;
+}.main-menu-toggle, .menu-toggle {
+	padding: 1rem;
+	margin-left: -1rem;
+}
+.header-search{
+	display:flex;
+	margin-left: auto;
+	align-items:center;
+	border-radius: 0.8rem;
+}
+.header-search-select, .header-search-field {
+	border:0;
+	height:100%;
+	background-color:transparent;
+	font-size:16px;
+	color:#061726;
+	outline-offset: 3px;
+}
+.header-search:focus-within {
+	box-shadow: 0 0 0 2px #0d2437;
+	border-color: transparent;
+}
+.header-search-field:focus-visible,
+.header-search-submit:focus-visible {
+	outline: none;
+}
+.header-search-select {
+    text-indent: 0.01px;
+	width: 7rem;
+	flex-shrink: 0;
+	padding: 0 1.5rem 0 1rem;
+	border:0;
+}
+.header-search-field{
+	-webkit-appearance: textfield;
+	width:100%;
+	padding:0 0.7rem;
+}
+.header-search-field::-webkit-search-decoration {
+	-webkit-appearance: none;
+}
+.header-search-field::placeholder{
+	color:#061726;
+}
+.header-search-submit{
+	height:2.5rem;
+	width:2.5rem;
+	padding:0.6rem;
+	flex-shrink:0;
+}
+.header-search-select,.header-search-field{display:none;}
+.header-search-select.pop-show,.header-search-field.pop-show{
+	display:block;
+}
+.header-search.pop-show{
+	position:absolute;
+	left: 4rem;
+	right: 1rem;
+	z-index:100;
+	background: white;
+	border: 1px solid #D6E0EA;
+}
+.header-search-icon{
+	stroke:#061726;
+	fill:#061726;
+}.header-user-info{display:none;}
+.header-user{
+	text-align:left;
+}
+i.header-user-img, svg.header-user-img {
+	display: block;
+	flex-shrink: 0;
+	font-size: 2.6rem; width: 2.6rem; height: 2.6rem;
+	padding:0.35rem;
+}.navs{
+	position:fixed;
+	top:4rem;
+	width:100%;
+	z-index:100;
+}
+.hover-menu{
+	position:absolute;
+	background:#fff;
+	width:16rem;
+	padding: 0.5rem 0;
+	box-sizing: border-box;
+	box-shadow: 0 0 3rem 1rem rgba(6, 23, 38, 0.1);
+	overflow: hidden auto;
+	border: 1px solid #D6E0EA;
+	border-radius: 0 0 5px 5px;
+}
+.hover-menu a {
+	color: #1f2e3c;
+}
+.cxm {
+	border-radius: 5px;
+}
+#main-menu{
+	display:none;
+	position:fixed;
+	left: 0;
+	top: 4rem;
+	bottom: 0;
+	background: #F3F5F8;
+	width: 20rem;
+	transition: width 200ms;
+	border-radius: 0;
+    font-size: 15px;
+	padding-bottom: 3rem;
+}
+#main-menu.pop-show{
+	display:block;
+}
+#main-menu.main-menu-nav-collapsed::-webkit-scrollbar {
+	display: none;
+}
+#main-menu.main-menu-nav-collapsed {
+	min-width: 0;
+	width: 80px;
+	-ms-overflow-style: none;
+    scrollbar-width: none;
+}.main-menu-item,
+.cmi,
+.cmx__section-head {
+	display:block;
+	padding: 8px 1rem;
+	max-width: 100%;
+	outline-offset: -3px;
+}
+a.main-menu-item {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	color: inherit;
+}
+a.main-menu-item-channel {
+	display: flex;
+	align-items: center;
+	color: #1f2e3c;
+	font-size: 13px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: 400;
+}
+.main-menu-item-channel .user-image {
+	margin-right: 0.75rem;
+}
+.main-menu-item-channel-label {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+/* cxm = context menu */
+.cxm {
+	position: fixed;
+	z-index: 210;
+}
+.cmx__section-head,
+.main-menu-heading {
+    color: #000;
+	cursor: default;
+	font-weight: 600;
+}
+.cmx__section-head {
+}
+/* cmi = context menu item */
+.cmi {
+	appearance: none;
+	text-align: left;
+	white-space: normal;
+	width: 100%;
+}
+.cmi + .cmx__section-head {
+	margin-top: 0.3rem;
+	border-top: 1px solid #D6E0EA;
+    padding-top: 0.7rem;
+}
+.main-menu-item-important{
+	color: #D14900;
+}
+.main-menu-item:not(.main-menu-item--active):hover,
+.cmi:not(.cmi--active):hover,
+.cmi:not(.cmi--active):focus-visible {
+	color: #1f2e3c;
+	background-color: #8dd44728;
+	text-decoration:none;
+}
+.cmi.cmi--info {
+    color: #666;
+    font-size: 1rem;
+}
+.cmi.cmi--info:hover {
+    background: transparent;
+    color: #666;
+}
+.main-menu-heading {
+	border-top:1px solid #D6E0EA;
+	padding: 1.2rem 1rem 0.8rem;
+	margin: 0.9rem 0 0 0;
+	position: relative;
+}
+.main-menu-heading-extra{
+	position: absolute;
+	bottom: 0.9rem;
+	right: 1rem;
+	font-size:12px;
+	color: #495A6A;
+}
+:any-link > .main-menu-heading {
+	cursor: pointer;
+}
+.main-menu-icon{
+	width:20px;
+	height:20px;
+	margin-right:1rem;
+	position:relative;
+	top: 0.3rem;
+	stroke: #061726;
+	stroke-width:2px;
+	stroke-linejoin:round;
+	stroke-linecap:round;
+	fill:none;
+}
+.main-menu-item:hover:not(.main-menu-item--active) > .main-menu-icon {
+	stroke: #061726;
+	color: #061726;
+}
+
+.main-menu-item--active {
+	background: #85C742;
+	color: #fff;
+	cursor: default;
+}
+a.main-menu-item--active {
+	color: #fff;
+}
+.main-menu-item--active .main-menu-icon {
+	stroke: currentColor;
+}
+.main-menu-item--active:hover {
+	text-decoration: none;
+}
+.main-menu-signout {
+	margin: 1rem 0 1.25rem;
+}
+
+.with-permanent-menu-expanded main {
+	margin-left: 22rem;
+}i.user-image--img--id-3f21e2a62fb9255dad5b19eb0d4f90be { background-image: url(https://sp.rmbl.ws/z8/u/u/p/i/uupia.baa-UnitedFightLeague-rn7a8g.png); }i.user-image--img--id-a704f1b052f7f5c408b831a700179c7d { background-image: url(https://sp.rmbl.ws/z8/D/b/U/h/DbUha.baa-JudgeDrudge-rk9ytf.png); }i.user-image--img--id-e0ab48dcf6bb4428ad0b5c5530095211 { background-image: url(https://sp.rmbl.ws/z8/A/_/e/f/A_efa.baa-AlisonMorrow-r5pqop.jpeg); }i.user-image--img--id-a65555da375ef71f9288b001d1d9deb8 { background-image: url(https://sp.rmbl.ws/z8/8/c/3/e/8c3ea.baa.1-TheDiveWithJacksonHinkle-rf4ogf.png); }i.user-image--img--id-1fcc88b67b3bd96acd83c0793a6f917f { background-image: url(https://sp.rmbl.ws/z8/7/p/B/a/7pBaa.baa.5-WayneDupreeShow-rlon82.jpeg); }i.user-image--letter { display: inline-block; box-sizing: border-box; border: 1px solid #eee; border-radius: 50%; background-color: #37c; flex-shrink: 0; }
+i.user-image--letter:after { display: block; text-align: center; margin-top: 50%; transform: translateY(-50%); font-style: normal; content: attr(data-letter); text-transform: capitalize; font-weight: bold; color: white; font-size: 75%; line-height: 1; }i.user-image--img--id-7b23924d9f8e3e3beeeaac0f7e8d14b3 { background-image: url(https://sp.rmbl.ws/z8/e/y/s/i/eysia.baa.1-CryptosRus-rm3f9n.jpeg); }i.user-image--img--id-4f09f27501bf34ea78d5e107177bbe48 { background-image: url(https://sp.rmbl.ws/z0/r/u/t/b/rutba.asF.1-ViralHog-oiht2f.png); }i.user-image--img--id-e178a88ee5dddb0805062ce59d1c5ca7 { background-image: url(https://sp.rmbl.ws/z8/c/S/7/i/cS7ia.baa-TamKhan-rp9jp0.jpeg); }i.user-image--img--id-8184544e75d671a713f70f89812ae69d { background-image: url(https://sp.rmbl.ws/z8/0/8/4/i/084ia.baa-TheCampisis-rp1wh7.jpeg); }i.user-image--img--id-6a914d0d0c7a658bf50c2fb77112a779 { background-image: url(https://sp.rmbl.ws/z8/1/B/t/e/1Btea.baa.2-russellbrand-ro7ow2.png); }i.user-image--img--id-25c3bd33dde9b13515d5a0136f322d80 { background-image: url(https://sp.rmbl.ws/z8/D/M/i/h/DMiha.baa-JasonCorey-rhl8gs.jpeg); }i.user-image--img--id-8a6cc41ebfbadb889bb97b339776fafa { background-image: url(https://sp.rmbl.ws/z8/o/N/h/f/oNhfa.baa-TheHeritageFoundation-r60mtr.png); }i.user-image--img--id-fa96777532f14bd6caf72b34405cfada { background-image: url(https://sp.rmbl.ws/z8/8/M/z/f/8Mzfa.baa-RekietaLaw-r7j01x.png); }i.user-image--img--id-daad2a9eabf278bd7632a1350c68f51a { background-image: url(https://sp.rmbl.ws/z8/8/8/l/j/88lja.baa-JohnnyHawkeyClips-rq6uac.jpeg); }i.user-image--img--id-0e4ddfa963bcfeeac5ea07025811c48b { background-image: url(https://sp.rmbl.ws/z8/Z/A/y/c/ZAyca.baa-RandPaul-qodsyy.jpeg); }i.user-image--img--id-2de21156126f6ba8e80173b194d79c76 { background-image: url(https://sp.rmbl.ws/z0/v/W/B/D/vWBDe.asF.3-18jr4l-rh2f9i.jpeg); }i.user-image--img--id-0d4f0ad31dc871caefc29893dcdab35e { background-image: url(https://sp.rmbl.ws/z8/r/I/U/h/rIUha.baa-ewerickson-rkbc7f.png); }i.user-image--img--id-a3b93698db025ad72b640c9c851a92f2 { background-image: url(https://sp.rmbl.ws/z8/p/V/2/e/pV2ea.baa-DegenerateJay-r476lh.jpeg); }i.user-image--img--id-04d304d73c325e80864d155706fba915 { background-image: url(https://sp.rmbl.ws/z8/L/m/9/b/Lm9ba.baa-YelllowFlash-rdlmwv.jpeg); }i.user-image--img--id-b1d09bd689db85ab7990648dee2b7e60 { background-image: url(https://sp.rmbl.ws/z8/K/-/W/i/K-Wia.baa-StoneAgeMan-roowig.jpeg); }i.user-image--img--id-aae08910c566cb4ff064192e9e7db7d6 { background-image: url(https://sp.rmbl.ws/z8/L/x/n/e/Lxnea.baa.1-JorgeMasvidal-qz6phm.jpeg); }i.user-image--img--id-af15edcdf6f27feee39c2a5f3f1b9241 { background-image: url(https://sp.rmbl.ws/z8/Y/m/a/j/Ymaja.baa-KimberlyGuilfoyle-rpgw1n.jpeg); }i.user-image--img--id-c44087358ec6582a43a09fb6ab997664 { background-image: url(https://sp.rmbl.ws/z8/_/W/F/f/_WFfa.baa-DynastyFlock-r82r0f.png); }i.user-image--img--id-eafc65eb14aaf93a54afd4c8ab31e235 { background-image: url(https://sp.rmbl.ws/z8/r/l/T/a/rlTaa.baa.1-JustPlanes-rny14q.jpeg); }i.user-image--img--id-08a897698266ae38acd304be5e81299d { background-image: url(https://sp.rmbl.ws/z8/i/D/T/f/iDTfa.baa-ThinkBeforeYouSleep-r9izsw.jpeg); }i.user-image--img--id-83a291256935de3d298a37add3f07d7d { background-image: url(https://sp.rmbl.ws/z8/u/O/o/f/uOofa.baa-Homesteadonomics-r6r40v.jpeg); }i.user-image--img--id-bc480544e7be286ca35bb780ca28abc4 { background-image: url(https://sp.rmbl.ws/z8/N/P/0/f/NP0fa.baa.2-Redacted-rf6g0q.png); }i.user-image--img--id-5bfe4c835d0168a76388112b095d2b2c { background-image: url(https://sp.rmbl.ws/z8/1/l/G/c/1lGca.baa.1-NYPost-roqqxg.jpeg); }i.user-image--img--id-f2d4db4799bc5674aaefbb019f010e6f { background-image: url(https://sp.rmbl.ws/z8/P/b/n/b/Pbnba.baa.1-CharlieKirk-rl70u9.jpeg); }i.user-image--img--id-8d4651abc6f74a469e72edfe54f7bdad { background-image: url(https://sp.rmbl.ws/z8/2/B/l/g/2Blga.baa-FullMag-rbbs9j.jpeg); }i.user-image--img--id-747f071a6133fdd9c5f846f86539fba8 { background-image: url(https://sp.rmbl.ws/z8/I/t/D/h/ItDha.baa-KarimJovian-rj1dxd.jpeg); }i.user-image--img--id-e01180b89a9cf890a2b841fc3a5a79a6 { background-image: url(https://sp.rmbl.ws/z8/P/7/y/g/P7yga.baa-LockPickingLawyer-rd4di1.jpeg); }i.user-image--img--id-cbbd2ebfe3edca3bddd839ec89406ecc { background-image: url(https://sp.rmbl.ws/z8/n/l/u/e/nluea.baa-GrantCardone-qzzuyc.jpeg); }i.user-image--img--id-d5845c4f1684aa61cd5e7006a3ef9671 { background-image: url(https://sp.rmbl.ws/z8/f/u/d/f/fudfa.baa.1-MegynKelly-r836kn.jpeg); }i.user-image--img--id-9887016bae5195df640b644def3f6fd4 { background-image: url(https://sp.rmbl.ws/z8/P/u/S/i/PuSia.baa-Timetreats-rof5me.jpeg); }i.user-image--img--id-6fa99734ddfaa7c3abf8b2f706e7731f { background-image: url(https://sp.rmbl.ws/z8/O/U/-/h/OU-ha.baa-jackdoherty-rl3pw2.jpeg); }i.user-image--img--id-8114adc1b387dc9849fffa45b0f0b9aa { background-image: url(https://sp.rmbl.ws/z8/P/x/C/g/PxCga.baa-HikeCampClimb-rdlm54.png); }i.user-image--img--id-f77a0d92c84e68aedfa5f76027da3146 { background-image: url(https://sp.rmbl.ws/z8/B/K/f/g/BKfga.baa.2-PrimitiveSurvivalTools-raxafl.jpeg); }i.user-image--img--id-60b1f3d45e2ade67247ff943a1f08989 { background-image: url(https://sp.rmbl.ws/z8/r/q/u/f/rqufa.baa-HeresyFinancial-r73guh.jpeg); }i.user-image--img--id-8135d5e519e846639023823e7150886f { background-image: url(https://sp.rmbl.ws/z8/N/k/w/b/Nkwba.baa.2-DrewHernandez-rjvqe7.jpeg); }i.user-image--img--id-fb32c9b47d8941207cb917f6da7c12d9 { background-image: url(https://sp.rmbl.ws/z8/M/7/K/i/M7Kia.baa-UnchartedX-rnxo8e.png); }i.user-image--img--id-d656ee14861aece54450ba2febade412 { background-image: url(https://sp.rmbl.ws/z8/l/u/L/b/luLba.baa-DonaldTrump-qlgbi8-2.jpg); }i.user-image--img--id-903a4c7f990d397e71f63ce0bc84f613 { background-image: url(https://sp.rmbl.ws/z0/b/S/a/W/bSaWb.asF.4-hhcld-rpb3a6.jpeg); }i.user-image--img--id-b5cbbf66f11dff16479a99b55e17100b { background-image: url(https://sp.rmbl.ws/z8/M/4/j/f/M4jfa.baa-modernwisdompodcast-r69sap.jpeg); }i.user-image--img--id-a0f25e19d4900d71061d167c5e44437f { background-image: url(https://sp.rmbl.ws/z8/y/U/g/f/yUgfa.baa-mristerbuildit-r5x11o.jpeg); }i.user-image--img--id-1570927a0eda47cc22a37d36305a8701 { background-image: url(https://sp.rmbl.ws/z8/b/P/v/b/bPvba.baa-sideserfcakes-rnklxz.png); }i.user-image--img--id-a7df5ef4c8c449a6e49c86f29a8d6531 { background-image: url(https://sp.rmbl.ws/z8/A/-/2/i/A-2ia.baa-MattJordanWoodturning-royjak.png); }.foot {
+    box-shadow: 0 -1px 0 #d6e0ea;
+    background: #fff;
+}
+
+.foot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 2rem;
+}
+
+@media(max-width:699.95px) {
+    .foot {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1.5rem 1rem;
+    }
+}
+
+.foot__nav, .foot__legal {
+    padding: 0.4em 0.5em;
+}
+@media(max-width:699.95px) {
+    .foot__nav, .foot__legal {
+        padding: 1em 0em;
+    }
+}
+.foot__nav-list,
+.foot__legal-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.foot__nav-list {
+    flex-direction: column;
+    font-weight: 600;
+}
+.foot__legal-list {
+    flex-direction: row;
+    justify-content: center;
+}
+@media(min-width:700px) {
+    .foot__nav-list {
+        flex-direction: row;
+    }
+}
+
+.foot__legal, .foot__copyright {
+    font-size: 12px;
+}
+
+.foot__copyright {
+    text-align: center;
+}
+.main-menu-mode-permanent main {
+	margin-left: 80px;
+}
+.main-menu-mode-permanent.main-menu-expanded main {
+	margin-left: 20rem;
+}
+@media(max-width:699.95px) {
+    .foot__legal, .foot__copyright {
+        width: 100%;
+    }
+}
+.foot__nav-item,
+.foot__legal-item {
+    display: block;
+    list-style-type: none;
+    padding: 0.5rem
+}
+.foot__nav-item {
+    white-space: nowrap;
+}
+
+.foot__nav-link,
+.foot__legal-link {
+    color: #0d2437;
+    outline-offset: 0.25em;
+    text-decoration: none;
+}
+
+.foot__logo {
+	display: block;
+    text-indent: -999px;
+    background-image: url('/img/rumble-full-logo-v4.svg');
+    background-repeat: no-repeat;
+    background-size: 96px 24px;
+    height: 24px;
+    width: 96px;
+    flex-shrink: 0;
+}
+
+@media(min-width:700px) {
+    .foot__logo {
+        background-repeat: no-repeat;
+        background-position: -3px;
+        background-size: auto;
+        height: 35px;
+        width: 35px;
+    }
+}@media(max-width:699.95px){.desktop-only{
+	display:none
+}div.media-description-section{
+	margin: 0 -1rem;
+	border-radius:0;
+}
+
+div.media-locals-message,
+div.media-description{
+	padding-left: 1rem;
+	padding-right: 1rem;
+}.mediaList-heading.size-xlarge {
+	max-height: 4.4rem;
+	white-space: normal; overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2;
+}}@media(min-width:460px){.rumbles-unit{
+	display:inline;
+}}@media(min-width:700px){.mobile-only{
+	display:none
+}.h1 {
+	font-size: 2.285714286rem;
+}
+.thirds{
+	display: flex;
+	flex-wrap: wrap;
+}
+.two-thirds, .one-thirds, .one-half{
+	display: flex;
+	flex-direction: column;
+	width:33.333333333%;
+}
+.two-thirds{
+	width:66.666666667%;
+}
+.one-half{
+	width: 50%;
+}
+
+.round-button{
+	padding:0.85rem 1.3rem;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	font-size:1rem;
+}.constrained{
+	padding-left: 2rem;
+	padding-right: 2rem;
+}.video-player,
+.video-processing-error {
+	margin-left: 0;
+	margin-right: 0;
+}
+.media-under-title{
+	margin-bottom:2rem;
+}
+.mediaList-list.related{
+	box-sizing: border-box;
+	max-width: 500px;
+	border-radius: 0.75rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+.h1 {
+	font-size: 23px;
+	line-height: 1.2;
+}.media-heading-title,.media-heading-info{
+	display:inline-block;
+}
+.media-heading-info:before{
+	color: #88A0B8;
+	content:"\2022";
+	padding:0 8px 0 2px;
+	font-weight:bold;
+	display:inline-block;
+}
+.media-earnings{
+	color:#7a4;
+	font-weight:bold;
+	clear:left;
+	display:block;
+}
+.media-by{
+	margin: 0 0 1rem;
+}
+.subscribe-buttons {
+	margin-right: 0;
+}
+.subscribe-buttons button {
+	justify-content: center;
+	padding: 0.6rem 2rem;
+	margin-left: 0.35rem;
+	margin-right: 0.35rem;
+}
+.subscribe-button-count{
+	display:block;
+}.media-engage {
+	margin-left: auto;
+}.mediaList-list.top-earners {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100%;
+}.singleMedia.content{
+	margin-top: 0;
+	height: 100%;
+}.header-div{
+	padding: 0 2rem;
+}
+.main-menu-item,
+.main-menu-heading {
+	padding-left: 2rem;
+	padding-right: 2rem;
+	color: #061726;
+}
+.cmi, .cmx__section-head {
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+}
+.header-upload{
+	margin-left: auto;
+	margin-right: 2rem;
+}
+.header{
+	height: 5rem;
+}
+main {
+	margin-top: 5rem;
+}
+.header-logo{
+	width:10rem;
+	margin: 0 0 0 1rem;
+}.header-search-select,.header-search-field{display:block; font-size: 15px;}
+.header-search,.header-search.pop-show{
+	position:static;
+	box-sizing: border-box;
+	padding-left: 0.3rem;
+	padding-right: 0.3rem;
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.header-search{
+	border: 1px solid #D6E0EA;
+}.header-user{
+	display: flex;
+	align-items: center;
+}
+.header-user-name,.header-user-stat{
+	display:block;
+	color:#061726;
+}
+.header-user-name{
+	color:#061726;
+	padding:0.1rem 0 0.1rem;
+}
+.header-user-info{
+	display:inline-block;
+	margin-left:0.5rem;
+}.navs, #main-menu {
+	top: 5rem;
+}}@media(min-width:900px){.main-and-sidebar {
+	flex-direction: row;
+}
+.main-content {
+	padding-top: 2rem;
+}
+.sidebar {
+	box-sizing: content-box;
+	width: 350px;
+	margin-left: 2rem;
+	flex-shrink: 0;
+	padding-top: 2rem;
+}
+.media-by{
+	background: none;
+	padding: 10px 0;
+}.video-counters-video-page { float: none; }}@media(min-width:1200px){.media-engage button {
+	margin-left: 1rem;
+	margin-right: 0;
+}.video-counters-video-page {
+	order: 1;
+	margin-left: 3rem;
+}.video-footer-buttons {
+	display:flex;
+	align-items:center;
+}
+.video-footer-buttons .rumbles-vote {
+	width: 30%;
+	margin: 0;
+}
+.media-engage {
+	justify-content: flex-end;
+	order: 2;
+}.singleMedia .mediaList-image {
+	height: 28rem;
+	object-fit: cover;
+}}@media(min-width:1440px){.sidebar { width: 400px; }}</style><link class="js-theme-ss js-theme-ss--dark" data-theme-main-stylesheet="1" disabled="" href="/c/themes/dark.css?GO7O" rel="stylesheet"><script>var $$={};var addThemeSwitcher;!function(){var c,r,i="system",s="light",h="dark",l=[h],o=[i,s,h],m=matchMedia("(prefers-color-scheme: dark)"),a=!1,d=!0,n=[],t=[];function u(){try{if(!a&&localStorage)return localStorage.getItem("themePreference")}catch(e){a=!0}}function f(){t.forEach(function(e){e(r)})}function $(){var e,t,a,n;c=c||u()||i,e=c==i?m.matches?h:s:0<=o.indexOf(c)?c:s,r!==(e=e)&&(r=e,l.indexOf(e)<0?(a=document.querySelectorAll("head .js-theme-ss"),Array.prototype.forEach.call(a,function(e){e.disabled=!0})):(t=!1,a="/c/themes/"+e+".css",n="js-theme-ss js-theme-ss--"+e,e=document.querySelectorAll(".js-theme-ss--"+e),Array.prototype.forEach.call(e,function(e){e.disabled=!1,e.dataset.themeMainStylesheet&&(t=!0)}),t||(d?document.write('<link rel=stylesheet data-theme-main-stylesheet="1" class="'+n+'" href="'+a+'" />'):((e=document.createElement("link")).rel="stylesheet",e.href=a,e.className=n,e.dataset.themeMainStylesheet="1",document.head.appendChild(e))))),f()}function y(){$$.each(n,function(){var e=this.getAttribute("data-theme")==c;$$[(e?"add":"remove")+"Class"](this,"main-menu-item--active")})}function p(e,t){(t=e.getAttribute("data-theme"))&&n.indexOf(e)<0&&(n.push(e),$$.addClick(e,function(e){return e.preventDefault(),e=t,a||localStorage.setItem("themePreference",e),c!=e&&(c=e,$(),y()),"overlay"==$$.main_menu.mode&&$$.query(".main-menu-toggle")[0].click(),!1}))}addThemeSwitcher=function(e,t){$$.each($$.query(e),function(){p(this)}),y(),t&&$$.each($$.query(t),function(){this.style.display="block"})},c=u()||i,$(),d=!1,m.addEventListener&&m.addEventListener("change",function(e){$()}),$$&&($$.applyThemePreference=$,$$.registerThemeCallback=function(e){t.push(e)})}();
+
+!function(s,a){function d(){return(new Date).getTime()/1e3}var t,o,r,n,i,c,l,e="Rumble",b={F:0};(a=s[e]=s[e]||function(){a._.push(arguments)})._=a._||[],b.f={},b.b={};if(!b.k){function f(r,e){return r.opts||(r.opts=[]),b.D(e,function(e,t){var o=r[t];switch(t){case"opts":r[t]=o.concat(e);break;case"ad_sys":r[t]=o?b.M(o,e):e;break;default:r[t]=e}}),r}function p(s,l,u){function f(){var e=s.v.src||s.v.currentSrc;return e=e.match(/blob:/)&&s.hls_js?s.hls_js.url||e:e}function p(){var e=f(),t=l.get();return s.current_video=l,t==e?0:t}var g;l.get=function(){return e=s,t=l.url,21192597==e.vid.vid?t:(o=b.B(t),t=b.E(t),e.vid.live||(r=0,e.vid.a&&(r=e.vid.a.u||0),o.u=r,o.b=0<e.bandwidth_track?1:0),t+"?"+b.C(o));var e,t,o,r};l.check=function(){return!p()},l.play=function(){u&&s.hls_js&&!g&&s.hls_js.startLoad(),g=!0},l.set=function(){if(u&&!b.I())return setTimeout(function(){l.set()},100),!1;var e,o,t,r,n,i,a=p(),d=0,c=0;a&&(g=!1,e=s.v,s.res=l.key,0<S&&(s.last_set_url==f()?(d=!e.paused,c=e.currentTime):0<s.video_time&&(c=s.video_time)),c&&!s.vid.live&&(s.ui.s.autoSeek=c),o=s,c=e,t=a,r=u&&Hls.isSupported(),n=l,o.hls_js&&o.hls_media_attached&&((i=o.hls_js).detachMedia(c),i.destroy(),o.hls_js=null),r?(r={capLevelToPlayerSize:!0,autoStartLoad:!1,manifestLoadingMaxRetry:6,levelLoadingMaxRetry:6},n.meta&&n.meta.lowLatency?(r.liveSyncDuration=1,r.lowLatencyMode=!0):r.liveSyncDurationCount=1,i=o.hls_js=new Hls(r),o.j("hlsJsLoaded",i),i.on(Hls.Events.LEVEL_UPDATED,function(e,t){o.live=t.details.live}),i.loadSource(t),i.attachMedia(c),o.hls_media_attached=1):c.src=t,S++,s.last_set_url=a,e.load(),d)&&(l.play(),e.play())}}function g(e){return x.hasOwnProperty(e)?x[e]:e}function h(o,e,r){var n,t;if(!o.style&&o.length)for(t=0;t<o.length;t++)h(o[t],e,r);else b.D(e,function(e,t){n=g(t),r&&""!==o.style[n]||(o.style[n]=g(e))})}function v(){var e=G;G={},y=0,b.D(e,function(e){"function"==typeof e&&e()})}function m(e){var i,r={play:"#fff",scrubber:"#75a642",hover:"#fff",background:"#303030",hoverBackground:"#699c39"},a=this,n=-1,c=(b.D(e,function(e,t){a[t]=e}),a.hasima=1,a.hasInit=0,a.rpcl=(a.id?a.id+"-":"")+"Rumble-cls",a.rpcls="."+a.rpcl,a.bandwidth_track=0,a.is_pending_n=!1,{}),d=(a.addEvent=function(e,t,o){c[o=o||1]||(c[o]={}),c[o][e]||(c[o][e]=[]),c[o][e].indexOf(t)<0&&c[o][e].push(t);o="addEvent";e!=o&&a.j(o,e)},a.removeEvent=function(e,t,o){c[o=o||1][e]&&(o&&!t?c[o][e]=[]:(t=c[o][e].indexOf(t),c[o][e].splice(t,1)))},a.hasEventListener=function(o){return b.D(c,function(e,t){if(e[o]&&0<e[o].length)return!0})},a.j=function(o,r,n){var i,a,d=[];return b.D(c,function(e,t){if(e[o]&&(n&&n==t||!n))for(a=e[o],i=0;i<a.length;i++)"function"==typeof r&&(r=r()),d.push(a[i](r))}),d},a.triggerError=function(e,t){a.j("error",{code:e,message:t})},a.l1=function(e,t,o){},a.getSetting=function(e,t){var o=!1;return a.vid&&a.vid.player&&a.vid.player[e]&&(e=a.vid.player[e],t&&e[t]&&(o=e[t]),t||(o=e)),o=!o&&r[t]?r[t]:o},a.loadVideoStyles=function(e){var t,o,r,n="vid_"+a.vid.id;a.rpcls;a.p.id=n,a.vars.opts.title&&a.vid.title&&(i.innerHTML=a.vid.title,i.href=b.L(a.vid.l,"rumble.com"),b.w(i,{outline:0,display:"block",18:"linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,0))",textShadow:"rgba(0,0,0,0.5) 0px 0px 2px",padding:"9px",fontSize:"18px",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",position:"absolute",top:0,left:0,right:0}),b.x(i,{textDecoration:"underline"},{textDecoration:"none"})),a.bp&&(n=a.getSetting("colors","play"),t=a.getSetting("colors","hover"),o=a.getSetting("colors","background"),r=a.getSetting("colors","hoverBackground"),b.x(a.bp,{color:t,background:r,borderColor:r},{color:n,background:o,borderColor:o},a.bp_svg),a.bp.style.opacity=1)},a.trackBandwidth=function(e){var t=a.bandwidth_track;(e=a.server.bw_tracking?e:0)!=t&&(a.bandwidth_track=e,a.current_video)&&!a.m&&a.current_video.set()},a.loadVideo=function(e,t){var o,r=(e="object"!=typeof e?{id:e}:e).id;if(b.b[r]&&(a.vars.playlist||(a.vars.playlist=b.b[r]),r=b.b[r][0]),a.hasInit||(a.hasInit=1,b.c(["ui","custom_ui"],function(){for(var e=0;e<b.d.length;e++)b.d[e](a.id)})),!t)return b.e(r,function(){a.loadVideo(e,1)},{ad_count:a.ad_count||null});if(b.f[r].loaded<9){if(a.triggerError("load","Unable to load video "+r),t)throw"Unable to load video "+r;return 2}if(b.f[r].cfg=e,b.f[r].plays=0,(o=b.f[r]).restrict&&!d(o.restrict)&&(a.triggerError("restricted","Video is restricted"),b.f[r].restricted=!0,a.j("restricted",r),b.f[r].ua=0),a.vars.opts.region_blocked&&(a.triggerError("regionBlocked","Region is not allowed"),b.f[r].regionBlocked=!0,a.j("regionBlocked",r)),o.id=r,a.vid=o,a.live=2==a.vid.live,a.video_list=0,a.current_video=0,n<0&&(n=(a.vars.opts.noads||a.server.bw_ourads_check&&a.vars.opts.norumbleads)&&o.a?1:0),a.trackBandwidth(o&&o.track||n?1:0),!o.restricted&&o.ua&&(a.video_list=b.G(a,o.ua),b.H(a),a.loadVideoStyles()),b.g(a),a.j("loadVideo",o),b.h(a,1),o.restricted&&t)throw"Video "+r+" is restricted"},function(e){var t,o,r,n,i=document,a=!1;if(!e||e[0]<=-3)return!0;o=e[0],r=e[1];try{t=parent!==s?i.referrer||parent.location.href:i.location.href}catch(e){}if(!t)return parent===s;if(t=t.match(/^https?\:\/\/([^\/?#]+)(?:[\/?#]|$)/i))for(t=t[1].split(".");2<=t.length&&!a;)n=t.join("."),-1<r.indexOf(n)&&(a=!0),t.shift();return o!=a}),e=a.rpcl,t="metadata";(a.vars.opts.minimal||a.vars.opts.nopreload)&&(t="none"),a.vars.quality&&(a.res=parseInt(a.vars.quality)),e=b.i('<div class="'+e+'" allowfullscreen tabindex="-1" style="outline: none;"><video muted playsinline hidefocus="hidefocus" style="width:100% !important;height:100% !important;display:block" preload="'+t+'"'+(a.vars.opts.cc?' crossorigin="anonymous"':"")+'></video><div style="display:flex;opacity:0" class="bigPlayUI ctp"><a style="display:none" target=_blank rel=noopener></a><div class="bigPlayUIInner ctp" style="display:none"></div></div></div>'),b.w(e,{2:4,9:17,10:17,18:16,color:15,clear:"both",overflow:"visible"}),b.j.c(e,"bplay","block",".bigPlayUIInner"),a.d.appendChild(a.p=e),a.v=e.firstChild,function(e){if(!b.A){var t,o="canPlayType",r='video/mp4; codecs="avc1.42E01E',n=[0,r+'"',0,r+', mp4a.40.2"',1,'video/webm; codecs="vp9, vorbis"',2,"application/vnd.apple.mpegurl"],i=[!1,!1,!1];if(!e||!e[o])return;for(t=0;t<n.length;t+=2)e[o](n[t+1])&&(i[n[t]]=!0);b.J=i[2],b.A=i}}(a.v),a.rsz=[0,0],a.bp=e.childNodes[1],a.bp_svg=a.bp.childNodes[1],a.hasStyle={},i=a.bp.childNodes[0],b.w(a.bp_svg,{fill:"currentColor",9:8,12:"14px 22px",cursor:"pointer",borderRadius:"8px"}),b.w(a.bp,{display:"flex",opacity:0,position:"absolute",top:0,left:0,width:"100%",height:"100%",cursor:"pointer",alignItems:"center",justifyContent:"center",overflow:"hidden"}),a.v.addEventListener("contextmenu",function(e){return e.preventDefault(),!1}),a.loadVideoStyles()}var _,S,y,P="https://rumble.com",e="/embedJS/u3",w=(b.l=d(),s.RumbleErrorHandler||(l=0,s.RumbleErrorHandler=function(e){var t,o=e.message,r=e.filename,n=e.lineno,i=e.colno,a=R(r);r==a||o.match(/^Script error\./)||3<++l||(r=document.location+"",o=[R(r),l,o,a,n,i],e.error&&e.error.stack&&o.push(e.error.stack.split("\n").slice(1,3).join("\n")),a="/l/jserr?err="+encodeURIComponent(JSON.stringify(o)),r==o[0]&&(a=P+a),(t=document.createElement("img")).src=a,t.width=t.height=1,t.onload=t.onerror=function(){t.onload=null,t.onerror=null})},s.addEventListener("error",s.RumbleErrorHandler)),[]),k=(b.E=function(e){return e.split("?")[0]},b.B=function(e){var e=e.split("?"),o={};return e&&e[1]&&(e=e[1],new URLSearchParams(e).forEach(function(e,t){o[t]=e})),o},b.C=function(e){var o="";return b.D(e,function(e,t){o+=(o?"&":"")+encodeURIComponent(t)+"="+encodeURIComponent(e)}),o},b.D=function(e,t){var o,r;for(r in e)if(e.hasOwnProperty(r)&&void 0!==(o=t(e[r],r)))return o},b.K=function(e,t){if("undefined"==typeof localStorageBlocked)try{localStorageBlocked="undefined"==typeof localStorage||!localStorage}catch(e){localStorageBlocked=!0}if(void 0===t){if(!localStorageBlocked)try{t=localStorage.getItem(e)}catch(e){localStorageBlocked=!0}return localStorageBlocked?w[e]:parseInt(t)==t?parseInt(t):t}if(w[e]=t,!localStorageBlocked)try{return localStorage.setItem(e,t)}catch(e){localStorageBlocked=!1}return!1},b.L=function(e,t,o,r){if(e)if(!e.match(/^(http[s]?:)?\/\/([^/]*)\//)||o)return(r?"https:":"")+"//"+t+("/"!=e[0]?"/":"")+e;return e},b.M=function(e,t){return e.filter(function(e){return-1!==t.indexOf(e)})},[2,0,1]),C=["mp4","webm","hls"],x=(b.G=function(o,e){for(var r,t,n={},i=S=0;i<k.length;i++)e[r=C[t=k[i]]]&&(b.A[t]||"hls"==r)&&b.D(e[r],function(e,t){n.hasOwnProperty(t)||(e.key=t,n[t]=e,p(o,n[t],"hls"==r))});return n},b.I=function(){return"undefined"!=typeof Hls||(b.q(["hls"]),!1)},b.H=function(e){var o,r,n,i=480;e.res&&(i=e.res),e.vid.live&&!b.J&&b.I(),b.D(e.video_list,function(e,t){n=parseInt(t),"hls"!=o&&("hls"==t&&b.J||0<n&&n<=i&&(!o||o<n)?o=t:(!r||n<r&&0<n)&&(r=t))}),(o=o||r)&&e.video_list[o].set()},b.r=function(){var a={},d={},c={b:function(e,t,o){if("object"!=typeof e){if(a[e]&&!o)return!1;if(a[e]=t=t||1,d[e])for(;r=d[e].pop();)r(e,t);return!0}for(var r in e)c.b(r,e[r],o)},a:function(e,t,o){var r,n,i;for(o=o||{},r=0;i=e[r];r++)a[i]?o[i]=a[i]:(n&&(t=function(t,o){return function(e){c.a([t],o,e)}}(n[0],n[1])),n=[i,t]);n?(d[n[0]]||(d[n[0]]=[]),d[n[0]].push(function(e,t){o[e]=t,n[1](o)})):t(o)}};return c},n=b.r(),i=document,c={},b.s=function(e,t){var o,r,n=0;c[e]||(c[e]=1,(o=i.createElement("script")).type="text/javascript",o.src=e,t&&(o.addEventListener("load",r=function(e){if(n||t())return n=1;e&&setTimeout(r,50)},!1),r(1)),i.head.appendChild(o))},b.q=function(e,t){for(var o,r=0;r<e.length;r++)if("ima3"==e[r])b.s("https://imasdk.googleapis.com/js/sdkloader/ima3.js",function(){return!("undefined"==typeof google||!google||!google.ima||(n.b("ima3"),0))});else if("custom_ui"!=e[r]){o=e[r];b.s(a.s.rd+"/j/p/"+o+("hls"!=o?".r2":"")+".js?_v=342",t)}},b.c=function(e,t,o){n.a(e,t),o||b.q(e)},a.rl=function(e,t){n.b(e)&&t&&t(b)},[0,1,"position","absolute","relative","fixed","normal","none","auto","width","height","margin","padding","border","display","#FFF","#000","100%","background","opacity"]),H=(b.w=h,b.y=function(e){var o={};return b.D(e,function(e,t){o[g(t)]=g(e)}),o},b.t=function(e,t,o,r,n,i,a,d){r||(r=e,n=t);var c="0",s="0";return d&&d.viewbox_top&&(c=d.viewbox_top),d&&d.viewbox_left&&(s=d.viewbox_left),i=i?" RumbleSVG-"+i:"",a=a||"",0<o.indexOf("stroke")&&(a+="stroke:currentColor;"),[e,t,'<svg style="'+a+'" class="RumbleElm'+i+'" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="'+e+'px" height="'+t+'px" viewBox="'+s+" "+c+" "+r+" "+n+'">'+o+"</svg>"]},b.j=b.r(),b.j.c=function(t,o,r,n){b.j.a([o],function(e){n&&(t=t.querySelectorAll(n)[0]),b.z(t,e[o][2]),r&&("string"==typeof r?t.style.display=r:r.apply(t))})},'<path stroke-width="3" stroke-linejoin="round" d="M19 11L3.2 1.5v19z"/>'),B=(b.j.b({bplay:b.t(25,25,H,22,22,"bplay"),play:b.t(22,22,H,0,0,"play","height:100%;"),loader:b.t(80,10,function(){for(var e,t="<g>",o=0;o<21;o++)t+='<circle cx="'+(10*o+5)+'" cy="5" r="'+(e=(e=o-6)<1||5<e?1:e)+'" />';return t+"</g>"}(),80,10)}),s.requestAnimationFrame?1:0),G={},O=(b.a=function(e,t){if(!G[e]&&"function"==typeof t&&(G[e]=t,!y)){if(y=1,!B)return setTimeout(v,1e3/24);s.requestAnimationFrame(v)}},b.i=function(e){e=b.u("div",0,0,e);return 1<e.childNodes.length?e.childNodes:e.firstChild},b.u=function(e,t,o,r){e=document.createElement(e);return r&&(e.innerHTML=r),t&&(e.className=t),o&&(e.id=o),E(e),e},b.z=function(e,t){e.innerHTML=t,j(e)},b.y({font:"12px sans-serif",fontWeight:6,lineHeight:6,boxSizing:"content-box",webkitBoxSizing:"content-box",19:1,18:7,11:0,12:0,border:7,9:8,10:8,visibility:"visible",textSizeAdjust:8,textDecoration:7})),E=function(e){var t;(t=e.tagName)&&"path"!=(t=t.toLowerCase())&&"video"!=t&&(h(e,O,!0),"svg"==t?h(e,{fill:"currentColor"},!0):(h(e,{color:"inherit"},!0),j(e)))},j=function(e){var t,o;if(t=e.childNodes)for(o=0;o<t.length;o++)E(t[o])};b.x=function(e,t,o,r){var n="__playerHover";(r=r||e)[n]||(e.addEventListener("mouseout",function(){h(r,r[n][0])}),e.addEventListener("mouseover",function(){h(r,r[n][1])})),r[n]=[o,t],h(r,o)};b.d=[];a.s={rd:P,ru:e,ds:[],rp:P+e+"/?request=",server:{"bw_tracking":1,"bw_noads_check":1}};b.k={},a.gdpr=2,b.m=function(e,t,o,r){var n=new XMLHttpRequest;n.onreadystatechange=function(){4==n.readyState&&200==n.status&&t(JSON.parse(n.responseText))},n.open("GET",(r?"":a.s.rp)+e),n.send()},b.e=function(e,t,o){var r,n,i,a=[];for("object"!=typeof e&&(e=[e]),r=0;r<e.length;r++)n=e[r],(!b.f[n]||1<b.f[n].loaded&&b.f[n].loaded+(1==e.length?900:1800)<d())&&(b.f[n]={loaded:0,wait:[]}),0==(i=b.f[n]).loaded&&(a.push(n),i.loaded=1),t&&i.loaded<9&&i.wait.push(t);return 0<a.length?(o=o?"&ext="+encodeURIComponent(JSON.stringify(o)):"",o+="&ad_wt="+(b.K("ad_wt")||0),b.m("video&ver=2&v="+a[0]+o,function(e){var t,o,r=[],n={};for(e.loaded||!e?n[a[0]]=e:n=e,b.D(n,function(e,t){for(;o=b.f[t].wait.pop();)r.indexOf(o)<0&&r.push(o);e&&(b.f[t]=e,b.f[t].loaded=d())}),t=0;t<r.length;t++)r[t]()}),1):(t&&t(),0)},a.resize=function(){b.D(b.k,function(e){b.h(e)})},b.h=function(e,t){var o,r=!e.rsz,n=[e.p.clientWidth,e.p.clientHeight],i=s.innerHeight,a=e.vars;a.resize||(a.resize=function(){try{return s.self!==s.top}catch(e){return!0}}()?"full":"auto");(!r&&(e.rsz[0]!=n[0]||e.rsz[1]!=n[1])||i<n[1]||t)&&(t=a.resize,a.ia&&(t="ia"),e.ui&&e.ui.isFloating&&(t="auto"),o=Math.floor(n[0]/16*9),"ia"==t?screen&&screen.height<o&&(o=screen.height):"full"==t?o=0:"window"==t?o=i:("ctpauto"==t&&e.ui&&e.ui.ctp&&(a.resize="auto"),(i<o||e.ui&&e.ui.getFullScreen())&&(o=0)),"window"!=t&&"ctpauto"!=t&&"auto16:9"!=t&&"full"!=t&&e.vid&&e.vid.a&&e.vid.a.aden&&e.vid.a.aden[2]&&o<360&&0!=o&&!a.float&&(o=360),e.rsz[0]!=n[0]&&(r=1),n[1]!=o)&&(r=1,e.p.style.height=0<o?(n[1]=o)+"px":"100%"),e.rsz&&!r||(e.rsz=n),r&&(b.g(e),e.j("resize"))},b.g=function(e){if(!(!e.vid||e.ui&&e.ui.hasPlayed)){var t,o,r,n=e.vid.i,i=e.vid.t,a=-1,d=e.rsz[0],c=e.rsz[1],s=d/c;if(i)for(t=0;t<i.length;t++)r=s<(r=(o=i[t]).w/o.h)?(c-d/r)*d:(d-c*r)*c,(a<0||r<a)&&(a=r,n=o.i);e.v.poster!=n&&(e.v.poster=n)}},a.$play=function(e,t){var o,r,n=JSON.parse(JSON.stringify(a.s.ds)),i={};if((n=f(n,e)).opts&&(b.D(n.opts,function(e){i[e]=1}),n.opts=i),void 0===n.gdpr?n.gdpr=2:n.gdpr=n.gdpr?1:0,2!=n.gdpr&&(a.gdpr=n.gdpr),b.n=-1==n.analytics||n.opts.minimal?1:0,b.o=n.opts.skip_ga_load?1:0,b.p=n.opts.force_ga_load?1:0,!n.div){if(!_)throw"No div was defined for the player";n.div=_}if(_=r=n.div,!b.k[r]||(o=b.k[r]).d.parentNode||(o=0),n.macros||(n.macros={}),!o){if(!(o=document.getElementById(r))){if(2<t)throw r+" div not found";s.addEventListener("DOMContentLoaded",function(){a.$play(e,3)})}b.k[r]||b.F++,b.k[r]=o=new m({d:o,vid:0,id:r,vars:n,server:a.s.server})}o.loadVideo(n.video),b.h(o)};a.rl("custom_ui");a.$playSettings=function(e){a.s.ds=f(a.s.ds,e)},s.addEventListener("resize",function(){b.a("resize",a.resize)}),s.addEventListener("orientationchange",function(){setTimeout(function(){a.resize()},500)});var z,L,I,D=s.Rumble;for(D._=z=D._||[],z.push=function(e){var t=z.slice.call(e),o=D["$"+t.shift()];"function"==typeof o?o.apply(D,t):t.push.call(z,e)},L=-1,I=z.length;++L<I;)z.push(z.shift())}function R(e){var t;return e&&((t=e.match(new RegExp("http[s]?://[^/]*rumble.com(/.*)$")))?t[1]:e)}}(window);
+
+</script><script type="application/ld+json">[{"@context":"http://schema.org","@type":"VideoObject","name":"Banned from YouTube: Dr. Simone Gold shares the truth about the COVID-19 vaccines","playerType":"HTML5","description":"Dr. Simone Gold is one of the Frontline Doctors who has been speaking the truth about COVID-19, the treatment options such as hydroxychloroquine, and the newly released vaccines. This video was just p","thumbnailUrl":"https://sp.rmbl.ws/s8/6/7/x/0/t/7x0tb.qR4e.1.jpg","uploadDate":"2021-01-21T00:01:06+00:00","duration":"PT00H56M08S","embedUrl":"https://rumble.com/embed/vagrvv/","url":"https://rumble.com/vd2y2j-banned-from-youtube-dr.-simone-gold-shares-the-truth-about-the-covid-19-vac.html","interactionStatistic":{"@type":"InteractionCounter","interactionType":{"@type":"http://schema.org/WatchAction"},"userInteractionCount":2389562},"width":1280,"height":720,"videoQuality":"Full HD"},{"@context":"http://schema.org","@type":"WebSite","url":"https://rumble.com/","potentialAction":{"@type":"SearchAction","target":"https://rumble.com/search/video?q={search}","query-input":"required name=search"}},{"@context":"http://schema.org","@type":"Organization","name":"Rumble","url":"https://rumble.com/","logo":"https://rumble.com/i/rumble_logo_back.png","sameAs":["https://www.facebook.com/rumblevideo/","https://twitter.com/rumblevideo"]}]</script><meta content="Dr. Simone Gold is one of the Frontline Doctors who has been speaking the truth about COVID-19, the treatment options such as hydroxychloroquine, and the newly released vaccines. This video was just p" name="description"/><meta content="Rumble" property="og:site_name"/><meta content="video.other" property="og:type"/><meta content="Banned from YouTube: Dr. Simone Gold shares the truth about the COVID-19 vaccines" property="og:title"/><meta content="https://rumble.com/vd2y2j-banned-from-youtube-dr.-simone-gold-shares-the-truth-about-the-covid-19-vac.html" property="og:url"/><meta content="Dr. Simone Gold is one of the Frontline Doctors who has been speaking the truth about COVID-19, the treatment options such as hydroxychloroquine, and the newly released vaccines. This video was just p" property="og:description"/><meta content="https://sp.rmbl.ws/s8/6/7/x/0/t/7x0tb.qR4e.1.jpg" property="og:image"/><meta content="summary_large_image" name="twitter:card"/><meta content="https://sp.rmbl.ws/s8/6/7/x/0/t/7x0tb.qR4e.1.jpg" name="twitter:image"/><meta content="Banned from YouTube: Dr. Simone Gold shares the truth about the COVID-19 vaccines" name="twitter:title"/><meta content="Dr. Simone Gold is one of the Frontline Doctors who has been speaking the truth about COVID-19, the treatment options such as hydroxychloroquine, and the newly released vaccines. This video was just p" name="twitter:description"/><meta content="noindex" name="robots"/><meta content="155223717937973" property="fb:app_id"/><meta content="@rumblevideo" name="twitter:site"/><meta content="app-id=1518427877" name="apple-itunes-app"/><link href="/i/favicon-v4.png" rel="shortcut icon"/><link href="/apple-touch-icon.png" rel="apple-touch-icon"/></link></head> <body>
+<main>
+<div class="constrained">
+<article><div id="theaterVideoPlayer"></div> <div class="main-and-sidebar">
+<div class="media-content main-content">
+<div class="video-player" id="videoPlayer"></div><div id="player-spacer"></div> <div class="media-by">
+<div class="media-by-wrap">
+<a class="media-by--a" href="/c/MostViralMoments" rel="author">
+<i class="user-image user-image--img user-image--img--id-0a8d3ddde8c349de85dbd29aee25f9d7 media-user-image"></i> <div class="media-heading-name-wrapper">
+<div class="media-heading-name">Most Viral Moments<svg class="verification-badge-icon media-heading-verified" height="24" viewbox="0 0 23 24" width="23"><path d="M21.2 16a5.7 5.7 0 0 0 0-7.9A28.3 28.3 0 0 0 7.5.1 5.3 5.3 0 0 0 1.3 4 29 29 0 0 0 1 20.3a5.4 5.4 0 0 0 6.4 3.5A27 27 0 0 0 21.1 16Zm-6.5-6.3a1 1 0 0 0-1.4-1.4L8.5 13l-1.8-1.8a1 1 0 0 0-1.4 1.4l2.5 2.5c.4.4 1 .4 1.4 0l5.5-5.5Z" fill="#74CC1D" fill-rule="evenodd"></path></svg></div>
+<div class="media-heading-num-followers">2.76K followers</div>
+</div>
+</a>
+</div>
+<div class="subscribe-buttons">
+<button class="round-button media-subscribe bg-green" data-action="subscribe" data-slug="MostViralMoments" data-title="Most Viral Moments" data-type="channel">
+<span class="subscribe-button-label">Follow</span>
+<span class="subscribe-button-count"> 2.76K</span> </button>
+</div>
+</div>
+<div class="media-published" title="January 20, 2021">
+						2 years ago					</div>
+<h1 class="h1">Banned from YouTube: Dr. Simone Gold shares the truth about the COVID-19 vaccines</h1> <div class="video-footer-buttons">
+<div class="rumbles-vote rumbles-vote-with-bar" data-id="17578795" data-type="1">
+<button aria-label="Rumbles up vote" class="rumbles-vote-up" data-vote="1">
+<svg class="icon-rumbles-up" height="16" width="17"><path d="M13.12 5.75H9.36v-3.5C9.36.94 8.66.5 7.62.5c-.27 0-.53.18-.53.44 0 0-2 6.56-2.1 6.56v7h7.52c1.14 0 2.1-.88 2.27-2.01l.7-4.03c.09-.7-.09-1.4-.52-1.84a2.2 2.2 0 0 0-1.84-.87ZM3.25 7.5H1.5v7h1.75v-7Z"></path></svg> <span class="rumbles-up-votes">3.27K</span>
+</button>
+<div class="rating-bar" title="3.27K Likes | 87 Dislikes">
+<div class="rating-bar__fill" style="width: 97.41148467717942%"></div>
+</div>
+<button aria-label="Rumbles down vote" class="rumbles-vote-down" data-vote="-1">
+<svg class="icon-rumbles-down" height="16" width="17"><path d="M13.12 5.75H9.36v-3.5C9.36.94 8.66.5 7.62.5c-.27 0-.53.18-.53.44 0 0-2 6.56-2.1 6.56v7h7.52c1.14 0 2.1-.88 2.27-2.01l.7-4.03c.09-.7-.09-1.4-.52-1.84a2.2 2.2 0 0 0-1.84-.87ZM3.25 7.5H1.5v7h1.75v-7Z"></path></svg> <span class="rumbles-down-votes">87</span>
+</button>
+</div>
+<div class="media-engage">
+<button class="round-button media-video-action media-video-action-embed"><svg class="media-icon-embed" height="16" viewbox="0 0 16 16" width="16"><path d="m10.67 12 4-4-4-4M5.33 4l-4 4 4 4" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>Embed</button>
+<button class="round-button media-video-action media-engage-share"><svg class="media-icon-share" height="16" viewbox="0 0 16 16" width="16"><path d="M2.67 8v5.33A1.33 1.33 0 0 0 4 14.67h8a1.33 1.33 0 0 0 1.33-1.34V8M10.67 4 8 1.33 5.33 4M8 1.33V10" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>Share</button>
+<div class="video-counters video-counters-video-page">
+<div class="video-counters--item video-item--views">
+<svg class="video-counters--icon" height="11" viewbox="0 0 15 11" width="15"><path d="M1.4 5.7s2.3-4.5 6.3-4.5S14 5.7 14 5.7s-2.3 4.6-6.3 4.6-6.3-4.6-6.3-4.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path><path d="M7.7 7.6a1.8 1.8 0 1 0 0-3.7 1.8 1.8 0 0 0 0 3.7Z" fill="currentColor"></path></svg>2.38M					</div>
+<div class="video-counters--item video-item--comments">
+<svg class="video-counters--icon" height="14" viewbox="0 0 14 14" width="14"><path d="M12.7 9.2a1.3 1.3 0 0 1-1.3 1.3H3.6L.9 13V2.6a1.3 1.3 0 0 1 1.3-1.3h9.2a1.3 1.3 0 0 1 1.3 1.3v6.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path></svg>294					</div>
+</div>
+</div>
+</div>
+<div class="media-description-section">
+<div class="container content media-description"><p class="media-description media-description--first">Dr. Simone Gold is one of the Frontline Doctors who has been speaking the truth about COVID-19, the treatment options such as hydroxychloroquine, and the newly released vaccines. This video was just pulled from YouTube and Vimeo for violating their terms of service. See LifeSite's COVID coverage here: <a href="https://www.lifesitenews.com/tags/tag/coronavirus+vaccine/?utm_source=Rumble_DrSimoneGold" rel="nofollow noopener" target="_blank">https://www.lifesitenews.com/tags/tag/coronavirus+vaccine/?utm_source=Rumble_DrSimoneGold</a><button class="media-description--show-button">Show more</button></p>
+<p class="media-description media-description--more">To help LifeSite continue sharing videos on important and vital topics, consider donating here: <a href="https://give.lifesitenews.com/?utm_source=Rumble_DrSimoneGold" rel="nofollow noopener" target="_blank">https://give.lifesitenews.com/?utm_source=Rumble_DrSimoneGold</a></p>
+<p class="media-description media-description--more">Sign-up for LifeSite's video newsletter here: <a href="https://bit.ly/LifeSiteVideoSub" rel="nofollow noopener" target="_blank">https://bit.ly/LifeSiteVideoSub</a></p>
+<p class="media-description media-description--more">Sign-up for LifeSite's email newsletter so you’ll never miss a beat: <a href="https://www.lifesitenews.com/ajax/subscribe?utm_source=Rumble_DrSimoneGold" rel="nofollow noopener" target="_blank">https://www.lifesitenews.com/ajax/subscribe?utm_source=Rumble_DrSimoneGold</a></p>
+<p class="media-description media-description--more">Follow LifeSite on social media</p>
+<p class="media-description media-description--more">Telegram: <a href="https://t.me/lifesitetelegram" rel="nofollow noopener" target="_blank">https://t.me/lifesitetelegram</a></p>
+<p class="media-description media-description--more">Gab: <a href="https://gab.com/LifeSiteNews" rel="nofollow noopener" target="_blank">https://gab.com/LifeSiteNews</a></p>
+<p class="media-description media-description--more">MeWe: <a href="https://mewe.com/i/lifesitenewscom1" rel="nofollow noopener" target="_blank">https://mewe.com/i/lifesitenewscom1</a></p>
+<button class="media-description--hide-button">Show less</button></div></div> <section id="video-comments">
+<div id="video-comments-loading">Loading 294 comments...
+				<div class="loading-spinner"></div>
+</div>
+</section>
+</div>
+<aside class="sidebar">
+<ul class="mediaList-list container content related without-show-more-link"><li class="mediaList-item first-item"> <a class="mediaList-link size-medium" href="/v2aitzq-lent-unlock-your-hidden-power-with-prayer-and-fasting.html">
+<div class="mediaList-image-div size-medium">
+<img alt="Lent: Unlock Your Hidden Power with Prayer and Fasting" class="mediaList-image" src="https://sp.rmbl.ws/s8/1/w/P/V/q/wPVqi.0kob-small-Lent-Unlock-Your-Hidden-Pow.jpg"/>
+<small class="mediaList-duration">3:19</small>
+</div>
+<div class="mediaList-info first-item">
+<section class="mediaList-by size-medium"><i class="user-image user-image--img user-image--img--id-0a8d3ddde8c349de85dbd29aee25f9d7 mediaList-by-image"></i> <div>
+<h4 class="mediaList-by-heading">Most Viral Moments</h4>
+<small class="mediaList-timestamp">14 days ago</small>
+</div>
+</section>
+<h3 class="mediaList-heading size-medium" title="Lent: Unlock Your Hidden Power with Prayer and Fasting">Lent: Unlock Your Hidden Power with Prayer and Fasting</h3>
+<div style="display: flex; align-items: center; justify-content: space-between">
+<div class="video-counters">
+<div class="video-counters--item video-item--views">
+<svg class="video-counters--icon" height="11" viewbox="0 0 15 11" width="15"><path d="M1.4 5.7s2.3-4.5 6.3-4.5S14 5.7 14 5.7s-2.3 4.6-6.3 4.6-6.3-4.6-6.3-4.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path><path d="M7.7 7.6a1.8 1.8 0 1 0 0-3.7 1.8 1.8 0 0 0 0 3.7Z" fill="currentColor"></path></svg>1.06K					</div>
+<div class="video-counters--item video-item--comments">
+<svg class="video-counters--icon" height="14" viewbox="0 0 14 14" width="14"><path d="M12.7 9.2a1.3 1.3 0 0 1-1.3 1.3H3.6L.9 13V2.6a1.3 1.3 0 0 1 1.3-1.3h9.2a1.3 1.3 0 0 1 1.3 1.3v6.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path></svg>1					</div>
+</div>
+</div>
+</div>
+</a></li><li class="mediaList-item"> <a class="mediaList-link size-medium" href="/vbpmsj-discovering-the-terrifying-truth-about-covid-19.html">
+<div class="mediaList-image-div size-medium">
+<img alt="Discovering the Terrifying Truth About COVID-19" class="mediaList-image" src="https://sp.rmbl.ws/s8/1/J/Q/c/l/JQclb.0kob-small-Discovering-the-Terrifying-.jpg"/>
+<small class="mediaList-duration">39:55</small>
+</div>
+<div class="mediaList-info">
+<section class="mediaList-by size-medium"><i class="user-image user-image--img user-image--img--id-affd42ac2fca676f191f9639f93f6d5d mediaList-by-image"></i> <div>
+<h4 class="mediaList-by-heading">thrivetimeshow</h4>
+<small class="mediaList-timestamp">2 years ago</small>
+</div>
+</section>
+<h3 class="mediaList-heading size-medium" title="Discovering the Terrifying Truth About COVID-19">Discovering the Terrifying Truth About COVID-19</h3>
+<div style="display: flex; align-items: center; justify-content: space-between">
+<div class="video-counters">
+<div class="video-counters--item video-item--views">
+<svg class="video-counters--icon" height="11" viewbox="0 0 15 11" width="15"><path d="M1.4 5.7s2.3-4.5 6.3-4.5S14 5.7 14 5.7s-2.3 4.6-6.3 4.6-6.3-4.6-6.3-4.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path><path d="M7.7 7.6a1.8 1.8 0 1 0 0-3.7 1.8 1.8 0 0 0 0 3.7Z" fill="currentColor"></path></svg>23.2K					</div>
+<div class="video-counters--item video-item--comments">
+<svg class="video-counters--icon" height="14" viewbox="0 0 14 14" width="14"><path d="M12.7 9.2a1.3 1.3 0 0 1-1.3 1.3H3.6L.9 13V2.6a1.3 1.3 0 0 1 1.3-1.3h9.2a1.3 1.3 0 0 1 1.3 1.3v6.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path></svg>9					</div>
+</div>
+</div>
+</div>
+</a></li><li class="mediaList-item"> <a class="mediaList-link size-medium" href="/vcvfvv-concerns-about-equal-access-to-covid-19-vaccines.html">
+<div class="mediaList-image-div size-medium">
+<img alt="Concerns about equal access to COVID-19 vaccines" class="mediaList-image" src="https://sp.rmbl.ws/s8/1/R/4/E/s/R4Esb.0kob-small-Concerns-about-equal-access.jpg"/>
+<small class="mediaList-duration">2:21</small>
+</div>
+<div class="mediaList-info">
+<section class="mediaList-by size-medium"><i class="user-image user-image--img user-image--img--id-a8de64fa63214ca5e3db4af598a3d125 mediaList-by-image"></i> <div>
+<h4 class="mediaList-by-heading">KGTV</h4>
+<small class="mediaList-timestamp">2 years ago</small>
+</div>
+</section>
+<h3 class="mediaList-heading size-medium" title="Concerns about equal access to COVID-19 vaccines">Concerns about equal access to COVID-19 vaccines</h3>
+<div style="display: flex; align-items: center; justify-content: space-between">
+<div class="video-counters">
+<div class="video-counters--item video-item--views">
+<svg class="video-counters--icon" height="11" viewbox="0 0 15 11" width="15"><path d="M1.4 5.7s2.3-4.5 6.3-4.5S14 5.7 14 5.7s-2.3 4.6-6.3 4.6-6.3-4.6-6.3-4.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path><path d="M7.7 7.6a1.8 1.8 0 1 0 0-3.7 1.8 1.8 0 0 0 0 3.7Z" fill="currentColor"></path></svg>138					</div>
+<div class="video-counters--item video-item--comments">
+<svg class="video-counters--icon" height="14" viewbox="0 0 14 14" width="14"><path d="M12.7 9.2a1.3 1.3 0 0 1-1.3 1.3H3.6L.9 13V2.6a1.3 1.3 0 0 1 1.3-1.3h9.2a1.3 1.3 0 0 1 1.3 1.3v6.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path></svg>1					</div>
+</div>
+</div>
+</div>
+</a></li><li class="mediaList-item"> <a class="mediaList-link size-medium" href="/v2c4m5a-pre-fight-press-conference-power-slap-1-finale.html">
+<div class="mediaList-image-div size-medium">
+<img alt="Pre-Fight Press Conference | Power Slap 1 Finale" class="mediaList-image" src="https://sp.rmbl.ws/s8/6/E/0/b/B/E0bBi.0kob.1.jpg"/>
+<small class="mediaList-duration">1:11:32</small>
+</div>
+<div class="mediaList-info">
+<section class="mediaList-by size-medium"><i class="user-image user-image--img user-image--img--id-707e0f6a2abb32a463636741e7b881b4 mediaList-by-image"></i> <div>
+<h4 class="mediaList-by-heading">Power Slap</h4>
+<small class="mediaList-timestamp">1 day ago</small>
+</div>
+</section>
+<h3 class="mediaList-heading size-medium" title="Pre-Fight Press Conference | Power Slap 1 Finale">Pre-Fight Press Conference | Power Slap 1 Finale</h3>
+<div style="display: flex; align-items: center; justify-content: space-between">
+<div class="video-counters">
+<div class="video-counters--item video-item--views">
+<svg class="video-counters--icon" height="11" viewbox="0 0 15 11" width="15"><path d="M1.4 5.7s2.3-4.5 6.3-4.5S14 5.7 14 5.7s-2.3 4.6-6.3 4.6-6.3-4.6-6.3-4.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path><path d="M7.7 7.6a1.8 1.8 0 1 0 0-3.7 1.8 1.8 0 0 0 0 3.7Z" fill="currentColor"></path></svg>141K					</div>
+<div class="video-counters--item video-item--comments">
+<svg class="video-counters--icon" height="14" viewbox="0 0 14 14" width="14"><path d="M12.7 9.2a1.3 1.3 0 0 1-1.3 1.3H3.6L.9 13V2.6a1.3 1.3 0 0 1 1.3-1.3h9.2a1.3 1.3 0 0 1 1.3 1.3v6.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path></svg>71					</div>
+</div>
+</div>
+</div>
+</a></li><li class="mediaList-item"> <a class="mediaList-link size-medium" href="/v2c9zcu-russell-brand-owns-msnbc-analyst.html">
+<div class="mediaList-image-div size-medium">
+<img alt="Russell Brand OWNS MSNBC Analyst!" class="mediaList-image" src="https://sp.rmbl.ws/s8/1/-/8/-/B/-8-Bi.0kob-small-Russell-Brand-OWNS-MSNBC-An.jpg"/>
+<small class="mediaList-duration">13:44</small>
+</div>
+<div class="mediaList-info">
+<section class="mediaList-by size-medium"><i class="user-image user-image--img user-image--img--id-65dcf4733ab3cc83d9d968c6544859a4 mediaList-by-image"></i> <div>
+<h4 class="mediaList-by-heading">Awaken With JP</h4>
+<small class="mediaList-timestamp">6 hours ago</small>
+</div>
+</section>
+<h3 class="mediaList-heading size-medium" title="Russell Brand OWNS MSNBC Analyst!">Russell Brand OWNS MSNBC Analyst!</h3>
+<div style="display: flex; align-items: center; justify-content: space-between">
+<div class="video-counters">
+<div class="video-counters--item video-item--views">
+<svg class="video-counters--icon" height="11" viewbox="0 0 15 11" width="15"><path d="M1.4 5.7s2.3-4.5 6.3-4.5S14 5.7 14 5.7s-2.3 4.6-6.3 4.6-6.3-4.6-6.3-4.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path><path d="M7.7 7.6a1.8 1.8 0 1 0 0-3.7 1.8 1.8 0 0 0 0 3.7Z" fill="currentColor"></path></svg>39.9K					</div>
+<div class="video-counters--item video-item--comments">
+<svg class="video-counters--icon" height="14" viewbox="0 0 14 14" width="14"><path d="M12.7 9.2a1.3 1.3 0 0 1-1.3 1.3H3.6L.9 13V2.6a1.3 1.3 0 0 1 1.3-1.3h9.2a1.3 1.3 0 0 1 1.3 1.3v6.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path></svg>128					</div>
+</div>
+</div>
+</div>
+</a></li><li class="mediaList-item"> <a class="mediaList-link size-medium" href="/v2c98u8-the-left-tries-to-censor-the-truth-about-jan-6.html">
+<div class="mediaList-image-div size-medium">
+<img alt="The Left Tries To Censor The Truth About Jan 6" class="mediaList-image" src="https://sp.rmbl.ws/s8/1/a/K/2/B/aK2Bi.0kob-small-The-Left-Tries-To-Censor-Th.jpg"/>
+<small class="mediaList-duration">1:08:46</small>
+</div>
+<div class="mediaList-info">
+<section class="mediaList-by size-medium"><i class="user-image user-image--img user-image--img--id-ede3e85eef16ea5fcacf675ddb9023ee mediaList-by-image"></i> <div>
+<h4 class="mediaList-by-heading">DML</h4>
+<small class="mediaList-timestamp">9 hours ago</small>
+</div>
+</section>
+<h3 class="mediaList-heading size-medium" title="The Left Tries To Censor The Truth About Jan 6">The Left Tries To Censor The Truth About Jan 6</h3>
+<div style="display: flex; align-items: center; justify-content: space-between">
+<div class="video-counters">
+<div class="video-counters--item video-item--views">
+<svg class="video-counters--icon" height="11" viewbox="0 0 15 11" width="15"><path d="M1.4 5.7s2.3-4.5 6.3-4.5S14 5.7 14 5.7s-2.3 4.6-6.3 4.6-6.3-4.6-6.3-4.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path><path d="M7.7 7.6a1.8 1.8 0 1 0 0-3.7 1.8 1.8 0 0 0 0 3.7Z" fill="currentColor"></path></svg>113K					</div>
+<div class="video-counters--item video-item--comments">
+<svg class="video-counters--icon" height="14" viewbox="0 0 14 14" width="14"><path d="M12.7 9.2a1.3 1.3 0 0 1-1.3 1.3H3.6L.9 13V2.6a1.3 1.3 0 0 1 1.3-1.3h9.2a1.3 1.3 0 0 1 1.3 1.3v6.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path></svg>247					</div>
+</div>
+</div>
+</div>
+</a></li><li class="mediaList-item"> <a class="mediaList-link size-medium" href="/v2c846c-interview-with-chris-sky-toronto-mayoral-candidate-viva-frei-live.html">
+<div class="mediaList-image-div size-medium">
+<img alt="Interview with Chris Sky - Toronto Mayoral Candidate! Viva Frei Live!" class="mediaList-image" src="https://sp.rmbl.ws/s8/1/K/S/P/B/KSPBi.0kob-small-Interview-with-Chris-Sky-To.jpg"/>
+<small class="mediaList-duration">1:55:55</small>
+</div>
+<div class="mediaList-info">
+<section class="mediaList-by size-medium"><i class="user-image user-image--img user-image--img--id-10513a0cac051f5c1e1d44020cad3a25 mediaList-by-image"></i> <div>
+<h4 class="mediaList-by-heading">vivafrei</h4>
+<small class="mediaList-timestamp">14 hours ago</small>
+</div>
+</section>
+<h3 class="mediaList-heading size-medium" title="Interview with Chris Sky - Toronto Mayoral Candidate! Viva Frei Live!">Interview with Chris Sky - Toronto Mayoral Candidate! Viva Frei Live!</h3>
+<div style="display: flex; align-items: center; justify-content: space-between">
+<div class="video-counters">
+<div class="video-counters--item video-item--views">
+<svg class="video-counters--icon" height="11" viewbox="0 0 15 11" width="15"><path d="M1.4 5.7s2.3-4.5 6.3-4.5S14 5.7 14 5.7s-2.3 4.6-6.3 4.6-6.3-4.6-6.3-4.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path><path d="M7.7 7.6a1.8 1.8 0 1 0 0-3.7 1.8 1.8 0 0 0 0 3.7Z" fill="currentColor"></path></svg>172K					</div>
+<div class="video-counters--item video-item--comments">
+<svg class="video-counters--icon" height="14" viewbox="0 0 14 14" width="14"><path d="M12.7 9.2a1.3 1.3 0 0 1-1.3 1.3H3.6L.9 13V2.6a1.3 1.3 0 0 1 1.3-1.3h9.2a1.3 1.3 0 0 1 1.3 1.3v6.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path></svg>325					</div>
+</div>
+</div>
+</div>
+</a></li><li class="mediaList-item"> <a class="mediaList-link size-medium" href="/v2c8mws-sekulow-live.html">
+<div class="mediaList-image-div size-medium">
+<img alt="BREAKING: Bipartisan Support for TikTok Restrictions" class="mediaList-image" src="https://sp.rmbl.ws/s8/1/8/N/V/B/8NVBi.0kob-small-Sekulow-LIVE.jpg"/>
+<small class="mediaList-duration">59:27</small>
+</div>
+<div class="mediaList-info">
+<section class="mediaList-by size-medium"><i class="user-image user-image--img user-image--img--id-f4043eced61ce87f83fc2203a556840a mediaList-by-image"></i> <div>
+<h4 class="mediaList-by-heading">American Center for Law and Justice</h4>
+<small class="mediaList-timestamp">11 hours ago</small>
+</div>
+</section>
+<h3 class="mediaList-heading size-medium" title="BREAKING: Bipartisan Support for TikTok Restrictions">BREAKING: Bipartisan Support for TikTok Restrictions</h3>
+<div style="display: flex; align-items: center; justify-content: space-between">
+<div class="video-counters">
+<div class="video-counters--item video-item--views">
+<svg class="video-counters--icon" height="11" viewbox="0 0 15 11" width="15"><path d="M1.4 5.7s2.3-4.5 6.3-4.5S14 5.7 14 5.7s-2.3 4.6-6.3 4.6-6.3-4.6-6.3-4.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path><path d="M7.7 7.6a1.8 1.8 0 1 0 0-3.7 1.8 1.8 0 0 0 0 3.7Z" fill="currentColor"></path></svg>91.4K					</div>
+<div class="video-counters--item video-item--comments">
+<svg class="video-counters--icon" height="14" viewbox="0 0 14 14" width="14"><path d="M12.7 9.2a1.3 1.3 0 0 1-1.3 1.3H3.6L.9 13V2.6a1.3 1.3 0 0 1 1.3-1.3h9.2a1.3 1.3 0 0 1 1.3 1.3v6.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path></svg>80					</div>
+</div>
+</div>
+</div>
+</a></li><li class="mediaList-item"> <a class="mediaList-link size-medium" href="/v2c8ufm-hope-for-assange-with-guest-julians-brother-gabriel-shipton.html">
+<div class="mediaList-image-div size-medium">
+<img alt="'Hope For Assange?' With Guest Julian's Brother Gabriel Shipton" class="mediaList-image" src="https://sp.rmbl.ws/s8/6/s/a/Y/B/saYBi.0kob.1.jpg"/>
+<small class="mediaList-duration">28:59</small>
+</div>
+<div class="mediaList-info">
+<section class="mediaList-by size-medium"><i class="user-image user-image--img user-image--img--id-d2d93b432f495024926b02c3e738fffc mediaList-by-image"></i> <div>
+<h4 class="mediaList-by-heading">The Ron Paul Liberty Report</h4>
+<small class="mediaList-timestamp">11 hours ago</small>
+</div>
+</section>
+<h3 class="mediaList-heading size-medium" title="'Hope For Assange?' With Guest Julian's Brother Gabriel Shipton">'Hope For Assange?' With Guest Julian's Brother Gabriel Shipton</h3>
+<div style="display: flex; align-items: center; justify-content: space-between">
+<div class="video-counters">
+<div class="video-counters--item video-item--views">
+<svg class="video-counters--icon" height="11" viewbox="0 0 15 11" width="15"><path d="M1.4 5.7s2.3-4.5 6.3-4.5S14 5.7 14 5.7s-2.3 4.6-6.3 4.6-6.3-4.6-6.3-4.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path><path d="M7.7 7.6a1.8 1.8 0 1 0 0-3.7 1.8 1.8 0 0 0 0 3.7Z" fill="currentColor"></path></svg>110K					</div>
+<div class="video-counters--item video-item--comments">
+<svg class="video-counters--icon" height="14" viewbox="0 0 14 14" width="14"><path d="M12.7 9.2a1.3 1.3 0 0 1-1.3 1.3H3.6L.9 13V2.6a1.3 1.3 0 0 1 1.3-1.3h9.2a1.3 1.3 0 0 1 1.3 1.3v6.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path></svg>115					</div>
+</div>
+</div>
+</div>
+</a></li><li class="mediaList-item last-item"> <a class="mediaList-link size-medium" href="/v2c8msm-the-january-6th-meltdown-explodes-ep.-1964-the-dan-bongino-show.html">
+<div class="mediaList-image-div size-medium">
+<img alt="The January 6th Meltdown Explodes (Ep. 1964) - The Dan Bongino Show" class="mediaList-image" src="https://sp.rmbl.ws/s8/1/M/L/V/B/MLVBi.0kob-small-The-January-6th-Meltdown-Ex.jpg"/>
+<small class="mediaList-duration">58:22</small>
+</div>
+<div class="mediaList-info last-item">
+<section class="mediaList-by size-medium"><i class="user-image user-image--img user-image--img--id-f67eb9a032a559a04a745037de96413b mediaList-by-image"></i> <div>
+<h4 class="mediaList-by-heading">The Dan Bongino Show</h4>
+<small class="mediaList-timestamp">11 hours ago</small>
+</div>
+</section>
+<h3 class="mediaList-heading size-medium" title="The January 6th Meltdown Explodes (Ep. 1964) - The Dan Bongino Show">The January 6th Meltdown Explodes (Ep. 1964) - The Dan Bongino Show</h3>
+<div style="display: flex; align-items: center; justify-content: space-between">
+<div class="video-counters">
+<div class="video-counters--item video-item--views">
+<svg class="video-counters--icon" height="11" viewbox="0 0 15 11" width="15"><path d="M1.4 5.7s2.3-4.5 6.3-4.5S14 5.7 14 5.7s-2.3 4.6-6.3 4.6-6.3-4.6-6.3-4.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path><path d="M7.7 7.6a1.8 1.8 0 1 0 0-3.7 1.8 1.8 0 0 0 0 3.7Z" fill="currentColor"></path></svg>592K					</div>
+<div class="video-counters--item video-item--comments">
+<svg class="video-counters--icon" height="14" viewbox="0 0 14 14" width="14"><path d="M12.7 9.2a1.3 1.3 0 0 1-1.3 1.3H3.6L.9 13V2.6a1.3 1.3 0 0 1 1.3-1.3h9.2a1.3 1.3 0 0 1 1.3 1.3v6.6Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"></path></svg>1.57K					</div>
+</div>
+</div>
+</div>
+</a></li></ul> </aside>
+</div>
+<div style="height:20px;clear:both"></div>
+</article> </div>
+</main>
+<header class="header">
+<div class="header-div">
+<button aria-label="main menu" class="main-menu-toggle">
+<svg class="main-menu-open" height="24" width="24"><path d="M1 4h22M1 12h22M1 20h22"></path></svg> <svg class="main-menu-close" height="24" width="24"><path d="M20 4 4 20M4 4l16 16"></path></svg> </button>
+<a class="header-logo" href="/">
+<img alt="Rumble" id="logo_light" src="/img/rumble-full-logo-v4.svg"/>
+<img alt="Rumble" hidden="" id="logo_dark" src="/img/rumble-full-logo-v4-dark.svg"/>
+</a>
+<form class="header-search">
+<input class="header-search-field" name="query" placeholder="Search" type="search" value=""/>
+<button aria-label="search Rumble" class="header-search-submit">
+<svg class="header-search-icon" viewbox="0 0 26 26"><path d="M17.6 17.6l6.3 6.3M2.2 11.2a9 9 0 1 0 18 0 9 9 0 1 0-18 0" fill="none" stroke-linecap="round" stroke-width="2"></path></svg> </button>
+</form>
+<div class="header-user-actions">
+<button class="header-user round-button transparent-button">Sign In</button>
+<button class="round-button ringed-button" onclick="location.assign('/register.php')">Sign Up</button>
+</div>
+</div>
+</header>
+<nav class="navs">
+<div style="position:relative">
+<div class="hover-menu main-menu-nav" id="main-menu">
+<a class="main-menu-item" href="/"><svg class="main-menu-icon" height="20" viewbox="0 0 20 20" width="20"><path d="M2.5 7.5 10 1.7l7.5 5.8v9.2a1.7 1.7 0 0 1-1.7 1.6H4.2a1.7 1.7 0 0 1-1.7-1.6V7.5Zm5 10.8V10h5v8.3"></path></svg>Home</a>
+<a class="main-menu-item" href="/videos?date=this-week"><svg class="main-menu-icon" height="20" viewbox="0 0 20 20" width="20"><path d="M10 18.33a8.33 8.33 0 1 0 0-16.66 8.33 8.33 0 0 0 0 16.66Z" fill="none"></path>
+<path d="M10 5v5l3.33 1.67" fill="none"></path>
+<clippath><path d="M0 0h20v20H0z" fill="none"></path></clippath></svg>Latest</a>
+<a class="main-menu-item" href="/editor-picks">
+<svg class="main-menu-icon" height="22" viewbox="-1 -2 23 22" width="23"><path d="M16.25 17.5v-1.67a3.33 3.33 0 0 0-3.33-3.33H7.08a3.33 3.33 0 0 0-3.33 3.33v1.67M10 9.17a3.33 3.33 0 1 0 0-6.67 3.33 3.33 0 0 0 0 6.67ZM15.17 9.17l1.66 1.66 3.34-3.33" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="main-menu-item-label">Editor Picks</span><span class="main-menu-item-label-collapsed">Picks</span>
+</a>
+<a class="main-menu-item" href="/videos?sort=views&amp;date=today"><svg class="main-menu-icon" height="24" viewbox="0 0 24 24" width="24"><path d="m23 6-9.5 9.5-5-5L1 18M17 6h6v6" fill="none"></path></svg>Trending</a>
+<h3 class="main-menu-heading">
+<span class="main-menu-item-label">Featured Channels</span>
+<span class="main-menu-item-label-collapsed">Featured</span>
+</h3> <a class="main-menu-item main-menu-item-channel" href="/c/UnitedFightLeague" title="United Fight League">
+<i class="user-image user-image--img user-image--img--id-3f21e2a62fb9255dad5b19eb0d4f90be"></i> <span class="main-menu-item-label main-menu-item-channel-label">United Fight League</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/JudgeDrudge" title="The Judge">
+<i class="user-image user-image--img user-image--img--id-a704f1b052f7f5c408b831a700179c7d"></i> <span class="main-menu-item-label main-menu-item-channel-label">The Judge</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/AlisonMorrow" title="Alison Morrow">
+<i class="user-image user-image--img user-image--img--id-e0ab48dcf6bb4428ad0b5c5530095211"></i> <span class="main-menu-item-label main-menu-item-channel-label">Alison Morrow</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/TheDiveWithJacksonHinkle" title="The Dive With Jackson Hinkle">
+<i class="user-image user-image--img user-image--img--id-a65555da375ef71f9288b001d1d9deb8"></i> <span class="main-menu-item-label main-menu-item-channel-label">The Dive With Jackson Hinkle</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/WayneDupreeShow" title="The Wayne Dupree Podcast">
+<i class="user-image user-image--img user-image--img--id-1fcc88b67b3bd96acd83c0793a6f917f"></i> <span class="main-menu-item-label main-menu-item-channel-label">The Wayne Dupree Podcast</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/user/TheSCraft" title="TheSCraft">
+<i class="user-image user-image--letter" data-letter="T"></i> <span class="main-menu-item-label main-menu-item-channel-label">TheSCraft</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/CryptosRus" title="CryptosRus">
+<i class="user-image user-image--img user-image--img--id-7b23924d9f8e3e3beeeaac0f7e8d14b3"></i> <span class="main-menu-item-label main-menu-item-channel-label">CryptosRus</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/user/ViralHog" title="ViralHog">
+<i class="user-image user-image--img user-image--img--id-4f09f27501bf34ea78d5e107177bbe48"></i> <span class="main-menu-item-label main-menu-item-channel-label">ViralHog</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/TamKhan" title="Tam Khan">
+<i class="user-image user-image--img user-image--img--id-e178a88ee5dddb0805062ce59d1c5ca7"></i> <span class="main-menu-item-label main-menu-item-channel-label">Tam Khan</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/TheCampisis" title="TheCampisis">
+<i class="user-image user-image--img user-image--img--id-8184544e75d671a713f70f89812ae69d"></i> <span class="main-menu-item-label main-menu-item-channel-label">TheCampisis</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/russellbrand" title="Russell Brand">
+<i class="user-image user-image--img user-image--img--id-6a914d0d0c7a658bf50c2fb77112a779"></i> <span class="main-menu-item-label main-menu-item-channel-label">Russell Brand</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/JasonCorey" title="Jason Corey Cane Corso">
+<i class="user-image user-image--img user-image--img--id-25c3bd33dde9b13515d5a0136f322d80"></i> <span class="main-menu-item-label main-menu-item-channel-label">Jason Corey Cane Corso</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/TheHeritageFoundation" title="The Heritage Foundation">
+<i class="user-image user-image--img user-image--img--id-8a6cc41ebfbadb889bb97b339776fafa"></i> <span class="main-menu-item-label main-menu-item-channel-label">The Heritage Foundation</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/RekietaLaw" title="Rekieta Law">
+<i class="user-image user-image--img user-image--img--id-fa96777532f14bd6caf72b34405cfada"></i> <span class="main-menu-item-label main-menu-item-channel-label">Rekieta Law</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/JohnnyHawkeyClips" title="JohnnyHawkeyClips">
+<i class="user-image user-image--img user-image--img--id-daad2a9eabf278bd7632a1350c68f51a"></i> <span class="main-menu-item-label main-menu-item-channel-label">JohnnyHawkeyClips</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/RandPaul" title="Rand Paul">
+<i class="user-image user-image--img user-image--img--id-0e4ddfa963bcfeeac5ea07025811c48b"></i> <span class="main-menu-item-label main-menu-item-channel-label">Rand Paul</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/user/HumbleMechanic1" title="HumbleMechanic1">
+<i class="user-image user-image--img user-image--img--id-2de21156126f6ba8e80173b194d79c76"></i> <span class="main-menu-item-label main-menu-item-channel-label">HumbleMechanic1</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/ewerickson" title="The Erick Erickson Show">
+<i class="user-image user-image--img user-image--img--id-0d4f0ad31dc871caefc29893dcdab35e"></i> <span class="main-menu-item-label main-menu-item-channel-label">The Erick Erickson Show</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/DegenerateJay" title="Degenerate Jay">
+<i class="user-image user-image--img user-image--img--id-a3b93698db025ad72b640c9c851a92f2"></i> <span class="main-menu-item-label main-menu-item-channel-label">Degenerate Jay</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/YelllowFlash" title="YellowFlash 2">
+<i class="user-image user-image--img user-image--img--id-04d304d73c325e80864d155706fba915"></i> <span class="main-menu-item-label main-menu-item-channel-label">YellowFlash 2</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/StoneAgeMan" title="Stone Age Man">
+<i class="user-image user-image--img user-image--img--id-b1d09bd689db85ab7990648dee2b7e60"></i> <span class="main-menu-item-label main-menu-item-channel-label">Stone Age Man</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/JorgeMasvidal" title="Jorge Masvidal">
+<i class="user-image user-image--img user-image--img--id-aae08910c566cb4ff064192e9e7db7d6"></i> <span class="main-menu-item-label main-menu-item-channel-label">Jorge Masvidal</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/KimberlyGuilfoyle" title="Kimberly Guilfoyle">
+<i class="user-image user-image--img user-image--img--id-af15edcdf6f27feee39c2a5f3f1b9241"></i> <span class="main-menu-item-label main-menu-item-channel-label">Kimberly Guilfoyle</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/MountainRugCleaning" title="Mountain Rug Cleaning">
+<i class="user-image user-image--letter" data-letter="M"></i> <span class="main-menu-item-label main-menu-item-channel-label">Mountain Rug Cleaning</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/DynastyFlock" title="Dynasty Football Flock">
+<i class="user-image user-image--img user-image--img--id-c44087358ec6582a43a09fb6ab997664"></i> <span class="main-menu-item-label main-menu-item-channel-label">Dynasty Football Flock</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/wallimann" title="David Wallimann">
+<i class="user-image user-image--letter" data-letter="D"></i> <span class="main-menu-item-label main-menu-item-channel-label">David Wallimann</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/JustPlanes" title="Just Planes">
+<i class="user-image user-image--img user-image--img--id-eafc65eb14aaf93a54afd4c8ab31e235"></i> <span class="main-menu-item-label main-menu-item-channel-label">Just Planes</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/ThinkBeforeYouSleep" title="Think Before You Sleep">
+<i class="user-image user-image--img user-image--img--id-08a897698266ae38acd304be5e81299d"></i> <span class="main-menu-item-label main-menu-item-channel-label">Think Before You Sleep</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/Homesteadonomics" title="Homesteadonomics">
+<i class="user-image user-image--img user-image--img--id-83a291256935de3d298a37add3f07d7d"></i> <span class="main-menu-item-label main-menu-item-channel-label">Homesteadonomics</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/Redacted" title="Redacted News">
+<i class="user-image user-image--img user-image--img--id-bc480544e7be286ca35bb780ca28abc4"></i> <span class="main-menu-item-label main-menu-item-channel-label">Redacted News</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/NYPost" title="New York Post">
+<i class="user-image user-image--img user-image--img--id-5bfe4c835d0168a76388112b095d2b2c"></i> <span class="main-menu-item-label main-menu-item-channel-label">New York Post</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/CharlieKirk" title="The Charlie Kirk Show">
+<i class="user-image user-image--img user-image--img--id-f2d4db4799bc5674aaefbb019f010e6f"></i> <span class="main-menu-item-label main-menu-item-channel-label">The Charlie Kirk Show</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/FullMag" title="FullMag">
+<i class="user-image user-image--img user-image--img--id-8d4651abc6f74a469e72edfe54f7bdad"></i> <span class="main-menu-item-label main-menu-item-channel-label">FullMag</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/KarimJovian" title="Karim Jovian">
+<i class="user-image user-image--img user-image--img--id-747f071a6133fdd9c5f846f86539fba8"></i> <span class="main-menu-item-label main-menu-item-channel-label">Karim Jovian</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/LockPickingLawyer" title="LockPickingLawyer">
+<i class="user-image user-image--img user-image--img--id-e01180b89a9cf890a2b841fc3a5a79a6"></i> <span class="main-menu-item-label main-menu-item-channel-label">LockPickingLawyer</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/GrantCardone" title="Grant Cardone">
+<i class="user-image user-image--img user-image--img--id-cbbd2ebfe3edca3bddd839ec89406ecc"></i> <span class="main-menu-item-label main-menu-item-channel-label">Grant Cardone</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/MegynKelly" title="Megyn Kelly">
+<i class="user-image user-image--img user-image--img--id-d5845c4f1684aa61cd5e7006a3ef9671"></i> <span class="main-menu-item-label main-menu-item-channel-label">Megyn Kelly</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/Timetreats" title="Time Treats">
+<i class="user-image user-image--img user-image--img--id-9887016bae5195df640b644def3f6fd4"></i> <span class="main-menu-item-label main-menu-item-channel-label">Time Treats</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/jackdoherty" title="Jack Doherty">
+<i class="user-image user-image--img user-image--img--id-6fa99734ddfaa7c3abf8b2f706e7731f"></i> <span class="main-menu-item-label main-menu-item-channel-label">Jack Doherty</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/HikeCampClimb" title="Hike Camp Climb">
+<i class="user-image user-image--img user-image--img--id-8114adc1b387dc9849fffa45b0f0b9aa"></i> <span class="main-menu-item-label main-menu-item-channel-label">Hike Camp Climb</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/PrimitiveSurvivalTools" title="Primitive Survival Tool">
+<i class="user-image user-image--img user-image--img--id-f77a0d92c84e68aedfa5f76027da3146"></i> <span class="main-menu-item-label main-menu-item-channel-label">Primitive Survival Tool</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/HeresyFinancial" title="Heresy Financial">
+<i class="user-image user-image--img user-image--img--id-60b1f3d45e2ade67247ff943a1f08989"></i> <span class="main-menu-item-label main-menu-item-channel-label">Heresy Financial</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/DrewHernandez" title="Drew Hernandez">
+<i class="user-image user-image--img user-image--img--id-8135d5e519e846639023823e7150886f"></i> <span class="main-menu-item-label main-menu-item-channel-label">Drew Hernandez</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/UnchartedX" title="UnchartedX">
+<i class="user-image user-image--img user-image--img--id-fb32c9b47d8941207cb917f6da7c12d9"></i> <span class="main-menu-item-label main-menu-item-channel-label">UnchartedX</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/DonaldTrump" title="Donald J. Trump">
+<i class="user-image user-image--img user-image--img--id-d656ee14861aece54450ba2febade412"></i> <span class="main-menu-item-label main-menu-item-channel-label">Donald J. Trump</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/user/RepMattGaetz" title="RepMattGaetz">
+<i class="user-image user-image--img user-image--img--id-903a4c7f990d397e71f63ce0bc84f613"></i> <span class="main-menu-item-label main-menu-item-channel-label">RepMattGaetz</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/modernwisdompodcast" title="Chris Williamson">
+<i class="user-image user-image--img user-image--img--id-b5cbbf66f11dff16479a99b55e17100b"></i> <span class="main-menu-item-label main-menu-item-channel-label">Chris Williamson</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/MrBuildIt" title="Mr. Build It">
+<i class="user-image user-image--img user-image--img--id-a0f25e19d4900d71061d167c5e44437f"></i> <span class="main-menu-item-label main-menu-item-channel-label">Mr. Build It</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/sideserfcakes" title="Sideserf Cake Studio">
+<i class="user-image user-image--img user-image--img--id-1570927a0eda47cc22a37d36305a8701"></i> <span class="main-menu-item-label main-menu-item-channel-label">Sideserf Cake Studio</span>
+</a>
+<a class="main-menu-item main-menu-item-channel" href="/c/MattJordanWoodturning" title="Matt Jordan Woodturning">
+<i class="user-image user-image--img user-image--img--id-a7df5ef4c8c449a6e49c86f29a8d6531"></i> <span class="main-menu-item-label main-menu-item-channel-label">Matt Jordan Woodturning</span>
+</a>
+<div class="js-theme-option-group" hidden="">
+<h3 class="main-menu-heading">Theme</h3>
+<a class="main-menu-item js-theme-option" data-theme="system" href=""><svg class="main-menu-icon" height="24" viewbox="0 0 24 24" width="24"><path d="M12 1v2m0 18v2M4.2 4.2l1.4 1.4m12.8 12.8 1.4 1.4M1 12h2m18 0h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4M16 12.36A4 4 0 1 1 11.64 8 3.12 3.12 0 0 0 16 12.36Z"></path></svg><span class="main-menu-item-label">OS Default</span></a>
+<a class="main-menu-item js-theme-option" data-theme="dark" href=""><svg class="main-menu-icon" height="24" viewbox="0 0 24 24" width="24"><path d="M12.1 4.1c.3-.4 0-.9-.5-.8a8.5 8.5 0 1 0 9.3 12.4c.3-.4-.1-.9-.6-.7A7 7 0 0 1 12 4.2Z"></path></svg><span class="main-menu-item-label">Dark Mode</span></a>
+<a class="main-menu-item js-theme-option" data-theme="light" href=""><svg class="main-menu-icon" height="24" viewbox="0 0 24 24" width="24"><path d="M7 12a5 5 0 1 0 10 0 5 5 0 1 0-10 0m5-11v2m0 18v2M4.2 4.2l1.4 1.4m12.8 12.8 1.4 1.4M1 12h2m18 0h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4"></path></svg><span class="main-menu-item-label">Light Mode</span></a>
+</div>
+</div>
+<div class="hover-menu header-upload-menu">
+<a class="main-menu-item" href="/upload.php"><svg class="main-menu-icon" viewbox="0 0 26 26"><path d="M4.2 17.5s-2.7-3.1-1.9-7.1C3 6.8 5.9 3.9 9.9 3.9c3.5 0 5.1 1.6 6.2 2.7 1.1 1.1 1.4 3.5 1.4 3.5s2.7-.7 4.4.7 2.4 3.8 1.8 5.6-2.6 3.1-2.6 3.1M9 17.1l4.1-3.8 4.2 3.8m-4.2 5.4v-9.2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>Upload Video</a>
+<a class="main-menu-item" href="/live?go-live"><svg class="main-menu-icon" viewbox="0 0 30 16" width="20"><path d="M8 4a8 8 0 0 0 0 8M4 1a14 14 0 0 0 0 14m18-3a8 8 0 0 0 0-8m4 11a14 14 0 0 0 0-14" fill="none" stroke-linecap="round" stroke-width="2"></path><circle cx="15" cy="8" fill="none" r="2" stroke-width="4"></circle></svg>Go Live</a>
+</div>
+</div>
+</nav>
+<footer class="page__footer foot">
+<a class="foot__logo" href="/">Rumble</a>
+<nav class="foot__nav">
+<ul class="foot__nav-list">
+<li class="foot__nav-item">
+<a href="https://corp.rumble.com/" rel="noopener" target="_blank">About Us</a></li>
+<li class="foot__nav-item">
+<a href="https://corp.rumble.com/careers/" rel="noopener" target="_blank">Careers</a></li>
+<li class="foot__nav-item"><a href="/our-apps/" rel="noopener">Our Apps</a></li>
+<li class="foot__nav-item">
+<a href="https://help.rumble.com/" rel="noopener" target="_blank">Developers</a></li>
+<li class="foot__nav-item">
+<a href="https://ads.rumble.com/" rel="noopener" target="_blank">Advertising</a></li>
+<li class="foot__nav-item"><a href="https://rumble.store/" rel="noopener" target="_blank">Store</a>
+</li>
+</ul>
+</nav>
+<nav class="foot__legal">
+<ul class="foot__legal-list">
+<li class="foot__legal-item"><a href="/s/terms" rel="nofollow">Terms &amp; Conditions</a></li>
+<li class="foot__legal-item"><a href="/s/privacy" rel="nofollow">Privacy Policy</a></li>
+<li class="foot__legal-item"><a href="/s/dmca" rel="nofollow">Copyright / DMCA</a></li>
+</ul>
+</nav>
+<div class="foot__copyright">
+<div class="u-deemphasized">Copyright © 2023 Rumble. All Rights Reserved.</div>
+</div>
+</footer>
+<script>$$={query:function(e,n){return Array.isArray(e)&&(n=e[1],e=e[0]),n=n||document,"string"==typeof e?n.querySelectorAll(e):[e]},each:function(e,n){for(var t=0;t<e.length;t++)n.call(e[t])},gt:function(e){return(new Date).getTime()/(e?1e3:1)},getByClass:function(e){var n=$$.query("."+e);return 1<=n.length&&n[0]},isVisible:function(e){return 0<e.offsetWidth&&0<e.offsetHeight},addClass:function(e,n){return!e.classList.contains(n)&&(e.classList.toggle(n),!0)},removeClass:function(e,n){e.classList.remove(n)},addClick:function(e,t){var n,r=$$.query(e);if(r)for(n=0;n<r.length;n++)r[n]&&r[n].addEventListener("click",function(e){var n=t.call(this,e);return n||void 0===n||e.stopPropagation(),n})},addServiceClick:function(e,n,t,r,c){$$.addClick(e,function(e){e.preventDefault(),$$.serviceGet(n,t,r,c)})},urlQueryObject:function(){var t={};return"undefined"==typeof URLSearchParams||new URLSearchParams(location.search).forEach(function(e,n){t[n]=e}),t},urlEncodeData:function(e){var n,t="";for(n in e)e.hasOwnProperty(n)&&(t+=(t?"&":"")+encodeURIComponent(n)+"="+encodeURIComponent(e[n]));return t},include:function(e,n){var t=document.createElement("script");t.src=e,t.async=!0,n&&(t.onload=n),document.head.appendChild(t)},includeCSS:function(e){var n=document.createElement("link");n.type="text/css",n.rel="stylesheet",n.href=e,document.head.appendChild(n)}},$$.page_load_time=(new Date).getTime();
+
+$$.injectJSLib=function(e,t){var s=document.createElement("script");return s.defer=!0,s.text=t,"code"!=e&&(s.id="js-"+e,$$.includedJSLibs[e]=s),document.getElementsByTagName("head")[0].appendChild(s),s},$$.injectCSSLib=function(e,t){var s=document.createElement("style");return s.appendChild(document.createTextNode(t)),e&&(s.id="css-"+e,$$.includedCSSLibs[e]=s),(t=document.querySelector("head .js-theme-ss"))?t.insertAdjacentElement("beforebegin",s):document.getElementsByTagName("head")[0].appendChild(s),s},$$.request=function(e,t,s,n){var i=new XMLHttpRequest;n=n||function(){},i.open(t?"POST":"GET",e,!0),i.setRequestHeader("Content-type","application/x-www-form-urlencoded"),i.responseType="json",i.onload=function(){200==i.status?s(i.response):n&&n(i.status,i.response)},i.send(t?$$.urlEncodeData(t):null)},$$.requestGet=function(e,t,s){return $$.request(e,0,t,s)},$$.requestPost=function(e,t,s,n){return $$.request(e,t,s,n)},$$.serviceGet=function(e,t,s,n){return $$.serviceLoad("get",e,t,s,n)},$$.servicePost=function(e,t,s,n){return $$.serviceLoad("post",e,t,s,n)},$$.serviceLoad=function(i,c,o,r,e){"object"==typeof i&&(c=i.name||c,o=i.data||o,r=i.success||r,e=i.fail||e,i=i.type);var t,s,n=Math.floor(1e3*Math.random()),$="__service"+((new Date).getTime()-$$.page_load_time)+"_"+n,d=[],l=[],n="/service.php?",u={};for(s in"post"==i?"object"==typeof o&&(o.get||o.post)&&(t=o.get,o=o.post):o&&(t=o),(t=$$.urlEncodeData(t))&&(n+=t+"&"),u.name=c,$$.includedJSLibs)d.push(s);for(s in 0<d.length&&(u.included_js_libs=d.join(",")),$$.includedCSSLibs)l.push(s);0<l.length&&(u.included_css_libs=l.join(","));function a(e){var t,s,n="";if(e.js_libs){for(t in e.js_libs)e.js_libs.hasOwnProperty(t)&&$$.injectJSLib(t,e.js_libs[t]);delete e.js_libs}if(e.css_libs){for(t in e.css_libs)e.css_libs.hasOwnProperty(t)&&$$.injectCSSLib(t,e.css_libs[t]);delete e.css_libs}e.html&&((s=document.createElement("div")).innerHTML=e.html,e.html=1<s.childNodes.length?s:s.firstChild),e.request={type:i,name:c,data:o},$$[$]=e,$$[$].close=function(){this.html&&this.html.remove(),this.script.remove(),delete $$[$]},e.js_code&&(n="$$."+$+".call=function(){"+e.js_code+"};$$."+$+".call();"),r&&(e.success=r,n+="$$."+$+".success();"),n&&($$[$].script=$$.injectJSLib("code",n))}n+=$$.urlEncodeData(u),"post"==i?$$.requestPost(n,o,a,e):$$.requestGet(n,a,e)};
+
+!function(){var i=[];$$.onload=function(t){if("object"!=typeof i)return t();i.push(t)},window.addEventListener("load",function(){for(var t=i,n=i=0;n<t.length;n++)t[n]()});var e=[];$$.onDomReady=function(t){if("object"!=typeof e)return t();e.push(t)},window.addEventListener("DOMContentLoaded",function(){for(var t=e,n=e=0;n<t.length;n++)t[n]()});var o=[];$$.onScroll=function(t,n){if(void 0===n&&(n=10),0==o.length){function i(){var n=$$.ui.scrollY();$$.each(o,function(){var t=this.last-n;t<this.step&&t>-this.step||(this.last=n,this.f())})}window.addEventListener("scroll",i),setTimeout(function(){i()},25)}o.push({f:t,step:n,last:2*-n})};var c=[];$$.checkVisibility=function(t,n){n=n||0;var i=window.innerHeight||document.documentElement.clientHeight,e=t.getBoundingClientRect(),o=[-n,i+n];return e.top>=o[0]&&e.top<=o[1]||e.bottom>=o[0]&&e.bottom<=o[1]},$$.onVisible=function(t,n,i){if($$.checkVisibility(t,i))return n.call(t);if(0==c.length){$$.onScroll(function(){$$.each(c,function(){$$.checkVisibility(this.elm,this.scan_ahead)&&(c.slice(c.indexOf(this),1),this.f.call(this.elm))})},50)}c.push({elm:t,f:n,scan_ahead:i})}}();
+
+window.rumbleErrorHandler||function(){function d(r){var n=r.match(/http[s]?:\/\/[^\/]*rumble.com(\/.*)$/);return n?n[1]:r}var u=0;window.rumbleErrorHandler=function(r){var n,e,o,t,l=r.message,i=r.filename,c=r.lineno,a=r.colno,m=d(i);i==m||l.match(/^Script error\./)||3<++u||(e=document.location+"",n=[d(e),u,l,m,c,a],r.error&&r.error.stack&&n.push(r.error.stack.split("\n").slice(1,3).join("\n")),o="/l/jserr?err="+encodeURIComponent(JSON.stringify(n)),e==n[0]&&(o="https://rumble.com"+o),(t=document.createElement("img")).src=o,t.width=t.height=1,t.onload=t.onerror=function(){t.onload=null,t.onerror=null})},window.addEventListener("error",window.rumbleErrorHandler)}();
+
+!function(e,n,t,o,c,a){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),(o.push=o).loaded=!0,o.version="2.0",o.queue=[],(c=n.createElement(t)).async=!0,setTimeout(function(){c.src="//connect.facebook.net/en_US/fbevents.js",(a=n.getElementsByTagName(t)[0]).parentNode.insertBefore(c,a)},50))}(window,document,"script"),fbq("init","459313920860148"),fbq("trackSingle","459313920860148","PageView");
+
+Rumble("play", {"resize":"auto16:9","opts":["skip_ga_load","noads"],"autoNext":1,"rel":11,"video":"vagrvv","div":"videoPlayer","api":function(api) { $$.handlePlayerApi(api) }});
+$$.addClick('.media-subscribe', function(){ $$.serviceGet('user.login'); });
+(function() {
+	$$.rumblesVote={
+		attach:function(elm){
+			var buttons = ['button.rumbles-vote-up, button.rumbles-vote-down', elm];
+			$$.addClick(buttons, function(){
+				var clicked = this;
+				if (clicked.classList.contains('active')) clicked = null;
+
+				$$.rumblesVote.updateButtons(buttons, clicked);
+				$$.servicePost('user.rumbles', {
+					type: elm.getAttribute('data-type'),
+					id: elm.getAttribute('data-id'),
+					vote: clicked ? clicked.getAttribute('data-vote') : 0
+				}, function() {
+
+					if(this.data) {
+						var rumbles_count_el = elm.querySelector(".rumbles-count");
+						if(rumbles_count_el) {
+							elm.querySelector(".rumbles-count").textContent = this.data.score_formatted;
+						}
+
+						if(this.data.num_votes_up !== undefined && this.data.num_votes_down !== undefined) {
+							var up_votes_el = elm.querySelector(".rumbles-up-votes");
+							var down_votes_el = elm.querySelector(".rumbles-down-votes");
+
+							if(up_votes_el) up_votes_el.textContent = this.data.num_votes_up_formatted || this.data.num_votes_up;
+							if(down_votes_el) down_votes_el.textContent = this.data.num_votes_down_formatted || this.data.num_votes_down;
+
+							var rating_bar_fill_el = elm.querySelector(".rating-bar__fill");
+							if(rating_bar_fill_el) {
+								var num_votes_divisor = this.data.num_votes_up + this.data.num_votes_down;
+								var num_votes_width = num_votes_divisor > 0 ? (this.data.num_votes_up / num_votes_divisor) * 100 : 50;
+								rating_bar_fill_el.style.width = num_votes_width + '%';
+							}
+						}
+					} else {
+						$$.removeClass(clicked, 'active')
+					}
+				});
+			});
+		},
+		updateButtons:function(buttons, clicked) {
+			$$.each($$.query(buttons), function() {
+				this === clicked ? $$.addClass(this, 'active') : $$.removeClass(this, 'active');
+			});
+		}
+	};
+
+	var parent = (this != window && typeof this.html == "object") ? this.html : null;
+
+	$$.each($$.query('.rumbles-vote', parent), function(){
+		$$.rumblesVote.attach(this);
+	});
+}).call(this);
+$$.addClick('.media-video-action-embed',function(){
+	$$.serviceGet('media.embed',{video:"agrvv"});
+});
+$$.addClick('.media-description--first', function(){
+	$$.addClass(this.parentNode, 'media-description--expanded');
+});
+
+$$.addClick('.media-description--hide-button', function(){
+	$$.removeClass(this.parentNode, 'media-description--expanded');
+})
+$$.handlePlayerApi = function(api) {
+	var body = document.body,
+		THEATER_MODE_CLASS = 'theater-mode',
+		resizeMode = api.getResizeMode(),
+		p = $$.query('#vid_' + api.getCurrentVideo().id)[0],
+		d=$$.query('#videoPlayer')[0],
+		dt = $$.query('#theaterVideoPlayer')[0],
+		ps = $$.query('#player-spacer')[0],
+		MIN_THEATER_MODE_WIDTH = 900,
+		theaterModeEnabled = window.innerWidth >= MIN_THEATER_MODE_WIDTH;
+
+
+	var is_theater_mode = false;
+
+	function resizePlayerSpacer() {
+		if(Math.abs(ps.offsetHeight - p.offsetHeight) > 1) {
+			ps.style.height = p.offsetHeight + "px";
+		}
+	}
+
+	resizePlayerSpacer();
+
+	function resizeTheaterMode() {
+		if( is_theater_mode ) {
+			dt.style.maxHeight = Math.floor(
+				Math.min(
+					Math.max(window.innerHeight - 56, 80),
+					dt.clientWidth * 9 / 16
+				)
+			) + "px";
+		}
+	}
+
+	api.on("theaterMode", function(do_theater_mode) {
+		is_theater_mode = do_theater_mode;
+
+		// NOTE: This will fire regardless of the current page width!
+
+		if ( do_theater_mode ) {
+			body.classList.add(THEATER_MODE_CLASS);
+			dt.appendChild(p);
+			api.setResizeMode('full');
+			resizeTheaterMode();
+		} else {
+			body.classList.remove(THEATER_MODE_CLASS);
+			d.appendChild(p);
+			api.setResizeMode(resizeMode);
+		}
+	});
+
+	// Tell player to show Theater Mode button
+	if (theaterModeEnabled) {api.sendEvent('enableTheaterMode')}
+
+	api.on('resize', function() {
+		resizePlayerSpacer();
+		resizeTheaterMode();
+	});
+
+	window.addEventListener('resize', function (event) {
+		if (theaterModeEnabled && window.innerWidth < MIN_THEATER_MODE_WIDTH) {
+			api.sendEvent('disableTheaterMode');
+			theaterModeEnabled = false;
+		} else if (!theaterModeEnabled && window.innerWidth >= MIN_THEATER_MODE_WIDTH) {
+			api.sendEvent('enableTheaterMode');
+			theaterModeEnabled = true;
+		}
+	});
+}
+
+$$.onDomReady(function(){
+	var video_comments_el = $$.query('#video-comments')[0];
+
+	if ( !video_comments_el ) return;
+
+	$$.serviceGet("comment.list",{video:"agrvv"}, function() {
+		video_comments_el.textContent = "";
+		video_comments_el.appendChild(this.html);
+	});
+});
+$$.addClick('.media-engage-share', function() {
+	$$.serviceGet('media.share', {video:"agrvv"});
+});
+!function(){function e(){1200<window.innerWidth&&"overlay"==s.mode?(s.is_expanded&&$$.togglePopShow(new MouseEvent("click",{view:window,bubbles:!0,cancelable:!0})),s.setModePermanent()):window.innerWidth<=1200&&"permanent"==s.mode&&s.setModeOverlay()}var i=[],t=document.documentElement,s={element:$$.query("#main-menu")[0],with_permanent_mode:document.documentElement.classList.contains("with-permanent-menu"),mode:"overlay",is_expanded:!1,setModeOverlay:function(){this.mode="overlay",this.element.classList.remove("main-menu-nav-collapsed"),this.element.style.removeProperty("display"),t.classList.remove("main-menu-mode-permanent")},setModePermanent:function(){this.mode="permanent",this.is_expanded||this.element.classList.add("main-menu-nav-collapsed"),this.element.style.display="block",t.classList.add("main-menu-mode-permanent")},toggleExpanded:function(e,n){this.is_expanded=!this.is_expanded,this.is_expanded?t.classList.add("main-menu-expanded"):t.classList.remove("main-menu-expanded"),"permanent"==this.mode?this.element.classList.toggle("main-menu-nav-collapsed"):$$.togglePopShow(e,[n,this.element])}};$$.togglePopShow=function(e,n){var t;if((n=n||[]).length){e.stopPropagation(),e.preventDefault();for(var s=n[0].classList.contains("pop-show"),o=n.length;o--;)t=n[o],s?t.classList.remove("pop-show"):(t.classList.add("pop-show"),i.indexOf(t)<0&&i.push(t))}else for(t=e.target;t instanceof HTMLElement;){if(t.classList.contains("pop-show"))return;t=t.parentNode}for(o=i.length;o--;)n.indexOf(t=i[o])<0&&t.classList.remove("pop-show")},$$.toggleMainMenu=function(e,n){s.toggleExpanded(e,n)},$$.addClick(window,function(e){$$.togglePopShow(e)});s.element&&s.with_permanent_mode&&(e(),setTimeout(function(){var e=$$.query("main")[0],e=(e&&(e.style.transition="margin-left 200ms"),$$.query(".homepage-featured")[0]);e&&(e.style.transition="left 200ms")}),window.addEventListener("resize",function(){e()})),$$.main_menu=s}();
+
+$$.addClick('.main-menu-toggle', function(e) {
+	$$.toggleMainMenu(e, this);
+})
+$$.addServiceClick('.header-upload', 'user.login', {next: "/upload.php"});
+$$.addClick('.header-search-submit',function(e){
+	var i=$$.getByClass('header-search-field'),
+		v=i.value.trim();
+
+	e.preventDefault();
+	if(!$$.isVisible(i)){
+		$$.togglePopShow(e, [i,$$.getByClass('header-search')]);
+		i.focus();
+	}else{
+		if ( v == "" ) {
+			i.focus();
+			return false;
+		}
+
+		var submit_button = e.target;
+
+		if(/^\/user\//g.test(location.pathname)){
+			submit_button.setAttribute("disabled", "");
+			location = location.pathname + "?q="+encodeURIComponent(v);
+			return false;
+		}
+
+		submit_button.setAttribute("disabled", "");
+		location = "/search/all?q="+encodeURIComponent(v);
+	}
+	return false;
+});
+$$.user={"username":false,"logged_in":false};
+addThemeSwitcher( '.js-theme-option' , '.js-theme-option-group' );
+$$.addServiceClick('.header-user','user.login');
+window.google_analytics_uacct='UA-44331619-1';
+window.dataLayer=window.dataLayer||[];
+function gtag(){dataLayer.push(arguments);}
+
+gtag("js", new Date());
+gtag("config","UA-44331619-1",{custom_map:{dimension1:"server",dimension2:"user",metric1:"prebid",metric2:"loadtime"},"server":"web10","user":"Guest",'transport_type':'beacon'});
+gtag("event","web10",{"event_category":"ws","event_label":"US"});
+
+$$.include('//www.googletagmanager.com/gtag/js?id=UA-44331619-1&ext=.js');
+$$.includedJSLibs={"main":1,"web_services":1,"events":1,"error":1,"facebook_events":1,"darkmode":1,"ui_header":1};$$.includedCSSLibs=[]</script> </body>
+</html>

@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
+<title>Die Kliniklüge | Rubikon-Magazin</title>
+<meta content="Die seit einem Jahr beschworene Überlastung der Kliniken wurde bislang nicht einmal im Ansatz Realität." name="description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.rubikon.news/artikel/die-klinikluge" property="og:url"/>
+<meta content="https://www.rubikon.news/uploads/store/db906b6af7569348cbae9c89168155af.jpg" property="og:image"/>
+<meta content="Die Kliniklüge" property="og:title"/>
+<link href="/artikel/die-klinikluge" rel="canonical"/>
+<link href="/favicon.ico" rel="shortcut icon"/>
+<link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/manifest.json" rel="manifest"/>
+<link color="#5bbad5" href="/safari-pinned-tab.svg" rel="mask-icon"/>
+<meta content="#2d89ef" name="msapplication-TileColor"/>
+<meta content="/mstile-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="same-origin" name="referrer"/>
+<meta content="JwVuMMQ38SnaFh_J0kAEwg" name="cubits-verify"/>
+<meta content="rdxv12" name="flattr:id"/>
+<link href="https://www.rubikon.news/artikel.atom" rel="alternate" title="Rubikon Magazin" type="application/atom+xml">
+<link href="/assets/frontend/frontend-ddd5e843bc335d9a1389174d96c8c07f3c21ef19cc734b7bf8170ef77b415c9f.css" media="screen" rel="stylesheet">
+<link href="/assets/frontend/print-cdf4c7231ffb7df61d9ebcc81586c0d706335cd9a47a77d90cb0a54e9740ffa8.css" media="print" rel="stylesheet">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="HzARAcEGtgDGrlZooSMlKm4qz5wg6/Pc1EWoEAldDLrp4SRw/1MnB6fPOdG2SDy481bUh9GS0QJ5uk+fLP4PKg==" name="csrf-token">
+</meta></meta></link></link></link></head>
+<body>
+<a class="skip-main" href="#main">Zum Inhalt:</a>
+<input id="navbar-noscript-toggle" style="display: none;" type="checkbox"/>
+<aside class="sidebar">
+<div class="sidebar-header">
+<label class="button secondary btn-menu icon-close" for="navbar-noscript-toggle"></label>
+</div>
+<div class="search">
+<div class="search__button icon2-search">
+<form accept-charset="UTF-8" action="/artikel/suche" method="get">
+<input name="search_articles[sort]" type="hidden" value="chronologisch absteigend"/>
+<input class="search__field" id="search_articles_query" name="search_articles[query]" type="text"/>
+</form> </div>
+<!--     <input class="search__field" name="search_articles[query]" type="text" placeholder="Suche" /> -->
+</div>
+<nav>
+<ul>
+<li><a href="/artikel">Alle Artikel</a></li>
+<li><a href="/autoren">Autoren</a></li>
+<li><a href="/freunde">Freunde</a></li>
+<li><a href="/kontakt">Team</a></li>
+<li><a href="/newsletter">Newsletter</a></li>
+<li><a href="/unterstuetzen">Unterstützen</a></li>
+</ul>
+</nav>
+<div class="book-promotion">
+<a href="https://www.buchkomplizen.de/unsere-komplizen/rubikon/strategien-der-macht.html" target="_blank"><img alt="Strategien der Macht" class="book-promotion__img" src="https://www.rubikon.news/media/images/1fc5307e0fc7db36fe0c9a7c28ccee9f.jpeg"/></a>
+<div class="book-promotion__text">
+<a class="book-promotion__bookstore" href="/buecher">Unsere Bücher</a>:<br/>
+<a class="book-promotion__link" href="https://www.buchkomplizen.de/unsere-komplizen/rubikon/strategien-der-macht.html" target="_blank">Strategien der Macht</a>
+<br/><span>von</span>
+<a href="https://www.rubikon.news/autoren/roland-rottenfusser">Roland Rottenfußer</a>
+</div>
+</div>
+</aside>
+<label class="sidebar-content-protection" for="navbar-noscript-toggle"></label>
+<div class="topbar">
+<div class="topbar__menu">
+<label class="button tertiary btn-menu icon-menu" for="navbar-noscript-toggle">
+<span class="icon2-menu"></span>
+<span class="topbar__menu--text">Menü</span>
+</label>
+<div class="logo">
+<a class="logo" href="/">
+<img alt="Rubikon" src="/assets/logo-dd0fcd373a0c872bb432f7596d9e700155c5d7fa07ec99a3777d44621e8c61fe.svg">
+</img></a> </div>
+<div class="topbar__support">
+<a class="button button--small-gutter hover-color-blue" href="/unterstuetzen">
+<span class="topbar__support--text">Unterstützen</span><span class="icon2-support"></span>
+</a> </div>
+</div>
+<nav class="topbar__filter">
+<ul>
+<li class=""><a href="/rubrik/1">Fassadendemokratie &amp; Tiefer Staat</a></li>
+<li class=""><a href="/rubrik/6">Medien- &amp; Ideologiekritik</a></li>
+<li class=""><a href="/rubrik/2">Krieg &amp; Frieden</a></li>
+<li class=""><a href="/rubrik/3">Arm &amp; Reich</a></li>
+<li class=""><a href="/rubrik/7">Bildung &amp; Soziales</a></li>
+<li class=""><a href="/rubrik/4">Natur &amp; Umwelt </a></li>
+<li class=""><a href="/rubrik/5">Seele &amp; Bewusstsein</a></li>
+</ul>
+</nav>
+<div class="topbar__filter topbar__filter--mobile">
+<select id="rubric-select">
+<option disabled="" selected="" value="-1">Schwerpunkt wählen</option>
+<option value="/rubrik/1"><a href="/artikel/die-klinikluge">Fassadendemokratie &amp; Tiefer Staat</a></option>
+<option value="/rubrik/6"><a href="/artikel/die-klinikluge">Medien- &amp; Ideologiekritik</a></option>
+<option value="/rubrik/2"><a href="/artikel/die-klinikluge">Krieg &amp; Frieden</a></option>
+<option value="/rubrik/3"><a href="/artikel/die-klinikluge">Arm &amp; Reich</a></option>
+<option value="/rubrik/7"><a href="/artikel/die-klinikluge">Bildung &amp; Soziales</a></option>
+<option value="/rubrik/4"><a href="/artikel/die-klinikluge">Natur &amp; Umwelt </a></option>
+<option value="/rubrik/5"><a href="/artikel/die-klinikluge">Seele &amp; Bewusstsein</a></option>
+</select>
+</div>
+</div>
+<div class="topbar__spacer"></div>
+<div id="main" tabindex="-1">
+<header class="header-normal">
+<div class="header-content">
+<div class="header-image">
+<img alt="Die Kliniklüge" src="/uploads/store/db906b6af7569348cbae9c89168155af.jpg"/>
+</div>
+<div class="article-meta">
+<input id="article-options-dropdown" name="article-options-dropdown" type="checkbox"/>
+<div class="article-options">
+<label for="article-options-dropdown">Artikeloptionen <i class="fa fa-caret-down"></i><i class="fa fa-caret-up"></i></label>
+<div class="options-dropdown">
+<a href="/artikel/die-klinikluge/read" id="read-article" target="_blank">Vorlesen</a>
+<a href="/artikel/die-klinikluge.md">Republizieren als .md</a>
+<a href="/artikel/die-klinikluge.pdf" id="download-pdf" target="_blank">Druckversion als .pdf</a>
+</div>
+</div>
+  
+      Mittwoch, 31. März 2021, 16:00 Uhr<br>
+      ~9 Minuten Lesezeit
+    </br></div>
+<h1>Die Kliniklüge</h1>
+<h2>Die seit einem Jahr beschworene Überlastung der Kliniken wurde bislang nicht einmal im Ansatz Realität.</h2>
+<div class="article-meta">
+      von <a href="/autoren/susan-bonath">Susan Bonath</a>
+<br/><p>Foto: ImageFlow/Shutterstock.com</p>
+</div>
+<div class="article-teaser">
+<p>Horrorbilder aus Bergamo, ein tägliches Bombardement mit „Infektionszahlen“, begleitet von immer neuen Warnrufen vor einer Überlastung der Kliniken: Seit März 2020 rechtfertigt die Politik Lockdown auf Lockdown mit einem Blick in die Glaskugel. Doch allen Dystopien zum Trotz: Eine Datenanalyse belegt eine historisch niedrige Auslastung deutscher Krankenhäuser im ersten Pandemiejahr.</p>
+</div>
+<!-- <div class="social-links">
+      <a href="#">Twitter</a>
+      <a href="#">Facebook</a>
+      <a href="#">Mail</a>
+      <a href="#">Drucken</a>
+    </div> -->
+</div>
+</header>
+<div class="article">
+<div class="article-content">
+<h1>„Historisch niedrige Bettenauslastung“</h1>
+<p>Deutschland sitzt im Dauerlockdown. Die immer neuen Regeln kann kaum noch einer nachvollziehen. Mit Massentests in Schulen und Kindertagesstätten lässt die Politik nun auch den sogenannten Inzidenzwert hochtesten, und gesunden Minderjährigen droht immer neue Quarantäne. Die Zahlen von positiv Getesteten steigen, und wie schon im gesamten Vorjahr warnen Mediziner erneut vor einer Überlastung der Kliniken. Der wissenschaftliche Leiter des <em>Registers der Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin</em> (<em>DIVI</em>), das Kapazitäten und Bettenbelegung erfasst, versuchte sich dabei auch als Politiker: Ein härterer Lockdown müsse her, um <a href="https://www.tagesspiegel.de/politik/drohende-ueberlastung-der-krankenhaeuser-intensivaerzte-fordern-rueckkehr-in-lockdown/27006162.html">schwere Fälle zu verhindern</a>.</p>
+<p>Die neue Dystopie heißt „Killermutation“, eine in Großbritannien erstmals gesichtete Coronavirus-Mutation, die angeblich viel ansteckender und <a href="https://www.mdr.de/wissen/britische-corona-mutation-toedlicher-100.html">tödlicher sei als die bisherige</a>. Allen Versprechen im vergangenen Jahr zum Trotz — „nie wieder Lockdown“ — und ohne jeden Beleg für die Wirksamkeit der massiven Freiheitsbeschränkungen strebt Bundeskanzlerin Angela Merkel (CDU) nun bundesweite <a href="https://www.morgenpost.de/vermischtes/article231918039/Lockdown-Drohen-jetzt-bundesweite-Ausgangsbeschraenkungen.html">Ausgangsbeschränkungen an</a>, derweil die politische Kampagne fürs Impfen mit nebenwirkungsreichen Vakzinen auf Hochtouren läuft.</p>
+<p>Doch der Dystopie von aus den Nähten platzenden Krankenhäusern zum Trotz — die Realität ist anders: Mit Patienten überfüllte Kliniken gab es in Deutschland nie — im Gegenteil. Eine Analyse des <em>Instituts für das Entgeltsystem im Krankenhaus</em> (<em>InEK</em>) ergab eine „historisch niedrige Bettenauslastung“ in deutschen Kliniken im ersten Pandemiejahr. Die Überlastung liegt offenbar allein am Personalmangel und profitorientierten Missmanagement im <a href="https://www.aerzteblatt.de/archiv/218200/COVID-19-Pandemie-Historisch-niedrige-Bettenauslastung">Gesundheitswesen</a>.</p>
+<h1>Millionen Patienten weniger als ein Jahr zuvor</h1>
+<p>Den bisher nur im <em>Ärzteblatt</em> veröffentlichten Daten zufolge sank die Zahl der 2020 abgerechneten Behandlungsfälle gegenüber 2019 sogar massiv um fast 13 Prozent von 19,2 auf 16,8 Millionen. Das heißt: 2020 behandelten die Krankenhäuser in der Bundesrepublik 2,4 Millionen Patienten weniger als 2019.</p>
+<p>Einen besonders starken Rückgang der Fallzahlen verzeichneten die Autoren Ulrike Nimptsch und Reinhard Busse von der <em>Technischen Universität</em> (<em>TU</em>) Berlin in kleinen und mittleren Krankenhäusern. Dort schrumpften die Verweiltage pro Patient um 15 beziehungsweise 13 Prozent, in großen Kliniken um 11 Prozent. Die Bettenauslastung sei damit auf ein „historisches Allzeittief“ zurückgegangen. Gemessen an der Bettenzahl lag diese 2019 bei 75 Prozent. Im Pandemiejahr eins hingegen waren kleine Häuser gerade noch zu 62,1 Prozent, mittlere zu 66,3 Prozent und große Kliniken zu 71,2 Prozent belegt.</p>
+<h1>„COVID-19-Patienten“ ohne COVID?</h1>
+<p>Die neuen Daten bestätigen eine Teilanalyse, welche die <em>Initiative Qualitätsmedizin</em> (<em>IQM</em>) im Februar zu 431 deutschen Kliniken veröffentlicht hatte. Das Fazit daraus: Patientenrückgang um über 13 Prozent, weniger Intensiv- und Beatmungsfälle, auch weniger Patienten mit Atemwegserkrankungen, zu denen die als COVID-19 bezeichnete <a href="https://www.initiative-qualitaetsmedizin.de/covid-19-pandemie">Infektion gezählt wird</a>.</p>
+<p>Letzteres legt nahe: </p>
+<blockquote>
+<p>Viele Kranke, die von Kliniken als „COVID-19-Patienten“ ausgewiesen werden, haben offenbar gar keine COVID-19-Symptome. </p>
+</blockquote>
+<p>Dem <em>DIVI</em> lägen fallbezogene Daten nicht vor, Kriterium für eine Einordnung als COVID-19-Fall sei ein positiver Test, hieß es von dort auf Nachfrage der Autorin. Für die Vermutung sprechen aber die Daten des <em>Robert Koch-Instituts</em> (<em>RKI</em>). Seit März 2020 wurde demnach bei nur knapp einem Prozent der bislang in Deutschland rund 2,7 Millionen positiv Getesteten eine Lungenentzündung diagnostiziert. Am 23. März 2021 waren dies <a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Maerz_2021/2021-03-23-de.pdf?__blob=publicationFile">26.723 Betroffene</a>. Zum Vergleich: Jährlich behandeln deutsche Kliniken bis zu 290.000 Patienten mit <a href="https://www.lungeninformationsdienst.de/krankheiten/lungenentzuendung/verbreitung/index.html#:%7E:text=Lungenentz%C3%BCndung%20in%20Deutschland&amp;text=Es%20wird%20gesch%C3%A4tzt%2C%20dass%20j%C3%A4hrlich,dieser%20Patientinnen%20und%20Patienten%20versterben">Lungenentzündung</a>.</p>
+<p>Eine Recherche der <em>ZEIT</em> ergab zudem: Bis zu 30 Prozent aller Klinikpatienten, die als COVID-Kranke ausgewiesen waren, kamen wegen völlig anderer Probleme, etwa nach einem Unfall oder zur Entbindung. Sie wurden lediglich zufällig positiv getestet. Darüber berichtete unter anderem der <a href="https://www.nordkurier.de/politik-und-wirtschaft/zahl-der-corona-faelle-in-kliniken-uebertrieben-1742474302.html"><em>Nordkurier</em></a>.</p>
+<h1>Von Aufrüstung der Kliniken keine Spur</h1>
+<p>Der viel beschworene Massenansturm auf die Intensivstationen blieb 2020 ebenfalls aus. Zwar verzeichneten die großen Kliniken laut <em>InEK</em>-Daten dort etwa ein Prozent mehr Patienten. Kleine und mittlere Häuser behandelten laut Analyse fünf beziehungsweise zwei Prozent weniger Schwerkranke als 2019.</p>
+<blockquote>
+<p>Dass Krankenhäuser mit weniger als 600 Betten trotzdem über eine höhere Auslastung der Intensivstationen klagten, hatte eine andere Ursache: Sie bauten ihre Betten in diesen um sieben Prozent von 6.697 im Jahr 2019 auf 6.237 in 2020 ab. </p>
+</blockquote>
+<p>Da die Großkliniken ihre Kapazitäten hingegen aufrüsteten, stieg die Zahl der Pflegeplätze in den Intensivstationen in Deutschland in dieser Zeit marginal von 26.581 auf 26.787.</p>
+<p>Das heißt: Allen propagierten Horrorszenarien sowie den Finanzspritzen aus dem Steuertopf und großspurigen Ankündigungen von Bundesgesundheitsminister Jens Spahn (CDU) zum Trotz rüsteten die Kliniken ihre Intensivstationen um insgesamt nur ganze 206 Betten auf, während die Regierung die gesamte Bevölkerung in einen nie dagewesenen Lockdown verbannte — um Überlastung zu vermeiden.</p>
+<h1>Steuergeld für Intensivbetten wohl versickert</h1>
+<p>Dabei hatte das <em>Bundesministerium für Gesundheit</em> (<em>BMG</em>) im März 2020 mehr als eine halbe Milliarde Euro Steuergeld locker gemacht, mit dem die Kliniken ihre Intensivbetten von angeblichen 28.000 auf rund 40.000 <a href="https://www.tagesschau.de/investigativ/kontraste/corona-intensivbetten-101.html">aufstocken sollten</a>.</p>
+<p>Zuerst sah es sogar danach aus. So meldete das <em>DIVI</em>-Register letzten Sommer zeitweise mehr als <a href="https://www.divi.de/divi-intensivregister-tagesreport-archiv/viewdocument/4185/divi-intensivregister-tagesreport-2020-07-31">33.000 Betten</a>. Die Zahl schrumpfte aber zusehends. Ende Oktober 2020 hatte DIVI nur noch knapp 29.000 belegbare Betten <a href="https://www.divi.de/divi-intensivregister-tagesreport-archiv/viewdocument/5183/divi-intensivregister-tagesreport-2020-10-31">registriert</a>, Ende Dezember waren es bereits <a href="https://www.divi.de/divi-intensivregister-tagesreport-archiv/viewdocument/5351/divi-intensivregister-tagesreport-2020-12-31">weniger als 27.000</a>, und Ende März 2021 wies das Intensivregister gar weniger als 24.000 belegbare <a href="https://www.divi.de/joomlatools-files/docman-files/divi-intensivregister-tagesreports/DIVI-Intensivregister_Tagesreport_2021_03_27.pdf">Betten für Erwachsene aus</a>.</p>
+<h1>Bundesweit weniger als 3.000 Intensivbetten für Kinder</h1>
+<p>Laut <em>DIVI</em>-Sprecherin Nina Meckel ist der neuerliche Rückgang der Betten nur einer Änderung in der Darstellung geschuldet. So habe man die Kinder-Intensivbetten nun herausgerechnet und weise sie extra aus, sagte sie der Autorin Anfang März auf Nachfrage. Denn: „Coronapatienten landen ja nicht auf der Kinderstation“, so Meckel. Den Rückgang der gemeldeten Betten im letzten Jahr erklärt das aber nicht. Dies, so Meckel, liege vermutlich nicht an der Anzahl vorhandener, sondern durch Personal auch betreibbarer Betten. Sie mahnte:</p>
+<p><em>„Der Mangel an Intensivkapazitäten hat natürlich etwas mit dem eklatanten Personalmangel zu tun. Hinzu kommen Isolierungs-, Schutz- und Quarantäne-Maßnahmen, und viele Pflegekräfte mussten eigene Kinder betreuen und sind wohl auch darum ausgefallen.“</em></p>
+<p>Damit verbunden sind zwei Skandale: Die 2020 ausgewiesenen Zahlen suggerierten viel mehr Intensivbetten, als tatsächlich belegt werden konnten. Zweitens verfügt die Bundesrepublik über eine erschreckend geringe intensivmedizinische Kapazitäten für Kinder — am 29. März 2021 waren das bundesweit genau 2.790 Betten.</p>
+<p><em>DIVI</em>-Sprecherin Meckel kennt das Problem. Sie sprach von einem großen Drama, das seit vielen Jahren bestehe. „Wir haben immer wieder darauf aufmerksam gemacht“, sagte sie. Geändert hat sich trotz aller Mahnungen und Warnungen bis heute daran nichts.</p>
+<h1>Kliniken pleite, Pflegekräfte arbeitslos oder überlastet</h1>
+<p>Der Profitlogik des Marktes folgend, bringen die gesunkenen Fallzahlen wiederum die Kliniken in wirtschaftliche Probleme. Etlichen Häusern droht die Pleite, wie die <em>Deutsche Krankenhaus-Gesellschaft</em> (<em>DKG</em>) kürzlich warnte. Denn nur genug Patienten, die lukrativ behandelt werden können, spülen über Fallpauschalen <a href="https://www.dkgev.de/fileadmin/default/Mediapool/1_DKG/1.7_Presse/1.7.1_Pressemitteilungen/2020/Appell_zur_Loesung_der_wirtschaftlichen_Probleme_der_Krankenhaeuser_fuer_das_Gesamtjahr_2021.pdf">Geld in die Kasse</a>.</p>
+<blockquote>
+<p>Pandemie hin oder her — wo der Profit schrumpft, sparen auch Kliniken wie jedes Unternehmen zuerst am Personal. </p>
+</blockquote>
+<p>Ein aktuelles Beispiel dafür ist die <em>Asklepios-Stadtklinik</em> in Bad Tölz: Der Privatkonzern will dort neun Pflegekräfte entlassen. Der Verein demokratischer Ärztinnen und Ärzte wirft dem Betreiber „skrupellose und profitgierige <a href="https://www.merkur.de/lokales/bad-toelz/bad-toelz-ort28297/corona-bayern-klinik-entlassungen-stationshilfen-asklepios-verdi-bad-toelz-90245687.html">Geschäftemacherei im Gesundheitswesen“ vor</a>. Auch der Bremer <em>Klinikverbund Gesundheit Nord</em> (<em>Geno</em>) kündigte an, 440 Stellen bis 2024 zu streichen. Man müsse wieder „schwarze Zahlen“ schreiben, so die <a href="https://www.butenunbinnen.de/nachrichten/gesellschaft/bremer-kliniken-stellenabbau-100.html">Begründung</a>.</p>
+<p>So ist es wenig verwunderlich: Im ersten Pandemiejahr sank die Zahl der Pflegekräfte in Krankenhäusern und Altenheimen weiter. Anfang März meldete die <em>Bundesagentur für Arbeit</em> (<em>BA</em>) auf Anfrage der Linksfraktion im Bundestag einen Rückgang um ungefähr 9.000 Beschäftigte in diesem <a href="https://www.berliner-zeitung.de/gesundheit-oekologie/tausende-pflegekraefte-waehrend-der-pandemie-arbeitslos-li.145403">Bereich</a>. In Berlin saßen demnach mehr als 800 Krankenpflegekräfte arbeitslos zu Hause. Im gesamten Bereich der medizinischen Gesundheitsberufe verzeichnete die <em>BA</em> Ende 2020 mehr als 4.500 Fachkräfte ohne Job in der Hauptstadt — und das in einer angeblichen Jahrhundert-Gesundheitskrise.</p>
+<h1>Kranke durch Coronapolitik gefährdet</h1>
+<p>Der Notstand im Gesundheitswesen liegt demnach weniger an der Coronapandemie als daran, dass die Politik die Kliniken schon lange vorher immer dem Wettbewerb des Marktes überließ. Das führte dazu, dass Krankenhäuser bei jeder Grippewelle Behandlungen und Operationen verschoben. Nicht erst seit Corona ist das Pflegepersonal chronisch überlastet und leiden Patienten unter mangelhafter Betreuung.</p>
+<p>Im Frühjahr 2020 ordnete die Bundesregierung sogar an, Behandlungen und OPs zu verschieben, um Betten für COVID-19-Patienten freizuhalten. Für diese leeren Betten floss viel Steuergeld. Für manche Klinik hat sich das weit mehr gelohnt, als Betten zu <a href="https://www.faz.net/aktuell/wirtschaft/krankenhaeuser-psychiatrische-kliniken-als-corona-gewinner-17253860.html">belegen</a>.</p>
+<p>Laut der <em>InEK</em>-Datenanalyse sanken deshalb die Fallzahlen in deutschen Kliniken zwischen dem 9. März und 24. Mai 2020 um 30 Prozent. Danach lagen sie fortgesetzt zehn Prozent unter dem Niveau des Vorjahres — trotz Pandemie. Das führte zu einer dramatischen Mangelversorgung von Patienten mit anderen Erkrankungen — und zur massenhaften Kurzarbeit für Pflegekräfte.</p>
+<p>Die <em>Deutsche Krebshilfe</em> registrierte im Juli 2020 rund 50.000 verschobene Krebsoperationen in den ersten drei <a href="https://www.mdr.de/nachrichten/panorama/krebsoperationen-verschoben-corona-100.html">Pandemiemonaten</a>. Im Dezember 2020 warnten Mediziner erneut vor einer Unterversorgung von Krebspatienten. Immer mehr Eingriffe würden ausgesetzt. Dies bringe die Betroffenen in eine „<a href="https://www.aerzteblatt.de/nachrichten/119347/Experten-warnen-vor-bedrohlicher-Situation-fuer-Krebspatienten-durch-Corona">bedrohliche Situation</a>“.</p>
+<h1>Ahnungsloses Ministerium, gelockdownte Bevölkerung</h1>
+<p>Das <em>Bundesgesundheitsministerium</em> (<em>BMG</em>) berief sich auf Nachfrage der Autorin auf die Eigenverantwortung der einzelnen Krankenhäuser bei der Personalausstattung sowie ein Maßnahmenpaket aus Vor-Coronazeiten. So habe der Bund etwa zwischen Anfang 2016 und Ende 2018 insgesamt 660 Millionen Euro für alle rund 1.800 Kliniken bundesweit zur Verfügung gestellt, um Pflegestellen zu fördern. Seit Anfang 2020 würden Pflegekräfte zudem unabhängig von Fallpauschalen über ein Pflegebudget vergütet, erklärte die Sprecherin. Just genutzt hat es offensichtlich nichts, wie die Realität zeigt. Mehr noch: Um die Krankenhäuser für die „Jahrhundert-Pandemie“ fit zu machen, unternahm die Regierung nichts.</p>
+<p>Auch hat das <em>BMG</em> laut Sprecherin keine Ahnung von Kollateralschäden. Wie viele Krebsoperationen 2020 verschoben, Kliniken geschlossen und Betten abgebaut wurden: Dazu lägen dem Ministerium keinerlei Daten vor. Ebenso wenig weiß die Bundesregierung, wo die Steuermillionen für mehr Intensivkapazitäten versickert sind. Und sie will es wohl auch nicht wissen. Viele Betten, für die Kliniken Fördermittel abgerufen hätten, seien wohl „aufgrund von Liefer- oder Personalengpässen nicht, noch nicht oder nicht mehr betriebsbereit“, so die BMG-Sprecherin. Daher könne man nicht von einer Reduzierung sprechen. Anhand der <em>DIVI</em>-Daten könne das Ministerium auch keinen Abbau erkennen. Kurzum: Entweder will oder kann dort niemand diese Zahlen lesen.</p>
+<p>Die geringe Bettenauslastung führt auch das <em>BMG</em> auf verschobene Behandlungen und Operationen zurück. „Als weitere Ursache wird zudem ein verändertes Inanspruchnahme-Verhalten durch Patienten vermutet“, sinnierte die Sprecherin. Viele hätten wohl auf eine Behandlung verzichtet. Die Folgen sind der Regierung nicht bekannt und interessieren wohl auch nicht. Ausbaden soll es in jeder Hinsicht die Bevölkerung — mit einem Lockdown nach dem anderen, mangelhafter Gesundheitsversorgung, zunehmender Verarmung und Perspektivlosigkeit und mutmaßlich mit Depressionen ohne Ende.</p>
+</div>
+<div class="article-end">
+<div class="shariff article_sharing rs_skip" data-mail-subject="Die Kliniklüge" data-mail-url="mailto:" data-services='["whatsapp","facebook","telegram","twitter","diaspora","mail","print","info"]' data-title="Die Kliniklüge | Rubikon - Magazin für die kritische Masse"></div>
+<img alt="" class="divider-image" src="/assets/ill-feather-0947f794066c6a6fa2b166f1afd221e3e3c5eb00710d02afbec06626aa1e5f6f.png"/>
+<div class="article-sms">
+<div class="article-sms-image">
+<a class="no-border" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">
+<img alt="Spenden per SMS" src="/assets/ic-sms-146d281c37d2c9a5c50fa303d001611ebe453e901bb97c62f9a45b98870a8f52.png"/>
+</a>
+</div>
+<div class="article-sms-info">
+        Hat Ihnen dieser Artikel gefallen? Dann senden Sie einfach eine SMS mit dem Stichwort <strong>Rubikon10</strong> an die <strong>81190</strong> und mit Ihrer nächsten Handyrechnung werden Ihnen 10 Euro in Rechnung gestellt, die abzüglich einer Gebühr von 17 Cent unmittelbar unserer Arbeit zugutekommen.
+        <div class="button-set left"><a class="button primary" href="sms://81190?body=Rubikon10">Jetzt per SMS spenden</a></div>
+</div>
+</div>
+<div class="article-author">
+<div class="article-author-image">
+<a href="/autoren/susan-bonath"><img alt="Susan Bonath" src="/uploads/store/25aa48519adb132490c588cfea54c4f2.jpg"/></a>
+</div>
+<div class="article-author-bio">
+<p><strong>Susan Bonath</strong>, geboren in der DDR, arbeitet seit 2004 als freie Journalistin und berichtet seit 2010 für die <em>junge Welt</em>. Ihre Arbeitsschwerpunkte sind unter anderem Kapitalismuskritik, Arbeit und Soziales. Sie lebt in Sachsen-Anhalt.</p>
+</div>
+</div>
+<div class="article-license">
+<div class="article-license-image">
+<a class="no-border" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">
+<img alt="Creative Commons Lizenzvertrag" src="/assets/ic-cc-3328fe794e7dfbff5a441672472cde808f6df46243cbf1f47ee8af7f2323c264.png"/>
+</a>
+</div>
+<div class="article-license-info">
+          Dieses Werk ist unter einer <strong>Creative Commons-Lizenz</strong> (<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International</a>) lizenziert. Unter Einhaltung der Lizenzbedingungen dürfen Sie es verbreiten und vervielfältigen.
+        </div>
+</div>
+</div>
+</div>
+<div class="wrapper">
+<div class="content wide">
+<h1>Weiterlesen</h1>
+<div class="article-loop">
+<div class="loop-main">
+<article class="article-vertical article-big">
+<a class="article-image" href="/artikel/die-wahnwelt-der-coronaexperten"><img alt="Die Wahnwelt der „Coronaexperten“" src="/uploads/store/ccc7f0334146a419c8e80b8499f3c4cc.jpg"/></a>
+<div class="tag">Thematisch verwandter Artikel</div>
+<h2><a href="/artikel/die-wahnwelt-der-coronaexperten">Die Wahnwelt der „Coronaexperten“</a></h2>
+<p>Lernresistente Hardliner „der Wissenschaft“ fordern weiterhin, dass Ungeimpfte ihre Behandlungskosten selber zahlen sollen.</p>
+<div class="article-meta">
+                24.02.2023
+                von <a href="/autoren/susan-bonath">Susan Bonath</a>
+</div>
+</article>
+</div>
+<div class="loop-other">
+<article class="article-vertical article">
+<a class="article-image" href="/artikel/die-krake-von-davos"><img alt="Die Krake von Davos" src="/uploads/store/3e3886951a6ab1bae9abe22350bd826e.jpg"/></a>
+<div class="tag">Aktueller Artikel</div>
+<h2><a href="/artikel/die-krake-von-davos">Die Krake von Davos</a></h2>
+<div class="moreinfo">
+<p>Ein mutiges Buch klärt über den monströsen Einfluss des Weltweltwirtschaftsforums auf.</p>
+<div class="article-meta">
+                  17.01.2023
+                  von <a href="/autoren/kerstin-chavent">Kerstin  Chavent</a>
+</div>
+</div>
+</article>
+<article class="article-vertical article">
+<a class="article-image" href="/artikel/die-neue-medizin"><img alt="Die neue Medizin" src="/uploads/store/295a4d2c07ea62cae76602295474ab67.jpg"/></a>
+<div class="tag">Aus dem Archiv</div>
+<h2><a href="/artikel/die-neue-medizin">Die neue Medizin</a></h2>
+<div class="moreinfo">
+<p>Die Industriemedizin sollte sich zur Informationsmedizin wandeln.</p>
+<div class="article-meta">
+                  24.08.2018
+                  von <a href="/autoren/kerstin-chavent">Kerstin  Chavent</a>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-wrapper">
+<div class="footer-content">
+<div class="footer1">
+<div class="footer-left">
+<h3>Post vom Rubikon</h3>
+<p>Wenn Sie in regelmäßigen Abständen über neue Veröffentlichungen im „Rubikon — Magazin für die kritische Masse“
+          informiert werden möchten, tragen Sie bitte hier Ihre E-Mail-Adresse ein:</p>
+<form accept-charset="UTF-8" action="/subscription#newsletter" class="newsletter-form" id="new_subscriber" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="d0FV0UOZCLADYyCjVBWXGPdxos9tFWwMPscn91O7wLcT7y8gZhnHfizuOluHQ1dQ3OVNTlzJVmER40Sna4kL8Q=="/>
+<input id="subscriber_email" name="subscriber[email]" placeholder="Ihre E-Mail Adresse" type="email"/>
+<div class="non-visible">
+<input id="subscriber_last_name" name="subscriber[last_name]" placeholder="Ihr Name" type="text"/>
+</div>
+<div class="non-visible">
+<input name="subscriber[checked]" type="hidden" value="0"/><input id="subscriber_checked" name="subscriber[checked]" placeholder="Einverstanden" type="checkbox" value="1"/>
+</div>
+<button class="button secondary" type="submit">Abonnieren</button>
+</form> </div>
+<div class="footer-center">
+<img alt="Exklusives" src="/assets/ill-exklusives_d-80edca19e74a72950368b416c4d1461a7a27f546cbb98790d27a8d86deed8789.png"/>
+</div>
+<div class="footer-right">
+<h3>Der Rubikon</h3>
+<p>Rubikon ist das Magazin für die kritische Masse. Wir berichten über das, was in den Massenmedien nicht zu finden ist. Herausgegeben wird der Rubikon in Mainz, geschrieben wird er von unabhängigen Journalistinnen und Journalisten überall auf der Welt.</p>
+<a class="button larger" href="/spenden">Jetzt spenden</a><br/>
+</div>
+</div>
+<div class="footer2">
+<a href="https://t.me/RubikonMagazin">Telegram</a>
+<a href="https://www.bitchute.com/channel/RubikonMagazin/">Videos</a>
+<a href="https://rubikonmagazin.podbean.com/">Podcasts</a>
+<a href="https://www.rubikon.news/artikel.atom">Newsfeed</a>
+<a href="/newsletter">Newsletter</a>
+</div>
+<div class="footer2">
+<a href="http://www.rubikon-magazin.shop">Shop</a>
+<a href="/buecher">Bücher</a>
+<a href="/freunde">Freunde</a>
+<a href="/kontakt">Team</a>
+<a href="/impressum">Impressum</a>
+<a href="/datenschutz">Datenschutz</a>
+</div>
+<div class="footer3">
+       © 2017–2023 Rubikon | Release 2.0.3 vom 08.04.2022
+    </div>
+</div>
+</footer>
+<script src="/assets/frontend/frontend-c64ff02dee5bfee3153887bcbff62194b33719ae9347db5908059e3b97bc9b9d.js"></script>
+<script>
+var _paq = _paq || [];
+_paq.push(["setCookieDomain", "*.rubikon.news"]);
+_paq.push(["setDomains", ["*.rubikon.news"]]);
+_paq.push(["setDoNotTrack", true]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//stats.rubikon.news/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '2']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<noscript>
+<img alt="Rubikon" src="https://stats.rubikon.news/piwik.php?idsite=2&amp;rec=1" style="border:0"/>
+</noscript>
+</body>
+</html>

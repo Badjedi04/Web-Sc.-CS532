@@ -1,0 +1,568 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The History of "Transhumanism" and the Cult of the WEF's Fourth Industrial Revolution. Pierre Teilhard de Chardin's "Insurgency against Christianity" - Global ResearchGlobal Research - Centre for Research on Globalization</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="index,noarchive,follow,noodp" name="googlebot"/>
+<meta content="all,index,follow" name="robots"/>
+<meta content="all,index,follow" name="msnbot"/>
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/all.css?t=005" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/style.css?t=001" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/favicon2.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900" rel="canonical">
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="The History of &quot;Transhumanism&quot; and the Cult of the WEF's Fourth Industrial Revolution. Pierre Teilhard de Chardin's &quot;Insurgency against Christianity&quot; - Global Research" property="og:title"/>
+<meta content="All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version). Visit and follow us on Instagram at @crg_globalresearch. ***   While Chardin is certainly a racist, in his defense he believed in vastly expanding eugenics for all races, and …" property="og:description"/>
+<meta content="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900" property="og:url"/>
+<meta content="Global Research" property="og:site_name"/>
+<meta content="COP26" property="article:tag"/>
+<meta content="fourth industrial revolution" property="article:tag"/>
+<meta content="Pierre Teilhard de Chardin" property="article:tag"/>
+<meta content="transhumanism" property="article:tag"/>
+<meta content="WEF" property="article:tag"/>
+<meta content="English" property="article:section"/>
+<meta content="2021-10-31T19:51:21+00:00" property="article:published_time"/>
+<meta content="2021-10-31T20:05:32+00:00" property="article:modified_time"/>
+<meta content="2021-10-31T20:05:32+00:00" property="og:updated_time"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2021/10/Ehret-3-930x520.jpg" property="og:image"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2021/10/Ehret-3-930x520.jpg" property="og:image:secure_url"/>
+<meta content="930" property="og:image:width"/>
+<meta content="520" property="og:image:height"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version). Visit and follow us on Instagram at @crg_globalresearch. ***   While Chardin is certainly a racist, in his defense he believed in vastly expanding eugenics for all races, and […]" name="twitter:description"/>
+<meta content="The History of &quot;Transhumanism&quot; and the Cult of the WEF's Fourth Industrial Revolution. Pierre Teilhard de Chardin's &quot;Insurgency against Christianity&quot; - Global Research" name="twitter:title"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2021/10/Ehret-3-930x520.jpg" name="twitter:image"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//maxcdn.bootstrapcdn.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.globalresearch.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.25"}};
+			!function(t,a,e){var r,n,i,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(i=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},n=0;n<i.length;n++)e.supports[i[n]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),o.toDataURL().length<3e3)?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,65039,8205,55356,57096),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,55356,57096),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55357,56425,55356,57341,8205,55357,56507),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55357,56425,55356,57341,55357,56507),0,0),e!==o.toDataURL()}return!1}(i[n]),e.supports.everything=e.supports.everything&&e.supports[i[n]],"flag"!==i[n]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[i[n]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://www.globalresearch.ca/wp-content/plugins/gtranslate/gtranslate-style24.css?ver=4.7.25" id="gtranslate-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/share-this/css/style.css?ver=4.7.25" id="st-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.globalresearch.ca/wp-content/uploads/pum/pum-site-styles.css?generated=1598646263&amp;ver=1.7.30" id="popup-maker-site-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/dk-pdf/assets/css/frontend.css?ver=1.9.6" id="dkpdf-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=5.1" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/simple-pagination/css/default.css?ver=2.1.7" id="simple-pagination-css-css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script src="https://www.globalresearch.ca/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408" type="text/javascript"></script>
+<link href="https://www.globalresearch.ca/wp-json/" rel="https://api.w.org/"/>
+<link href="https://www.globalresearch.ca/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://www.globalresearch.ca/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="https://wp.me/p2vCQD-oapC" rel="shortlink"/>
+<link href="https://www.globalresearch.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.globalresearch.ca%2Fpierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution%2F5759900" rel="alternate" type="application/json+oembed"/>
+<link href="https://www.globalresearch.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.globalresearch.ca%2Fpierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution%2F5759900&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" src="https://ws.sharethis.com/button/buttons.js" type="text/javascript"></script><script type="text/javascript">stLight.options({publisher:'wp.9bffc2a3-d7c6-4a77-b502-4dabc8559ee3'});var st_type='wordpress3.4.1';</script><style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09F}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style>
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<style>
+			.algolia-search-highlight {
+				background-color: #fffbcc;
+				border-radius: 2px;
+				font-style: normal;
+			}
+		</style>
+<link href="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900/amp" rel="amphtml"><link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon-32x32.png" rel="icon" sizes="32x32"/>
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" rel="icon" sizes="192x192"/>
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" rel="apple-touch-icon-precomposed"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" name="msapplication-TileImage"/>
+<style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(51,102,153,.88);}</style>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/jquery.main.js" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/gr.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9062277-1']);
+  _gaq.push(['_setDomainName', 'globalresearch.ca']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:95869,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<link href="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900" rel="canonical"/>
+<meta content="5759900" itemprop="identifier"/>
+<meta content="article" itemprop="pageType"/>
+<meta content="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900" itemprop="url"/>
+<meta content="31 October 2021" itemprop="datePublished"/>
+<meta content="31 October 2021" itemprop="dateModified"/>
+<meta content="Matthew Ehret-Kump" itemprop="author"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2021/10/Ehret-3-930x520.jpg" itemprop="thumbnailUrl"/>
+<meta content="en" itemprop="inLanguage"/>
+<!-- -->
+</link></link></head>
+<body>
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="grtopbar notranslate">
+<div class="grtopnav">
+<div class="grtoplinksleft">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav-top"><li class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5302078" id="menu-item-5302078"><a href="https://www.globalresearch.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302079" id="menu-item-5302079"><a href="https://www.globalresearch.ca/about-2">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302080" id="menu-item-5302080"><a href="https://www.globalresearch.ca/contact-2">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302082" id="menu-item-5302082"><a href="https://store.globalresearch.ca/member/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302083" id="menu-item-5302083"><a href="https://store.globalresearch.ca/">Store</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5449212" id="menu-item-5449212"><a href="https://store.globalresearch.ca/donate/">Donate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5629561" id="menu-item-5629561"><a href="https://www.globalresearch.ca/archives">Archives</a></li>
+</ul></div><div></div></div> </div>
+<div class="grtoplinksright">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav-top"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586040" id="menu-item-5586040"><a href="https://www.globalresearch.ca/region/usa">USA</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586034" id="menu-item-5586034"><a href="https://www.globalresearch.ca/region/canada">Canada</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586036" id="menu-item-5586036"><a href="https://www.globalresearch.ca/region/latin-america-caribbean">Latin America</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586039" id="menu-item-5586039"><a href="https://www.globalresearch.ca/region/sub-saharan-africa">Africa</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586037" id="menu-item-5586037"><a href="https://www.globalresearch.ca/region/middle-east">Middle East</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586035" id="menu-item-5586035"><a href="https://www.globalresearch.ca/region/europe">Europe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586041" id="menu-item-5586041"><a href="https://www.globalresearch.ca/region/russia-and-fsu">Russia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586033" id="menu-item-5586033"><a href="https://www.globalresearch.ca/region/asia">Asia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586038" id="menu-item-5586038"><a href="https://www.globalresearch.ca/region/oceania">Oceania</a></li>
+</ul></div><div></div></div>
+</div>
+</div>
+</div>
+<div id="wrapper">
+<div class="w1">
+<div class="w2">
+<div class="language-holder notranslate" style="text-align: right;width: 260px;">
+<div id="languages">
+<ul>
+<li><a href="https://www.globalresearch.ca/category/italiano/">Italiano</a></li>
+<li><a href="https://www.globalresearch.ca/category/deutsch/">Deutsch</a></li>
+<li><a href="https://www.globalresearch.ca/category/portugues/">Português</a></li>
+<li><a href="https://www.globalresearch.ca/category/srpski/">srpski</a></li>
+<li><a href="https://www.globalresearch.ca/category/arabic">العربية</a></li>
+<li style="margin-right:0"><a href="https://www.globalresearch.ca/category/chinese">中文</a></li>
+</ul>
+<p>Notre site en Français: <a href="https://www.mondialisation.ca/" title="Centre de reserche sur la mondialisation">mondialisation.ca</a></p>
+Nuestro sitio en español: <a href="https://www.globalizacion.ca" target="_blank" title="Globalizacion">Globalizacion</a>
+<br/>
+<a href="https://asia-pacificresearch.com" target="_blank" title="Asia-Pacific Research">Asia-Pacific Research</a>
+</div>
+</div>
+<div class="notranslate" id="header">
+<h1 class="logo_en"><a href="https://www.globalresearch.ca" title="Global Research">Global Research</a></h1>
+<div class="headerright">
+<div class="authorsearch">
+<form action="/authors">
+<input name="query" onblur="if (this.value == '') { this.value='Search Authors...';} " onfocus=" if (this.value == 'Search Authors...') { this.value = ''; }" type="text" value="Search Authors..."/>
+<input id="searchsubmit" src="https://www.globalresearch.ca/images/search-icon.jpg" type="image" value="Search"/>
+</form>
+</div>
+<div class="translatebox" id="translatebox" style="float:left;margin-top:-35px;margin-left:206px;width:175px">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</div>
+<div class="searchbox">
+<form action="https://www.globalresearch.ca">
+<input name="s" onblur="if (this.value == '') { this.value='Search...';} " onfocus=" if (this.value == 'Search...') { this.value = ''; }" type="text" value="Search..."/>
+<input id="searchsubmit" src="https://www.globalresearch.ca/images/search-icon.jpg" type="image" value="Search">
+</input></form>
+</div>
+<div class="newsletter">
+<form action="https://lp.constantcontactpages.com/su/IJiNQuW" id="NLform" method="get" name="ccoptin">
+<input class="emailinput" id="mce-EMAIL" name="EMAIL" onblur="if(this.value=='')this.value='GR Newsletter, Enter Email'" onfocus="if(this.value=='GR Newsletter, Enter Email')this.value=''" type="text" value="GR Newsletter, Enter Email"/>
+<input name="go" src="//www.globalresearch.ca/images/submit-icon.jpg" type="image" value="GO">
+</input></form>
+</div>
+<div class="social-networks">
+<ul>
+<li class="grtv"><a href="http://tv.globalresearch.ca/" target="_blank" title="Global Research TV">grtv</a></li>
+<li class="youtube"><a href="https://www.youtube.com/globalresearchtv" target="_blank" title="Global Research YouTube Channel">youtube</a></li>
+<li class="twitter"><a href="https://twitter.com/CRG_CRM" target="_blank" title="Follow Global Research on Twitter">twitter</a></li>
+<li class="facebook"><a href="https://www.facebook.com/GlobalResearchCRG" target="_blank" title="Connect on Facebook">facebook</a></li>
+<li class="rss"><a href="https://www.globalresearch.ca/feed" title="">rss</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+<div class="notranslate" id="grnavbar">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586043" id="menu-item-5586043"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US Nato War</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586044" id="menu-item-5586044"><a href="https://www.globalresearch.ca/theme/global-economy">Economy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586046" id="menu-item-5586046"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Civil Rights</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586047" id="menu-item-5586047"><a href="https://www.globalresearch.ca/theme/environment">Environment</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586048" id="menu-item-5586048"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586049" id="menu-item-5586049"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586050" id="menu-item-5586050"><a href="https://www.globalresearch.ca/theme/law-and-justice">Justice</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586051" id="menu-item-5586051"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">9/11</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586052" id="menu-item-5586052"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">War Crimes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586053" id="menu-item-5586053"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586054" id="menu-item-5586054"><a href="https://www.globalresearch.ca/theme/culture-society-history">History</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586055" id="menu-item-5586055"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science</a></li>
+</ul></div><div></div></div>
+</div>
+<div class="main-t"></div>
+<div class="main-c">
+<div class="main-content">
+<div id="content" style="width:100%;background:white;">
+<div id="singleArticle">
+<div class="post" id="post-5759900">
+<div class="title">
+<h2 itemprop="headline">The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”</h2>
+<div class="meta">
+<div class="post-info">
+<div class="author">By <a href="https://www.globalresearch.ca/author/matthew-ehret-kump" title="Posts by Matthew Ehret-Kump">Matthew Ehret-Kump</a></div>
+<div class="grDate">Global Research, October 31, 2021</div>
+<div class="sourceDate"> <a href="https://www.strategic-culture.org/news/2021/10/26/pierre-teilhard-de-chardins-transhumanism-and-the-cult-of-the-fourth-industrial-revolution/" target="_blank">Strategic Culture Foundation</a> 26 October 2021</div>
+</div>
+<div class="catAndTag">
+<div class="cats">Theme: <a href="https://www.globalresearch.ca/theme/intelligence" rel="tag">Intelligence</a></div>
+</div>
+</div>
+<div class="sharethis">
+<div class="sharethisleft">
+<span style="float:left"><span class="fontSize" style="float:left"><a href="#" id="toggleFont"></a></span> <p id="print-page-link" style="margin: 10px 0px;"><a href="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900?print=1" id="print-link" rel="nofollow"><img src="https://www.globalresearch.ca/wp-content/plugins/print-me/images/printme.png" style="width: 25px;height: 25px;" title="print"/></a></p></span> <span> <a href="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900?pdf=5759900" target="_blank"> <img src="/wp-content/uploads/2021/05/pdf01.png" style="height:23px;width:20px;margin-top:3px;margin-left:7px;"/> </a> </span> <span style="float:right;margin-left:10px;width:130px;">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</span>
+</div>
+<div class="sharethisright" style="display:flex;overflow:clip;max-height:25px;align-items:center;">
+<span class="st_facebook_hcount" displaytext="facebook" st_title="The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”" st_url="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900"></span>
+<span class="st_fblike_hcount" displaytext="fblike" st_title="The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”" st_url="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900" style="height:26px"></span>
+<span class="st_twitter_hcount" displaytext="twitter" st_title="The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”" st_url="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900" st_username="grtvnews" st_via="grtvnews"></span>
+<span class="st_email_hcount" displaytext="email" st_title="The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”" st_url="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900"></span>
+<span class="st_plusone_hcount" displaytext="plusone" st_title="The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”" st_url="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900" style="width:1px; display: inline-block"></span>
+<span class="st_sharethis_hcount" displaytext="sharethis" st_title="The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”" st_url="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900"></span>
+</div>
+</div>
+</div>
+<div class="content" itemprop="articleBody">
+<div class="postThumbnail">
+<img alt="" class="attachment-single-post-thumbnail size-single-post-thumbnail wp-post-image" height="224" sizes="(max-width: 400px) 100vw, 400px" src="https://www.globalresearch.ca/wp-content/uploads/2021/10/Ehret-3-930x520-400x224.jpg" srcset="https://www.globalresearch.ca/wp-content/uploads/2021/10/Ehret-3-930x520-400x224.jpg 400w, https://www.globalresearch.ca/wp-content/uploads/2021/10/Ehret-3-930x520-300x168.jpg 300w, https://www.globalresearch.ca/wp-content/uploads/2021/10/Ehret-3-930x520-768x429.jpg 768w, https://www.globalresearch.ca/wp-content/uploads/2021/10/Ehret-3-930x520.jpg 930w" width="400">
+</img></div>
+<p>All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version).</p>
+<p>Visit and follow us on Instagram at @<a href="https://www.instagram.com/crg_globalresearch/">crg_globalresearch</a>.</p>
+<p>***</p>
+<p> </p>
+<p><em>While Chardin is certainly a racist, in his defense he believed in vastly expanding eugenics for all races, and called for employing the best of science to improve the human gene pool, <strong>Matthew Ehret</strong> writes.</em></p>
+<p>***</p>
+<p>As we approach the long-awaited COP26 summit in the UK, one gets a sense of a creepy cultish mode of speaking among some of the top echelons of imperial thinkers setting the cultural tone for the proceedings which profess to profoundly transform a new epoch in human history. World Economic Forum shining stars like <strong>Yuval Harari, Klaus Schwab</strong>, and<strong> Ray Kurzweil</strong> speak giddily about an impending evolutionary shift where human society will become something more than human.</p>
+<p>Renowned futurist and lead Google Engineer Ray Kurzweil gave this moment of bifurcation a name: “The Singularity”. In 2005, he described this moment <a href="https://www.brookings.edu/research/our-cyborg-future-law-and-policy-implications/" rel="noopener noreferrer" target="_blank">saying</a>:</p>
+<p style="padding-left: 30px;">“Our version 1.0 biological bodies are likewise frail and subject to a myriad of failure modes… The Singularity will allow us to transcend these limitations of our biological bodies and brains… The Singularity will represent the culmination of the merger of our biological thinking and existence with our technology, resulting in a world that is still human but that transcends our biological roots. There will be no distinction, post-Singularity, between human and machine or between physical and virtual reality.”</p>
+<p>Kurzweil and Harari even predicted the date 2050 to be the magical moment which the new age of human-machine unification will be consolidated, as artificial intelligence, bio-engineering babies with CRISPR technology, and interfacing our brains with microchips in the ‘internet of things’ will finally see the birth of a new species.</p>
+<p>In a <a href="https://www.youtube.com/watch?v=hL9uk4hKyg4" rel="noopener noreferrer" target="_blank">2018 WEF sermon</a>, Harari said:</p>
+<p style="padding-left: 30px;">“We are probably among the last generations of homo sapiens. Within a century or two, Earth will be dominated by entities that are more different from us, than we are different from Neanderthals or from chimpanzees. Because in the coming generations, we will learn how to engineer bodies and brains and minds. These will be the main products of the 21<sup>st</sup> century economy.”</p>
+<p>Other modern geniuses in today’s secular pantheon of demigods like Mark Zuckerberg and Elon Musk have poured billions into ventures such as <a href="https://elonmuskneuralink.com/" rel="noopener noreferrer" target="_blank">Neuralink</a> and Facebook’s <a href="https://observer.com/2019/10/mark-zuckerberg-ai-brain-chip-elon-musk-neuralink/" rel="noopener noreferrer" target="_blank">brain-chip interface</a> plans to advance this new age and “keep humans relevant” in the face of machines that will certainly send our frail species to the dinosaurs.</p>
+<p>Will God play a role in these futurist equations?</p>
+<p>Of course not. Modern evolutionary science has proven that all talk of God, soul, meaning, and purpose are absurd.</p>
+<p>All we have is complexity, bifurcation (transformation of states), and random stochastic motion of atoms in a nihilistic world of chance. Luckily, intelligent design has finally emerged in this new era out of the chaotic whimsy of all past epochs… and those intelligent designers are found among Harari’s sponsors who control such power structures as Google, Facebook, Microsoft and other power structures sitting atop the pyramidal hierarchy in this new dystopia. (1)</p>
+<p>Listening to any of them talk, you sort of get the feeling that Harari and his elite group of Davos philosophers wish to become the high priests of a new synthetic religion named Transhumanism.</p>
+<p>Before one gives in to the notion that either “The Singularity” or “Transhumanism” are in any way novel concepts that arose in the minds of these luminaries of the Great Reset, rest assured, that as powerful as these modern priests may appear to be, creative they are not.</p>
+<p>In fact the very essence of the Singularity and Transhumanism find their origins in the earliest formulations of Galton’s eugenics and Nietzsche’s cynical revival of the old theories of Gorgias.</p>
+<p><strong>Galton, Darwin and Nietzsche: The Rise of the Ubermenschen Cult</strong></p>
+<p>It was Friedrich Nietzsche who taught, following Gorgias’ student Callicles 2000 years earlier, that it is only by courageously severing ourselves from the illusory force of our conscience, that we may tap into the creative energy and strength needed to impose our will onto the weak in a struggle for survival. The new human to emerge out of this struggle of ‘will to power’ over the weak and unfit would become a new breed of elite Uber menschen capable of directing evolution according to scientific principles.</p>
+<p>The Nietzschean eugenicists orbiting the elitist and ironically inbred world of Francis Galton absorbed this immoral ethic into their new scientific religion which utilized statistics to decide whose lives would be worth preserving, and whose worth eliminating via euthanasia, sterilization or selective breeding.</p>
+<p>In his essay <a href="https://galton.org/essays/1900-1911/galton-1904-am-journ-soc-eugenics-scope-aims.htm" rel="noopener noreferrer" target="_blank"><em>Eugenics: Its Definition, Scope and Aims</em></a> (1904) Galton said that this new science:</p>
+<p style="padding-left: 30px;">“must be introduced into the national conscience, like a new religion. It has, indeed, strong claims to become an orthodox religious, tenet of the future, for eugenics co-operate with the workings of nature by securing that humanity shall be represented by the fittest races…. I see no impossibility in Eugenics becoming a religious dogma among mankind.”</p>
+<p>The most important keystone giving structural cohesion to the theories of both Nietzsche and Galton were found in the writings of a work published in 1859 titled <a href="https://archive.org/details/originofspecies00darwuoft" rel="noopener noreferrer" target="_blank"><em>The Origin of Species</em></a> by one Charles Darwin. If Darwin’s theories explaining the causes of new species fell, then so too would any arguments held by the devotees of Nietzsche and Galton’s eugenicists.</p>
+<p>Why?</p>
+<p>In simple terms: Darwin’s theory (which simply <a href="https://www.strategic-culture.org/news/2020/05/13/how-huxleys-x-club-created-nature-magazine-sabotaged-science-150-years/" rel="noopener noreferrer" target="_blank">re-packaged the ideas outlined earlier by Thomas Malthus</a>) demands that it be assumed that new species arise from randomness and gradual change devoid of creative leaps. The Darwinian model broke with other theories that sought to find directionality, purpose, harmony, and reason in nature by imposing random mutations on the very small.</p>
+<p>These random mutations were akin to dice constantly being rolled on a roulette table which occasionally give the “winner” of evolutionary craps that bigger claw, or faster sprint or prettier feather needed to beat out the weaker, slower or less pretty competitor in the race for satisfying our appetites within a world of diminishing returns. Since randomness replaced the “outdated” concept of motive force inherent in deism, no over arching directionality were permissible in this Darwinian universe. Only change and complexity devoid of morality.</p>
+<p><img alt="" class="wp-image-759517 aligncenter" height="361" src="https://www.strategic-culture.org/wp-content/uploads/2021/10/me26102101.jpg" width="599"/></p>
+<p>Of course, this theory didn’t satisfy the actual fossil records which were devoid of creative leaps, or randomness (or basic common sense for that matter), but that was nothing <a href="https://www.strategic-culture.org/news/2020/05/13/how-huxleys-x-club-created-nature-magazine-sabotaged-science-150-years/">a vast amount of propaganda</a> couldn’t hope to solve.</p>
+<p>Religion was of course a major problem, and even though it is often asserted arrogantly that all opponents of Darwinism were simple minded creationists who all adhered to a literal interpretation of scripture, the truth is far different. Figures like James Dwight Dana, Benjamin Silliman, Charles Cuvier, Jean-Baptiste Lamarck and Karl Ernst von Baer all approached evolution from the standpoint of harmonics (how do parts within a whole and how do species fit into a biosphere)? They also addressed, to varying degrees such matters as purpose, intention and creative change.</p>
+<p>Within the first years of the 20<sup>th</sup> century, the overarching spirit of God was not fully broken, and cultural optimism still prevailed as a dominant force even among scientists. Discoveries made by great minds like Max Planck, Dimitry Mendeleev, Madame Curie, Albert Einstein, and countless others only confirmed the belief that the universe was not only ordered and reasonable, but also that a profound harmony existed within the human species and all of creation. Those who lived within this optimistic cultural field believed that it were both necessary and possible to end imperialism and establish a world of peace, justice and cooperation likened to St. Augustine’s <em>City of God</em> on this earth before the new millennium.</p>
+<p>Such scientists didn’t believe this passively of course, but acted as living proofs of principle by 1) making discoveries of principle, 2) sharing those discoveries with others and 3) translating those discoveries into new forms of scientific and technological progress.</p>
+<p>To the degree that this were done (and to the degree that political economic systems conformed to this reality), the Nietzschean science of eugenics was an impossible pill to swallow.</p>
+<p><strong>Enter Pierre Teilhard de Chardin</strong></p>
+<p>Born in 1881 in Auvergne, France, <strong>Pierre Teilhard de Chardin</strong> was enrolled in a Jesuit school at 14 and when the order was barred from France in 1901, finished his studies in England where he fell under the influence of a leading modernist theologian named George Tyrrell. The modernists were obsessed with reconciling Christianity with the new ethics and science emerging in the modern age. One of the most difficult challenges confronted by Jesuit modernists within the church during this period was reconciling the two seemingly irreconcilable systems of Christianity and Darwinism. Where Christianity saw mankind as sacred, the mechanistic universe of Darwinian evolution denied the existence of the divine in humanity or the broader universe.</p><div data-widget-id="rel_89-4"> </div>
+<p>Harmonizing these two worlds became Chardin’s new mission in life.</p>
+<p>It wasn’t long before Chardin’s talents were recognized as the young man had already acquired a following of devotees amidst his own classmates and even some superiors of the order. After teaching paleontology in Cairo for three years (1905-1908), Chardin was called to return for a relaxing holiday in Piltdown England, when lo and behold, one of the greatest discoveries in history occurred during a short walk as Chardin discovered a skull and bone fragments in a field. It was 1912 and the skull and jawbone were hailed as the long awaited “missing link” between ape and man whose absence frustrated gradualist Darwinians for decades.</p>
+<p>International press trumpeted the new discovery as the great proof that Darwin was right, and soon a team of British archeologists were deployed by the Royal Academy to finish the excavation work. Although Chardin quickly became a celebrity, rumblings of doubt among the scientific community persisted- especially among dentists. Why were there no teeth found amidst the Piltdown Man? Why did the jawbone look so similar to that of an orangutang?</p>
+<p>Despite the excavation site being remarkably unprotected, with bystanders frequenting the site to poke around freely for weeks, Chardin soon returned once more on holiday and conveniently stumbled on a tooth that no one else saw. This second earth shattering discovery again sent his meteor ever further into space and it wasn’t until years later (1953!) that scientists studying the remains conclusively proved that the Piltdown Man really was a monkey jaw died and shaved along with a human skull. The true owner of the tooth found by Chardin was a dog (painted and shaved carefully to fit the jaw).</p>
+<p>In the wake of WWI, Chardin found himself stationed in China, where he would live out the next 20 years of his life.</p>
+<p><strong>The Truth of Chardin’s Misanthropic Faith</strong></p>
+<p>His theories of a new neo-Darwinism Christianity became extremely popular among wide groupings of his fellow Jesuits, but also sparked concern in Rome where influential bishops and Cardinals were troubled by his work which began challenging fundamental dogma of the Church itself and even the nature of the divinity of Christ, the nature of sin, forgiveness, and mass. It was just too much for the Church to bear and Chardin was soon deprived of his rights to teach or publish his theories and was told instead to focus on missionary work.</p>
+<p>To this command Chardin was disgusted, having demonstrated a rather deep antipathy for the Chinese and the poor in general (he never bothered to learn even the rudiments of the Chinese language despite being forced to live there for over 20 years).</p>
+<p>Chardin’s racism was seen early on, when in 1929 he wrote<em>:</em></p>
+<p style="padding-left: 30px;">“Do the yellows [the Chinese] have the same human value as the whites? [Father] Licent and many missionaries say that their present inferiority is due to their long history of Paganism. I’m afraid that this is only a ‘declaration of pastors.’ Instead, the cause seems to be the natural racial foundation…Christian love overcomes all inequalities, but it does not deny them.”</p>
+<p>In another letter in 1936, Chardin lays out his hate for both the equality of races and nationalism which he believes should be replaced by a new scientific religion:</p>
+<p style="padding-left: 30px;">“The philosophical or ‘supernatural’ unity of human nature has nothing to do with the equality of races in what concerns their physical capacities to contribute to the building of the world. … As not all ethnic groups have the same value, they must be dominated, which does not mean they must be despised—quite the reverse…In other words, at one and the same time there should be official recognition of: (1) the primacy/priority of the earth over nations; (2) the inequality of peoples and races. Now the second point is currently reviled by Communism…and the Church, and the first point is similarly reviled by the Fascist systems (and, of course, by less gifted peoples!).”</p>
+<p><strong>Piltdown Man Hoax 2.0</strong></p>
+<p>While avoiding as much human contact with the Chinese as possible, Chardin kept himself extremely busy travelling all over China, Tibet, Xinjiang, Burma and even the USA between 1923-1945. At one point Chardin spent some months in Peking where he joined a Rockefeller Foundation-funded expedition that uncovered a new missing link in 1926. The suspicion that the earlier Piltdown Man was a hoax was spreading across the scientific community, but that didn’t stop Chardin from publishing several scientific papers on his new find creating a new sensation across the world.</p>
+<p>Finally, a missing link between ape and man was really discovered and Darwin’s theory could finally be said to be proven true! It was even given a name: Peking Man.</p>
+<p>Sadly, anyone wishing to investigate these claims were hard out of luck as the hundreds of bone fragments were quickly plopped in a crate to be sent to the USA for further examination, when they were mysteriously lost, never to be found again. Chardin strangely seemed to feel no remorse over this loss and made zero attempt to track down the prized find. He simply told his friends that there was no point crying over spilt milk and that everyone should go about their day with a renewed faith that Darwinism must be accepted as the essence of Christianity.</p>
+<p>To demonstrate the enduring strength of this Piltdown Hoax 2.0, scientists to this very day treat it as a fait accompli <a href="https://www.smithsonianmag.com/science-nature/mystery-of-the-lost-peking-man-fossils-solved-166415409/" rel="noopener noreferrer" target="_blank">and continue to write apologetics for the missing bones.</a></p>
+<p><strong>Creating a New Religion</strong></p>
+<p>If there is any doubt that Chardin saw himself as a new Moses carrying out a total insurgency against Christianity, let them simply read his letter to a friend in 1936 <em>“What increasingly dominates my interest is the effort to establish within myself, and to diffuse around me, a new religion (let’s call it an improved Christianity if you like) whose personal God is no longer the great Neolithic landowner of times gone by, but the Soul of the world.”</em></p>
+<p>In a letter dated March 21, 1941, he wrote:</p>
+<p style="padding-left: 30px;">“I cannot fight against Christianity; I can only work inside it by trying to transform and convert it. A revolutionary attitude would be much easier, and much more pleasant, but it would be suicidal. So I must go step by step, tenaciously.”</p>
+<p>While many are attracted to such concepts as “the soul of the world” and “a personal god” it is worth asking what sort of new religion and God was Chardin creating?</p>
+<p>First of all, Chardin’s new <strong>Darwinian Christianity</strong> professed to gloss over the problematic randomness function inherent in Darwin’s original directionless system by inserting a form of directionality… but not one encumbered by the idea of morality, purpose or “better/worse”. Instead, Chardin’s directionality would be tied to a future “Omega Point” at which moment humanity would somehow bifurcate into a new evolutionary organism akin to Ray Kurzweil’s idea of “The Singularity” now in vogue.</p>
+<p>In Chardin’s system, this future omega point is teleologically driving the increased rate of complexity across time with the entire universe divided into four phases: 1) the big bang creation of the universe (cosmogenesis), 2) the emergence of life (biogenesis), 3) the emergence of cognition (homogenesis) and 4) the spiritual convergence of humanity (Christogenesis). The third phase was also dubbed the age of the Noosphere by Chardin, while the fourth phase is the Omega Point.</p>
+<p>Chardin’s Noosphere would be a very different beast from the Noosphere of the <a href="https://risingtidefoundation.net/2021/06/03/the-end-of-closed-system-geopolitics-and-the-rise-of-open-system-development-vernadskys-law-for-the-21st-century/" rel="noopener noreferrer" target="_blank">Brilliant Russian Academician Vladimir Vernadsky</a> (1863-1945) who was locked into his own parallel fight against the mechanists attempting to crush the soul of science in Russia and which will be the feature of a future article.</p>
+<p><strong>Beyond Good and Evil</strong></p>
+<p>Replacing the concept of moral change (change for better or worse according to a universal standard of right vs wrong), Chardin introduces the idea of “quantitative complexity”. In fact, in his neo-Darwinian system, acts of evil become themselves acts of pure nature devoid of any moral judgement.</p>
+<p>In his <em>Comment je vois les Choses</em>, Chardin says:</p>
+<p style="padding-left: 30px;">“In our modern perspective of a Universe in a process of cosmogenesis, the problem of evil no longer exists.” Events are “essentially subject to the play of probabilities of chance in its arrangements… it is absolutely unable to progress toward unity without engendering [evil] here or there by statistical necessity”.</p>
+<p>The very act of bloodshed, war and evil on the earth were merely necessary events on the path of life governed by that beautiful future Omega Point whereby humanity would evolve into a transhuman species of loving cyborgs. Former Jesuit historian Malachi Martin wrote that: <em>“Teilhard was not overly shocked by bloodshed, regarded violence as a necessary concomitant of Evolution, and seemed to have enjoyed war- what he saw of it. Death, bloody or otherwise, was what he called a ‘mutation’.”</em></p>
+<p>Since evil had no actual existence in Chardin’s system (statistics and complexity being the simple effect of Darwinian forces in a struggle for survival), there is nothing stopping him from extolling the virtues of racially targeted eugenics in a closed system of limited resources. In <a href="https://archive.org/details/HumanEnergy"><em>Human Energy</em></a>, Chardin writes:</p>
+<p style="padding-left: 30px;">“What fundamental attitude…should the advancing wing of humanity take to fixed or definitely unprogressive ethnical groups? The earth is a closed and limited surface. To what extent should it tolerate, racially or nationally, areas of lesser activity? More generally still, how should we judge the efforts we lavish in all kinds of hospitals on saving what is so often no more than one of life’s rejects?…To what extent should not the development of the strong…take precedence over the preservation of the weak?”</p>
+<p>Pure Nietzsche, Galton and Malthus (the latter also wearing the frock of a holy man).</p>
+<p><strong>Embracing Eugenics</strong></p>
+<p>While Chardin is certainly a racist, in his defense he believed in vastly expanding eugenics for all races, and called for employing the best of science to improve the human gene pool:</p>
+<p style="padding-left: 30px;">“For a complex of obscure reasons, our generation still regards with distrust all efforts proposed by science for controlling the machinery of heredity, of sex-determination and the development of the nervous systems. It is as if man had the right and power to interfere with all the channels in the world except those which make him himself. And yet it is eminently on this ground that we must try everything, to its conclusion.”</p>
+<p>In 1951, Chardin re-amplified his call for a science and religion of eugenics:</p>
+<p style="padding-left: 30px;">“So far we have certainly allowed our race to develop at random, and we have given too little thought to the question of what medical and moral factors must replace the crude forces of natural selection should we suppress them. In the course of the coming centuries it is indispensable that a nobly human form of eugenics, on a standard worthy of our personalities, should be discovered and developed. Eugenics applied to individuals leads to eugenics applied to society.”</p>
+<p>Chardin’s Omega Point here takes on ever greater meaning as the masquerade of “Christ consciousness” and “global love” is torn from the sweet veneer of his message and the full misanthropic eugenical fanaticism of a high priest in some dystopic scientific dictatorship can now be seen. Chardin’s close friendship with the founder of Transhumanism (and leading eugenicist) Sir Julian Huxley here takes on new meaning as well.</p>
+<p><strong>Julian and Pierre: High Priests of Transhumanism</strong></p>
+<p>Writing of his admiration of Huxley in 1941, Chardin said to a friend:</p>
+<p style="padding-left: 30px;">“I am continuing to work towards a better presentation, clearer and more succinct, of my ideas on the place of man in the universe. Julian Huxley has just brought out a book, or rather a series of essays, called The Uniqueness of Man, in a way so parallel to my own ideas (even though without integrating God as the term of the series) that I feel greatly cheered.”</p>
+<p>It is no paradox that the radical atheistic Huxley and the Jesuit priest Chardin found in each other, a kindred spirit.</p>
+<p>Julian had been hard at work for decades trying to salvage his grandfather’s work in re-packaging Darwin alongside H.G. Wells and J.B.S. Haldane under a new system called <a href="https://library.missouri.edu/specialcollections/exhibits/show/darwin/genes" rel="noopener noreferrer" target="_blank">The New Evolutionary Synthesis</a> (outlined in Huxley’s <em>Uniqueness of Man</em> cited by Chardin above). This ‘New Synthesis’ was essentially identical to Chardin’s thesis except devoid of any pretense to harmonize with Biblical scripture.</p>
+<p>Chardin was so moved by admiration not only for Julian but the entire Huxley clan, that he wrote his <a href="https://archive.org/details/MansPlaceInNature/page/n2/mode/2up?q=huxley" rel="noopener noreferrer" target="_blank">1949 ‘Man’s Place in Nature’</a> as an homage to Thomas Huxley’s 1904 ‘<a href="https://www.gutenberg.org/files/40257/40257-h/40257-h.htm" rel="noopener noreferrer" target="_blank">Man’s Place in Nature and Other Anthropological Essays</a>’. Julian in turn was so moved by Chardin’s thesis that he wrote the introduction to the priest’s famous treatise <a href="https://archive.org/details/ThePhenomenonOfMan" rel="noopener noreferrer" target="_blank">The Phenomenon of Man</a>.</p>
+<p>In his <a href="https://archive.org/details/TheFutureOfMan/page/n7/mode/2up" rel="noopener noreferrer" target="_blank">Future of Man</a>, Chardin wrote that his Omega Point “represents our passage, by translation or dematerialization, to another sphere of the Universe: not an ending of the Ultra-Human but its accession to some sort of Trans-Human at the ultimate heart of things”</p>
+<p>Julian Huxley paid homage to Chardin’s Peking man hoax while discussing his parallel views of Transhumanism in 1957 writing in his <a href="https://archive.org/details/NewBottlesForNewWine" rel="noopener noreferrer" target="_blank">New Bottles for New Wine</a>:</p>
+<p style="padding-left: 30px;">“I believe in transhumanism: once there are enough people who can truly say that, the human species will be on the threshold of a new kind of existence, as different from ours as ours is from that of Peking man. It will at last be consciously fulfilling its real destiny.”</p>
+<p>It is here worth keeping in mind that Julian wasn’t merely an ivory tower commentator, <a href="https://www.strategic-culture.org/news/2021/05/24/how-the-unthinkable-became-thinkable-eric-lander-julian-huxley-and-the-awakening-of-sleeping-monsters/" rel="noopener noreferrer" target="_blank">but an extremely active grand strategist</a>, having acted as President of the British Eugenics Society, founded the world’s first environmental organizations (the International Union for the Conservation of Nature (IUCN) and its off-shoot the World Wildlife Fund) and also founded United Nations Education Science and Cultural Organization (UNESCO) in 1946. <a href="https://archive.org/details/huxley-unesco-its-purpose-and-philosophy" rel="noopener noreferrer" target="_blank">In the manifesto for UNESCO</a>, Huxley had explicitly called for reviving eugenics as the most important of all sciences while inducing humanity to accept a world government.</p>
+<p><a href="https://www.strategic-culture.org/news/2021/05/31/from-russell-and-hilbert-to-wiener-and-harari-the-disturbing-origins-of-cybernetics-and-transhumanism/" rel="noopener noreferrer" target="_blank">Cybernetics</a> (the science of control using binary processing and machines as models for human minds and society as a whole) was emerging onto the scene by 1945. Chardin tapped directly into this current with a robust enthusiasm of a religious cult leader, even calling for a merging of humanity with machines long before it became cool. In his <em>Future of Man</em> we see Chardin ask rhetorically:</p>
+<p style="padding-left: 30px;">“How can we fail to see the machine as playing a constructive part in the creation of a truly collective consciousness?.. I am thinking, of course, in the first place of the extraordinary network of radio and television communications which… already link us all in a sort of “etherized” universal consciousness. But I am also thinking of… those astonishing electronic computers which, pulsating with signals at the rate of hundreds of thousands a second, not only relieve our brains of tedious and exhausting work but, because they enhance the essential (and too little noticed) “speed of thought,” are also paving the way for a revolution in the sphere of research… all these material instruments… are finally nothing less than the manifestation of a kind of super-Brain, capable of attaining mastery over some super-sphere in the universe.”</p>
+<p>Towards the end of his life, a friend asked him how he feels about his works still being banned from publication by the Church. He responded by saying <em>“I have so many friends now, in good strategic positions, that I have no fear of the future. I have won the game.”</em></p>
+<p>When he died in 1955, Chardin’s works were still largely banned as heresy by the Vatican. His work continued to spread as a sort of Soviet-era samizdat recruiting ever more converts to his particular “new and improved Christianity”. The logic used by Chardin’s followers in support of this new cybernetics-brand of religion in opposition to the dogmatic traditionalists of the Vatican was that since the times were changing, so too must religion. The world of the nation state, industrial growth and individualism was a thing of the outdated conservative era. The post-nation-state world of collective planetary consciousness was upon us as society moved towards a mystical omega point. This faith meant that Christianity had to evolve with the times like any creature wishing to avoid extinction within a Darwinian fight for survival.</p>
+<p>Over the ensuing decades, followers of Chardin played a major role in shaping the outcome of the Church’s decentralization and liberalization in the form of Vatican II launched by Pope John XXIII in 1962. These same networks concentrated in Ibero-America innovated a new form of doctrine called “Liberation Theology” with the logic that Marxism was the purest expression of Christ’s message and that all true Christians were obliged to take up La Revolutione against capitalism around the world during the dark days of the Cold War. When asked what should be done about the stagnant catholic Church, Chardin called for this new revolutionary Marxist-merger by saying “a good dip into Marxism might start things moving again.”</p>
+<p>While Pope John Paul I and II tried to push back against this deconstruction of Christianity, a touch of poison and a couple of assassin’s bullets brought the Holy See quickly back into line, as the ground was set for a full Jesuit takeover of the Church and integration of Christianity into a new eugenics-driven religion.</p>
+<p>These topics will be unpacked in a future article.</p>
+<p>*</p>
+<p style="text-align: left;">Note to readers: Please click the share buttons above or below. Follow us on Instagram, @crg_globalresearch. Forward this article to your email lists. Crosspost on your blog site, internet forums. etc.</p>
+<p style="text-align: left;"><em><strong>Matthew J.L. Ehret</strong> is a journalist, lecturer and founder of the Canadian Patriot Review. He can be reached at matthewehret.substack.com</em></p>
+<p style="text-align: left;"><em>He is a frequent contributor to Global Research.</em></p>
+<p style="text-align: left;"><strong>Notes</strong></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">(1) Harari continues his 2018 speech saying: “For four billion years, nothing fundamental changed in the basic rules of the game of life. All of life was subject to the laws of natural selection, and to the laws of organic biochemistry. But this is now about to change. Science is changing evolution by natural selection with evolution by intelligent design. Not some intelligent design of some God above the clouds. But our intelligent design, and the intelligent design of our clouds. The IBM cloud, the Microsoft cloud. These are the new driving forces of evolution.”</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;"><em>Featured image is from the Public Domain</em></span></p>
+<div>
+<div class="copyright">The original source of this article is <a href="https://www.strategic-culture.org/news/2021/10/26/pierre-teilhard-de-chardins-transhumanism-and-the-cult-of-the-fourth-industrial-revolution/" target="_blank">Strategic Culture Foundation</a></div>
+<div class="copyright">Copyright © <a href="https://www.globalresearch.ca/author/matthew-ehret-kump" title="Posts by Matthew Ehret-Kump">Matthew Ehret-Kump</a>, <a href="https://www.strategic-culture.org/news/2021/10/26/pierre-teilhard-de-chardins-transhumanism-and-the-cult-of-the-fourth-industrial-revolution/" target="_blank">Strategic Culture Foundation</a>, 2021</div>
+<hr/>
+<p>
+<a href="https://www.facebook.com/GlobalResearchCRG"><strong>Comment on Global Research Articles on our Facebook page</strong></a>
+</p>
+<p>
+<a href="https://store.globalresearch.ca/member/"><strong>Become a Member of Global Research</strong></a>
+</p>
+</div> </div>
+</div>
+<div data-widget-id="rel_89-2" style="margin-left: 5px;"></div>
+<div style="margin-left:5px">
+<div class="jp-relatedposts" id="jp-relatedposts">
+<h3 class="jp-relatedposts-headline"><em>Related Articles from our Archives</em></h3>
+</div> </div>
+<hr>
+<div class="sharethis">
+<div class="sharethisleft">
+<span style="float:left"><span class="fontSize" style="float:left"><a href="#" id="toggleFont"></a></span> <p id="print-page-link" style="margin: 10px 0px;"><a href="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900?print=1" id="print-link" rel="nofollow"><img src="https://www.globalresearch.ca/wp-content/plugins/print-me/images/printme.png" style="width: 25px;height: 25px;" title="print"/></a></p></span> <span> <a href="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900?pdf=5759900" target="_blank"> <img src="/wp-content/uploads/2021/05/pdf01.png" style="height:23px;width:20px;margin-top:3px;margin-left:7px;"/> </a> </span> <span style="float:right;margin-left:10px;width:130px;">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</span>
+</div>
+<div class="sharethisright" style="display:flex;overflow:clip;max-height:25px;align-items:center;">
+<span class="st_facebook_hcount" displaytext="facebook" st_title="The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”" st_url="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900"></span>
+<span class="st_fblike_hcount" displaytext="fblike" st_title="The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”" st_url="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900" style="height:26px"></span>
+<span class="st_twitter_hcount" displaytext="twitter" st_title="The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”" st_url="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900" st_username="grtvnews" st_via="grtvnews"></span>
+<span class="st_email_hcount" displaytext="email" st_title="The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”" st_url="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900"></span>
+<span class="st_plusone_hcount" displaytext="plusone" st_title="The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”" st_url="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900" style="width:1px; display: inline-block"></span>
+<span class="st_sharethis_hcount" displaytext="sharethis" st_title="The History of “Transhumanism” and the Cult of the WEF’s Fourth Industrial Revolution. Pierre Teilhard de Chardin’s “Insurgency against Christianity”" st_url="https://www.globalresearch.ca/pierre-teilhard-de-chardin-transhumanism-cult-fourth-industrial-revolution/5759900"></span>
+</div>
+</div>
+<div id="articleAuthor">
+<div class="authorName">
+<span>Articles by:</span>
+<a href="https://www.globalresearch.ca/author/matthew-ehret-kump" title="Posts by Matthew Ehret-Kump">Matthew Ehret-Kump</a> </div>
+</div>
+<div class="nr_clear"></div>
+<div id="disclaimer">
+<p><b>Disclaimer:</b> The contents of this article are of sole responsibility of the author(s). The Centre for Research on Globalization will not be responsible for any inaccurate or incorrect statement in this article. The Centre of Research on Globalization grants permission to cross-post Global Research articles on community internet sites as long the source and copyright are acknowledged together with a hyperlink to the original Global Research article. For publication of Global Research articles in print or other forms including commercial internet sites, contact: <a href="/cdn-cgi/l/email-protection#d8a8adbab4b1bbb9acb1b7b6ab98bfb4b7bab9b4aabdabbdb9aabbb0f6bbb9"><span class="__cf_email__" data-cfemail="d6a6a3b4babfb5b7a2bfb9b8a596b1bab9b4b7baa4b3a5b3b7a4b5bef8b5b7">[email protected]</span></a></p>
+<p><a href="https://www.globalresearch.ca">www.globalresearch.ca</a> contains copyrighted material the use of which has not always been specifically authorized by the copyright owner. We are making such material available to our readers under the provisions of "fair use" in an effort to advance a better understanding of political, economic and social issues. The material on this site is distributed without profit to those who have expressed a prior interest in receiving it for research and educational purposes. If you wish to use copyrighted material for purposes other than "fair use" you must request permission from the
+copyright owner.</p>
+<p>For media inquiries: <a href="/cdn-cgi/l/email-protection#324247505e5b5153465b5d5c4172555e5d50535e405741575340515a1c5153"><span class="__cf_email__" data-cfemail="364643545a5f5557425f59584576515a5954575a445345535744555e185557">[email protected]</span></a></p>
+</div>
+</hr></div>
+</div>
+</div>
+</div>
+<div class="main-b"></div>
+</div>
+<div class="notranslate" id="footer">
+<div class="aside">
+<div class="widget_nav_menu leftfooter"><div class="menu-footerleftnav-container"><ul class="menu" id="menu-footerleftnav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5309785" id="menu-item-5309785"><a href="https://www.globalresearch.ca/news">Global Research News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302189" id="menu-item-5302189"><a href="https://www.globalresearch.ca/theme/i-books-series">I-BOOKS SERIES</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302190" id="menu-item-5302190"><a href="https://www.globalresearch.ca/countries-index">Countries Index</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302192" id="menu-item-5302192"><a href="https://www.globalresearch.ca/most-popular">Most Popular</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302193" id="menu-item-5302193"><a href="https://www.globalresearch.ca/links">Links</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302194" id="menu-item-5302194"><a href="https://www.globalresearch.ca/contact-2">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302195" id="menu-item-5302195"><a href="https://store.globalresearch.ca/member/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302196" id="menu-item-5302196"><a href="https://store.globalresearch.ca/">Online Store</a></li>
+</ul></div></div> </div>
+<div class="container">
+<div class="column-wrap">
+<div class="menuHeaders">
+<div class="title1">Themes</div>
+<div class="title2">Geographic Regions</div>
+</div>
+<div class="column widget_nav_menu"><div class="menu-footermenu2-container"><ul class="menu" id="menu-footermenu2"><li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302197" id="menu-item-5302197"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302198" id="menu-item-5302198"><a href="https://www.globalresearch.ca/theme/global-economy">Global Economy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302199" id="menu-item-5302199"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">Crimes against Humanity</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302200" id="menu-item-5302200"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302201" id="menu-item-5302201"><a href="https://www.globalresearch.ca/theme/law-and-justice">Law and Justice</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302202" id="menu-item-5302202"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Police State &amp; Civil Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302203" id="menu-item-5302203"><a href="https://www.globalresearch.ca/theme/culture-society-history">History</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302204" id="menu-item-5302204"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">9/11 &amp; ‘War on Terrorism’</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302205" id="menu-item-5302205"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media Disinformation</a></li>
+</ul></div></div><div class="column widget_nav_menu"><div class="menu-footermenu3-container"><ul class="menu" id="menu-footermenu3"><li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302206" id="menu-item-5302206"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302207" id="menu-item-5302207"><a href="https://www.globalresearch.ca/theme/oil-and-energy">Oil and Energy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302208" id="menu-item-5302208"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Police State &amp; Civil Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302209" id="menu-item-5302209"><a href="https://www.globalresearch.ca/theme/politics-and-religion">Religion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302210" id="menu-item-5302210"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty &amp; Social Inequality</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302211" id="menu-item-5302211"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science and Medicine</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302212" id="menu-item-5302212"><a href="https://www.globalresearch.ca/theme/united-nations">United Nations</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302213" id="menu-item-5302213"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302214" id="menu-item-5302214"><a href="https://www.globalresearch.ca/theme/women-s-rights">Women’s Rights</a></li>
+</ul></div></div> </div>
+<div class="text-container">
+<strong class="footer-logo"><a href="/">GlobalResearch Center for Research on Globalization</a></strong>
+<a class="privacy" href="/privacy-policy/">Privacy Policy</a>
+<span class="copy">Copyright © 2005-2023 <a href="https://www.globalresearch.ca">GlobalResearch.ca</a></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+document.getElementById('NLform').onsubmit = function() {
+  window.location = '/newsletter/';
+}
+</script>
+<script async="" src="https://magnetapi.klangoo.com/w/Widgets_89.js" type="text/javascript"></script>
+<div aria-hidden="true" class="pum pum-overlay pum-theme-5667467 pum-theme-enterprise-blue popmake-overlay pum-overlay-disabled auto_open click_open" data-popmake='{"id":5681503,"slug":"become-member","theme_id":5667467,"cookies":[{"event":"on_popup_close","settings":{"name":"pum-5681503","time":"1 week","path":true}}],"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-5681503"],"delay":"5000"}},{"type":"click_open","settings":{"extra_selectors":"","cookie_name":null}}],"mobile_disabled":null,"tablet_disabled":null,"meta":{"display":{"stackable":"1","overlay_disabled":"1","scrollable_content":false,"disable_reposition":false,"size":"micro","responsive_min_width":"0%","responsive_min_width_unit":false,"responsive_max_width":"100%","responsive_max_width_unit":false,"custom_width":"640px","custom_width_unit":false,"custom_height":"380px","custom_height_unit":false,"custom_height_auto":false,"location":"right bottom","position_from_trigger":false,"position_top":"100","position_left":"0","position_bottom":"100","position_right":"10","position_fixed":"1","animation_type":"fade","animation_speed":"350","animation_origin":"center top","overlay_zindex":false,"zindex":"1999999999"},"close":{"text":"","button_delay":"0","overlay_click":false,"esc_press":false,"f4_press":false},"click_open":[]}}' id="pum-5681503" role="dialog">
+<div class="pum-container popmake theme-5667467 pum-responsive pum-responsive-micro responsive size-micro pum-position-fixed" id="popmake-5681503">
+<div class="pum-content popmake-content">
+<div style="position: absolute;"><a href="https://www.globalresearch.ca/wp-content/uploads/2019/02/logo_def_globe_small.png"><img alt="" class="alignnone size-full wp-image-5605030" height="47" src="https://www.globalresearch.ca/wp-content/uploads/2019/02/logo_def_globe_small.png" width="37"/></a></div>
+<div style="text-align: center;">
+<p style="text-align: center;"><span style="font-family: helvetica, arial, sans-serif; font-size: 14pt; text-align: center;">Become Member of<br/>
+<span style="font-weight: bold;">Global Research<br/>
+</span> Free Books!</span></p>
+<span class="pum-close popmake-close" data-do-default="1"><a href="https://donorbox.org/donate-to-global-research" style="font-family: Helvetica; background-color: #ee5800; color: white; text-decoration: none; display: inline-block; padding: 6px 12px; margin-bottom: 0; margin-top: 10px; font-size: 14px; font-weight: normal; line-height: 1.428571429; text-align: center; white-space: nowrap; vertical-align: middle; cursor: pointer; border: 1px solid transparent; border-radius: 4px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none;" target="_blank">Become a member</a></span>
+</div>
+</div>
+<button aria-label="Close" class="pum-close popmake-close" type="button">
+× </button>
+</div>
+</div>
+<script type="text/javascript">var algolia = {"debug":false,"application_id":"AZ3OVPR0K9","search_api_key":"7147fe690c6831ff61668ea7de6fccda","powered_by_enabled":true,"query":"","autocomplete":{"sources":[],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"searchable_posts":{"name":"gr_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]}}};</script><script src="https://www.globalresearch.ca/wp-content/plugins/dk-pdf/assets/js/frontend.js?ver=1.9.6" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202310" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.7.30","ajaxurl":"https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.globalresearch.ca\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"5667465","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php";
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker: Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit https:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_event":"Event: %s","triggers":{"click_open":"Click Open","auto_open":"Time Delay \/ Auto Open"},"cookies":{"on_popup_close":"On Popup Close","on_popup_open":"On Popup Open","pum_sub_form_success":"Subscription Form: Successful","pum_sub_form_already_subscribed":"Subscription Form: Already Subscribed","manual":"Manual JavaScript"}};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-5681503":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-5681503"],"delay":"5000"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-5681503","time":"1 week","path":true}}],"theme_id":"5667467","size":"micro","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","location":"right bottom","position_top":"100","position_bottom":"100","position_left":"0","position_right":"10","zindex":"1999999999","close_button_delay":"0","id":5681503,"slug":"become-member"}};
+/* ]]> */
+</script>
+<script src="//www.globalresearch.ca/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1598646263&amp;ver=1.7.30" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/wp-embed.min.js?ver=4.7.25" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-content/plugins/print-me/js/printme.js?ver=0.5.1" type="text/javascript"></script>
+<script async="" defer="" src="https://stats.wp.com/e-202310.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.1',blog:'37090175',post:'5759900',tz:'0',srv:'www.globalresearch.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '37090175', '5759900' ]);
+</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7a503deb4db69c4e',m:'Xhorb9IV82LqoHVr2fIu3AzfqnKQNReINcmAJNsqyoY-1678332653-0-AdDo5LPj7vHVaPD7h3CcyFmQdPZxPIDY/PyQApMolxACnrG3404IMzp7Z7vQAWb2csle4peWguHpZk4jBHzXIZXNvZX4PQql6NdbT8fSn90fYUukK5VLkuK+9yob9/r6VS682fjHNaf88RDp5t2DMSCrHWZGcEHKFMYJEbpO+1DsdI4dp2XEkKy9H4W7ssHB71kYJYE+C0uLlLdf587GKyBrzNebgZlHVS603ZiiqlbH',s:[0xa921437b11,0x32bf8cf246],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

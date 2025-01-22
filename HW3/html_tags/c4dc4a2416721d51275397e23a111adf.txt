@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
+<title>Die grün lackierte Tyrannei | Rubikon-Magazin</title>
+<meta content="Die kommende Regierung wird beim Freiheitsabbau neue Wege beschreiten — wir kommen vom Plandemie-Regen in die Klima-Traufe." name="description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.rubikon.news/artikel/die-grun-lackierte-tyrannei" property="og:url"/>
+<meta content="https://www.rubikon.news/uploads/store/bc58ff0aa68a30ff4b2def494dd5dde2.jpg" property="og:image"/>
+<meta content="Die grün lackierte Tyrannei" property="og:title"/>
+<link href="/artikel/die-grun-lackierte-tyrannei" rel="canonical"/>
+<link href="/favicon.ico" rel="shortcut icon"/>
+<link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/manifest.json" rel="manifest"/>
+<link color="#5bbad5" href="/safari-pinned-tab.svg" rel="mask-icon"/>
+<meta content="#2d89ef" name="msapplication-TileColor"/>
+<meta content="/mstile-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="same-origin" name="referrer"/>
+<meta content="JwVuMMQ38SnaFh_J0kAEwg" name="cubits-verify"/>
+<meta content="rdxv12" name="flattr:id"/>
+<link href="https://www.rubikon.news/artikel.atom" rel="alternate" title="Rubikon Magazin" type="application/atom+xml">
+<link href="/assets/frontend/frontend-ddd5e843bc335d9a1389174d96c8c07f3c21ef19cc734b7bf8170ef77b415c9f.css" media="screen" rel="stylesheet">
+<link href="/assets/frontend/print-cdf4c7231ffb7df61d9ebcc81586c0d706335cd9a47a77d90cb0a54e9740ffa8.css" media="print" rel="stylesheet">
+<meta content="authenticity_token" name="csrf-param">
+<meta content="1XJuoqMNwexv4Awrh7rFD4U7q+BME6ORR+oUfN3DgQezhCIEm0ACqYRe9G0FOjbLY+QZAly7yNuMJ13EsRjx7Q==" name="csrf-token">
+</meta></meta></link></link></link></head>
+<body>
+<a class="skip-main" href="#main">Zum Inhalt:</a>
+<input id="navbar-noscript-toggle" style="display: none;" type="checkbox"/>
+<aside class="sidebar">
+<div class="sidebar-header">
+<label class="button secondary btn-menu icon-close" for="navbar-noscript-toggle"></label>
+</div>
+<div class="search">
+<div class="search__button icon2-search">
+<form accept-charset="UTF-8" action="/artikel/suche" method="get">
+<input name="search_articles[sort]" type="hidden" value="chronologisch absteigend"/>
+<input class="search__field" id="search_articles_query" name="search_articles[query]" type="text"/>
+</form> </div>
+<!--     <input class="search__field" name="search_articles[query]" type="text" placeholder="Suche" /> -->
+</div>
+<nav>
+<ul>
+<li><a href="/artikel">Alle Artikel</a></li>
+<li><a href="/autoren">Autoren</a></li>
+<li><a href="/freunde">Freunde</a></li>
+<li><a href="/kontakt">Team</a></li>
+<li><a href="/newsletter">Newsletter</a></li>
+<li><a href="/unterstuetzen">Unterstützen</a></li>
+</ul>
+</nav>
+<div class="book-promotion">
+<a href="https://www.buchkomplizen.de/unsere-komplizen/rubikon/strategien-der-macht.html" target="_blank"><img alt="Strategien der Macht" class="book-promotion__img" src="https://www.rubikon.news/media/images/1fc5307e0fc7db36fe0c9a7c28ccee9f.jpeg"/></a>
+<div class="book-promotion__text">
+<a class="book-promotion__bookstore" href="/buecher">Unsere Bücher</a>:<br/>
+<a class="book-promotion__link" href="https://www.buchkomplizen.de/unsere-komplizen/rubikon/strategien-der-macht.html" target="_blank">Strategien der Macht</a>
+<br/><span>von</span>
+<a href="https://www.rubikon.news/autoren/roland-rottenfusser">Roland Rottenfußer</a>
+</div>
+</div>
+</aside>
+<label class="sidebar-content-protection" for="navbar-noscript-toggle"></label>
+<div class="topbar">
+<div class="topbar__menu">
+<label class="button tertiary btn-menu icon-menu" for="navbar-noscript-toggle">
+<span class="icon2-menu"></span>
+<span class="topbar__menu--text">Menü</span>
+</label>
+<div class="logo">
+<a class="logo" href="/">
+<img alt="Rubikon" src="/assets/logo-dd0fcd373a0c872bb432f7596d9e700155c5d7fa07ec99a3777d44621e8c61fe.svg">
+</img></a> </div>
+<div class="topbar__support">
+<a class="button button--small-gutter hover-color-blue" href="/unterstuetzen">
+<span class="topbar__support--text">Unterstützen</span><span class="icon2-support"></span>
+</a> </div>
+</div>
+<nav class="topbar__filter">
+<ul>
+<li class=""><a href="/rubrik/1">Fassadendemokratie &amp; Tiefer Staat</a></li>
+<li class=""><a href="/rubrik/6">Medien- &amp; Ideologiekritik</a></li>
+<li class=""><a href="/rubrik/2">Krieg &amp; Frieden</a></li>
+<li class=""><a href="/rubrik/3">Arm &amp; Reich</a></li>
+<li class=""><a href="/rubrik/7">Bildung &amp; Soziales</a></li>
+<li class=""><a href="/rubrik/4">Natur &amp; Umwelt </a></li>
+<li class=""><a href="/rubrik/5">Seele &amp; Bewusstsein</a></li>
+</ul>
+</nav>
+<div class="topbar__filter topbar__filter--mobile">
+<select id="rubric-select">
+<option disabled="" selected="" value="-1">Schwerpunkt wählen</option>
+<option value="/rubrik/1"><a href="/artikel/die-grun-lackierte-tyrannei">Fassadendemokratie &amp; Tiefer Staat</a></option>
+<option value="/rubrik/6"><a href="/artikel/die-grun-lackierte-tyrannei">Medien- &amp; Ideologiekritik</a></option>
+<option value="/rubrik/2"><a href="/artikel/die-grun-lackierte-tyrannei">Krieg &amp; Frieden</a></option>
+<option value="/rubrik/3"><a href="/artikel/die-grun-lackierte-tyrannei">Arm &amp; Reich</a></option>
+<option value="/rubrik/7"><a href="/artikel/die-grun-lackierte-tyrannei">Bildung &amp; Soziales</a></option>
+<option value="/rubrik/4"><a href="/artikel/die-grun-lackierte-tyrannei">Natur &amp; Umwelt </a></option>
+<option value="/rubrik/5"><a href="/artikel/die-grun-lackierte-tyrannei">Seele &amp; Bewusstsein</a></option>
+</select>
+</div>
+</div>
+<div class="topbar__spacer"></div>
+<div id="main" tabindex="-1">
+<header class="header-normal">
+<div class="header-content">
+<div class="header-image">
+<img alt="Die grün lackierte Tyrannei" src="/uploads/store/bc58ff0aa68a30ff4b2def494dd5dde2.jpg"/>
+</div>
+<div class="article-meta">
+<input id="article-options-dropdown" name="article-options-dropdown" type="checkbox"/>
+<div class="article-options">
+<label for="article-options-dropdown">Artikeloptionen <i class="fa fa-caret-down"></i><i class="fa fa-caret-up"></i></label>
+<div class="options-dropdown">
+<a href="/artikel/die-grun-lackierte-tyrannei/read" id="read-article" target="_blank">Vorlesen</a>
+<a href="/artikel/die-grun-lackierte-tyrannei.md">Republizieren als .md</a>
+<a href="/artikel/die-grun-lackierte-tyrannei.pdf" id="download-pdf" target="_blank">Druckversion als .pdf</a>
+</div>
+</div>
+  
+      Donnerstag, 28. Oktober 2021, 17:00 Uhr<br>
+      ~8 Minuten Lesezeit
+    </br></div>
+<h1>Die grün lackierte Tyrannei</h1>
+<h2>Die kommende Regierung wird beim Freiheitsabbau neue  Wege beschreiten — wir kommen vom Plandemie-Regen in die Klima-Traufe.</h2>
+<div class="article-meta">
+      von <a href="/autoren/tom-oliver-regenauer">Tom-Oliver Regenauer</a>
+<br/><p>Foto: Somchai Som/Shutterstock.com</p>
+</div>
+<div class="article-teaser">
+<p>„Freiheit ist Sklaverei“ hieß einer der Partei-Slogans in George Orwells „1984“. „Wir müssen die Freiheit einschränken, damit nicht noch schlimmere Freiheitsbeschränkungen künftig notwendig werden“, echot die aktuelle Politik. Gemeint ist: Nur eine Art Klimanotstand heute könnte die voll ausgereifte Ökodiktatur in der Zukunft verhindern. Dabei dürften Corona-Totalitarismus und neuer Klima-Ausnahmezustand einander nahtlos ablösen oder sogar zeitweise gleichzeitig an unseren Freiheitsrechten nagen. Christian Lindner (FDP) kündigte für die Ampelregierung ein neues Ressort an. Damit übergeben Merkel, Drosten, Wieler und Co die Staffel im Wettlauf um totale Kontrolle der Bürger an Baerbock oder Habeck. Einer der beiden moralresistenten Politiker wird das neue Ressort wohl übernehmen. Bei der erwartbaren grün gewendeten Staatskunst sieht unser Autor schwarz.</p>
+</div>
+<!-- <div class="social-links">
+      <a href="#">Twitter</a>
+      <a href="#">Facebook</a>
+      <a href="#">Mail</a>
+      <a href="#">Drucken</a>
+    </div> -->
+</div>
+</header>
+<div class="article">
+<div class="article-content">
+<p><em>„Die Regierung ist hauptsächlich eine kostspielige Organisation, die sich mit Übeltätern abgibt und die Leute besteuert, die sich ordentlich aufführen. Für die anständigen Menschen tut die Regierung ziemlich wenig — abgesehen davon, dass sie sie ärgert“</em> (Edgar Watson Howe).</p>
+<p>Die Mehrheit der Bevölkerung ist scheinbar noch immer davon überzeugt, dass die Coronamaßnahmen und die im Zuge der Viren-Jagd ausgerollte Infrastruktur von temporärer Natur seien. Dass diese Annahme falsch ist und die vorhandenen Überwachungsmechanismen künftig auch für andere Zwecke genutzt werden, implizieren die Äußerungen von Christian Lindner (FDP), der im Rahmen der Ampel-Sondierungsgespräche und laut <a href="https://www.spiegel.de/politik/deutschland/ampel-koalition-christian-lindner-bekraeftigt-indirekt-anspruch-auf-bundesfinanzministerium-a-7a97cb7f-9ae6-45ec-86b3-832d9bbbadc0"><em>Spiegel</em></a> jüngst verlauten ließ, die nächste Bundesregierung um ein neues Ressort erweitern zu wollen – nämlich um ein Ministerium für Klimaschutz. Das verheißt nichts Gutes für Grundgesetz und Bürgerrechte.</p>
+<p>Auch wenn Die Grünen dies derzeit noch nicht bestätigen wollen — vergleiche <a href="https://www.spiegel.de/politik/deutschland/ampelkoalition-norbert-walter-borjans-kritisiert-christian-lindner-a-25c31364-0f26-4b28-b1e1-57357e5f8c99"><em>Spiegel</em></a> —, ist davon auszugehen, dass der Klimawandel als nächster Hebel für staatliche Übergriffigkeit gegenüber dem Bürger herhalten muss. Das Bundesverfassungsgericht hat bereits den Weg für weitere Einschränkungen der Grundrechte aufgrund der Klimakrise geebnet und hält in einem verklausulierten <a href="https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html">Beschluss</a> vom 24. März 2021 fest:</p>
+<p><em>„Das Grundgesetz verpflichtet unter bestimmten Voraussetzungen zur Sicherung grundrechtsgeschützter Freiheit über die Zeit und zur verhältnismäßigen Verteilung von Freiheitschancen über die Generationen. Subjektivrechtlich schützen die Grundrechte als intertemporale Freiheitssicherung vor einer einseitigen Verlagerung der durch Artikel 20a Grundgesetz (GG) aufgegebenen Treibhausgasminderungslast in die Zukunft. Auch der objektivrechtliche Schutzauftrag des Artikels 20a GG schließt die Notwendigkeit ein, mit den natürlichen Lebensgrundlagen so sorgsam umzugehen und sie der Nachwelt in solchem Zustand zu hinterlassen, dass nachfolgende Generationen diese nicht nur um den Preis radikaler eigener Enthaltsamkeit weiter bewahren könnten.</em></p>
+<p><em>Die Schonung künftiger Freiheit verlangt auch, den Übergang zu Klimaneutralität rechtzeitig einzuleiten.“</em></p>
+<blockquote>
+<p>Vereinfacht gesagt: Mit zeitnahen Eingriffen in die Grundrechte der Menschen ist die noch stärkere Beschneidung der Freiheitsrechte künftiger Generationen zu vermeiden.</p>
+</blockquote>
+<p>Nachdem im Zuge der COVID-19-Krise bereits die Infrastruktur für umfassendes „Track-and-Trace“ sowie der digitale Impfausweis implementiert wurden, ist es nicht mehr weit bis zur Einschränkung der individuellen Mobilität über den automatisch berechneten CO2-Fußabdruck. Der individuelle, über eine App ermittelte Status wird definieren, ob und wie weit man reisen kann und mit welchem Verkehrsmittel. Selbst der tägliche Konsum wäre über ein CO2-Zertifikat leicht steuer- und sanktionierbar.</p>
+<p>Nein, die Pandemie-Infrastruktur wird nicht verschwinden. Ebenso wenig wie die Zensur im Internet durch das <a href="https://www.bmjv.de/DE/Themen/FokusThemen/NetzDG/NetzDG_node.html">Netzwerkdurchsetzungsgesetz</a> und die Diskriminierung ganzer Bevölkerungsgruppen durch 3G- oder 2G-Reglements. Sie wurde im Zuge der Coronakrise installiert, um dann vielfältigen Zwecken der Machterhaltung und Bevölkerungskontrolle dienlich zu sein. Das unterstreicht unter anderem das Projekt <a href="https://ec.europa.eu/commission/commissioners/2019-2024/kyriakides/announcements/introducing-hera-health-emergency-preparedness-and-response-authority-press-conference-remarks_en">HERA</a>, eine Initiative der Europäischen Kommission zum dauerhaften Unterhalt eines supranationalen Notstandsregimes. Man wappnet sich für die permanente Pandemie. Ausgestattet mit einem jährlichen Budget von einer Milliarde Euro.</p>
+<p>Damit ist klar, dass sowohl Impfpass als auch Massenüberwachung durch permanente Kontaktverfolgung dauerhafter Bestandteil des Lebens aller Europäer werden sollen. Das unterstreicht <a href="https://www.20min.ch/story/jens-spahn-will-epidemische-notlage-ende-november-aufheben-821666233506">Jens Spahn</a>, wenn er ankündigt, die epidemische Lage von nationaler Tragweite zwar Ende November 2021 beenden zu wollen – aber Regelungen wie 3G und 2G ebenso wenig wie die Maskenpflicht zurückzunehmen. Die Maßnahmen sind seit Langem von ihrem ursprünglich kommunizierten Zweck entkoppelt und haben sich im Alltag unreflektierter Menschen als neue Normalität manifestiert. Sie werden oft unbedarft hingenommen – geradeso wie Sicherheitskontrollen und Personenscanner an Flughäfen.</p>
+<p>Wir erinnern uns: Die nach 9/11 verabschiedeten Antiterrorgesetze gelten allesamt bis heute. Infrastruktur und spezielle Gremien sind ebenfalls noch operativ oder in anderen Governance-Strukturen aufgegangen. Und das Weiße Haus hat auch 2021, ganze zwei Dekaden nach dem Angriff auf das World Trade Center, den <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/notice-on-the-continuation-of-the-national-emergency-with-respect-to-certain-terrorist-attacks/">nationalen Notstand wegen terroristischer Bedrohungen</a> verlängert. Wer kann so naiv sein anzunehmen, dass sich die Auswirkungen auf den Machtzuwachs des Staatsapparates im Rahmen gesundheitlicher Notstände anders darstellen sollten als im Kampf gegen den Terrorismus?</p>
+<p>Epidemien und Pandemien sind zeitlich begrenzt. Egal wie fatal sie wüten – oder eben nicht. Mit schwindendem Risiko nimmt die Angst vor der Bedrohung ab. Und in Korrelation die Akzeptanz der Bevölkerung gegenüber Einschränkungen ihrer Grundrechte. Der Klimawandel dagegen ist eine unbefristete Lösung für den Bedarf der Machthaber nach Krisen, Bedrohungen und Disruptionen, die notwendig sind, um eigennützige Agenden voranzutreiben. Das Narrativ der globalen Klima-Apokalypse lässt sich beliebig lange und intensiv bewirtschaften. </p>
+<p>Das zeigt schon die erste Publikation des <em>Club of Rome</em> von 1972 „<a href="https://www.clubofrome.org/publication/the-limits-to-growth/">The Limits to Growth</a>“. Spätestens seit diesem Zeitpunkt findet sich das Schreckensgespenst der Erderwärmung in allen Gazetten, und der Mainstream warnt vor dem nahenden Weltuntergang. Auch wenn dieser immer wieder verschoben werden muss und die natürlichen Ressourcen des Planeten augenscheinlich ergiebiger sind als zunächst von Wissenschaftlern berechnet und vorausgesagt. </p>
+<p>Noch 1956 sagte der amerikanische Geologe Marion King Hubbert voraus, dass die <a href="https://www.researchgate.net/publication/279227641_Hubbert's_Peak_The_Great_Debate_over_the_End_of_Oil">Erdölvorräte um die Jahrtausendwende erschöpft sein würden</a>. Ungeachtet dessen steigt die weltweite Fördermenge seither konstant an – und ein Ende ist weder absehbar noch realistisch. Denn Erdöl ist als Bestandteil unzähliger Produkte und vor allem von Kunststoffen derzeit kaum kosteneffizient ersetzbar. Und die Ölindustrie viel zu einflussreich, als dass man sie von der weiteren Ausbeutung der globalen Vorkommen abhalten könnte.</p>
+<p>Natürlich sind die verheerenden Auswirkungen des menschlichen Handelns auf die Natur nicht von der Hand zu weisen, man möge sich nur einmal die von Mikroplastik durchzogenen, überfischten und vergifteten Ozeane betrachten. Oder die jährlich schwindende Fläche von intaktem Regenwald. Die meist von Großkonzernen betriebenen Frevel an der Natur als Hebel zur Unterdrückung der Menschen und für machtpolitische Ziele zu missbrauchen, ist jedoch schlichtweg Betrug. </p>
+<p>Denn unternommen wird nichts. Die Politik sieht tatenlos zu, wie sich das Kapital nimmt, was es braucht. </p>
+<blockquote>
+<p>Die Regierenden garnieren unterdes Klimakonferenzen mit leeren Worthülsen und wiederholen die relevanten Mantras — während Tanker auf hoher See Giftmüll verklappen, in Brasilien die Wälder brennen und der nächste Ölteppich Küstentiere mit einem schwarzen Film überzieht. Taten sagen eben oft mehr als Worte.</p>
+</blockquote>
+<p><em>„Demokratie heißt, die Wahl haben. Diktatur heißt, vor die Wahl gestellt sein“</em> (Jeannine Luczak).</p>
+<p>Egal wie man die Bedrohungen, die von der Umweltzerstörung ausgehen, gewichtet – diese als Hebel zur fortwährenden Unterdrückung der Menschheit einzusetzen, anstatt sich um die realen Probleme und Verursacher zu kümmern, ist niederträchtig. Eine Eigenschaft, derer sich mittlerweile wohl alle Spitzenpolitiker rühmen dürfen. So ist davon auszugehen, dass die vordergründig liberale FDP mit dem Vorstoß zum Klimaministerium in die gleiche Kerbe schlägt wie die Europäische Kommission mit <em>HERA</em> oder die US-Regierung mit dem Patriot Act. </p>
+<p>Es geht um strategische, nachhaltige Paradigmenwechsel, die im Zuge disruptiver Ereignisse angestoßen und implementiert werden. Vergleicht man den soziopolitischen Status quo, den Schutz von Privatsphäre und Bürgerrechten oder die Medienlandschaft des Jahres 2000 mit dem Stand von 2021, hat uns das Trio Infernale aus 9/11, COVID-19 und Klimakatastrophe schon recht „weit gebracht“. Es wird deutlich: Der Faschismus in Europa ist kein Relikt vergangener Zeiten. All das, um das eigentliche Problem des herrschenden kapitalistischen Systems in den Hintergrund treten zu lassen: den Bankrott des Finanzsystems.</p>
+<p>Der Klima-Notstand ist ausgerufen. Fridays for Future hungerstreikt medienwirksam für die Rettung des Planeten in der Hauptstadt. Karl Lauterbach fordert Lockdowns zum Klimaschutz – und der Sommer 2021 samt Hochwasserkatastrophe spielt dem Narrativ der heranpreschenden Apokalypse in die Karten. Seit Monaten war klar, welcher Kurs von den machtverwöhnten Volksvertretern nach der Bundestagswahl gesetzt werden würde. </p>
+<p>Sich in Anbetracht der Erfahrungen mit dem Viren-Wahn vorzustellen, dass Projekte wie die <a href="https://unfccc.int/news/new-financial-alliance-for-net-zero-emissions-launches"><em>Net-Zero-Alliance</em></a> der Vereinten Nationen am Ende darauf hinauslaufen, die Individualmobilität der Weltbevölkerung über das Monitoring des CO2-Ausstoßes drastisch einzuschränken, bedarf wenig Fantasie.</p>
+<p>Deutschland geht diesen Weg nicht allein. Praktisch alle Mitgliedsstaaten der <a href="https://www.un.org/en/">Vereinten Nationen</a> haben die <a href="https://sustainabledevelopment.un.org/content/documents/21252030%20Agenda%20for%20Sustainable%20Development%20web.pdf">Agenda 2030</a> ratifiziert und identische Strategien zu Legislatio, Gesetzgebung, in ihren Ländern gemacht – ohne dass die Bürger in demokratischen Prozessen darüber abgestimmt hätten. Von Elitisten finanzierte Thinktanks und Stiftungen entwickeln Studien und Szenarien, der supranationale Staatenbund definiert darauf basierend globale Richtlinien, und die Mitgliedsländer setzen um. Global Governance statt Global Government. </p>
+<p>Vielleicht lautet der Slogan für die Agenda 2030 der Vereinten Nationen deshalb „Transforming our World“ (unsere Welt transformieren). Die Financiers und Leithammel des neuen weltumspannenden Kooperatismus klären mit dem unauffälligen Possessivpronomen „our“ (unsere) in der Mitte des Mission Statements auf dem von ihnen initiierten Strategiepapier schlichtweg die Eigentumsverhältnisse auf dem Planeten.</p>
+<p>Verwaltung durch Strukturen, einflussreich wie eine Regierung. Aber gesteuert wie ein Konzern.</p>
+<p>Der Bürger wird nicht mehr aktiv einbezogen. </p>
+<blockquote>
+<p>In diesem System werden Rechtsmittel wirkungslos und Nationalstaaten obsolet. Das isolierte Individuum soll die Welt retten, indem es pariert. Und zwar den Imperativen des neues Klimaministeriums gehorchend. </p>
+</blockquote>
+<p>Egal wie totalitär und übergriffig diese schlussendlich sein mögen. Die Coronakrise war dahingehend eine ausgezeichnete Vorbereitung. Denn die Bevölkerung hat sich zwischenzeitlich an Konditionierung und sinnlose oder gar destruktive Maßnahmen gewöhnt. Merkel, Drosten, Wieler und Co übergeben die Staffel im internationalen Wettrüsten des technokratischen Totalitarismus an Baerbock oder Habeck. Denn einer der beiden moralresistenten Politiker-Imitatoren wird das neue Ressort wohl übernehmen. </p>
+<p><em>„Die Dummheit von Regierungen sollte niemals unterschätzt werden“</em> (Helmut Schmidt).</p>
+</div>
+<div class="article-end">
+<div class="shariff article_sharing rs_skip" data-mail-subject="Die grün lackierte Tyrannei" data-mail-url="mailto:" data-services='["whatsapp","facebook","telegram","twitter","diaspora","mail","print","info"]' data-title="Die grün lackierte Tyrannei | Rubikon - Magazin für die kritische Masse"></div>
+<img alt="" class="divider-image" src="/assets/ill-feather-0947f794066c6a6fa2b166f1afd221e3e3c5eb00710d02afbec06626aa1e5f6f.png"/>
+<div class="article-sms">
+<div class="article-sms-image">
+<a class="no-border" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">
+<img alt="Spenden per SMS" src="/assets/ic-sms-146d281c37d2c9a5c50fa303d001611ebe453e901bb97c62f9a45b98870a8f52.png"/>
+</a>
+</div>
+<div class="article-sms-info">
+        Hat Ihnen dieser Artikel gefallen? Dann senden Sie einfach eine SMS mit dem Stichwort <strong>Rubikon10</strong> an die <strong>81190</strong> und mit Ihrer nächsten Handyrechnung werden Ihnen 10 Euro in Rechnung gestellt, die abzüglich einer Gebühr von 17 Cent unmittelbar unserer Arbeit zugutekommen.
+        <div class="button-set left"><a class="button primary" href="sms://81190?body=Rubikon10">Jetzt per SMS spenden</a></div>
+</div>
+</div>
+<div class="article-author">
+<div class="article-author-image">
+<a href="/autoren/tom-oliver-regenauer"><img alt="Tom-Oliver Regenauer" src="/uploads/store/e7a820f892df3008afe7626cdd1528fe.jpg"/></a>
+</div>
+<div class="article-author-bio">
+<p><strong>Tom-Oliver Regenauer</strong>, Jahrgang 1978, war nach betriebswirtschaftlicher Ausbildung in verschiedenen Branchen und Rollen tätig, unter anderem als Betriebsleiter, Unternehmens- und Management-Berater sowie internationaler Projektmanager mit Einsätzen in über 20 Ländern. Seit Mitte der 90er-Jahre ist er zudem als Musikproduzent und Texter aktiv und betreibt ein unabhängiges Plattenlabel. Der in Deutschland geborene Autor lebt seit 2009 in der Schweiz. Zuletzt erschien von ihm „Homo Demens — Texte zu Zeitenwende, Technokratie und Korporatismus“. Weitere Informationen unter <a href="https://www.regenauer.press/">regenauer.press</a>.</p>
+</div>
+</div>
+<div class="article-license">
+<div class="article-license-image">
+<a class="no-border" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">
+<img alt="Creative Commons Lizenzvertrag" src="/assets/ic-cc-3328fe794e7dfbff5a441672472cde808f6df46243cbf1f47ee8af7f2323c264.png"/>
+</a>
+</div>
+<div class="article-license-info">
+          Dieses Werk ist unter einer <strong>Creative Commons-Lizenz</strong> (<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" rel="license">Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International</a>) lizenziert. Unter Einhaltung der Lizenzbedingungen dürfen Sie es verbreiten und vervielfältigen.
+        </div>
+</div>
+</div>
+</div>
+<div class="wrapper">
+<div class="content wide">
+<h1>Weiterlesen</h1>
+<div class="article-loop">
+<div class="loop-main">
+<article class="article-vertical article-big">
+<a class="article-image" href="/artikel/vergiss-deine-idole"><img alt="Vergiss deine Idole!" src="/uploads/store/5ea1684ecd65f51320c0c24879d809dd.jpg"/></a>
+<div class="tag">Thematisch verwandter Artikel</div>
+<h2><a href="/artikel/vergiss-deine-idole">Vergiss deine Idole!</a></h2>
+<p>Um sich zu emanzipieren, sollten sich Menschen von ihren Idolen lösen und lieber selbst zu jemandem werden, der anderen als Vorbild dienen könnte.</p>
+<div class="article-meta">
+                11.02.2023
+                von <a href="/autoren/tom-oliver-regenauer">Tom-Oliver Regenauer</a>
+</div>
+</article>
+</div>
+<div class="loop-other">
+<article class="article-vertical article">
+<a class="article-image" href="/artikel/der-opfertotalitarismus"><img alt="Der Opfertotalitarismus" src="/uploads/store/f5bd7c2252652d499229d42cfad9f7ac.jpg"/></a>
+<div class="tag">Aktueller Artikel</div>
+<h2><a href="/artikel/der-opfertotalitarismus">Der Opfertotalitarismus</a></h2>
+<div class="moreinfo">
+<p>Wer heute etwas auf sich hält, inszeniert sich als Opfer, denn nur so wird man noch wahrgenommen — dabei wird die Demokratie als wirkliches Opfer in Mitleidenschaft gezogen.</p>
+<div class="article-meta">
+                  08.02.2023
+                  von <a href="/autoren/roberto-j-de-lapuente">Roberto J.  De Lapuente</a>
+</div>
+</div>
+</article>
+<article class="article-vertical article">
+<a class="article-image" href="/artikel/unter-dach-und-haut"><img alt="Unter Dach und Haut " src="/uploads/store/df2dc0fc467e9ab94bfa14fa43b5fee3.jpg"/></a>
+<div class="tag">Aus dem Archiv</div>
+<h2><a href="/artikel/unter-dach-und-haut">Unter Dach und Haut </a></h2>
+<div class="moreinfo">
+<p>Mit implantierten Chips als Wohnungsschlüssel wirbt die Sparda-Bank Berlin für ein Baufinanzierungsangebot — eine Dystopie nimmt erkennbare Züge an.</p>
+<div class="article-meta">
+                  31.10.2019
+                  von <a href="/autoren/nicolas-riedl">Nicolas  Riedl</a>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer-wrapper">
+<div class="footer-content">
+<div class="footer1">
+<div class="footer-left">
+<h3>Post vom Rubikon</h3>
+<p>Wenn Sie in regelmäßigen Abständen über neue Veröffentlichungen im „Rubikon — Magazin für die kritische Masse“
+          informiert werden möchten, tragen Sie bitte hier Ihre E-Mail-Adresse ein:</p>
+<form accept-charset="UTF-8" action="/subscription#newsletter" class="newsletter-form" id="new_subscriber" method="post"><input name="utf8" type="hidden" value="✓"/><input name="authenticity_token" type="hidden" value="6RVwH8yZLBMQ+165f4WRp1SWM0v7SeO0i+W0T1SQRuC3FFyq/VXtQPFzybbXGkAaydz7Cmqz8FOj7poizK2HHA=="/>
+<input id="subscriber_email" name="subscriber[email]" placeholder="Ihre E-Mail Adresse" type="email"/>
+<div class="non-visible">
+<input id="subscriber_last_name" name="subscriber[last_name]" placeholder="Ihr Name" type="text"/>
+</div>
+<div class="non-visible">
+<input name="subscriber[checked]" type="hidden" value="0"/><input id="subscriber_checked" name="subscriber[checked]" placeholder="Einverstanden" type="checkbox" value="1"/>
+</div>
+<button class="button secondary" type="submit">Abonnieren</button>
+</form> </div>
+<div class="footer-center">
+<img alt="Exklusives" src="/assets/ill-exklusives_d-80edca19e74a72950368b416c4d1461a7a27f546cbb98790d27a8d86deed8789.png"/>
+</div>
+<div class="footer-right">
+<h3>Der Rubikon</h3>
+<p>Rubikon ist das Magazin für die kritische Masse. Wir berichten über das, was in den Massenmedien nicht zu finden ist. Herausgegeben wird der Rubikon in Mainz, geschrieben wird er von unabhängigen Journalistinnen und Journalisten überall auf der Welt.</p>
+<a class="button larger" href="/spenden">Jetzt spenden</a><br/>
+</div>
+</div>
+<div class="footer2">
+<a href="https://t.me/RubikonMagazin">Telegram</a>
+<a href="https://www.bitchute.com/channel/RubikonMagazin/">Videos</a>
+<a href="https://rubikonmagazin.podbean.com/">Podcasts</a>
+<a href="https://www.rubikon.news/artikel.atom">Newsfeed</a>
+<a href="/newsletter">Newsletter</a>
+</div>
+<div class="footer2">
+<a href="http://www.rubikon-magazin.shop">Shop</a>
+<a href="/buecher">Bücher</a>
+<a href="/freunde">Freunde</a>
+<a href="/kontakt">Team</a>
+<a href="/impressum">Impressum</a>
+<a href="/datenschutz">Datenschutz</a>
+</div>
+<div class="footer3">
+       © 2017–2023 Rubikon | Release 2.0.3 vom 08.04.2022
+    </div>
+</div>
+</footer>
+<script src="/assets/frontend/frontend-c64ff02dee5bfee3153887bcbff62194b33719ae9347db5908059e3b97bc9b9d.js"></script>
+<script>
+var _paq = _paq || [];
+_paq.push(["setCookieDomain", "*.rubikon.news"]);
+_paq.push(["setDomains", ["*.rubikon.news"]]);
+_paq.push(["setDoNotTrack", true]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="//stats.rubikon.news/";
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['setSiteId', '2']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<noscript>
+<img alt="Rubikon" src="https://stats.rubikon.news/piwik.php?idsite=2&amp;rec=1" style="border:0"/>
+</noscript>
+</body>
+</html>

@@ -1,0 +1,1653 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+<meta charset="utf-8"/>
+<link href="https://www.ukcolumn.org/" rel="canonical"/>
+<link href="https://www.ukcolumn.org/" rel="shortlink"/>
+<script async="" data-domain="www.ukcolumn.org" defer="" src="https://plausible.io/js/plausible.js"></script>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+<link href="/themes/custom/ukc_theme/ukc-logo-sm-sq.png" rel="icon" type="image/png"/>
+<title>Homepage | UKColumn</title>
+<link href="/sites/default/files/css/css_gMlKkvgAWH3iSTzM-GlvROYcGqSlEcMzX8pmJwYn5Og.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_whCFjBAt4CaMQwDie0iJNPcwEDLRvQOIogNQaedVV-4.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_hjFttaY50UR2V33E7zMsMr66nbCDiFQUnTnnSjS4Ufw.css" media="print" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&amp;family=Open+Sans:wght@400;600;700&amp;family=Playfair+Display:wght@400;600;700&amp;family=Roboto+Slab&amp;display=swap" media="all" rel="stylesheet"/>
+</head>
+<body class="path-frontpage page-node-type-page full-width">
+<a class="visually-hidden focusable skip-link" href="#main-content">
+Skip to main content
+</a>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<aside class="mdc-drawer mdc-drawer--modal">
+<div class="mdc-drawer__content">
+<nav aria-labelledby="block-mainnavigation-menu" class="block block-menu navigation menu--main" id="block-mainnavigation" role="navigation">
+<h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a class="is-active" data-drupal-link-system-path="&lt;front&gt;" href="/"> <span>Home</span>
+</a>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Video</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2181" href="/ukcolumn-news-archive"> <span>UK Column News Archive</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3300" href="/series/uk-column-interviews"> <span>UK Column Interviews</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2186" href="/insight"> <span>Insight</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2524" href="/series/david-ellis-report"> <span>David Ellis Report</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a data-drupal-link-system-path="node/2301" href="/audio-podcasts"> <span>Podcasts</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution"> <span>A Dissident's Guide to the Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree"> <span>Deconstructing the Magic Money Tree</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2147" href="/series/dispatches-from-the-front"> <span>Dispatches from the Front</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Sections</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2196" href="/northern-exposure"> <span>Northern Exposure</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2151" href="/series/eu-military-unification"> <span>European Defence Union</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2195" href="/censored"> <span>Censored</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2343" href="/series/the-whistleblowers"> <span>The Whistleblowers</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Topics</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2176" href="/topic/coronavirus"> <span>Coronavirus</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2175" href="/topic/brexit"> <span>Brexit</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2166" href="/topic/children-education"> <span>Children &amp; Education</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2161" href="/topic/constitution"> <span>Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2163" href="/topic/defence"> <span>Defence</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2158" href="/topic/economy"> <span>Economy</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2167" href="/topic/environment"> <span>Environment</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2884" href="/topic/faith"> <span>Faith</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2164" href="/topic/health"> <span>Health</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2174" href="/topic/international"> <span>International</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2160" href="/topic/justice"> <span>Justice</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2168" href="/topic/media"> <span>Media</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2994" href="/topic/mind"> <span>Mind</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2157" href="/topic/politics"> <span>Politics</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2169" href="/topic/science"> <span>Science</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2170" href="/topic/technology"> <span>Technology</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Series</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution"> <span>A Dissident's Guide to the Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2571" href="/series/doctors-for-covid-ethics"> <span>Doctors for Covid Ethics</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2144" href="/series/common-purpose-effect"> <span>The Common Purpose Effect</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2138" href="/series/one-world-governance"> <span>One World Governance</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2154" href="/series/global-citizen-movement"> <span>Global Citizen Movement</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2153" href="/series/integrity-initiative"> <span>Integrity Initiative</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2150" href="/series/fake-news"> <span>Fake News</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2137" href="/series/leveson-inquiry"> <span>Leveson Inquiry</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2140" href="/series/oxford-cherwell-valley-college"> <span>Oxford &amp; Cherwell Valley College</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2127" href="/series/weekly-nudge"> <span>The Weekly Nudge</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2152" href="/series/white-helmets"> <span>The White Helmets</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree"> <span>Deconstructing the Magic Money Tree</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2858" href="/series/dying-for-good-health"> <span>Dying for Good Health</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2857" href="/series/no-smoke-without-fire"> <span>No Smoke Without Fire</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2887" href="/series/the-third-degree"> <span>The Third Degree</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-header-2-menu" class="block block-menu navigation menu--header" id="block-header-2" role="navigation">
+<h2 class="visually-hidden" id="block-header-2-menu">Header</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/695" href="/about-uk-column"> <span>About</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2180" href="/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3819" href="/careers"> <span>Careers</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/698" href="/donate"> <span>Donate</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://community.ukcolumn.org/"> <span>Community Website</span>
+</a>
+</li>
+</ul>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1-3">
+<div class="inner">
+<form accept-charset="UTF-8" action="/search" id="views-exposed-form-search-page-1" method="get" region="overlay">
+<div class="form--inline clearfix">
+<div class="form-item form-type-textfield form-item-keywords">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Keyword(s)</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-keywords" id="edit-keywords" maxlength="128" name="keywords" size="30" type="text" value=""/>
+</label>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"> <button class="button js-form-submit form-submit mdc-button mdc-button--unelevated mdc-button mdc-button--outlined" data-drupal-selector="edit-submit-search" id="edit-submit-search" type="submit" value="Search"></button>
+<div class="inner">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Search</span>
+</div>
+
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-menu-trigger-close">
+<button class="mdc-icon-button" id="close-overlay">
+<span class="far fa-times"></span>
+<span class="visually-hidden">Close</span>
+</button>
+</div>
+</aside>
+<div class="mdc-drawer-scrim"></div>
+<div class="layout-container">
+<header class="layout-header" role="banner">
+<div class="region region-top">
+<div class="inner">
+<nav aria-labelledby="block-social-menu" class="block block-menu navigation menu--social" id="block-social" role="navigation">
+<h2 class="visually-hidden" id="block-social-menu">Social</h2>
+<ul class="menu" region="top">
+<li class="menu-item">
+<a class="fab fa-facebook-f" href="https://facebook.com/ukcolumn" target="_blank"> <span>Facebook</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-telegram" href="https://t.me/ukcolumn" target="_self"> <span>Telegram</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-twitter" href="https://twitter.com/ukcolumn" target="_blank"> <span>Twitter</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-itunes" href="https://podcasts.apple.com/gb/podcast/uk-column-podcasts/id1008807223" target="_blank"> <span>iTunes</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-soundcloud" href="https://soundcloud.com/ukcolumn" target="_blank"> <span>Soundcloud</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fas fa-rss" data-drupal-link-system-path="rss.xml" href="/rss.xml"> <span>RSS</span>
+</a>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-header-menu" class="block block-menu navigation menu--header" id="block-header" role="navigation">
+<h2 class="visually-hidden" id="block-header-menu">Header</h2>
+<ul class="menu" region="top">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/695" href="/about-uk-column"> <span>About</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2180" href="/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3819" href="/careers"> <span>Careers</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/698" href="/donate"> <span>Donate</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://community.ukcolumn.org/"> <span>Community Website</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="region region-header">
+<div class="inner">
+<div class="block block-system block-system-branding-block" id="block-ukc-theme-sitebranding">
+<div class="inner">
+<a class="site-logo" href="/" rel="home">
+<img alt="Home" src="/themes/custom/ukc_theme/logo.png"/>
+</a>
+</div>
+</div>
+<nav aria-labelledby="block-main-navigation-header-menu" class="block block-menu navigation menu--main" id="block-main-navigation-header" role="navigation">
+<h2 class="visually-hidden" id="block-main-navigation-header-menu">Main navigation</h2>
+<ul class="menu" region="header">
+<li class="menu-item">
+<a class="is-active" data-drupal-link-system-path="&lt;front&gt;" href="/">Home</a>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Video</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2181" href="/ukcolumn-news-archive">UK Column News Archive</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3300" href="/series/uk-column-interviews">UK Column Interviews</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2186" href="/insight">Insight</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2524" href="/series/david-ellis-report">David Ellis Report</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a data-drupal-link-system-path="node/2301" href="/audio-podcasts">Podcasts</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution">A Dissident's Guide to the Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree">Deconstructing the Magic Money Tree</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2147" href="/series/dispatches-from-the-front">Dispatches from the Front</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Sections</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2196" href="/northern-exposure">Northern Exposure</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2151" href="/series/eu-military-unification">European Defence Union</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2195" href="/censored">Censored</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2343" href="/series/the-whistleblowers">The Whistleblowers</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Topics</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2176" href="/topic/coronavirus">Coronavirus</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2175" href="/topic/brexit">Brexit</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2166" href="/topic/children-education">Children &amp; Education</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2161" href="/topic/constitution">Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2163" href="/topic/defence">Defence</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2158" href="/topic/economy">Economy</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2167" href="/topic/environment">Environment</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2884" href="/topic/faith">Faith</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2164" href="/topic/health">Health</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2174" href="/topic/international">International</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2160" href="/topic/justice">Justice</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2168" href="/topic/media">Media</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2994" href="/topic/mind">Mind</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2157" href="/topic/politics">Politics</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2169" href="/topic/science">Science</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2170" href="/topic/technology">Technology</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Series</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution">A Dissident's Guide to the Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2571" href="/series/doctors-for-covid-ethics">Doctors for Covid Ethics</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2144" href="/series/common-purpose-effect">The Common Purpose Effect</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2138" href="/series/one-world-governance">One World Governance</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2154" href="/series/global-citizen-movement">Global Citizen Movement</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2153" href="/series/integrity-initiative">Integrity Initiative</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2150" href="/series/fake-news">Fake News</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2137" href="/series/leveson-inquiry">Leveson Inquiry</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2140" href="/series/oxford-cherwell-valley-college">Oxford &amp; Cherwell Valley College</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2127" href="/series/weekly-nudge">The Weekly Nudge</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2152" href="/series/white-helmets">The White Helmets</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree">Deconstructing the Magic Money Tree</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2858" href="/series/dying-for-good-health">Dying for Good Health</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2857" href="/series/no-smoke-without-fire">No Smoke Without Fire</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2887" href="/series/the-third-degree">The Third Degree</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1">
+<div class="inner">
+<form accept-charset="UTF-8" action="/search" id="views-exposed-form-search-page-1" method="get" region="header">
+<div class="form--inline clearfix">
+<div class="form-item form-type-textfield form-item-keywords">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Keyword(s)</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-keywords" id="edit-keywords--2" maxlength="128" name="keywords" size="30" type="text" value=""/>
+</label>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--2"> <button class="button js-form-submit form-submit mdc-button mdc-button--unelevated mdc-button mdc-button--outlined" data-drupal-selector="edit-submit-search-2" id="edit-submit-search--2" type="submit" value="Search"></button>
+<div class="inner">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Search</span>
+</div>
+
+</div>
+</div>
+</form>
+</div>
+</div>
+<button class="mdc-icon-button search-trigger">
+<span class="far fa-search"></span>
+<span class="far fa-times"></span>
+<span class="visually-hidden">Search</span>
+</button>
+<div class="modal-menu-trigger">
+<span class="visually-hidden">Menu</span>
+<button class="mdc-icon-button">
+<span class="far fa-bars"></span>
+<span class="visually-hidden">Open</span>
+</button>
+</div>
+</div>
+</div>
+</header>
+<main class="layout-main" role="main">
+<div class="inner">
+<a id="main-content" tabindex="-1"></a>
+<div class="region region-highlighted">
+<div class="inner">
+<div class="block block-ukc-core block-ukc-live-stream-block" id="block-livestreamblock">
+<div class="inner">
+<article about="/live" class="node node--type-live-programme node--view-mode-teaser mdc-card mdc-card--elevated upcoming" role="article">
+<div class="node__content">
+<div class="node__header">
+<div class="node__title">
+<strong>
+Next livestream:
+</strong>
+<span class="field field--name-title field--type-string field--label-hidden">Questioning Lockdown</span>
+</div>
+<div class="starts">
+<div class="field field--name-field-broadcast-time-start"><time class="datetime" datetime="2023-03-09T13:00:00Z">Thursday, 13:00</time>
+</div>
+</div>
+<div class="node__intro">The UK Column News is
+<a href="/live">streamed live</a>
+at 1pm every Monday, Wednesday and Friday, and is available
+<a href="/ukcolumn-news-archive">on demand</a>
+soon afterwards.</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+<div class="region region-content-above">
+<div class="inner">
+<div class="hidden" data-drupal-messages-fallback=""></div>
+<div class="block block-core block-page-title-block" id="block-ukc-theme-page-title">
+<div class="inner">
+<h1 class="visually-hidden page-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">Homepage</span>
+</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="layout-main--wrapper">
+<div class="region region-content">
+<div class="inner">
+<div class="block block-system block-system-main-block" id="block-ukc-theme-content">
+<div class="inner">
+<article about="/homepage" class="node node--type-page node--view-mode-full" role="article" typeof="schema:WebPage">
+<div class="node__content">
+<div class="paragraph paragraph--type--promoted-content layout-multi-row-1 mdc-layout-grid">
+<div class="content mdc-layout-grid__inner">
+<div class="paragraph paragraph--type--dynamic-content-item mdc-layout-grid__cell">
+<article class="mdc-card mdc-card--elevated">
+<a class="mdc-card__primary-action" href="/video/uk-column-news-8th-march-2023" tabindex="0">
+<div class="mdc-card__media">
+<img src="https://www.ukcolumn.org/sites/default/files/styles/teaser/public/2023-03/ukc-news-080323.jpg?h=8d16384a&amp;itok=WctT7-QG"/>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title">UK Column News - 8th March 2023</h2>
+<div class="mdc-card__content-body">
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser custom join-us">
+<article class="mdc-card mdc-card--elevated">
+<div class="">
+<div class="mdc-card__media">
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"></h2>
+<div class="mdc-card__content-body">
+<div class="main-image"><a href="/community/">
+<div class="align-center">
+<img alt="Join us today" class="image-style-max-1300x1300" height="365" src="/sites/default/files/styles/max_1300x1300/public/2021-01/ukc-join-us-today.jpg?itok=4sclGaev" typeof="foaf:Image" width="600"/></div>
+</a></div>
+<div class="headline">
+<h2><a href="https://community.ukcolumn.org/">Join Us Today</a></h2>
+</div>
+<div class="teaser">
+<p>The UK Column is funded wholly by its membership. Join us today to support what we do, access our members' website and exclusive members only content, all for just £3 per month.</p>
+</div>
+<div class="button red"><button><a href="https://community.ukcolumn.org/" style="color:white;">Join Today</a></button></div>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/video/ethans-story-sodium-valproate" class="node node--type-video node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/video/ethans-story-sodium-valproate" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-03/3D864173-903C-4CFB-BF12-0374DCC9BEB7.jpeg?h=8d16384a&amp;itok=mvfo-vld" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Ethan's Story—Sodium Valproate</span>
+</h2>
+Is the NHS really working in the best interests of your sick child? Ethan's story, as told by his devoted mum, will make you think differently.
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/video/invest-in-yourself-an-introduction-to-the-world-of-herbal-medicine-with-jane-placca" class="node node--type-video node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/video/invest-in-yourself-an-introduction-to-the-world-of-herbal-medicine-with-jane-placca" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Jane%20Placca_2.jpg?h=8d16384a&amp;itok=jTTmZShY" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Invest in Yourself—An introduction to the world of herbal medicine with Jane Placca</span>
+</h2>
+Allopathic medicine is not the only way to health; there are other treatments. The choice is ours.
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--dynamic-content-item mdc-layout-grid__cell">
+<article class="mdc-card mdc-card--elevated">
+<a class="mdc-card__primary-action" href="https://community.ukcolumn.org/forums/uk-column-news-extra/uk-column-news-extra-8th-march-2023" tabindex="0">
+<div class="mdc-card__media">
+<img src="https://community.ukcolumn.org/sites/default/files/styles/max_650x650/public/2023-03/ukc-news-extra-080323.jpg?itok=OQkynjeQ"/>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title">UK Column News Extra - 8th March 2023</h2>
+<div class="mdc-card__content-body">
+Become a UK Column member to get access to our additional News Extra coverage, a more relaxed, sometimes in-depth, often funny and wry look at events.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/how-bill-gates-hijacked-a-failing-pharma-system-and-smashed-it-a-tale-of-incompetence" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/how-bill-gates-hijacked-a-failing-pharma-system-and-smashed-it-a-tale-of-incompetence" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-03/Pharmaceuticals%20%28flickr.com%29.jpg?h=1b014590&amp;itok=OrzKHnLn" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">How Bill Gates hijacked a failing pharma system and smashed it: A tale of incompetence, deceit, greed, and an unmitigated thirst for power</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Hedley Rees
+</div>
+Where did Big Pharma come from in the first place? A frank account by an expert eyewitness.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/video/portugal-pandemics-and-parliament-one-womans-remarkable-story" class="node node--type-video node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/video/portugal-pandemics-and-parliament-one-womans-remarkable-story" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Marta%20Gameiro.jpg?h=8d16384a&amp;itok=ansOOxrH" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Portugal, Pandemics and Parliament—One woman’s remarkable story</span>
+</h2>
+Meet the dentist who is almost single-handedly, and in her own time and at her own personal expense, pushing back against the narrative of control in her country, Portugal.
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/video/fornethy-residential-school-childhood-memories-and-survivor-testimonies-from-scotland" class="node node--type-video node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/video/fornethy-residential-school-childhood-memories-and-survivor-testimonies-from-scotland" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Fornethy%20House.jpg?h=1090211e&amp;itok=TigT4rE6" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Fornethy Residential School—Childhood memories and survivor testimonies from Scotland</span>
+</h2>
+Proceedings of the Fornethy Conference held on 22 January 2023 at St Luke's, Bain Street, Glasgow.
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/charles-malet-podcast-birminghams-no-prayer-law-the-law-that-has-to-ask-you-if-youre-breaking-it" class="node node--type-audio node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/charles-malet-podcast-birminghams-no-prayer-law-the-law-that-has-to-ask-you-if-youre-breaking-it" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Arrest%20of%20Isabel%20Vaughan-Spruce.jpeg?h=99d66d24&amp;itok=59l4f1qi" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Charles Malet Podcast: Birmingham's No-Prayer Law—the law that has to ask you if you're breaking it</span>
+</h2>
+<div class="mdc-card__content-text">
+UK Column's policing commentator unpicks the unenforceable nonsense of one of Britain's new wave of local council Public Space Protection Orders (PSPOs), explains the Doctrine of the Lesser Magistrates and asks why the Church of England couldn't care less about criminalised silent prayer.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/ukrainian-policy-in-the-donbass-is-it-fair-to-call-it-genocide" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/ukrainian-policy-in-the-donbass-is-it-fair-to-call-it-genocide" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Zelensky%20in%20Donbass%20%28flickr.com%29.jpeg?h=c9f93661&amp;itok=OxPpmf-G" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">Ukrainian policy in the Donbass: Is it fair to call it genocide?</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Terry Boardman
+</div>
+LONG READ: As long as states like Ukraine go on trying to copy the nineteenth-century western European unitary model of the nation state, there will only be endless conflict.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/mark-anderson-podcast-double-trouble-the-whos-treaty-and-regulations" class="node node--type-audio node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/mark-anderson-podcast-double-trouble-the-whos-treaty-and-regulations" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/World_Health_Organization_Executive_Board_Room.JPG?h=827069f2&amp;itok=qDtK-ID3" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Mark Anderson Podcast: Double Trouble—The WHO's Treaty and Regulations</span>
+</h2>
+<div class="mdc-card__content-text">
+Cutting through "multi-spectral and cross-sectoral" verbiage, Mark Anderson fillets Geneva's Zero Draft for "One Health" to reveal the self-interest of the WHO's funders.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/eastern-approaches-podcast-ukraine-im-not-buying-into-ideologies-from-either-the-east-or-the-neo" class="node node--type-audio node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/eastern-approaches-podcast-ukraine-im-not-buying-into-ideologies-from-either-the-east-or-the-neo" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Borderless%20Russia%20billboard%20%28Wikimedia%29.jpg?h=ae1281eb&amp;itok=bZUUNEEW" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Eastern Approaches Podcast: Ukraine—"I'm not buying into ideologies from either the East or the neo-Marxist West"</span>
+</h2>
+<div class="mdc-card__content-text">
+Gevorg Virats tells Eastern Approaches Podcast why he resolutely opposes Russian actions in Ukraine, a country with which he has been intimately familiar for twenty years.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/the-politics-of-environmental-fundamentalism" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/the-politics-of-environmental-fundamentalism" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Just%20Stop%20Oil%20%28flickr%29.jpeg?h=827069f2&amp;itok=2EgQZIv5" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">The Politics of Environmental Fundamentalism</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Simon Elmer
+</div>
+Just Stop Oil are the paid promoters of the UN’s Agenda 2030 and its goal to financialise the natural world. They have appropriated street protest for the political agenda of globalists. There is no need to hire crocodile tears when a generation of ...
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/video/anecdotals-a-realistic-look-at-vaccine-injury-with-jennifer-sharp" class="node node--type-video node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/video/anecdotals-a-realistic-look-at-vaccine-injury-with-jennifer-sharp" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Jennifer%20Sharp.jpg?h=8d16384a&amp;itok=hW-GhBm-" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Anecdotals—A realistic look at vaccine injury with Jennifer Sharp</span>
+</h2>
+Those reporting harm from Covid jabs face being ignored and silenced. There is no honest attempt by the authorities to measure the scope of vaccine injury. So the stories remain anecdotes and their narrators remain—the Anecdotals.
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/what-is-transhumanism" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/what-is-transhumanism" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Immortality%20Bus%20%28Wikimedia%20Commons%29.jpg?h=2e4af638&amp;itok=HYKEzQxo" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">What is transhumanism?</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Johannes Eisleben
+</div>
+Transhumanists are overawed by maths. They do not understand the scope of physics and engineering. They have no idea of the limits to biology. Transhumanism is bound to fail because its ideas cannot be achieved—they are technically unfeasible, and ...
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/are-we-really-at-war-nonsensical-sustainable-development-part-i" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/are-we-really-at-war-nonsensical-sustainable-development-part-i" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/10-Point-Plan-Icons-All-Twitter.jpeg?h=d28b8abe&amp;itok=ouqIJfeL" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">Are We Really At War? Nonsensical Sustainable Development—Part 1</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Iain Davis
+</div>
+The Prime Minister calls Russia a "rogue state" and the Foreign Secretary accuses the Russian government of committing "atrocities”; yet that is no impediment to the UK Government working closely with Rosatom's commercial partners.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/what-are-we-doing-to-our-children-part-2-were-the-covid-policies-fit-for-purpose-or" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/what-are-we-doing-to-our-children-part-2-were-the-covid-policies-fit-for-purpose-or" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-01/Maske%20auf%20%287C0%20on%20Flickr%29.jpeg?h=8975185d&amp;itok=AaMyaoIO" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">What are we doing to our children?—Part 2: Were the Covid policies fit for purpose or necessary?</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Hugh McCarthy
+</div>
+A generation has been damaged by policies targeting a virus which all the scientific evidence shows does not affect them. The measures that restricted children clearly did not work. Who is responsible?
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser custom">
+<article class="mdc-card mdc-card--elevated">
+<div class="">
+<div class="mdc-card__media">
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"></h2>
+<div class="mdc-card__content-body">
+<a class="mdc-card__primary-action mdc-ripple-upgraded" href="https://yellowcard.ukcolumn.org/yellow-card-reports" style="--mdc-ripple-fg-size:411px; --mdc-ripple-fg-scale:2.13814; --mdc-ripple-fg-translate-start:213.31px, 216.255px; --mdc-ripple-fg-translate-end:137.719px, 60.7578px;">
+<div>
+<img alt="View the MHRA Yellow Card Covid-19 Vaccine Adverse Reaction Data" class="image-style-max-1300x1300" height="844" src="/sites/default/files/styles/max_1300x1300/public/2021-05/yellow-card-data.jpg?itok=KE4y1Mux" typeof="foaf:Image" width="1300"/></div>
+</a>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title" style="padding:1%;"><a class="mdc-card__primary-action mdc-ripple-upgraded" href="https://yellowcard.ukcolumn.org/yellow-card-reports" style="--mdc-ripple-fg-size:411px; --mdc-ripple-fg-scale:2.13814; --mdc-ripple-fg-translate-start:213.31px, 216.255px; --mdc-ripple-fg-translate-end:137.719px, 60.7578px;">View the MHRA Yellow Card Covid-19 Adverse Reactions Data</a></h2>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/the-unlawful-pandemic-deployment-of-77th-brigade" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/the-unlawful-pandemic-deployment-of-77th-brigade" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/77-brigade-website.jpg?h=a0667207&amp;itok=5LR47EJ_" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">The Unlawful Pandemic Deployment of 77th Brigade</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Philip Ridley
+</div>
+The raising or keeping a standing army within the Kingdom in time of Peace, unless it be with consent of Parliament, is against law.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/ukraine-the-search-for-peace" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/ukraine-the-search-for-peace" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-01/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827095245666%29.jpg?h=c9f93661&amp;itok=_XmxIqa0" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">Ukraine: The Search for Peace</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Col. Jacques Baud
+</div>
+Ukraine is paying the price for the blind and idiotic smugness of our Western journalists and politicians.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/scottish-cardiac-ambulance-data-shows-worrying-increase-in-incidents" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/scottish-cardiac-ambulance-data-shows-worrying-increase-in-incidents" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-01/US_Navy_040421-N-8090G-001_Hospital_Corpsman_3rd_Class_Flowers_administers_chest_compressions_to_a_simulated_cardiac_arrest_victim.jpg?h=b02e9b70&amp;itok=lUwV9ulX" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">Scottish cardiac ambulance data shows worrying increase in incidents</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Prof. Norman Fenton
+</div>
+
+Scotland has seen changes—mostly increases—in the rates of serious cardiac incidents since Covid vaccination began. Youngest age groups are the worst affected.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/menticide-101-and-the-brainwashing-of-a-world-part-iii-new-courage-for-old-lies" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/menticide-101-and-the-brainwashing-of-a-world-part-iii-new-courage-for-old-lies" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2022-12/640px-The_courage_to_stand.jpg?h=4c1fc98e&amp;itok=4roW3a_g" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">Menticide 101 and the Brainwashing of a World: Part III—New Courage for Old Lies</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Dr Bruce Scott
+</div>
+Which strength will prove the strongest in the Great Reset? For those who know the answer, this is a glorious time to be alive.
+</div>
+</div>
+</a>
+</article>
+</div>
+</div>
+</div>
+<div class="paragraph paragraph--type--videos paragraph--view-mode--default">
+<div class="info">
+<h2>
+<div class="field field--name-field-title">UK Column News</div>
+</h2>
+<div class="field field--name-field-series"><a href="/ukcolumn-news-archive" hreflang="en">UK Column News</a></div>
+</div>
+<div class="media">
+<div class="views-element-container">
+<div class="view view-videos slick">
+<article about="/video/uk-column-news-6th-march-2023" class="node node--type-video node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/video/uk-column-news-6th-march-2023" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-03/ukc-news-060323.jpg?h=8d16384a&amp;itok=6OkzbCUY" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">UK Column News - 6th March 2023</span>
+</h2>
+</div>
+</a>
+</article>
+<article about="/video/uk-column-news-3rd-march-2023" class="node node--type-video node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/video/uk-column-news-3rd-march-2023" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-03/ukc-news-030323.jpg?h=8d16384a&amp;itok=gybA-cqF" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">UK Column News - 3rd March 2023</span>
+</h2>
+</div>
+</a>
+</article>
+<article about="/video/uk-column-news-1st-march-2023" class="node node--type-video node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/video/uk-column-news-1st-march-2023" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-03/ukc-news-010323.jpg?h=8d16384a&amp;itok=GmB9yq8E" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">UK Column News - 1st March 2023</span>
+</h2>
+</div>
+</a>
+</article>
+<article about="/video/uk-column-news-27th-february-2023-0" class="node node--type-video node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/video/uk-column-news-27th-february-2023-0" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/ukc-news-270223.jpg?h=8d16384a&amp;itok=IsnNxypv" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden"> UK Column News - 27th February 2023</span>
+</h2>
+</div>
+</a>
+</article>
+<article about="/video/uk-column-news-24th-february-2023" class="node node--type-video node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/video/uk-column-news-24th-february-2023" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/ukc-news-240223.jpg?h=8d16384a&amp;itok=LQqBFrxn" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">UK Column News - 24th February 2023</span>
+</h2>
+</div>
+</a>
+</article>
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph paragraph--type--promoted-content layout-25-25-25-25 mdc-layout-grid has-summary">
+<div class="summary">
+<div class="field field--name-field-title">Sections</div>
+</div>
+<div class="content mdc-layout-grid__inner">
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell image_only">
+<article about="/censored" class="node node--type-series node--view-mode-image-only mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/censored" style="background-image:url('/sites/default/files/2021-03/censored-wide.jpg'" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2021-03/censored-wide.jpg?h=1df33258&amp;itok=0v4XaxI2" typeof="foaf:Image" width="640"/>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell image_only">
+<article about="/northern-exposure" class="node node--type-series node--view-mode-image-only mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/northern-exposure" style="background-image:url('/sites/default/files/2021-03/northern-exposure-logo.jpg'" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2021-03/northern-exposure-logo.jpg?h=004581e8&amp;itok=SFCExPHJ" typeof="foaf:Image" width="640"/>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell image_only">
+<article about="/series/eu-military-unification" class="node node--type-series node--view-mode-image-only mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/series/eu-military-unification" style="background-image:url('/sites/default/files/2021-02/eu-military-unification.jpg'" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2021-02/eu-military-unification.jpg?h=9396f34a&amp;itok=Yk33YcE0" typeof="foaf:Image" width="640"/>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell image_only">
+<article about="/series/one-world-governance" class="node node--type-series node--view-mode-image-only mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/series/one-world-governance" style="background-image:url('/sites/default/files/2021-03/one-world-governance_1.jpg'" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2021-03/one-world-governance_1.jpg?h=e97b2424&amp;itok=3X1kWODD" typeof="foaf:Image" width="640"/>
+</a>
+</article>
+</div>
+</div>
+</div>
+<div class="paragraph paragraph--type--promoted-content layout-50-25-25 mdc-layout-grid has-summary">
+<div class="summary">
+<div class="field field--name-field-title">Editor's Choice</div>
+</div>
+<div class="content mdc-layout-grid__inner">
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/nhs-long-term-plan-and-mental-health-implementation-plan-phoenix-or-dinosaur" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/nhs-long-term-plan-and-mental-health-implementation-plan-phoenix-or-dinosaur" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2022-07/Aneurin_Bevan_0.jpeg?h=d4332927&amp;itok=Hl5vMSGH" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">NHS Long Term Plan and Mental Health Implementation Plan: Phoenix or dinosaur?</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Debi Evans
+</div>
+What does the National Health Service's grand strategy mean for each and every one of us living in the United Kingdom? Debi Evans has read the plans and enumerates 47 implications.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/british-military-information-war-waged-their-own-population" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/british-military-information-war-waged-their-own-population" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/nick-carter.jpg?h=f1d93651&amp;itok=ai1MwYpM" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">The British Military Information War Waged On Their Own Population</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Mike Robinson
+</div>
+The head of the British Army claims that tens of thousands of staff are available to counter Covid-19 'misinformation' and 'disinformation'.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/buying-a-single-version-of-the-truth" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/buying-a-single-version-of-the-truth" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2021-05/omnigov.jpg?h=8d16384a&amp;itok=rpIlcJeH" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">Buying a Single Version of the Truth</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Iain Davis
+</div>
+The UK Government has spent £1.6 billion buying the Covid–19 truth. UK Column has long been following the BBC-led mainstream media cartel, the Trusted News Initiative.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/beyond-integrity-initiative-scale-ukgov-counter-disinformation" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/beyond-integrity-initiative-scale-ukgov-counter-disinformation" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/propaganda-mill.jpg?h=cc62764d&amp;itok=6Ty2X_JV" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">Beyond Integrity Initiative: The Scale of UK Government Counter-Disinformation</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Mike Robinson
+</div>
+The recent hack of the Institute for Statecraft’s Integrity Initiative programme offered a rare glimpse into a part of the government’s propaganda machine which it really doesn’t want anyone to see. Which raises the question, what else is there?&amp;#13;
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/interview-stormtrooper-0" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/interview-stormtrooper-0" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/Liaison%20Officer.png?h=6bd4ef5a&amp;itok=NEV8fqZi" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">Interview with a Stormtrooper</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+David Scott
+</div>
+A transcript of the exchange between David Scott and two Police Scotland “liaison officers” at Holyrood on 6 March 2021.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/article/race-new-digital-financial-identity-every-global-citizen" class="node node--type-article node--view-mode-teaser mdc-card mdc-card--elevated" role="article" typeof="schema:Article">
+<a class="mdc-card__primary-action" href="/article/race-new-digital-financial-identity-every-global-citizen" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/digital-identity.jpg?h=27848f0c&amp;itok=zVo2NYEy" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">The Race is On: a New Digital Financial Identity for Every Global Citizen</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Bernice Bartelds
+</div>
+The second in a series of articles investigating the Global Citizen movement. Who will win this race? The corporate world, the banking world or the world's governments? And why is the Pope involved?
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/video/insight-slaughtered-on-suspicion" class="node node--type-video node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/video/insight-slaughtered-on-suspicion" tabindex="0">
+<div class="mdc-card__image video-thumbnail">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2021-08/slaughtered-on-suspicion.jpg?h=6daa6fff&amp;itok=6cl3JhcL" typeof="foaf:Image" width="640"/>
+<div class="play-icon">
+<span class="fas fa-play"></span>
+</div>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Insight: Slaughtered on Suspicion</span>
+</h2>
+In 2001, the north-west of England was ravaged by livestock slaughters imposed by the Ministry of Agriculture, which had just changed its name to DEFRA. This unique UK Column documentary, with testimony by intimidated locals, reveals the role of Professor Neil Ferguson's modelling and of hidden policy agendas in that huge blow to the farmers of Cumbria.
+</div>
+</a>
+</article>
+</div>
+</div>
+</div>
+<div class="paragraph paragraph--type--promoted-content layout-full-width mdc-layout-grid has-summary">
+<div class="summary">
+<div class="field field--name-field-title">Comment</div>
+</div>
+<div class="content mdc-layout-grid__inner">
+<div class="paragraph paragraph--type--promoted-content-items-only layout-50-25-25 mdc-layout-grid mdc-layout-grid__cell">
+<div class="content mdc-layout-grid__inner">
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/blogs/debi-evans-blog-28-february-2023" class="node node--type-blog-entry node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/blogs/debi-evans-blog-28-february-2023" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Debi%20New.jpg?h=ae1281eb&amp;itok=bBQFyYLX" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Debi Evans Blog: 28 February 2023</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Debi Evans
+</div>
+Debi Evans continues her weekly blog of startling events in healthcare. Do you think "Britons should be grateful for the NHS"?
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/blogs/translating-the-narrative" class="node node--type-blog-entry node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/blogs/translating-the-narrative" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Vladimir_Putin_with_Wang_Yi_%282018-04-05%29_02.jpg?h=541b9819&amp;itok=1D1PcFtg" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Translating the Narrative</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Dr. Bouthaina Shaaban
+</div>
+Who gave Biden a divine right to feed the war in the Ukraine and prohibit China from doing so? We have to translate entire agencies' and media outlets' narrative in a way that enables us to see the truth.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/blogs/the-question-of-evil-revisited" class="node node--type-blog-entry node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/blogs/the-question-of-evil-revisited" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2022-12/685px-Fe%CC%81lix_Joseph_Barrias_-_The_Temptation_of_Christ_by_the_Devil_-_Google_Art_Project.jpg?h=a05b1e7b&amp;itok=agrcq4-W" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">The question of evil revisited</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Johannes Eisleben
+</div>
+Unrestrained power enables the triumph of evil in Western societies, and it is not yet clear when this process will be stopped. It could take the rest of our lives.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/blogs/letters-to-the-editor-spring-2023" class="node node--type-blog-entry node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/blogs/letters-to-the-editor-spring-2023" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-01/Halfpenny%20Image%201.jpg?h=334c1a7c&amp;itok=7PQXf8Fe" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Letters to the Editor: Spring 2023</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Letters to the Editor
+</div>
+What our viewers have been thinking and doing.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/blogs/humans-and-birds-gender-sanity-as-spring-approaches" class="node node--type-blog-entry node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/blogs/humans-and-birds-gender-sanity-as-spring-approaches" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Philomachus_pugnax_-Diergaarde_Blijdorp-8.jpg?h=524dc788&amp;itok=kHzaVIYg" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Humans and Birds: Gender sanity as spring approaches</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Prof. Gloria Moss
+</div>
+It seems that we must abandon the notion that males and females are interchangeable, whether our focus is birds or humans.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/blogs/on-your-own-in-the-nhs" class="node node--type-blog-entry node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/blogs/on-your-own-in-the-nhs" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Hospital%20visit%20%28Flickr%2C%20commercial%20use%20allowed%29.jpeg?h=827069f2&amp;itok=iXY_BRZB" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">On Your Own in the NHS</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+Debi Evans
+</div>
+Family and friends are being restricted from visiting their loved ones, no-one is exempt, and visiting restrictions include child patients, babies and the dying. Hospitals seem to have become secure institutions.
+</div>
+</div>
+</a>
+</article>
+</div>
+<div class="paragraph paragraph--type--promoted-content-item mdc-layout-grid__cell teaser">
+<article about="/blogs/breaking-the-binds-curing-western-schizophrenia" class="node node--type-blog-entry node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/blogs/breaking-the-binds-curing-western-schizophrenia" tabindex="0">
+<img alt="" class="image-style-teaser" height="368" src="/sites/default/files/styles/teaser/public/2023-02/Schizophrenic%20window%20%28Flickr%2C%20commercial%20use%20allowed%29.jpeg?h=c6d0d1c4&amp;itok=XtwD5UPO" typeof="foaf:Image" width="640"/>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Breaking the Binds: Curing Western Schizophrenia</span>
+</h2>
+<div class="mdc-card__content-text">
+<div class="field field--name-field-author field--type-entity-reference field__items">
+David Gosselin
+</div>
+Leave off the escapism of drugs and untie the Laingian knot. As long as we allowed ourselves to be fooled by imitations, the game always won. Decide to play no more games.
+</div>
+</div>
+</a>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="paragraph paragraph--type--dynamic-content layout-25-25-25-25 mdc-layout-grid has-summary">
+<div class="summary">
+<div class="field field--name-field-title">Stories We're Watching</div>
+</div>
+<div class="content">
+<div class="views-element-container">
+<div class="view view-stories view-id-stories view-display-id-default js-view-dom-id-7591a7be99732fd9091e13a86386d413b515883862e309c9ef2d460450c37a77">
+<div class="view-content mdc-layout-grid__inner">
+<div class="mdc-layout-grid__cell">
+<article about="/stories-we-are-watching/street-preacher-appeals-conviction-for-misgendering" class="node node--type-stories-watching node--view-mode-teaser mdc-card mdc-card--outlined" role="article">
+<a class="mdc-card__primary-action" href="https://christianconcern.com/news/street-preacher-appeals-conviction-for-misgendering/" tabindex="0">
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Street preacher appeals conviction for ‘misgendering</span>
+</h2>
+<div class="field field--name-field-publisher">Christian Concern</div>
+</div>
+</a>
+</article>
+</div>
+<div class="mdc-layout-grid__cell">
+<article about="/stories-we-are-watching/big-aukus-news-coming-but-hill-and-allies-see-tech-sharing-snags" class="node node--type-stories-watching node--view-mode-teaser mdc-card mdc-card--outlined" role="article">
+<a class="mdc-card__primary-action" href="https://www.defensenews.com/pentagon/2023/03/07/big-aukus-news-coming-but-hill-and-allies-see-tech-sharing-snags" tabindex="0">
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Big AUKUS news coming, but Hill and allies see tech sharing snags</span>
+</h2>
+<div class="field field--name-field-publisher">Defense News</div>
+</div>
+</a>
+</article>
+</div>
+<div class="mdc-layout-grid__cell">
+<article about="/stories-we-are-watching/defence-minister-tobias-ellwood-plugs-kissingers-world-order-responses-less" class="node node--type-stories-watching node--view-mode-teaser mdc-card mdc-card--outlined" role="article">
+<a class="mdc-card__primary-action" href="https://twitter.com/Tobias_Ellwood/status/1631227209737203713" tabindex="0">
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Defence minister Tobias Ellwood plugs Kissinger's World Order—responses less than charmed</span>
+</h2>
+<div class="field field--name-field-publisher">Twitter</div>
+</div>
+</a>
+</article>
+</div>
+<div class="mdc-layout-grid__cell">
+<article about="/stories-we-are-watching/new-bill-may-create-hostile-environment-for-media" class="node node--type-stories-watching node--view-mode-teaser mdc-card mdc-card--outlined" role="article">
+<a class="mdc-card__primary-action" href="https://www.lawgazette.co.uk/commentary-and-opinion/new-bill-may-create-hostile-environment-for-media/5115327.article" tabindex="0">
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">New bill may create hostile environment for media</span>
+</h2>
+<div class="field field--name-field-publisher">Law Society Gazette (See comments also)</div>
+</div>
+</a>
+</article>
+</div>
+<div class="mdc-layout-grid__cell">
+<article about="/stories-we-are-watching/new-jersey-schools-shocking-alliance-with-the-military-to-muzzle-a-mom" class="node node--type-stories-watching node--view-mode-teaser mdc-card mdc-card--outlined" role="article">
+<a class="mdc-card__primary-action" href="https://chaosandcontrol.substack.com/p/schools-shocking-alliance-with-the" tabindex="0">
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">New Jersey School's Shocking Alliance with the Military to Muzzle a Mom</span>
+</h2>
+<div class="field field--name-field-publisher">Chaos and Control</div>
+</div>
+</a>
+</article>
+</div>
+<div class="mdc-layout-grid__cell">
+<article about="/stories-we-are-watching/biden-is-being-played-by-azerbaijan" class="node node--type-stories-watching node--view-mode-teaser mdc-card mdc-card--outlined" role="article">
+<a class="mdc-card__primary-action" href="https://www.washingtonexaminer.com/opinion/biden-is-being-played-by-azerbaijan" tabindex="0">
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Biden is being played by Azerbaijan</span>
+</h2>
+<div class="field field--name-field-publisher">Washington Examiner</div>
+</div>
+</a>
+</article>
+</div>
+<div class="mdc-layout-grid__cell">
+<article about="/stories-we-are-watching/the-money-was-just-resting-in-their-account-the-queering-of-the-irish-pork" class="node node--type-stories-watching node--view-mode-teaser mdc-card mdc-card--outlined" role="article">
+<a class="mdc-card__primary-action" href="https://grahamlinehan.substack.com/p/the-money-was-just-resting-in-their" tabindex="0">
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">The money was just resting in their account: The queering of the Irish pork barrel</span>
+</h2>
+<div class="field field--name-field-publisher">Graham Linehan (scriptwriter for Father Ted)</div>
+</div>
+</a>
+</article>
+</div>
+<div class="mdc-layout-grid__cell">
+<article about="/stories-we-are-watching/israeli-think-tank-executive-says-he-gave-doj-damning-information-on-biden" class="node node--type-stories-watching node--view-mode-teaser mdc-card mdc-card--outlined" role="article">
+<a class="mdc-card__primary-action" href="https://freebeacon.com/biden-administration/israeli-think-tank-executive-says-he-gave-doj-damning-information-on-biden-family-foreign-business-deals/" tabindex="0">
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Israeli Think Tank Executive Says He Gave DOJ Damning Information on Biden Family Foreign Business Deals</span>
+</h2>
+<div class="field field--name-field-publisher">Washington Free Beacon</div>
+</div>
+</a>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="layout-footer" role="contentinfo">
+<div class="region region-footer">
+<div class="inner">
+<div class="block block-simple-block block-simple-blockfooter" id="block-ukcolumn">
+<div class="inner">
+<div class="block-title">UK Column</div>
+<p>The UK Column is an independent multimedia news website <a href="https://www.ukcolumn.org/community">supported by its members</a>.</p>
+</div>
+</div>
+<div class="block block-simple-block block-simple-blockcopyright" id="block-copyright">
+<div class="inner">
+<p>© 2006-2021 UK Column. For <a href="https://www.ukcolumn.org/user/login">permission</a> to use any content on this website please <a href="https://www.ukcolumn.org/contact">contact us</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2105","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"classy\/base,classy\/messages,classy\/node,core\/normalize,media\/filter.caption,paragraphs\/drupal.paragraphs.unpublished,system\/base,ukc_core\/admin_css,ukc_theme\/fonts,ukc_theme\/global-styling,ukc_theme\/paragraph-dynamic-content,ukc_theme\/paragraph-promoted-content,ukc_theme\/paragraph-videos,views\/views.ajax,views\/views.module","theme":"ukc_theme","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:90dfe1c8b8133438814675955232ead6c49b968ecbf18b1e4b565748d707637c":{"view_name":"videos","view_display_id":"block_3","view_args":"2181\/5","view_path":"\/node\/2105","view_base_path":null,"view_dom_id":"90dfe1c8b8133438814675955232ead6c49b968ecbf18b1e4b565748d707637c","pager_element":0}}},"user":{"uid":0,"permissionsHash":"24a7fea61d09ca75b04029346079397b67be32e4b80ac47ef82cea8e7c0d3bfa"}}</script>
+<script src="/sites/default/files/js/js_8GKyNuQECmJXhQzy_Qu59sAUogcKqq4y0no-fpJFQI4.js"></script>
+</body>
+</html>

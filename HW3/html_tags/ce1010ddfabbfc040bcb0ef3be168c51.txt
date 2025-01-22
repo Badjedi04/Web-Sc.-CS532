@@ -1,0 +1,1308 @@
+ <!DOCTYPE html>
+
+<html class="u-full-width" lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>The Great Reset: The Global Elite's Plan to Radically Remake Our Economic and Social Lives</title>
+<meta content="The Great Reset is a plan by global elites to confiscate your wealth and end your way of life. " name="description"/>
+<meta content="the great reset" name="keywords"/>
+<meta content="INDEX,FOLLOW" name="robots"/>
+<meta content="IE=9; IE=8; IE=7; IE=EDGE" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1" name="viewport"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/apple-touch-icon-57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/apple-touch-icon-76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/apple-touch-icon-120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/base/default/images/favicons/apple-touch-icon-144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/apple-touch-icon-152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/apple-touch-icon-167.png" rel="apple-touch-icon" sizes="167x167"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/apple-touch-icon-180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/favicon-192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/favicon-128.png" rel="icon" sizes="128x128" type="image/png"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/favicon-96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/favicon-32.png" rel="icon" sizes="32x32" type="image/png"/>
+<meta content="#1A1A1A" name="msapplication-TileColor"/>
+<meta content="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/favicons/ms-icon-144.png" name="msapplication-TileImage"/>
+<link as="font" crossorigin="" href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/fonts/roboto-v27-latin-regular/roboto-v27-latin-regular.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/fonts/roboto-v27-latin-700/roboto-v27-latin-700.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/fonts/symbols/symbols-27454334.woff" rel="preload" type="font/woff"/>
+<!-- Disable tap highlight on IE -->
+<meta content="no" name="msapplication-tap-highlight"/>
+<link href="https://ammo.com/media/css/9bab303044ba793f85b2b631f8447a15-min.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://ammo.com/media/css/295fdb4863d9aef5eb8996df13b045eb-min.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://ammo.com/articles/the-great-reset" rel="canonical">
+<meta content="The Great Reset: The Global Elite&amp;#039;s Plan to Radically Remake Our Economic and Social Lives" property="og:title">
+<meta content="Ammo.com" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="https://ammo.com/articles/the-great-reset" property="og:url">
+<meta content="The Great Reset is a plan by global elites to confiscate your wealth and end your way of life." property="og:description"/>
+<meta content="https://ammo.com/media/AN/images/the-great-reset-hero-image.jpeg" property="og:image"/>
+<meta content="image/jpeg" property="og:image:type"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="795" property="og:image:height"/>
+<meta content="100265896690345" property="fb:app_id"/>
+<meta content="100001792689680" property="fb:admins"/>
+<meta content="articles/the-great-reset" property="fb:ref"/>
+</meta></meta></meta></meta></link></link></link></head>
+<body class="cms-page-view cms-articles-the-great-reset cms-articles-the-great-reset">
+<div class="l-page">
+<noscript>
+<div class="noscript">
+<div class="noscript-inner">
+<p><strong>JavaScript seems to be disabled in your browser.</strong></p>
+<p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+</div>
+</div>
+</noscript>
+<div class="l-page__header">
+<header class="l-header">
+<div class="grid-container">
+<div class="l-header__contact-container">
+<div class="b-header-contact l-header__contact">
+                    Contact us:                                        <a class="b-header-contact__link" href="tel:+18006041094">
+<i class="icon-phone"> </i>
+                        800-604-1094                    </a>
+<a class="b-header-contact__link" href="mailto:customercare@ammo.com">
+<i class="icon-envelope-o"> </i>
+                        customercare@ammo.com                    </a>
+</div>
+</div>
+<a class="b-header-logo l-header__logo" href="https://ammo.com/">
+<svg class="b-header-logo__icon" height="83.858" width="65.213" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+    .logo-b {
+        fill: #fff
+    }
+    .logo-e {
+        fill: #888a8c
+    }
+    .logo-g {
+        fill: #464648
+    }
+                        </style>
+</defs>
+<path d="M32.475 83.8l-1.878-.878-2.046-.945.011-.017c-9.006-4.31-15.094-7.877-19.354-11.147-4.545-3.477-7.139-6.826-8.324-10.326a18.653 18.653 0 01-.883-6.177V0h65.213v54.306a18.654 18.654 0 01-.883 6.177 18.387 18.387 0 01-4.422 6.9c-4.411 4.512-11.79 9.2-25.247 15.519-.05.022-.123.062-.212.1l-1.834.855-.14-.062zm.134-4.724c.056-.028.123-.056.2-.1 13.272-6.217 20.277-10.784 23.983-14.619a14.08 14.08 0 003.427-5.272 14.3 14.3 0 00.654-4.78V4.338H4.338v49.968a14.3 14.3 0 00.654 4.78c.833 2.449 2.711 5.1 6.854 8.28 4.07 3.131 10.32 6.781 19.93 11.315l.833.391z"></path>
+<path class="logo-b" d="M31.693 81.035l-.257-.117.917-1.968-.922 1.962c-10.013-4.7-16.548-8.481-20.909-11.824-4.344-3.332-6.58-6.328-7.592-9.308a16.456 16.456 0 01-.766-5.479V2.164h60.881v52.137a16.457 16.457 0 01-.766 5.479 16.246 16.246 0 01-3.925 6.082c-4.059 4.17-11.254 8.8-24.621 15.072-.062.034-.134.061-.207.1l-.917.431-.917-.425z"></path>
+<path d="M32.352 78.949C5.859 66.538 4.338 60.638 4.338 54.306V4.338H60.88v49.968c0 6.34-1.526 12.243-28.07 24.671-.067.034-.134.061-.2.1z" fill="#99161d"></path>
+<path class="logo-b" d="M25.666 77.624l-11.181-6.362V22.418h11.181zm24.956-5.78l-11.181 5.781V22.418h11.181z"></path>
+<path d="M60.88 22.418V4.338H4.338v18.08z" fill="#083167"></path>
+<path d="M22.004 32.486c-1.224.917-1.705.526-1.839.352s.263-.481.263-.481-2.231.57-2.538.57-1.18 1.359-1.18 1.359c-.129-.7-.173-1.224-.173-1.224l-1.006.263c1.18-2.275 4.154-1.314 5.468-2.231-.263-.218-.263-.391-.263-.391a6.663 6.663 0 001.576-1.532 1.738 1.738 0 000-.7l-.128-.089c-.129-.089-1.314-.481-1.314-.481l-.481.129c-.352.045.436 1.621.436 1.621-1.006-.436-.878-.833-1.051-.654a1.547 1.547 0 00-.263.615c-2.141-2.365-.7-3.5-.7-3.5s.129-.654.173-1.135 2.89.436 2.89.436c2.974-.045 3.589 1.1 3.852 1.18s2.723.229 2.723.229c.173.006.391.011.637.011a76.51 76.51 0 002.979-.09c.151-.006.3-.011.447-.011a8.688 8.688 0 015.865 2.163 6.958 6.958 0 012.359 5.154 8.057 8.057 0 01-2.985 5.976 14.611 14.611 0 01-2.415 1.716 7.754 7.754 0 012.963-.671 5.473 5.473 0 012.566.632 8.089 8.089 0 012.409 2.013 5.359 5.359 0 011.135 3.421 7.558 7.558 0 01-3.36 6.032 30.449 30.449 0 01-7.4 3.835c-.6.229-1.079.408-1.347.526a16.85 16.85 0 00-2.7 1.426 4.081 4.081 0 00-1.191 1.09.771.771 0 00-.145.408c0 .129.05.257.263.453a3.134 3.134 0 001.018.537 10.737 10.737 0 003.388.492 8.475 8.475 0 003.008-.464 8.038 8.038 0 001.778-.99 6.894 6.894 0 00.872-.8 2.3 2.3 0 01.486-.425.951.951 0 01.475-.134 1 1 0 01.486.134.771.771 0 01.341.38 1 1 0 01.078.4 1.868 1.868 0 01-.14.665 3.611 3.611 0 01-.363.693 6.793 6.793 0 01-1.353 1.5 9.433 9.433 0 01-5.339 2.091q-.788.067-1.526.067a10.252 10.252 0 01-5.63-1.387 4.265 4.265 0 01-2.113-3.578 5.732 5.732 0 012.057-4.07 16.036 16.036 0 016.071-3.3 24.007 24.007 0 004.512-1.89 6.064 6.064 0 002.175-1.85 2.032 2.032 0 00.347-1.113 2.416 2.416 0 00-.33-1.163 2.006 2.006 0 00-.581-.7 1.049 1.049 0 00-.6-.179 3.388 3.388 0 00-1.577.553 20.209 20.209 0 00-2.141 1.487 38.09 38.09 0 01-5.238 3.651 8.854 8.854 0 01-4.036 1.135c-.19 0-.38-.011-.57-.028a5.506 5.506 0 01-3.645-1.851 5.608 5.608 0 01-1.392-3.69 5.9 5.9 0 012.052-4.4 11.669 11.669 0 016.558-2.594c.151-.017.52-.056 1.051-.14a16.8 16.8 0 001.929-.425 8.888 8.888 0 004.1-2.253 4.237 4.237 0 001.146-2.89v-.044a3.643 3.643 0 00-1.414-2.806c-1-.827-5.037-1.448-5.037-1.448-4.409-1.008-6.202 1.491-7.428 2.407zm6.021 11.869a7.327 7.327 0 00-3.282 1.448 2.15 2.15 0 00-.894 1.493.624.624 0 00.212.5 1.187 1.187 0 00.783.235 5.9 5.9 0 003.3-1.487 63.576 63.576 0 015.149-3.74c.134-.084.268-.162.408-.24a28.385 28.385 0 01-5.68 1.789z"></path>
+<path class="logo-e" d="M27.695 60.322a5.529 5.529 0 01.57-1.023c.145-.6-.749-.654-.268-1.476-.168.654.341.777.442 1.314a4.7 4.7 0 01.587-.5v-1.9c0 .002-2.918 2.227-1.331 3.585zm7.704-28.752a4.083 4.083 0 011.09 2.8 4.943 4.943 0 01-1.912 3.863l-.47 1.224-2.454.5.76.805 2.5.553a16.344 16.344 0 001.9-1.28 5.293 5.293 0 00-1.414-8.465zm7.273 16.984a9.18 9.18 0 01-3.729 5.277 20.861 20.861 0 01-3.382 1.767l.006-3.578c3.818-1.744 4.869-3.617 3.79-5.613a2 2 0 00-1.275-1.135c1.638-.643 5.026.761 4.59 3.282zm-13.708-5.009c-.347.084-.7.168-1.057.24-2.488.531-3.885 1.61-4.4 2.616 0 0 .576-3.807 5.853-4.774z"></path>
+<path d="M35.846 62.978V42.583c0-.246-1.057-2.879-1.057-2.879l.134-3.595-.3-.3a29.863 29.863 0 00-1.968-11.108.8.8 0 00-.609 0 28.819 28.819 0 00-1.968 11.108l-.3.3.134 3.595s-1.057 2.633-1.057 2.879v20.394c.347.224 1.5.184 3.4.184s3.408.04 3.591-.183z"></path>
+<path d="M32.273 63.788c-.509 0-.962.006-1.364.006a10.893 10.893 0 01-1.9-.1 1.352 1.352 0 01-.481-.185l-.291-.185V42.588a1.091 1.091 0 01.028-.218c.011-.05.028-.1.045-.156.034-.112.078-.24.129-.386.1-.291.235-.643.369-1 .2-.514.391-1.006.481-1.23l-.14-3.734.3-.3c-.006-.129-.006-.3-.006-.5a30.619 30.619 0 012.024-10.583l.09-.24.229-.106a1.42 1.42 0 01.581-.123 1.3 1.3 0 01.559.123l.229.106.089.235a31.287 31.287 0 012.018 10.734c0 .134 0 .252-.006.347l.3.3-.14 3.734c.14.347.531 1.342.788 2.057.106.3.19.531.235.716a.788.788 0 01.028.218V63.2l-.14.173a.834.834 0 01-.324.235 1.333 1.333 0 01-.257.078 3.776 3.776 0 01-.542.067c-.4.028-.917.034-1.515.034-.43 0-.906-.006-1.414-.006zm-2.656-1.28c.308.022.744.028 1.291.028h2.784c.436 0 .822 0 1.129-.017.145-.006.28-.011.391-.022V42.639c-.006-.017-.011-.039-.017-.061a4.817 4.817 0 00-.112-.335c-.1-.268-.224-.621-.358-.962-.263-.682-.526-1.336-.526-1.336l-.05-.123.129-3.455-.3-.3.017-.279s0-.045.006-.14c0-.095.006-.24.006-.425a29.991 29.991 0 00-1.655-9.509 29.347 29.347 0 00-1.66 9.358c0 .352.011.581.017.665v.039l.022.285-.307.307.129 3.455-.05.123-.3.755c-.168.43-.375.967-.526 1.386a8.652 8.652 0 00-.184.553v19.858a.908.908 0 01.123.011z"></path>
+<path d="M35.846 62.978V42.583c0-.179-.822-2.292-.822-2.292a19.2 19.2 0 01-3.371-.347c2.857.145 3.142-.034 3.142-.034l.134-3.8a11.857 11.857 0 01-3.242-.2 8.273 8.273 0 002.946-.1 29.858 29.858 0 00-1.968-11.108.8.8 0 00-.609 0 28.82 28.82 0 00-1.968 11.108l-.3.3.134 3.595s-.073.19-.184.47a25.215 25.215 0 00-.867 2.409v20.394c.347.224 1.5.184 3.4.184s3.391.039 3.575-.184z" fill="#bf9400"></path>
+<path class="logo-b" d="M30.082 62.494V42.639c.011-.05.05-.162.095-.3.179-.514.52-1.4.732-1.934.112-.28.184-.47.184-.47l.05-.123-.129-3.455.307-.307c-.922-1.767 1.04-10.348 1.04-10.348a29.346 29.346 0 00-1.661 9.359c0 .352.011.581.017.665v.039l.022.285-.307.307.129 3.455-.05.123-.185.47c-.212.537-.553 1.42-.732 1.934-.045.129-.078.246-.095.3v19.857z"></path>
+<path d="M36.137 46.323c-1.957 1.23-3.7 2.773-5.5 4.036a16.833 16.833 0 01-2.169 1.325l.034-5.423a59.01 59.01 0 014.785-3.46 14.5 14.5 0 012.5-1.252z"></path>
+<path class="logo-g" d="M28.796 41.398a7.237 7.237 0 00.363-.956c-.721.129-1.247.184-1.409.2-11.075 1.342-9.275 10.846-3.589 11.377 4.344.4 7.452-3.533 11.667-6.189 4.372-2.75 10.667.637 4.875 6.86 4.047-3.321 3.516-6.966 2.124-8.609-4.322-5.121-8.951-1.219-14.329 2.918-2.918 2.247-4.825 1.873-5.193.649-.754-2.521 1.712-5.378 5.491-6.25z"></path>
+<path d="M34.672 31.531c-.279-.162-.531-.3-.732-.419a8.069 8.069 0 00-3.846-1.046s.581-2.415.939-3.287a77.454 77.454 0 001.034-.045c.14-.006.28-.011.419-.011a8.857 8.857 0 011.286.089 28.477 28.477 0 01.9 4.719zM33.23 64.593c-.168 0-.341-.005-.514-.011a12.47 12.47 0 01-4.3-.911l.006-3a4.88 4.88 0 00.721.419 9.7 9.7 0 004.014.833 7.932 7.932 0 002.812-.464 7.307 7.307 0 001.783-.962 6.285 6.285 0 00.861-.805 2.411 2.411 0 01.475-.436.924.924 0 01.486-.145.991.991 0 01.481.134.821.821 0 01.341.38.966.966 0 01.078.4 1.862 1.862 0 01-.14.66 4.1 4.1 0 01-.358.693 6.338 6.338 0 01-1.353 1.47 7.812 7.812 0 01-2.421 1.3 9.3 9.3 0 01-2.957.464c-.006-.017-.006-.017-.011-.017z"></path>
+<path class="logo-e" d="M33.235 64.392c-7.027.587-10.119-3-7.966-6.518a3.953 3.953 0 001.034 4.187c2.292 2.212 6.932 2.331 6.932 2.331z"></path>
+<path d="M37.747 50.667l-.224.224-.268 1.062 1.28 2.493.285-.073-1.2-2.577zm1.679-2.08l-.5 1.845 1.515 2.555.3-.1-1.515-2.476zm-14.521-5.076l.911 1.537.3-.095-.978-1.6zm1.772-1.151l1.079 1.817.3-.095-1.135-1.862zm8.973-5.675l1.744 3.052.151-.308-1.6-2.89zm.705-1.471l2.007 2.191.078-.358-2.063-2.348zm3.097 11.607l.469 1.85 1.811 2.382.212-.224-1.767-2.32zm-.872-.984l1.387 1.314 2.8 1.057.061-.3-2.734-1.029z"></path>
+<path class="logo-g" d="M23.435 26.885c.313.207.1-.492.1-.492a1.649 1.649 0 00-1.493.117 6.414 6.414 0 011.393.375zm2.007 2.7c-3.058.5-2.633 2.326-4.8 3.181 0 0-.19-.112-.034-.179 1.61-.671 1.2-2.605 2.751-3.3-.978.156-1.716 2.253-1.716 2.253l-.078-.112c-.419.654-3.466 1.107-3.953 1.224s-.693.839-.693.839c-.129-.47.408-1 .408-1a2.47 2.47 0 00-.99.363c.962-1.319 3.4-.263 5.166-1.576a3.223 3.223 0 00-.129-.358s1.068-1.28 1.241-1.5a2.559 2.559 0 00.173-1.034.688.688 0 00.352.235 4.919 4.919 0 01-.6-.688 6.449 6.449 0 01-2.314-1.113l.587.542a5.838 5.838 0 01-.794.157c-.492.559.341 1.621.341 1.621a1.543 1.543 0 01-.743-1.319 1.334 1.334 0 01-.1-1.23c-.548.369-.112 1.085-.112 1.085-.593-.028.061 1.42.061 1.42-1.18-1.945-.257-2.846-.257-2.846l.28.017-.218-.179c-.2-.805.1-.771.369-.716s2.091.553 2.091.553c5.484.442 3.494 2.421 3.494 2.421a.813.813 0 00.5-1.241l6.373.212c6.1-.274 11.3 5.836 5.63 11.986 3.052-5.518-2.208-8.218-3.494-8.688-5.448-2.014-8.793-1.03-8.793-1.03z"></path>
+<path class="logo-e" d="M36.684 61.96a.211.211 0 01.285-.213.252.252 0 01.4-.123s.061-.453.5-.207c0 0-.067-.5.43-.28 0 0-.212-.648.341-.167.391.341.643.654.537.727-.173.123-.593-.274-.593-.274s.307.559.179.654-.5-.146-.5-.146.207.5.1.553-.621-.33-.621-.33.224.459.056.542-.492-.43-.492-.43.307.771-.134.738a9.525 9.525 0 00-.488-1.044z"></path>
+<path class="logo-g" d="M36.942 63.201a8.564 8.564 0 01-4.2.8c-7.189-.335-9.906-5.423-4.349-8.978l.089 1.783c-5.059 4.048 3.293 6.893 7.692 5.182a2.523 2.523 0 01.341.38 7.916 7.916 0 01.427.833z"></path>
+<path class="logo-b" d="M32.884 67.12l1.068 3.276h3.449l-2.79 2.024 1.062 3.281-2.79-2.029-2.784 2.029 1.062-3.281-2.79-2.024h3.449zM10.852 18.729l-.5-2.259H8.424l-.5 2.259h-1.5l2.3-10.538h1.325l2.3 10.538zm-1.487-7.6l-.783 4h1.593zm3.7-2.938h1.5L16.645 14h.062l1.973-5.809h1.5v10.538h-1.5v-6.6h-.073l-1.582 4.758h-.8l-1.582-4.758h-.073v6.6h-1.5V8.191zm8.353 0h1.5L24.998 14h.062l1.973-5.809h1.5v10.538h-1.5v-6.6h-.073l-1.582 4.758h-.8l-1.577-4.758h-.073v6.6h-1.5V8.191zm8.29 2.767a5.386 5.386 0 01.123-1.168 2.145 2.145 0 01.66-1.079 2.571 2.571 0 01.805-.5 2.791 2.791 0 011.046-.179 2.907 2.907 0 011.045.179 2.568 2.568 0 01.805.5 2.064 2.064 0 01.66 1.079 5.717 5.717 0 01.123 1.168v5a5.39 5.39 0 01-.123 1.168 2.122 2.122 0 01-.66 1.079 2.565 2.565 0 01-.805.5 2.79 2.79 0 01-1.045.179 2.906 2.906 0 01-1.046-.179 2.568 2.568 0 01-.805-.5 2.063 2.063 0 01-.66-1.079 5.713 5.713 0 01-.123-1.168zm3.763-.224a2.255 2.255 0 00-.05-.475.9.9 0 00-.263-.442 1.125 1.125 0 00-.324-.212 1.163 1.163 0 00-.486-.089 1.21 1.21 0 00-.492.089 1.09 1.09 0 00-.324.212.922.922 0 00-.263.442 2.247 2.247 0 00-.05.475v5.451a2.248 2.248 0 00.05.475.9.9 0 00.263.442 1.126 1.126 0 00.324.212 1.173 1.173 0 00.492.089 1.145 1.145 0 00.486-.089 1.021 1.021 0 00.324-.212.924.924 0 00.263-.442 2.256 2.256 0 00.05-.475zm4.187 6.334v1.66h-1.655v-1.655h1.655zm4.68-6.485a1.607 1.607 0 00-.045-.352.941.941 0 00-.151-.341 2.1 2.1 0 00-.24-.224.836.836 0 00-.542-.151.916.916 0 00-.481.106 1.216 1.216 0 00-.3.24.971.971 0 00-.218.5 3.539 3.539 0 00-.039.542v5.194a4.423 4.423 0 00.022.486.907.907 0 00.173.442.941.941 0 00.263.246.894.894 0 00.5.129 1.248 1.248 0 00.481-.089.885.885 0 00.363-.268 1.161 1.161 0 00.134-.268 1.724 1.724 0 00.073-.587v-.375h1.5v.436a3.069 3.069 0 01-.212 1.247 2.285 2.285 0 01-.419.677 2.335 2.335 0 01-.716.481 2.964 2.964 0 01-1.258.224 2.3 2.3 0 01-1.9-.794 1.874 1.874 0 01-.464-.984 7.966 7.966 0 01-.062-.911v-5.462a4.843 4.843 0 01.129-1.068 1.844 1.844 0 01.637-1 2.125 2.125 0 01.822-.464 2.969 2.969 0 01.894-.151 2.916 2.916 0 01.978.173 2.406 2.406 0 01.844.5 2.309 2.309 0 01.481.738 2.544 2.544 0 01.2 1.006v.721h-1.459v-.6zm2.454.375a5.382 5.382 0 01.123-1.168 2.144 2.144 0 01.66-1.079 2.572 2.572 0 01.805-.5 2.79 2.79 0 011.046-.179 2.906 2.906 0 011.045.179 2.57 2.57 0 01.805.5 2.065 2.065 0 01.66 1.079 5.721 5.721 0 01.123 1.168v5a5.39 5.39 0 01-.123 1.168 2.123 2.123 0 01-.66 1.079 2.567 2.567 0 01-.805.5 2.789 2.789 0 01-1.045.179 2.9 2.9 0 01-1.046-.179 2.569 2.569 0 01-.805-.5 2.062 2.062 0 01-.66-1.079 5.713 5.713 0 01-.123-1.168zm3.762-.224a2.247 2.247 0 00-.05-.475.9.9 0 00-.263-.442 1.122 1.122 0 00-.324-.212 1.368 1.368 0 00-.973 0 1.02 1.02 0 00-.324.212.919.919 0 00-.263.442 2.247 2.247 0 00-.05.475v5.451a2.248 2.248 0 00.05.475.9.9 0 00.263.442 1.124 1.124 0 00.324.212 1.367 1.367 0 00.973 0 1.019 1.019 0 00.324-.212.923.923 0 00.263-.442 2.248 2.248 0 00.05-.475zm2.678-2.543h1.5L54.812 14h.062l1.973-5.809h1.5v10.538h-1.5v-6.6h-.073l-1.582 4.758h-.8l-1.582-4.758h-.073v6.6h-1.505z"></path>
+</svg>
+<svg class="b-header-logo__icon-small" height="33.975" style="display:none" width="33.001" xmlns="http://www.w3.org/2000/svg">
+<path d="M.5 19.848a9.986 9.986 0 005.477 8.213c5.352 2.677 7.36 3.589 10.523 5.354 2.616-1.217 9.247-4.624 10.769-5.354s5.11-3.468 5.231-7.727C32.439 16.318 32.5.5 32.5.5H.5z" fill="#fff" stroke="#fff"></path>
+<path d="M6.499 8.592v19.127s-5.422-1.851-5.422-8.947V8.592zm20.183 0v19.127s5.422-1.851 5.422-8.946V8.592zm-13.857 0v22.273l3.073 1.789a1.11 1.11 0 001.115.031l3.343-1.793v-22.3z" fill="#bb323d"></path>
+<path d="M1.077.88h31.027v7.712H1.077z" fill="#223a5e"></path>
+</svg>
+</a>
+<div class="l-header__right">
+<div class="b-header-search l-header__search" id="js-header-searchbar">
+<button class="e-icon-button b-header-search__show-button" data-toggle="top-search-form-wrapper" type="button">
+<i class="icon-search"> </i>
+</button>
+<div class="b-header-search__form-wrapper" id="top-search-form-wrapper">
+<button class="e-icon-button b-header-search__close" data-toggle="top-search-form-wrapper" type="button">
+<i class="icon-close"> </i>
+</button>
+<form action="https://ammo.com/catalogsearch/result" class="b-header-search__form" id="search_mini_form" method="get">
+<div class="form-search" id="autocomplete">
+<input autocapitalize="off" autocomplete="off" autocorrect="off" class="e-input b-header-search__input" id="search" name="q" placeholder="Search entire store here" required="" spellcheck="false" title="Search" type="text" value=""/>
+<button class="e-icon-button e-icon-button--big b-header-search__button" type="submit">
+<i class="icon-search"> </i>
+</button>
+<div class="algoliasearch-autocomplete" id="search_autocomplete" style="display:none;">
+<div id="search_autocomplete_categories">
+</div>
+<div id="search_autocomplete_products">
+</div>
+</div>
+</div>
+</form>
+</div>
+</div> <div class="l-header__phone">
+<a class="e-icon-button b-header-phone__call" href="tel:+1800-604-1094">
+<i class="icon-phone"> </i>
+</a>
+</div>
+<div class="l-header__top-links">
+<div class="b-header-account l-header__account-links">
+<a class="e-icon-button b-header-account__login" href="https://ammo.com/customer/account/login">
+<i class="icon-key"> </i>
+</a>
+<a class="e-icon-button b-header-account__dashboard" href="https://ammo.com/customer/account">
+<i class="icon-user"> </i>
+</a>
+</div>
+<a class="b-header-minicart l-header__minicart" href="https://ammo.com/checkout/cart">
+<i class="icon-shopping-cart"> </i>
+<small class="b-header-minicart__counter js-header-minicart">
+                                                        0                            <span class="b-header-minicart__counter-label">items                            </span>
+</small>
+</a>
+</div>
+</div>
+<nav class="l-top-nav l-header__top-nav" id="nav">
+<button class="e-icon-button l-top-nav__toggle" id="js-show-top-menu">
+<i class="icon-hamburger"> </i>
+</button>
+<div class="b-top-menu l-top-nav__menu" id="js-top-menu">
+<button class="e-icon-button b-top-menu__back-button" id="js-hide-top-menu" type="button">
+<i class="icon-close"> </i>
+</button>
+<div class="b-top-menu__container">
+<div class="b-top-menu__wrapper">
+<ul class="u-clear-list b-top-menu__list">
+<li class="b-top-menu__item b-top-menu__item--home first-first">
+<a class="b-top-menu__link" href="https://ammo.com/" title="Ammo.com"><span>Home</span></a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/ammo-on-sale" title="Ammo Deals at Ammo.com"><span>On Sale Now</span></a>
+</li>
+<li class="b-top-menu__item b-top-menu__item--calibers b-top-menu__item--has-children b-top-menu__item--open">
+<a class="b-top-menu__link b-top-menu__link--first" href="#">Ammo Calibers</a>
+<div class="b-top-menu__sub-wrapper">
+<div class="b-top-menu__sub b-top-menu__sub--calibers">
+<ul class="b-top-menu__sub-list">
+<li class="b-top-menu__item b-top-menu__item--has-children">
+<a class="b-top-menu__link b-top-menu__link--first" href="https://ammo.com/handgun">Handgun Ammo</a>
+<div class="b-top-menu__sub-wrapper">
+<div class="b-top-menu__sub">
+<ul class="b-top-menu__sub-list">
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--first" href="https://ammo.com/handgun/25-acp-ammo" title="25 ACP Ammo">25 ACP Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/handgun/32-acp-ammo" title="32 ACP Ammo">32 ACP Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/handgun/357-magnum-ammo" title="357 Magnum Ammo">357 Magnum Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/handgun/357-sig-ammo" title="357 Sig Ammo">357 Sig Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/handgun/38-special-ammo" title="38 Special Ammo">38 Special Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/handgun/380-acp-ammo" title="380 ACP (Auto) Ammo">380 ACP (Auto) Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/handgun/40-cal-ammo" title="40 Cal (S&amp;W) Ammo">40 Cal (S&amp;W) Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/handgun/44-magnum-ammo" title="44 Magnum Ammo">44 Magnum Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/handgun/44-s-w-special-ammo" title="44 S&amp;W Special Ammo">44 S&amp;W Special Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/handgun/45-acp-ammo" title="45 ACP Ammo">45 ACP Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/handgun/45-long-colt-ammo" title="45 Long Colt Ammo">45 Long Colt Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/handgun/50-action-express-ammo" title="50 Action Express Ammo">50 Action Express Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/handgun/9mm-ammo" title="9mm Ammo">9mm Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--last" href="https://ammo.com/handgun/10mm-ammo" title="10mm Ammo">10mm Ammo</a>
+</li>
+</ul>
+<a class="b-top-menu__more-calibers" href="https://ammo.com/handgun">View All Handgun Calibers</a>
+</div>
+</div>
+</li>
+<li class="b-top-menu__item b-top-menu__item--has-children">
+<a class="b-top-menu__link b-top-menu__link--first" href="https://ammo.com/rimfire">Rimfire Ammo</a>
+<div class="b-top-menu__sub-wrapper">
+<div class="b-top-menu__sub">
+<ul class="b-top-menu__sub-list">
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--first" href="https://ammo.com/rimfire/22-lr-ammo" title="22 Long Rifle (LR) Ammo">22 Long Rifle (LR) Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rimfire/22-wmr-ammo" title="22 WMR Ammo">22 WMR Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rimfire/22-long-ammo" title="22 Long Ammo">22 Long Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rimfire/22-short-ammo" title="22 Short Ammo">22 Short Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rimfire/17-hmr-ammo" title="17 HMR Ammo">17 HMR Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--last" href="https://ammo.com/rimfire/17-hm2-ammo" title="17 HM2 Ammo">17 HM2 Ammo</a>
+</li>
+</ul>
+<a class="b-top-menu__more-calibers" href="https://ammo.com/rimfire">View All Rimfire Calibers</a>
+</div>
+</div>
+</li>
+<li class="b-top-menu__item b-top-menu__item--has-children">
+<a class="b-top-menu__link b-top-menu__link--first" href="https://ammo.com/rifle">Rifle Ammo</a>
+<div class="b-top-menu__sub-wrapper">
+<div class="b-top-menu__sub">
+<ul class="b-top-menu__sub-list">
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--first" href="https://ammo.com/rifle/223-rem-ammo" title="223 Ammo">223 Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/224-valkyrie-ammo" title="224 Valkyrie Ammo ">224 Valkyrie Ammo </a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/243-ammo" title="243 Ammo">243 Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/270-ammo" title="270 Ammo">270 Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/30-carbine-ammo" title="30 Carbine Ammo">30 Carbine Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/30-06-ammo" title="30-06 Ammo">30-06 Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/30-30-ammo" title="30-30 Ammo">30-30 Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/300-blackout-ammo" title="300 AAC Blackout Ammo">300 AAC Blackout Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/308-win-ammo" title="308 Winchester Ammo">308 Winchester Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/350-legend-ammo" title="350 Legend Ammo">350 Legend Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/50-bmg-ammo" title="50 BMG Ammo">50 BMG Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/5.56x45-ammo" title="5.56x45 Ammo">5.56x45 Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/7.62x39-ammo" title="7.62x39 Ammo">7.62x39 Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/rifle/7.62x54r-ammo" title="7.62x54r Ammo">7.62x54r Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--last" href="https://ammo.com/rifle/surplus-ammo" title="Surplus Ammo">Surplus Ammo</a>
+</li>
+</ul>
+<a class="b-top-menu__more-calibers" href="https://ammo.com/rifle">View All Rifle Calibers</a>
+</div>
+</div>
+</li>
+<li class="b-top-menu__item b-top-menu__item--has-children">
+<a class="b-top-menu__link b-top-menu__link--first" href="https://ammo.com/shotgun">Shotgun Ammo</a>
+<div class="b-top-menu__sub-wrapper">
+<div class="b-top-menu__sub">
+<ul class="b-top-menu__sub-list">
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--first" href="https://ammo.com/shotgun/12-ga-ammo" title="12 Gauge Shotgun Shells">12 Gauge Shotgun Shells</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/shotgun/20-ga-ammo" title="20 Gauge Shotgun Shells">20 Gauge Shotgun Shells</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/shotgun/28-ga-ammo" title="28 Gauge Shotgun Shells">28 Gauge Shotgun Shells</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--last" href="https://ammo.com/shotgun/410-ammo" title="410 Shotgun Shells">410 Shotgun Shells</a>
+</li>
+</ul>
+<a class="b-top-menu__more-calibers" href="https://ammo.com/shotgun">View All Shotgun Calibers</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="b-top-menu__item b-top-menu__item--has-children">
+<a class="b-top-menu__link" href="https://ammo.com/brands">Ammo Brands</a>
+<div class="b-top-menu__sub-wrapper">
+<div class="b-top-menu__sub">
+<div class="b-top-menu__sub-title">Top-Selling  Brands</div>
+<ul class="b-top-menu__sub-list">
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--first" href="https://ammo.com/brands/federal-ammo" title="Federal Ammo">Federal Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/brands/fiocchi-ammo" title="Fiocchi Ammo">Fiocchi Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/brands/hornady-ammo" title="Hornady Ammo">Hornady Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/brands/magtech-ammo" title="Magtech Ammo">Magtech Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/brands/mbi-ammo" title="MBI Ammo">MBI Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/brands/pmc-ammo" title="PMC Ammo">PMC Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/brands/remington-ammo" title="Remington Ammo">Remington Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/brands/winchester-ammo" title="Winchester Ammo">Winchester Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--last" href="https://ammo.com/brands/wolf-ammo" title="Wolf Ammo">Wolf Ammo</a>
+</li>
+</ul>
+<a class="b-top-menu__more-calibers" href="https://ammo.com/brands">View All  Brands</a>
+</div>
+</div>
+</li>
+<li class="b-top-menu__item b-top-menu__item--has-children">
+<a class="b-top-menu__link" href="https://ammo.com/bulk-ammo">Bulk Ammo</a>
+<div class="b-top-menu__sub-wrapper">
+<div class="b-top-menu__sub">
+<div class="b-top-menu__sub-title">Top-Selling Bulk Calibers</div>
+<ul class="b-top-menu__sub-list">
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--first" href="https://ammo.com/bulk-ammo/bulk-9mm-ammo" title="Bulk 9mm Ammo">Bulk 9mm Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/bulk-ammo/bulk-40-s-w-ammo" title="Bulk 40 S&amp;W Ammo">Bulk 40 S&amp;W Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/bulk-ammo/bulk-45-acp-ammo" title="Bulk 45 ACP Ammo">Bulk 45 ACP Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/bulk-ammo/bulk-223-ammo" title="Bulk 223 Ammo">Bulk 223 Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/bulk-ammo/bulk-22-ammo" title="Bulk 22 Ammo">Bulk 22 Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/bulk-ammo/5.56-bulk-ammo" title="Bulk 5.56 Ammo">Bulk 5.56 Ammo</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--last" href="https://ammo.com/bulk-ammo/7.62x39-bulk-ammo" title="Bulk 7.62x39 Ammo">Bulk 7.62x39 Ammo</a>
+</li>
+</ul>
+<a class="b-top-menu__more-calibers" href="https://ammo.com/bulk-ammo">View All Bulk Calibers</a>
+</div>
+</div>
+</li>
+<li class="b-top-menu__item b-top-menu__item--has-children">
+<a class="b-top-menu__link" href="https://ammo.com/gear">Gear</a>
+<div class="b-top-menu__sub-wrapper">
+<div class="b-top-menu__sub">
+<div class="b-top-menu__sub-title">Top-Selling Gear</div>
+<ul class="b-top-menu__sub-list">
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--first" href="https://ammo.com/gear/t-shirts" title="T-Shirts">T-Shirts</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/gear/ammo-cans" title="Ammo Cans">Ammo Cans</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/gear/flags" title="Flags">Flags</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link" href="https://ammo.com/gear/magazines" title="Magazines">Magazines</a>
+</li>
+<li class="b-top-menu__item">
+<a class="b-top-menu__link b-top-menu__link--last" href="https://ammo.com/gear/patches" title="Patches">Patches</a>
+</li>
+</ul>
+<a class="b-top-menu__more-calibers" href="https://ammo.com/gear">View All Gear</a>
+</div>
+</div>
+</li> </ul>
+<ul class="b-top-menu__list nav collapse" id="nav-aside">
+<li class="b-top-menu__item nav-aside-library">
+<a class="b-top-menu__link" href="https://ammo.com/articles" title="Resistance Library"><span>Library</span></a>
+</li>
+<li class="b-top-menu__item nav-aside-faq">
+<a class="b-top-menu__link" href="https://ammo.com/frequently-asked-questions" title="Frequently Asked Questions"><span style="text-transform: none;">FAQs</span></a>
+</li>
+</ul> </div>
+</div>
+</div>
+</nav>
+</div>
+<div class="b-header-small-nav">
+<ul class="b-header-small-nav__list">
+<li class="b-header-small-nav__item">
+<a class="b-header-small-nav__link" href="https://ammo.com/handgun">Handgun Ammo</a>
+</li>
+<li class="b-header-small-nav__item b-header-small-nav__item--narrow">
+<a class="b-header-small-nav__link" href="https://ammo.com/rifle">Rifle Ammo</a>
+</li>
+<li class="b-header-small-nav__item">
+<a class="b-header-small-nav__link" href="https://ammo.com/rimfire">Rimfire Ammo</a>
+</li>
+<li class="b-header-small-nav__item">
+<a class="b-header-small-nav__link" href="https://ammo.com/shotgun">Shotgun Ammo</a>
+</li>
+<li class="b-header-small-nav__item b-header-small-nav__item--narrow">
+<a class="b-header-small-nav__link" href="https://ammo.com/gear">Gear</a>
+</li>
+<li class="b-header-small-nav__item">
+<a class="b-header-small-nav__link" href="https://ammo.com/brands">Ammo Brands</a>
+</li>
+</ul>
+</div> </header> </div>
+<div class="l-page__breadcrumbs grid-container">
+<div class="b-breadcrumbs">
+<ul class="b-breadcrumbs__wrapper">
+<li>
+<a class="b-breadcrumbs__link" href="https://ammo.com/" title="Go to Home Page">Home</a>
+<span class="b-breadcrumbs__separator">|</span>
+</li>
+<li>
+<span class="b-breadcrumbs__label">The Great Reset: The Global Elite's Plan to Radically Remake Our Economic and Social Lives</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="l-page__content">
+<div class="l-content-with-sidebar l-content-with-sidebar_left grid-container">
+<div class="grid-row">
+<main class="l-content-with-sidebar__main">
+<div class="p-cms"><h1 class="e-heading-page p-cms__heading">The Great Reset: <small>The Global Elite's Plan to Radically Remake Our Economic and Social Lives</small></h1>
+<div class="swwh">
+<p style="font-size:14px;">You're free to republish or share any of <a href="https://ammo.com/articles" target="_top" title="Resistance Library">our articles</a> (either in part or in full), which are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC Attribution License">Creative Commons Attribution 4.0 International License</a>. Our only requirement is that you give Ammo.com appropriate credit by linking to the original article.    Spread the word; knowledge is power!</p>
+</div>
+<p><img alt="what is the great reset" class="b-image image-right" height="265" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/the-great-reset-hero-image.jpeg" width="400"/>The Great Reset is upon us…or at least the powers that be are trying to bring it out. What was once a fringe “conspiracy theory” is now on display plain as day for everyone to see. The economic, political, academic, and media elites around the world are leveraging the chaos, confusion, and <a href="https://blog.libertasbella.com/covid-19-lockdowns-liberty-and-science/" target="_blank" title="Covid-19 lockdowns liberty and science">restrictions on liberty from the COVID-19 lockdowns</a> and using them to radically alter society around the world.</p>
+<p>What will this change look like? The global elites want to create a society of renters who <a href="https://www.forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/" target="_blank" title="what is the agenda of the global elities">own nothing</a>, while also pushing a social agenda that would be unpopular with the unwashed masses and difficult to implement in a society with a broad, ownership-based middle class. What this means is that you would rent not just your home, but also your phone, computer, car (though you probably will “carshare,” the term for renting a car when you need one for an extended period and summoning one when you need it for a ride), and even the pots and pans you cook with.</p>
+<p>The flip side of this will be a radical transformation of the world economy. No longer will you have a job in the sense that it has traditionally been understood. Instead, <a href="https://www.weforum.org/agenda/2021/05/what-gig-economy-workers/" target="_blank" title="how does a gig economy work">you will work various and sundry "gigs,"</a> all of which place you in a precarious position at any given time. You will receive a fee for services performed, with no benefits, paid time off, healthcare, or anything else that the middle class in the West has become accustomed to.</p>
+<div class="content-box content-box--libsyn">
+<div class="content-box__wrapper">
+<div class="content-box__container">
+<svg class="icon icon-sound">
+<use xlink:href="#icon-sound"></use>
+</svg>
+</div>
+<div class="content-box__data">
+<h3 class="mt-1 mb-4">Related Podcast</h3>
+<div class="libsyn-player">
+<div class="libsyn-player__wrapper">
+<iframe allowfullscreen="" height="90&gt;" loading="lazy" mozallowfullscreen="" msallowfullscreen="" oallowfullscreen="" scrolling="no" src="https://html5-player.libsyn.com/embed/episode/id/21475493/height/90/theme/custom/thumbnail/Yes/direction/forward/render-playlist/no/custom-color/313131/" style="border: none" webkitallowfullscreen="" width="100%">
+</iframe>
+</div>
+<p class="libsyn-player__text">Or listen on your favorite app:</p>
+<ul class="libsyn-player__podcasts-list">
+<li class="libsyn-player__link-wrapper">
+<a class="libsyn-player__link" href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbW1vZG90Y29tLmxpYnN5bi5jb20vcnNz/episode/Nzc5YzM3ZmUtMGEyNi00MTA2LWE5ZGMtMzVjODRlMDZjMzhk?sa=X&amp;ved=0CAUQkfYCahcKEwiQ_832huT0AhUAAAAAHQAAAAAQAQ" target="_blank">
+<svg class="icon icon-podcast-google">
+<use xlink:href="#icon-podcast-google"></use>
+</svg>
+</a>
+</li>
+<li class="libsyn-player__link-wrapper">
+<a class="libsyn-player__link" href="https://podcasts.apple.com/us/podcast/the-great-reset-the-global-elites-plan-to/id1491613092?i=1000544958869" target="_blank">
+<svg class="icon icon-podcast-apple">
+<use xlink:href="#icon-podcast-apple"></use>
+</svg>
+</a>
+</li>
+<li class="libsyn-player__link-wrapper">
+<a class="libsyn-player__link" href="https://open.spotify.com/episode/6QvhVUjCjYbT7Bp5d6S8PO" target="_blank">
+<svg class="icon icon-podcast-spotify">
+<use xlink:href="#icon-podcast-spotify"></use>
+</svg>
+</a>
+</li>
+<li class="libsyn-player__link-wrapper">
+<a class="libsyn-player__link" href="https://soundcloud.com/ammodotcom" target="_blank">
+<svg class="icon icon-podcast-soundcloud">
+<use xlink:href="#icon-podcast-soundcloud"></use>
+</svg>
+</a>
+</li>
+<li class="libsyn-player__link-wrapper">
+<a class="libsyn-player__link" href="https://www.stitcher.com/show/the-resistance-library-from-ammocom/episode/the-great-reset-the-global-elites-plan-to-radically-remake-our-economic-and-social-lives-89012055" target="_blank">
+<svg class="icon icon-podcast-stitcher">
+<use xlink:href="#icon-podcast-stitcher"></use>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<p>To facilitate the Great Reset, rural populations will have to be <a href="https://www.weforum.org/agenda/archive/cities-and-urbanization?page=3" target="_blank" title="how are global elites pushing a concentrated population">coerced into more concentrated population centers</a> since dispersed populations have <a href="https://www.anthropocenemagazine.org/2020/02/the-unexpected-drivers-of-carbon-footprints/#:~:text=Overall%2C%20the%20rural%20carbon%20footprint,to%20transportation%20and%20home%20heating." target="_blank" title="how can we decrease our carbon footprint">too high a "carbon footprint."</a> The suburbs will be a thing of the past as suburbs and exurbs become more like cities. <a href="https://henrysmiller.com/insights/mixed-use-development-a-growing-trend-for-the-future/" target="_blank" title="is mixed used housing a solution to climate change">Mixed-use housing</a>, where you and 500 other people live in a mid-rise condo hive with shops and "workshare" spaces (the new version of an office – on your dime, not your employer's) in the same area.</p>
+<p>The short version is that it's a total end to the American way of life, specifically the way of life of most of the Western middle class. The specifics, including the why, are a longer story that you're going to want to read if you want to be ready to fight against the Great Reset. </p>
+<div class="block block-info block-info--toc block-info--toc-sidebar">
+<div class="block-title">Table of Contents</div>
+<div class="block-content">
+<ul>
+<li><a href="#what-is-the-great-reset">What is the Great Reset?</a></li>
+<li><a href="#real">Is the Great Reset Real?</a></li>
+<li><a href="#police-state">Grooming for a Police State</a></li>
+<li><a href="#climate-change">The Sky is Falling: Climate Austerity and the Great Reset</a></li>
+<li><a href="#renters">The Great Reset in Action: Blackrock Creates a Nation of Renters</a></li>
+<li><a href="#social-credit">The Great Reset in Action: Social Credit</a></li>
+<li><a href="#why">Why the Great Reset?</a></li>
+</ul>
+</div>
+</div>
+<h2><a name="what-is-the-great-reset"></a>What is the Great Reset?</h2>
+<p>Knowing what the <a href="https://thehill.com/opinion/energy-environment/504499-introducing-the-great-reset-world-leaders-radical-plan-to?rl=1" target="_blank" title="the great reset">Great Reset</a> is can be difficult because official sources on the matter – World Economic Forum, the primary mover behind the Great Reset, and its affiliated organizations and individuals – cloak their aims in vague euphemisms like the main slogan for the Great Reset, "build back better."</p>
+<p>We have discussed in our articles on <a href="https://ammo.com/articles/cultural-marxism-gramsci-how-disciples-of-gramscian-marxism-subverted-america" target="_self" title="cultural marxism">Cultural Marxism</a>, <a href="https://ammo.com/articles/american-education-child-indoctrination-debt-slavery" target="_self" title="critical race theory">Critical Race Theory in public schools</a>, and, <a href="https://ammo.com/articles/george-soros" target="_self" title="george soros">George Soros</a> how the enemies of freedom often use vague, non-specifically positive language for their projects. These are generally words that, when taken at face value, no one could possibly disagree with. Who would be against building back better?</p>
+<p>These words mean something else and one should not accept at face value the idea that the Great Reset is simply "building back better" any more than one should accept at face value the claim that <a href="https://www.adweek.com/creativity/four-out-five-physicians-prefer-camels-16855/" target="_blank" title="doctors and cigarette endorsment">four out of five doctors smoke Camels</a>.</p>
+<p><strong><em>So what is the Great Reset?</em></strong></p>
+<p>At its core, the Great Reset is an attempt to enforce socialism through private companies rather than only through the government. Think of it as "socialism with Amazon Prime characteristics." That being said, the government will certainly play a role in the Great Reset by angling for higher taxes, which the wealthy will be able to avoid using armies of lawyers and accountants; adding additional bureaucratic red tape, which the wealthy will avoid using the same armies of lawyers, connections, and special carveouts; and growing big government social programs a la the New Deal, which will disproportionately benefit the wealthy and preferred underclass who will be weaponized against the broad middle class. An excellent example of a Great Reset program in the United States is the proposed Green New Deal, which we will discuss in greater detail later.</p>
+<img alt="move to cities" class="b-image image-right" height="265" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/the-great-reset-article-image-1.jpg" width="400"/>
+<p>Here is a glimpses of how the Great Reset will look:</p>
+<ul type="disc">
+<li>"Sharing Economy:" everything is rented and nothing is owned</li>
+<li>Digital media: it will be easier to ban and suppress books and videos that run contrary to prevailing narratives</li>
+<li>Social Media Restrictions: the <em>de facto</em> public square, will be restricted to those who tout the latest version of elite narratives. </li>
+<li>A <em>de facto</em> social credit system: those who deviate from the narrative will be financially blacklisted, including loss of their dubious "benefits" which will increasingly become necessary for ordinary life and even survival</li>
+<li>Centralization of Housing and Land: fewer and fewer Americans will own the property they live in and on</li>
+<li>“Racial Equity": some races will be more equal than others, with preferred groups becoming the recipients of generous benefit programs funded by the less preferred groups, who increasingly become tax slaves</li>
+<li>Climate Change: protection of the environment will be used as an excuse to reduce the standard of living for the middle class, increase restrictions on freedom of movement, and even access to food</li>
+<li>Ground-level goons will operate with impunity to attack enemies of the system in coordinated outbreaks of violence and intimidation</li>
+<li>Concentrated Wealth: wealth will be concentrated in the hands of the regime and its allies which will be used as economic leverage to control political discourse and personal freedom</li>
+</ul>
+<h2><a name="real"></a>Is The Great Reset Real?</h2>
+<p>This might all sound a little far-fetched; however, unlike other alleged “conspiracy theories” which require a great amount of research to prove are true, the Great Reset is right out there in the open for everyone to see. The people pushing it brag about it, speak of it openly, <a href="https://spreadgreatideas.org/writings/propaganda-vs-public-relations/" target="_blank" title="propaganda vs public relations">craft propaganda campaigns around it</a>, refer to it explicitly by name, and get publicly frustrated and angry when the “dog isn't going to eat the dog food.”</p>
+<p><a href="https://twitter.com/MatteaMerta/status/1414584681165639682" target="_blank" title="video of kalus schwab and the great reset">A video of Klaus Schwab</a>, Founder and Chairman of the World Economic Forum, the primary global elite institution pushing for the Great Reset, went viral. It is only about 40 seconds and well worth the time it takes to watch. You’ll see the Great Reset logo right behind Schwab in the same font as the World Economic Forum logo. Additionally, Schwab explicitly speaks of the Great Reset and his frustration with the <a href="https://www.callersmart.com/guides/175/novel-coronavirus-phone-scams-how-to-identify-and-avoid-covid-19-scams%20" target="_blank" title="covel coronavirus phone scams during covid-19">COVID-19 pandemic</a> in that it has not been as effective as he would like in pushing the Great Reset.</p>
+<p><a href="https://www.weforum.org/about/klaus-schwab" target="_blank" title="who is klaus schwab">Klaus Schwab</a> isn't some random guy on Twitter or a blogger with a couple dozen readers, he is an extremely powerful man and head of one of the most important elite globalist organization in the world, the <a href="https://www.weforum.org/" target="_blank" title="what is the world economic forum">World Economic Forum</a>. </p>
+<p>The Great Reset is larger than a single 40-second viral clip. There's <a href="https://www.weforum.org/great-reset/" target="_blank">an entire page about it</a> on the World Economic Forum's website, including a lot of vague language that doesn't tell you much of what it actually. <em>Time</em>'s website includes a rather <a href="https://time.com/collection/great-reset/" target="_blank">massive cache of articles pushing the subject</a> as unassailably good and beyond question or reproach. <a href="https://www.youtube.com/watch?v=uPYx12xJFUQ" target="_blank" title="the great reset world economic video">A video on the World Economic Forum's YouTube channel</a> is effectively a five-minute PSA of talking points on the subject. </p>
+<p>Alarmingly, <a href="https://www.bbc.com/news/blogs-trending-57532368" target="_blank" title="BBC news">the BBC and others</a> are running articles encouraging you not to believe your own lying eyes, insisting that this is a conspiracy theory not rooted in fact. Additionally, Wikipedia includes an entire section assuring you that the <a href="https://en.wikipedia.org/wiki/Great_Reset#Conspiracy_theory" target="_blank" title="what is the great reset">"conspiracy theory"</a> of the Great Reset bears no relation to the pure, noble intentions of people like Klaus Schwab, Bill Gates and Tony Blair. </p>
+<p>The Great Reset is clearly real, but how do the powers that be intend to force it on the world?</p>
+<h2><a name="police-state"></a>Grooming for a Police State</h2>
+<p>Whether one thinks that the COVID-19 lockdowns and restrictions were a good faith response to a public health emergency or not is irrelevant. The fact of the matter is that it accustomed Americans and Westerners to significant restrictions on their freedoms, including freedom of movement. More than that, it showed those in power that people that if you created enough fear, Americans would tolerate the restrictions.</p>
+<img alt="move to cities" class="b-image image-right" height="265" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/the-great-reset-article-image-4.jpeg" width="400"/>
+<p>Thus, consciously or not, global elites were grooming the world population for a police state. Fortunately, there has been some pushback and vaccine passports are encountering stiff resistance from both elected officials and the general population at large. For most of 2020 and 2021, the most freedom loving people on earth – Americans – <a href="https://blog.libertasbella.com/covid-19-lockdowns-liberty-and-science/#do-lockdowns-and-masks-even-work" target="_blank" title="covid 19 lockdowns">were walking around with dirty, useless masks on to comply with a government mandate</a>. A mandate that after further scrutiny, made no sense. Americans even allowed their children to be subjected to this as a condition of attending school. </p>
+<p>The COVID-19 lockdowns were not the first time that Americans were groomed for police state – <a href="https://ammo.com/articles/tsa-airport-security-theater-guide" target="_self" title="is tsa an infringement on our rights">TSA is the biggest example</a> of this, however, we also see examples of this in our public schools with metal detectors and warrantless searches.</p>
+<p>If nothing else, the elites learned that there is just about nothing that America and the world will not tolerate provided that you scare them enough.  The burning question now is how will Americans be scared into further erosions of their liberties?</p>
+<h2><a name="climate-change"></a>The Sky Is Falling: Climate Austerity and the Great Reset</h2>
+<p>The most likely answer is through climate austerity. There have already been musings among the COVID-19 lockdown warriors that one of the best things about the lockdowns is that <a href="https://www.metoffice.gov.uk/research/news/2021/how-did-covid-19-lockdowns-affect-the-climate" target="_blank" title="how did covid 19 lockdowns impact climate change">they significantly reduced carbon emissions</a>, thus saving the planet during the period when people were locked down. The natural conclusion is that <a href="https://www.youtube.com/watch?v=gD9JulHePh8" target="_blank" title="climate change and lockdowns video">climate lockdowns</a> are a viable solution to climate change.</p>
+<p>Whether or not one believes that climate change exists and is caused by humans is irrelevant. What is relevant is whether or not the burden of fixing the planet – if such a thing is necessary and possible – ought to be borne by individual consumers and the common man. Perhaps not surprisingly, billionaire plutocrats like Bill Gates (a big booster of COVID-19 lockdowns and the Great Reset) think that it ought to be. </p>
+<p>This is the real meaning of "we're all in this together." Does anyone honestly believe that Davos attendees like Bill Gates will be living in dense, mixed-use communities or eating cricket patties as their primary source of protein? Of course not. They will continue to live the affluent lifestyles that they currently live in while the rest of us suffer. </p>
+<img alt="move to cities" class="b-image image-right" height="265" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/the-great-reset-article-image-2.jpg" width="400"/>
+<p>The idea that you and I ought to bear the burden of climate change is called "climate austerity." It is the belief that the average man must tighten his belt and lower his standard of living in what might well be a totally Quixotic attempt to save the planet. It is a concept closely tied to the Great Reset and an example of how something other than another pandemic might be used to get Americans and the rest of the world to radically change their notion of what they're "allowed" to do.</p>
+<p>We should all recall back that poorly aged phrase "14 days to stop the spread." How many times did the goalposts move? Where are we with that as you read this? First we were told that we needed to "flatten the curve." Then there needed to be a vaccine. Then the vaccine wasn't enough. The point is, that COVID-19 became a perpetual excuse for the elites to enact whatever "emergency" measures they wanted – all for your own safety, of course.</p>
+<p>An integral part of climate austerity is the war on <a href="https://ww2.arb.ca.gov/resources/fact-sheets/governor-newsoms-zero-emission-2035-executive-order-n-79-20" target="_blank" title="what are the zero emissions goals">private transportation</a>, <a href="https://davidsuzuki.org/what-you-can-do/air-travel-climate-change/" target="_blank" title="air travel and climate change">commercial flights</a><u>,</u> and <a href="https://www.nytimes.com/2019/06/13/opinion/letters/travel-climate-change.html" target="_blank" title="travel and climate change">freedom of travel</a>. Transportation Secretary <a href="https://ammo.com/articles/pete-buttigieg-mayor-pete-cia-asset-naval-intelligence-officer" target="_self" title="is mayor pete a cia asset">Pete Buttigieg</a> floated a <a href="https://www.businessinsider.com/pete-buttigieg-proposal-tax-drivers-mileage-mile-vmt-infrastructure-2021-4" target="_blank" title="mileage tax">mileage tax</a> and many measures advanced by the Green New Deal that would effectively ban private transportation, due to the high cost – again, <em>you</em> will be impacted by this but the elites will not. It seems that there is almost a weekly outrage against pickup trucks on Twitter. </p>
+<p>The real reason for this is to control the free movement of people. The agenda here has nothing to do with stated goals and everything to do with locking you down, reducing your standard of living, abolishing your way of life, and subjecting every aspect of your life to control by powerful elites.</p>
+<h2><a name="renters"></a>The Great Reset in Action: Blackrock Creates a Nation of Renters</h2>
+<p><a href="https://www.blackrock.com/us/individual" target="_blank" title="what is BlackRock">BlackRock</a> is a private equity firm that has been offering absurd prices for residential homes in the suburbs. They don't plan to flip them and turn a profit. Rather, the plan is to buy homes at <a href="https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801" target="_blank" title="who is buying houses during 2021">50 percent above asking</a> with the purpose of <a href="https://slate.com/business/2021/06/blackrock-invitation-houses-investment-firms-real-estate.html" target="_blank" title="how much has blackrock invested in the housing market">transforming these homes into rental properties</a>. BlackRock's acquisition of the suburbs is part of a larger issue that grew out of COVID-19, but is closely related to the Great Reset – the increased centralization of the American economy. </p>
+<img alt="switch to renter society" class="b-image image-right" height="265" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/the-great-reset-article-image-3.jpg" width="400"/>
+<p>While isolated conservatives such as <a href="https://twitter.com/benshapiro/status/1402984721357938688" target="_blank" title="who is ben shapiro">Ben Shapiro</a> took to Twitter to defend the "free market" principles of venture capital speculating on the market using free money from the Federal Reserve (with full knowledge that they will be bailed out if things go south), most recognized BlackRock's attempt to corner the housing market for what it is. It was a transparent move to transform America into a society of modern serfs. Renters who own nothing can be moved around at the whims of Big Money or financially blacklisted if they step out of line.</p>
+<p>BlackRock is certainly villainous, but they represent a broader trend not just limited to the housing market, the concentration of wealth as a weapon. The Bernie Sanders left focuses on "wealth inequality," which is simply a fact of life that cannot be done away with. "The poor," Christ told us, "you will always have with you." People having more than other people isn't a social problem, but a few people owning <em>everything</em> is, because it is simply socialism (centralized control) by other means. It also dramatically reduces the number of people with skin in the game making the economic and social atmosphere extremely volatile. </p>
+<p>One company, or a handful of them, who dominate the housing market are dangerous for a variety of reasons. Chief among these reasons is the ability to weaponize this control over housing against critics of the regime. Who needs the government to enact a social credit system when the national landlord has one? Of course, the usual dummies will defend this because it's being done by a private corporation.</p>
+<p>It is worth briefly noting that the eviction moratorium favors large landlords who can go months or years without an income over smaller ones, who cannot. The moratorium was <a href="https://www.theepochtimes.com/supreme-court-votes-to-keep-cdcs-eviction-moratorium-in-place-through-july_3880673.html" target="_blank" title="cdc eviction moratorium">enacted by the CDC</a>, which apparently now has the authority to control rental properties in the United States.</p>
+<h2><a name="social-credit"></a>The Great Reset in Action: Social Credit</h2>
+<p>The Great Reset is all in on "racial equity," a term that appeared almost out of nowhere around the 2020 election and has been used unrelentingly since in the mainstream press as if it were a word everyone always used. Oceania has always been at war with Eastasia.</p>
+<p>"Equity" effectively means, not to lean quite too heavily on Orwell, that all races are equal but some races are more equal than others. This is a key goal of the Great Reset. The argument basically goes that the only way to address racial disparities in the United States is by extended special benefits and privileges to allegedly "oppressed" groups.</p>
+<p>Because government benefit programs are a zero-sum game, these assistance programs, and special privileges will have to be paid for by someone else. For every dollar of benefit money doled out, a dollar of income is lost by someone else. For every job or university position reserved for a protected class, something is lost by someone else.</p>
+<p>A key part of the push for "equity" is attacks on people who oppose it. Equity as an ideology is tied up with a bundle of other ideas pushed by Cultural Marxists and the extremely similar but unrelated phenomenon of <a href="https://ammo.com/articles/george-soros" target="_blank">George Soros "Open Society" types</a>.</p>
+<p>The important part, as far as we are concerned, is that concentrated wealth is better able to enforce the prevailing diktats of ideology. When small business evaporates, it is easier to enforce social programs using the private sector. Similarly, when ownership becomes increasingly concentrated, it is easier to enforce a <em>de facto</em> social credit system. <a href="https://ammo.com/articles/woke-capitalism-how-huge-corporations-demonstrate-status-by-endorsing-political-radicalism#business" target="_self" title="woke capitalism">The value system of corporate elites is well known</a>. </p>
+<p>Conservatives are already <a href="https://ammo.com/articles/deplatformed-big-tech-companies-subvert-second-amendment-social-media-guns#big-brother" target="_self" title="who is getting deplatformed">being denied bank accounts</a> because of their beliefs, and the beliefs that warrant financial blacklisting are increasingly expanded. It is not too much to imagine that in the very near future, financial blacklisting and social ostracism, enforced by Big Tech and Big Finance, will come to include any critics of so-called racial equity or any other aspect of regime ideology. </p>
+<p>In general, what you're looking at is a system where there are far fewer poles of financial and social attraction, and that these few remaining poles are increasingly inseparable from the state. This is the essence of fascism in its definition not as anyone’s set of ideological or political principles, but as the system of governance where there is little to no daylight between the corporate sector and the administrative state.</p>
+<h2><a name="why"></a>Why the Great Reset?</h2>
+<p>We cannot speculate as to the internal motives of any man. What we can do is talk about the tangible effects that policies have here in the real world. The primary tangible effect of the Great Reset is an increased amount of power and wealth in the hands of fewer and fewer people, all of whom are hostile toward you, your values, and your way of life. </p>
+<p>It might have been a happy accident that the <a href="https://www.cnbc.com/2020/06/04/cramer-the-pandemic-led-to-a-great-wealth-transfer.html" target="_blank" title="who benefited from covid 19">greatest wealth transfer in human history happened during the COVID-19 lockdowns</a>, or it might have been by design. Regardless, the upward wealth transfer happened. Success rarely satiates, rather it fuels a hunger for more success. We should see this wealth transfer as a prelude to an even larger wealth transfer that is forthcoming. </p>
+<p>Additionally, the Western middle class sits on an <a href="https://www.pewresearch.org/social-trends/2020/01/09/trends-in-income-and-wealth-inequality/#:~:text=From%201983%20to%202016%2C%20the,down%20from%207%25%20in%201983." target="_blank" title="trends in income and wealth during covid 19">enormous reserve of wealth</a> in the form of homeownership and retirement funds. These are the white whales of the global elite. One would be a fool, given all of the evidence, to believe that they would stop at anything to acquire this massive reserve of wealth. </p>
+<p>To the extent that it is possible, we must make ourselves more resilient. This means owning land, having your own well, a supply of food to weather the storm, <a href="https://ammo.com/coronavirus-impact-on-ammunition-sales" target="_self" title="how did covid 19 impact ammo sales">adequate supplies of ammunition</a>, useful skills, and close community bonds. It also means sounding the alarm bells about elite propaganda campaigns, legislative maneuvers, and bureaucratic fiats designed to destroy you. </p>
+<p>Prepare to dig in for a long winter.</p>
+<div class="author-indicator">
+<div class="author-indicator__wrapper">
+<img alt="Sam Jacobs" class="author-indicator__img" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/our-team/indicators/sam-jacobs.png"/>
+<div class="author-indicator__info">
+<div class="author-indicator__intro">Written by</div>
+<a class="author-indicator__name" href="https://ammo.com/our-team#sam-jacobs">Sam Jacobs</a>
+</div>
+</div>
+</div>
+<div itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<meta content="https://ammo.com/our-team#sam-jacobs" itemprop="url"/>
+<meta content="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/our-team/sam.jpg" itemprop="image"/>
+<meta content="Sam Jacobs" itemprop="name"/>
+</div>
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="Ammo.com" itemprop="name"/>
+<meta content="https://ammo.com" itemprop="url"/>
+<div itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/logo3.png" itemprop="url"/>
+<meta content="Ammo.com" itemprop="caption"/>
+</div>
+</div>
+<div class="content-box b-embed-youtube-player b-embed-responsive">
+<div class="content-box__wrapper">
+<div class="content-box__container">
+<svg class="icon-sound">
+<use xlink:href="#icon-sound"></use>
+</svg>
+</div>
+<div class="content-box__data">
+<div class="b-embed-youtube-player__iframe-wrapper">
+<iframe class="b-embed-youtube-player__iframe" frameborder="0" height="auto" id="ytplayer" loading="lazy" src="https://www.youtube.com/embed/WMl1HOgqomQ?autoplay=0&amp;rel=0" type="text/html" width="auto"></iframe>
+</div>
+</div>
+</div>
+</div>
+<div class="content-box" id="civil-liberties">
+<div class="content-box__wrapper">
+<div class="content-box__container">
+<svg class="icon icon-civil-liberties"><use xlink:href="#icon-civil-liberties"></use></svg>
+</div>
+<div class="content-box__data">
+<h3 class="content-box__title">
+        Civil Liberties
+      </h3>
+<ul class="content-box__articles">
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/right-to-know-a-historical-guide-to-foia" title="Right to Know: A Historical Guide to the Freedom of Information Act (FOIA)">Right to Know: A Historical Guide to the Freedom of Information Act (FOIA)</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/tsa-airport-security-theater-guide" title="The TSA and Security Theater: Understanding American Airport Security Post-9/11">The TSA and Security Theater: Understanding American Airport Security Following 9/11</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/asymmetrical-warefare-4gw-americas-domestic-viet-cong" title="Asymmetrical Warfare and 4GW: How Militia Groups are America's Domestic Viet Cong">Asymmetrical Warfare and 4GW: How Militia Groups are America's Domestic Viet Cong</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/police-militarization-weapons-of-war-darpa-surveillance" title="Weapons of War On Our Streets: A Guide to the Militarization of America's Police">Weapons of War On Our Streets: A Guide to the Militarization of America's Police</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/civil-asset-forfeiture-policing-for-profit" title="Policing For Profit: How Civil Asset Forfeiture Has Perverted American Law Enforcement">Policing For Profit: How Civil Asset Forfeiture Has Perverted American Law Enforcement</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/prison-industrial-complex-disarming-america" title="Locked Up: How the Modern Prison-Industrial Complex Puts So Many Americans in Jail">Locked Up: How the Modern Prison-Industrial Complex Puts So Many Americans in Jail</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/us-federal-income-tax-guide-16th-amendment-history" title="The 16th Amendment: How the U.S. Federal Income Tax Became D.C.'s Favorite Political Weapon">The 16th Amendment: How the U.S. Federal Income Tax Became D.C.'s Favorite Political Weapon</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/sovereign-states-america-history-independent-states-joined-us-union" title="America's Sovereign States: The Obscure History of How 10 Independent States Joined the U.S.">America's Sovereign States: The Obscure History of How 10 Independent States Joined the U.S.</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/freedom-liberty-difference-understanding-negative-vs-positive-rights" title="Freedom vs. Liberty: How Subtle Differences Between These Two Big Ideas Changed Our World">Freedom vs. Liberty: How Subtle Differences Between These Two Big Ideas Changed Our World</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/bowling-alone-washington-destroy-american-civil-society-family" title="Bowling Alone: How Washington Has Helped Destroy American Civil Society and Family Life">Bowling Alone: How Washington Has Helped Destroy American Civil Society and Family Life</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/9-11-attacks-understanding-al-qaeda-americas-secret-war" title="The 9/11 Attacks: Understanding Al-Qaeda and the Domestic Fall-Out from America's Secret War">The 9/11 Attacks: Understanding Al-Qaeda and the Domestic Fall-Out from America's Secret War</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/food-subsidies-washington-making-americans-fat-sick" title="Food is Freedom: How Washington’s Food Subsidies Have Helped Make Americans Fat and Sick">Food is Freedom: How Washington’s Food Subsidies Have Helped Make Americans Fat and Sick</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/lbj-great-society-war-on-poverty-welfare-state-helped-ruin-black-communities" title="Lyndon B. Johnson's Great Society: How LBJ's Welfare State Helped Ruin Black Communities">Black America Before LBJ: How the Welfare State Inadvertently Helped Ruin Black Communities</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/pete-buttigieg-mayor-pete-cia-asset-naval-intelligence-officer" target="_top" title="Deep State Mayor Pete: Could Former Naval Intelligence Officer Pete Buttigieg Be a CIA Asset?">Deep State Mayor Pete: Could Former Naval Intelligence Officer Pete Buttigieg Be a CIA Asset?</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/bubble-wrapped-americans-how-us-became-obsessed-with-physical-emotional-safety" target="_top" title="Bubble-Wrapped Americans: How the U.S. Became Obsessed with Physical and Emotional Safety">Bubble-Wrapped Americans: How the U.S. Became Obsessed with Physical and Emotional Safety</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/jim-crow-laws-democrat-party-century-of-racist-history" title="Democrats &amp; Jim Crow: A Century of Racist History the Democratic Party Prefers You'd Forget">Democrats &amp; Jim Crow: A Century of Racist History the Democratic Party Prefers You'd Forget</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/constitutional-republic-vs-pure-democracy-how-us-election-process-has-changed" title="Constitutional Republic vs. Pure Democracy: How the U.S. Election Process Has Changed">Constitutional Republic vs. Pure Democracy: How the U.S. Election Process Has Changed</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/natural-born-citizens-naturalized-us-citizenship-who-can-be-potus" title="Natural Born Citizens: Understanding Who Can Be POTUS in a Nation Beset By Divided Loyalties">Natural Born Citizens: Understanding Who Can Be POTUS in a Nation Beset By Divided Loyalties</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/war-on-suburbs-how-hud-housing-policies-became-weapon-for-social-change" title="War on the Suburbs: How HUD's Housing Policies Became a Weapon for Social Change">War on the Suburbs: How HUD's Housing Policies Became a Weapon for Social Change</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/woke-capitalism-how-huge-corporations-demonstrate-status-by-endorsing-political-radicalism" title="Woke Capitalism: How Huge Corporations Demonstrate Status by Endorsing Political Radicalism">Woke Capitalism: How Huge Corporations Demonstrate Status by Endorsing Political Radicalism</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/cultural-marxism-gramsci-how-disciples-of-gramscian-marxism-subverted-america" title="Cultural Marxism's Origins: How the Disciples of an Obscure Italian Linguist Subverted America">Cultural Marxism's Origins: How the Disciples of an Obscure Italian Linguist Subverted America</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/george-soros" title="Godfather of Color Revolutions: Is George Soros the Most Dangerous Man Alive?">Godfather of Color Revolutions: Is George Soros the Most Dangerous Man Alive?</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/the-great-reset" title="The Great Reset: The Global Elite's Plan to Radically Remake Our Economic and Social Lives">The Great Reset: The Global Elite's Plan to Radically Remake Our Economic and Social Lives</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/righteousness-force-in-america" title="Righteousness + Force in America: The Trap of Righteous Activism Coupled with State Power">Righteousness + Force in America: The Trap of Righteous Activism Coupled with State Power</a>
+</li>
+<li class="content-box__articles-wrapper">
+<a class="content-box__articles-link" href="https://ammo.com/articles/distributed-capacity-for-violence" title="A Distributed Capacity for Violence: A Brief History of Weapons Technology and Political Power">A Distributed Capacity for Violence: A Brief History of Weapons Technology and Political Power</a>
+</li>
+</ul>
+</div>
+</div>
+</div></div> <div class="content-box content-box--narrow">
+<div class="content-box__wrapper">
+<div class="content-box__container">
+<i class="icon-bullet"></i>
+</div>
+<div class="content-box__data">
+<h2 class="align-center mt-3 mb-8">Popular Ammo Calibers and Brands</h2>
+<div class="b-popular-ammo">
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/rifle/223-rem-ammo" title="223 Rem Ammo">
+<i class="icon-ammo-223"> </i>
+<span class="e-badge-button__label">223 Ammo</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/rifle/7.62x39-ammo" title="7.62x39mm Ammo">
+<i class="icon-ammo-762x39"> </i>
+<span class="e-badge-button__label">7.62x39mm Ammo</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/handgun/9mm-ammo" title="9mm Ammo">
+<i class="icon-ammo-9"> </i>
+<span class="e-badge-button__label">9mm Ammo</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/handgun/45-acp-ammo" title="45 Auto ACP Ammo">
+<i class="icon-ammo-45acp"> </i>
+<span class="e-badge-button__label">45 ACP Ammo</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/rimfire/22-lr-ammo" title="22 LR Ammo">
+<i class="icon-ammo-22lr"> </i>
+<span class="e-badge-button__label">22 LR Ammo</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/shotgun/12-ga-ammo" title="12 Gauge Ammo">
+<i class="icon-ammo-12gauge"> </i>
+<span class="e-badge-button__label">12 Gauge Ammo</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/rifle/5.56x45-ammo" title="5.56x45mm Ammo">
+<i class="icon-ammo-556x45"> </i>
+<span class="e-badge-button__label">5.56x45 Ammo</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/rifle/308-win-ammo" title="308 Winchester Ammo">
+<i class="icon-ammo-308win"> </i>
+<span class="e-badge-button__label">308 Win Ammo</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/handgun/40-cal-ammo" title="40 Cal (S&amp;W) Ammo">
+<i class="icon-ammo-40sw"> </i>
+<span class="e-badge-button__label">40 S&amp;W Ammo</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/handgun/380-acp-ammo" title="380 ACP (Auto) Ammo">
+<i class="icon-ammo-380acp"> </i>
+<span class="e-badge-button__label">380 ACP Ammo</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/handgun/38-special-ammo" title="38 Special Ammo">
+<i class="icon-ammo-38spl"> </i>
+<span class="e-badge-button__label">38 Spl Ammo</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/handgun/357-magnum-ammo" title="357 Magnum Ammo">
+<i class="icon-ammo-357mag"> </i>
+<span class="e-badge-button__label">357 Mag Ammo</span>
+</a>
+</div>
+<hr class="content-box__separator content-box__separator--big"/>
+<div class="b-popular-ammo">
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/brands/federal-ammo" title="Federal Ammo">
+<span class="e-badge-button__label">
+<img alt="Federal Ammo Logo" height="27" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/global/popular-brands-and-calibers/federal.svg" width="168"/>
+</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/brands/pmc-ammo" title="PMC Ammo">
+<span class="e-badge-button__label">
+<img alt="PMC Ammo Logo" height="29" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/global/popular-brands-and-calibers/pmc.svg" width="84"/>
+</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/brands/hornady-ammo" title="Hornady Ammo">
+<span class="e-badge-button__label">
+<img alt="Hornady Ammo Logo" height="33" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/global/popular-brands-and-calibers/hornady.svg" width="127"/>
+</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/brands/magtech-ammo" title="Magtech Ammo">
+<span class="e-badge-button__label">
+<img alt="Magtech Ammo Logo" height="39" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/global/popular-brands-and-calibers/magtech.svg" width="146"/>
+</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/brands/cci-ammo" title="CCI Ammo">
+<span class="e-badge-button__label">
+<img alt="CCI Ammo Logo" height="27" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/global/popular-brands-and-calibers/cci.svg" width="71"/>
+</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/brands/remington-ammo" title="Remington Ammo">
+<span class="e-badge-button__label">
+<img alt="Remington Ammo Logo" height="25" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/global/popular-brands-and-calibers/remington.svg" width="117"/>
+</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/brands/sellier-bellot-ammo" title="Sellier &amp; Bellot (S&amp;B) Ammo">
+<span class="e-badge-button__label">
+<img alt="Sellier &amp; Bellot Ammo Logo" height="22" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/global/popular-brands-and-calibers/sellier-bellot.svg" width="193"/>
+</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/brands/tula-ammo" title="Tula Ammo">
+<span class="e-badge-button__label">
+<img alt="Tula Ammo Logo" height="37" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/global/popular-brands-and-calibers/tulammo.svg" width="142"/>
+</span>
+</a>
+<a class="e-badge-button b-popular-ammo__item" href="https://ammo.com/brands/winchester-ammo" title="Winchester Ammo">
+<span class="e-badge-button__label">
+<img alt="Winchester Ammo Logo" height="31" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/global/popular-brands-and-calibers/winchester.svg" width="176"/>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div> </main>
+<aside class="l-sidebar l-content-with-sidebar__sidebar">
+</aside>
+</div>
+</div>
+</div>
+<div class="l-page__footer">
+<footer class="l-footer">
+<div class="grid-container">
+<div class="b-footer-as-seen-on l-footer__as-seen-on">
+<p class="b-footer-as-seen-on__title">As Seen On</p>
+<ul class="b-footer-as-seen-on__list">
+<li class="b-footer-as-seen-on__item">
+<img alt="The Blaze" class="b-footer-as-seen-on__img" height="120" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/layout/footer/as-seen-on/as_seen_blaze_logo.png" width="387"/>
+</li>
+<li class="b-footer-as-seen-on__item">
+<img alt="USA Today" class="b-footer-as-seen-on__img" height="119" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/layout/footer/as-seen-on/as_seen_usatoday_logo.png" width="472"/>
+</li>
+<li class="b-footer-as-seen-on__item">
+<img alt="Business Week" class="b-footer-as-seen-on__img" height="119" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/layout/footer/as-seen-on/as_seen_businessweek_logo.png" width="326"/>
+</li>
+<li class="b-footer-as-seen-on__item">
+<img alt="Reason" class="b-footer-as-seen-on__img" height="119" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/ammocom/default/images/components/blocks/layout/footer/as-seen-on/as_seen_reason_com_logo.png" width="223"/>
+</li>
+</ul>
+</div> <ul class="u-clear-list b-footer-links l-footer__links">
+<li><a class="b-footer-links__link b-footer-links__link--first" href="https://ammo.com/" title="Ammo.com">Home</a></li>
+<li><a class="b-footer-links__link" href="https://ammo.com/about-us" title="About Ammo.com">About Us</a></li>
+<li><a class="b-footer-links__link" href="https://ammo.com/refer-a-friend" title="Refer-a-Friend">Refer Friends</a></li>
+<li><a class="b-footer-links__link" href="https://ammo.com/donations" title="Freedom Fighter Support">Freedom Fighter Support</a></li>
+<li><a class="b-footer-links__link" href="https://ammo.com/people-of-the-gun" title="People of the Gun">People of the Gun</a></li>
+<li><a class="b-footer-links__link" href="https://ammo.com/articles" title="Resistance Library">Resistance Library</a></li>
+<li><a class="b-footer-links__link" href="https://ammo.com/gift-card" title="Gift Cards">Gift Cards</a></li>
+<li><a class="b-footer-links__link" href="https://ammo.com/frequently-asked-questions" title="Frequently Asked Questions">FAQs</a></li>
+<li><a class="b-footer-links__link" href="https://ammo.com/terms-of-use" title="Terms of Use">Terms of Use</a></li>
+<li><a class="b-footer-links__link" href="https://ammo.com/privacy-and-security" title="Privacy and Security">Privacy Policy</a></li>
+<li><a class="b-footer-links__link" href="https://ammo.com/frequently-asked-questions#question-2" title="Contact Us">Contact Us</a></li>
+<li><a class="b-footer-links__link" href="https://ammo.com/sitemap" title="Site Map">Site Map</a></li>
+</ul> <div class="b-footer-socials l-footer__socials">
+<a class="b-footer-socials__item b-footer-socials__item--facebook" href="https://www.facebook.com/ammodotcom" rel="nofollow noreferrer" target="_blank" title="Ammo.com on Facebook">
+<i class="icon-facebook"></i>
+</a>
+<a class="b-footer-socials__item b-footer-socials__item--twitter" href="https://twitter.com/ammodotcom" rel="nofollow noreferrer" target="_blank" title="Ammo.com on Twitter">
+<i class="icon-twitter"></i>
+</a>
+<a class="b-footer-socials__item b-footer-socials__item--instagram" href="https://www.instagram.com/ammodotcom" rel="nofollow noreferrer" target="_blank" title="Ammo.com on Instagram">
+<i class="icon-instagram"></i>
+</a>
+</div> <p class="b-footer-copyrights l-footer__copyrights">
+                © 2023 Ammo.com. All Rights Reserved.
+            </p>
+</div>
+</footer> </div>
+</div>
+<link href="https://ammo.com/media/css/1f486bd7ae38186988161b59724ded84-min.css" media="all" rel="stylesheet" type="text/css"/>
+<!-- Start of Zendesk Widget script -->
+<!-- End of Zendesk Widget script -->
+<div class="b-modal js-modal fade">
+<div class="b-modal__dialog">
+<div class="b-modal__content">
+<i class="icon-close"> </i>
+<div class="b-modal__header js-modal-header"></div>
+<div class="b-modal__body js-modal-body"></div>
+<div class="b-modal__footer js-modal-footer"></div>
+</div>
+</div>
+</div><!-- Facebook Pixel Code -->
+<noscript>
+<img height="1" src="https://www.facebook.com/tr?id=756792531465907&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script src="https://ammo.com/media/js/f8227fae0c2ac63479de87b77f2c5add-min.js" type="text/javascript"></script><script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = 'ammo.com';
+//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script><script crossorigin="anonymous" integrity="sha384-WO22OE751vRf/HrLRHFis3ipNR16hUk5Q0qW9ascPaSswHI9Q/0ZFMaMvJ0ZgmSI" src="https://browser.sentry-cdn.com/6.9.0/bundle.min.js"></script><script>
+        Sentry.init({
+            dsn: 'https://c358d60471674446b035fd66f47b3eef@sentry.io/1189991',
+                            release: '1.154.1',
+                        attachStacktrace: true,
+            sendDefaultPii: true,
+            environment: 'production',
+            sampleRate: 0.2,
+            tracesSampleRate: 1        });
+    </script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+</script><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><script>
+  ga('create', 'UA-19970462-1', 'auto');
+ga('require', 'ec');
+  ga('require', 'linkid', 'linkid.js');
+
+</script><script>
+    var _cvTags = _cvTags || [];
+            _cvTags.push('action:cms/page/view');
+        ga('set', 'dimension2', _cvTags.join(','));
+</script><script defer="" src="https://ammo.com/media/js/246db3d871ce79bea9eaf228e1b300b5-min.js" type="text/javascript"></script><script src="https://ammo.com/media/js/dddf5d48716e00f4f2c7733e74347638-min.js" type="text/javascript"></script><script type="text/javascript">
+            var formsToProtectOnPage = [];
+            var currentForm;
+            var currentValidationForm;
+            var checkedForms = [];
+            var hasFormsChanged = false;
+
+            var onSubmit = function (token) {
+                currentForm.querySelector('[name="amasty_invisible_token"]').setAttribute('value', token);
+                if (typeof(recaptchaObject) !== 'undefined'
+                    && 'post' !== currentForm.method
+                ) {
+                    recaptchaObject.submit();
+                } else {
+                    currentForm.submit();
+                }
+            };
+
+            function checkForms() {
+                var formsToProtect = ["form[action*=\"customer\/account\/createpost\"]","form[action*=\"customer\/account\/loginPost\"]","form[action*=\"customer\/account\/forgotpasswordpost\"]","form[action*=\"customer\/account\/resetpasswordpost\"]","form[action*=\"newsletter\/subscriber\/new\"]","form[action*=\"review\/product\/post\"]","form[action*=\"contacts\/index\/post\"]","form[action*=\"productqa\/index\/addQuestion\"]","#add-organization-form","#jointheclubForm"];
+
+                if ("object" == typeof(formsToProtect)) {
+                    formsToProtect = Object.values(formsToProtect);
+                }
+
+                formsToProtect.forEach(function (item) {
+                    var continueWorking = true;
+
+                    if ("function" == typeof(item)) {
+                        return;
+                    }
+
+                    formsSearchedBySelector = $$(item);
+
+                    checkedForms.forEach(function (element) {
+                        if (element[0] == formsSearchedBySelector[0]) {
+                            continueWorking = false;
+                            return;
+                        }
+                    });
+
+                    if (formsSearchedBySelector.length != 0 && continueWorking) {
+                        checkedForms.push(formsSearchedBySelector);
+                        formsSearchedBySelector.forEach(function (formToProtect) {
+                            formsToProtectOnPage.push(formToProtect);
+                            hasFormsChanged = true;
+                        });
+                    }
+                });
+
+                if (hasFormsChanged) {
+                    for (var index in formsToProtectOnPage) {
+                        if (formsToProtectOnPage.hasOwnProperty(index)) {
+                            var formToProtectOnPage = formsToProtectOnPage[index];
+                            if ('form' !== formToProtectOnPage.tagName.toLowerCase()) {
+                                formToProtectOnPage = formToProtectOnPage.getElementsByTagName('form');
+                                if (0 < formToProtectOnPage.length) {
+                                    formToProtectOnPage = formToProtectOnPage[0];
+                                } else {
+                                    continue;
+                                }
+                            }
+
+                            if (1 > formToProtectOnPage.getElementsByClassName('amasty_recaptcha').length) {
+                                var recaptchaBlock = document.createElement('div');
+                                recaptchaBlock.className = 'amasty_recaptcha';
+                                formToProtectOnPage.appendChild(recaptchaBlock);
+                            }
+
+                            if (1 > formToProtectOnPage.getInputs('hidden', 'amasty_invisible_token').length) {
+                                var tokenInput = document.createElement('input');
+                                tokenInput.type = 'hidden';
+                                tokenInput.name = 'amasty_invisible_token';
+                                tokenInput.value = '';
+                                formToProtectOnPage.appendChild(tokenInput);
+                            }
+
+                            formToProtectOnPage.onsubmit = function submitProtectedForm(event) {
+                                currentForm = event.target;
+                                currentValidationForm = new VarienForm(currentForm.id, false);
+                                recaptchaBlock = currentForm.querySelector(".amasty_recaptcha");
+
+                                if (recaptchaBlock.innerHTML == '') {
+                                    if (currentValidationForm && currentValidationForm.validator
+                                        && currentValidationForm.validator.validate()
+                                    ) {
+                                        recaptcha = grecaptcha.render(recaptchaBlock, {
+                                            'sitekey': '6LcJJOAUAAAAAEUmPgRZxqudv_g1tSuPt9K1oYVy',
+                                            'callback': onSubmit,
+                                            'size': 'invisible',
+                                            'theme': 'light',
+                                            'badge': 'bottomright'
+                                        });
+
+                                        grecaptcha.reset(recaptcha);
+                                        grecaptcha.execute(recaptcha);
+                                    }
+                                }
+
+                                return false;
+                            }
+                        }
+                    }
+                }
+            }
+
+            document.observe("dom:loaded", function () {
+                var formsCount = 0;
+                setInterval(function () {
+                    var formLength = $$('form').length;
+                    if (formsCount != formLength) {
+                        formsCount = formLength;
+                        checkForms();
+                    }
+                }, 1000);
+            });
+        </script><script async="" defer="" src="https://www.google.com/recaptcha/api.js"></script><script type="text/javascript">
+    if ('NodeList' in window) {
+        if (!NodeList.prototype.each && NodeList.prototype.forEach) {
+            NodeList.prototype.each = NodeList.prototype.forEach;
+        }
+    }
+
+    Array.prototype.reduce = function (callback, initialVal) {
+        var accumulator = (initialVal === undefined) ? undefined : initialVal;
+
+        for (var i = 0; i < this.length; i++) {
+            if (accumulator !== undefined) {
+                accumulator = callback.call(undefined, accumulator, this[i], i, this);
+            } else {
+                accumulator = this[i];
+            }
+        }
+
+        return accumulator;
+    }
+</script><script>
+        function loadUserWay(d){var s = d.createElement("script");s.setAttribute("data-account", "XacZ3HBVa4");s.setAttribute("src", "https://cdn.userway.org/widget.js");(d.body || d.head).appendChild(s);}
+                                window.addEventListener('load', function () {
+                setTimeout(function () {
+                    loadUserWay(document);
+                }, 3000);
+            });
+            </script><script>
+    window.addEventListener('load', function () {
+        setTimeout(function () {
+            (function(z,e,c,h,a,t){a=e.createElement(c);t=e.getElementsByTagName(c)[0];a.async=1;a.src=h;a.id='ze-snippet';a.onload=function(){var event=new Event('zendeskScriptLoaded');e.dispatchEvent(event)};t.parentNode.insertBefore(a,t)})(window,document,'script','https://static.zdassets.com/ekr/snippet.js?key=e5f6dcf1-4c9a-4e99-9470-af8d8679af24');
+        }, 3000);
+    });
+</script><script type="text/javascript">
+        document.addEventListener('zendeskScriptLoaded', function () {
+            window.zESettings = {
+                webWidget: {
+    "position": {
+        "horizontal": "left",
+        "vertical": "bottom"
+    },
+    "color": {
+        "theme": "#494949"
+    },
+    "chat": {
+        "title": {"*": "Chat, with a side of freedom"},
+        "concierge": {
+            "name": "Live chat",
+            "title": {"*": "We're here to help!"}
+        },
+        "offlineForm": {
+            "greeting": {
+                "*": "Our apologies, but none of our customer service folks are currently online. Please leave us a message, to which we will respond as soon as we are back."
+            }
+        },
+        "tags": ["ammo_com"]
+    },
+    "launcher": {
+        "label": {"*": "Let's talk ammo"},
+        "chatLabel": {"*": "Let's talk ammo"},
+        "badge": {
+            "label": {"*": "Live chat"},
+            "image": "https://ammo.com/skin/frontend/ammocom/default/images/chat/badge-gray.png",
+            "layout": "image_only"
+        }
+    }
+}            };
+
+            function isStorageSupported(storage) {
+                try {
+                    const key = 'test-key';
+                    storage().setItem(key, key);
+                    storage().removeItem(key);
+                    return true;
+                } catch (e) {
+                    return false;
+                }
+            }
+
+            var isStorageAvailable = isStorageSupported(function () {return sessionStorage;});
+            var disableBadge = 0;
+            var findBadgeButtonLoop = 0;
+            var hideBadge = 1;
+            var openWidget = 0;
+
+            if (isStorageAvailable) {
+                hideBadge = sessionStorage['hideBadge'] ? 1 : 0;
+                openWidget = (sessionStorage['openWidget'] == '1') ? 1 : 0;
+            }
+
+            var hideBadgeEvent = function () {
+                var chatIframe = $$('iframe#launcher');
+
+                if (!chatIframe || chatIframe.length === 0) {
+                    return false;
+                }
+
+                if (typeof chatIframe[0] !== 'undefined') {
+                    chatIframe = chatIframe[0];
+                }
+
+                var iframeDocument = chatIframe.contentDocument;
+                if (iframeDocument) {
+                    var button = iframeDocument.querySelector('button[class*=minimizeButton]');
+                    if (!button) {
+                        if (findBadgeButtonLoop <= 3) {
+                            setTimeout(function () {
+                                findBadgeButtonLoop++;
+                                hideBadgeEvent();
+                            }, 1000);
+                        }
+
+                        return;
+                    }
+
+                    if (isStorageAvailable) {
+                        button.addEventListener('click', function() {
+                            sessionStorage['hideBadge'] = 1;
+                        });
+                        return true;
+                    }
+                }
+            };
+
+            if (typeof zE != 'undefined') {
+                zE(function () {
+                    $zopim(function () {
+                        zE('webWidget:on', 'open', function () {
+                            sessionStorage['openWidget'] = 1;
+                        });
+
+                        zE('webWidget:on', 'close', function () {
+                            sessionStorage['hideBadge'] = 1;
+                            sessionStorage['openWidget'] = 0;
+                            $zopim.livechat.badge.hide();
+                        });
+
+                        setTimeout(function () {
+                            hideBadgeEvent();
+                        }, 1000);
+
+                        if (disableBadge || (!openWidget && hideBadge)) {
+                            $zopim.livechat.badge.hide();
+                        }
+                        if (openWidget) {
+                            zE('webWidget', 'open');
+                        }
+                    });
+                });
+            }
+        }, false);
+    </script><script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"WebSite","name":"Ammo.com","url":"https:\/\/ammo.com\/","potentialAction":{"@type":"SearchAction","target":"https:\/\/ammo.com\/catalogsearch\/result?q={search_term_string}","query-input":"required name=search_term_string"}}</script><script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"The Great Reset: The Global Elite's Plan to Radically Remake Our Economic and Social Lives","item":"https:\/\/ammo.com\/articles\/the-great-reset"}]}</script><script>
+    window.addEventListener('load', function() {
+        var searchInput = document.getElementById('search');
+        var initializeAlgoliaSearch = function() {
+            $LAB.script('https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js')
+                .script('https://cdn.jsdelivr.net/npm/instantsearch.js@4')
+                .script('https://d1w4q6ldc8l0qo.cloudfront.net/skin/frontend/base/default/algoliasearch/algoliainstantsearch.js')
+                .wait(function() {
+                    new AlgoliaInstantSearch({
+                        indexName: 'prod_ammonet',
+                        applicationID: 'KHD88LQOBC',
+                        apiKey: '659dab259ab09407463619097a12798e',
+                        noResultsHTML: '<div class="algoliasearch-autocomplete-title">Search Results:</div>' +
+                            '<div class="algoliasearch-autocomplete-empty">No results.</div>',
+                        searchParameters: {
+                            query: '',
+                            hitsPerPage: 5,
+                            attributesToRetrieve: ["name","url","thumbnail_url","categories","name","url","image_url","_tags"]                        }
+                    });
+                });
+            searchInput.removeEventListener('focus', initializeAlgoliaSearch)
+        };
+
+        if (searchInput) {
+            searchInput.addEventListener('focus', initializeAlgoliaSearch);
+        }
+    });
+    </script><script>
+                        window.addEventListener('load', function () {
+            setTimeout(function () {
+                        (function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='72db5a77ff9d950b24ec68a59b2f0fc0bf8054e2618e9daf4288688e6f847f4b';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');
+                    }, 3000);
+        });
+            </script><script>
+    window.STORE_CONFIG = {
+            };
+    </script><script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '756792531465907');
+    fbq('track', 'PageView');
+</script><script type="text/javascript">
+    //<![CDATA[
+    document.addEventListener('DOMContentLoaded', function() {
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'https://ammo.com/skin/frontend/ammocom/default/symbols/default/svg-symbols.css?v=1672840572007';
+        link.media = 'all';
+        document.body.insertBefore(link, document.body.childNodes[document.body.childNodes.length - 1]);
+
+        var ajax = new XMLHttpRequest();
+        ajax.open("GET", "https://ammo.com/skin/frontend/ammocom/default/symbols/default/svg-symbols.svg?v=1672840572007", true);
+        ajax.send();
+        ajax.onload = function(e) {
+            var div = document.createElement("div");
+            div.className = 'svg-symbols';
+            div.innerHTML = ajax.responseText;
+            document.body.insertBefore(div, document.body.childNodes[document.body.childNodes.length - 1]);
+        };
+    });
+    //]]>
+</script><script type="text/javascript">
+//<![CDATA[
+ga('set', 'dimension3', 'No');
+//]]>
+</script><script>
+    ga('send', 'pageview');
+</script></body>
+</html>

@@ -1,0 +1,1324 @@
+<!DOCTYPE html>
+
+<!--[if lte IE 9]>         <html class="no-js lt-ie9 lt-ie10"  itemscope itemtype="http://schema.org/Article"  lang="en-US"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" itemscope="" itemtype="http://schema.org/Article" lang="en-US"> <!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<!-- WP Header -->
+<script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Oswald:400']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+<meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
+<meta content="Communist China:  Friend Or Foe?" property="og:title"/>
+<meta content="Since January of this year, our nation has been found in a battle with a virus that we are told began in Communist China in an area called Wuhan.  Some wonder" property="og:description"/>
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2018/09/china-us.jpg" property="og:image"/>
+<meta content="560" property="og:image:width"/>
+<meta content="326" property="og:image:height"/>
+<meta content="article" property="og:type"/>
+<meta content="2020-04-23 10:17:20" property="og:article:published_time"/>
+<meta content="2020-04-23 10:25:04" property="og:article:modified_time"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Communist China:  Friend Or Foe?" name="twitter:title">
+<meta content="Since January of this year, our nation has been found in a battle with a virus that we are told began in Communist China in an area called Wuhan.  Some wonder" name="twitter:description"/>
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2018/09/china-us.jpg" name="twitter:image"/>
+<meta content="Leon Puissegur" name="author"/>
+<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Communist China: Friend Or Foe? - The Washington Standard</title>
+<link href="https://thewashingtonstandard.com/communist-china-friend-foe/" rel="canonical"/>
+<meta content="https://thewashingtonstandard.com/communist-china-friend-foe/" property="og:url"/>
+<meta content="The Washington Standard" property="og:site_name"/>
+<meta content="2020-04-23T14:17:20+00:00" property="article:published_time"/>
+<meta content="2020-04-23T14:25:04+00:00" property="article:modified_time"/>
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2018/09/china-us.jpg" property="og:image"/>
+<meta content="560" property="og:image:width"/>
+<meta content="326" property="og:image:height"/>
+<meta content="image/jpeg" property="og:image:type"/>
+<meta content="Leon Puissegur" name="author"/>
+<meta content="Written by" name="twitter:label1"/>
+<meta content="Leon Puissegur" name="twitter:data1"/>
+<meta content="Est. reading time" name="twitter:label2"/>
+<meta content="16 minutes" name="twitter:data2"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://thewashingtonstandard.com/communist-china-friend-foe/","url":"https://thewashingtonstandard.com/communist-china-friend-foe/","name":"Communist China: Friend Or Foe? - The Washington Standard","isPartOf":{"@id":"https://thewashingtonstandard.com/#website"},"primaryImageOfPage":{"@id":"https://thewashingtonstandard.com/communist-china-friend-foe/#primaryimage"},"image":{"@id":"https://thewashingtonstandard.com/communist-china-friend-foe/#primaryimage"},"thumbnailUrl":"https://thewashingtonstandard.com/wp-content/uploads/2018/09/china-us.jpg","datePublished":"2020-04-23T14:17:20+00:00","dateModified":"2020-04-23T14:25:04+00:00","author":{"@id":"https://thewashingtonstandard.com/#/schema/person/f0b22214a9eae808e58b40c5410521ca"},"breadcrumb":{"@id":"https://thewashingtonstandard.com/communist-china-friend-foe/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://thewashingtonstandard.com/communist-china-friend-foe/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://thewashingtonstandard.com/communist-china-friend-foe/#primaryimage","url":"https://thewashingtonstandard.com/wp-content/uploads/2018/09/china-us.jpg","contentUrl":"https://thewashingtonstandard.com/wp-content/uploads/2018/09/china-us.jpg","width":560,"height":326},{"@type":"BreadcrumbList","@id":"https://thewashingtonstandard.com/communist-china-friend-foe/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://thewashingtonstandard.com/"},{"@type":"ListItem","position":2,"name":"Communist China: Friend Or Foe?"}]},{"@type":"WebSite","@id":"https://thewashingtonstandard.com/#website","url":"https://thewashingtonstandard.com/","name":"The Washington Standard","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://thewashingtonstandard.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://thewashingtonstandard.com/#/schema/person/f0b22214a9eae808e58b40c5410521ca","name":"Leon Puissegur","description":"Leon Puissegur is a Disabled Vietnam Veteran with 3 children and 9 grandchildren. He has been married to the same wonderful lady for 43 years. He is an award-winning author and has been writing opinion pieces over the years and in just the last few years has written 4 books and a large number of articles on many sites. You can purchase his books at Amazon.","sameAs":["https://thewashingtonstandard.com"],"url":"https://thewashingtonstandard.com/author/leonpuissegur/"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//maxcdn.bootstrapcdn.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://thewashingtonstandard.com/feed/" rel="alternate" title="The Washington Standard » Feed" type="application/rss+xml"/>
+<link href="https://thewashingtonstandard.com/comments/feed/" rel="alternate" title="The Washington Standard » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/thewashingtonstandard.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://thewashingtonstandard.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link href="https://thewashingtonstandard.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.0.3" id="sab_font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/plugins/simple-author-bio/includes/../css/style.css?ver=6.0.3" id="sab_custom_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/components/font-icons/entypo/css/entypo.css?ver=1.5.4" id="vwcss-icon-entypo-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/components/font-icons/social-icons/css/zocial.css?ver=1.5.4" id="vwcss-icon-social-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/css/bootstrap.css?ver=1.5.4" id="vwcss-bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-mmenu/css/jquery.mmenu.custom.css?ver=1.5.4" id="vwcss-mmenu-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso/style.css?ver=1.5.4" id="vwcss-theme-root-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://thewashingtonstandard.com/wp-content/themes/espresso-child/style.css?ver=1.5.4" id="vwcss-theme-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<link href="https://thewashingtonstandard.com/wp-json/" rel="https://api.w.org/"/><link href="https://thewashingtonstandard.com/wp-json/wp/v2/posts/75957" rel="alternate" type="application/json"/><meta content="WordPress 6.0.3" name="generator"/>
+<link href="https://thewashingtonstandard.com/?p=75957" rel="shortlink"/>
+<link href="https://thewashingtonstandard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthewashingtonstandard.com%2Fcommunist-china-friend-foe%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://thewashingtonstandard.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthewashingtonstandard.com%2Fcommunist-china-friend-foe%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<!-- Site Meta From Theme -->
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://thewashingtonstandard.com/xmlrpc.php" rel="pingback"/>
+<meta content="" name="description"/>
+<link href="//www.google-analytics.com" rel="dns-prefetch"/>
+<meta content="width=device-width,initial-scale=1.0,user-scalable=yes" name="viewport"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconapple.jpg" rel="shortcut icon"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconapple1.jpg" rel="apple-touch-icon"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconretina.jpg" rel="apple-touch-icon" sizes="114x114"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconipad.jpg" rel="apple-touch-icon" sizes="72x72"/>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/TheWashingtonStandard_Iconipadretiina.jpg" rel="apple-touch-icon" sizes="144x144"/>
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- End Site Meta From Theme --> <meta content="wordpress-plugin" name="onesignal">
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://thewashingtonstandard.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'daff2871-66e5-457e-8e41-9a9a7677efa1';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://thewashingtonstandard.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.32d5e245-163c-40cb-8f57-67057af17423";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['siteName'] = "https://thewashingtonstandard.com";
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-left';
+oneSignal_options['notifyButton']['theme'] = 'inverse';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return OneSignal.isPushNotificationsEnabled()
+                      .then(function(isPushEnabled) {
+                          return !isPushEnabled;
+                      });
+            };
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/cropped-TheWashingtonStandard_Iconipad-150x150.jpg" rel="icon" sizes="32x32">
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/cropped-TheWashingtonStandard_Iconipad-300x300.jpg" rel="icon" sizes="192x192">
+<link href="https://thewashingtonstandard.com/wp-content/uploads/2015/04/cropped-TheWashingtonStandard_Iconipad-300x300.jpg" rel="apple-touch-icon">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2015/04/cropped-TheWashingtonStandard_Iconipad-300x300.jpg" name="msapplication-TileImage">
+<style id="vw-custom-font" type="text/css">
+</style>
+<!-- Theme's Custom CSS -->
+<style type="text/css">
+		/* Fix admin bar */
+		.admin-bar .mm-page { padding-top: 32px !important; }
+		@media screen and ( max-width: 782px ) {
+			.admin-bar .mm-page { padding-top: 46px !important; }
+		}
+
+		html { margin-top: 0px !important; }
+		* html body { margin-top: 0px !important; }
+		@media screen and ( max-width: 782px ) {
+			html { margin-top: 0px !important; }
+			* html body { margin-top: 0px !important; }
+		}
+		/* End */
+		
+		a, a:hover, a:focus,
+		.vw-page-title-box .vw-label,
+		.vw-post-categories a,
+		.vw-page-subtitle,
+		.vw-breaking-news-date,
+		.vw-date-box-date,
+		.vw-post-style-classic .vw-post-box-title a:hover,
+		.vw-post-likes-count.vw-post-liked .vw-icon,
+		.vw-menu-location-bottom .main-menu-link:hover,
+		.vw-accordion-header.ui-accordion-header-active span,
+		.vw-404-text,
+		#wp-calendar thead,
+		.vw-accordion .ui-state-hover span,
+		.vw-breadcrumb a:hover,
+		h1 em, h2 em, h3 em, h4 em, h5 em, h6 em,
+		.vw-post-share-big-number .vw-number
+		{
+			color: #0066bf;
+		}
+
+		.vw-site-social-profile-icon:hover,
+		.vw-breaking-news-label,
+		.vw-author-socials a:hover,
+		.vw-post-style-box:hover,
+		.vw-post-box:hover .vw-post-format-icon i,
+		.vw-gallery-direction-button:hover,
+		.widget_tag_cloud .tagcloud a:hover,
+		.vw-page-navigation-pagination .page-numbers:hover,
+		.vw-page-navigation-pagination .page-numbers.current,
+		#wp-calendar tbody td:hover,
+		.vw-widget-category-post-count,
+		.vwspc-section-full-page-link:hover .vw-button,
+		
+		.vw-tag-links a,
+		.vw-hamburger-icon:hover,
+		.pace .pace-progress,
+		.vw-review-score-percentage .vw-review-item-score, .vw-review-score-points .vw-review-item-score,
+		.vw-pricing-featured .vw-pricing-title,
+		.vw-menu-location-top .menu-item-depth-0:after,
+		.no-touch input[type=button]:hover, .no-touch input[type=submit]:hover, .no-touch button:hover, .no-touch .vw-button:hover, .no-touch .woocommerce a.button:hover, .no-touch .woocommerce button.button:hover, .no-touch .woocommerce input.button:hover, .no-touch .woocommerce #respond input#submit:hover,
+		/*.vw-page-content .vw-page-title-box .vw-label,*/
+		.vw-breaking-news-title,
+		.vw-quote-icon,
+		.vw-dropcap-circle, .vw-dropcap-box,
+		.vw-accordion .ui-icon:before,
+		.vw-post-categories .vw-sticky-link,
+		.no-touch .vw-swiper-arrow-left:hover, .no-touch .vw-swiper-arrow-right:hover,
+		.vw-post-categories > div,
+		.vw-previous-link-page:hover, .vw-next-link-page:hover,
+		.vw-review-summary-bar .vw-review-score-bar,
+		.vw-review-box-summary .vw-review-total-score,
+		.vw-author-socials .vw-icon-social,
+		.vw-instant-search-buton:hover,
+		.vw-scroll-to-top
+		{
+			background-color: #0066bf;
+		}
+
+		.vw-about-author-section .vw-author-name,
+		.vw-post-meta-large .vw-date-box,
+		#wp-calendar caption,
+		.vw-widget-feedburner-text,
+		.vw-login-title,
+		.widget_search label,
+		.vw-author-socials .vw-icon-social,
+		.vw-tabs.vw-style-top-tab .vw-tab-titles,
+		.vw-fixed-tab .vw-fixed-tab-title:hover, .vw-fixed-tab .vw-fixed-tab-title.is-active,
+		.vw-site-footer
+		{
+			border-color: #0066bf;
+		}
+
+		.vw-tabs.vw-style-top-tab .vw-tab-title.active {
+			background-color: #0066bf;
+			border-color: #0066bf;
+		}
+
+		/* Header font */
+		input[type=button], input[type=submit], button, .vw-button,
+		.woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit,
+		.vw-header-font-family,
+		.vw-pricing-price,
+		.vw-quote, blockquote,
+		.vw-copyright,
+		.vw-mega-menu-type-links-4-cols .menu-item-depth-1 > .menu-link {
+			font-family: Georgia, serif;
+		}
+
+		/* Body font */
+		.vw-breaking-news-link {
+			font-family: Georgia, serif;
+		}
+
+		.vw-page-title-section.vw-has-background .col-sm-12 {
+			padding-top: 0px;
+		}
+
+		
+		/* bbPress */
+		
+		
+		/* Custom Styles */
+		.vw-post-box .vw-post-box-title, blockquote {
+text-transform: none;
+}
+
+em {
+    color: #000000;
+}
+
+.vw-breadcrumb {
+    font-size: 16px;
+}
+
+.vw-post-style-small-top-thumbnail .vw-post-box-title {
+    font-size: 16px;
+}
+
+.vw-menu .menu-item > .sub-menu {
+	z-index: 1001;
+}	</style>
+<!-- End Theme's Custom CSS -->
+<style class="options-output" title="dynamic-css" type="text/css">.vw-site-header-inner{padding-top:15px;padding-bottom:10px;}h1, h2, h3, h4, h5, h6, .vw-header-font,.vw-social-counter-count,.vw-page-navigation-pagination .page-numbers,#wp-calendar caption,.vw-accordion-header-text,.vw-tab-title,.vw-post-categories,.vw-review-item-title,.vw-previous-link-page, .vw-next-link-page,#bbpress-forums .bbp-topic-title .bbp-topic-permalink, #bbpress-forums .bbp-forum-info .bbp-forum-title,#bbpress-forums #bbp-user-wrapper h2.entry-title,.widget.widget_display_topics li .bbp-forum-title, .widget.widget_display_replies li .bbp-forum-title{font-family:Georgia, serif;text-transform:capitalize;letter-spacing:0px;font-weight:400;font-style:normal;color:#000000;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h1, h2, h3, h4, h5, h6, .vw-header-font,.wf-loading .vw-social-counter-count,.wf-loading .vw-page-navigation-pagination .page-numbers,.wf-loading #wp-calendar caption,.wf-loading .vw-accordion-header-text,.wf-loading .vw-tab-title,.wf-loading .vw-post-categories,.wf-loading .vw-review-item-title,.wf-loading .vw-previous-link-page, .vw-next-link-page,.wf-loading #bbpress-forums .bbp-topic-title .bbp-topic-permalink, #bbpress-forums .bbp-forum-info .bbp-forum-title,.wf-loading #bbpress-forums #bbp-user-wrapper h2.entry-title,.wf-loading .widget.widget_display_topics li .bbp-forum-title, .widget.widget_display_replies li .bbp-forum-title,{opacity: 0;}.ie.wf-loading h1, h2, h3, h4, h5, h6, .vw-header-font,.ie.wf-loading .vw-social-counter-count,.ie.wf-loading .vw-page-navigation-pagination .page-numbers,.ie.wf-loading #wp-calendar caption,.ie.wf-loading .vw-accordion-header-text,.ie.wf-loading .vw-tab-title,.ie.wf-loading .vw-post-categories,.ie.wf-loading .vw-review-item-title,.ie.wf-loading .vw-previous-link-page, .vw-next-link-page,.ie.wf-loading #bbpress-forums .bbp-topic-title .bbp-topic-permalink, #bbpress-forums .bbp-forum-info .bbp-forum-title,.ie.wf-loading #bbpress-forums #bbp-user-wrapper h2.entry-title,.ie.wf-loading .widget.widget_display_topics li .bbp-forum-title, .widget.widget_display_replies li .bbp-forum-title,{visibility: hidden;}.vw-menu-location-main .main-menu-link{font-family:Oswald;text-transform:capitalize;letter-spacing:1px;font-weight:400;font-style:normal;font-size:16px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .vw-menu-location-main .main-menu-link,{opacity: 0;}.ie.wf-loading .vw-menu-location-main .main-menu-link,{visibility: hidden;}body,cite{font-family:Georgia, serif;font-weight:400;font-style:normal;color:#000000;font-size:16px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body,.wf-loading cite,{opacity: 0;}.ie.wf-loading body,.ie.wf-loading cite,{visibility: hidden;}.vw-logo-link{margin-top:00px;margin-right:0;margin-bottom:0;margin-left:0;}.vw-site-header,.vw-site-header-background{background-color:#ffffff;}.vw-site-wrapper,.vw-page-navigation-pagination{background-color:#ffffff;}.vw-top-bar{background:#ffffff;}.vw-menu-location-top .main-menu-link{color:#888888;}.vw-menu-location-top .main-menu-link:hover{color:#ffffff;}.vw-menu-location-top .sub-menu,.vw-menu-location-top .main-menu-item:hover .main-menu-link{background:#2082b5;}.vw-menu-location-top .sub-menu-link{color:#888888;}.vw-menu-location-top .sub-menu-link:hover{color:#ffffff;}.vw-menu-location-top .sub-menu-link:hover{background:#2082b5;}.vw-menu-main-inner{background:#2082b5;}.vw-menu-location-main .main-menu-link{color:#ffffff;}.vw-menu-location-main .main-menu-link:hover{color:#ffffff;}.vw-menu-location-main .main-menu-item:hover .main-menu-link{background:#000000;}.vw-menu-location-main .sub-menu{background:#2082b5;}.vw-menu-location-main .sub-menu-link{color:#ffffff;}.vw-menu-location-main .sub-menu-link:hover{color:#ffffff;}.vw-menu-location-main .sub-menu-link:hover{background:#000000;}.vw-site-footer{background-color:#222222;}.vw-site-footer-sidebars h1,.vw-site-footer-sidebars h2,.vw-site-footer-sidebars h3,.vw-site-footer-sidebars h4,.vw-site-footer-sidebars h5,.vw-site-footer-sidebars h6,.vw-site-footer-sidebars .widget-title,.vw-site-footer-sidebars .vw-widget-category-title,.vw-site-footer-sidebars .vw-social-counter-count{color:#ffffff;}.vw-site-footer-sidebars{color:#dcdcdc;}.vw-bottom-bar{background:#1e73be;}.vw-bottom-bar{color:#ffffff;}</style><script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="https://cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=e9690636-be5b-4e59-9d9b-2c2f234de825";s.id="infinity";s.setAttribute("data-guid","e9690636-be5b-4e59-9d9b-2c2f234de825");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
+<script async="" src="https://cdn1.lockerdomecdn.com/embeds/alive2god_thewashingtonstandard_sticky.js"></script>
+<div id="ld-4399-7086"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:14383647973389414,size:[0, 0],id:"ld-4399-7086"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-64272499-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-64272499-1');
+</script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/reformmedia-network/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<!-- End WP Header -->
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64272499-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=e9690636-be5b-4e59-9d9b-2c2f234de825";s.id="infinity";s.setAttribute("data-guid","e9690636-be5b-4e59-9d9b-2c2f234de825");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
+</meta></link></link></link></meta></meta></meta></head>
+<body class="post-template-default single single-post postid-75957 single-format-standard vw-site-enable-sticky-menu vw-blog-enable-masonry-layout vw-site-layout-full-width vw-post-layout-classic-no-featured-image" id="site-top">
+<!-- Site Wrapper -->
+<div class="vw-site-wrapper">
+<!-- Top Bar -->
+<div class="vw-top-bar">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-top-bar-inner">
+<div class="vw-top-bar-left">
+<!-- Top Menu -->
+<nav class="vw-menu-top-wrapper">
+<ul class="vw-menu vw-menu-location-top vw-menu-type-text clearfix" id="menu-top-menu"><li class="nav-menu-item-46005 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/privacy-policy/"><span>Privacy Policy</span></a></li>
+<li class="nav-menu-item-46006 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/contact/"><span>Contact</span></a></li>
+<li class="nav-menu-item-46010 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/about-us/"><span>About Us</span></a></li>
+<li class="nav-menu-item-49919 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link main-menu-link" href="http://nationalheadlinestoday.com"><span>National Headlines Today</span></a></li>
+<li class="nav-menu-item-49914 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-link main-menu-link"><span>Store</span></a>
+<ul class="sub-menu menu-odd menu-depth-1">
+<li class="nav-menu-item-49915 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://store.keepandbear.com?aff=38"><span>Keep &amp; Bear Arms</span></a></li>
+<li class="nav-menu-item-49911 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://shop.real.video?rfsn=1696931.be2bf6&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=1696931.be2bf6"><span>All Natural Products</span></a></li>
+<li class="nav-menu-item-49912 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://mydoterra.com/brownfamily"><span>Essential Oils</span></a></li>
+<li class="nav-menu-item-49910 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://www.ronpaulcurriculum.com/public/3346.cfm?affID=Alive2god"><span>Home Educate Your Kids For Free</span></a></li>
+<li class="nav-menu-item-49916 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://amzn.to/2DSKByF"><span>Amazon</span></a></li>
+<li class="nav-menu-item-49918 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://shareasale.com/r.cfm?b=530172&amp;u=1113712&amp;m=49871&amp;urllink=&amp;afftrack="><span>Bulletproof Vests</span></a></li>
+</ul>
+</li>
+</ul></nav>
+<!-- End Top Menu --> </div>
+<div class="vw-top-bar-right">
+<span class="vw-site-social-profile"><a class="vw-site-social-profile-icon vw-site-social-facebook" href="https://www.facebook.com/thewashingtonstandard" title="Facebook"><i class="vw-icon icon-social-facebook"></i></a><a class="vw-site-social-profile-icon vw-site-social-twitter" href="https://twitter.com/FPPTim" title="Twitter"><i class="vw-icon icon-social-twitter"></i></a><a class="vw-site-social-profile-icon vw-site-social-youtube" href="https://bit.ly/settingbrushfires" title="Youtube"><i class="vw-icon icon-social-youtube"></i></a></span>
+<a class="vw-instant-search-buton main-menu-link"><i class="vw-icon icon-entypo-search"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- End Top Bar -->
+<!-- Site Header : Left Logo -->
+<header class="vw-site-header vw-site-header-style-centered-logo" itemscope="" itemtype="http://schema.org/WPHeader">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-site-header-inner">
+<!-- Logo -->
+<div class="vw-logo-wrapper" itemscope="" itemtype="http://schema.org/Organization">
+<a class="vw-logo-link" href="https://thewashingtonstandard.com" itemprop="url">
+<!-- Site Logo -->
+<!-- Retina Site Logo -->
+<img alt="The Washington Standard" class="vw-logo-2x" height="134" itemprop="logo" src="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header.png" width="600"/>
+<img alt="The Washington Standard" class="vw-logo" height="134" itemprop="logo" src="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" width="600"/>
+</a>
+</div>
+<!-- End Logo -->
+<div class="vw-mobile-nav-button-wrapper">
+<span class="vw-mobile-nav-button">
+<span class="vw-hamburger-icon"><span></span></span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Main Menu -->
+<nav class="vw-menu-main-wrapper" id="vw-menu-main" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-menu-main-inner">
+<ul class="vw-menu vw-menu-location-main vw-menu-type-mega-post" id="menu-home-menu"><li class="nav-menu-item-48 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-4"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/us-news/" itemprop="url"><span>US</span></a></li>
+<li class="nav-menu-item-50 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-6"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/politics/" itemprop="url"><span>Politics</span></a></li>
+<li class="nav-menu-item-66336 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent vw-mega-menu-type-classic vw-cat-id-18"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/commentary/" itemprop="url"><span>Commentary</span></a></li>
+<li class="nav-menu-item-49 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-8"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/constitutionandlaw/" itemprop="url"><span>Constitution &amp; Law</span></a></li>
+<li class="nav-menu-item-51 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-5"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/worldnews/" itemprop="url"><span>World</span></a></li>
+<li class="nav-menu-item-58 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category vw-mega-menu-type-classic vw-cat-id-11"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/economy/" itemprop="url"><span>Economy</span></a></li>
+<li class="nav-menu-item-49947 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom vw-mega-menu-type-classic"><a class="menu-link main-menu-link" href="http://gunsinthenews.com" itemprop="url"><span>Gun News</span></a></li>
+<li class="nav-menu-item-49946 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom vw-mega-menu-type-classic"><a class="menu-link main-menu-link" href="http://nationalheadlinestoday.com" itemprop="url"><span>National Headlines Today</span></a></li>
+<li class="nav-menu-item-49938 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children vw-mega-menu-type-classic"><a class="menu-link main-menu-link" itemprop="url"><span>Store</span></a><div class="sub-menu-wrapper">
+<ul class="sub-menu menu-odd menu-depth-1">
+<li class="nav-menu-item-49940 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://store.keepandbear.com?aff=38" itemprop="url"><span>Keep &amp; Bear Arms</span></a></li>
+<li class="nav-menu-item-49941 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://shop.real.video?rfsn=1696931.be2bf6&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=1696931.be2bf6" itemprop="url"><span>All Natural Products</span></a></li>
+<li class="nav-menu-item-49942 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://mydoterra.com/brownfamily" itemprop="url"><span>Essential Oils</span></a></li>
+<li class="nav-menu-item-49943 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://www.ronpaulcurriculum.com/public/3346.cfm?affID=Alive2god" itemprop="url"><span>Home Educate Your Kids For Free</span></a></li>
+<li class="nav-menu-item-49944 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://amzn.to/2DSKByF" itemprop="url"><span>Amazon</span></a></li>
+<li class="nav-menu-item-49945 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://shareasale.com/r.cfm?b=530172&amp;u=1113712&amp;m=49871&amp;urllink=&amp;afftrack=" itemprop="url"><span>Bulletproof Vests</span></a></li>
+</ul>
+</div>
+</li>
+<li class="nav-menu-item-56277 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page vw-mega-menu-type-classic"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/about-us/" itemprop="url"><span>About Us</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<!-- End Main Menu -->
+<!-- Mobile Menu -->
+<nav class="vw-menu-mobile-wrapper">
+<ul class="vw-menu-location-mobile" id="menu-home-menu-1"><li class="vw-mobile-additional-buttons"> <span class="vw-search-buton main-menu-item">
+<a class="vw-search-buton" href="https://thewashingtonstandard.com/search/"><i class="vw-icon icon-iconic-search"></i></a>
+</span>
+</li><li class="nav-menu-item-48 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/us-news/"><span>US</span></a></li>
+<li class="nav-menu-item-50 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/politics/"><span>Politics</span></a></li>
+<li class="nav-menu-item-66336 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/commentary/"><span>Commentary</span></a></li>
+<li class="nav-menu-item-49 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/constitutionandlaw/"><span>Constitution &amp; Law</span></a></li>
+<li class="nav-menu-item-51 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/worldnews/"><span>World</span></a></li>
+<li class="nav-menu-item-58 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy menu-item-object-category"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/category/economy/"><span>Economy</span></a></li>
+<li class="nav-menu-item-49947 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link main-menu-link" href="http://gunsinthenews.com"><span>Gun News</span></a></li>
+<li class="nav-menu-item-49946 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link main-menu-link" href="http://nationalheadlinestoday.com"><span>National Headlines Today</span></a></li>
+<li class="nav-menu-item-49938 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a class="menu-link main-menu-link"><span>Store</span></a>
+<ul class="sub-menu menu-odd menu-depth-1">
+<li class="nav-menu-item-49940 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://store.keepandbear.com?aff=38"><span>Keep &amp; Bear Arms</span></a></li>
+<li class="nav-menu-item-49941 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://shop.real.video?rfsn=1696931.be2bf6&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=1696931.be2bf6"><span>All Natural Products</span></a></li>
+<li class="nav-menu-item-49942 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://mydoterra.com/brownfamily"><span>Essential Oils</span></a></li>
+<li class="nav-menu-item-49943 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://www.ronpaulcurriculum.com/public/3346.cfm?affID=Alive2god"><span>Home Educate Your Kids For Free</span></a></li>
+<li class="nav-menu-item-49944 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="https://amzn.to/2DSKByF"><span>Amazon</span></a></li>
+<li class="nav-menu-item-49945 sub-menu-item menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a class="menu-link sub-menu-link" href="http://shareasale.com/r.cfm?b=530172&amp;u=1113712&amp;m=49871&amp;urllink=&amp;afftrack="><span>Bulletproof Vests</span></a></li>
+</ul>
+</li>
+<li class="nav-menu-item-56277 main-menu-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a class="menu-link main-menu-link" href="https://thewashingtonstandard.com/about-us/"><span>About Us</span></a></li>
+</ul>
+</nav>
+<!-- End Mobile Menu --></header>
+<!-- End Site Header : Left Logo -->
+<div class="vw-page-wrapper clearfix vw-sidebar-position-right">
+<div class="container">
+<div class="row">
+<div class="vw-page-content" itemprop="articleBody" role="main">
+<article class="vw-main-post post-75957 post type-post status-publish format-standard has-post-thumbnail hentry category-commentary">
+<div class="vw-breadcrumb vw-breadcrumb-envirra"><span><span typeof="v:Breadcrumb"><a class="home" href="https://thewashingtonstandard.com/" property="v:title" rel="v:url">Home</a></span><span class="vw-breadcrumb-separator">»</span><span typeof="v:Breadcrumb"><a href="https://thewashingtonstandard.com/category/commentary/" property="v:title" rel="v:url" title="Commentary">Commentary</a></span><span class="vw-breadcrumb-separator">»</span><span class="vw-breadcrumb-item-last">Communist China:  Friend Or Foe?</span></span></div>
+<div class="vw-post-categories"><div><a class="vw-category-link vw-cat-id-18" href="https://thewashingtonstandard.com/category/commentary/" rel="category" title="View all posts in Commentary">Commentary</a></div></div>
+<h1 class="entry-title">Communist China:  Friend Or Foe?</h1>
+<span class="author vcard hidden"><span class="fn">Leon Puissegur</span></span>
+<span class="updated hidden">2020-04-23</span>
+<div class="vw-post-meta vw-post-meta-large">
+<div class="vw-post-meta-inner">
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/leonpuissegur/" itemprop="name" rel="author" title="View all posts by Leon Puissegur">Leon Puissegur</a>
+</span>
+<span class="vw-post-meta-separator">/</span>
+<i class="vw-icon icon-entypo-clock"></i> <a class="vw-post-date updated" href="https://thewashingtonstandard.com/communist-china-friend-foe/" rel="bookmark" title="Permalink to Communist China:  Friend Or Foe?"><time datetime="2020-04-23T10:17:20-04:00" itemprop="datePublished">April 23, 2020</time></a>
+</div>
+<div class="vw-post-meta-icons">
+</div>
+</div>
+<div class="vw-post-share-box">
+<div class="vw-post-share-big-number">
+<div class="vw-number">14</div>
+<div class="vw-unit">Shares</div>
+</div>
+<a class="vw-post-share-box-button vw-post-shares-social vw-post-shares-social-facebook" data-height="300" data-post-id="75957" data-share-to="facebook" data-width="500" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthewashingtonstandard.com%2Fcommunist-china-friend-foe%2F" title="Share to Facebook">
+<i class="vw-icon icon-social-facebook"></i>
+<span class="vw-button-label">Facebook</span>
+</a>
+<a class="vw-post-share-box-button vw-post-shares-social vw-post-shares-social-twitter" data-height="300" data-post-id="75957" data-share-to="twitter" data-width="500" href="https://twitter.com/home?status=Communist+China%3A++Friend+Or+Foe%3F%20-%20https%3A%2F%2Fthewashingtonstandard.com%2Fcommunist-china-friend-foe%2F" title="Share to Twitter">
+<i class="vw-icon icon-social-twitter"></i>
+<span class="vw-button-label">Twitter</span>
+</a>
+<a class="vw-post-share-box-button vw-post-shares-social vw-post-shares-social-pinterest" data-height="300" data-post-id="75957" data-share-to="pinterest" data-width="750" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fthewashingtonstandard.com%2Fcommunist-china-friend-foe%2F&amp;media=https://thewashingtonstandard.com/wp-content/uploads/2018/09/china-us.jpg&amp;description=Communist+China%3A++Friend+Or+Foe%3F" title="Share to Pinterest">
+<i class="vw-icon icon-social-pinterest"></i>
+<span class="vw-button-label">Pinterest</span>
+</a>
+<a class="vw-post-share-box-button vw-post-shares-social vw-post-shares-social-whatsapp" data-height="475" data-post-id="75957" data-share-to="whatsapp" data-width="500" href="https://wa.me/whatsappphonenumber/?text=Communist+China%3A++Friend+Or+Foe%3F%20-%20https%3A%2F%2Fthewashingtonstandard.com%2Fcommunist-china-friend-foe%2F" title="Share to WhatsApp">
+<i class="vw-icon icon-social-whatsapp"></i>
+<span class="vw-button-label">WhatsApp</span>
+</a>
+</div>
+<div class="vw-post-content clearfix"><div class="vw-before-post-content"><div id="ld-6559-6683"></div>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:13299126620103270,size:[0, 0],id:"ld-6559-6683"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<div data-endpoint="//trends.revcontent.com" data-rc-widget="" data-widget-host="habitat" data-widget-id="116226" id="rc-widget-272cf1"></div>
+<script defer="defer" src="https://assets.revcontent.com/master/delivery.js" type="text/javascript"></script>
+</div><p>Since January of this year, our nation has been found in a battle with a virus that we are told began in Communist China in an area called Wuhan.  Some wonder if maybe this was done on purpose while others believe that this virus was allowed out to eliminate the older people in China.  It would not be the first time China has killed their own people to get rid of certain groups. But let us take a look at what China really is.  We know for a fact that China is a Communist nation. We also know that many factories are based in the lower floors of apartments where the employees stay up above and work down below. We questioned a few Chinese people while on a cruise to find out that it is very true that many workers are forced to live above the factories so they can be controlled by the government.  China owns all industry.  They do not have private firms working within Communist China and a few United States companies found this out recently when they were going to send needed supplies to the US from their factories in China and China said they could not do that.</p>
+<p>Let us take a look at Communist China’s history and remember, under Xi Jinping, it has been revived!</p>
+<p>From Wikipedia, the free encyclopedia:</p><div class="code-block code-block-1" style="margin: 8px 0; clear: both;">
+<ul>
+<li><a href="https://www.emfsol.com?aff=ctQ9GqtsMfLBD3XJZ"><strong>How To Protect Yourself From 5G, EMF &amp; RF Radiation</strong></a></li>
+<li><strong><a href="https://heavensharvest.com/collections/seed-kits/products/heirloom-vegetable-seed-bucket?variant=34283425333292" rel="nofollow noopener" target="_blank">Grab This Bucket Of Heirloom Seeds &amp; Get Free Shipping With Promo Code TIM</a></strong></li>
+<li><a href="https://shop.foodforestabundance.com/TIMBROWN" rel="nofollow noopener" target="_blank"><strong>Build Your Own Food Forest &amp; Save 5% With Promo Code TIMBROWN</strong></a></li>
+<li><strong><a href="https://mypatriotsupply.com/?rfsn=5131805.ffe1a3" rel="nofollow noopener" target="_blank">Here’s A Way You Can Stockpile Food For The Future</a></strong></li>
+<li><strong><a href="https://ammo.com/i/aGRNd0wwRGwxTFE9c" rel="nofollow noopener" target="_blank">Stockpile Your Ammo &amp; Save $15 On Your First Order</a></strong></li>
+<li><a href="https://timbrown.thegoodinside.com/pbx-trial-offer-557846" rel="nofollow noopener" target="_blank"><strong>Preparing Also Means Detoxifying – Here’s One Simple Way To Detoxify</strong></a></li>
+<li><strong><a href="https://mystore.com/timbrown" rel="nofollow noopener" target="_blank">Save Up To 66% Off MyPillow with Promo Code TIMBROWN</a></strong></li>
+<li><strong><a href="https://www.bereli.com?aff=4341">Grab guns, accessories, gear and optics at the lowest prices</a></strong>
+</li></ul></div>
+<p> </p>
+<blockquote><p><strong>“The Communist Party of China (CPC)</strong><a href="https://en.wikipedia.org/wiki/Communist_Party_of_China#cite_note-18"><strong><sup>[note 2]</sup></strong></a><strong> is the founding and </strong><a href="https://en.wikipedia.org/wiki/Ruling_party"><strong>ruling political party</strong></a><strong> of the </strong><a href="https://en.wikipedia.org/wiki/China"><strong>People’s Republic of China</strong></a><strong> (PRC) and the </strong><a href="https://en.wikipedia.org/wiki/List_of_largest_political_parties"><strong>second largest political party in the world</strong></a><strong>. The CPC is the </strong><a href="https://en.wikipedia.org/wiki/One-party_state"><strong>sole governing party</strong></a><strong> within </strong><a href="https://en.wikipedia.org/wiki/Mainland_China"><strong>mainland China</strong></a><strong>, </strong><a href="https://en.wikipedia.org/wiki/List_of_political_parties_in_the_People%27s_Republic_of_China"><strong>permitting only eight other</strong></a><strong>, subordinated parties to co-exist, those making up the </strong><a href="https://en.wikipedia.org/wiki/United_Front_(China)"><strong>United Front</strong></a><strong>. It was founded in 1921, chiefly by </strong><a href="https://en.wikipedia.org/wiki/Chen_Duxiu"><strong>Chen Duxiu</strong></a><strong> and </strong><a href="https://en.wikipedia.org/wiki/Li_Dazhao"><strong>Li Dazhao</strong></a><strong>. The party grew quickly, and by 1949 it had driven the </strong><a href="https://en.wikipedia.org/wiki/Kuomintang"><strong>Kuomintang</strong></a><strong> (KMT)’s </strong><a href="https://en.wikipedia.org/wiki/Nationalist_government"><strong>nationalist government</strong></a><strong> from </strong><a href="https://en.wikipedia.org/wiki/Mainland_China"><strong>mainland China</strong></a><strong> after the </strong><a href="https://en.wikipedia.org/wiki/Chinese_Civil_War"><strong>Chinese Civil War</strong></a><strong>, leading to the establishment of the People’s Republic of China. It also controls the world’s largest armed forces, the </strong><a href="https://en.wikipedia.org/wiki/People%27s_Liberation_Army"><strong>People’s Liberation Army</strong></a><strong>.”</strong></p></blockquote>
+<p>Here we see the beginning of the Communist Party of China. What is not revealed here are the millions of Chinese that were killed to establish the power of the Communist Party. The numbers are staggering because the total amount is more than the amount of people now in the United States!  It’s hard to imagine that since 1949, the Communist Chinese have killed around 490 MILLION of its own people! One does not have to believe what we wrote here.  <a href="https://www.quora.com/How-many-people-have-been-killed-by-the-Chinese-Communist-Party-since-the-party-came-to-power-in-China?share=1">Simply go here to discover the truth for yourself.</a></p><div class="code-block code-block-2" style="margin: 8px 0; clear: both;">
+<div id="ld-2166-6199"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11229617935827558,size:[0, 0],id:"ld-2166-6199"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+</div>
+<blockquote><p><strong>Since 1949, the establishment of the PRC, at least 490 million (including forced abortions) people have been killed by the Chinese Communist Party. If including the Civil War of China during 1927–1936, and 1947–1949, the CCP would responsible for another 20 million people’s death. Therefore, the total population lost would increase to at least 510 million.</strong></p></blockquote>
+<p>How could such a political group hold life so irrelevant? It is easy for the Communist Chinese since they have billions of people and a mere 500 million would not hurt their population. China has just begun to allow 2 children to a family because they were getting too many males.  Most of the female babies would be aborted because they had little use to the military might of China. You see, the Communist Chinese only have one major objective and will continually go after that idea no matter what the cost, and that is world domination. Please go back to World War 2 to understand why world domination is not good for anyone. Nazi Germany had that idea and the murder and destruction of nations show what that was.  Today, China is not far from that, but the Chinese elite are extremely good at disguising their intentions because they will gladly pat you on the back while holding a knife!</p>
+<p>Let’s continue on with what the Communist Chinese really are.</p>
+<blockquote><p><strong>“The CPC is officially organized on the basis of </strong><a href="https://en.wikipedia.org/wiki/Democratic_centralism"><strong>democratic centralism</strong></a><strong>, a principle conceived by Russian </strong><a href="https://en.wikipedia.org/wiki/Marxism"><strong>Marxist</strong></a><strong> </strong><a href="https://en.wikipedia.org/wiki/Theoretician_(Marxism)"><strong>theoretician</strong></a><strong> </strong><a href="https://en.wikipedia.org/wiki/Vladimir_Lenin"><strong>Vladimir Lenin</strong></a><strong> which entails democratic and open discussion on policy on the condition of unity in upholding the agreed upon policies. The highest body of the CPC is the </strong><a href="https://en.wikipedia.org/wiki/National_Congress_of_the_Communist_Party_of_China"><strong>National Congress</strong></a><strong>, convened every fifth year. When the National Congress is not in session, the </strong><a href="https://en.wikipedia.org/wiki/Central_Committee_of_the_Communist_Party_of_China"><strong>Central Committee</strong></a><strong> is the highest body, but since the body meets normally only once a year most duties and responsibilities are vested in the </strong><a href="https://en.wikipedia.org/wiki/Politburo_of_the_Communist_Party_of_China"><strong>Politburo</strong></a><strong> and its </strong><a href="https://en.wikipedia.org/wiki/Politburo_Standing_Committee_of_the_Communist_Party_of_China"><strong>Standing Committee</strong></a><strong>. The </strong><a href="https://en.wikipedia.org/wiki/List_of_leaders_of_the_Communist_Party_of_China"><strong>party’s leader</strong></a><strong> recently holds the offices of </strong><a href="https://en.wikipedia.org/wiki/General_Secretary_of_the_Communist_Party_of_China"><strong>General Secretary</strong></a><strong> (responsible for civilian party duties), </strong><a href="https://en.wikipedia.org/wiki/Chairman_of_the_Central_Military_Commission"><strong>Chairman of the Central Military Commission</strong></a><strong> (CMC) (responsible for military affairs) and </strong><a href="https://en.wikipedia.org/wiki/President_of_the_People%27s_Republic_of_China"><strong>State President</strong></a><strong> (a largely ceremonial position). Through these posts, the party leader is the country’s </strong><a href="https://en.wikipedia.org/wiki/Paramount_leader"><strong>paramount leader</strong></a><strong>. The current paramount leader is General Secretary </strong><a href="https://en.wikipedia.org/wiki/Xi_Jinping"><strong>Xi Jinping</strong></a><strong>, elected at the </strong><a href="https://en.wikipedia.org/wiki/18th_Central_Committee_of_the_Communist_Party_of_China"><strong>18th Central Committee</strong></a><strong> held on 15 November 2012.”</strong><strong> </strong></p></blockquote>
+<p>Check out the blue highlighted part of the above paragraph, it shows what we in the United States are now fighting to avoid: democratic centralism. Although Nancy Pelosi and Chuck Schumer do not outwardly state this, if you look at their ideology, it closely follows this point made by the Communist Party of China! Notice how the ideas of Marxist Lenin seem to blend well with the Democratic Party’s ideas? How did we allow this to get this far along?  How did we allow our nation to begin following this ideology? <a href="http://freedomoutpost.com/roots-of-democratic-party-from-1856-to-now/">Check out a prior article that explains that.</a></p>
+<p>Our nation has gone under some very damaging “transformation” since 1856 and the Democrats have been a big part of the downhill lean.</p>
+<p>Communist China is not what they appear to be and their disguise is constantly being changed so as to hide their ideology until they are ready to take over the world.</p>
+<blockquote><p><strong>“The CPC is committed to </strong><a href="https://en.wikipedia.org/wiki/Communism"><strong>communism</strong></a><strong> and continues to participate in the </strong><a href="https://en.wikipedia.org/wiki/International_Meeting_of_Communist_and_Workers%27_Parties"><strong>International Meeting of Communist and Workers’ Parties</strong></a><strong> each year. According to the </strong><a href="https://en.wikipedia.org/wiki/Constitution_of_the_Communist_Party_of_China"><strong>party constitution</strong></a><strong>, the CPC adheres to </strong><a href="https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism"><strong>Marxism–Leninism</strong></a><strong>, </strong><a href="https://en.wikipedia.org/wiki/Mao_Zedong_Thought"><strong>Mao Zedong Thought</strong></a><strong>, </strong><a href="https://en.wikipedia.org/wiki/Socialism_with_Chinese_characteristics"><strong>socialism with Chinese characteristics</strong></a><strong>, </strong><a href="https://en.wikipedia.org/wiki/Deng_Xiaoping_Theory"><strong>Deng Xiaoping Theory</strong></a><strong>, the </strong><a href="https://en.wikipedia.org/wiki/Three_Represents"><strong>Three Represents</strong></a><strong>, the </strong><a href="https://en.wikipedia.org/wiki/Scientific_Outlook_on_Development"><strong>Scientific Outlook on Development</strong></a><strong>, and </strong><a href="https://en.wikipedia.org/wiki/Xi_Jinping_Thought"><strong>Xi Jinping Thought</strong></a><strong>. The official explanation for </strong><a href="https://en.wikipedia.org/wiki/Reform_and_opening-up"><strong>China’s economic reforms</strong></a><strong> is that the country is in the </strong><a href="https://en.wikipedia.org/wiki/Primary_stage_of_socialism"><strong>primary stage of socialism</strong></a><strong>, a <em>developmental</em> stage similar to the </strong><a href="https://en.wikipedia.org/wiki/Capitalist_mode_of_production_(Marxist_theory)"><strong>capitalist mode of production</strong></a><strong>. The </strong><a href="https://en.wikipedia.org/wiki/Command_economy"><strong>command economy</strong></a><strong> established under </strong><a href="https://en.wikipedia.org/wiki/Mao_Zedong"><strong>Mao Zedong</strong></a><strong> was replaced by the </strong><a href="https://en.wikipedia.org/wiki/Socialist_market_economy"><strong>socialist market economy</strong></a><strong> under </strong><a href="https://en.wikipedia.org/wiki/Deng_Xiaoping"><strong>Deng Xiaoping</strong></a><strong>, the </strong><a href="https://en.wikipedia.org/wiki/Economy_of_China"><strong>current economic system</strong></a><strong>, on the basis that “Practice is the Sole Criterion for the Truth”.”</strong><strong> </strong></p></blockquote>
+<p><strong>The Xi Jinping Thought</strong></p>
+<p>Wonder what that is? It is interesting and clicking on that will show you that Xi Jinping cannot be trusted as far as one could pick him up and throw him. Go back to the beginning of this paragraph and notice what is called Workers’ Party.  Is it strange that the same type of Workers’ Party exists in the United States and they are strong supporters of both Nancy Pelosi and Chuck Schumer? Communist China bases its economy on the idea that “Practice is the Sole Criterion for the Truth.”  Now, we have to wonder if maybe the truth part only applies to their economic theory, it sure does not apply to allowing truth out of its nation. Below, see a direct quote from Xi Jinping.</p>
+<blockquote><p>“[…] their theory that capitalism is the ultimate has been shaken, and socialist development has experienced a miracle. Western capitalism has suffered reversals, a financial crisis, a credit crisis, a crisis of confidence, and their self-conviction has wavered. Western countries have begun to reflect, and openly or secretively compare themselves against China’s politics, economy and path.”</p>
+<p><em>—</em><a href="https://en.wikipedia.org/wiki/Xi_Jinping"><em>Xi Jinping</em></a><em>, the CCP general secretary, on the inevitability of socialism.</em><a href="https://en.wikipedia.org/wiki/Communist_Party_of_China#cite_note-135"><em><sup>[133]</sup></em></a></p></blockquote>
+<blockquote><p><a href="https://en.wikipedia.org/wiki/Communist_Party_of_China#cite_ref-135"><strong>^</strong></a><em>Buckley, Chris (13 February 2014). </em><a href="http://sinosphere.blogs.nytimes.com/2014/02/13/xi-touts-communist-party-as-defender-of-confuciuss-virtues/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1"><em>“Xi Touts Communist Party as Defender of     Confucius’s Virtues”</em></a><em>. </em><a href="https://en.wikipedia.org/wiki/The_New_York_Times"><em>The New York Times</em></a><em>. </em><a href="https://web.archive.org/web/20140222200302/http:/sinosphere.blogs.nytimes.com/2014/02/13/xi-touts-communist-party-as-defender-of-confuciuss-virtues/?_php=true&amp;_type=blogs&amp;_php=true&amp;_type=blogs&amp;_r=1"><em>Archived</em></a><em> from the original on 22 February 2014. Retrieved 13 February 2014.</em></p></blockquote>
+<p>Notice how Xi Jinping seems to be working toward the end goal of obtaining his style of “Socialism” to the Western world!</p>
+<p>Let us look at the next paragraph of Communist China history, here is where it gets very interesting.<strong> </strong></p>
+<blockquote><p><strong>“Since the </strong><a href="https://en.wikipedia.org/wiki/Revolutions_of_1989"><strong>collapse of Eastern European communist governments</strong></a><strong> in 1989–1990 and the </strong><a href="https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"><strong>dissolution of the Soviet Union</strong></a><strong> in 1991, the CPC has emphasized its party-to-party relations with the ruling parties of the remaining </strong><a href="https://en.wikipedia.org/wiki/Socialist_state"><strong>socialist states</strong></a><strong>. While the CPC still maintains party-to-party relations with non-ruling </strong><a href="https://en.wikipedia.org/wiki/Communist_parties"><strong>communist parties</strong></a><strong> around the world, since the 1980s it has established relations with several non-communist parties, most notably with ruling parties of </strong><a href="https://en.wikipedia.org/wiki/One-party_states"><strong>one-party states</strong></a><strong> (whatever their ideology), </strong><a href="https://en.wikipedia.org/wiki/Dominant-party_system"><strong>dominant parties</strong></a><strong> in </strong><a href="https://en.wikipedia.org/wiki/Democracies"><strong>democracies</strong></a><strong> (whatever their ideology) and </strong><a href="https://en.wikipedia.org/wiki/Social_democracy"><strong>social democratic</strong></a><strong> parties.”</strong></p></blockquote>
+<p>The most important part of this paragraph comes near the end where it is shown where the Communist Party of China “establishes relations with several non-communist parties.”  Notice, once again, the last three words, “social democratic parties.”  Here it is clear that we have the Communist Chinese helping out, working with or in relationship with Socialist Democratic Parties. Does the Democratic Socialist Party here in the USA become a part of Communist Chinas’ influence? Could Bernie Sanders be part of the Communist Chinese influence in the Democratic Party here in the United States?  It does bring questions into being that need to be answered!</p>
+<p>We just have to look into the people associated with China to see what they are doing to help China keep their secrets about the Communist Chinese Wuhan Virus. Did Communist China have their spy sitting in Dianne Feinstein’s office to see what the United States is doing that they may be able to twist to their advantage? Why has no one called Senator Dianne Feinstein to the mat for having a Communist Chinese spy working in her office? One does not have to dig deep into Nancy Pelosi’s background to find ties to the Workers Party or to Communist China.  Maybe that is why she favors Communist China over United States citizens, but in either case, we must take a close look at many in Congress and the Senate and find those who receive funds or help from the Communist Chinese. One would be stunned by the names associated with Communist China and those that support China the most are the very ones that obtain help from China in one form or another.</p>
+<p>Communist China has held its secrets close to the vest but the fact that they have killed over 400 million of its own citizens shows that they have no value for life but only for the Communist Party. We should be very wary of the Communist Chinese since they are working hard to destroy our nation from within. It is not unusual to see a headline where someone was working in some government office and spying for Communist China, Diane Feinstien is a glaring example of how close the Communist Chinese will place their spies to find and seek information they need to replicate our military might and they spare no expense to do that, in some cases using grant money the Congress gives to them to spy on us.</p>
+<p>Communist China does not wish to help our nation, they wish to captivate it, to take it over little by little. They send their students here not just to learn but, in most cases, to take pictures of our infrastructure so the military can find where we are weak at should they ever decide to invade our nation. Communist China is not our friend. Check out the oath to the Communist Party below.</p>
+<blockquote><p><strong>“It is my will to join the Communist Party of China, uphold the Party’s program, observe the provisions of the Party constitution, fulfill a Party member’s duties, carry out the Party’s decisions, strictly observe Party discipline, guard Party secrets, be loyal to the Party, work hard, fight for communism throughout my life, be ready at all times to sacrifice my all for the Party and the people, and never betray the Party.”</strong></p>
+<p><strong><em>—Communist Party admission oath</em></strong><strong><a href="https://en.wikipedia.org/wiki/Communist_Party_of_China#cite_note-FOOTNOTESullivan2012183-103"><em><sup>[101]</sup></em></a></strong><strong><em><u><sup>”</sup></u></em></strong></p></blockquote>
+<p>This shows how determined the Communist Chinese are to follow their leaders with no free will at all. The people of the United States should be proud that we do not make our people take an oath like this, unless of course, it is for military duty. Their oath even shows they will fight for Communism and that is beyond what United States Citizens have ever done.</p>
+<p>Look at yet another gem from the Communist Chinese.</p>
+<blockquote><p><strong>Main article: </strong><strong><a href="https://en.wikipedia.org/wiki/Ideology_of_the_Communist_Party_of_China">Ideology of the Communist Party of China</a></strong></p>
+<p><strong>“Since 1978 China has to a certain extent shifted its political philosophical discourse. But this shift has brought us closer to classical Marxism. For example, classical Marxism expresses the relationship between economics and politics, and further, the economic base and superstructure where the latter is determined fundamentally by the former and only under certain limited conditions can the latter shape the former. Both Stalin and Mao, however, believed that politics and the superstructure could, at any moment, fundamentally determine economics, that they could determine absolutely the economic base. In a word, for whatever reason both Stalin and Mao misunderstood this vital point in Marxist theory and suffered accordingly in practice.”</strong></p>
+<p><strong><em>—</em></strong><strong><a href="https://en.wikipedia.org/w/index.php?title=Jiexiong_Yi&amp;action=edit&amp;redlink=1"><em>Jiexiong Yi</em></a></strong><strong><em>, a senior Marxist researcher at </em></strong><strong><a href="https://en.wikipedia.org/wiki/Beijing_University"><em>Beijing University</em></a></strong><strong><em> and the Central Party School.</em></strong><strong><a href="https://en.wikipedia.org/wiki/Communist_Party_of_China#cite_note-FOOTNOTEMahoneyYiLi2009182-112"><em><sup>[110]</sup></em></a></strong></p></blockquote>
+<p>We see that Communist China uses Marxism and Socialism to reach its goals of Communism. Here, in our nation, we have the Democratic Socialist Party with Bernie Sanders at the head of the organization and many followers who follow like blind mice. How many of those followers would follow if they really understood what Socialism leads to because socialism is just a stepping stone in their hierarchy of Communism. The gem below will blow many people’s minds.</p>
+<blockquote><p><strong>“I am a Marxist. The essence of Marxism is change, […] </strong><strong><a href="https://en.wikipedia.org/wiki/Barack_Obama">Barack Obama</a></strong><strong> beat </strong><strong><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Hillary Clinton</a></strong><strong> by stressing change. The Marxist in China today is not a stubborn, dogmatic, and outdated 19th-century old man, but a dynamic, pro-change, young thinker. We have a flexible approach: if </strong><strong><a href="https://en.wikipedia.org/wiki/Karl_Marx">Marx</a></strong><strong>‘s words are still applicable, we will use them; for things he did not articulate clearly, we will spell them out; for what he did not say, we will boldly come up with something new.”</strong></p>
+<p><strong><em>—</em></strong><strong><a href="https://en.wikipedia.org/wiki/Ye_Xiaowen"><em>Ye Xiaowen</em></a></strong><strong><em> on the role of Marxist thought.</em></strong><strong><a href="https://en.wikipedia.org/wiki/Communist_Party_of_China#cite_note-FOOTNOTEKuhn2011369-117"><em><sup>[115]</sup></em></a></strong></p></blockquote>
+<p>In this example of the road to Communism, it is clearly shown how the “change” spoke of by former President Obama is an “essence of Marxism.”  We clearly see that the change that Obama really wanted was the Marxist view he came to know and like while at Occidental College.</p>
+<p>As a nation, we have to make sure we can clearly see that other nations are our friends and those who harbor Communist ideology while discussing free enterprise should be approached as one would approach a tiger with a hand full of meat, very cautious. If we do not look at the inner workings and ideologies of other nations, we are doomed to fall into a trap that will destroy our nation from within. Maybe this Communist Chinese Wuhan Virus will allow us to reexamine our Chinese counterparts to make sure we are not being misled by a bunch of Communists just to fit their ideals.</p>
+<p>Xi Jinping, the dictator of Communist China, does cause one to wonder how anyone could trust such a person who has closed China to nearly everything.</p>
+<blockquote><p>“Xi Jinping<a href="https://en.wikipedia.org/wiki/Xi_Jinping#cite_note-3"><sup>[note 2]</sup></a> (<a href="https://en.wikipedia.org/wiki/Help:IPA/English">/ʃiː dʒɪnˈpɪŋ/</a>; <a href="https://en.wikipedia.org/wiki/Simplified_Chinese_characters">Chinese</a>: <a href="https://en.wiktionary.org/wiki/%E4%B9%A0">习</a><a href="https://en.wiktionary.org/wiki/%E8%BF%91">近</a><a href="https://en.wiktionary.org/wiki/%E5%B9%B3">平</a>; <a href="https://en.wikipedia.org/wiki/Mandarin_Chinese">Mandarin</a> pronunciation: <a href="https://en.wikipedia.org/wiki/Help:IPA/Mandarin">[ɕǐ tɕîn.pʰǐŋ]</a>; born 15 June 1953) is a Chinese politician serving as the <a href="https://en.wikipedia.org/wiki/General_Secretary_of_the_Communist_Party_of_China">general secretary</a> of the <a href="https://en.wikipedia.org/wiki/Communist_Party_of_China">Communist Party of China</a> (CPC), <a href="https://en.wikipedia.org/wiki/President_of_the_People%27s_Republic_of_China">President of the People’s Republic of China</a> (PRC), and <a href="https://en.wikipedia.org/wiki/Chairman_of_the_Central_Military_Commission">chairman of the Central Military Commission</a> (CMC). Xi has been the <a href="https://en.wikipedia.org/wiki/Paramount_leader">paramount leader</a>, the highest-ranking official in China, since 2012 and he officially received the title of “<a href="https://en.wikipedia.org/wiki/Leadership_core">leadership core</a>” from the CPC in 2016.</p>
+<p>The son of Chinese Communist veteran <a href="https://en.wikipedia.org/wiki/Xi_Zhongxun">Xi Zhongxun</a>, he was exiled to rural <a href="https://en.wikipedia.org/wiki/Yanchuan_County">Yanchuan County</a> as a teenager following his father’s purge during the <a href="https://en.wikipedia.org/wiki/Cultural_Revolution">Cultural Revolution</a>, and lived in a cave in the village of Liangjiahe, where he worked as the party secretary. After studying at the <a href="https://en.wikipedia.org/wiki/Tsinghua_University">Tsinghua University</a> as a “<a href="https://en.wikipedia.org/wiki/Worker-Peasant-Soldier_student">Worker-Peasant-Soldier student</a>“, Xi rose through the ranks politically in China’s coastal provinces. Xi was governor of <a href="https://en.wikipedia.org/wiki/Fujian">Fujian</a> from 1999 to 2002. He was also governor, then <a href="https://en.wikipedia.org/wiki/Party_Committee_Secretary">party secretary</a> of neighbouring <a href="https://en.wikipedia.org/wiki/Zhejiang">Zhejiang</a> from 2002 to 2007. Following the dismissal of the party secretary of Shanghai <a href="https://en.wikipedia.org/wiki/Chen_Liangyu">Chen Liangyu</a>, Xi was transferred to replace him for a brief period in 2007. He joined the <a href="https://en.wikipedia.org/wiki/Politburo_Standing_Committee_of_the_Communist_Party_of_China">Politburo Standing Committee</a> and <a href="https://en.wikipedia.org/wiki/Secretariat_of_the_Communist_Party_of_China_Central_Committee">central secretariat</a> in October 2007, spending the next five years as Chinese paramount leader <a href="https://en.wikipedia.org/wiki/Hu_Jintao">Hu Jintao’s</a> presumed <a href="https://en.wikipedia.org/wiki/Succession_of_power_in_the_People%27s_Republic_of_China">successor</a>. Xi was <a href="https://en.wikipedia.org/wiki/Vice_President_of_the_People%27s_Republic_of_China">vice president</a> from 2008 to 2013 and <a href="https://en.wikipedia.org/wiki/Vice_Chairman_of_the_Central_Military_Commission">vice chairman of the Central Military Commission</a> from 2010 to 2012.</p>
+<p>Xi is the first <a href="https://en.wikipedia.org/wiki/List_of_general_secretaries_and_chairmen_of_the_Communist_Party_of_China">general secretary</a> born after the <a href="https://en.wikipedia.org/wiki/Proclamation_of_the_People%27s_Republic_of_China">establishment</a> of the People’s Republic of China. Since assuming power, Xi has introduced far-ranging measures to enforce party discipline and to impose internal unity. His <a href="https://en.wikipedia.org/wiki/Anti-corruption_campaign_under_Xi_Jinping">anti-corruption campaign</a> has led to the downfall of prominent incumbent and retired Communist Party officials, including members of the Politburo Standing Committee. He has also enacted or promoted more assertive foreign policy, particularly with regard to <a href="https://en.wikipedia.org/wiki/China%E2%80%93Japan_relations">China–Japan relations</a>, <a href="https://en.wikipedia.org/wiki/Territorial_disputes_in_the_South_China_Sea">China’s claims</a> in the <a href="https://en.wikipedia.org/wiki/South_China_Sea_Islands">South China Sea</a>, and its advocacy for <a href="https://en.wikipedia.org/wiki/Free_trade">free trade</a> and <a href="https://en.wikipedia.org/wiki/Globalization">globalization</a>. He has sought to expand China’s African and Eurasian influence through the <a href="https://en.wikipedia.org/wiki/Belt_and_Road_Initiative">Belt and Road Initiative</a>.</p>
+<p>As the central figure of the <a href="https://en.wikipedia.org/wiki/Generations_of_Chinese_leadership">fifth generation of leadership</a> of the People’s Republic,<a href="https://en.wikipedia.org/wiki/Xi_Jinping#cite_note-4"><sup>[2]</sup></a> Xi has significantly centralized institutional power by taking on a wide range of leadership positions, including chairing the newly formed <a href="https://en.wikipedia.org/wiki/National_Security_Commission_of_the_Communist_Party_of_China">National Security Commission</a>, as well as new steering committees on economic and social reforms, military restructuring and modernization, and the Internet. Xi’s <a href="https://en.wikipedia.org/wiki/Xi_Jinping_Thought">political thoughts</a> have been written into the <a href="https://en.wikipedia.org/wiki/Constitution_of_the_Communist_Party_of_China">party</a> and <a href="https://en.wikipedia.org/wiki/Constitution_of_the_People%27s_Republic_of_China">state constitutions</a>.<a href="https://en.wikipedia.org/wiki/Xi_Jinping#cite_note-5"><sup>[3]</sup></a> His tenure has also seen a significant increase of <a href="https://en.wikipedia.org/wiki/Censorship_in_China">censorship</a> and <a href="https://en.wikipedia.org/wiki/Mass_surveillance_in_China">mass surveillance</a>, significant deterioration in <a href="https://en.wikipedia.org/wiki/Human_rights_in_China">human rights</a>, the return to a <a href="https://en.wikipedia.org/wiki/Xi_Jinping%27s_cult_of_personality">cult of personality</a> and the removal of term limits for the <a href="https://en.wikipedia.org/wiki/President_of_the_People%27s_Republic_of_China">President</a> in 2018. Due to these factors, Xi has been called a “<a href="https://en.wikipedia.org/wiki/Dictator">dictator</a>” by many political observers.<a href="https://en.wikipedia.org/wiki/Xi_Jinping#cite_note-18"><sup>[a]</sup></a>”</p></blockquote>
+<p>Notice the many things that Xi Jinping has done to “control” his people like slaves to the government. In the last part above, one sees where Xi Jinping has declared himself as the leader with no new elections. Xi has also destroyed human rights, caused an increase in censorship, mass surveillance, and heaven knows what else because Xi has shut the doors of openness down in China and taken a very hard Communist rule.</p>
+<p>In closing, we have to ask due to the stated observations above, is China our friend or our enemy?</p>
+<p>Looking over their ideas, their theories, and their actions we can draw no other conclusion then to state that China is not our friend, but our enemy and they should be treated as such.  The United States should hold them at arms distance from any of our military projects. We have to take all the manufacturing jobs that China has stolen from us and bring them back here to the United States. Communist China pays very little for their workers due to the fact that the workers obtain nearly all they need from the Communist Chinese government.</p>
+<p>If asked, should we trust the Chinese, we would answer in a firm “No.”</p>
+<p>In the end, we as a nation should ask ourselves, is Communist China our friend or our foe?</p>
+<hr/> <div class="dcms_author-info"> <div class="dcms_author-avatar"> </div> <h3 class="dcms_author-heading">Leon Puissegur</h3> <div class="dcms_author-description"> 		Leon Puissegur is a Disabled Vietnam Veteran with 3 children and 9
+grandchildren. He has been married to the same wonderful lady for 43
+years. He is an award-winning author and has been writing opinion pieces over the years and in just the last few years has written 4 books and a large number of articles on many sites. You can <a href="https://www.amazon.com/gp/search?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;index=books&amp;keywords=Leon%20Puissegur&amp;linkCode=ur2&amp;tag=freedomoutpos-20">purchase his books at Amazon</a>. 	</div> <div class="dcms_author-footer"> <div class="dcms_author-social"> <a class="author-url" href="https://thewashingtonstandard.com" target="_blank"><i aria-hidden="true" class="fa fa-link"></i></a> </div> <div class="dcms_author-show-all"> <a href="https://thewashingtonstandard.com/author/leonpuissegur/">View all posts <i aria-hidden="true" class="fa fa-angle-right"></i></a> </div> </div> </div><div class="vw-after-post-content"><div id="ld-9916-2787"></div>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11229615620571750,size:[0, 0],id:"ld-9916-2787"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<div id="ld-5476-3400"></div>
+<div id="ld-3144-5478"></div>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:13299128834695782,size:[0, 0],id:"ld-3144-5478"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11229615620571750,size:[0, 0],id:"ld-5476-3400"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<div id="rcjsload_600273"></div>
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script></div><!-- AI CONTENT END 2 -->
+</div>
+</article><!-- #post-## -->
+<div class="vw-related-posts vw-related-posts-style-default">
+<h3 class="vw-related-posts-title"><span>Related Posts</span></h3>
+<div class="vw-post-loop vw-post-loop-small-top-thumbnail vw-post-loop-small-top-thumbnail-2 vw-post-loop-col-2">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-block-grid vw-block-grid-xs-2 vw-block-grid-md-4">
+<div class="vw-block-grid-item">
+<div class="vw-post-box vw-post-style-small-top-thumbnail clearfix vw-post-format-standard" itemscope="" itemtype="http://schema.org/Article">
+<meta content="2023-03-08T18:15:28-05:00" itemprop="datePublished"/>
+<div itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+<meta content="The Washington Standard" itemprop="name"/>
+<div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" itemprop="url"/>
+<meta content="600" itemprop="width"/>
+<meta content="134" itemprop="height"/>
+</div>
+</div>
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/johnwhitehead/" itemprop="name" rel="author" title="Posts by John Whitehead">John Whitehead</a>
+</span>
+<a class="vw-post-box-thumbnail" href="https://thewashingtonstandard.com/the-right-to-be-let-alone-when-the-government-wants-to-know-all-your-business/" rel="bookmark">
+<img alt="" class="attachment-vw_one_six_thumbnail size-vw_one_six_thumbnail wp-post-image" height="116" itemprop="image" loading="lazy" sizes="(max-width: 165px) 100vw, 165px" src="https://thewashingtonstandard.com/wp-content/uploads/2023/03/quote-the-makers-of-our-constitution-conferred-as-against-the-government-the-right-to-be-let-louis-d-brandeis-67-78-10-165x116.jpg" srcset="https://thewashingtonstandard.com/wp-content/uploads/2023/03/quote-the-makers-of-our-constitution-conferred-as-against-the-government-the-right-to-be-let-louis-d-brandeis-67-78-10-165x116.jpg 165w, https://thewashingtonstandard.com/wp-content/uploads/2023/03/quote-the-makers-of-our-constitution-conferred-as-against-the-government-the-right-to-be-let-louis-d-brandeis-67-78-10-85x60.jpg 85w" width="165"> </img></a>
+<div class="vw-post-box-inner">
+<h5 class="vw-post-box-title" itemprop="headline">
+<a href="https://thewashingtonstandard.com/the-right-to-be-let-alone-when-the-government-wants-to-know-all-your-business/" itemprop="url" rel="bookmark" title="Permalink to The Right To Be Let Alone: When The Government Wants To Know All Your Business">The Right To Be Let Alone: When The Government Wants To Know All Your Business</a>
+</h5>
+</div>
+</div> </div>
+<div class="vw-block-grid-item">
+<div class="vw-post-box vw-post-style-small-top-thumbnail clearfix vw-post-format-standard" itemscope="" itemtype="http://schema.org/Article">
+<meta content="2023-03-08T18:14:20-05:00" itemprop="datePublished"/>
+<div itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+<meta content="The Washington Standard" itemprop="name"/>
+<div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" itemprop="url"/>
+<meta content="600" itemprop="width"/>
+<meta content="134" itemprop="height"/>
+</div>
+</div>
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/timbrown/" itemprop="name" rel="author" title="Posts by Tim Brown">Tim Brown</a>
+</span>
+<a class="vw-post-box-thumbnail" href="https://thewashingtonstandard.com/nanny-state-dead-ahead-video/" rel="bookmark">
+<img alt="" class="attachment-vw_one_six_thumbnail size-vw_one_six_thumbnail wp-post-image" height="116" itemprop="image" loading="lazy" sizes="(max-width: 165px) 100vw, 165px" src="https://thewashingtonstandard.com/wp-content/uploads/2023/02/Nanny_State_2023-165x116.jpg" srcset="https://thewashingtonstandard.com/wp-content/uploads/2023/02/Nanny_State_2023-165x116.jpg 165w, https://thewashingtonstandard.com/wp-content/uploads/2023/02/Nanny_State_2023-85x60.jpg 85w" width="165"> </img></a>
+<div class="vw-post-box-inner">
+<h5 class="vw-post-box-title" itemprop="headline">
+<a href="https://thewashingtonstandard.com/nanny-state-dead-ahead-video/" itemprop="url" rel="bookmark" title="Permalink to Nanny State Dead Ahead! (Video)">Nanny State Dead Ahead! (Video)</a>
+</h5>
+</div>
+</div> </div>
+<div class="vw-block-grid-item">
+<div class="vw-post-box vw-post-style-small-top-thumbnail clearfix vw-post-format-standard" itemscope="" itemtype="http://schema.org/Article">
+<meta content="2023-03-08T10:29:26-05:00" itemprop="datePublished"/>
+<div itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+<meta content="The Washington Standard" itemprop="name"/>
+<div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" itemprop="url"/>
+<meta content="600" itemprop="width"/>
+<meta content="134" itemprop="height"/>
+</div>
+</div>
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/thewashingtonstandard/" itemprop="name" rel="author" title="Posts by The Washington Standard">The Washington Standard</a>
+</span>
+<a class="vw-post-box-thumbnail" href="https://thewashingtonstandard.com/people-are-leaving-the-state-flies-in-the-face-of-the-same-media-that-reported-that-the-governor-was-reelected-by-the-people-doesnt-it-video/" rel="bookmark">
+<img alt="" class="attachment-vw_one_six_thumbnail size-vw_one_six_thumbnail wp-post-image" height="116" itemprop="image" loading="lazy" sizes="(max-width: 165px) 100vw, 165px" src="https://thewashingtonstandard.com/wp-content/uploads/2023/03/running-165x116.jpg" srcset="https://thewashingtonstandard.com/wp-content/uploads/2023/03/running-165x116.jpg 165w, https://thewashingtonstandard.com/wp-content/uploads/2023/03/running-85x60.jpg 85w" width="165"/> </a>
+<div class="vw-post-box-inner">
+<h5 class="vw-post-box-title" itemprop="headline">
+<a href="https://thewashingtonstandard.com/people-are-leaving-the-state-flies-in-the-face-of-the-same-media-that-reported-that-the-governor-was-reelected-by-the-people-doesnt-it-video/" itemprop="url" rel="bookmark" title="Permalink to People Are Leaving The State: Flies In The Face Of The Same Media That Reported That The Governor Was Reelected By The People, Doesn’t It? (Video)">People Are Leaving The State: Flies In The Face Of The Same Media That Reported That The Governor Was Reelected By The People, Doesn’t It? (Video)</a>
+</h5>
+</div>
+</div> </div>
+<div class="vw-block-grid-item">
+<div class="vw-post-box vw-post-style-small-top-thumbnail clearfix vw-post-format-standard" itemscope="" itemtype="http://schema.org/Article">
+<meta content="2023-03-08T09:33:54-05:00" itemprop="datePublished"/>
+<div itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+<meta content="The Washington Standard" itemprop="name"/>
+<div itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://thewashingtonstandard.com/wp-content/uploads/2019/09/TheWashingtonStandard-header-small.png" itemprop="url"/>
+<meta content="600" itemprop="width"/>
+<meta content="134" itemprop="height"/>
+</div>
+</div>
+<span class="vw-post-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<i class="vw-icon icon-entypo-user"></i>
+<a class="author-name" href="https://thewashingtonstandard.com/author/thewashingtonstandard/" itemprop="name" rel="author" title="Posts by The Washington Standard">The Washington Standard</a>
+</span>
+<a class="vw-post-box-thumbnail" href="https://thewashingtonstandard.com/parents-education-whos-in-charge-of-kids/" rel="bookmark">
+<img alt="" class="attachment-vw_one_six_thumbnail size-vw_one_six_thumbnail wp-post-image" height="116" itemprop="image" loading="lazy" sizes="(max-width: 165px) 100vw, 165px" src="https://thewashingtonstandard.com/wp-content/uploads/2023/03/9f642c9a7d318d80ccf304f4b19931e1-165x116.jpg" srcset="https://thewashingtonstandard.com/wp-content/uploads/2023/03/9f642c9a7d318d80ccf304f4b19931e1-165x116.jpg 165w, https://thewashingtonstandard.com/wp-content/uploads/2023/03/9f642c9a7d318d80ccf304f4b19931e1-85x60.jpg 85w" width="165"/> </a>
+<div class="vw-post-box-inner">
+<h5 class="vw-post-box-title" itemprop="headline">
+<a href="https://thewashingtonstandard.com/parents-education-whos-in-charge-of-kids/" itemprop="url" rel="bookmark" title="Permalink to Parents &amp; Education: Who’s In Charge Of Kids?">Parents &amp; Education: Who’s In Charge Of Kids?</a>
+</h5>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="vw-post-navigation clearfix">
+<a class="vw-post-navigation-previous" href="https://thewashingtonstandard.com/what-do-we-do-when-the-government-is-lawless/">
+<div class="vw-post-navigation-content">
+<span class="vw-post-navigation-label">Previous post</span>
+<h3 class="vw-post-navigation-title">
+				What Do We Do When the Government is Lawless?			</h3>
+</div>
+</a>
+<a class="vw-post-navigation-next" href="https://thewashingtonstandard.com/its-not-just-the-people-standing-against-tyranny-many-police-are-now-standing-with-them/">
+<div class="vw-post-navigation-content">
+<span class="vw-post-navigation-label">Next post</span>
+<h3 class="vw-post-navigation-title">
+				It's Not Just The People Standing Against Tyranny - Many Police Are Now Standing With Them			</h3>
+</div>
+</a>
+</div>
+</div>
+<aside class="vw-page-sidebar vw-page-sidebar-right" itemscope="" itemtype="http://schema.org/WPSideBar">
+<meta content="Right Sidebar" itemprop="name"/>
+<div class="vw-sticky-sidebar-wrapper"><div class="vw-sticky-sidebar"><div class="widget widget_text" id="text-15"> <div class="textwidget"><style>@import url("//fonts.googleapis.com/css?family=Noticia+Text:400,400italic,700,700italic");
+body.greenarrow_web_form {
+  background-image: url(%%studio_root_url%%assets/form-seamlesstexture8_500.jpg);
+}</p>
+<p>.greenarrow_web_form {
+  /* =Buttons
+   *-------------------------------------------------------------- */
+  /* =Buttons (Call to Action)
+   *-------------------------------------------------------------- */
+  /* =Buttons (Sizes)
+   *-------------------------------------------------------------- */
+  /* =Buttons (Colors)
+   *-------------------------------------------------------------- */
+}
+.greenarrow_web_form html, .greenarrow_web_form body, .greenarrow_web_form div, .greenarrow_web_form span, .greenarrow_web_form applet, .greenarrow_web_form object, .greenarrow_web_form iframe,
+.greenarrow_web_form h1, .greenarrow_web_form h2, .greenarrow_web_form h3, .greenarrow_web_form h4, .greenarrow_web_form h5, .greenarrow_web_form h6, .greenarrow_web_form p, .greenarrow_web_form blockquote, .greenarrow_web_form pre,
+.greenarrow_web_form a, .greenarrow_web_form abbr, .greenarrow_web_form acronym, .greenarrow_web_form address, .greenarrow_web_form big, .greenarrow_web_form cite, .greenarrow_web_form code,
+.greenarrow_web_form del, .greenarrow_web_form dfn, .greenarrow_web_form em, .greenarrow_web_form img, .greenarrow_web_form ins, .greenarrow_web_form kbd, .greenarrow_web_form q, .greenarrow_web_form s, .greenarrow_web_form samp,
+.greenarrow_web_form small, .greenarrow_web_form strike, .greenarrow_web_form strong, .greenarrow_web_form sub, .greenarrow_web_form sup, .greenarrow_web_form tt, .greenarrow_web_form var,
+.greenarrow_web_form b, .greenarrow_web_form u, .greenarrow_web_form i, .greenarrow_web_form center,
+.greenarrow_web_form dl, .greenarrow_web_form dt, .greenarrow_web_form dd, .greenarrow_web_form ol, .greenarrow_web_form ul, .greenarrow_web_form li,
+.greenarrow_web_form fieldset, .greenarrow_web_form form, .greenarrow_web_form label, .greenarrow_web_form legend,
+.greenarrow_web_form table, .greenarrow_web_form caption, .greenarrow_web_form tbody, .greenarrow_web_form tfoot, .greenarrow_web_form thead, .greenarrow_web_form tr, .greenarrow_web_form th, .greenarrow_web_form td,
+.greenarrow_web_form article, .greenarrow_web_form aside, .greenarrow_web_form canvas, .greenarrow_web_form details, .greenarrow_web_form embed,
+.greenarrow_web_form figure, .greenarrow_web_form figcaption, .greenarrow_web_form footer, .greenarrow_web_form header, .greenarrow_web_form hgroup,
+.greenarrow_web_form menu, .greenarrow_web_form nav, .greenarrow_web_form output, .greenarrow_web_form ruby, .greenarrow_web_form section, .greenarrow_web_form summary,
+.greenarrow_web_form time, .greenarrow_web_form mark, .greenarrow_web_form audio, .greenarrow_web_form video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+.greenarrow_web_form html {
+  line-height: 1;
+}
+.greenarrow_web_form ol, .greenarrow_web_form ul {
+  list-style: none;
+}
+.greenarrow_web_form table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.greenarrow_web_form caption, .greenarrow_web_form th, .greenarrow_web_form td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+.greenarrow_web_form q, .greenarrow_web_form blockquote {
+  quotes: none;
+}
+.greenarrow_web_form q:before, .greenarrow_web_form q:after, .greenarrow_web_form blockquote:before, .greenarrow_web_form blockquote:after {
+  content: "";
+  content: none;
+}
+.greenarrow_web_form a img {
+  border: none;
+}
+.greenarrow_web_form article, .greenarrow_web_form aside, .greenarrow_web_form details, .greenarrow_web_form figcaption, .greenarrow_web_form figure, .greenarrow_web_form footer, .greenarrow_web_form header, .greenarrow_web_form hgroup, .greenarrow_web_form main, .greenarrow_web_form menu, .greenarrow_web_form nav, .greenarrow_web_form section, .greenarrow_web_form summary {
+  display: block;
+}
+.greenarrow_web_form body {
+  line-height: 1;
+  font-family: "Open Sans", sans-serif;
+  padding: 0;
+  background-color: #ededed;
+}
+.greenarrow_web_form .main-box {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  padding: 50px;
+  background-color: #FFF;
+  text-shadow: 0px 0px 0px #CCC;
+  line-height: 1.5em;
+}
+.greenarrow_web_form .rounded-box {
+  margin-top: 75px;
+  margin-bottom: 75px;
+  border: 1px solid #CCC;
+  -webkit-box-shadow: 2px 2px 4px 0px #999999;
+  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  box-shadow: 2px 2px 4px 0px #999999;
+  /* Opera 10.5, IE9+, Firefox 4+, Chrome 6+, iOS 5 */
+  -webkit-border-radius: 5px;
+  border-radius: 10px;
+}
+.greenarrow_web_form .alert-error {
+  color: #b94a48;
+  background-color: #f2dede;
+  border: 1px solid #eed3d7;
+  padding: 8px 35px 8px 14px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+.greenarrow_web_form h1 {
+  font-family: "Noticia Text", sans-serif;
+  margin: 0px 0px 20px 0px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2.5em;
+  color: #3F86C0;
+  line-height: 1.2em;
+}
+.greenarrow_web_form p {
+  padding-bottom: 10px;
+}
+.greenarrow_web_form ul.form-fields {
+  list-style: none;
+  padding-left: 0px;
+}
+.greenarrow_web_form ul.form-fields li {
+  position: relative;
+  text-align: left;
+  line-height: 2em;
+  padding: 10px 0px 0px 10px;
+  margin: -10px -10px 10px -10px;
+}
+.greenarrow_web_form ul.form-fields li.field_with_errors {
+  background-color: #FFEEEE;
+  border: 1px solid #FFDDDD;
+  margin-bottom: 15px;
+}
+.greenarrow_web_form ul.form-fields li.field_with_errors span.error {
+  color: #FF0000;
+  font-weight: normal;
+  text-align: center;
+  display: block;
+}
+.greenarrow_web_form ul.form-fields li label {
+  display: inline-block;
+  vertical-align: top;
+  font-family: "Noticia Text", sans-serif;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #3F86C0;
+}
+.greenarrow_web_form ul.form-fields li .quick-tip {
+  display: block;
+  color: gray;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 0.9em;
+}
+.greenarrow_web_form ul.form-fields div.field-content label.radio {
+  font-family: "Open Sans", san-serif;
+  display: list-item;
+  font-size: 0.9em;
+  margin-left: 25px;
+  font-weight: normal;
+  color: #666;
+}
+.greenarrow_web_form ul.form-fields div.field-content label.checkbox {
+  font-family: "Open Sans", san-serif;
+  width: 300px;
+  font-size: 0.9em;
+  margin-left: 25px;
+  font-weight: normal;
+  color: #666;
+}
+.greenarrow_web_form .main-box .form-description p {
+  margin: 10px 0px 25px 0px;
+  color: #666;
+  padding: 20px 0px;
+  border-bottom: 1px solid #DDD;
+  border-top: 1px solid #DDD;
+}
+.greenarrow_web_form ul.form-fields input[type="text"], .greenarrow_web_form ul.form-fields select, .greenarrow_web_form ul.form-fields textarea, .greenarrow_web_form ul.form-fields div.field-content {
+  display: inline-block;
+  width: 490px;
+  line-height: 1.5em;
+  font-family: "Open Sans", san-serif;
+}
+.greenarrow_web_form ul.form-fields div.field-content {
+  display: inline-block;
+}
+.greenarrow_web_form div.form-actions-container {
+  padding-top: 20px;
+  border-top: 1px solid #DDD;
+}
+.greenarrow_web_form button, .greenarrow_web_form a.button {
+  -moz-border-radius: 5px;
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-border-radius: 5px;
+  background-color: #f9f9f9;
+  /* Alabaster */
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -ms-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: linear-gradient(top, #f9f9f9, #f1f1f1);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  color: #333;
+  cursor: pointer;
+  display: inline-block;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#f9f9f9, endColorstr=#f1f1f1);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 0;
+  padding: 4px 10px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #fff;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.greenarrow_web_form input[type='reset'], .greenarrow_web_form input[type='button'], .greenarrow_web_form input[type='submit'] {
+  -moz-border-radius: 5px;
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-border-radius: 5px;
+  background-color: #f9f9f9;
+  /* Alabaster */
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -ms-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: linear-gradient(top, #f9f9f9, #f1f1f1);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  color: #333;
+  cursor: pointer;
+  display: inline-block;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#f9f9f9, endColorstr=#f1f1f1);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 0;
+  padding: 4px 10px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #fff;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.greenarrow_web_form button:hover, .greenarrow_web_form a.button:hover {
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  background-color: #fff;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(white), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, white, #f1f1f1);
+  background-image: -moz-linear-gradient(top, white, #f1f1f1);
+  background-image: -ms-linear-gradient(top, white, #f1f1f1);
+  background-image: -o-linear-gradient(top, white, #f1f1f1);
+  background-image: linear-gradient(top, white, #f1f1f1);
+  border: 1px solid #ddd;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  color: #333;
+}
+.greenarrow_web_form input[type='reset']:hover, .greenarrow_web_form input[type='button']:hover, .greenarrow_web_form input[type='submit']:hover {
+  -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  background-color: #fff;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(white), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, white, #f1f1f1);
+  background-image: -moz-linear-gradient(top, white, #f1f1f1);
+  background-image: -ms-linear-gradient(top, white, #f1f1f1);
+  background-image: -o-linear-gradient(top, white, #f1f1f1);
+  background-image: linear-gradient(top, white, #f1f1f1);
+  border: 1px solid #ddd;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;
+  color: #333;
+}
+.greenarrow_web_form button:active, .greenarrow_web_form a.button:active {
+  -moz-box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -ms-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: linear-gradient(top, #f9f9f9, #f1f1f1);
+  box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+.greenarrow_web_form input[type='reset']:active, .greenarrow_web_form input[type='button']:active, .greenarrow_web_form input[type='submit']:active {
+  -moz-box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -moz-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -ms-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f9f9f9, #f1f1f1);
+  background-image: linear-gradient(top, #f9f9f9, #f1f1f1);
+  box-shadow: 0 1px 0 white, inset 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+.greenarrow_web_form .call-to-action {
+  text-align: center;
+}
+.greenarrow_web_form .call-to-action a.button {
+  font-size: 24px;
+  padding: 15px 35px;
+}
+.greenarrow_web_form .call-to-action a.button:hover {
+  text-decoration: none;
+}
+.greenarrow_web_form .ie7 .call-to-action a.button {
+  padding: 11px 35px 19px 35px;
+}
+.greenarrow_web_form .small a.button {
+  font-size: 10px;
+  padding: 3px 6px;
+}
+.greenarrow_web_form .medium a.button {
+  font-size: 16px;
+  padding: 8px 16px;
+}
+.greenarrow_web_form .large a.button {
+  font-size: 18px;
+  padding: 10px 35px;
+}
+.greenarrow_web_form .xlarge a.button {
+  font-size: 24px;
+  padding: 12px 55px;
+}
+.greenarrow_web_form a.colored, .greenarrow_web_form button.colored {
+  background-color: #1874cd;
+  /* Dodger Blue */
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#4f9eea), to(#1874cd));
+  background-image: -webkit-linear-gradient(top, #4f9eea, #1874cd);
+  background-image: -moz-linear-gradient(top, #4f9eea, #1874cd);
+  background-image: -ms-linear-gradient(top, #4f9eea, #1874cd);
+  background-image: -o-linear-gradient(top, #4f9eea, #1874cd);
+  background-image: linear-gradient(top, #4f9eea, #1874cd);
+  border: 1px solid #115290;
+  color: #fff;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4f9eea, endColorstr=#1874cd);
+  text-shadow: 0 -1px 0 #115290;
+}
+.greenarrow_web_form a.colored:hover, .greenarrow_web_form button.colored:hover {
+  background-color: #7db7f0;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#7db7f0), to(#1874cd));
+  background-image: -webkit-linear-gradient(top, #7db7f0, #1874cd);
+  background-image: -moz-linear-gradient(top, #7db7f0, #1874cd);
+  background-image: -ms-linear-gradient(top, #7db7f0, #1874cd);
+  background-image: -o-linear-gradient(top, #7db7f0, #1874cd);
+  background-image: linear-gradient(top, #7db7f0, #1874cd);
+  border: 1px solid #115290;
+  color: #fff;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7db7f0, endColorstr=#1874cd);
+  text-shadow: 0 -1px 0 #115290;
+}
+</style>
+<div class="greenarrow_web_form">
+<div class="main-box">
+<h1>Sign Up To Receive Our Daily Updates</h1>
+<form accept-charset="UTF-8" action="http://if.inboxfirst.com/ga/front/forms/1019/subscriptions/" class="simple_form embedded-ga-subscription-form" id="new_pending_subscriber" method="post" novalidate="novalidate" target="_parent">
+<div style="margin: 0; padding: 0; display: inline;"><input name="utf8" type="hidden" value="✓"/></div>
+<ul class="form-fields">
+<li style="list-style-type: none;">
+<ul class="form-fields">
+<li class="form-field clear text required pending_subscriber_email"><label class="text required control-label" for="pending_subscriber_email"><abbr title="required">*</abbr> Email</label><br/>
+<input class="string required" id="pending_subscriber_email" name="pending_subscriber[email]" size="50" type="text"/></li>
+</ul>
+</li>
+</ul>
+<p><script async="" defer="" src="https://www.google.com/recaptcha/api.js"></script><br/>
+<script>
+  function onCaptchaFormSubmit(token) {
+    document.getElementById("new_pending_subscriber").submit();
+  }
+</script></p>
+<ul class="form-fields">
+<li>
+<div class="form-actions-container call-to-action"><button class="button colored g-recaptcha" data-callback="onCaptchaFormSubmit" data-sitekey="6LcQK5wUAAAAAM8CPJoJl_AiFtnAhNNB--YdWQLM" type="submit">Subscribe</button></div>
+</li>
+</ul>
+</form>
+</div>
+</div>
+</div>
+</div><div class="widget widget_text" id="text-12"> <div class="textwidget"><p><script src="https://whatfinger-videos.b-cdn.net/widgets/new-wfw.js"></script></p>
+<div data-action="widget" id="wWidget_72c367966e"></div>
+<p><script type="application/javascript">var wWidgetConf_72c367966e = {rows: 4,cols: 1,backgroundColor: 'rgb(240, 240, 240)',textColor: 'rgb(0, 0, 0)',borderColor: '#DDD',displayContent: '0',contentSort: '0',contentType: '0',showTitle: '1',showThumb: '1',widgetID: 'wWidget_72c367966e',layout: 'basic'};</script></p>
+</div>
+</div><div class="widget widget_text" id="text-17"> <div class="textwidget"><p><center><a href="https://mypatriotsupply.com/products/new-for-2020-ultimate-preparedness-kit-survival-made-simple?rfsn=5131805.ffe1a3"><img src="https://reformedmedia.net/wp-content/uploads/2022/04/b368b4fa324a6a16f15f475322d0d378.png"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-18"> <div class="textwidget"><p><center><a href="https://www.emfsol.com/?aff=ctQ9GqtsMfLBD3XJZ"><img src="https://thewashingtonstandard.com/wp-content/uploads/2022/10/7289b313c0f61ba6177c38a84d37904d.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-26"> <div class="textwidget"><p><center><a href="https://www.bereli.com?aff=4341"><img src="https://thewashingtonstandard.com/wp-content/uploads/2023/01/berili.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-20"> <div class="textwidget"><p><center><a href="https://timbrown.thegoodinside.com/pbx-trial-offer-557846"><img src="https://thewashingtonstandard.com/wp-content/uploads/2022/10/PBX60.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-25"> <div class="textwidget"><p><center><a href="https://2ndamendmentshirts.com/"><img src="https://thewashingtonstandard.com/wp-content/uploads/2022/12/2ND-AMENDMENT-SHIRTS.png"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-21"> <div class="textwidget"><p><center><a href="https://mystore.com/timbrown"><img src="https://thewashingtonstandard.com/wp-content/uploads/2023/03/timbrown6.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-9"> <div class="textwidget"><p><center><a href="https://heavensharvest.com/collections/seed-kits/products/heirloom-vegetable-seed-bucket?variant=34283425333292"><img src="https://thewashingtonstandard.com/wp-content/uploads/2023/01/heirloom-seed-bucket-seeds-spread1.jpg"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-24"> <div class="textwidget"><p><a href="https://mywayuniversity.com/"><img src="https://settingbrushfires.com/wp-content/uploads/2022/10/averting-disease-healthy-body.jpg"/></a></p>
+</div>
+</div><div class="widget widget_text" id="text-23"> <div class="textwidget"><p><a href="https://shop.foodforestabundance.com/TIMBROWN"><img src="https://settingbrushfires.com/wp-content/uploads/2022/10/Food-Forest-Abundance-Install-1-1-1024x684-1.jpg"/></a></p>
+</div>
+</div><div class="widget widget_text" id="text-8"> <div class="textwidget"><p><center><a href="https://wn.nr/FbxxdBD"><img src="https://user-assets.out.sh/user-assets/38224/fEkmrSPjlwqXNS2c/fn-scar-20s-dmr-contest-graphic.jpg" width="360"/></a></center></p>
+</div>
+</div><div class="widget widget_text" id="text-4"> <div class="textwidget"><p><center><a href="https://ammo.com/i/aGRNd0wwRGwxTFE9c" title="Click Here To Save $15 at Ammo.com"><img alt="Click Here To Save $15 at Ammo.com" border="0" height="400" loading="lazy" src="https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/refer-a-friend/animated/09_240_400_dark_a2-min.gif" width="240"/></a></center></p>
+</div>
+</div><div class="widget_text widget widget_custom_html" id="custom_html-4"><div class="textwidget custom-html-widget"><div id="ld-8894-6461"></div>
+<script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:11366057571234406,size:[0, 0],id:"ld-8894-6461"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<!-- Begin Constant Contact Active Forms -->
+<script> var _ctct_m = "26757d10df877cf88ecaa7b09a195719"; </script>
+<script async="" defer="" id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js"></script>
+<!-- End Constant Contact Active Forms --></div></div><div class="widget widget_categories" id="categories-3"><h3 class="widget-title"><span>Categories</span></h3>
+<ul>
+<li class="cat-item cat-item-18"><a href="https://thewashingtonstandard.com/category/commentary/">Commentary</a>
+</li>
+<li class="cat-item cat-item-8"><a href="https://thewashingtonstandard.com/category/constitutionandlaw/">Constitution &amp; Law</a>
+</li>
+<li class="cat-item cat-item-11"><a href="https://thewashingtonstandard.com/category/economy/">Economy</a>
+</li>
+<li class="cat-item cat-item-6"><a href="https://thewashingtonstandard.com/category/politics/">Politics</a>
+</li>
+<li class="cat-item cat-item-1"><a href="https://thewashingtonstandard.com/category/uncategorized/">Uncategorized</a>
+</li>
+<li class="cat-item cat-item-4"><a href="https://thewashingtonstandard.com/category/us-news/">US</a>
+</li>
+<li class="cat-item cat-item-7"><a href="https://thewashingtonstandard.com/category/videos/">Videos</a>
+</li>
+<li class="cat-item cat-item-5"><a href="https://thewashingtonstandard.com/category/worldnews/">World</a>
+</li>
+</ul>
+</div></div></div>
+</aside>
+</div>
+</div>
+</div>
+<!-- Site Footer -->
+<footer class="vw-site-footer" itemscope="" itemtype="http://schema.org/WPFooter">
+<!-- Bottom Bar -->
+<div class="vw-bottom-bar">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="vw-bottom-bar-inner">
+<div class="vw-bottom-bar-left">
+<div class="vw-copyright">Copyright © The Washington Standard, All Rights Reserved.
+Our posts contain affiliate links and we earn a small commission from those links. This is how we help to make money so we can continue to bring you amazing content. Thank you for your support.
+</div> </div>
+<div class="vw-bottom-bar-right">
+<span class="vw-site-social-profile"><a class="vw-site-social-profile-icon vw-site-social-facebook" href="https://www.facebook.com/thewashingtonstandard" title="Facebook"><i class="vw-icon icon-social-facebook"></i></a><a class="vw-site-social-profile-icon vw-site-social-twitter" href="https://twitter.com/FPPTim" title="Twitter"><i class="vw-icon icon-social-twitter"></i></a><a class="vw-site-social-profile-icon vw-site-social-youtube" href="https://bit.ly/settingbrushfires" title="Youtube"><i class="vw-icon icon-social-youtube"></i></a></span> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- End Bottom Bar -->
+</footer>
+<!-- End Site Footer -->
+</div>
+<!-- End Site Wrapper -->
+<!-- WP Footer -->
+<div class="zoom-anim-dialog mfp-hide" id="vw-post-shares-dialog">
+<span class="vw-post-shares-subtitle">SHARE</span>
+<h1 class="vw-header-font vw-post-shares-title">Communist China:  Friend Or Foe?</h1>
+<div class="vw-post-shares-socials">
+<a class="vw-post-shares-social vw-post-shares-social-facebook" data-height="300" data-post-id="75957" data-share-to="facebook" data-width="500" href="https://www.facebook.com/sharer.php?u=https://thewashingtonstandard.com/communist-china-friend-foe/"><i class="vw-icon icon-social-facebook"></i></a>
+<a class="vw-post-shares-social vw-post-shares-social-twitter" data-height="300" data-post-id="75957" data-share-to="twitter" data-width="500" href="https://twitter.com/intent/tweet?status=Communist+China%3A++Friend+Or+Foe%3F%20-%20https://thewashingtonstandard.com/communist-china-friend-foe/"><i class="vw-icon icon-social-twitter"></i></a>
+<a class="vw-post-shares-social vw-post-shares-social-pinterest" data-height="300" data-post-id="75957" data-share-to="pinterest" data-width="750" href="https://pinterest.com/pin/create/button/?url=https://thewashingtonstandard.com/communist-china-friend-foe/&amp;media=https://thewashingtonstandard.com/wp-content/uploads/2018/09/china-us.jpg&amp;description=Communist+China%3A++Friend+Or+Foe%3F"><i class="vw-icon icon-social-pinterest"></i></a>
+<a class="vw-post-shares-social vw-post-shares-social-gplus" data-height="475" data-post-id="75957" data-share-to="gplus" data-width="500" href="https://plus.google.com/share?url=https://thewashingtonstandard.com/communist-china-friend-foe/"><i class="vw-icon icon-social-gplus"></i></a>
+</div>
+</div>
+<span class="vw-scroll-to-top"><i class="vw-icon icon-entypo-up-open"></i></span>
+<script id="swv-js" src="https://thewashingtonstandard.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.4" type="text/javascript"></script>
+<script id="contact-form-7-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/thewashingtonstandard.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script id="contact-form-7-js" src="https://thewashingtonstandard.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.4" type="text/javascript"></script>
+<script id="vwjs-post-shares-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var vw_post_shares = {"ajaxurl":"https:\/\/thewashingtonstandard.com\/wp-admin\/admin-ajax.php","is_caching_enabled":"1"};
+/* ]]> */
+</script>
+<script id="vwjs-post-shares-js" src="https://thewashingtonstandard.com/wp-content/plugins/espresso-theme-options-panel/plugin-terrory/post-shares/post-shares.js?ver=1.5.4" type="text/javascript"></script>
+<script id="instant-search-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var instant_search = {"blog_url":"https:\/\/thewashingtonstandard.com","ajax_url":"https:\/\/thewashingtonstandard.com\/wp-admin\/admin-ajax.php","placeholder":"Search"};
+/* ]]> */
+</script>
+<script id="instant-search-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/inc/instant-search/instant-search.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-fitvids-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.fitvids.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-pace-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/components/pace/pace.min.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-backstretch-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-backstretch/jquery.backstretch.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-hoverintent-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.hoverIntent.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-imagesloaded-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/imagesloaded.pkgd.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-isotope-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/isotope.pkgd.min.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-jquery-easing-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.easing.compatibility.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-magnific-popup-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.magnific-popup.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-modernizr-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/modernizr.min.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-imgliquid-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/imgLiquid.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-raty-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/raty/jquery.raty.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-superfish-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-superfish/superfish.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-tipsy-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-tipsy/jquery.tipsy.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-newsticker-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.newsTicker.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-sticky-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery.sticky.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-swiper-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/swiper/swiper.jquery.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-mmenu-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/jquery-mmenu/js/jquery.mmenu.min.all.js?ver=1.5.4" type="text/javascript"></script>
+<script id="vwjs-main-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var vw_main_js = {"theme_path":"https:\/\/thewashingtonstandard.com\/wp-content\/themes\/espresso","ajaxurl":"https:\/\/thewashingtonstandard.com\/wp-admin\/admin-ajax.php","slider_slide_duration":"5000","slider_transition_speed":"2500","VW_CONST_BACKSTRETCH_OPT_FADE":"600","VW_CONST_BACKSTRETCH_OPT_CENTEREDY":"true","VW_CONST_BACKSTRETCH_OPT_CENTEREDX":"true","VW_CONST_BACKSTRETCH_OPT_DURATION":"5000"};
+/* ]]> */
+</script>
+<script id="vwjs-main-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/main.js?ver=1.5.4" type="text/javascript"></script>
+<script id="jquery-effects-core-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="jquery-effects-fade-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="jquery-ui-core-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="jquery-ui-accordion-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="jquery-ui-tabs-js" src="https://thewashingtonstandard.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.1" type="text/javascript"></script>
+<script id="vwscjs-main-js" src="https://thewashingtonstandard.com/wp-content/themes/espresso/js/shortcodes.js?ver=1.5.4" type="text/javascript"></script>
+<script async="async" id="remote_sdk-js" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.0.3" type="text/javascript"></script>
+<script id="vw-backstretch-image-captions-template" type="text/template">
+					<div class="vw-page-title-image-captions vw-featured-image-caption-wrapper">
+											</div>
+				</script>
+<script type="text/javascript">
+					"use strict";
+					if ( jQuery.backstretch ) {
+						var $target = jQuery( '.vw-page-title-section' );
+						$target.backstretch(
+							['https://thewashingtonstandard.com/wp-content/uploads/2018/09/china-us.jpg'], {
+								fade: 600,
+								centeredY: true,
+								centeredX: true,
+								duration: 5000,
+							}
+						).removeClass( 'vw-has-no-background' ).addClass( 'vw-backstretch vw-has-background' );
+
+						var $image_captions = jQuery( '#vw-backstretch-image-captions-template' ).html();
+						$target.find( '.vw-page-title-box' ).before( $image_captions );
+
+						jQuery( '.vw-gallery-direction-button.vw-gallery-direction-next' ).click( function() {
+							$target.backstretch("next");
+						} );
+
+						jQuery( '.vw-gallery-direction-button.vw-gallery-direction-prev' ).click( function() {
+							$target.backstretch("prev");
+						} );
+
+						jQuery(window).on("backstretch.after", function (e, instance, index) {
+							jQuery( '.vw-page-title-image-captions .vw-featured-image-caption' )
+								.addClass( 'hidden' )
+								.eq( index ).removeClass( 'hidden' );
+						});
+					}
+				</script>
+<script type="text/javascript">
+        jQuery(document).ready(function ($) {
+
+            for (let i = 0; i < document.forms.length; ++i) {
+                let form = document.forms[i];
+				if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="-LgxwVAj" value="860K.@Bz3ScQPfg" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="ZKeqQV" value="HB_YyRi9" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="yLZWuDHYKiSEOh" value="Dl1]EjPqsF@K" />'); }
+            }
+
+            $(document).on('submit', 'form', function () {
+				if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="-LgxwVAj" value="860K.@Bz3ScQPfg" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="ZKeqQV" value="HB_YyRi9" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="yLZWuDHYKiSEOh" value="Dl1]EjPqsF@K" />'); }
+                return true;
+            });
+
+            jQuery.ajaxSetup({
+                beforeSend: function (e, data) {
+
+                    if (data.type !== 'POST') return;
+
+                    if (typeof data.data === 'object' && data.data !== null) {
+						data.data.append("-LgxwVAj", "860K.@Bz3ScQPfg");
+data.data.append("ZKeqQV", "HB_YyRi9");
+data.data.append("yLZWuDHYKiSEOh", "Dl1]EjPqsF@K");
+                    }
+                    else {
+                        data.data = data.data + '&-LgxwVAj=860K.@Bz3ScQPfg&ZKeqQV=HB_YyRi9&yLZWuDHYKiSEOh=Dl1]EjPqsF@K';
+                    }
+                }
+            });
+
+        });
+    </script>
+<!-- End WP Footer -->
+</body>
+</html>
+<!-- Page generated by LiteSpeed Cache 5.3.2 on 2023-03-08 22:27:38 -->

@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+<meta charset="utf-8"/>
+<link href="https://www.ukcolumn.org/article/ethical-psychotherapy-versus-unethical-applied-psychology-spi-b-and-uk-government" rel="canonical"/>
+<meta content="UKColumn" property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.ukcolumn.org/article/ethical-psychotherapy-versus-unethical-applied-psychology-spi-b-and-uk-government" property="og:url"/>
+<meta content="Ethical psychotherapy versus the unethical applied psychology of SPI-B and the UK Government" property="og:title"/>
+<meta content="https://www.ukcolumn.org/sites/default/files/alone.jpg" property="og:image"/>
+<meta content="Dr Bruce Scott" property="article:author"/>
+<meta content="UKColumn" property="article:publisher"/>
+<meta content="2021-03-02T17:11:00+00:00" property="article:published_time"/>
+<meta content="2022-07-26T21:09:17+01:00" property="article:modified_time"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Ethical psychotherapy versus the unethical applied psychology of SPI-B and the UK Government" name="twitter:title"/>
+<meta content="https://www.ukcolumn.org/sites/default/files/alone.jpg" name="twitter:image"/>
+<script async="" data-domain="www.ukcolumn.org" defer="" src="https://plausible.io/js/plausible.js"></script>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+<link href="/themes/custom/ukc_theme/ukc-logo-sm-sq.png" rel="icon" type="image/png"/>
+<title>Ethical psychotherapy versus the unethical applied psychology of SPI-B and the UK Government | UKColumn</title>
+<link href="/sites/default/files/css/css_hUmNWhu4ti9rkdYrsiyQsYI_iEhh6LXs4ZM5eq8jDbs.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_Q4XKT19k6ADirkBzqVqcUeu2Wh5t0eayHimnGbMT4jk.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_hjFttaY50UR2V33E7zMsMr66nbCDiFQUnTnnSjS4Ufw.css" media="print" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&amp;family=Open+Sans:wght@400;600;700&amp;family=Playfair+Display:wght@400;600;700&amp;family=Roboto+Slab&amp;display=swap" media="all" rel="stylesheet"/>
+</head>
+<body class="path-node page-node-type-article sidebar-right fixed-width">
+<a class="visually-hidden focusable skip-link" href="#main-content">
+Skip to main content
+</a>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<aside class="mdc-drawer mdc-drawer--modal">
+<div class="mdc-drawer__content">
+<nav aria-labelledby="block-mainnavigation-menu" class="block block-menu navigation menu--main" id="block-mainnavigation" role="navigation">
+<h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a data-drupal-link-system-path="&lt;front&gt;" href="/"> <span>Home</span>
+</a>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Video</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2181" href="/ukcolumn-news-archive"> <span>UK Column News Archive</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3300" href="/series/uk-column-interviews"> <span>UK Column Interviews</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2186" href="/insight"> <span>Insight</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2524" href="/series/david-ellis-report"> <span>David Ellis Report</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a data-drupal-link-system-path="node/2301" href="/audio-podcasts"> <span>Podcasts</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution"> <span>A Dissident's Guide to the Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree"> <span>Deconstructing the Magic Money Tree</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2147" href="/series/dispatches-from-the-front"> <span>Dispatches from the Front</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Sections</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2196" href="/northern-exposure"> <span>Northern Exposure</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2151" href="/series/eu-military-unification"> <span>European Defence Union</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2195" href="/censored"> <span>Censored</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2343" href="/series/the-whistleblowers"> <span>The Whistleblowers</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Topics</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2176" href="/topic/coronavirus"> <span>Coronavirus</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2175" href="/topic/brexit"> <span>Brexit</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2166" href="/topic/children-education"> <span>Children &amp; Education</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2161" href="/topic/constitution"> <span>Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2163" href="/topic/defence"> <span>Defence</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2158" href="/topic/economy"> <span>Economy</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2167" href="/topic/environment"> <span>Environment</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2884" href="/topic/faith"> <span>Faith</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2164" href="/topic/health"> <span>Health</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2174" href="/topic/international"> <span>International</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2160" href="/topic/justice"> <span>Justice</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2168" href="/topic/media"> <span>Media</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2994" href="/topic/mind"> <span>Mind</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2157" href="/topic/politics"> <span>Politics</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2169" href="/topic/science"> <span>Science</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2170" href="/topic/technology"> <span>Technology</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Series</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution"> <span>A Dissident's Guide to the Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2571" href="/series/doctors-for-covid-ethics"> <span>Doctors for Covid Ethics</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2144" href="/series/common-purpose-effect"> <span>The Common Purpose Effect</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2138" href="/series/one-world-governance"> <span>One World Governance</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2154" href="/series/global-citizen-movement"> <span>Global Citizen Movement</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2153" href="/series/integrity-initiative"> <span>Integrity Initiative</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2150" href="/series/fake-news"> <span>Fake News</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2137" href="/series/leveson-inquiry"> <span>Leveson Inquiry</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2140" href="/series/oxford-cherwell-valley-college"> <span>Oxford &amp; Cherwell Valley College</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2127" href="/series/weekly-nudge"> <span>The Weekly Nudge</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2152" href="/series/white-helmets"> <span>The White Helmets</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree"> <span>Deconstructing the Magic Money Tree</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2858" href="/series/dying-for-good-health"> <span>Dying for Good Health</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2857" href="/series/no-smoke-without-fire"> <span>No Smoke Without Fire</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2887" href="/series/the-third-degree"> <span>The Third Degree</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-header-2-menu" class="block block-menu navigation menu--header" id="block-header-2" role="navigation">
+<h2 class="visually-hidden" id="block-header-2-menu">Header</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/695" href="/about-uk-column"> <span>About</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2180" href="/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3819" href="/careers"> <span>Careers</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/698" href="/donate"> <span>Donate</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://community.ukcolumn.org/"> <span>Community Website</span>
+</a>
+</li>
+</ul>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1-3">
+<div class="inner">
+<form accept-charset="UTF-8" action="/search" id="views-exposed-form-search-page-1" method="get" region="overlay">
+<div class="form--inline clearfix">
+<div class="form-item form-type-textfield form-item-keywords">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Keyword(s)</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-keywords" id="edit-keywords" maxlength="128" name="keywords" size="30" type="text" value=""/>
+</label>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"> <button class="button js-form-submit form-submit mdc-button mdc-button--unelevated mdc-button mdc-button--outlined" data-drupal-selector="edit-submit-search" id="edit-submit-search" type="submit" value="Search"></button>
+<div class="inner">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Search</span>
+</div>
+
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-menu-trigger-close">
+<button class="mdc-icon-button" id="close-overlay">
+<span class="far fa-times"></span>
+<span class="visually-hidden">Close</span>
+</button>
+</div>
+</aside>
+<div class="mdc-drawer-scrim"></div>
+<div class="layout-container">
+<header class="layout-header" role="banner">
+<div class="region region-top">
+<div class="inner">
+<nav aria-labelledby="block-social-menu" class="block block-menu navigation menu--social" id="block-social" role="navigation">
+<h2 class="visually-hidden" id="block-social-menu">Social</h2>
+<ul class="menu" region="top">
+<li class="menu-item">
+<a class="fab fa-facebook-f" href="https://facebook.com/ukcolumn" target="_blank"> <span>Facebook</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-telegram" href="https://t.me/ukcolumn" target="_self"> <span>Telegram</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-twitter" href="https://twitter.com/ukcolumn" target="_blank"> <span>Twitter</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-itunes" href="https://podcasts.apple.com/gb/podcast/uk-column-podcasts/id1008807223" target="_blank"> <span>iTunes</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-soundcloud" href="https://soundcloud.com/ukcolumn" target="_blank"> <span>Soundcloud</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fas fa-rss" data-drupal-link-system-path="rss.xml" href="/rss.xml"> <span>RSS</span>
+</a>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-header-menu" class="block block-menu navigation menu--header" id="block-header" role="navigation">
+<h2 class="visually-hidden" id="block-header-menu">Header</h2>
+<ul class="menu" region="top">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/695" href="/about-uk-column"> <span>About</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2180" href="/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3819" href="/careers"> <span>Careers</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/698" href="/donate"> <span>Donate</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://community.ukcolumn.org/"> <span>Community Website</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="region region-header">
+<div class="inner">
+<div class="block block-system block-system-branding-block" id="block-ukc-theme-sitebranding">
+<div class="inner">
+<a class="site-logo" href="/" rel="home">
+<img alt="Home" src="/themes/custom/ukc_theme/logo.png"/>
+</a>
+</div>
+</div>
+<nav aria-labelledby="block-main-navigation-header-menu" class="block block-menu navigation menu--main" id="block-main-navigation-header" role="navigation">
+<h2 class="visually-hidden" id="block-main-navigation-header-menu">Main navigation</h2>
+<ul class="menu" region="header">
+<li class="menu-item">
+<a data-drupal-link-system-path="&lt;front&gt;" href="/">Home</a>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Video</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2181" href="/ukcolumn-news-archive">UK Column News Archive</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3300" href="/series/uk-column-interviews">UK Column Interviews</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2186" href="/insight">Insight</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2524" href="/series/david-ellis-report">David Ellis Report</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a data-drupal-link-system-path="node/2301" href="/audio-podcasts">Podcasts</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution">A Dissident's Guide to the Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree">Deconstructing the Magic Money Tree</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2147" href="/series/dispatches-from-the-front">Dispatches from the Front</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Sections</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2196" href="/northern-exposure">Northern Exposure</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2151" href="/series/eu-military-unification">European Defence Union</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2195" href="/censored">Censored</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2343" href="/series/the-whistleblowers">The Whistleblowers</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Topics</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2176" href="/topic/coronavirus">Coronavirus</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2175" href="/topic/brexit">Brexit</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2166" href="/topic/children-education">Children &amp; Education</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2161" href="/topic/constitution">Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2163" href="/topic/defence">Defence</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2158" href="/topic/economy">Economy</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2167" href="/topic/environment">Environment</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2884" href="/topic/faith">Faith</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2164" href="/topic/health">Health</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2174" href="/topic/international">International</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2160" href="/topic/justice">Justice</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2168" href="/topic/media">Media</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2994" href="/topic/mind">Mind</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2157" href="/topic/politics">Politics</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2169" href="/topic/science">Science</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2170" href="/topic/technology">Technology</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Series</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution">A Dissident's Guide to the Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2571" href="/series/doctors-for-covid-ethics">Doctors for Covid Ethics</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2144" href="/series/common-purpose-effect">The Common Purpose Effect</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2138" href="/series/one-world-governance">One World Governance</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2154" href="/series/global-citizen-movement">Global Citizen Movement</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2153" href="/series/integrity-initiative">Integrity Initiative</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2150" href="/series/fake-news">Fake News</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2137" href="/series/leveson-inquiry">Leveson Inquiry</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2140" href="/series/oxford-cherwell-valley-college">Oxford &amp; Cherwell Valley College</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2127" href="/series/weekly-nudge">The Weekly Nudge</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2152" href="/series/white-helmets">The White Helmets</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree">Deconstructing the Magic Money Tree</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2858" href="/series/dying-for-good-health">Dying for Good Health</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2857" href="/series/no-smoke-without-fire">No Smoke Without Fire</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2887" href="/series/the-third-degree">The Third Degree</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1">
+<div class="inner">
+<form accept-charset="UTF-8" action="/search" id="views-exposed-form-search-page-1" method="get" region="header">
+<div class="form--inline clearfix">
+<div class="form-item form-type-textfield form-item-keywords">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Keyword(s)</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-keywords" id="edit-keywords--2" maxlength="128" name="keywords" size="30" type="text" value=""/>
+</label>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--2"> <button class="button js-form-submit form-submit mdc-button mdc-button--unelevated mdc-button mdc-button--outlined" data-drupal-selector="edit-submit-search-2" id="edit-submit-search--2" type="submit" value="Search"></button>
+<div class="inner">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Search</span>
+</div>
+
+</div>
+</div>
+</form>
+</div>
+</div>
+<button class="mdc-icon-button search-trigger">
+<span class="far fa-search"></span>
+<span class="far fa-times"></span>
+<span class="visually-hidden">Search</span>
+</button>
+<div class="modal-menu-trigger">
+<span class="visually-hidden">Menu</span>
+<button class="mdc-icon-button">
+<span class="far fa-bars"></span>
+<span class="visually-hidden">Open</span>
+</button>
+</div>
+</div>
+</div>
+</header>
+<main class="layout-main" role="main">
+<div class="inner">
+<a id="main-content" tabindex="-1"></a>
+<div class="field--name-field-section">
+<a href="/topic/coronavirus">Coronavirus</a>
+</div>
+<div class="region region-content-above">
+<div class="inner">
+<div class="hidden" data-drupal-messages-fallback=""></div>
+<div class="block block-core block-page-title-block" id="block-ukc-theme-page-title">
+<div class="inner">
+<h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">Ethical psychotherapy versus the unethical applied psychology of SPI-B and the UK Government</span>
+</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="layout-main--wrapper">
+<div class="region region-content">
+<div class="inner">
+<div class="block block-system block-system-main-block" id="block-ukc-theme-content">
+<div class="inner">
+<article about="/article/ethical-psychotherapy-versus-unethical-applied-psychology-spi-b-and-uk-government" class="node node--type-article node--view-mode-full" role="article" typeof="schema:Article">
+<div class="node__content">
+<img alt="" class="image-style-featured-image" height="520" src="/sites/default/files/styles/featured_image/public/alone.jpg?h=54058b57&amp;itok=hIaGEScS" typeof="foaf:Image" width="980"/>
+<footer class="node__meta">
+<div class="node__submitted">
+<div class="author">
+by
+<div class="field field--name-field-author field--type-entity-reference field__items">
+<a href="/writer/dr-bruce-scott" hreflang="en">Dr Bruce Scott</a>
+</div>
+</div>
+<div class="authored">
+Tuesday, 2nd March 2021
+</div>
+</div>
+</footer>
+<div class="clearfix text-formatted field field--name-body" property="schema:text"><p>In my last article, ‘<a href="/article/psychological-attack-uk">The psychological attack on the UK</a>’, I outlined why the applied behavioural psychology of SPI-B and the UK government is breaking the ethical and practice guidelines of the British Psychological Society and their regulator, the Health and Care Professions Council.</p>
+<p>I showed why the tactics and dictates of SPI-B (i.e., deliberately making people fearful and creating a culture of shaming for not following the COVID-19 rules) were akin to the psychological abuse that occurs in domestic abuse scenarios, albeit as the Government as abuser and the population as a victim.</p>
+<p>The seriousness of what is occurring regarding the manipulation and coercion by SPI-B and the UK government of the UK population is something that is rarely given mention in the mainstream media. However, let us consider a psychotherapy based on the same tactics of SPI-B at an individual level, compared to a more ethical approach to psychotherapy.</p>
+<h3>A hypothetical scenario based on SPI-B applied psychological tactics</h3>
+<p>David is a man of 50 with no underlying health conditions. He is fit and healthy. He does not drink or smoke. Up until recently he ran and rode his bicycle regularly. Now David is really struggling. He is fearful of dying from a virus that is going around. Every sniffle, sneeze, sensation of feeling hot and cough is interpreted as a sign of the virus.</p>
+<p>He obsessively ruminates about his symptoms; he searches for his symptoms on the internet which ultimately validate his concerns.</p>
+<p>He is developing signs and symptoms of depression, anxiety, paranoia and he has experienced panic attacks when shopping. He is starting to avoid going out; he gets his shopping delivered when he can. He never meets anyone, and when he does meet somebody, he keeps more than two metres away.</p>
+<p>He won’t see his girlfriend, despite her pleas to meet up (who lives in another house, in another city), and he won’t meet his children from his first marriage for fear of contracting the virus or spreading the virus by mixing households. He shops with two disposable face masks on, rubber gloves and disposes of these gloves and masks when he gets home.</p>
+<p>When he gets home, he washes all the items of shopping (e.g., tins, dry goods) with a sanitising wipe, and washes all the fruit and vegetables in soapy water. He leaves all the shopping for 3 days before he touches it again.</p>
+<p>He has stopped working because he does not want to mix with other people for fear of catching the virus and dying. He has asked to work from home (he is an IT remote technician).</p>
+<p>He lies awake at night thinking about the next day and how he will avoid the virus and how he can avoid death for another day. He has nightmares about being put into a coffin and the gravediggers shovelling in the soil over him, or sometimes being put into the incinerator and burned. Nobody comes to his funeral as he is scared that he is contaminated with the virus and he has requested that there is no funeral ceremony.</p>
+<p>One morning while lying in bed awake, worrying as usual, he hears the waste disposal lorry draw up outside his door. He jumps out of bed and looks out of the window. He sees the waste disposal men loading bins onto the truck to empty them. He notices that none of them has a face mask on, one workman had no gloves on.</p>
+<p>He starts shaking and trembling and runs down the stairs and out his front door in his pyjamas, down his garden path and out his gate. He stands in the street screaming at the waste disposal men for not wearing masks or gloves and spreading the virus; going to many households, touching the bins that have been touched by other people.</p>
+<p>He cannot believe the danger he has been put into. He cannot compute the information overload he is experiencing, accompanied and accentuated by fear and anger. He cannot think, he feels himself going mad. He falls to his knees and starts crying. He is inconsolable. One of the waste disposal men calls an ambulance. An ambulance comes and takes David to the local hospital.</p>
+<p>After a few days in the hospital and after being assessed, it is suggested he undergo some psychological therapy to deal with his fear of the virus, his fear of death and obsessions with cleanliness. His psychological therapist is Dr. Machie. She is an expert in cognitive and behavioural science.</p>
+<p>David enters Dr Machie’s office. He recounts all his symptoms, how he fears he is going to die and how he is constantly vigilant to make sure he does not catch the virus. He describes how his life is falling apart and how he came to be in the hospital. Dr Machie nods and takes some notes. She looks very stern. And she begins to talk.</p>
+<p>'<em>You are quite correct. You have to act like you have this virus. It seems that perhaps you are not fearful enough. You went out into the street and confronted the waste disposable men, men from other households outside, with no protective clothing on. That was quite foolish. You could have spread the disease or caught it from the men. You have obviously been too complacent. You must continue with what you are doing. You must keep vigilant. How could you look into the eyes of person dying from the virus, knowing that you spread the virus? I know you are lonely and that you have not seen your girlfriend or children for many months and you are going out of your mind, but you must keep strong. We may find a medicine that can allow you to see light at the end of the tunnel, but the new medicine is unlikely to stop the spread or the contracting of the virus. It is likely you will have to be vigilant for quite some time. Keep doing what you are doing. But I must add this, you must be hyper vigilant of what other people are doing. You must report them to the police if they are mixing with other people indoors or if they are meeting people outdoors. You must also confront them if you see they are standing too close to each other in public and if they are not wearing protective clothing. Moreover, be warned, other people may report you for breaking the rules as well. These anxious thoughts that you have, trust them. They are guiding you to act in the correct way to enable you to be fearful, vigilant and constantly be terrified of the risks and the risks of others. Stay at home as much as possible, work from home as much as you can. Do not meet people. At the end of the day, you are contributing to the greater good and saving the health services from being overburdened by having to take care of all the ill people. Remember that.</em>’</p>
+<p>‘<em>When will I be able to relax? ... when will I be able to live normally again? … I don’t think I can stand much more … I am at the end of my tether</em>’, David sobbed.</p>
+<p>‘<em>We cannot yet know for certain when we can take the foot off the brakes. Certainly, cancel Christmas and your summer holiday. I see from your medical notes that you used to play rugby union at county level until you stopped with a back injury. Why not watch the Six Nations Rugby tournament on television to take your mind off it. But remember and watch the daily briefings by the politicians and the discussions in parliament about the virus; these will keep you informed about the deaths and cases from the virus and the rules you have to follow</em>’, Dr. Machie said.</p>
+<p>‘<em>What!!? What do you mean that rugby tournaments are still going on? Won’t that spread the virus? ... the politicians are still meeting in government buildings? What in the hell is going on? I thought there was a deadly virus going around? ... I am doing everything in my power to stay safe to not spread the virus and not contract it, yet rugby players are travelling around the country playing rugby and politicians are meeting indoors with people from other households. This makes no sense</em>’, David retorted exasperated.</p>
+<p>‘<em>Just ignore these things. Don’t question. Don’t evaluate the logic or the rules. That is dangerous thinking… dangerous for public health. The government advisors are guided by the science. The more people doubt and question the government version of the science, the more rules the government will have to put in place and the more public health messages they will have to put out. At the end of the day, if people don’t follow the rules, then the rules will be in place for much longer. Our time is up. Follow the rules, stay at home and stay safe. Goodbye David</em>’, Dr Machie abruptly stated.</p>
+<p>David left her office despondent, worried, and even more fearful, but even more confused.</p>
+<h3>An ethical approach to psychotherapy</h3>
+<p>In the hypothetical example above, David has high anxiety and obsessive paranoid thoughts, he experiences panic attacks, and is seriously depressed with his situation. His symptoms encompass a myriad of official psychiatric diagnoses of mental disorders; i.e., generalised anxiety, phobia (of dying, of contamination), obsessive compulsive disorder. David, like most patients in the real-world, exhibits signs and symptoms of several official diagnostic mental disorders. This would entail that a versatile and adaptive therapist would have to use several strategies for the different disorders to help the patient overcome their difficulties.</p>
+<p>A key facet of psychological disorders is a person’s tendency to interpret their present experiences in a negatively biased way. They see the world as making unsurmountable demands and obstacles which prevent fulfilment of life’s goals. They misinterpret their interactions with the environment as representing a threat or as dangerous. These negative misinterpretations occur even when there are more plausible alternative explanations available. People who are shown how to view their experiences in more positive way, rather than in a negatively biased way, may be able to realise more adaptive and realistic ways of interacting with their environment, their own cognitions and moods. Using methods derived from cognitive behavioural therapy, a therapist would work with David in several ways.</p>
+<p>Firstly, a therapist would educate David on the fact that OCD, anxiety, depression etc are a result of faulty thought processes. The cognitive theory of such disorders shows how individuals with such mental disorders have a cognitive bias which may cause hypervigilance and a biased interpretation of themselves and the world. Individuals like David, with OCD symptoms, have faulty thought processes and are unable to ignore invasive thoughts (i.e., overestimating the risk of dying from the virus and being contaminated with it).</p>
+<p>Their faulty thinking and obsessive thoughts lead them to believe something bad or negative will occur if they do not carry out a certain behaviour (i.e., obsessively clean the shopping and avoid people at all costs); this results in compulsive behaviours (i.e., excessive washing). Cognitive research suggests that those who develop OCD are extremely hyper vigilant of their surroundings and focus on things which they perceive as a threat (i.e., bodily symptoms; coughs, sneezes, feeling hot); this feeds into feelings of anxiety and paranoia and leads to depression.</p>
+<p>A therapist working with David, using behavioural and cognitive approaches, would help David identify the causes of his anxious, depressed or obsessive thinking (i.e., illogical ideas or automatic false thinking) and help him adopt more logical (i.e., correct or more accurate) ways of thinking. Psychotherapy might also involve a myriad of relaxation techniques for bodily symptoms and symptoms of anxiety or fear. Using more behavioural approaches, exposure therapeutic tactics might be employed; a commitment /contract with the therapist to work on specific goals which are written down (e.g., control of symptoms in certain situations), identification of sensations experienced during symptomatic periods, tackling these sensations with a variety of anxiety management approaches such as breathing exercises, relaxation techniques, and coping strategies.</p>
+<p>So specifically, for David, the therapist might help David to assess the negative automatic thoughts, beliefs, conditional and unconditional dysfunctional attitudes that surround his complaints. The therapist would appraise the evidence, rationality, reasoning etc of these to help the patient come to a more realistic appraisal of the issue at hand; David is 50, he has no underlying health conditions and he is fit and healthy. According to NHS England statistics, taking into account his age and the fact he has no underlying health conditions he has an approximately 99.99% chance of not dying with (or from) COVID-19. From March 2020 to the 3rd February 2021, according to NHS England records for deaths from COVID-19, 571 people under 60 years of age with no underlying health conditions have died in England compared to 5017 people dying with COVID-19 with one or more underlying health condition.</p>
+<p>It also must be noted that the majority of deaths with COVID19 have been people with the underlying conditions of chronic kidney disease, chronic pulmonary disease, dementia and diabetes (54,619). The vast majority of deaths of under the all causes death in 2020 do not indicate that there is anything remarkable occurring. According to The Office of National Statistics, 2020 is only ninth worst death rate looking at records of deaths since 2000, taking into account population variation (608,002). Looking at the statistics, it looks like David has a very low risk of dying from COVID-19 and he is not living in a period of history where he is at an increased risk of death.</p>
+<p>Consider this: if a real patient did go to see an NHS psychotherapist at this present time of the COVID-19 crisis, would a psychotherapist deal with such a patient in the aforementioned ethical method outlined above, or would they follow the UK government fear promoting narrative? If one was an ethical psychotherapist, one should certainly help David ascertain the risk of this virus for David, educate him on the actual risks and help him deal with himself and the world in a more adaptive and less negatively biased way.</p>
+<p>It remains to be seen how psychotherapists in the real world are dealing with people who are suffering from extreme mental disorder from the “threat” of COVID-19. Are psychotherapists and mental health workers helping patients and clients to appraise the actual risks of COVID-19, or are they perpetrating the fear mongering narrative of SPI-B and the UK government?</p>
+<p>However, what SPI-B and the UK government are doing is turning the cognitive-behavioural model of dealing with such fear/obsessions/anxiety etc on its head. They are not encouraging people to assess or educate themselves on the real risks from COVID-19; they are telling people to act like they have COVID-19 and be very fearful and suspicious/fearful of others. The UK government are pumping out scary propaganda with pictures of dying people. From the UK government twitter account:</p>
+<p>As I outlined in my previous article, the tactics of SPI-B are to make people more fearful. The <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/887467/25-options-for-increasing-adherence-to-social-distancing-measures-22032020.pdf">SPI-B document</a> which is freely available on the UK Government website, and which was reported on the <a href="/ukcolumn-news/uk-column-news-11th-may-2020">UK Column News of 11 May 2020</a>, states the following:</p>
+<blockquote>
+<p>A substantial number of people still do not feel sufficiently personally threatened.</p>
+</blockquote>
+<p>And:</p>
+<blockquote>
+<p>The perceived level of personal threat needs to be increased among those who are complacent, using hard-hitting emotional messaging.</p>
+</blockquote>
+<p>It is clear from many official sources and anecdotal sources that peoples mental health is suffering as a result of the COVID-19 lockdown measures and the governmental propaganda fuelled by the tactics from the applied psychology of SPI-B. Furthermore, the mainstream media parrots the UK government narrative and does not question the negatively biased assumptions/explanations about the threat of COVID-19. All this contributes to a vicious cycle of fear, apprehension and confusion.</p>
+<p>The dissemination of confusion is key; the narrative and the goalposts change all the time. At one time masks were not needed, now masks are needed; schools were not needed to be closed, now they are closed. The vaccine was the hope to get us out of this crisis, now we don’t even know if the vaccine can stop transmission of the virus or stop people contracting it. Further, we are now being presented by the threat of new variants of COVID-19 which may be vaccine resistant, and that lockdown restrictions may not even be lifted until other countries have completed their own vaccination programs.</p>
+<p>The goalposts are moving all the time and the deluge of fear keeps coming, despite the data indicating that 2020 all-cause mortality is not significantly different as a result of the COVID-19 virus and that for those under the age of 60 with no underlying conditions, the risk of COVID-19 is extremely low. It is quite incredible that in March 2020, almost one year ago, Boris Johnson told the nation it was 3 weeks to flatten the curve. Now we are in a situation where fear, contradictory messages, and uncertainty is the main message coming out from the government.</p>
+<p>Like a domestic abuser, the government cannot let us out of their tyrannical grip; an abuser never does. An abuser keeps us in a state of hyper vigilance and in a state of fear. A victim of domestic abuse walks on eggshells for fear of what will happen if they step out of line.</p>
+<p>A very interesting aspect of the whole COVID-19 debacle, is the emergence of the fear of death; that we have to fear death at every turn, that death (from COVID-19 at least) has to be stopped at all costs, and that if such a risk to death exists, we have to shut ourselves away.</p>
+<p>The only saviour in this morass is the God of science or technology, or more accurately, only one version of science or technology; the “you must fear COVID-19” version of science and technology. This assault of fearmongering along with an attack on the traditional ways of dealing with life and its vicissitudes (e.g., religious faith, community, and a reliance on medicine where there is a healthy realisation of the limits of medicine) is biased, extremely harmful and distorting.</p>
+<p>These traditional ways of dealing with fear of life and death are being deconstructed, in line with the postmodern/critical theory driven ideological agendas of Globalists (e.g., see Agenda 21/2030, World Economic Forum). The churches are closed, schools are closed, clubs, pubs and live music venues are closed for business. People cannot meet and orient themselves to the world and gain a firmer perspective on life and existence.</p>
+<p>We are being isolated and told to fear. We are given carrots of hope (3 weeks to flatten the curve, wait for the vaccine), and then these hopes are dashed by the emergence of a new variant of COVID-19.</p>
+<p>We wander anxious and isolated within a maze of illogicality, confusion and uncertainty. The unethical applied psychology of SPI-B and the UK government are treating us like Pavlov’s dogs. Ivan Pavlov was a Russian physiologist, famous for classical conditioning which informed behavioural psychology. Pavlov found that subjecting dogs to certain negative stimuli over a prolonged period of time made initially placid and healthy dogs neurotic. It was later found that the same dogs would develop physical health conditions and even tumours.</p>
+<p>We are in the curious position now, with an unethical and contra-therapeutic narrative (breaking the ethics guidelines of the British Psychological Society and Health and Care Professions Council) guiding and inflicting harm upon the UK population.</p>
+<p>Bearing this in mind, from the scientific knowledge we have in the medical and psychological sciences and existing psychotherapeutics, it is quite clear that the tactics of SPI-B and the UK government are harmful; this cannot be refuted. Looking back in history to the experiments of Ivan Pavlov and his dogs, is looks even more clear that we are being manipulated, coerced and frightened in similar ways to Pavlov’s dogs. To what end? To do what it say’s on the SPI-B tin? To make us more fearful than we need to be?</p>
+<p>It looks very much like a situation where psychology is most definitely being used for nefarious ends. This is not the first time in history that this has been the case. Are we all to lie down, submit like Pavlov’s dogs, be driven neurotic and develop physical health conditions or do we challenge the Government? The latter has to be the only option; submitting to the former will only lead to physical and mental destruction on the nation.</p>
+</div>
+<div class="views-element-container"><div class="view view-author view-id-author view-display-id-default js-view-dom-id-e4017dfcd4a73dec2976ef312c26b43f60be88dccb3447e1b6d67597f08f83fb">
+<div class="view-content">
+<div class="views-row">
+<article about="/writer/dr-bruce-scott" class="node node--type-author node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/writer/dr-bruce-scott" tabindex="0">
+<div class="author-image">
+<img alt="" class="image-style-author-profile" height="150" src="/sites/default/files/styles/author_profile/public/2022-07/Dr%20Bruce%20Scott.jpeg?h=7c279bad&amp;itok=5ms3Zp3n" typeof="foaf:Image" width="150"/>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Dr Bruce Scott</span>
+</h2>
+Dr Bruce Scott is a psychoanalyst and author.
+</div>
+</a>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+<div class="region region-sidebar-right">
+<div class="inner">
+<div class="block block-ukc-core block-ukc-social-block" id="block-socialshareblock">
+<div class="inner">
+<div class="block-title">Share</div>
+<div class="social-wrapper"><a class="mdc-icon-button social-twitter" href="https://twitter.com/intent/tweet?text=Ethical psychotherapy versus the unethical applied psychology of SPI-B and the UK Government https://www.ukcolumn.org/article/ethical-psychotherapy-versus-unethical-applied-psychology-spi-b-and-uk-government&amp;via=ukcolumn" target="_blank"><i class="fab fa-twitter"></i><span>Share on Twitter</span></a><a class="mdc-icon-button social-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.ukcolumn.org/article/ethical-psychotherapy-versus-unethical-applied-psychology-spi-b-and-uk-government" target="_blank"><i class="fab fa-facebook-f"></i><span>Share on Facebook</span></a><a class="mdc-icon-button social-print" href="#"><i class="fas fa-print"></i><span>Print</span></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="layout-footer" role="contentinfo">
+<div class="region region-footer">
+<div class="inner">
+<div class="block block-simple-block block-simple-blockfooter" id="block-ukcolumn">
+<div class="inner">
+<div class="block-title">UK Column</div>
+<p>The UK Column is an independent multimedia news website <a href="https://www.ukcolumn.org/community">supported by its members</a>.</p>
+</div>
+</div>
+<div class="block block-simple-block block-simple-blockcopyright" id="block-copyright">
+<div class="inner">
+<p>© 2006-2021 UK Column. For <a href="https://www.ukcolumn.org/user/login">permission</a> to use any content on this website please <a href="https://www.ukcolumn.org/contact">contact us</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2238","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"\/search":true},"user":{"uid":0,"permissionsHash":"24a7fea61d09ca75b04029346079397b67be32e4b80ac47ef82cea8e7c0d3bfa"}}</script>
+<script src="/sites/default/files/js/js_KcESXcZO7FVpSpeU6kavzpt6Ja5W0OnT-dGt68lPzD0.js"></script>
+</body>
+</html>

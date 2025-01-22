@@ -1,0 +1,642 @@
+
+
+
+  
+
+
+
+
+ 
+
+Apple, Samsung, Microsoft: WikiLeaks Blows Lid On Scale of CIA’s Hacking Arsenal | WorldTruth.Tv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Home
+Archives
+
+2017
+
+December
+
+
+2018
+
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+
+2019
+
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+
+2020
+
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+
+
+
+About Us
+Advertise
+DMCA
+Legal Disclaimer
+Sitemaps
+ 
+
+ 
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39.6
+F
+
+
+New York
+
+
+
+
+Wednesday, March 8, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+WorldTruth.Tv
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Archives
+
+2017
+
+December
+
+
+2018
+
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+
+2019
+
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+
+2020
+
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+
+
+
+About Us
+Advertise
+DMCA
+Legal Disclaimer
+Sitemaps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Apple, Samsung, Microsoft: WikiLeaks Blows Lid On Scale of CIA’s Hacking Arsenal
+
+
+
+
+
+
+
+
+Share80RedditTweetTelegramMoreEmail80 Shares
+
+The major takeaway from the latest WikiLeaks dump centers around the terrifying, ‘all-seeing-eye’ surveillance project codenamed ‘Weeping Angel.’ The CIA appears to have taken espionage to a whole new level if WikiLeaks’ initial analysis is accurate.
+
+
+
+
+According to the preliminary release, the CIA has the capability to hack, record and even control everyday technology used by billions of people around the world.
+These include smartphones, tablets, smart TVs and even vehicles with remote control navigation systems.
+On these devices themselves, the CIA can allegedly hack into some of the world’s most heavily encrypted social media and communications platforms such as WhatsApp, Weibo, Confide, Signal and Telegram before any encryption can even be applied.
+For example, WhatsApp’s end-to-end encryption means that only the direct participants in a conversation can read messages; not even WhatsApp is capable of reading them.
+The CIA, however, was able to hack into individual private WhatsApp messages before encryption could even be applied.
+“Your messages are secured with a lock, and only the recipient and you have the special key needed to unlock and read your message,” the company writes on their website.
+To understand the sheer scale of the leak and of the CIA’s high tech surveillance operations, the hierarchy of divisions within the agency’s cyber division can be looked at below.
+
+ 
+
+#WikiLeaks release #Vault7 with details of CIA’s ‘global covert hacking program’ pic.twitter.com/pMihFkNPqn
+— Colm McGlinchey (@ColmMcGlinchey) March 7, 2017
+
+
+According to WikiLeaks, the manufacturing division for the Agency’s hacking tools, or ‘zero days’ as they are dubbed in the leaks, is the EDG (Engineering Development Group), which is under the umbrella of the agency’s CCI (Center for Cyber Intelligence).
+Smartphone devices
+The CIA’s Mobile Devices Branch (MDB) developed a variety of tools and techniques to remotely hack and control the world’s most popular smartphones and tablets.
+Once hacked, phones can be used to transmit their “geolocation, audio and text communications” directly to the CIA without the user’s knowledge. In addition, the CIA can remotely activate the phone’s microphone and camera.
+Apple devices
+Despite Apple holding a minority share in the global smartphone market in 2016, the CIA’s Mobile Development Branch has a specific division dedicated to the hacking of Apple devices which run the iOS operating system from smartphones and tablets.
+WikiLeaks also alleges that the CIA not only developed but collaborated on or purchased a variety of hacking tools or ‘zero days’ from intelligence agencies and contractors around the world such as GCHQ, NSA, FBI or Baitshop.
+Samsung
+The EDG has produced a ‘zero day’ capable of hacking Samsung smart TVs, switching it into a fake ‘off mode’ where the device appears to remain on standby while actually recording audio and transmitting it to nearby secured CIA servers.
+For context, Samsung was the top-selling television brand in the world for the last decade with a global market share of 21 percent as of 2015. WikiLeaks did not specify in the initial release whether video recordings were also a part of this particular ‘zero day.’
+Vehicle control
+As far back as 2014, WikiLeaks alleges that the CIA was exploring the possibility of infecting control systems in modern cars and trucks. While the exact goal of such control has yet to be established, WikiLeaks suggests that such hacks could be used for almost undetectable assassinations.
+
+CIA has tools to remote control chips in cars, trucks, planes, medical devices and hospital tech with assassination potential. pic.twitter.com/RvFonUphUg
+— Kim Dotcom (@KimDotcom) March 7, 2017
+
+
+Android devices (Samsung, HTC, Sony)
+The majority of the world’s smartphones (approximately 85 percent) run on the Android operating system, with roughly 1.15 billion Android devices sold last year, according to the WikiLeaks statement. Naturally, the CIA devoted an entire subdivision to hacking Android devices, with 24 individual weaponized ‘zero days’ targeting Android devices.
+ 
+
+WikiLeaks’ #Vault7 reveals numerous CIA ‘zero day’ vulnerabilities in Android phones https://t.co/yHg7AtX5gg pic.twitter.com/g6xpPYly9T
+— WikiLeaks (@wikileaks) March 7, 2017
+
+
+Microsoft
+The CIA’s cyber division has developed numerous local and remote ‘zero days’ to hack and control Microsoft Windows users.
+These ‘zero days’ include, but are not limited to: air gap jumping viruses such as ‘Hammer Drill’ that are capable of infecting computers or phones that have never been connected to the internet; hacking tools that focus on removable devices such as USB drives; systems for hiding data, be it in covert disk areas or in images; particular ‘zero days’ that are manufactured to self-perpetuate and hide themselves from detection on an ongoing basis.
+Before any tech experts gloat, WikiLeaks also alleges that the CIA has developed advanced, multi-platform malware attack and control systems that cover Windows and Mac OS X but also mixed source platforms like Solaris and open source platforms like Linux. Wikileaks names these specific ‘zero days’ as the EDB’s ‘HIVE,’ ‘Cutthroat’ and ‘Swindle’ tools.
+ 
+
+RELEASE: Vault 7 Part 1 “Year Zero”: Inside the CIA’s global hacking force https://t.co/h5wzfrReyy pic.twitter.com/N2lxyHH9jp
+— WikiLeaks (@wikileaks) March 7, 2017
+
+
+RELATED ARTICLESMORE FROM AUTHOR
+
+
+
+
+
+
+The Mother of All Antioxidants 
+
+
+
+
+
+
+
+Engineer Creates New Religion To ‘Raise’ and Worship Artificial Intelligence God 
+
+
+
+
+
+
+
+An Ancient Device Too Advanced To Be Real Gives Up Its Secrets At Last 
+
+  
+
+
+
+ Previous articleThe Money Pit Mystery and Early Treasure Hunting On Oak IslandNext articleYou’ve Been Brushing Your Teeth Wrong This Entire Time Eddiehttps://www.worldtruth.tvEddie is the founder and owner of www.WorldTruth.TV. This website is dedicated to educating and informing people with articles on powerful and concealed information from around the globe. I have spent the last 38 years researching Bible, History, Alternative Health, Secret Societies, Symbolism and many other topics that are not reported by mainstream media.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+ Translator
+
+
+
+Social Counter0FansLike87,952FollowersFollow856,048FollowersFollow6,150SubscribersSubscribe  
+Archives
+
+December 2021 (30)
+December 2020 (219)
+November 2020 (227)
+October 2020 (227)
+September 2020 (238)
+August 2020 (230)
+July 2020 (237)
+June 2020 (228)
+May 2020 (225)
+April 2020 (200)
+March 2020 (225)
+February 2020 (243)
+January 2020 (239)
+December 2019 (243)
+November 2019 (376)
+October 2019 (374)
+September 2019 (386)
+August 2019 (375)
+July 2019 (386)
+June 2019 (386)
+May 2019 (390)
+April 2019 (394)
+March 2019 (391)
+February 2019 (395)
+January 2019 (379)
+December 2018 (472)
+November 2018 (468)
+October 2018 (425)
+September 2018 (404)
+August 2018 (368)
+July 2018 (372)
+June 2018 (384)
+May 2018 (380)
+April 2018 (353)
+March 2018 (384)
+February 2018 (368)
+January 2018 (281)
+December 2017 (133)
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world.  
+
+
+Recent Posts
+
+
+The Mother of All Antioxidants
+
+
+Engineer Creates New Religion To ‘Raise’ and Worship Artificial Intelligence God
+
+
+An Ancient Device Too Advanced To Be Real Gives Up Its Secrets At Last
+
+
+How To Detect Negative Energies At Home Using Only A Glass of Water?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+© All rights reserved. 
+
+
+
+
+This site is protected by wp-copyrightpro.com
+
+
+Go to mobile version 
+
+
+
+
+
+
+
+
+
+
+Edit with Live CSS
+
+
+
+
+
+
+
+
+
+
+
+Save
+Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.
+
+
+
+/*
+
+*/
+
+
+

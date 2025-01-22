@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+<meta charset="utf-8"/>
+<link href="https://yellowcard.ukcolumn.org/yellow-card-reports" rel="canonical"/>
+<script async="" data-domain="yellowcard.ukcolumn.org" defer="" src="https://plausible.io/js/plausible.js"></script>
+<meta content="Drupal 9 (https://www.drupal.org)" name="Generator"/>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+<title>COVID-19 Yellow Card Data | UKColumn</title>
+<link href="/sites/default/files/css/css_DfIk0kDE_97QqZBJr5TF4iiP6Rt7nG3gWSu-Jh5AKCY.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_dW5rwehoT-laGPPTKPhg1kwa-3KYwaG9bmXf5Q3s7GE.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_hjFttaY50UR2V33E7zMsMr66nbCDiFQUnTnnSjS4Ufw.css" media="print" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&amp;family=Open+Sans:wght@400;600;700&amp;family=Playfair+Display:wght@400;600;700&amp;family=Roboto+Slab&amp;display=swap" media="all" rel="stylesheet"/>
+</head>
+<body class="path-yellow-card-reports fixed-width">
+<a class="visually-hidden focusable skip-link" href="#main-content">
+Skip to main content
+</a>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<aside class="mdc-drawer mdc-drawer--modal">
+<div class="mdc-drawer__content">
+<nav aria-labelledby="block-mainnavigation-menu" class="block block-menu navigation menu--main" id="block-mainnavigation" role="navigation">
+<h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a data-drupal-link-system-path="&lt;front&gt;" href="/"> <span>Home</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="modal-menu-trigger-close">
+<button class="mdc-icon-button" id="close-overlay">
+<span class="far fa-times"></span>
+<span class="visually-hidden">Close</span>
+</button>
+</div>
+</aside>
+<div class="mdc-drawer-scrim"></div>
+<div class="layout-container">
+<header class="layout-header" role="banner">
+<div class="region region-header">
+<div class="inner">
+<div class="block block-system block-system-branding-block" id="block-ukc-theme-sitebranding">
+<div class="inner">
+<a class="site-logo" href="/" rel="home">
+<img alt="Home" src="/themes/custom/ukc_theme/logo.png"/>
+</a>
+</div>
+</div>
+<div class="return-ukc">
+<a href="https://www.ukcolumn.org">
+<img alt="Return to UKColumn website" src="/themes/custom/ukc_theme/dist/images/return-to-ukc.png" width="500px"/>
+</a>
+</div>
+<div class="modal-menu-trigger">
+<span class="visually-hidden">Menu</span>
+<button class="mdc-icon-button">
+<span class="far fa-bars"></span>
+<span class="visually-hidden">Open</span>
+</button>
+</div>
+</div>
+</div>
+</header>
+<main class="layout-main" role="main">
+<div class="inner">
+<a id="main-content" tabindex="-1"></a>
+<div class="region region-highlighted">
+<div class="inner">
+<div class="block block-core block-local-tasks-block" id="block-ukc-theme-primary-local-tasks">
+<div class="inner">
+<nav aria-label="Tabs" class="tabs" role="navigation">
+<div class="visually-hidden">Primary tabs</div>
+<div class="mdc-tab-bar" role="tablist">
+<div class="mdc-tab-scroller">
+<div class="mdc-tab-scroller__scroll-area">
+<div class="mdc-tab-scroller__scroll-content">
+<a class="mdc-tab mdc-tab--active" href="/yellow-card-reports">
+<span class="mdc-tab__content">
+<span class="mdc-tab__text-label">Reports</span>
+</span>
+<span class="mdc-tab-indicator mdc-tab-indicator--active">
+<span class="mdc-tab-indicator__content mdc-tab-indicator__content--underline"></span>
+</span>
+<span class="mdc-tab__ripple"></span>
+</a>
+<a class="mdc-tab" href="/yellow-card-graphs">
+<span class="mdc-tab__content">
+<span class="mdc-tab__text-label">Graphs</span>
+</span>
+<span class="mdc-tab-indicator">
+<span class="mdc-tab-indicator__content mdc-tab-indicator__content--underline"></span>
+</span>
+<span class="mdc-tab__ripple"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<div class="region region-content-above">
+<div class="inner">
+<div class="hidden" data-drupal-messages-fallback=""></div>
+<div class="block block-core block-page-title-block" id="block-ukc-theme-page-title">
+<div class="inner">
+<h1 class="page-title"></h1>
+</div>
+</div>
+</div>
+</div>
+<div class="layout-main--wrapper">
+<div class="region region-content">
+<div class="inner">
+<div class="block block-system block-system-main-block" id="block-ukc-theme-content">
+<div class="inner">
+<div class="views-element-container">
+<div class="view view-yellow-card-data view-id-yellow_card_data view-display-id-page_2 js-view-dom-id-38cb69a79fabfc904a2b42a3228f6e2444f22e361cace9cb8ce71a497a9e627d">
+<div class="view-header">
+<div class="views-element-container"><div class="view view-yellow-card-data view-id-yellow_card_data view-display-id-block_2 js-view-dom-id-cbb8f3302b618f715181cafa9274c9ca3d003314a9d5eeca958359e62dbcb8eb">
+<div class="view-header">
+<h1>COVID-19 Vaccine Analysis Overview</h1>
+<p>Report run date: 29/09/2022
+<br/>Data lock date: 28/09/2022</p>
+</div>
+<div class="view-content">
+<div class="table-wrapper">
+<table class="views-table views-view-table cols-4">
+<thead>
+<tr>
+<th class="views-field views-field-name" id="view-name-table-column" scope="col">Manufacturer</th>
+<th class="views-field views-field-field-total-reports" id="view-field-total-reports-table-column" scope="col">Total reports</th>
+<th class="views-field views-field-field-total-reactions" id="view-field-total-reactions-table-column" scope="col">Total reactions</th>
+<th class="views-field views-field-field-total-fatalities" id="view-field-total-fatalities-table-column" scope="col">Total fatalities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="views-field views-field-name" headers="view-name-table-column">AstraZeneca </td>
+<td class="views-field views-field-field-total-reports" headers="view-field-total-reports-table-column">246,393 </td>
+<td class="views-field views-field-field-total-reactions" headers="view-field-total-reactions-table-column">873,051 </td>
+<td class="views-field views-field-field-total-fatalities" headers="view-field-total-fatalities-table-column">1,314 </td>
+</tr>
+<tr>
+<td class="views-field views-field-name" headers="view-name-table-column">Moderna </td>
+<td class="views-field views-field-field-total-reports" headers="view-field-total-reports-table-column">42,436 </td>
+<td class="views-field views-field-field-total-reactions" headers="view-field-total-reactions-table-column">138,950 </td>
+<td class="views-field views-field-field-total-fatalities" headers="view-field-total-fatalities-table-column">82 </td>
+</tr>
+<tr>
+<td class="views-field views-field-name" headers="view-name-table-column">Pfizer </td>
+<td class="views-field views-field-field-total-reports" headers="view-field-total-reports-table-column">173,381 </td>
+<td class="views-field views-field-field-total-reactions" headers="view-field-total-reactions-table-column">499,965 </td>
+<td class="views-field views-field-field-total-fatalities" headers="view-field-total-fatalities-table-column">826 </td>
+</tr>
+<tr>
+<td class="views-field views-field-name" headers="view-name-table-column">Unspecified </td>
+<td class="views-field views-field-field-total-reports" headers="view-field-total-reports-table-column">1,848 </td>
+<td class="views-field views-field-field-total-reactions" headers="view-field-total-reactions-table-column">5,646 </td>
+<td class="views-field views-field-field-total-fatalities" headers="view-field-total-fatalities-table-column">50 </td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<th>Totals</th>
+<th>464,058</th>
+<th>1,517,612</th>
+<th>2,272</th>
+</tr>
+</tfoot>
+
+</table></div>
+</div>
+</div>
+</div>
+</div>
+<a name="view-top"></a>
+<div class="view-filters">
+<h1>COVID-19 Vaccine Analysis</h1>
+<form accept-charset="UTF-8" action="/yellow-card-reports" class="views-exposed-form" data-drupal-selector="views-exposed-form-yellow-card-data-page-2" id="views-exposed-form-yellow-card-data-page-2" method="get">
+<div class="form--inline clearfix">
+<div class="form-checkboxes" id="edit-product">
+<div class="form-item form-type-checkbox form-item-product-1">
+<div>
+<div class="mdc-checkbox">
+<input checked="checked" class="form-checkbox mdc-checkbox__native-control" data-drupal-selector="edit-product-1" id="edit-product-1" name="product[1]" type="checkbox" value="1"/>
+<div class="mdc-checkbox__background">
+<svg class="mdc-checkbox__checkmark" viewbox="0 0 24 24">
+<path class="mdc-checkbox__checkmark-path" d="M1.73,12.91 8.1,19.28 22.79,4.59" fill="none"></path>
+</svg>
+<div class="mdc-checkbox__mixedmark"></div>
+</div>
+<div class="mdc-checkbox__ripple"></div>
+</div>
+<label class="option" for="edit-product-1">AstraZeneca</label>
+</div>
+</div>
+<div class="form-item form-type-checkbox form-item-product-3">
+<div>
+<div class="mdc-checkbox">
+<input checked="checked" class="form-checkbox mdc-checkbox__native-control" data-drupal-selector="edit-product-3" id="edit-product-3" name="product[3]" type="checkbox" value="3"/>
+<div class="mdc-checkbox__background">
+<svg class="mdc-checkbox__checkmark" viewbox="0 0 24 24">
+<path class="mdc-checkbox__checkmark-path" d="M1.73,12.91 8.1,19.28 22.79,4.59" fill="none"></path>
+</svg>
+<div class="mdc-checkbox__mixedmark"></div>
+</div>
+<div class="mdc-checkbox__ripple"></div>
+</div>
+<label class="option" for="edit-product-3">Moderna</label>
+</div>
+</div>
+<div class="form-item form-type-checkbox form-item-product-2">
+<div>
+<div class="mdc-checkbox">
+<input checked="checked" class="form-checkbox mdc-checkbox__native-control" data-drupal-selector="edit-product-2" id="edit-product-2" name="product[2]" type="checkbox" value="2"/>
+<div class="mdc-checkbox__background">
+<svg class="mdc-checkbox__checkmark" viewbox="0 0 24 24">
+<path class="mdc-checkbox__checkmark-path" d="M1.73,12.91 8.1,19.28 22.79,4.59" fill="none"></path>
+</svg>
+<div class="mdc-checkbox__mixedmark"></div>
+</div>
+<div class="mdc-checkbox__ripple"></div>
+</div>
+<label class="option" for="edit-product-2">Pfizer</label>
+</div>
+</div>
+<div class="form-item form-type-checkbox form-item-product-4">
+<div>
+<div class="mdc-checkbox">
+<input checked="checked" class="form-checkbox mdc-checkbox__native-control" data-drupal-selector="edit-product-4" id="edit-product-4" name="product[4]" type="checkbox" value="4"/>
+<div class="mdc-checkbox__background">
+<svg class="mdc-checkbox__checkmark" viewbox="0 0 24 24">
+<path class="mdc-checkbox__checkmark-path" d="M1.73,12.91 8.1,19.28 22.79,4.59" fill="none"></path>
+</svg>
+<div class="mdc-checkbox__mixedmark"></div>
+</div>
+<div class="mdc-checkbox__ripple"></div>
+</div>
+<label class="option" for="edit-product-4">Unspecified</label>
+</div>
+</div>
+</div>
+<div class="form-item form-type-select form-item-category">
+<div class="mdc-select mdc-select--outlined">
+<div class="mdc-select__anchor">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label">Category</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<span class="mdc-select__selected-text-container">
+<span class="mdc-select__selected-text"></span>
+</span>
+<span class="mdc-select__dropdown-icon">
+<svg class="mdc-select__dropdown-icon-graphic" focusable="false" viewbox="7 10 10 5">
+<polygon class="mdc-select__dropdown-icon-inactive" fill-rule="evenodd" points="7 10 12 15 17 10" stroke="none"></polygon>
+<polygon class="mdc-select__dropdown-icon-active" fill-rule="evenodd" points="7 15 12 10 17 15" stroke="none"></polygon>
+</svg>
+</span>
+</div>
+<input class="form-select" data-drupal-selector="edit-category" id="edit-category" name="category" type="hidden"/><div class="mdc-select__menu mdc-menu mdc-menu-surface"><ul class="mdc-list"><li aria-selected="true" class="mdc-list-item mdc-list-item--selected" data-value="All"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">- Any -</span></li><li class="mdc-list-item" data-value="83"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Blood disorders</span></li><li class="mdc-list-item" data-value="111"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Cardiac disorders</span></li><li class="mdc-list-item" data-value="2207"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Congenital disorders</span></li><li class="mdc-list-item" data-value="133"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Ear disorders</span></li><li class="mdc-list-item" data-value="2351"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Endocrine disorders</span></li><li class="mdc-list-item" data-value="157"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Eye disorders</span></li><li class="mdc-list-item" data-value="217"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Gastrointestinal disorders</span></li><li class="mdc-list-item" data-value="313"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">General disorders</span></li><li class="mdc-list-item" data-value="447"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Hepatic disorders</span></li><li class="mdc-list-item" data-value="457"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Immune system disorders</span></li><li class="mdc-list-item" data-value="477"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Infections</span></li><li class="mdc-list-item" data-value="541"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Injuries</span></li><li class="mdc-list-item" data-value="589"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Investigations</span></li><li class="mdc-list-item" data-value="657"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Metabolic disorders</span></li><li class="mdc-list-item" data-value="677"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Muscle &amp; tissue disorders</span></li><li class="mdc-list-item" data-value="1624"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Neoplasms</span></li><li class="mdc-list-item" data-value="751"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Nervous system disorders</span></li><li class="mdc-list-item" data-value="6031"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Pregnancy conditions</span></li><li class="mdc-list-item" data-value="901"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Psychiatric disorders</span></li><li class="mdc-list-item" data-value="965"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Renal &amp; urinary disorders</span></li><li class="mdc-list-item" data-value="995"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Reproductive &amp; breast disorders</span></li><li class="mdc-list-item" data-value="1021"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Respiratory disorders</span></li><li class="mdc-list-item" data-value="1069"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Skin disorders</span></li><li class="mdc-list-item" data-value="1149"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Social circumstances</span></li><li class="mdc-list-item" data-value="1155"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Surgical &amp; medical procedures</span></li><li class="mdc-list-item" data-value="895"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Uncategorised</span></li><li class="mdc-list-item" data-value="1165"><span class="mdc-list-item__ripple"></span><span class="mdc-list-item__text">Vascular disorders</span></li></ul></div>
+</div>
+</div>
+<div class="form-item form-type-textfield form-item-name">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Reaction name</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-name" id="edit-name" maxlength="128" name="name" placeholder="eg: blood" size="30" type="text" value="">
+</input></label>
+<div class="mdc-text-field-helper-line">
+<div aria-hidden="true" class="mdc-text-field-helper-text mdc-text-field-helper-text--persistent">
+Contains any word
+</div>
+</div>
+</div>
+<div class="form-item form-type-textfield form-item-no-reactions">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">No. Reactions</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-no-reactions" id="edit-no-reactions" maxlength="128" name="no_reactions" size="30" type="text" value=""/>
+</label>
+<div class="mdc-text-field-helper-line">
+<div aria-hidden="true" class="mdc-text-field-helper-text mdc-text-field-helper-text--persistent">
+Greater than or equal to
+</div>
+</div>
+</div>
+<div class="form-item form-type-textfield form-item-no-fatalities">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">No. Fatalities</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-no-fatalities" id="edit-no-fatalities" maxlength="128" name="no_fatalities" size="30" type="text" value=""/>
+</label>
+<div class="mdc-text-field-helper-line">
+<div aria-hidden="true" class="mdc-text-field-helper-text mdc-text-field-helper-text--persistent">
+Greater than or equal to
+</div>
+</div>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"> <input class="button js-form-submit form-submit mdc-button mdc-button--unelevated" data-drupal-selector="edit-submit-yellow-card-data" id="edit-submit-yellow-card-data" type="submit" value="Show results"/>
+</div>
+</div>
+</form>
+</div>
+<div class="view-empty">
+<p>Optionally select any filter above and then click on <strong>SHOW RESULTS</strong>.</p>
+</div>
+<a class="source-data" href="https://www.gov.uk/government/publications/coronavirus-covid-19-vaccine-adverse-reactions/coronavirus-vaccine-summary-of-yellow-card-reporting#annex-1-vaccine-analysis-profile" target="_blank">Source data</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="layout-footer" role="contentinfo">
+<div class="region region-footer">
+<div class="inner">
+<div class="block block-simple-block block-simple-blockfooter" id="block-ukcolumn">
+<div class="inner">
+<div class="block-title">UK Column</div>
+<p>The UK Column is an independent multimedia news website <a href="https://www.ukcolumn.org/community">supported by its members</a>.</p>
+</div>
+</div>
+<div class="block block-simple-block block-simple-blockcopyright" id="block-copyright">
+<div class="inner">
+<p>© 2006-2020 UK Column. For <a href="https://www.ukcolumn.org/user/login">permission</a> to use any content on this website please <a href="https://www.ukcolumn.org/contact">contact us</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"yellow-card-reports","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"classy\/base,classy\/messages,core\/normalize,system\/base,ukc_theme\/fonts,ukc_theme\/global-styling,views\/views.ajax,views\/views.module","theme":"ukc_theme","theme_token":null},"ajaxTrustedUrl":{"\/yellow-card-reports":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:38cb69a79fabfc904a2b42a3228f6e2444f22e361cace9cb8ce71a497a9e627d":{"view_name":"yellow_card_data","view_display_id":"page_2","view_args":"","view_path":"\/yellow-card-reports","view_base_path":"yellow-card-reports","view_dom_id":"38cb69a79fabfc904a2b42a3228f6e2444f22e361cace9cb8ce71a497a9e627d","pager_element":0}}},"user":{"uid":0,"permissionsHash":"23ef53f6717c51737e02526cfeea8e97c2135cb4d44c9baf2701bc7766640daa"}}</script>
+<script src="/sites/default/files/js/js_QIokN613w29lSb174BTXahp2HUkoP_R-Wauufoz9y8c.js"></script>
+</body>
+</html>

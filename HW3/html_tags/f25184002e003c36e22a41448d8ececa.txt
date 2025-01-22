@@ -1,0 +1,646 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of "Positive Cases" are Meaningless. The Lockdown Has No Scientific Basis - Global ResearchGlobal Research - Centre for Research on Globalization</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="index,noarchive,follow,noodp" name="googlebot"/>
+<meta content="all,index,follow" name="robots"/>
+<meta content="all,index,follow" name="msnbot"/>
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/all.css?t=005" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/style.css?t=001" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/favicon2.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959" rel="canonical">
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content='The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of "Positive Cases" are Meaningless. The Lockdown Has No Scientific Basis - Global Research' property="og:title"/>
+<meta content="One year later the WHO retracts. They don't say &quot;We Made a Mistake&quot;. It's carefully formulated.  While they do not officially deny the validity of their misleading January 2020 guidelines, they recommend RT-PCR &quot;Re-testing&quot; (which everybody knows is an impossibility)." property="og:description"/>
+<meta content="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959" property="og:url"/>
+<meta content="Global Research" property="og:site_name"/>
+<meta content="COVID-19" property="article:tag"/>
+<meta content="fullpage" property="article:tag"/>
+<meta content="NAT" property="article:tag"/>
+<meta content="PCR Test" property="article:tag"/>
+<meta content="WHO" property="article:tag"/>
+<meta content="English" property="article:section"/>
+<meta content="2022-03-13T12:01:48+00:00" property="article:published_time"/>
+<meta content="2022-03-14T15:36:44+00:00" property="article:modified_time"/>
+<meta content="2022-03-14T15:36:44+00:00" property="og:updated_time"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2020/11/RT-PCR-préparation.jpg" property="og:image"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2020/11/RT-PCR-préparation.jpg" property="og:image:secure_url"/>
+<meta content="1024" property="og:image:width"/>
+<meta content="683" property="og:image:height"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="One year later the WHO retracts. They don't say &quot;We Made a Mistake&quot;. It's carefully formulated.  While they do not officially deny the validity of their misleading January 2020 guidelines, they recommend RT-PCR &quot;Re-testing&quot; (which everybody knows is an impossibility)." name="twitter:description"/>
+<meta content='The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of "Positive Cases" are Meaningless. The Lockdown Has No Scientific Basis - Global Research' name="twitter:title"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2020/11/RT-PCR-préparation.jpg" name="twitter:image"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//maxcdn.bootstrapcdn.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.globalresearch.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.25"}};
+			!function(t,a,e){var r,n,i,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(i=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},n=0;n<i.length;n++)e.supports[i[n]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),o.toDataURL().length<3e3)?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,65039,8205,55356,57096),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,55356,57096),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55357,56425,55356,57341,8205,55357,56507),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55357,56425,55356,57341,55357,56507),0,0),e!==o.toDataURL()}return!1}(i[n]),e.supports.everything=e.supports.everything&&e.supports[i[n]],"flag"!==i[n]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[i[n]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://www.globalresearch.ca/wp-content/plugins/gtranslate/gtranslate-style24.css?ver=4.7.25" id="gtranslate-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/share-this/css/style.css?ver=4.7.25" id="st-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.globalresearch.ca/wp-content/uploads/pum/pum-site-styles.css?generated=1598646263&amp;ver=1.7.30" id="popup-maker-site-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/dk-pdf/assets/css/frontend.css?ver=1.9.6" id="dkpdf-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=5.1" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/simple-pagination/css/default.css?ver=2.1.7" id="simple-pagination-css-css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script src="https://www.globalresearch.ca/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408" type="text/javascript"></script>
+<link href="https://www.globalresearch.ca/wp-json/" rel="https://api.w.org/"/>
+<link href="https://www.globalresearch.ca/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://www.globalresearch.ca/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="https://wp.me/p2vCQD-o5dZ" rel="shortlink"/>
+<link href="https://www.globalresearch.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.globalresearch.ca%2Fnucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2%2F5739959" rel="alternate" type="application/json+oembed"/>
+<link href="https://www.globalresearch.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.globalresearch.ca%2Fnucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2%2F5739959&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" src="https://ws.sharethis.com/button/buttons.js" type="text/javascript"></script><script type="text/javascript">stLight.options({publisher:'wp.9bffc2a3-d7c6-4a77-b502-4dabc8559ee3'});var st_type='wordpress3.4.1';</script><style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09F}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style>
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<style>
+			.algolia-search-highlight {
+				background-color: #fffbcc;
+				border-radius: 2px;
+				font-style: normal;
+			}
+		</style>
+<link href="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959/amp" rel="amphtml"><link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon-32x32.png" rel="icon" sizes="32x32"/>
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" rel="icon" sizes="192x192"/>
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" rel="apple-touch-icon-precomposed"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" name="msapplication-TileImage"/>
+<style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(51,102,153,.88);}</style>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/jquery.main.js" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/gr.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9062277-1']);
+  _gaq.push(['_setDomainName', 'globalresearch.ca']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:95869,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<link href="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959" rel="canonical"/>
+<meta content="5739959" itemprop="identifier"/>
+<meta content="article" itemprop="pageType"/>
+<meta content="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959" itemprop="url"/>
+<meta content="13 March 2022" itemprop="datePublished"/>
+<meta content="14 March 2022" itemprop="dateModified"/>
+<meta content="Prof Michel Chossudovsky" itemprop="author"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2020/11/RT-PCR-préparation.jpg" itemprop="thumbnailUrl"/>
+<meta content="en" itemprop="inLanguage"/>
+<!-- -->
+</link></link></head>
+<body>
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="grtopbar notranslate">
+<div class="grtopnav">
+<div class="grtoplinksleft">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav-top"><li class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5302078" id="menu-item-5302078"><a href="https://www.globalresearch.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302079" id="menu-item-5302079"><a href="https://www.globalresearch.ca/about-2">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302080" id="menu-item-5302080"><a href="https://www.globalresearch.ca/contact-2">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302082" id="menu-item-5302082"><a href="https://store.globalresearch.ca/member/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302083" id="menu-item-5302083"><a href="https://store.globalresearch.ca/">Store</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5449212" id="menu-item-5449212"><a href="https://store.globalresearch.ca/donate/">Donate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5629561" id="menu-item-5629561"><a href="https://www.globalresearch.ca/archives">Archives</a></li>
+</ul></div><div></div></div> </div>
+<div class="grtoplinksright">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav-top"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586040" id="menu-item-5586040"><a href="https://www.globalresearch.ca/region/usa">USA</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586034" id="menu-item-5586034"><a href="https://www.globalresearch.ca/region/canada">Canada</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586036" id="menu-item-5586036"><a href="https://www.globalresearch.ca/region/latin-america-caribbean">Latin America</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586039" id="menu-item-5586039"><a href="https://www.globalresearch.ca/region/sub-saharan-africa">Africa</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586037" id="menu-item-5586037"><a href="https://www.globalresearch.ca/region/middle-east">Middle East</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586035" id="menu-item-5586035"><a href="https://www.globalresearch.ca/region/europe">Europe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586041" id="menu-item-5586041"><a href="https://www.globalresearch.ca/region/russia-and-fsu">Russia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586033" id="menu-item-5586033"><a href="https://www.globalresearch.ca/region/asia">Asia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586038" id="menu-item-5586038"><a href="https://www.globalresearch.ca/region/oceania">Oceania</a></li>
+</ul></div><div></div></div>
+</div>
+</div>
+</div>
+<div id="wrapper">
+<div class="w1">
+<div class="w2">
+<div class="language-holder notranslate" style="text-align: right;width: 260px;">
+<div id="languages">
+<ul>
+<li><a href="https://www.globalresearch.ca/category/italiano/">Italiano</a></li>
+<li><a href="https://www.globalresearch.ca/category/deutsch/">Deutsch</a></li>
+<li><a href="https://www.globalresearch.ca/category/portugues/">Português</a></li>
+<li><a href="https://www.globalresearch.ca/category/srpski/">srpski</a></li>
+<li><a href="https://www.globalresearch.ca/category/arabic">العربية</a></li>
+<li style="margin-right:0"><a href="https://www.globalresearch.ca/category/chinese">中文</a></li>
+</ul>
+<p>Notre site en Français: <a href="https://www.mondialisation.ca/" title="Centre de reserche sur la mondialisation">mondialisation.ca</a></p>
+Nuestro sitio en español: <a href="https://www.globalizacion.ca" target="_blank" title="Globalizacion">Globalizacion</a>
+<br/>
+<a href="https://asia-pacificresearch.com" target="_blank" title="Asia-Pacific Research">Asia-Pacific Research</a>
+</div>
+</div>
+<div class="notranslate" id="header">
+<h1 class="logo_en"><a href="https://www.globalresearch.ca" title="Global Research">Global Research</a></h1>
+<div class="headerright">
+<div class="authorsearch">
+<form action="/authors">
+<input name="query" onblur="if (this.value == '') { this.value='Search Authors...';} " onfocus=" if (this.value == 'Search Authors...') { this.value = ''; }" type="text" value="Search Authors..."/>
+<input id="searchsubmit" src="https://www.globalresearch.ca/images/search-icon.jpg" type="image" value="Search"/>
+</form>
+</div>
+<div class="translatebox" id="translatebox" style="float:left;margin-top:-35px;margin-left:206px;width:175px">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</div>
+<div class="searchbox">
+<form action="https://www.globalresearch.ca">
+<input name="s" onblur="if (this.value == '') { this.value='Search...';} " onfocus=" if (this.value == 'Search...') { this.value = ''; }" type="text" value="Search..."/>
+<input id="searchsubmit" src="https://www.globalresearch.ca/images/search-icon.jpg" type="image" value="Search">
+</input></form>
+</div>
+<div class="newsletter">
+<form action="https://lp.constantcontactpages.com/su/IJiNQuW" id="NLform" method="get" name="ccoptin">
+<input class="emailinput" id="mce-EMAIL" name="EMAIL" onblur="if(this.value=='')this.value='GR Newsletter, Enter Email'" onfocus="if(this.value=='GR Newsletter, Enter Email')this.value=''" type="text" value="GR Newsletter, Enter Email"/>
+<input name="go" src="//www.globalresearch.ca/images/submit-icon.jpg" type="image" value="GO">
+</input></form>
+</div>
+<div class="social-networks">
+<ul>
+<li class="grtv"><a href="http://tv.globalresearch.ca/" target="_blank" title="Global Research TV">grtv</a></li>
+<li class="youtube"><a href="https://www.youtube.com/globalresearchtv" target="_blank" title="Global Research YouTube Channel">youtube</a></li>
+<li class="twitter"><a href="https://twitter.com/CRG_CRM" target="_blank" title="Follow Global Research on Twitter">twitter</a></li>
+<li class="facebook"><a href="https://www.facebook.com/GlobalResearchCRG" target="_blank" title="Connect on Facebook">facebook</a></li>
+<li class="rss"><a href="https://www.globalresearch.ca/feed" title="">rss</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+<div class="notranslate" id="grnavbar">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586043" id="menu-item-5586043"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US Nato War</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586044" id="menu-item-5586044"><a href="https://www.globalresearch.ca/theme/global-economy">Economy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586046" id="menu-item-5586046"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Civil Rights</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586047" id="menu-item-5586047"><a href="https://www.globalresearch.ca/theme/environment">Environment</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586048" id="menu-item-5586048"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586049" id="menu-item-5586049"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586050" id="menu-item-5586050"><a href="https://www.globalresearch.ca/theme/law-and-justice">Justice</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586051" id="menu-item-5586051"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">9/11</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586052" id="menu-item-5586052"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">War Crimes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586053" id="menu-item-5586053"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586054" id="menu-item-5586054"><a href="https://www.globalresearch.ca/theme/culture-society-history">History</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586055" id="menu-item-5586055"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science</a></li>
+</ul></div><div></div></div>
+</div>
+<div class="main-t"></div>
+<div class="main-c">
+<div class="main-content">
+<div id="content" style="width:100%;background:white;">
+<div id="singleArticle">
+<div class="post" id="post-5739959">
+<div class="title">
+<h2 itemprop="headline">The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis</h2>
+<div class="meta">
+<div class="post-info">
+<div class="author">By <a href="https://www.globalresearch.ca/author/michel-chossudovsky" title="Posts by Prof Michel Chossudovsky">Prof Michel Chossudovsky</a></div>
+<div class="grDate">Global Research, March 13, 2022</div>
+</div>
+<div class="catAndTag">
+<div class="cats">Theme: <a href="https://www.globalresearch.ca/theme/science-and-medicine" rel="tag">Science and Medicine</a></div>
+</div>
+</div>
+<div class="sharethis">
+<div class="sharethisleft">
+<span style="float:left"><span class="fontSize" style="float:left"><a href="#" id="toggleFont"></a></span> <p id="print-page-link" style="margin: 10px 0px;"><a href="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959?print=1" id="print-link" rel="nofollow"><img src="https://www.globalresearch.ca/wp-content/plugins/print-me/images/printme.png" style="width: 25px;height: 25px;" title="print"/></a></p></span> <span> <a href="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959?pdf=5739959" target="_blank"> <img src="/wp-content/uploads/2021/05/pdf01.png" style="height:23px;width:20px;margin-top:3px;margin-left:7px;"/> </a> </span> <span style="float:right;margin-left:10px;width:130px;">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</span>
+</div>
+<div class="sharethisright" style="display:flex;overflow:clip;max-height:25px;align-items:center;">
+<span class="st_facebook_hcount" displaytext="facebook" st_title="The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis" st_url="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959"></span>
+<span class="st_fblike_hcount" displaytext="fblike" st_title="The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis" st_url="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959" style="height:26px"></span>
+<span class="st_twitter_hcount" displaytext="twitter" st_title="The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis" st_url="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959" st_username="grtvnews" st_via="grtvnews"></span>
+<span class="st_email_hcount" displaytext="email" st_title="The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis" st_url="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959"></span>
+<span class="st_plusone_hcount" displaytext="plusone" st_title="The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis" st_url="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959" style="width:1px; display: inline-block"></span>
+<span class="st_sharethis_hcount" displaytext="sharethis" st_title="The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis" st_url="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959"></span>
+</div>
+</div>
+</div>
+<div class="content" itemprop="articleBody">
+<div class="postThumbnail">
+<img alt="" class="attachment-single-post-thumbnail size-single-post-thumbnail wp-post-image" height="267" sizes="(max-width: 400px) 100vw, 400px" src="https://www.globalresearch.ca/wp-content/uploads/2020/11/RT-PCR-préparation-400x267.jpg" srcset="https://www.globalresearch.ca/wp-content/uploads/2020/11/RT-PCR-préparation-400x267.jpg 400w, https://www.globalresearch.ca/wp-content/uploads/2020/11/RT-PCR-préparation-300x200.jpg 300w, https://www.globalresearch.ca/wp-content/uploads/2020/11/RT-PCR-préparation-768x512.jpg 768w, https://www.globalresearch.ca/wp-content/uploads/2020/11/RT-PCR-préparation.jpg 1024w, https://www.globalresearch.ca/wp-content/uploads/2020/11/RT-PCR-préparation-120x80.jpg 120w" width="400">
+</img></div>
+<p>All Global Research articles can be read in<strong> 51 languages</strong> by activating the <strong>“Translate Website”</strong> drop down menu on the top banner of our home page (Desktop version).<span class="Apple-converted-space"> </span></p>
+<p>Visit and follow us on Instagram at <a href="https://www.instagram.com/crg_globalresearch/">@crg_globalresearch.</a></p>
+<p>***</p>
+<p> </p>
+<p>.</p>
+<h2><strong>Author’s Note and Update</strong></h2>
+<p><i>The World has been in a state of crisis for more than two years despite the fact that the WHO and the CDC (with the usual innuendos) have unequivocally confirmed that </i><strong style="font-style: italic;">the RT-PCR test used to justify every single policy mandate including lockdowns, social distancing, the mask, confinement of the labor force, closure of economic activity, etc. is flawed and invalid.  </strong></p>
+<p><em>This article was first published on March 21, 2021 focussing on the WHO’s Mea Culpa dated January 20, 2021. </em></p>
+<p><em>The WHO advisory was then </em><em>followed a few months later by the bombshell decision of <a href="https://www.cdc.gov/csels/dls/locs/2021/07-21-2021-lab-alert-Changes_CDC_RT-PCR_SARS-CoV-2_Testing_1.html">the Centers for Disease Control and Prevention (CDC)  </a>(July 21, 2021) t<strong>o withdraw the</strong> <strong>PCR test as a valid method for detecting and identifying SARS-CoV-2.  </strong></em></p>
+<p><em><strong>As of December, 31 2021, the PCR test is longer considered valid by the CDC in the U.S. </strong></em></p>
+<p><i></i><i>For more details see</i></p>
+<div class="alignleft"><a href="https://www.globalresearch.ca/bombshell-cdc-no-longer-recognizes-the-pcr-test-as-a-valid-method-for-detecting-confirmed-covid-19-cases/5765179"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image alignleft" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2021/12/Screen-Shot-2021-12-22-at-09.41.58-51x46.png" width="51"/></a></div>
+<p><strong class="title"><a href="https://www.globalresearch.ca/bombshell-cdc-no-longer-recognizes-the-pcr-test-as-a-valid-method-for-detecting-confirmed-covid-19-cases/5765179">Bombshell: CDC No Longer Recognizes the PCR Test As a Valid Method for Detecting “Confirmed Covid-19 Cases”?</a></strong></p>
+<p><em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/michel-chossudovsky" title="Posts by Prof Michel Chossudovsky">Prof Michel Chossudovsky</a></span>, December 29, 2021</em></p>
+<p>What this implies is that<strong> both the CDC and the WHO have formally acknowledged the failures of the RT-PCR test,</strong> without however implementing a shift in the methodology of  detecting and identifying SARS-CoV-2.</p>
+<h2>The Mainstream Media Now Reluctantly Acknowledges that the PCR  Test is Flawed</h2>
+<p><i></i>After having sustained the propaganda campaign, the mainstream media has now tacitly acknowledged that the <strong>PCR TEST IS INVALID</strong>.</p>
+<p>Below is an excerpt from <a href="https://www.dailymail.co.uk/health/article-10606107/Did-flawed-tests-convince-Covid-worse-really-was.html">London’s Daily Mail</a> on something <strong>which has been known and documented by scientists and the independent media from the outset of the corona crisis in January 2020. </strong>The report is a convoluted. It is an obvious understatement:</p>
+<p style="padding-left: 30px;">“Did flawed PCR tests convince us Covid was worse than it really was?  …</p>
+<p style="padding-left: 30px;"><strong>It has been one of the most enduring Covid conspiracy theories</strong>: that the ‘<strong>gold standard’ PCR tests used to diagnose the virus</strong> were picking up people who weren’t actually infected.</p>
+<p class="mol-para-with-font" style="padding-left: 30px;">Some even suggested the swabs, which have been carried out more than 200 million times in the UK alone, may mistake common colds and flu for corona.</p>
+<p class="mol-para-with-font" style="padding-left: 30px;">If either, or both, were true, it would mean many of these cases should never have been counted in the daily tally – that the ominous and all-too-familiar figure, <strong>which was used to inform decisions on lockdowns and other pandemic measures</strong>, was an over-count. (<a href="https://www.dailymail.co.uk/health/article-10606107/Did-flawed-tests-convince-Covid-worse-really-was.html">Daily Mail,</a> March 12, 2022, emphasis added)</p>
+<p>It is carefully worded with a view to protecting the decision-makers.</p>
+<h2><strong>The PCR Test is the Smoking Gun. There is No Pandemic</strong></h2>
+<p>We are not dealing with<strong> mistakes</strong> as suggested by the above media report.</p>
+<p><strong>If the PCR test is invalid and meaningless, this means that there is no such thing as a “Covid-19 Confirmed Case”</strong></p>
+<p>The results of the PCR test routinely tabulated by WHO have been used to justify the lockdown policies imposed on more than 190 member states of the United Nations.</p>
+<p>Economic and social chaos has been triggered Worldwide, and these actions adopted by corrupt governments in the course of the last two years are of  criminal nature. They are not mistakes.</p>
+<p><strong>And if there is no Pandemic, there is no need for a vaccine. </strong></p>
+<p><strong>The Covid-19 mRNA “Vaccine” is the BIGGEST FRAUD IN MEDICAL HISTORY</strong></p>
+<p> </p>
+<p><strong>Michel Chossudovsky, </strong>Global Research, March 13, 2022</p>
+<p>For further details see my E-Book (14 Chapters) entitled:</p>
+<div class="alignleft"><a href="https://www.globalresearch.ca/the-2020-worldwide-corona-crisis-destroying-civil-society-engineered-economic-depression-global-coup-detat-and-the-great-reset/5730652"><img alt="" class="attachment-featured_thumbnail size-featured_thumbnail wp-post-image alignleft" height="46" src="https://www.globalresearch.ca/wp-content/uploads/2022/01/covid-ebook-cover-ad-large-51x46.jpg" width="51"/></a></div>
+<p><strong class="title"><a href="https://www.globalresearch.ca/the-2020-worldwide-corona-crisis-destroying-civil-society-engineered-economic-depression-global-coup-detat-and-the-great-reset/5730652">The 2020-22 Worldwide Corona Crisis: Destroying Civil Society, Engineered Economic Depression, Global Coup d’État and the “Great Reset”</a></strong></p>
+<p><em class="date">By <span class="author"><a href="https://www.globalresearch.ca/author/michel-chossudovsky" title="Posts by Prof Michel Chossudovsky">Prof Michel Chossudovsky</a></span></em></p>
+<p> </p>
+<p>***</p>
+<p><em>Nobel Prize Laureate </em><i><strong>Kary B. Mullis</strong> was the inventor of  the </i><strong><em>polymerase chain reaction technique, </em></strong><em>which is analyzed in this article.</em></p>
+<p><em><strong>Dr. Kary B. Mullis</strong>, who passed away on August 7, 2019 at age 74, stated emphatically that <a href="https://www.globalresearch.ca/kary-b-mullis-no-infection-illness-can-accurately-diagnosed-pcr/5757224">no infection or illness can be accurately diagnosed with the RT-PCR.</a></em></p>
+<p style="padding-left: 30px;"><em>“PCR is a Process. It does not tell you that you are sick.  … </em><em>The measurement is not accurate”. </em></p>
+<p><em>Mullis described the PCR-RT as a “technique” rather than “a test”.  </em></p>
+<p><em>It is a useful technique which allows for “rapid amplification of a small stretch of DNA”.  </em></p>
+<p> </p>
+<h2><strong>Introduction</strong></h2>
+<p><i>There is a sequence of outright lies and fabrications used to justify far-reaching policy decisions in the course of the last 20 months. </i></p>
+<p><i>The biggest lie, which is firmly acknowledged both by scientific opinion and the WHO is that the <strong>RT-PCR test used to “detect” the spread of the virus (as well as the variants) is not only flawed but TOTALLY INVALID. </strong></i></p>
+<p><i>From the outset in January 2020, all far-reaching policy decisions upheld and presented to the public as a “means to saving lives” were based on  flawed and invalid RT-PCR case positives. </i></p>
+<p><i>These invalid Covid-19 “estimates” have been used to justify confinement, social distancing, the face mask, the prohibition of social gatherings, cultural and sports events, the closure of economic activity, as well as the mRNA “vaccine” launched in November 202o. </i></p>
+<h2><strong>The RT-PCR Test</strong></h2>
+<p style="text-align: left;"><strong><i>The Real Time Reverse Transcription Polymerase Chain Reaction (rRT-PCR)</i></strong><i> test was adopted by the WHO on January 23, 2020 as a means to detecting the  SARS-COV-2 virus, following the recommendations of  a Virology research group (based at </i><em>Charité University Hospital, Berlin), </em><i>supported by the<a href="https://www.gatesfoundation.org/about/committed-grants/2021/03/17/00/20/inv005971"> Bill and Melinda Gates Foundation.</a> (For Further details see the <a href="https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000045">Drosten Study</a>)</i></p>
+<p class="image-wrap fff-pic"><em>Exactly one year later on January 20th, 2021, the WHO retracts. They don’t say “We Made a Mistake”. </em><i>The retraction is carefully formulated. (See<a href="https://www.who.int/news/item/20-01-2021-who-information-notice-for-ivd-users-2020-05"> original WHO document here</a> as well as in Annex)</i></p>
+<p class="image-wrap fff-pic"><i>While the WHO does not deny the validity of their misleading January 2020 guidelines, they nonetheless recommend “<strong>R</strong></i><i><strong>e-testing”</strong> (which everybody knows is an impossibility).</i></p>
+<p class="image-wrap fff-pic">The contentious issue pertains to the number of amplification threshold cycles (Ct). According to Pieter Borger, et al</p>
+<p style="padding-left: 30px;">The number of amplification cycles [should be] less than 35; preferably 25-30 cycles. In case of <strong>virus detection, &gt;35 cycles</strong> only detects signals which do not correlate with infectious virus as determined by isolation in cell culture…<a href="https://cormandrostenreview.com/report/">(Critique of Drosten Study</a>)</p>
+<p class="image-wrap fff-pic"><i></i>The World Health Organization (WHO) tacitly admits one year later that ALL PCR tests conducted at a 35 cycle amplification threshold (Ct) or higher are INVALID. But that is what they recommended in January 2020, in consultation with the virology team at Charité Hospital in Berlin.</p>
+<p class="image-wrap fff-pic">If the test is conducted at a 35 Ct threshold or above (which was recommended by the WHO), genetic segments of the SARS-CoV-2 virus cannot be detected, which means that <strong>ALL the so-called confirmed “positive cases” </strong><strong>tabulated in the course of the last 18 months are invalid. </strong></p>
+<p class="image-wrap fff-pic">According to<strong> </strong><a href="https://cormandrostenreview.com/report/">Pieter Borger, Bobby Rajesh Malhotra, Michael Yeadon, et al, </a>the Ct &gt; 35 has been the norm “in most laboratories in Europe &amp; the US”.</p>
+<h2 class="image-wrap fff-pic"><strong>The WHO’s Mea Culpa</strong></h2>
+<p class="image-wrap fff-pic">Below is the WHO’s carefully formulated “Retraction”. The full text with link to the original document is in annex:</p>
+<p style="padding-left: 30px;">WHO guidance <a href="https://www.who.int/publications-detail-redirect/diagnostic-testing-for-sars-cov-2" rel="noopener noreferrer" target="_blank">Diagnostic testing for SARS-CoV-2</a> states that <strong>careful interpretation of weak positive</strong> results is needed (<em>1</em>). <strong>The cycle threshold (Ct)</strong> needed to detect virus is inversely proportional to the patient’s viral load. Where test results do not correspond with the clinical presentation, <strong>a new specimen should be taken and retested</strong> using the same or different NAT technology. (emphasis added)</p>
+<p style="padding-left: 30px;">WHO reminds IVD users that disease prevalence alters the predictive value of test results; as disease prevalence decreases, <strong>the risk of false positive increases</strong> (<em>2</em>). This means that the probability that a person who has a positive result (SARS-CoV-2 detected) is truly infected with SARS-CoV-2 decreases as prevalence decreases, irrespective of the claimed specificity.</p>
+<h2><strong>“Invalid Positives” is the Underlying Concept </strong></h2>
+<p>This is not an issue of  <strong>“Weak Positives”</strong> and<strong> “Risk of False Positive Increases”. </strong>What is at stake is a “Flawed Methodology” which leads<strong> to invalid estimates.</strong></p>
+<p>What this admission of the WHO confirms is that <strong>the estimate of covid positive from a PCR test </strong>(with an amplification threshold of 35 cycles or higher) is <strong>invalid</strong>. In which case, the WHO recommends retesting:  <strong>“a new specimen should be taken and retested…”.</strong></p>
+<p>The WHO calls for <strong>“Retesting”</strong>, which is tantamount to <strong>“We Screwed Up”.</strong></p>
+<p>That recommendation is pro-forma. It won’t happen. Millions of people Worldwide have already been tested, starting in early February 2020. Nonetheless,<strong> </strong>we must conclude that unless retested,<strong> those estimates (according to the WHO) are invalid.  </strong></p>
+<p> </p>
+<hr/>
+<p>I should mention that there are several other related flaws regarding the PCR test which are not addressed in this article. (See Michel Chossudovsky’s <a href="https://www.globalresearch.ca/the-2020-worldwide-corona-crisis-destroying-civil-society-engineered-economic-depression-global-coup-detat-and-the-great-reset/5730652">E-book</a>:  <strong><a href="https://www.globalresearch.ca/the-2020-worldwide-corona-crisis-destroying-civil-society-engineered-economic-depression-global-coup-detat-and-the-great-reset/5730652">The 2020 Worldwide Corona Crisis: Destroying Civil Society, Engineered Economic Depression, Global Coup d’État and the “Great Reset”</a>  </strong>(Chapter III)</p>
+<hr/>
+<p>From the outset, the PCR test has routinely been applied at a Ct amplification threshold of 35 or higher, following the January 2020 recommendations of the WHO. What this means is that the PCR methodology as applied Worldwide has in the course of  the last 12-14 months led to the compilation of faulty and misleading Covid statistics.</p>
+<p>And these are the statistics which are used to measure the progression of the so-called “pandemic”. Above an amplification cycle of 35 or higher, the test will not detect fragments of the virus<strong>. </strong>Therefore,<strong>  the official “covid numbers” are meaningless.</strong></p>
+<p>It follows that there is no scientific basis for confirming the existence of a pandemic.</p>
+<p>Which in turn means that the lockdown / economic measures which have resulted in social panic, mass poverty and unemployment (allegedly to curtail the spread of the virus) have no justification whatsoever.</p>
+<p>According to scientific opinion:</p>
+<p style="padding-left: 30px;">“if someone is tested by PCR as positive <strong>when a threshold of 35 cycles or higher is used</strong> (as is the case in most laboratories in Europe &amp; the US),<strong> the probability that said person is actually infected is less than 3%</strong>,<strong> the probability that said result is a false positive is 97%  </strong><a href="https://cormandrostenreview.com/report/">(Pieter Borger, Bobby Rajesh Malhotra, Michael Yeadon, Clare Craig, Kevin McKernan, et al, Critique of Drosten Study</a>)</p>
+<p><a href="https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-14.33.42.png"><img alt="" class="wp-image-5740064 aligncenter" height="187" sizes="(max-width: 661px) 100vw, 661px" src="https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-14.33.42.png" srcset="https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-14.33.42.png 1644w, https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-14.33.42-300x85.png 300w, https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-14.33.42-768x218.png 768w, https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-14.33.42-1024x290.png 1024w, https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-14.33.42-400x113.png 400w" width="661"/></a></p>
+<p>As outlined above, “the probability that said result is a false positive is 97%”: It follows that using  the &gt;35 cycles detection will indelibly  contribute to “hiking up” the number of “fake positives”.</p>
+<p>At the time of writing (mid-March 2021), despite the WHO retraction, the PCR test is being used extensively to hike up the numbers with a view to sustaining the fear campaign, justifying the ongoing lockdown policies as well as the implementation of the Covid vaccine.</p>
+<p>Ironically, the flawed numbers based on <strong>“invalid positives”</strong> are in turn being manipulated to ensure an upward trend in so-called “Confirmed Covid -19 Cases”.</p>
+<p>Moreover, those PCR tests are not routinely accompanied by a medical diagnosis of the patients who are being tested.</p>
+<p>And now, national health authorities have issued (fake) warnings of a “Third Wave” as part of their propaganda campaign in support of the Covid-19 Vaccine.</p>
+<p>The WHO confirms that the Covid PCR test procedure as applied is invalid. There is absolutely no scientific basis for implementing the Covid Vaccine.</p>
+<p>Both the WHO and the scientific assessment of <strong>Pieter Borger</strong>, et al (quoted above) confirm unequivocally that the tests adopted by governments to justify the lockdown and the destabilization of national economies are INVALID.</p>
+<h2><strong>Invalid Data and the Numbers’ Game</strong></h2>
+<p>It should be understood that<strong> these “invalid estimates” are the “numbers” quoted relentlessly 24/7</strong> by the media in the course of the “First Wave” and “Second Wave”<strong>, </strong>which have been used<strong> to feed the fear campaign and “justify” </strong><strong>ALL the policies put forth by the governments: </strong></p>
+<ul>
+<li>lockdown,</li>
+<li>closure of economic activity,</li>
+<li>poverty and mass unemployment,</li>
+<li>bankruptcies</li>
+<li>social distancing,</li>
+<li>face mask,</li>
+<li>curfew,</li>
+<li>the vaccine.</li>
+<li>the health passport</li>
+</ul>
+<p><strong>Invalid Data. Think Twice Before Getting Vaccinated</strong></p>
+<p>And Now we have entered a so-called<strong> “Third Wave”. </strong>(But where’s the data??)</p>
+<p><strong>It’s a complex “Pack of Lies”.</strong></p>
+<p><strong>It’s a crime against humanity. </strong></p>
+<p style="text-align: center;">***</p>
+<p><strong>VIDEO</strong></p>
+<p>click lower right hand corner to access vimeo / full screen</p>
+<p><strong>CENSORSHIP: This video was taken down on March 5, 2022</strong></p>
+<p>Please Forward</p>
+<p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="400" src="https://player.vimeo.com/video/565449173" width="690"></iframe></p>
+<p>The Video is produced by <strong>Ariel Rodriguez,</strong> Global Research</p>
+<p><strong>Followup Reading </strong></p>
+<p>For an in-depth analysis of the Corona Crisis crisis see Michel Chossudovsky’s E-Book (Ten Chapters) entitled:</p>
+<p><strong class="title"><a href="https://www.globalresearch.ca/the-2020-worldwide-corona-crisis-destroying-civil-society-engineered-economic-depression-global-coup-detat-and-the-great-reset/5730652">The 2020-21 Worldwide Corona Crisis: Destroying Civil Society, Engineered Economic Depression, Global Coup d’État and the “Great Reset”</a></strong></p>
+<p>***</p>
+<p><strong>About the Author</strong></p>
+<p><a href="https://www.globalresearch.ca/wp-content/uploads/2019/02/8.jpg"><img alt="" class="wp-image-5668228 alignleft" height="158" sizes="(max-width: 211px) 100vw, 211px" src="https://www.globalresearch.ca/wp-content/uploads/2019/02/8.jpg" srcset="https://www.globalresearch.ca/wp-content/uploads/2019/02/8.jpg 1080w, https://www.globalresearch.ca/wp-content/uploads/2019/02/8-300x225.jpg 300w, https://www.globalresearch.ca/wp-content/uploads/2019/02/8-768x576.jpg 768w, https://www.globalresearch.ca/wp-content/uploads/2019/02/8-1024x768.jpg 1024w, https://www.globalresearch.ca/wp-content/uploads/2019/02/8-400x300.jpg 400w" width="211"/></a></p>
+<p><a href="https://www.globalresearch.ca/michel-chossudovsky-biographical-summary/5580999"><strong>Michel Chossudovsky</strong></a> is an award-winning author, Professor of Economics (emeritus) at the University of Ottawa, Founder and Director of the Centre for Research on Globalization (CRG), Montreal, Editor of Global Research.</p>
+<p>He has undertaken field research in Latin America, Asia, the Middle East, sub-Saharan Africa and the Pacific and has written extensively on the economies of developing countries with a focus on poverty and social inequality. He has also undertaken research in Health Economics (UN Economic Commission for Latin America and the Caribbean (ECLAC),  UNFPA, CIDA, WHO, Government of Venezuela, John Hopkins<a href="https://journals.sagepub.com/doi/10.2190/CTXP-RL02-QGB8-6QQ4"> International Journal of Health Services</a> (<a href="https://journals.sagepub.com/doi/10.2190/CTXP-RL02-QGB8-6QQ4">1979</a>, <a href="https://journals.sagepub.com/doi/abs/10.2190/K31G-5ACT-BAWB-F7PN">1983</a>)</p>
+<p>He is the author of eleven books including <em>The Globalization of Poverty and The New World Order</em> (2003), <em>America’s “War on Terrorism”</em> (2005),  <em>The Globalization of War, America’s Long War against Humanity</em> (2015).</p>
+<p>He is a contributor to the Encyclopaedia Britannica.  His writings have been published in more than twenty languages. In 2014, he was awarded the Gold Medal for Merit of the Republic of Serbia for his writings on NATO’s war of aggression against Yugoslavia. He can be reached at <a href="crgeditor@yahoo.com"><span class="__cf_email__" data-cfemail="791a0b1e1c1d100d160b390018111616571a1614">[email protected]</span></a></p>
+<p>See <a href="https://www.globalresearch.ca/michel-chossudovsky-biographical-summary/5580999">Michel Chossudovsky, Biographical Note</a></p>
+<p><a href="https://www.globalresearch.ca/author/michel-chossudovsky">Michel Chossudovsky’s Articles on Global Research</a></p>
+<p>***</p>
+<h2><strong>Postscript</strong></h2>
+<p>Since its release on March 21, 2021, quite unexpectedly tens of thousands of people have read this article.</p>
+<p>My intent was essentially to <strong>Refute and Reveal the Big Lie</strong> (focussing on scientific and statistical concepts) without directly addressing the broader implications of the lockdown and closure of economic activity.</p>
+<p>This diabolical project which emanates from the upper echelons of the financial establishment (including the World Economic Forum) is <strong>destroying people’s lives</strong> Worldwide. It is creating mass unemployment, triggering famines in developing countries.</p>
+<p>With some exceptions including Tanzania, most of the 193 member states of the United Nations have endorsed the WEF’s “corona consensus”.</p>
+<p>The Truth is a peaceful yet powerful weapon.</p>
+<p>Now is the time to confront those governments and demand a repeal of the lockdown policies which are triggering poverty and despair Worldwide.</p>
+<p><strong>The WHO’s BIG LIE is refuted by the WHO.</strong></p>
+<p>The alleged pandemic is a scam. That is something which cannot be denied or refuted.</p>
+<p>And that was the object of this article.</p>
+<p>It’s a complex scam based on “a pack of lies” with devastating consequences.</p>
+<p>In the course of the last 14 months starting in early January 2020, I have analyzed almost on a daily basis the timeline and evolution of the Covid crisis. From the very outset in January 2020, people were led to believe and accept the existence of a rapidly progressing and dangerous epidemic.</p>
+<p>We are at the crossroads of one of the most serious crises in World history. We are living history, yet our understanding of the sequence of events since January 2020 has been blurred.</p>
+<p>Worldwide, people have been misled both by their governments and the media as to the causes and devastating consequences of the Covid-19 “pandemic”.</p>
+<p>The unspoken truth is that the novel coronavirus provides a pretext and a justification to powerful financial interests and corrupt politicians to precipitate the entire World into a spiral of mass unemployment, bankruptcy, extreme poverty and despair.</p>
+<p class="column">More than 7 billion people Worldwide are directly or indirectly affected by the corona crisis.</p>
+<p>I invite Global Research readers to view the Video below (which provides an overview) as well as consult my E-Book (consisting of 10 chapters) which addresses in detail the complexities of this crisis.</p>
+<p><strong><a href="https://www.globalresearch.ca/the-2020-worldwide-corona-crisis-destroying-civil-society-engineered-economic-depression-global-coup-detat-and-the-great-reset/5730652">The 2020 Worldwide Corona Crisis: Destroying Civil Society, Engineered Economic Depression, Global Coup d’État and the “Great Reset”</a></strong></p>
+<p>Also please forward this article. Your support is invaluable.</p>
+<h2 style="text-align: center;"><span style="font-size: 18pt;"><strong>Video </strong></span></h2>
+<p>click the lower right corner to access full-screen .</p>
+<div class="embed-vimeo"><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="360" src="https://player.vimeo.com/video/514871958" width="640"></iframe>.</div>
+<h1></h1>
+<p><a href="https://www.globalresearch.ca/michel-chossudovsky-biographical-summary/5580999">Michel Chossudovsky, Biographical Note</a></p>
+<p><a href="https://www.globalresearch.ca/author/michel-chossudovsky">Michel Chossudovsky’s Articles on Global Research</a></p>
+<hr/>
+<p><a href="https://www.who.int/news/item/20-01-2021-who-information-notice-for-ivd-users-2020-05">Full text of the WHO directive dated January 20, 2021</a></p>
+<p> </p>
+<h2 style="text-align: center;">Annex</h2>
+<h2><a href="https://www.who.int/news/item/20-01-2021-who-information-notice-for-ivd-users-2020-05"><img alt="" class="wp-image-5740060 aligncenter" height="408" sizes="(max-width: 652px) 100vw, 652px" src="https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-13.42.01.png" srcset="https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-13.42.01.png 1534w, https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-13.42.01-300x188.png 300w, https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-13.42.01-768x481.png 768w, https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-13.42.01-1024x641.png 1024w, https://www.globalresearch.ca/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-13.42.01-400x250.png 400w" width="652"/></a></h2>
+<h2></h2>
+<h2>Nucleic Acid Testing (NAT) Technologies that Use Polymerase Chain Reaction (PCR) for Detection of SARS-CoV-2</h2>
+<p><em><strong>Product type:</strong> Nucleic acid testing (NAT) technologies that use polymerase chain reaction (PCR) for detection of SARS-CoV-2 </em></p>
+<p><em><strong>Date:</strong> 13 January 2021                                                                       </em></p>
+<p><em><strong>WHO-identifier:</strong> 2020/5, version 2 </em></p>
+<p><em><strong>Target audience: </strong>laboratory professionals and users of IVDs.</em></p>
+<p><strong>Purpose of this notice:</strong> clarify information previously provided by WHO. This notice supersedes WHO Information Notice for In Vitro Diagnostic Medical Device (IVD) Users 2020/05 version 1, issued 14 December 2020.</p>
+<p><strong>Description of the problem: </strong>WHO requests users to follow the instructions for use (IFU) when interpreting results for specimens tested using PCR methodology.</p>
+<p><strong>Users of IVDs must read and follo</strong>w the IFU carefully to determine if manual adjustment of the PCR positivity threshold is recommended by the manufacturer.</p>
+<p>WHO guidance <a href="https://www.who.int/publications/i/item/diagnostic-testing-for-sars-cov-2" rel="noopener noreferrer" target="_blank">Diagnostic testing for SARS-CoV-2</a> states that careful interpretation of weak positive results is needed (<em>1</em>). The cycle threshold (Ct) needed to detect virus is inversely proportional to the patient’s viral load. Where test results do not correspond with the clinical presentation, a new specimen should be taken and retested using the same or different NAT technology.</p>
+<p>WHO reminds IVD users that disease prevalence alters the predictive value of test results; as disease prevalence decreases, the risk of false positive increases (<em>2</em>). This means that the probability that a person who has a positive result (SARS-CoV-2 detected) is truly infected with SARS-CoV-2 decreases as prevalence decreases, irrespective of the claimed specificity.</p>
+<p>Most PCR assays are indicated as an aid for diagnosis, therefore, health care providers must consider any result in combination with timing of sampling, specimen type, assay specifics, clinical observations, patient history, confirmed status of any contacts, and epidemiological information.</p>
+<p><strong>Actions to be taken by IVD users:</strong></p>
+<ol>
+<li>Please read carefully the IFU in its entirety.</li>
+<li>Contact your local representative if there is any aspect of the IFU that is unclear to you.</li>
+<li>Check the IFU for each incoming consignment to detect any changes to the IFU.</li>
+<li>Provide the Ct value in the report to the requesting health care provider.</li>
+</ol>
+<p><strong>Notes</strong></p>
+<p>1. Diagnostic testing for SARS-CoV-2. Geneva: World Health Organization; 2020, WHO reference number WHO/2019-nCoV/laboratory/2020.6.</p>
+<p>2. Altman DG, Bland JM. Diagnostic tests 2: Predictive values. BMJ. 1994 Jul 9;309(6947):102. doi: 10.1136/bmj.309.6947.102.</p>
+<p>*</p>
+<p style="text-align: left;">Note to readers: please click the share buttons above or below. Forward this article to your email lists. Crosspost on your blog site, internet forums. etc.</p>
+<div>
+<div class="copyright">The original source of this article is Global Research</div>
+<div class="copyright">Copyright © <a href="https://www.globalresearch.ca/author/michel-chossudovsky" title="Posts by Prof Michel Chossudovsky">Prof Michel Chossudovsky</a>, Global Research, 2022</div>
+<hr/>
+<p>
+<a href="https://www.facebook.com/GlobalResearchCRG"><strong>Comment on Global Research Articles on our Facebook page</strong></a>
+</p>
+<p>
+<a href="https://store.globalresearch.ca/member/"><strong>Become a Member of Global Research</strong></a>
+</p>
+</div> </div>
+</div>
+<div data-widget-id="rel_89-2" style="margin-left: 5px;"></div>
+<div style="margin-left:5px">
+<div class="jp-relatedposts" id="jp-relatedposts">
+<h3 class="jp-relatedposts-headline"><em>Related Articles from our Archives</em></h3>
+</div> </div>
+<hr>
+<div class="sharethis">
+<div class="sharethisleft">
+<span style="float:left"><span class="fontSize" style="float:left"><a href="#" id="toggleFont"></a></span> <p id="print-page-link" style="margin: 10px 0px;"><a href="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959?print=1" id="print-link" rel="nofollow"><img src="https://www.globalresearch.ca/wp-content/plugins/print-me/images/printme.png" style="width: 25px;height: 25px;" title="print"/></a></p></span> <span> <a href="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959?pdf=5739959" target="_blank"> <img src="/wp-content/uploads/2021/05/pdf01.png" style="height:23px;width:20px;margin-top:3px;margin-left:7px;"/> </a> </span> <span style="float:right;margin-left:10px;width:130px;">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</span>
+</div>
+<div class="sharethisright" style="display:flex;overflow:clip;max-height:25px;align-items:center;">
+<span class="st_facebook_hcount" displaytext="facebook" st_title="The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis" st_url="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959"></span>
+<span class="st_fblike_hcount" displaytext="fblike" st_title="The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis" st_url="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959" style="height:26px"></span>
+<span class="st_twitter_hcount" displaytext="twitter" st_title="The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis" st_url="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959" st_username="grtvnews" st_via="grtvnews"></span>
+<span class="st_email_hcount" displaytext="email" st_title="The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis" st_url="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959"></span>
+<span class="st_plusone_hcount" displaytext="plusone" st_title="The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis" st_url="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959" style="width:1px; display: inline-block"></span>
+<span class="st_sharethis_hcount" displaytext="sharethis" st_title="The WHO Confirms that the Covid-19 PCR Test is Flawed: Estimates of “Positive Cases” are Meaningless. The Lockdown Has No Scientific Basis" st_url="https://www.globalresearch.ca/nucleic-acid-testing-technologies-use-polymerase-chain-reaction-pcr-detection-sars-cov-2/5739959"></span>
+</div>
+</div>
+<div id="articleAuthor">
+<div class="authorName">
+<span>Articles by:</span>
+<a href="https://www.globalresearch.ca/author/michel-chossudovsky" title="Posts by Prof Michel Chossudovsky">Prof Michel Chossudovsky</a>
+</div>
+<div class="bio"><h3>About the author:</h3>Michel Chossudovsky is an award-winning author, Professor of Economics (emeritus) at the University of Ottawa, Founder and Director of the Centre for Research on Globalization (CRG), Montreal, Editor of Global Research.  He has taught as visiting professor in Western Europe, Southeast Asia, the Pacific and Latin America. He has served as economic adviser to governments of developing countries and has acted as a consultant for several international organizations. He is the author of eleven books including The Globalization of Poverty and The New World Order (2003), America’s “War on Terrorism” (2005), The Global Economic Crisis, The Great Depression of the Twenty-first Century (2009) (Editor), Towards a World War III Scenario: The Dangers of Nuclear War (2011), The Globalization of War, America's Long War against Humanity (2015). He is a contributor to the Encyclopaedia Britannica.  His writings have been published in more than twenty languages. In 2014, he was awarded the Gold Medal for Merit of the Republic of Serbia for his writings on NATO's war of aggression against Yugoslavia. He can be reached at <a class="__cf_email__" data-cfemail="0764756062636e736875477e666f68682964686a" href="/cdn-cgi/l/email-protection">[email protected]</a></div>
+</div>
+<div class="nr_clear"></div>
+<div id="disclaimer">
+<p><b>Disclaimer:</b> The contents of this article are of sole responsibility of the author(s). The Centre for Research on Globalization will not be responsible for any inaccurate or incorrect statement in this article. The Centre of Research on Globalization grants permission to cross-post Global Research articles on community internet sites as long the source and copyright are acknowledged together with a hyperlink to the original Global Research article. For publication of Global Research articles in print or other forms including commercial internet sites, contact: <a href="/cdn-cgi/l/email-protection#077772656b6e6466736e68697447606b6865666b756274626675646f296466"><span class="__cf_email__" data-cfemail="ccbcb9aea0a5afadb8a5a3a2bf8caba0a3aeada0bea9bfa9adbeafa4e2afad">[email protected]</span></a></p>
+<p><a href="https://www.globalresearch.ca">www.globalresearch.ca</a> contains copyrighted material the use of which has not always been specifically authorized by the copyright owner. We are making such material available to our readers under the provisions of "fair use" in an effort to advance a better understanding of political, economic and social issues. The material on this site is distributed without profit to those who have expressed a prior interest in receiving it for research and educational purposes. If you wish to use copyrighted material for purposes other than "fair use" you must request permission from the
+copyright owner.</p>
+<p>For media inquiries: <a href="/cdn-cgi/l/email-protection#106065727c79737164797f7e6350777c7f72717c62756375716273783e7371"><span class="__cf_email__" data-cfemail="bcccc9ded0d5dfddc8d5d3d2cffcdbd0d3deddd0ced9cfd9ddcedfd492dfdd">[email protected]</span></a></p>
+</div>
+</hr></div>
+</div>
+</div>
+</div>
+<div class="main-b"></div>
+</div>
+<div class="notranslate" id="footer">
+<div class="aside">
+<div class="widget_nav_menu leftfooter"><div class="menu-footerleftnav-container"><ul class="menu" id="menu-footerleftnav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5309785" id="menu-item-5309785"><a href="https://www.globalresearch.ca/news">Global Research News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302189" id="menu-item-5302189"><a href="https://www.globalresearch.ca/theme/i-books-series">I-BOOKS SERIES</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302190" id="menu-item-5302190"><a href="https://www.globalresearch.ca/countries-index">Countries Index</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302192" id="menu-item-5302192"><a href="https://www.globalresearch.ca/most-popular">Most Popular</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302193" id="menu-item-5302193"><a href="https://www.globalresearch.ca/links">Links</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302194" id="menu-item-5302194"><a href="https://www.globalresearch.ca/contact-2">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302195" id="menu-item-5302195"><a href="https://store.globalresearch.ca/member/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302196" id="menu-item-5302196"><a href="https://store.globalresearch.ca/">Online Store</a></li>
+</ul></div></div> </div>
+<div class="container">
+<div class="column-wrap">
+<div class="menuHeaders">
+<div class="title1">Themes</div>
+<div class="title2">Geographic Regions</div>
+</div>
+<div class="column widget_nav_menu"><div class="menu-footermenu2-container"><ul class="menu" id="menu-footermenu2"><li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302197" id="menu-item-5302197"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302198" id="menu-item-5302198"><a href="https://www.globalresearch.ca/theme/global-economy">Global Economy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302199" id="menu-item-5302199"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">Crimes against Humanity</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302200" id="menu-item-5302200"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302201" id="menu-item-5302201"><a href="https://www.globalresearch.ca/theme/law-and-justice">Law and Justice</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302202" id="menu-item-5302202"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Police State &amp; Civil Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302203" id="menu-item-5302203"><a href="https://www.globalresearch.ca/theme/culture-society-history">History</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302204" id="menu-item-5302204"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">9/11 &amp; ‘War on Terrorism’</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302205" id="menu-item-5302205"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media Disinformation</a></li>
+</ul></div></div><div class="column widget_nav_menu"><div class="menu-footermenu3-container"><ul class="menu" id="menu-footermenu3"><li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302206" id="menu-item-5302206"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302207" id="menu-item-5302207"><a href="https://www.globalresearch.ca/theme/oil-and-energy">Oil and Energy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302208" id="menu-item-5302208"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Police State &amp; Civil Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302209" id="menu-item-5302209"><a href="https://www.globalresearch.ca/theme/politics-and-religion">Religion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302210" id="menu-item-5302210"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty &amp; Social Inequality</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme current-post-ancestor active current-post-parent menu-item-5302211" id="menu-item-5302211"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science and Medicine</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302212" id="menu-item-5302212"><a href="https://www.globalresearch.ca/theme/united-nations">United Nations</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302213" id="menu-item-5302213"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302214" id="menu-item-5302214"><a href="https://www.globalresearch.ca/theme/women-s-rights">Women’s Rights</a></li>
+</ul></div></div> </div>
+<div class="text-container">
+<strong class="footer-logo"><a href="/">GlobalResearch Center for Research on Globalization</a></strong>
+<a class="privacy" href="/privacy-policy/">Privacy Policy</a>
+<span class="copy">Copyright © 2005-2023 <a href="https://www.globalresearch.ca">GlobalResearch.ca</a></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+document.getElementById('NLform').onsubmit = function() {
+  window.location = '/newsletter/';
+}
+</script>
+<script async="" src="https://magnetapi.klangoo.com/w/Widgets_89.js" type="text/javascript"></script>
+<div aria-hidden="true" class="pum pum-overlay pum-theme-5667467 pum-theme-enterprise-blue popmake-overlay pum-overlay-disabled auto_open click_open" data-popmake='{"id":5681503,"slug":"become-member","theme_id":5667467,"cookies":[{"event":"on_popup_close","settings":{"name":"pum-5681503","time":"1 week","path":true}}],"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-5681503"],"delay":"5000"}},{"type":"click_open","settings":{"extra_selectors":"","cookie_name":null}}],"mobile_disabled":null,"tablet_disabled":null,"meta":{"display":{"stackable":"1","overlay_disabled":"1","scrollable_content":false,"disable_reposition":false,"size":"micro","responsive_min_width":"0%","responsive_min_width_unit":false,"responsive_max_width":"100%","responsive_max_width_unit":false,"custom_width":"640px","custom_width_unit":false,"custom_height":"380px","custom_height_unit":false,"custom_height_auto":false,"location":"right bottom","position_from_trigger":false,"position_top":"100","position_left":"0","position_bottom":"100","position_right":"10","position_fixed":"1","animation_type":"fade","animation_speed":"350","animation_origin":"center top","overlay_zindex":false,"zindex":"1999999999"},"close":{"text":"","button_delay":"0","overlay_click":false,"esc_press":false,"f4_press":false},"click_open":[]}}' id="pum-5681503" role="dialog">
+<div class="pum-container popmake theme-5667467 pum-responsive pum-responsive-micro responsive size-micro pum-position-fixed" id="popmake-5681503">
+<div class="pum-content popmake-content">
+<div style="position: absolute;"><a href="https://www.globalresearch.ca/wp-content/uploads/2019/02/logo_def_globe_small.png"><img alt="" class="alignnone size-full wp-image-5605030" height="47" src="https://www.globalresearch.ca/wp-content/uploads/2019/02/logo_def_globe_small.png" width="37"/></a></div>
+<div style="text-align: center;">
+<p style="text-align: center;"><span style="font-family: helvetica, arial, sans-serif; font-size: 14pt; text-align: center;">Become Member of<br/>
+<span style="font-weight: bold;">Global Research<br/>
+</span> Free Books!</span></p>
+<span class="pum-close popmake-close" data-do-default="1"><a href="https://donorbox.org/donate-to-global-research" style="font-family: Helvetica; background-color: #ee5800; color: white; text-decoration: none; display: inline-block; padding: 6px 12px; margin-bottom: 0; margin-top: 10px; font-size: 14px; font-weight: normal; line-height: 1.428571429; text-align: center; white-space: nowrap; vertical-align: middle; cursor: pointer; border: 1px solid transparent; border-radius: 4px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none;" target="_blank">Become a member</a></span>
+</div>
+</div>
+<button aria-label="Close" class="pum-close popmake-close" type="button">
+× </button>
+</div>
+</div>
+<script type="text/javascript">var algolia = {"debug":false,"application_id":"AZ3OVPR0K9","search_api_key":"7147fe690c6831ff61668ea7de6fccda","powered_by_enabled":true,"query":"","autocomplete":{"sources":[],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"searchable_posts":{"name":"gr_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]}}};</script><script src="https://www.globalresearch.ca/wp-content/plugins/dk-pdf/assets/js/frontend.js?ver=1.9.6" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202310" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.7.30","ajaxurl":"https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.globalresearch.ca\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"5667465","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php";
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker: Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit https:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_event":"Event: %s","triggers":{"click_open":"Click Open","auto_open":"Time Delay \/ Auto Open"},"cookies":{"on_popup_close":"On Popup Close","on_popup_open":"On Popup Open","pum_sub_form_success":"Subscription Form: Successful","pum_sub_form_already_subscribed":"Subscription Form: Already Subscribed","manual":"Manual JavaScript"}};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-5681503":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-5681503"],"delay":"5000"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-5681503","time":"1 week","path":true}}],"theme_id":"5667467","size":"micro","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","location":"right bottom","position_top":"100","position_bottom":"100","position_left":"0","position_right":"10","zindex":"1999999999","close_button_delay":"0","id":5681503,"slug":"become-member"}};
+/* ]]> */
+</script>
+<script src="//www.globalresearch.ca/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1598646263&amp;ver=1.7.30" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/wp-embed.min.js?ver=4.7.25" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-content/plugins/print-me/js/printme.js?ver=0.5.1" type="text/javascript"></script>
+<script async="" defer="" src="https://stats.wp.com/e-202310.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.1',blog:'37090175',post:'5739959',tz:'0',srv:'www.globalresearch.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '37090175', '5739959' ]);
+</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7a50336349738191',m:'DMeszyjnl_0nQAcW0UNE4XIXbDjuXbIo.JGwpuyjwTM-1678332222-0-AQHqzUV7mDoJ2hobFcn2JkxH7J9I9OufDXxRqL0H/W9qUdmCgYErEKw/P0JHm56kkqUWfCiaTJF/eFeRnehtXUdWljHpr2z1e+/F1H1KZFsCgmWxXHhHKi09liiwuN4zT4sTgJqtbStIfdIMHCfNO5HmJN/RV163pEv6FvV/AAjnyR4baCPvXEjhQr82Z1FF9cv2ok1Lepnhzmc9Uzt448i2yBafFh28k7xMU0aIUmA6zCUXi63sgEZ+RmpYnvyyMQ==',s:[0xe7e38ed135,0xe3db166a7d],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

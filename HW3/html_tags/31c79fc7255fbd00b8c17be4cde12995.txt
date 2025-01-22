@@ -1,0 +1,2117 @@
+ <!DOCTYPE html>
+
+<!--[if IE 8]>
+<html class="no-js g1-off-outside lt-ie10 lt-ie9" id="ie8" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><![endif]-->
+<!--[if IE 9]>
+<html class="no-js g1-off-outside lt-ie10" id="ie9" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><![endif]-->
+<!--[if !IE]><!-->
+<html class="no-js g1-off-outside" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<link href="http://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://theduran.com/xmlrpc.php" rel="pingback"/>
+<title>Update on Assange and the extradition hearing – The Duran</title>
+<meta content="noindex, nofollow" name="robots"/>
+<meta content="initial-scale=1.0, minimum-scale=1.0, height=device-height, width=device-width" name="viewport"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="Update on Assange and the extradition hearing" property="og:title"/>
+<meta content="https://www.youtube.com/watch?v=nZPZIVqa85AUpdate on Assange and the extradition hearingThe Duran: Episode 1127" property="og:description"/>
+<meta content="https://theduran.com/update-on-assange-and-the-extradition-hearing/" property="og:url"/>
+<meta content="The Duran" property="og:site_name"/>
+<meta content="https://www.facebook.com/The-Duran-291361344528786/" property="article:publisher"/>
+<meta content="https://www.facebook.com/theduransite/?fref=ts" property="article:author"/>
+<meta content="The Duran" property="article:tag"/>
+<meta content="Latest" property="article:section"/>
+<meta content="2021-11-01T10:06:07+02:00" property="article:published_time"/>
+<meta content="875102542612013" property="fb:app_id"/>
+<meta content="https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/11/01100610/maxresdefault.jpg" property="og:image"/>
+<meta content="https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/11/01100610/maxresdefault.jpg" property="og:image:secure_url"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="TheDuranDoes" name="twitter:site"/>
+<meta content="The Duran" name="twitter:domain"/>
+<meta content="Update on Assange and the extradition hearing" name="twitter:title"/>
+<meta content="https://www.youtube.com/watch?v=nZPZIVqa85AUpdate on Assange and the extradition hearingThe Duran: Episode 1127" name="twitter:description"/>
+<meta content="https://theduran.com/update-on-assange-and-the-extradition-hearing/" name="twitter:url"/>
+<meta content="https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/11/01100610/maxresdefault.jpg" name="twitter:image:src"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//use.fontawesome.com" rel="dns-prefetch"/>
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<link href="//i0.wp.com" rel="dns-prefetch"/>
+<link href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://theduran.com/feed/" rel="alternate" title="The Duran » Feed" type="application/rss+xml"/>
+<link href="https://theduran.com/comments/feed/" rel="alternate" title="The Duran » Comments Feed" type="application/rss+xml"/>
+<link href="https://theduran.com/update-on-assange-and-the-extradition-hearing/feed/" rel="alternate" title="The Duran » Update on Assange and the extradition hearing Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/theduran.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://149425939.v2.pressablecdn.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" id="mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1.1" id="wp-mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-includes/css/dist/components/style.min.css?ver=6.1.1" id="wp-components-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/wptelegram-widget/assets/static/css/wptelegram-widget--blocks.c6bba460.css?ver=1643225207" id="wptelegram-widget--blocks-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wptelegram-widget--blocks-inline-css" type="text/css">
+:root {--wptelegram-widget-join-link-bg-color: #389ce9;--wptelegram-widget-join-link-color: #fff}
+</style>
+<link href="https://149425939.v2.pressablecdn.com/wp-includes/css/classic-themes.min.css?ver=1" id="classic-theme-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/ad-ace/assets/css/style.min.css?ver=1.3.26" id="adace-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/ad-ace/assets/css/shoppable-images-front.min.css?ver=1.3.26" id="shoppable-images-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/media-ace/includes/lazy-load/assets/css/youtube.min.css?ver=1.4.12" id="mace-lazy-load-youtube-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/media-ace/includes/gallery/css/gallery.min.css?ver=6.1.1" id="mace-gallery-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/official-mailerlite-sign-up-forms/assets/css/mailerlite_forms.css?ver=1.5.3" id="mailerlite_forms.css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/snax/assets/js/jquery.magnific-popup/magnific-popup.css?ver=6.1.1" id="jquery-magnific-popup-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/snax/css/snax.min.css?ver=1.92" id="snax-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/wpdiscuz/themes/default/style.css?ver=7.3.16" id="wpdiscuz-frontend-css-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wpdiscuz-frontend-css-inline-css" type="text/css">
+ #wpdcom .wpd-blog-administrator .wpd-comment-label{color:#ffffff;background-color:#917B1A;border:none}#wpdcom .wpd-blog-administrator .wpd-comment-author, #wpdcom .wpd-blog-administrator .wpd-comment-author a{color:#917B1A}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-administrator .wpd-avatar img{border-color:#917B1A}#wpdcom.wpd-layout-2 .wpd-comment.wpd-reply .wpd-comment-wrap.wpd-blog-administrator{border-left:3px solid #917B1A}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-administrator .wpd-avatar img{border-bottom-color:#917B1A}#wpdcom.wpd-layout-3 .wpd-blog-administrator .wpd-comment-subheader{border-top:1px dashed #917B1A}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-administrator .wpd-comment-right{border-left:1px solid #917B1A}#wpdcom .wpd-blog-editor .wpd-comment-label{color:#ffffff;background-color:#917B1A;border:none}#wpdcom .wpd-blog-editor .wpd-comment-author, #wpdcom .wpd-blog-editor .wpd-comment-author a{color:#917B1A}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-editor .wpd-avatar img{border-color:#917B1A}#wpdcom.wpd-layout-2 .wpd-comment.wpd-reply .wpd-comment-wrap.wpd-blog-editor{border-left:3px solid #917B1A}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-editor .wpd-avatar img{border-bottom-color:#917B1A}#wpdcom.wpd-layout-3 .wpd-blog-editor .wpd-comment-subheader{border-top:1px dashed #917B1A}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-editor .wpd-comment-right{border-left:1px solid #917B1A}#wpdcom .wpd-blog-author .wpd-comment-label{color:#ffffff;background-color:#917B1A;border:none}#wpdcom .wpd-blog-author .wpd-comment-author, #wpdcom .wpd-blog-author .wpd-comment-author a{color:#917B1A}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-author .wpd-avatar img{border-color:#917B1A}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-author .wpd-avatar img{border-bottom-color:#917B1A}#wpdcom.wpd-layout-3 .wpd-blog-author .wpd-comment-subheader{border-top:1px dashed #917B1A}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-author .wpd-comment-right{border-left:1px solid #917B1A}#wpdcom .wpd-blog-contributor .wpd-comment-label{color:#ffffff;background-color:#917B1A;border:none}#wpdcom .wpd-blog-contributor .wpd-comment-author, #wpdcom .wpd-blog-contributor .wpd-comment-author a{color:#917B1A}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-contributor .wpd-avatar img{border-color:#917B1A}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-contributor .wpd-avatar img{border-bottom-color:#917B1A}#wpdcom.wpd-layout-3 .wpd-blog-contributor .wpd-comment-subheader{border-top:1px dashed #917B1A}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-contributor .wpd-comment-right{border-left:1px solid #917B1A}#wpdcom .wpd-blog-subscriber .wpd-comment-label{color:#ffffff;background-color:#009EED;border:none}#wpdcom .wpd-blog-subscriber .wpd-comment-author, #wpdcom .wpd-blog-subscriber .wpd-comment-author a{color:#009EED}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-subscriber .wpd-avatar img{border-bottom-color:#009EED}#wpdcom.wpd-layout-3 .wpd-blog-subscriber .wpd-comment-subheader{border-top:1px dashed #009EED}#wpdcom .wpd-blog-snax_author .wpd-comment-label{color:#ffffff;background-color:#009EED;border:none}#wpdcom .wpd-blog-snax_author .wpd-comment-author, #wpdcom .wpd-blog-snax_author .wpd-comment-author a{color:#009EED}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-snax_author .wpd-avatar img{border-color:#009EED}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-snax_author .wpd-avatar img{border-bottom-color:#009EED}#wpdcom.wpd-layout-3 .wpd-blog-snax_author .wpd-comment-subheader{border-top:1px dashed #009EED}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-snax_author .wpd-comment-right{border-left:1px solid #009EED}#wpdcom .wpd-blog-translator .wpd-comment-label{color:#ffffff;background-color:#009EED;border:none}#wpdcom .wpd-blog-translator .wpd-comment-author, #wpdcom .wpd-blog-translator .wpd-comment-author a{color:#009EED}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-translator .wpd-avatar img{border-color:#009EED}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-translator .wpd-avatar img{border-bottom-color:#009EED}#wpdcom.wpd-layout-3 .wpd-blog-translator .wpd-comment-subheader{border-top:1px dashed #009EED}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-translator .wpd-comment-right{border-left:1px solid #009EED}#wpdcom .wpd-blog-anonymous .wpd-comment-label{color:#ffffff;background-color:#009EED;border:none}#wpdcom .wpd-blog-anonymous .wpd-comment-author, #wpdcom .wpd-blog-anonymous .wpd-comment-author a{color:#009EED}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-anonymous .wpd-avatar img{border-color:#009EED}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-anonymous .wpd-avatar img{border-bottom-color:#009EED}#wpdcom.wpd-layout-3 .wpd-blog-anonymous .wpd-comment-subheader{border-top:1px dashed #009EED}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-anonymous .wpd-comment-right{border-left:1px solid #009EED}#wpdcom .wpd-blog-customer .wpd-comment-label{color:#ffffff;background-color:#009EED;border:none}#wpdcom .wpd-blog-customer .wpd-comment-author, #wpdcom .wpd-blog-customer .wpd-comment-author a{color:#009EED}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-customer .wpd-avatar img{border-color:#009EED}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-customer .wpd-avatar img{border-bottom-color:#009EED}#wpdcom.wpd-layout-3 .wpd-blog-customer .wpd-comment-subheader{border-top:1px dashed #009EED}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-customer .wpd-comment-right{border-left:1px solid #009EED}#wpdcom .wpd-blog-shop_manager .wpd-comment-label{color:#ffffff;background-color:#00B38F;border:none}#wpdcom .wpd-blog-shop_manager .wpd-comment-author, #wpdcom .wpd-blog-shop_manager .wpd-comment-author a{color:#00B38F}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-shop_manager .wpd-avatar img{border-color:#00B38F}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-shop_manager .wpd-avatar img{border-bottom-color:#00B38F}#wpdcom.wpd-layout-3 .wpd-blog-shop_manager .wpd-comment-subheader{border-top:1px dashed #00B38F}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-shop_manager .wpd-comment-right{border-left:1px solid #00B38F}#wpdcom .wpd-blog-post_author .wpd-comment-label{color:#ffffff;background-color:#009EED;border:none}#wpdcom .wpd-blog-post_author .wpd-comment-author, #wpdcom .wpd-blog-post_author .wpd-comment-author a{color:#009EED}#wpdcom .wpd-blog-post_author .wpd-avatar img{border-color:#009EED}#wpdcom.wpd-layout-1 .wpd-comment .wpd-blog-post_author .wpd-avatar img{border-color:#009EED}#wpdcom.wpd-layout-2 .wpd-comment.wpd-reply .wpd-comment-wrap.wpd-blog-post_author{border-left:3px solid #009EED}#wpdcom.wpd-layout-2 .wpd-comment .wpd-blog-post_author .wpd-avatar img{border-bottom-color:#009EED}#wpdcom.wpd-layout-3 .wpd-blog-post_author .wpd-comment-subheader{border-top:1px dashed #009EED}#wpdcom.wpd-layout-3 .wpd-reply .wpd-blog-post_author .wpd-comment-right{border-left:1px solid #009EED}#wpdcom .wpd-blog-guest .wpd-comment-label{color:#ffffff;background-color:#009EED;border:none}#wpdcom .wpd-blog-guest .wpd-comment-author, #wpdcom .wpd-blog-guest .wpd-comment-author a{color:#009EED}#wpdcom.wpd-layout-3 .wpd-blog-guest .wpd-comment-subheader{border-top:1px dashed #009EED}#comments, #respond, .comments-area, #wpdcom{}#wpdcom .ql-editor > *{color:#777777}#wpdcom .ql-editor::before{}#wpdcom .ql-toolbar{border:1px solid #DDDDDD;border-top:none}#wpdcom .ql-container{border:1px solid #DDDDDD;border-bottom:none}#wpdcom .wpd-form-row .wpdiscuz-item input[type="text"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="email"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="url"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="color"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="date"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="datetime"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="datetime-local"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="month"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="number"], #wpdcom .wpd-form-row .wpdiscuz-item input[type="time"], #wpdcom textarea, #wpdcom select{border:1px solid #DDDDDD;color:#777777}#wpdcom .wpd-form-row .wpdiscuz-item textarea{border:1px solid #DDDDDD}#wpdcom input::placeholder, #wpdcom textarea::placeholder, #wpdcom input::-moz-placeholder, #wpdcom textarea::-webkit-input-placeholder{}#wpdcom .wpd-comment-text{color:#777777}#wpdcom .wpd-thread-head .wpd-thread-info{border-bottom:2px solid #009EED}#wpdcom .wpd-thread-head .wpd-thread-info.wpd-reviews-tab svg{fill:#009EED}#wpdcom .wpd-thread-head .wpdiscuz-user-settings{border-bottom:2px solid #009EED}#wpdcom .wpd-thread-head .wpdiscuz-user-settings:hover{color:#009EED}#wpdcom .wpd-comment .wpd-follow-link:hover{color:#009EED}#wpdcom .wpd-comment-status .wpd-sticky{color:#009EED}#wpdcom .wpd-thread-filter .wpdf-active{color:#009EED;border-bottom-color:#009EED}#wpdcom .wpd-comment-info-bar{border:1px dashed #33b2f1;background:#e6f6fe}#wpdcom .wpd-comment-info-bar .wpd-current-view i{color:#009EED}#wpdcom .wpd-filter-view-all:hover{background:#009EED}#wpdcom .wpdiscuz-item .wpdiscuz-rating > label{color:#DDDDDD}#wpdcom .wpdiscuz-item .wpdiscuz-rating:not(:checked) > label:hover, .wpdiscuz-rating:not(:checked) > label:hover ~ label{}#wpdcom .wpdiscuz-item .wpdiscuz-rating > input ~ label:hover, #wpdcom .wpdiscuz-item .wpdiscuz-rating > input:not(:checked) ~ label:hover ~ label, #wpdcom .wpdiscuz-item .wpdiscuz-rating > input:not(:checked) ~ label:hover ~ label{color:#FFED85}#wpdcom .wpdiscuz-item .wpdiscuz-rating > input:checked ~ label:hover, #wpdcom .wpdiscuz-item .wpdiscuz-rating > input:checked ~ label:hover, #wpdcom .wpdiscuz-item .wpdiscuz-rating > label:hover ~ input:checked ~ label, #wpdcom .wpdiscuz-item .wpdiscuz-rating > input:checked + label:hover ~ label, #wpdcom .wpdiscuz-item .wpdiscuz-rating > input:checked ~ label:hover ~ label, .wpd-custom-field .wcf-active-star, #wpdcom .wpdiscuz-item .wpdiscuz-rating > input:checked ~ label{color:#FFD700}#wpd-post-rating .wpd-rating-wrap .wpd-rating-stars svg .wpd-star{fill:#DDDDDD}#wpd-post-rating .wpd-rating-wrap .wpd-rating-stars svg .wpd-active{fill:#FFD700}#wpd-post-rating .wpd-rating-wrap .wpd-rate-starts svg .wpd-star{fill:#DDDDDD}#wpd-post-rating .wpd-rating-wrap .wpd-rate-starts:hover svg .wpd-star{fill:#FFED85}#wpd-post-rating.wpd-not-rated .wpd-rating-wrap .wpd-rate-starts svg:hover ~ svg .wpd-star{fill:#DDDDDD}.wpdiscuz-post-rating-wrap .wpd-rating .wpd-rating-wrap .wpd-rating-stars svg .wpd-star{fill:#DDDDDD}.wpdiscuz-post-rating-wrap .wpd-rating .wpd-rating-wrap .wpd-rating-stars svg .wpd-active{fill:#FFD700}#wpdcom .wpd-comment .wpd-follow-active{color:#ff7a00}#wpdcom .page-numbers{color:#555;border:#555 1px solid}#wpdcom span.current{background:#555}#wpdcom.wpd-layout-1 .wpd-new-loaded-comment > .wpd-comment-wrap > .wpd-comment-right{background:#FFFAD6}#wpdcom.wpd-layout-2 .wpd-new-loaded-comment.wpd-comment > .wpd-comment-wrap > .wpd-comment-right{background:#FFFAD6}#wpdcom.wpd-layout-2 .wpd-new-loaded-comment.wpd-comment.wpd-reply > .wpd-comment-wrap > .wpd-comment-right{background:transparent}#wpdcom.wpd-layout-2 .wpd-new-loaded-comment.wpd-comment.wpd-reply > .wpd-comment-wrap{background:#FFFAD6}#wpdcom.wpd-layout-3 .wpd-new-loaded-comment.wpd-comment > .wpd-comment-wrap > .wpd-comment-right{background:#FFFAD6}#wpdcom .wpd-follow:hover i, #wpdcom .wpd-unfollow:hover i, #wpdcom .wpd-comment .wpd-follow-active:hover i{color:#009EED}#wpdcom .wpdiscuz-readmore{cursor:pointer;color:#009EED}.wpd-custom-field .wcf-pasiv-star, #wpcomm .wpdiscuz-item .wpdiscuz-rating > label{color:#DDDDDD}.wpd-wrapper .wpd-list-item.wpd-active{border-top:3px solid #009EED}#wpdcom.wpd-layout-2 .wpd-comment.wpd-reply.wpd-unapproved-comment .wpd-comment-wrap{border-left:3px solid #FFFAD6}#wpdcom.wpd-layout-3 .wpd-comment.wpd-reply.wpd-unapproved-comment .wpd-comment-right{border-left:1px solid #FFFAD6}#wpdcom .wpd-prim-button{background-color:#555555;color:#FFFFFF}#wpdcom .wpd_label__check i.wpdicon-on{color:#555555;border:1px solid #aaaaaa}#wpd-bubble-wrapper #wpd-bubble-all-comments-count{color:#1DB99A}#wpd-bubble-wrapper > div{background-color:#1DB99A}#wpd-bubble-wrapper > #wpd-bubble #wpd-bubble-add-message{background-color:#1DB99A}#wpd-bubble-wrapper > #wpd-bubble #wpd-bubble-add-message::before{border-left-color:#1DB99A;border-right-color:#1DB99A}#wpd-bubble-wrapper.wpd-right-corner > #wpd-bubble #wpd-bubble-add-message::before{border-left-color:#1DB99A;border-right-color:#1DB99A}.wpd-inline-icon-wrapper path.wpd-inline-icon-first{fill:#1DB99A}.wpd-inline-icon-count{background-color:#1DB99A}.wpd-inline-icon-count::before{border-right-color:#1DB99A}.wpd-inline-form-wrapper::before{border-bottom-color:#1DB99A}.wpd-inline-form-question{background-color:#1DB99A}.wpd-inline-form{background-color:#1DB99A}.wpd-last-inline-comments-wrapper{border-color:#1DB99A}.wpd-last-inline-comments-wrapper::before{border-bottom-color:#1DB99A}.wpd-last-inline-comments-wrapper .wpd-view-all-inline-comments{background:#1DB99A}.wpd-last-inline-comments-wrapper .wpd-view-all-inline-comments:hover,.wpd-last-inline-comments-wrapper .wpd-view-all-inline-comments:active,.wpd-last-inline-comments-wrapper .wpd-view-all-inline-comments:focus{background-color:#1DB99A}#wpdcom .ql-snow .ql-tooltip[data-mode="link"]::before{content:"Enter link:"}#wpdcom .ql-snow .ql-tooltip.ql-editing a.ql-action::after{content:"Save"}.comments-area{width:auto}
+</style>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/css/fontawesome-all.min.css?ver=7.3.16" id="wpdiscuz-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/wpdiscuz/assets/css/wpdiscuz-combo.min.css?ver=6.1.1" id="wpdiscuz-combo-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/reviewer/public/assets/css/photoswipe.css?ver=3.14.2" id="reviewer-photoswipe-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-includes/css/dashicons.min.css?ver=6.1.1" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/reviewer/public/assets/css/reviewer-public.css?ver=3.14.2" id="reviewer-public-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.5.1" id="wordpress-popular-posts-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/wptelegram-widget/assets/static/css/wptelegram-widget--public.3d0c567f.css?ver=1643225207" id="wptelegram-widget--public-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/css/9.2.1/styles/app/all-light.min.css?ver=9.2.1" id="g1-main-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/css/9.2.1/styles/app/single-light.min.css?ver=9.2.1" id="bimber-single-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/css/9.2.1/styles/app/comments-light.min.css?ver=9.2.1" id="bimber-comments-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Work+Sans%3A400%2C300%2C500%2C600%2C700%2C800%2C900&amp;subset=latin%2Clatin-ext&amp;display=swap&amp;ver=9.2.1" id="bimber-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/uploads/dynamic-style-1645345037.css" id="bimber-dynamic-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.css?ver=8.3" id="subscribe-forms-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/easy-social-share-buttons3/assets/css/easy-social-share-buttons.css?ver=8.3" id="easy-social-share-buttons-css" media="all" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" id="font-awesome-official-css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/css/9.2.1/styles/app/snax-extra-light.min.css?ver=9.2.1" id="bimber-snax-extra-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/css/9.2.1/styles/app/essb-light.min.css?ver=9.2.1" id="bimber-essb-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/css/9.2.1/styles/app/mashshare-light.min.css?ver=9.2.1" id="bimber-mashshare-css" media="all" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.11.2/css/v4-shims.css" id="font-awesome-official-v4shim-css" integrity="sha384-/EdpJd7d6gGFiQ/vhh7iOjiZdf4+6K4al/XrX6FxxZwDSrAdWxAynr4p/EA/vyPQ" media="all" rel="stylesheet" type="text/css"/>
+<style id="font-awesome-official-v4shim-inline-css" type="text/css">
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-brands-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-brands-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-brands-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-brands-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-solid-900.eot"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-solid-900.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-solid-900.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-solid-900.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-regular-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-regular-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-regular-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-regular-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.11.2/webfonts/fa-regular-400.svg#fontawesome") format("svg");
+unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+}
+</style>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/jetpack/css/jetpack.css?ver=11.9-beta" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://149425939.v2.pressablecdn.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://149425939.v2.pressablecdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script id="adace-slot-slideup-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/ad-ace/assets/js/slot-slideup.js?ver=1.3.26" type="text/javascript"></script>
+<script id="shoppable-images-js-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/ad-ace/includes/shoppable-images/assets/js/shoppable-images-front.js?ver=1.3.26" type="text/javascript"></script>
+<script id="adace-coupons-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/ad-ace/assets/js/coupons.js?ver=1.3.26" type="text/javascript"></script>
+<script id="wpp-json" type="application/json">
+{"sampling_active":1,"sampling_rate":50,"ajax_url":"https:\/\/theduran.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/theduran.com\/wp-json\/wordpress-popular-posts","ID":103019,"token":"f0412917e5","lang":0,"debug":0}
+</script>
+<script id="wpp-js-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.5.1" type="text/javascript"></script>
+<script id="modernizr-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/modernizr/modernizr-custom.min.js?ver=3.3.0" type="text/javascript"></script>
+<link href="https://theduran.com/wp-json/" rel="https://api.w.org/"/><link href="https://theduran.com/wp-json/wp/v2/posts/103019" rel="alternate" type="application/json"/><link href="https://theduran.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://theduran.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="https://theduran.com/update-on-assange-and-the-extradition-hearing/" rel="canonical"/>
+<link href="https://theduran.com/?p=103019" rel="shortlink"/>
+<link href="https://theduran.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftheduran.com%2Fupdate-on-assange-and-the-extradition-hearing%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://theduran.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftheduran.com%2Fupdate-on-assange-and-the-extradition-hearing%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<link as="font" crossorigin="anonymous" href="https://theduran.com/wp-content/plugins/g1-socials/css/iconfont/fonts/g1-socials.woff" rel="preload" type="font/woff"/> <style>
+		.lazyload, .lazyloading {
+			opacity: 0;
+		}
+		.lazyloaded {
+			opacity: 1;
+		}
+		.lazyload,
+		.lazyloading,
+		.lazyloaded {
+			transition: opacity 0.175s ease-in-out;
+		}
+
+		iframe.lazyloading {
+			opacity: 1;
+			transition: opacity 0.375s ease-in-out;
+			background: #f2f2f2 no-repeat center;
+		}
+		iframe.lazyloaded {
+			opacity: 1;
+		}
+	</style>
+<!-- MailerLite Universal -->
+<script>
+                (function (m, a, i, l, e, r) {
+                    m['MailerLiteObject'] = e;
+
+                    function f() {
+                        var c = {a: arguments, q: []};
+                        var r = this.push(c);
+                        return "number" != typeof r ? r : f.bind(c.q);
+                    }
+
+                    f.q = f.q || [];
+                    m[e] = m[e] || f.bind(f.q);
+                    m[e].q = m[e].q || f.q;
+                    r = a.createElement(i);
+                    var _ = a.getElementsByTagName(i)[0];
+                    r.async = 1;
+                    r.src = l + '?' + (~~(new Date().getTime() / 10000000));
+                    _.parentNode.insertBefore(r, _);
+                })(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+                var ml_account = ml('accounts', '1553376', 'w9n8o2e1z5', 'load');
+            </script>
+<!-- End MailerLite Universal -->
+<link as="font" crossorigin="anonymous" href="https://theduran.com/wp-content/plugins/snax/css/snaxicon/fonts/snaxicon.woff" rel="preload" type="font/woff"/> <script type="text/javascript">
+        function nxsPostToFav(obj){ obj.preventDefault;
+            var k = obj.target.split("-"); var nt = k[0]; var ii = k[1];  var pid = k[2];
+            var data = {  action:'nxs_snap_aj', nxsact: 'manPost', nt:nt, id: pid, nid: ii, et_load_builder_modules:1, _wpnonce: 'd87af167d7'};
+            jQuery('#nxsFavNoticeCnt').html('<p> Posting... </p>'); jQuery('#nxsFavNotice').modal({ fadeDuration: 50 });
+            jQuery.post('https://theduran.com/wp-admin/admin-ajax.php', data, function(response) { if (response=='') response = 'Message Posted';
+                jQuery('#nxsFavNoticeCnt').html('<p> ' + response + '</p>' +'<input type="button"  onclick="jQuery.modal.close();" class="bClose" value="Close" />');
+            });
+        }
+    </script> <style>img#wpstats{display:none}</style>
+<style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+<style>
+	@font-face {
+		font-family: "bimber";
+					src:url("https://theduran.com/wp-content/themes/bimber/css/9.2.1/bunchy/fonts/bimber.eot");
+			src:url("https://theduran.com/wp-content/themes/bimber/css/9.2.1/bunchy/fonts/bimber.eot?#iefix") format("embedded-opentype"),
+			url("https://theduran.com/wp-content/themes/bimber/css/9.2.1/bunchy/fonts/bimber.woff") format("woff"),
+			url("https://theduran.com/wp-content/themes/bimber/css/9.2.1/bunchy/fonts/bimber.ttf") format("truetype"),
+			url("https://theduran.com/wp-content/themes/bimber/css/9.2.1/bunchy/fonts/bimber.svg#bimber") format("svg");
+						font-weight: normal;
+		font-style: normal;
+		font-display: block;
+	}
+	</style>
+<!-- Dynamic Widgets by QURL loaded - http://www.dynamic-widgets.com //-->
+<meta content="Update on Assange and the extradition hearing" name="ca_title"/><meta content="https://i0.wp.com/duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/11/01100610/maxresdefault.jpg?resize=150%2C150&amp;ssl=1" name="ca_image"/><link href="https://i0.wp.com/theduran.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png?fit=32%2C32&amp;ssl=1" rel="icon" sizes="32x32">
+<link href="https://i0.wp.com/theduran.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png?fit=192%2C192&amp;ssl=1" rel="icon" sizes="192x192">
+<link href="https://i0.wp.com/theduran.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png?fit=180%2C180&amp;ssl=1" rel="apple-touch-icon"/>
+<meta content="https://i0.wp.com/theduran.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png?fit=270%2C270&amp;ssl=1" name="msapplication-TileImage"/>
+<meta content="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/css/9.2.1/styles/mode-dark.min.css" name="g1:switch-skin-css"/> <script>if("undefined"!=typeof localStorage){var skinItemId=document.getElementsByName("g1:skin-item-id");skinItemId=skinItemId.length>0?skinItemId[0].getAttribute("content"):"g1_skin",window.g1SwitchSkin=function(e,t){if(e){var n=document.getElementById("g1-switch-skin-css");if(n){n.parentNode.removeChild(n),document.documentElement.classList.remove("g1-skinmode");try{localStorage.removeItem(skinItemId)}catch(e){}}else{t?document.write('<link id="g1-switch-skin-css" rel="stylesheet" type="text/css" media="all" href="'+document.getElementsByName("g1:switch-skin-css")[0].getAttribute("content")+'" />'):((n=document.createElement("link")).id="g1-switch-skin-css",n.href=document.getElementsByName("g1:switch-skin-css")[0].getAttribute("content"),n.rel="stylesheet",n.media="all",document.head.appendChild(n)),document.documentElement.classList.add("g1-skinmode");try{localStorage.setItem(skinItemId,e)}catch(e){}}}};try{var mode=localStorage.getItem(skinItemId);window.g1SwitchSkin(mode,!0)}catch(e){}}</script>
+<script>if("undefined"!=typeof localStorage){var nsfwItemId=document.getElementsByName("g1:nsfw-item-id");nsfwItemId=nsfwItemId.length>0?nsfwItemId[0].getAttribute("content"):"g1_nsfw_off",window.g1SwitchNSFW=function(e){e?(localStorage.setItem(nsfwItemId,1),document.documentElement.classList.add("g1-nsfw-off")):(localStorage.removeItem(nsfwItemId),document.documentElement.classList.remove("g1-nsfw-off"))};try{var nsfwmode=localStorage.getItem(nsfwItemId);window.g1SwitchNSFW(nsfwmode)}catch(e){}}</script>
+<style id="wp-custom-css" type="text/css">body {    
+    color: #000;
+}
+
+
+.wc_social_plugin_wrapper {
+    width: auto;
+    display: none;
+}
+
+.mailerlite-1-field-email {width:95%;}
+
+blockquote {
+	font-weight: 400;
+	font-size: 1.2em;
+	text-align: left;
+}
+
+.g1-newsletter [type=email] {
+    width: 100%;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+#user-badges {
+    display: none;
+}
+
+.youzer li {
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+}
+.mailerlite-form form {
+    background-color: #eee;
+    border-radius: 6px;
+    text-align: center;
+    padding: 30px;
+}
+.mailerlite-form-title h3 {
+    font-size: 34px;
+}
+input.mailerlite-subscribe-submit {
+    width: 100%;
+}
+.mailerlite-form-field input {
+    background: #fff;
+    width: 100%;
+}
+.mailerlite-form-description p {
+    color: #aaa;
+	display:none;
+}
+
+.paypalmewp.blue .paypalmewp__header {
+    
+    background: #fff !important;
+}
+
+.widget .paypalmewp .paypalmewp__image, .paypalmewp--widget .paypalmewp__image {
+    max-height: 20px;
+}
+
+.mailerlite-form-title h3 {
+    font-size: 24px;
+}
+
+.g1-row.g1-row-layout-page.page-header.page-header-03.archive-header.g1-dark {color:#000;}
+
+.g1-alpha.g1-alpha-2nd.page-title.archive-title {color: #000;}
+
+.entry-flags .entry-flag {
+    border-radius: 5px;
+}
+
+.g1-prefooter {
+    padding-top: 2rem;
+    border-top: solid 2px #ccc;
+}
+
+.jetpack_widget_social_icons svg {
+	fill: #999999;}
+
+.wp-block-wptelegram-widget-join-channel .join-link {
+    border-radius: 4px;
+}
+
+.wp-block-wptelegram-widget-join-channel .join-link:hover {
+    border-radius: 4px;
+}
+
+.wp-block-wptelegram-widget-join-channel {
+    padding: 2px;
+    float: left;
+}</style></link></link></head>
+<body class="post-template-default single single-post postid-103019 single-format-video wp-embed-responsive snax-hoverable g1-layout-stretched g1-hoverable g1-has-mobile-logo g1-sidebar-normal essb-8.3" itemscope="" itemtype="http://schema.org/WebPage">
+<div class="g1-body-inner">
+<div id="page">
+<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-normal g1-hb-row-a g1-hb-row-1 g1-hb-boxed g1-hb-sticky-off g1-hb-shadow-off">
+<div class="g1-row-inner">
+<div class="g1-column g1-dropable">
+<div class="g1-bin-1 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-left">
+<div class="g1-hb-search-form">
+<div class="search-form-wrapper" role="search">
+<form action="https://theduran.com/" class="g1-searchform-tpl-default g1-searchform-ajax search-form" method="get">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input class="search-field" name="s" placeholder="Search …" title="Search for:" type="search" value=""/>
+</label>
+<button class="search-submit">Search</button>
+</form>
+<div class="g1-searches g1-searches-ajax"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="g1-bin-2 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-center">
+</div>
+</div>
+<div class="g1-bin-3 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-right">
+<div class="g1-drop g1-drop-nojs g1-drop-with-anim g1-drop-before g1-drop-the-skin g1-drop-the-skin-light g1-drop-s g1-drop-icon">
+<button class="g1-button-none g1-drop-toggle">
+<span class="g1-drop-toggle-icon"></span><span class="g1-drop-toggle-text">Switch skin</span>
+<span class="g1-drop-toggle-arrow"></span>
+</button>
+<div class="g1-drop-content">
+<p class="g1-skinmode-desc">Switch to the dark mode that's kinder on your eyes at night time.</p>
+<p class="g1-skinmode-desc">Switch to the light mode that's kinder on your eyes at day time.</p>
+</div>
+</div>
+<nav class="g1-drop g1-drop-with-anim g1-drop-before g1-drop-the-user g1-drop-m g1-drop-text">
+<a class="g1-drop-toggle snax-login-required" href="https://theduran.com/wp-login.php?snax_login_popup=on">
+<span class="g1-drop-toggle-icon"></span><span class="g1-drop-toggle-text">Login</span>
+<span class="g1-drop-toggle-arrow"></span>
+</a>
+<div class="g1-drop-content"><ul class="sub-menu" id="menu-logged-in"><li class="snax-login-nav snax-login-required menu-item menu-item-type-custom menu-item-object-custom menu-item-70736" id="menu-item-70736"><a href="https://theduran.com/wp-login.php?snax_login_popup=on">Log In</a></li>
+<li class="snax-register-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-70737" id="menu-item-70737"><a href="https://theduran.com/wp-login.php?action=register">Register</a></li>
+<li class="menu-item-snax-collection-history snax-abstract_history-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-70738" id="menu-item-70738"><a href="https://theduran.com/snax_collection/history/">History</a></li>
+<li class="menu-item-snax-collection-read-later snax-abstract_read-later-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-70739" id="menu-item-70739"><a href="https://theduran.com/snax_collection/read-later/">Read Later</a></li>
+<li class="menu-item-snax-collection-favourites snax-abstract_favourites-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-70740" id="menu-item-70740"><a href="https://theduran.com/snax_collection/favourites/">Favourites</a></li>
+</ul></div>
+</nav>
+<div class="g1-drop g1-drop-with-anim g1-drop-before g1-drop-create">
+<a class="g1-button g1-button-solid snax-button snax-button-create snax-button-create-dropdown g1-drop-toggle g1-button-s" href="https://theduran.com/frontend-submission/">SHARE VIDEO						<span class="g1-drop-toggle-arrow"></span>
+</a>
+<div class="g1-drop-content snax">
+<a class="snax-format-video" href="https://theduran.com/frontend-submission/?snax_format=video">
+<span class="snax-format-icon"></span>
+<span class="g1-epsilon g1-epsilon-1st">Video</span>
+</a>
+<a class="snax-format-link" href="https://theduran.com/frontend-submission/?snax_format=link">
+<span class="snax-format-icon"></span>
+<span class="g1-epsilon g1-epsilon-1st">Link</span>
+</a>
+<a class="snax-format-text" href="https://theduran.com/frontend-submission/?snax_format=text">
+<span class="snax-format-icon"></span>
+<span class="g1-epsilon g1-epsilon-1st">Posts</span>
+</a>
+<a class="bimber-snax-dropdown-view-all g1-link g1-link-s g1-link-right" href="https://theduran.com/frontend-submission/">
+								View all formats							</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="g1-row-background"></div>
+</div>
+<div class="g1-sticky-top-wrapper g1-hb-row-2">
+<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-normal g1-hb-row-b g1-hb-row-2 g1-hb-boxed g1-hb-sticky-on g1-hb-shadow-off">
+<div class="g1-row-inner">
+<div class="g1-column g1-dropable">
+<div class="g1-bin-1 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-left">
+</div>
+</div>
+<div class="g1-bin-2 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-center">
+<div class="g1-id g1-id-desktop">
+<p class="g1-mega g1-mega-1st site-title">
+<a class="g1-logo-wrapper" href="https://theduran.com/" rel="home">
+<picture class="g1-logo g1-logo-default">
+<source media="(min-width: 1025px)" srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/theduran_icontext.png 2x ,https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/theduran_icontext.png 1x "/>
+<source media="(max-width: 1024px)" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20250%200%27%2F%3E"/>
+<img alt="The Duran" height="0" src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/theduran_icontext.png" width="250"/>
+</picture>
+<picture class="g1-logo g1-logo-inverted">
+<source data-srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/theduran_icontext_source_file-WHITE.png 2x,https://theduran.com/wp-content/uploads/2020/06/theduran_icontext_source_file-WHITE.png 1x" id="g1-logo-inverted-source" media="(min-width: 1025px)" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20250%200%27%2F%3E"/>
+<source media="(max-width: 1024px)" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20250%200%27%2F%3E"/>
+<img alt="" class="lazyload" data-src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/theduran_icontext_source_file-WHITE.png" height="0" id="g1-logo-inverted-img" src="" width="250"/>
+</picture>
+</a>
+</p>
+<script>
+            try {
+                if ( localStorage.getItem(skinItemId ) ) {
+                    var _g1;
+                    _g1 = document.getElementById('g1-logo-inverted-img');
+                    _g1.classList.remove('lazyload');
+                    _g1.setAttribute('src', _g1.getAttribute('data-src') );
+
+                    _g1 = document.getElementById('g1-logo-inverted-source');
+                    _g1.setAttribute('srcset', _g1.getAttribute('data-srcset'));
+                }
+            } catch(e) {}
+        </script>
+</div> </div>
+</div>
+<div class="g1-bin-3 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-right">
+</div>
+</div>
+</div>
+</div>
+<div class="g1-row-background"></div>
+</div>
+<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-normal g1-hb-row-c g1-hb-row-3 g1-hb-boxed g1-hb-sticky-on g1-hb-shadow-on">
+<div class="g1-row-inner">
+<div class="g1-column g1-dropable">
+<div class="g1-bin-1 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-left">
+</div>
+</div>
+<div class="g1-bin-2 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-center">
+<!-- BEGIN .g1-primary-nav -->
+<nav class="g1-primary-nav" id="g1-primary-nav"><ul class="g1-primary-nav-menu g1-menu-h" id="g1-primary-nav-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-g1-standard menu-item-11361" id="menu-item-11361"><a href="https://theduran.com/category/news/">NEWS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-g1-standard menu-item-49505" id="menu-item-49505"><a href="https://theduran.com/category/links/">LINKS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-g1-mega menu-item-has-children menu-item-2647" id="menu-item-2647"><a href="https://theduran.com/category/video/">VIDEO</a><div class="sub-menu-wrapper">
+<div class="g1-row">
+<div class="g1-row-inner">
+<div class="g1-column">
+<div class="g1-collection g1-collection-columns-4">
+<h2 class="g1-delta g1-delta-2nd screen-reader-text g1-collection-title"><span>Latest</span></h2>
+<div class="g1-collection-viewport">
+<ul class="g1-collection-items">
+<li class="g1-collection-item">
+<article class="entry-tpl-grid entry-tpl-grid-s post-126243 post type-post status-publish format-video has-post-thumbnail category-latest category-video tag-alex-christoforou post_format-post-format-video">
+<div class="entry-featured-media"><a class="g1-frame" href="https://theduran.com/the-times-west-quiet-about-nord-stream-lukashenko-calls-out-elensky-boris-and-belarus-guaido-u-2/" title="The Times, west quiet about Nord Stream. Lukashenko calls out Elensky. Boris and Belarus Guaido. U/2"><div class="g1-frame-inner"><img alt="" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" data-expand="600" data-sizes="(max-width: 364px) 100vw, 364px" data-src="https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44-364x205.jpg" data-srcset="https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 1280w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 300w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 1024w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 768w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 192w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 384w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 364w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 728w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 265w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 531w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 608w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 758w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08222654/maxresdefault-44.jpg 1152w" decoding="async" height="205" loading="lazy" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 364 205'%2F%3E" width="364"/><span class="g1-frame-icon g1-frame-icon-video"></span></div></a></div>
+<p class="entry-flags">
+<a class="entry-flag entry-flag-trending" href="https://theduran.com/trending/" title="Trending">
+						Trending					</a>
+</p>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+</div>
+<h3 class="g1-delta g1-delta-1st entry-title"><a href="https://theduran.com/the-times-west-quiet-about-nord-stream-lukashenko-calls-out-elensky-boris-and-belarus-guaido-u-2/" rel="bookmark">The Times, west quiet about Nord Stream. Lukashenko calls out Elensky. Boris and Belarus Guaido. U/2</a></h3>
+</header>
+</div>
+</article>
+</li>
+<li class="g1-collection-item">
+<article class="entry-tpl-grid entry-tpl-grid-s post-126230 post type-post status-publish format-video has-post-thumbnail category-latest category-video tag-alexander-mercouris post_format-post-format-video">
+<div class="entry-featured-media"><a class="g1-frame" href="https://theduran.com/russia-captures-east-bakhmut-zelensky-admits-its-importance-west-intel-nord-stream-attack-was-by-6-guys-and-a-boat/" title="Russia Captures East Bakhmut, Zelensky Admits Its Importance: West Intel: Nord Stream Attack Was by 6 Guys And A Boat"><div class="g1-frame-inner"><img alt="" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" data-expand="600" data-sizes="(max-width: 364px) 100vw, 364px" data-src="https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43-364x205.jpg" data-srcset="https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 1280w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 300w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 1024w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 768w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 192w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 384w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 364w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 728w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 265w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 531w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 608w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 758w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08212911/maxresdefault-43.jpg 1152w" decoding="async" height="205" loading="lazy" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 364 205'%2F%3E" width="364"/><span class="g1-frame-icon g1-frame-icon-video"></span></div></a></div>
+<p class="entry-flags">
+<a class="entry-flag entry-flag-trending" href="https://theduran.com/trending/" title="Trending">
+						Trending					</a>
+</p>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+</div>
+<h3 class="g1-delta g1-delta-1st entry-title"><a href="https://theduran.com/russia-captures-east-bakhmut-zelensky-admits-its-importance-west-intel-nord-stream-attack-was-by-6-guys-and-a-boat/" rel="bookmark">Russia Captures East Bakhmut, Zelensky Admits Its Importance: West Intel: Nord Stream Attack Was by 6 Guys And A Boat</a></h3>
+</header>
+</div>
+</article>
+</li>
+<li class="g1-collection-item">
+<article class="entry-tpl-grid entry-tpl-grid-s post-126206 post type-post status-publish format-video has-post-thumbnail category-latest category-video tag-the-money-gps tag-david-quintieri tag-inside-the-money post_format-post-format-video snax_format-video">
+<div class="entry-featured-media"><a class="g1-frame" href="https://theduran.com/what-are-the-pillars-of-prosperity-how-to-be-free-from-control/" title="What Are the Pillars of Prosperity? How To Be FREE from Control"><div class="g1-frame-inner"><img alt="" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" data-expand="600" data-sizes="(max-width: 364px) 100vw, 364px" data-src="https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37-364x205.jpg" data-srcset="https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 1280w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 300w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 1024w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 768w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 192w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 384w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 364w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 728w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 265w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 531w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 608w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 758w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122004/maxresdefault-37.jpg 1152w" decoding="async" height="205" loading="lazy" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 364 205'%2F%3E" width="364"/><span class="g1-frame-icon g1-frame-icon-video"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+</div>
+<h3 class="g1-delta g1-delta-1st entry-title"><a href="https://theduran.com/what-are-the-pillars-of-prosperity-how-to-be-free-from-control/" rel="bookmark">What Are the Pillars of Prosperity? How To Be FREE from Control</a></h3>
+</header>
+</div>
+</article>
+</li>
+<li class="g1-collection-item">
+<article class="entry-tpl-grid entry-tpl-grid-s post-126209 post type-post status-publish format-video has-post-thumbnail category-latest category-video tag-the-money-gps tag-david-quintieri tag-inside-the-money post_format-post-format-video snax_format-video">
+<div class="entry-featured-media"><a class="g1-frame" href="https://theduran.com/china-sends-big-signals-some-didnt-like-it/" title="China Sends BIG Signals | Some Didn’t Like It"><div class="g1-frame-inner"><img alt="" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" data-expand="600" data-sizes="(max-width: 364px) 100vw, 364px" data-src="https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38-364x205.jpg" data-srcset="https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 1280w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 300w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 1024w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 768w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 192w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 384w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 364w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 728w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 265w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 531w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 608w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 758w, https://duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/03/08122124/maxresdefault-38.jpg 1152w" decoding="async" height="205" loading="lazy" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 364 205'%2F%3E" width="364"/><span class="g1-frame-icon g1-frame-icon-video"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+</div>
+<h3 class="g1-delta g1-delta-1st entry-title"><a href="https://theduran.com/china-sends-big-signals-some-didnt-like-it/" rel="bookmark">China Sends BIG Signals | Some Didn’t Like It</a></h3>
+</header>
+</div>
+</article>
+</li>
+</ul>
+</div>
+</div><!-- .g1-collection -->
+</div>
+</div>
+</div>
+</div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-g1-standard menu-item-29601" id="menu-item-29601"><a href="https://drnshop.com/">SHOP</a></li>
+</ul></nav><!-- END .g1-primary-nav -->
+</div>
+</div>
+<div class="g1-bin-3 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-right">
+</div>
+</div>
+</div>
+</div>
+<div class="g1-row-background"></div>
+</div>
+</div>
+<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-mobile g1-hb-row-a g1-hb-row-1 g1-hb-boxed g1-hb-sticky-off g1-hb-shadow-off">
+<div class="g1-row-inner">
+<div class="g1-column g1-dropable">
+<div class="g1-bin-1 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-left">
+</div>
+</div>
+<div class="g1-bin-2 g1-bin-grow-on">
+<div class="g1-bin g1-bin-align-center">
+</div>
+</div>
+<div class="g1-bin-3 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-right">
+</div>
+</div>
+</div>
+</div>
+<div class="g1-row-background"></div>
+</div>
+<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-mobile g1-hb-row-b g1-hb-row-2 g1-hb-boxed g1-hb-sticky-off g1-hb-shadow-off">
+<div class="g1-row-inner">
+<div class="g1-column g1-dropable">
+<div class="g1-bin-1 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-left">
+<a class="g1-hamburger g1-hamburger-show g1-hamburger-s" href="#">
+<span class="g1-hamburger-icon"></span>
+<span class="g1-hamburger-label g1-hamburger-label-hidden">Menu</span>
+</a>
+</div>
+</div>
+<div class="g1-bin-2 g1-bin-grow-on">
+<div class="g1-bin g1-bin-align-left">
+<div class="g1-id g1-id-mobile">
+<p class="g1-mega g1-mega-1st site-title">
+<a class="g1-logo-wrapper" href="https://theduran.com/" rel="home">
+<picture class="g1-logo g1-logo-default">
+<source media="(max-width: 1024px)" srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/theduran_icontext.png 2x ,https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/theduran_icontext.png 1x "/>
+<source media="(min-width: 1025px)" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20160%200%27%2F%3E"/>
+<img alt="The Duran" height="0" src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/theduran_icontext.png" width="160"/>
+</picture>
+<picture class="g1-logo g1-logo-inverted">
+<source data-srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/theduran_icontext_source_file-WHITE.png 2x,https://theduran.com/wp-content/uploads/2020/06/theduran_icontext_source_file-WHITE.png 1x" id="g1-logo-mobile-inverted-source" media="(max-width: 1024px)" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20160%200%27%2F%3E"/>
+<source media="(min-width: 1025px)" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20160%200%27%2F%3E"/>
+<img alt="" class="lazyload" data-src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/theduran_icontext_source_file-WHITE.png" height="0" id="g1-logo-mobile-inverted-img" src="" width="160"/>
+</picture>
+</a>
+</p>
+<script>
+            try {
+                if ( localStorage.getItem(skinItemId ) ) {
+                    var _g1;
+                    _g1 = document.getElementById('g1-logo-mobile-inverted-img');
+                    _g1.classList.remove('lazyload');
+                    _g1.setAttribute('src', _g1.getAttribute('data-src') );
+
+                    _g1 = document.getElementById('g1-logo-mobile-inverted-source');
+                    _g1.setAttribute('srcset', _g1.getAttribute('data-srcset'));
+                }
+            } catch(e) {}
+        </script>
+</div> </div>
+</div>
+<div class="g1-bin-3 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-right">
+</div>
+</div>
+</div>
+</div>
+<div class="g1-row-background"></div>
+</div>
+<div class="g1-sticky-top-wrapper g1-hb-row-3">
+<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-mobile g1-hb-row-c g1-hb-row-3 g1-hb-boxed g1-hb-sticky-on g1-hb-shadow-off">
+<div class="g1-row-inner">
+<div class="g1-column g1-dropable">
+<div class="g1-bin-1 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-left">
+</div>
+</div>
+<div class="g1-bin-2 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-center">
+</div>
+</div>
+<div class="g1-bin-3 g1-bin-grow-off">
+<div class="g1-bin g1-bin-align-right">
+</div>
+</div>
+</div>
+</div>
+<div class="g1-row-background"></div>
+</div>
+</div>
+<div class="g1-row g1-row-padding-xs g1-row-layout-page g1-row-breadcrumbs">
+<div class="g1-row-background">
+</div>
+<div class="g1-row-inner">
+<div class="g1-column">
+<nav class="g1-breadcrumbs g1-breadcrumbs-with-ellipsis g1-meta">
+<p class="g1-breadcrumbs-label">You are here: </p>
+<ol itemscope="" itemtype="http://schema.org/BreadcrumbList"><li class="g1-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a content="https://theduran.com/" href="https://theduran.com/" itemprop="item">
+<span itemprop="name">Home</span>
+<meta content="1" itemprop="position"/>
+</a>
+</li><li class="g1-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a content="https://theduran.com/category/video/" href="https://theduran.com/category/video/" itemprop="item">
+<span itemprop="name">Video</span>
+<meta content="2" itemprop="position"/>
+</a>
+</li><li class="g1-breadcrumbs-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<span itemprop="name">Update on Assange and the extradition hearing</span>
+<meta content="3" itemprop="position"/>
+<meta content="https://theduran.com/update-on-assange-and-the-extradition-hearing/" itemprop="item"/>
+</li></ol>
+</nav> </div>
+</div>
+</div><!-- .g1-row -->
+<div class="g1-row g1-row-padding-m g1-row-layout-page">
+<div class="g1-row-background">
+</div>
+<div class="g1-row-inner">
+<div class="g1-column g1-column-2of3" id="primary">
+<div id="content" role="main">
+<article class="entry-tpl-classic post-103019 post type-post status-publish format-video has-post-thumbnail category-latest category-video tag-the-duran post_format-post-format-video" id="post-103019" itemscope='""' itemtype="http://schema.org/Article">
+<div class="entry-inner">
+<header class="entry-header entry-header-01">
+<div class="entry-before-title">
+<span class="entry-categories entry-categories-l"><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a class="entry-category entry-category-item-56" href="https://theduran.com/category/latest/"><span itemprop="articleSection">Latest</span></a>, <a class="entry-category entry-category-item-72" href="https://theduran.com/category/video/"><span itemprop="articleSection">Video</span></a></span></span>
+</div>
+<h1 class="g1-mega g1-mega-1st entry-title" itemprop="headline">Update on Assange and the extradition hearing</h1>
+<p class="g1-meta g1-meta-m entry-meta entry-meta-m">
+<span class="entry-byline entry-byline-m entry-byline-with-avatar">
+<span class="entry-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<span class="entry-meta-label">by</span>
+<a href="https://theduran.com/author/newri/" rel="author" title="Posts by The Duran">
+<img 0="" 40="" 40'%2f%3e'="" alt="" class="lazyload avatar avatar-40 photo" data-expand="600" data-src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png" data-srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png 2x" height="40" http%3a%2f%2fwww.w3.org%2f2000%2fsvg'="" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D" viewbox%3d'0="" width="40"/>
+<strong itemprop="name">The Duran</strong>
+</a>
+</span>
+<time class="entry-date" datetime="2021-11-01T10:06:07+02:00" itemprop="datePublished">November 1, 2021</time> </span>
+<span class="entry-stats entry-stats-m">
+<span class="entry-views"><strong>520</strong><span> Views</span></span>
+<span class="entry-comments-link entry-comments-link-x"><a href="https://theduran.com/update-on-assange-and-the-extradition-hearing/#comments"><strong>2</strong> <span>Comments</span></a></span> </span>
+</p>
+<div class="essb_links essb_displayed_bimber_top essb_share essb_template_copy-retina essb_653987023 essb_width_flex essb_size_m essb_links_center print-no" data-essb-button-style="button" data-essb-counter-pos="hidden" data-essb-fullurl="https://theduran.com/update-on-assange-and-the-extradition-hearing/" data-essb-instance="653987023" data-essb-position="bimber_top" data-essb-postid="103019" data-essb-template="copy-retina" data-essb-url="https://theduran.com/update-on-assange-and-the-extradition-hearing/" id="essb_displayed_bimber_top_653987023"><ul class="essb_links_list"><li class="essb_item essb_link_telegram nolightbox"> <a class="nolightbox" href="tg://msg?text=Update%20on%20Assange%20and%20the%20extradition%20hearing%20https%3A%2F%2Ftheduran.com%2Fupdate-on-assange-and-the-extradition-hearing%2F" onclick="essb.tracking_only('', 'telegram', '653987023', true);" rel="nofollow" target="_blank" title="Share on Telegram"><span class="essb_icon essb_icon_telegram"></span><span class="essb_network_name">Telegram</span></a></li><li class="essb_item essb_link_mail nolightbox"> <a class="nolightbox" href="#" onclick="essb_open_mailform('653987023'); return false;" rel="nofollow" target="_blank" title="Share on Email"><span class="essb_icon essb_icon_mail"></span><span class="essb_network_name">Email</span></a></li><li class="essb_item essb_link_comments nolightbox"> <a class="nolightbox" href="#comments" onclick="essb.tracking_only('', 'comments', '653987023', true);" rel="nofollow" target="_self" title="Share on Comments"><span class="essb_icon essb_icon_comments"></span><span class="essb_network_name">Comments</span></a></li></ul></div>
+</header>
+<div class="g1-content-narrow g1-typography-xl entry-content" itemprop="articleBody">
+<div class="adace-slot-wrapper adace-before-content adace-slot-wrapper-main">
+<div class="adace-disclaimer">
+</div>
+<div class="adace-slot">
+<div class="adace_ad_6409522ba553f">
+<p><i>The statements, views and opinions expressed in this column are solely those of the author and do not necessarily represent those of this site. This site does not give financial, investment or medical advice.</i></p>
+
+</div>
+</div>
+</div>
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="373" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/nZPZIVqa85A?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" style="border:0;" width="662"></iframe></span></p>
+<p>Update on Assange and the extradition hearing<br/>
+The Duran: Episode 1127</p>
+<div class="snax snax-post-container">
+</div>
+<div class="snax-actions"><p><button class="g1-button g1-button-s g1-button-subtle snax-action snax-action-add-to-collection snax-action-add-to-collection-read-later" data-snax-collection="read-later" data-snax-nonce="a4ec8c50fc" data-snax-post="103019" data-snax-redirect="https://theduran.com/snax_collection/read-later/" type="button">Read Later</button><button class="g1-button g1-button-s g1-button-subtle snax-action snax-action-add-to-collection snax-action-add-to-collection-favourites" data-snax-collection="favourites" data-snax-nonce="a4ec8c50fc" data-snax-post="103019" data-snax-redirect="https://theduran.com/snax_collection/favourites/" type="button">Add to Favourites</button><button class="g1-button g1-button-s g1-button-subtle snax-action snax-action-add-to-collection snax-action-add-to-collection-custom snax-action" data-snax-collection="custom" data-snax-nonce="a4ec8c50fc" data-snax-post="103019" data-snax-redirect="https://theduran.com/snax_collection/custom/" type="button">Add to Collection</button><a class="g1-button g1-button-s g1-button-subtle snax-action snax-action-report" href="mailto:alex@theduran.com?subject=Hey,%20I%20would%20like%20to%20report%20an%20abuse&amp;body=Reported%20link:%20https://theduran.com/update-on-assange-and-the-extradition-hearing/" target="_blank">Report</a></p></div><div class="adace-slot-wrapper adace-after-content adace-align-left adace-slot-wrapper-main" style="text-align:left;">
+<div class="adace-disclaimer">
+</div>
+<div class="adace-slot">
+<div class="adace_ad_6409522ba5a57">
+<p><i>The statements, views and opinions expressed in this column are solely those of the author and do not necessarily represent those of this site. This site does not give financial, investment or medical advice.</i></p>
+
+</div>
+</div>
+</div>
+</div>
+</div><!-- .todo -->
+<p class="entry-tags"><span class="entry-tags-inner"><a class="entry-tag entry-tag-2145" href="https://theduran.com/tag/the-duran/">The Duran</a></span></p> <div class="snax snax-post-container">
+<div class="snax-voting-container">
+<h2 class="g1-delta g1-delta-2nd"><span>What do you think?</span></h2>
+<div class="snax-voting-container-body">
+<div class="snax-voting snax-voting-positive snax-voting-large" data-snax-item-id="103019">
+<div class="snax-voting-score" data-snax-voting-score="1">
+<strong>1</strong> Point			</div>
+<a class="snax-voting-upvote snax-vote snax-vote-up snax-guest-voting" data-snax-author-id="0" data-snax-item-id="103019" data-snax-nonce="9dd5f561b6" href="#" title="Upvote"><span class="snax-vote-icon snax-vote-icon-caret"></span> Upvote</a>
+<a class="snax-voting-downvote snax-vote snax-vote-down snax-guest-voting" data-snax-author-id="0" data-snax-item-id="103019" data-snax-nonce="9dd5f561b6" href="#" title="Downvote"><span class="snax-vote-icon snax-vote-icon-caret"></span> Downvote</a>
+</div>
+</div>
+</div>
+</div>
+<div class="g1-comments g1-comments-with-tabs" id="comments">
+<div class="wpdiscuz_top_clearing"></div>
+<div class="comments-area" id="comments"><div id="respond" style="width: 0;height: 0;clear: both;margin: 0;padding: 0;"></div> <div class="wpdiscuz_unauth wpd-default wpd-layout-3 wpd-comments-open" id="wpdcom">
+<div class="wc_social_plugin_wrapper">
+<img 0="" 36="" 36'%2f%3e'="" alt="" class="lazyload avatar avatar-36 photo avatar-placeholder" data-expand="600" data-src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png" data-srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png 2x" height="36" http%3a%2f%2fwww.w3.org%2f2000%2fsvg'="" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D" viewbox%3d'0="" width="36"/> </div>
+<div class="wpd-form-wrap">
+<div class="wpd-form-head">
+<div class="wpd-sbs-toggle">
+<i class="far fa-envelope"></i> <span class="wpd-sbs-title">Subscribe</span> <i class="fas fa-caret-down"></i>
+</div>
+<div class="wpd-auth">
+<div class="wpd-login">
+</div>
+</div>
+</div>
+<div class="wpdiscuz-subscribe-bar wpdiscuz-hidden">
+<form action="https://theduran.com/wp-admin/admin-ajax.php?action=wpdAddSubscription" id="wpdiscuz-subscribe-form" method="post">
+<div class="wpdiscuz-subscribe-form-intro">Notify of </div>
+<div class="wpdiscuz-subscribe-form-option" style="width:40%;">
+<select class="wpdiscuz_select" name="wpdiscuzSubscriptionType">
+<option value="post">new follow-up comments</option>
+<option value="all_comment">new replies to my comments</option>
+</select>
+</div>
+<div class="wpdiscuz-item wpdiscuz-subscribe-form-email">
+<input class="email" name="wpdiscuzSubscriptionEmail" placeholder="Email" required="required" type="email" value=""/>
+</div>
+<div class="wpdiscuz-subscribe-form-button">
+<input class="wpd-prim-button" id="wpdiscuz_subscription_button" name="wpdiscuz_subscription_button" type="submit" value="›"/>
+</div>
+<input id="wpdiscuz_subscribe_form_nonce" name="wpdiscuz_subscribe_form_nonce" type="hidden" value="6326d8d8ba"/><input name="_wp_http_referer" type="hidden" value="/update-on-assange-and-the-extradition-hearing/?ml_subscriber=1809586520965781116&amp;ml_subscriber_hash=w5o6"/> </form>
+</div>
+<div class="wpd-form wpd-form-wrapper wpd-main-form-wrapper" id="wpd-main-form-wrapper-0_0">
+<form class="wpd_comm_form wpd_main_comm_form" data-uploading="false" enctype="multipart/form-data" method="post">
+<div class="wpd-field-comment">
+<div class="wpdiscuz-item wc-field-textarea">
+<div class="wpdiscuz-textarea-wrap">
+<div class="wpd-avatar">
+<img 0="" 56="" 56'%2f%3e'="" alt="guest" class="lazyload avatar avatar-56 photo" data-expand="600" data-src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png" data-srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png 2x" height="56" http%3a%2f%2fwww.w3.org%2f2000%2fsvg'="" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D" viewbox%3d'0="" width="56"/> </div>
+<div id="wpd-editor-wraper-0_0" style="display: none;">
+<div class="wpd-editor-char-counter" id="wpd-editor-char-counter-0_0"></div>
+<label for="wc-textarea-0_0" style="display: none;">Label</label>
+<textarea class="wc_comment wpd-field" id="wc-textarea-0_0" name="wc_comment" required=""></textarea>
+<div id="wpd-editor-0_0"></div>
+<div id="wpd-editor-toolbar-0_0">
+<button class="ql-bold" title="Bold"></button>
+<button class="ql-italic" title="Italic"></button>
+<button class="ql-underline" title="Underline"></button>
+<button class="ql-strike" title="Strike"></button>
+<button class="ql-list" title="Ordered List" value="ordered"></button>
+<button class="ql-list" title="Unordered List" value="bullet"></button>
+<button class="ql-blockquote" title="Blockquote"></button>
+<button class="ql-code-block" title="Code Block"></button>
+<button class="ql-link" title="Link"></button>
+<button class="ql-sourcecode" data-wpde_button_name="sourcecode" title="Source Code">{}</button>
+<button class="ql-spoiler" data-wpde_button_name="spoiler" title="Spoiler">[+]</button>
+<div class="wpd-editor-buttons-right">
+<span class="wmu-upload-wrap" wpd-tooltip="Attach an image to this comment" wpd-tooltip-position="left"><label class="wmu-add"><i class="far fa-image"></i><input accept="image/*" class="wmu-add-files" name="wmu_files[]" style="display:none;" type="file"/></label></span> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wpd-form-foot" style="display:none;">
+<div class="wpdiscuz-textarea-foot">
+<div class="wpdiscuz-button-actions"><div class="wmu-action-wrap"><div class="wmu-tabs wmu-images-tab wmu-hide"></div></div></div>
+</div>
+<div class="wpd-form-row">
+<div class="wpd-form-col-left">
+<div class="wpdiscuz-item wc_name-wrapper wpd-has-icon">
+<div class="wpd-field-icon"><i class="fas fa-user"></i></div>
+<input aria-required="true" class="wc_name wpd-field" id="wc_name-0_0" maxlength="50" name="wc_name" pattern=".{3,50}" placeholder="Name*" required="required" title="" type="text" value=""/>
+<label class="wpdlb" for="wc_name-0_0">Name*</label>
+</div>
+<div class="wpdiscuz-item wc_email-wrapper wpd-has-icon">
+<div class="wpd-field-icon"><i class="fas fa-at"></i></div>
+<input aria-required="true" class="wc_email wpd-field" id="wc_email-0_0" name="wc_email" placeholder="Email*" required="required" type="email" value="">
+<label class="wpdlb" for="wc_email-0_0">Email*</label>
+</input></div>
+<div class="wpdiscuz-item wc_website-wrapper wpd-has-icon">
+<div class="wpd-field-icon"><i class="fas fa-link"></i></div>
+<input class="wc_website wpd-field" id="wc_website-0_0" name="wc_website" placeholder="Website" type="text" value=""/>
+<label class="wpdlb" for="wc_website-0_0">Website</label>
+</div>
+</div>
+<div class="wpd-form-col-right">
+<div class="wc-field-submit">
+<label class="wpd_label" wpd-tooltip="Notify of new replies to this comment">
+<input class="wc_notification_new_comment-0_0 wpd_label__checkbox" id="wc_notification_new_comment-0_0" name="wpdiscuz_notification_type" type="checkbox" value="comment"/>
+<span class="wpd_label__text">
+<span class="wpd_label__check">
+<i class="fas fa-bell wpdicon wpdicon-on"></i>
+<i class="fas fa-bell-slash wpdicon wpdicon-off"></i>
+</span>
+</span>
+</label>
+<input class="wc_comm_submit wpd_not_clicked wpd-prim-button" id="wpd-field-submit-0_0" name="submit" type="submit" value="Post Comment"/>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="wpd-form-row">
+<div class="wpd-form-col-left">
+<div class="wpdiscuz-item wpd-field-group wpd-field-rating custom_field_5feb25ca55280-wrapper">
+<div class="wpd-field-group-title">
+                Rate this article                            </div>
+<div class="wpd-item-wrap">
+<fieldset class="wpdiscuz-rating">
+<input id="wpdiscuz-star_0_06409522ba79e5_5" name="custom_field_5feb25ca55280" type="radio" value="5"/>
+<label class="fas fa-star full" for="wpdiscuz-star_0_06409522ba79e5_5" title="5"></label>
+<input id="wpdiscuz-star_0_06409522ba79e5_4" name="custom_field_5feb25ca55280" type="radio" value="4"/>
+<label class="fas fa-star full" for="wpdiscuz-star_0_06409522ba79e5_4" title="4"></label>
+<input id="wpdiscuz-star_0_06409522ba79e5_3" name="custom_field_5feb25ca55280" type="radio" value="3"/>
+<label class="fas fa-star full" for="wpdiscuz-star_0_06409522ba79e5_3" title="3"></label>
+<input id="wpdiscuz-star_0_06409522ba79e5_2" name="custom_field_5feb25ca55280" type="radio" value="2"/>
+<label class="fas fa-star full" for="wpdiscuz-star_0_06409522ba79e5_2" title="2"></label>
+<input id="wpdiscuz-star_0_06409522ba79e5_1" name="custom_field_5feb25ca55280" type="radio" value="1"/>
+<label class="fas fa-star full" for="wpdiscuz-star_0_06409522ba79e5_1" title="1"></label>
+</fieldset>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="wpd-form-col-right">
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<input class="wpdiscuz_unique_id" name="wpdiscuz_unique_id" type="hidden" value="0_0"/>
+</form>
+</div>
+<div id="wpdiscuz_hidden_secondary_form" style="display: none;">
+<div class="wpd-form wpd-form-wrapper wpd-secondary-form-wrapper" id="wpd-secondary-form-wrapper-wpdiscuzuniqueid" style="display: none;">
+<div class="wpd-secondary-forms-social-content"></div><div class="clearfix"></div>
+<form class="wpd_comm_form wpd-secondary-form-wrapper" data-uploading="false" enctype="multipart/form-data" method="post">
+<div class="wpd-field-comment">
+<div class="wpdiscuz-item wc-field-textarea">
+<div class="wpdiscuz-textarea-wrap">
+<div class="wpd-avatar">
+<img 0="" 56="" 56'%2f%3e'="" alt="guest" class="lazyload avatar avatar-56 photo" data-expand="600" data-src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png" data-srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png 2x" height="56" http%3a%2f%2fwww.w3.org%2f2000%2fsvg'="" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D" viewbox%3d'0="" width="56"/> </div>
+<div id="wpd-editor-wraper-wpdiscuzuniqueid" style="display: none;">
+<div class="wpd-editor-char-counter" id="wpd-editor-char-counter-wpdiscuzuniqueid"></div>
+<label for="wc-textarea-wpdiscuzuniqueid" style="display: none;">Label</label>
+<textarea class="wc_comment wpd-field" id="wc-textarea-wpdiscuzuniqueid" name="wc_comment" required=""></textarea>
+<div id="wpd-editor-wpdiscuzuniqueid"></div>
+<div id="wpd-editor-toolbar-wpdiscuzuniqueid">
+<button class="ql-bold" title="Bold"></button>
+<button class="ql-italic" title="Italic"></button>
+<button class="ql-underline" title="Underline"></button>
+<button class="ql-strike" title="Strike"></button>
+<button class="ql-list" title="Ordered List" value="ordered"></button>
+<button class="ql-list" title="Unordered List" value="bullet"></button>
+<button class="ql-blockquote" title="Blockquote"></button>
+<button class="ql-code-block" title="Code Block"></button>
+<button class="ql-link" title="Link"></button>
+<button class="ql-sourcecode" data-wpde_button_name="sourcecode" title="Source Code">{}</button>
+<button class="ql-spoiler" data-wpde_button_name="spoiler" title="Spoiler">[+]</button>
+<div class="wpd-editor-buttons-right">
+<span class="wmu-upload-wrap" wpd-tooltip="Attach an image to this comment" wpd-tooltip-position="left"><label class="wmu-add"><i class="far fa-image"></i><input accept="image/*" class="wmu-add-files" name="wmu_files[]" style="display:none;" type="file"/></label></span> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wpd-form-foot" style="display:none;">
+<div class="wpdiscuz-textarea-foot">
+<div class="wpdiscuz-button-actions"><div class="wmu-action-wrap"><div class="wmu-tabs wmu-images-tab wmu-hide"></div></div></div>
+</div>
+<div class="wpd-form-row">
+<div class="wpd-form-col-left">
+<div class="wpdiscuz-item wc_name-wrapper wpd-has-icon">
+<div class="wpd-field-icon"><i class="fas fa-user"></i></div>
+<input aria-required="true" class="wc_name wpd-field" id="wc_name-wpdiscuzuniqueid" maxlength="50" name="wc_name" pattern=".{3,50}" placeholder="Name*" required="required" title="" type="text" value=""/>
+<label class="wpdlb" for="wc_name-wpdiscuzuniqueid">Name*</label>
+</div>
+<div class="wpdiscuz-item wc_email-wrapper wpd-has-icon">
+<div class="wpd-field-icon"><i class="fas fa-at"></i></div>
+<input aria-required="true" class="wc_email wpd-field" id="wc_email-wpdiscuzuniqueid" name="wc_email" placeholder="Email*" required="required" type="email" value="">
+<label class="wpdlb" for="wc_email-wpdiscuzuniqueid">Email*</label>
+</input></div>
+<div class="wpdiscuz-item wc_website-wrapper wpd-has-icon">
+<div class="wpd-field-icon"><i class="fas fa-link"></i></div>
+<input class="wc_website wpd-field" id="wc_website-wpdiscuzuniqueid" name="wc_website" placeholder="Website" type="text" value=""/>
+<label class="wpdlb" for="wc_website-wpdiscuzuniqueid">Website</label>
+</div>
+</div>
+<div class="wpd-form-col-right">
+<div class="wc-field-submit">
+<label class="wpd_label" wpd-tooltip="Notify of new replies to this comment">
+<input class="wc_notification_new_comment-wpdiscuzuniqueid wpd_label__checkbox" id="wc_notification_new_comment-wpdiscuzuniqueid" name="wpdiscuz_notification_type" type="checkbox" value="comment"/>
+<span class="wpd_label__text">
+<span class="wpd_label__check">
+<i class="fas fa-bell wpdicon wpdicon-on"></i>
+<i class="fas fa-bell-slash wpdicon wpdicon-off"></i>
+</span>
+</span>
+</label>
+<input class="wc_comm_submit wpd_not_clicked wpd-prim-button" id="wpd-field-submit-wpdiscuzuniqueid" name="submit" type="submit" value="Post Comment"/>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="wpd-form-row">
+<div class="wpd-form-col-left">
+</div>
+<div class="wpd-form-col-right">
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<input class="wpdiscuz_unique_id" name="wpdiscuz_unique_id" type="hidden" value="wpdiscuzuniqueid"/>
+</form>
+</div>
+</div>
+</div>
+<div class="wpd-thread-wrapper" id="wpd-threads">
+<div class="wpd-thread-head">
+<div class="wpd-thread-info" data-comments-count="2">
+<span class="wpdtc" title="2">2</span> Comments                    </div>
+<div class="wpd-space"></div>
+<div class="wpd-thread-filter">
+<div class="wpd-filter wpdf-reacted wpd_not_clicked" wpd-tooltip="Most reacted comment"><i class="fas fa-bolt"></i></div>
+<div class="wpd-filter wpdf-hottest wpd_not_clicked" wpd-tooltip="Hottest comment thread"><i class="fas fa-fire"></i></div>
+<div class="wpd-filter wpdf-sorting">
+<span class="wpdiscuz-sort-button wpdiscuz-date-sort-asc wpdiscuz-sort-button-active" data-sorting="oldest">Oldest</span>
+<i class="fas fa-sort-down"></i>
+<div class="wpdiscuz-sort-buttons">
+<span class="wpdiscuz-sort-button wpdiscuz-date-sort-desc" data-sorting="newest">Newest</span>
+<span class="wpdiscuz-sort-button wpdiscuz-vote-sort-up" data-sorting="by_vote">Most Voted</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wpd-comment-info-bar">
+<div class="wpd-current-view"><i class="fas fa-quote-left"></i> Inline Feedbacks</div>
+<div class="wpd-filter-view-all">View all comments</div>
+</div>
+<div class="wpd-thread-list">
+<div class="wpd-comment wpd_comment_level-1" id="wpd-comm-202480_0"><div class="wpd-comment-wrap wpd-blog-guest">
+<div class="wpd-comment-left">
+<div class="wpd-avatar">
+<img 0="" 64="" 64'%2f%3e'="" alt="Sara" class="lazyload avatar avatar-64 photo" data-expand="600" data-src="https://secure.gravatar.com/avatar/a8c4100f342f6c88ab85c82a07398b03?s=64&amp;d=retro&amp;r=g" data-srcset="https://secure.gravatar.com/avatar/a8c4100f342f6c88ab85c82a07398b03?s=128&amp;d=retro&amp;r=g 2x" decoding="async" height="64" http%3a%2f%2fwww.w3.org%2f2000%2fsvg'="" loading="lazy" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D" viewbox%3d'0="" width="64"/>
+</div>
+</div>
+<div class="wpd-comment-right" id="comment-202480">
+<div class="wpd-comment-header">
+<div class="wpd-comment-author">
+    Sara
+</div>
+<div class="wpd-comment-share wpd-hidden wpd-tooltip wpd-top">
+<i aria-hidden="true" class="fas fa-share-alt"></i>
+<div class="wpd-tooltip-content">
+<a class="wc_tw" href="https://twitter.com/intent/tweet?text=Rate this article :      I g... &amp;url=https%3A%2F%2Ftheduran.com%2Fupdate-on-assange-and-the-extradition-hearing%2F%23comment-202480" rel="noreferrer" target="_blank" title="Share On Twitter"><i aria-hidden="true" class="fab fa-twitter wpf-cta"></i></a><a class="wc_vk" href="https://vk.com/share.php?url=https://theduran.com/update-on-assange-and-the-extradition-hearing/" rel="noreferrer" target="_blank" title="Share On VKontakte"><i aria-hidden="true" class="fab fa-vk wpf-cta"></i></a><a class="wc_ok" href="https://connect.ok.ru/offer?url=https://theduran.com/update-on-assange-and-the-extradition-hearing/" rel="noreferrer" target="_blank" title="Share On Odnoklassniki"><i aria-hidden="true" class="fab fa-odnoklassniki wpf-cta"></i></a>
+</div>
+</div>
+<div class="wpd-space"></div>
+<div class="wpd-comment-link wpd-hidden">
+<span wpd-tooltip="Comment Link" wpd-tooltip-position="left"><i aria-hidden="true" class="fas fa-link" data-wpd-clipboard="https://theduran.com/update-on-assange-and-the-extradition-hearing/#comment-202480"></i></span>
+</div>
+</div>
+<div class="wpd-comment-subheader">
+<div class="wpd-comment-date" title="November 1, 2021 ">
+<i aria-hidden="true" class="far fa-clock"></i>
+    November 1, 2021 
+</div>
+</div>
+<div class="wpd-comment-text">
+<div class="wpd-top-custom-fields"><div class="wpd-custom-field wpd-cf-rating"><div class="wpd-cf-label">Rate this article : </div><div class="wpd-cf-value"><i aria-hidden="true" class="fas fa-star wcf-active-star"></i> <i aria-hidden="true" class="fas fa-star wcf-active-star"></i> <i aria-hidden="true" class="fas fa-star wcf-active-star"></i> <i aria-hidden="true" class="fas fa-star wcf-active-star"></i> <i aria-hidden="true" class="fas fa-star wcf-active-star"></i> </div></div></div><p>I get paid more than $90 to $100 per hour for working online. I heard about this job 3 months ago and after joining this I have earned easily $10k from this without having online working skills . Simply give it a shot on<br/>
+ the accompanying site…. <a href="http://www.cashoffer9.com/" rel="noopener nofollow ugc" target="_blank"><strong><a href="http://www.cashoffer9.com" rel="nofollow ugc">http://www.cashoffer9.com</a></strong></a></p>
+</div><div class="wpd-comment-last-edited"><i class="far fa-edit"></i>Last edited 1 year ago by Sara</div>
+<div class="wpd-comment-footer">
+<div class="wpd-vote">
+<div class="wpd-vote-up wpd_not_clicked">
+<svg aria-hidden="true" class="svg-inline--fa fa-chevron-up fa-w-14" data-icon="chevron-up" data-prefix="fas" focusable="false" role="img" viewbox="0 0 448 512" xmlns="https://www.w3.org/2000/svg"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg>
+</div>
+<div class="wpd-vote-result wpd-down" title="-1">-1</div>
+<div class="wpd-vote-down wpd_not_clicked">
+<svg aria-hidden="true" class="svg-inline--fa fa-chevron-down fa-w-14" data-icon="chevron-down" data-prefix="fas" focusable="false" role="img" viewbox="0 0 448 512" xmlns="https://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
+</div>
+</div>
+<div class="wpd-reply-button">
+<svg viewbox="0 0 24 24" xmlns="https://www.w3.org/2000/svg"><path d="M10 9V5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg>
+<span>Reply</span>
+</div>
+<div class="wpd-wpanel"></div>
+<div class="wpd-space"></div>
+</div>
+</div>
+</div><div id="wpdiscuz_form_anchor-202480_0"></div></div><div class="wpd-comment wpd_comment_level-1" id="wpd-comm-202490_0"><div class="wpd-comment-wrap wpd-blog-guest">
+<div class="wpd-comment-left">
+<div class="wpd-avatar">
+<img 0="" 64="" 64'%2f%3e'="" alt="Maria Haggard" class="lazyload avatar avatar-64 photo" data-expand="600" data-src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png" data-srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png 2x" height="64" http%3a%2f%2fwww.w3.org%2f2000%2fsvg'="" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D" viewbox%3d'0="" width="64"/>
+</div>
+</div>
+<div class="wpd-comment-right" id="comment-202490">
+<div class="wpd-comment-header">
+<div class="wpd-comment-author">
+    Maria Haggard
+</div>
+<div class="wpd-comment-share wpd-hidden wpd-tooltip wpd-top">
+<i aria-hidden="true" class="fas fa-share-alt"></i>
+<div class="wpd-tooltip-content">
+<a class="wc_tw" href="https://twitter.com/intent/tweet?text=Update on Assange
+&amp;url=https%3A%2F%2Ftheduran.com%2Fupdate-on-assange-and-the-extradition-hearing%2F%23comment-202490" rel="noreferrer" target="_blank" title="Share On Twitter"><i aria-hidden="true" class="fab fa-twitter wpf-cta"></i></a><a class="wc_vk" href="https://vk.com/share.php?url=https://theduran.com/update-on-assange-and-the-extradition-hearing/" rel="noreferrer" target="_blank" title="Share On VKontakte"><i aria-hidden="true" class="fab fa-vk wpf-cta"></i></a><a class="wc_ok" href="https://connect.ok.ru/offer?url=https://theduran.com/update-on-assange-and-the-extradition-hearing/" rel="noreferrer" target="_blank" title="Share On Odnoklassniki"><i aria-hidden="true" class="fab fa-odnoklassniki wpf-cta"></i></a>
+</div>
+</div>
+<div class="wpd-space"></div>
+<div class="wpd-comment-link wpd-hidden">
+<span wpd-tooltip="Comment Link" wpd-tooltip-position="left"><i aria-hidden="true" class="fas fa-link" data-wpd-clipboard="https://theduran.com/update-on-assange-and-the-extradition-hearing/#comment-202490"></i></span>
+</div>
+</div>
+<div class="wpd-comment-subheader">
+<div class="wpd-comment-date" title="November 1, 2021 ">
+<i aria-hidden="true" class="far fa-clock"></i>
+    November 1, 2021 
+</div>
+</div>
+<div class="wpd-comment-text">
+<p>Update on Assange</p>
+</div>
+<div class="wpd-comment-footer">
+<div class="wpd-vote">
+<div class="wpd-vote-up wpd_not_clicked">
+<svg aria-hidden="true" class="svg-inline--fa fa-chevron-up fa-w-14" data-icon="chevron-up" data-prefix="fas" focusable="false" role="img" viewbox="0 0 448 512" xmlns="https://www.w3.org/2000/svg"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg>
+</div>
+<div class="wpd-vote-result" title="0">0</div>
+<div class="wpd-vote-down wpd_not_clicked">
+<svg aria-hidden="true" class="svg-inline--fa fa-chevron-down fa-w-14" data-icon="chevron-down" data-prefix="fas" focusable="false" role="img" viewbox="0 0 448 512" xmlns="https://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>
+</div>
+</div>
+<div class="wpd-reply-button">
+<svg viewbox="0 0 24 24" xmlns="https://www.w3.org/2000/svg"><path d="M10 9V5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg>
+<span>Reply</span>
+</div>
+<div class="wpd-wpanel"></div>
+<div class="wpd-space"></div>
+</div>
+</div>
+</div><div id="wpdiscuz_form_anchor-202490_0"></div></div> <div class="wpdiscuz-comment-pagination">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wpdiscuz-loading-bar-unauth" id="wpdiscuz-loading-bar"></div>
+<div class="wpdiscuz-comment-message-unauth" id="wpdiscuz-comment-message"></div>
+</div>
+<aside class="g1-related-entries">
+<h2 class="g1-delta g1-delta-2nd g1-collection-title"><span>You May Also Like</span></h2> <div class="g1-collection">
+<div class="g1-collection-viewport">
+<ul class="g1-collection-items">
+<li class="g1-collection-item">
+<article class="entry-tpl-list-s post-126227 post type-post status-publish format-video has-post-thumbnail category-latest category-video tag-the-duran post_format-post-format-video">
+<p class="entry-flags">
+<a class="entry-flag entry-flag-trending" href="https://theduran.com/trending/" title="Trending">
+						Trending					</a>
+</p>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<p class="entry-meta entry-stats g1-meta g1-meta g1-current-background"><span class="entry-shares"><strong>19</strong><span> Shares</span></span><span class="entry-views entry-views-trending"><strong>1.1k</strong><span> Views</span></span><span class="entry-votes entry-votes-trending"><strong>37</strong><span> Votes</span></span></p>
+<span class="entry-categories"><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a class="entry-category entry-category-item-56" href="https://theduran.com/category/latest/">Latest</a>, <a class="entry-category entry-category-item-72" href="https://theduran.com/category/video/">Video</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://theduran.com/stagflation-russian-sanctions-success/" rel="bookmark">Stagflation, Russian sanctions success</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline entry-byline-with-avatar">
+<span class="entry-author">
+<span class="entry-meta-label">by</span>
+<a href="https://theduran.com/author/newri/" rel="author" title="Posts by The Duran">
+<img 0="" 30="" 30'%2f%3e'="" alt="" class="lazyload avatar avatar-30 photo" data-expand="600" data-src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png" data-srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png 2x" height="30" http%3a%2f%2fwww.w3.org%2f2000%2fsvg'="" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D" viewbox%3d'0="" width="30"/>
+<strong>The Duran</strong>
+</a>
+</span>
+<time class="entry-date" datetime="2023-03-08T17:53:57+02:00">March 8, 2023</time> </p>
+</footer>
+</div>
+</article>
+</li>
+<li class="g1-collection-item">
+<article class="entry-tpl-list-s post-126154 post type-post status-publish format-video has-post-thumbnail category-latest category-video tag-the-duran post_format-post-format-video">
+<p class="entry-flags">
+<a class="entry-flag entry-flag-trending" href="https://theduran.com/trending/" title="Trending">
+						Trending					</a>
+<a class="entry-flag entry-flag-hot" href="https://theduran.com/hot/" title="Hot">
+						Hot					</a>
+</p>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<p class="entry-meta entry-stats g1-meta g1-meta g1-current-background"><span class="entry-shares"><strong>75</strong><span> Shares</span></span><span class="entry-views entry-views-trending"><strong>3.7k</strong><span> Views</span></span><span class="entry-votes entry-votes-trending"><strong>81</strong><span> Votes</span></span></p>
+<span class="entry-categories"><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a class="entry-category entry-category-item-56" href="https://theduran.com/category/latest/">Latest</a>, <a class="entry-category entry-category-item-72" href="https://theduran.com/category/video/">Video</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://theduran.com/bakhmut-heats-up-w-brian-berletic-and-gonzalo-lira-live/" rel="bookmark">Bakhmut heats up w/Brian Berletic and Gonzalo Lira (Live)</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline entry-byline-with-avatar">
+<span class="entry-author">
+<span class="entry-meta-label">by</span>
+<a href="https://theduran.com/author/alex/" rel="author" title="Posts by Alex Christoforou">
+<img 0="" 30="" 30'%2f%3e'="" alt="" class="lazyload avatar avatar-30 photo" data-expand="600" data-src="https://secure.gravatar.com/avatar/aa7e865777defcc51f41ded3823fde51?s=30&amp;d=retro&amp;r=g" data-srcset="https://secure.gravatar.com/avatar/aa7e865777defcc51f41ded3823fde51?s=60&amp;d=retro&amp;r=g 2x" decoding="async" height="30" http%3a%2f%2fwww.w3.org%2f2000%2fsvg'="" loading="lazy" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D" viewbox%3d'0="" width="30"/>
+<strong>Alex Christoforou</strong>
+</a>
+</span>
+<time class="entry-date" datetime="2023-03-07T14:54:57+02:00">March 7, 2023</time> </p>
+</footer>
+</div>
+</article>
+</li>
+<li class="g1-collection-item">
+<article class="entry-tpl-list-s post-126120 post type-post status-publish format-video has-post-thumbnail category-latest category-video tag-the-duran post_format-post-format-video">
+<p class="entry-flags">
+<a class="entry-flag entry-flag-hot" href="https://theduran.com/hot/" title="Hot">
+						Hot					</a>
+</p>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<p class="entry-meta entry-stats g1-meta g1-meta g1-current-background"><span class="entry-shares"><strong>52</strong><span> Shares</span></span><span class="entry-views entry-views-hot"><strong>3.1k</strong><span> Views</span></span><span class="entry-votes entry-votes-hot"><strong>76</strong><span> Votes</span></span></p>
+<span class="entry-categories"><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a class="entry-category entry-category-item-56" href="https://theduran.com/category/latest/">Latest</a>, <a class="entry-category entry-category-item-72" href="https://theduran.com/category/video/">Video</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://theduran.com/russian-cauldrons-bakhmut-and-debaltsevo/" rel="bookmark">Russian cauldrons, Bakhmut and Debáltsevo</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline entry-byline-with-avatar">
+<span class="entry-author">
+<span class="entry-meta-label">by</span>
+<a href="https://theduran.com/author/newri/" rel="author" title="Posts by The Duran">
+<img 0="" 30="" 30'%2f%3e'="" alt="" class="lazyload avatar avatar-30 photo" data-expand="600" data-src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png" data-srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png 2x" height="30" http%3a%2f%2fwww.w3.org%2f2000%2fsvg'="" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D" viewbox%3d'0="" width="30"/>
+<strong>The Duran</strong>
+</a>
+</span>
+<time class="entry-date" datetime="2023-03-06T22:19:28+02:00">March 6, 2023</time> </p>
+</footer>
+</div>
+</article>
+</li>
+</ul>
+</div>
+</div>
+</aside>
+<div class="g1-advertisement g1-advertisement-before-more-from">
+<div class="adace-slot-wrapper bimber_before_more_from adace-align-center adace-slot-wrapper-main" style="text-align:center;">
+<div class="adace-disclaimer">
+</div>
+<div class="adace-slot">
+<div class="adace-loader adace-loader-6409522bb3ffa">
+<script>
+			(function ($) {
+			var $self = $('.adace-loader-6409522bb3ffa');
+			var $wrapper = $self.closest('.adace-slot-wrapper');
+
+			"use strict";
+			var adace_load_6409522bb3ffa = function(){
+				var viewport = $(window).width();
+				var tabletStart = 601;
+				var landscapeStart = 801;
+				var tabletEnd = 961;
+				var content = '%09%3Cdiv%20class%3D%22adace_ad_6409522bb3fd4%22%3E%0A%0A%09%09%0A%09%09%09%0A%09%09%09%3Cdiv%20id%3D%22zergnet-widget-85693%22%3E%3C%2Fdiv%3E%0D%0A%0D%0A%3Cscript%20language%3D%22javascript%22%20type%3D%22text%2Fjavascript%22%3E%0D%0A%20%20%20%20%28function%28%29%20%7B%0D%0A%20%20%20%20%20%20%20%20var%20zergnet%20%3D%20document.createElement%28%27script%27%29%3B%0D%0A%20%20%20%20%20%20%20%20zergnet.type%20%3D%20%27text%2Fjavascript%27%3B%20zergnet.async%20%3D%20true%3B%0D%0A%20%20%20%20%20%20%20%20zergnet.src%20%3D%20%28document.location.protocol%20%3D%3D%20%22https%3A%22%20%3F%20%22https%3A%22%20%3A%20%22http%3A%22%29%20%2B%20%27%2F%2Fwww.zergnet.com%2Fzerg.js%3Fid%3D85693%27%3B%0D%0A%20%20%20%20%20%20%20%20var%20znscr%20%3D%20document.getElementsByTagName%28%27script%27%29%5B0%5D%3B%0D%0A%20%20%20%20%20%20%20%20znscr.parentNode.insertBefore%28zergnet%2C%20znscr%29%3B%0D%0A%20%20%20%20%7D%29%28%29%3B%0D%0A%3C%2Fscript%3E%0A%09%09%09%09%09%3C%2Fa%3E%0A%09%09%09%3C%2Fdiv%3E%0A%09';
+				var unpack = true;
+				if(viewport<tabletStart){
+										if ($wrapper.hasClass('.adace-hide-on-mobile')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=tabletStart && viewport<landscapeStart){
+										if ($wrapper.hasClass('.adace-hide-on-portrait')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=landscapeStart && viewport<tabletEnd){
+										if ($wrapper.hasClass('.adace-hide-on-landscape')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=tabletStart && viewport<tabletEnd){
+										if ($wrapper.hasClass('.adace-hide-on-tablet')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=tabletEnd){
+										if ($wrapper.hasClass('.adace-hide-on-desktop')){
+						$wrapper.remove();
+					}
+				}
+				if(unpack) {
+					$self.replaceWith(decodeURIComponent(content));
+				}
+			}
+			if($wrapper.css('visibility') === 'visible' ) {
+				adace_load_6409522bb3ffa();
+			} else {
+				//fire when visible.
+				var refreshIntervalId = setInterval(function(){
+					if($wrapper.css('visibility') === 'visible' ) {
+						adace_load_6409522bb3ffa();
+						clearInterval(refreshIntervalId);
+					}
+				}, 999);
+			}
+
+
+			})(jQuery);
+		</script>
+</div>
+</div>
+</div>
+</div>
+<aside class="g1-more-from">
+<h2 class="g1-delta g1-delta-2nd g1-collection-title"><span>More From: <a href="https://theduran.com/category/latest/">Latest</a></span></h2> <div class="g1-collection">
+<div class="g1-collection-viewport">
+<ul class="g1-collection-items">
+<li class="g1-collection-item">
+<article class="entry-tpl-list-s post-126250 post type-post status-publish format-standard has-post-thumbnail category-latest tag-u-n tag-new-world-order tag-nwo tag-rules-based tag-u-s-dictatorship">
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<p class="entry-meta entry-stats g1-meta g1-meta g1-current-background"><span class="entry-views"><strong>162</strong><span> Views</span></span><span class="entry-votes"><strong>7</strong><span> Votes</span></span></p>
+<span class="entry-categories"><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a class="entry-category entry-category-item-56" href="https://theduran.com/category/latest/">Latest</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://theduran.com/u-s-to-the-world-well-rule-you-or-well-kill-you/" rel="bookmark">U.S. to the World: We’ll Rule You, Or We’ll Kill You</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline entry-byline-with-avatar">
+<span class="entry-author">
+<span class="entry-meta-label">by</span>
+<a href="https://theduran.com/author/eric-zuesse/" rel="author" title="Posts by Eric Zuesse">
+<img 0="" 30="" 30'%2f%3e'="" alt="" class="lazyload avatar avatar-30 photo" data-expand="600" data-src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png" data-srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png 2x" height="30" http%3a%2f%2fwww.w3.org%2f2000%2fsvg'="" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D" viewbox%3d'0="" width="30"/>
+<strong>Eric Zuesse</strong>
+</a>
+</span>
+<time class="entry-date" datetime="2023-03-09T01:16:26+02:00">March 9, 2023</time> </p>
+</footer>
+</div>
+</article>
+</li>
+<li class="g1-collection-item">
+<article class="entry-tpl-list-s post-126243 post type-post status-publish format-video has-post-thumbnail category-latest category-video tag-alex-christoforou post_format-post-format-video">
+<p class="entry-flags">
+<a class="entry-flag entry-flag-trending" href="https://theduran.com/trending/" title="Trending">
+						Trending					</a>
+</p>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<p class="entry-meta entry-stats g1-meta g1-meta g1-current-background"><span class="entry-shares"><strong>11</strong><span> Shares</span></span><span class="entry-views entry-views-trending"><strong>1.2k</strong><span> Views</span></span><span class="entry-votes entry-votes-trending"><strong>35</strong><span> Votes</span></span></p>
+<span class="entry-categories"><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a class="entry-category entry-category-item-56" href="https://theduran.com/category/latest/">Latest</a>, <a class="entry-category entry-category-item-72" href="https://theduran.com/category/video/">Video</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://theduran.com/the-times-west-quiet-about-nord-stream-lukashenko-calls-out-elensky-boris-and-belarus-guaido-u-2/" rel="bookmark">The Times, west quiet about Nord Stream. Lukashenko calls out Elensky. Boris and Belarus Guaido. U/2</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline entry-byline-with-avatar">
+<span class="entry-author">
+<span class="entry-meta-label">by</span>
+<a href="https://theduran.com/author/alex/" rel="author" title="Posts by Alex Christoforou">
+<img 0="" 30="" 30'%2f%3e'="" alt="" class="lazyload avatar avatar-30 photo" data-expand="600" data-src="https://secure.gravatar.com/avatar/aa7e865777defcc51f41ded3823fde51?s=30&amp;d=retro&amp;r=g" data-srcset="https://secure.gravatar.com/avatar/aa7e865777defcc51f41ded3823fde51?s=60&amp;d=retro&amp;r=g 2x" decoding="async" height="30" http%3a%2f%2fwww.w3.org%2f2000%2fsvg'="" loading="lazy" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D" viewbox%3d'0="" width="30"/>
+<strong>Alex Christoforou</strong>
+</a>
+</span>
+<time class="entry-date" datetime="2023-03-08T23:03:26+02:00">March 8, 2023</time> </p>
+</footer>
+</div>
+</article>
+</li>
+<li class="g1-collection-item">
+<article class="entry-tpl-list-s post-126230 post type-post status-publish format-video has-post-thumbnail category-latest category-video tag-alexander-mercouris post_format-post-format-video">
+<p class="entry-flags">
+<a class="entry-flag entry-flag-trending" href="https://theduran.com/trending/" title="Trending">
+						Trending					</a>
+</p>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<p class="entry-meta entry-stats g1-meta g1-meta g1-current-background"><span class="entry-shares"><strong>24</strong><span> Shares</span></span><span class="entry-views entry-views-trending"><strong>1.5k</strong><span> Views</span></span><span class="entry-votes entry-votes-trending"><strong>53</strong><span> Votes</span></span></p>
+<span class="entry-categories"><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a class="entry-category entry-category-item-56" href="https://theduran.com/category/latest/">Latest</a>, <a class="entry-category entry-category-item-72" href="https://theduran.com/category/video/">Video</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://theduran.com/russia-captures-east-bakhmut-zelensky-admits-its-importance-west-intel-nord-stream-attack-was-by-6-guys-and-a-boat/" rel="bookmark">Russia Captures East Bakhmut, Zelensky Admits Its Importance: West Intel: Nord Stream Attack Was by 6 Guys And A Boat</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline entry-byline-with-avatar">
+<span class="entry-author">
+<span class="entry-meta-label">by</span>
+<a href="https://theduran.com/author/alexander/" rel="author" title="Posts by Alexander Mercouris">
+<img 0="" 30="" 30'%2f%3e'="" alt="" class="lazyload avatar avatar-30 photo" data-expand="600" data-src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png" data-srcset="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-blackBKG_1500px_1500px_ICON.png 2x" height="30" http%3a%2f%2fwww.w3.org%2f2000%2fsvg'="" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D" viewbox%3d'0="" width="30"/>
+<strong>Alexander Mercouris</strong>
+</a>
+</span>
+<time class="entry-date" datetime="2023-03-08T21:29:06+02:00">March 8, 2023</time> </p>
+</footer>
+</div>
+</article>
+</li>
+</ul>
+</div>
+</div>
+</aside>
+<meta content="https://theduran.com/update-on-assange-and-the-extradition-hearing/" itemprop="mainEntityOfPage"/>
+<meta content="2021-11-01T10:06:07" itemprop="dateModified"/>
+<span itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="The Duran" itemprop="name"/>
+<meta content="https://theduran.com" itemprop="url"/>
+<span itemprop="logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/theduran_icontext.png" itemprop="url"/>
+</span>
+</span>
+<span itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+<meta content="https://i0.wp.com/duranimages.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/11/01100610/maxresdefault.jpg?fit=1280%2C720&amp;ssl=1" itemprop="url"/>
+<meta content="1280" itemprop="width"/>
+<meta content="720" itemprop="height"/>
+</span>
+</article>
+<a class="g1-teaser g1-teaser-prev" href="https://theduran.com/partition-100-years-of-sectarianism-in-ireland/">
+<div class="g1-teaser-arrow"></div>
+<article class="entry-tpl-listxxs post-103014 post type-post status-publish format-standard category-latest category-news">
+<header class="entry-header">
+<h3 class="g1-epsilon g1-epsilon-1st entry-title">Partition – 100 Years of Sectarianism in Ireland</h3> </header>
+</article>
+</a>
+<a class="g1-teaser g1-teaser-next" href="https://theduran.com/locals-exclusive-putin-tells-g20-that-biden-and-us-are-responsible-for-inflation-crisis-warns-of-stagflation/">
+<div class="g1-teaser-arrow"></div>
+<article class="entry-tpl-listxxs post-103029 post type-post status-publish format-video category-latest category-video tag-alexander-mercouris post_format-post-format-video">
+<header class="entry-header">
+<h3 class="g1-epsilon g1-epsilon-1st entry-title">LOCALS EXCLUSIVE: Putin Tells G20 that Biden and US are Responsible for Inflation Crisis. Warns of Stagflation</h3> </header>
+</article>
+</a>
+</div><!-- #content -->
+</div><!-- #primary -->
+<div class="g1-sidebar g1-sidebar-padded g1-column g1-column-1of3" id="secondary">
+<aside class="widget snax snax-widget-cta-button" id="snax_widget_cta_button-10"><div class="snax-cta">
+<div class="snax-cta-body">
+<form action="https://theduran.com/frontend-submission/" method="get">
+<button class="g1-button-solid g1-button g1-button-wide g1-button-l snax-button snax-button-create snax-format-video"><i class="snax-format-icon"></i>Share a video</button>
+<input hidden="" name="snax_format" value="video"/>
+</form>
+</div>
+</div>
+</aside><aside class="widget widget_mailerlite_widget" id="mailerlite_widget-8">
+<div data-temp-id="6409522bd6177" id="mailerlite-form_1">
+<div class="mailerlite-form">
+<form action="" method="post">
+<div class="mailerlite-form-title"><h3>The Duran Newsletter</h3></div>
+<div class="mailerlite-form-description"><p>Don't worry, we don't spam.</p>
+</div>
+<div class="mailerlite-form-inputs">
+<div class="mailerlite-form-field">
+<label for="mailerlite-1-field-email">Email:</label>
+<input id="mailerlite-1-field-email" name="form_fields[email]" placeholder="Email:" required="required" type="email">
+</input></div>
+<div class="mailerlite-form-loader">Please wait</div>
+<div class="mailerlite-subscribe-button-container">
+<input class="mailerlite-subscribe-submit" type="submit" value="Subscribe">
+</input></div>
+<input name="form_id" type="hidden" value="1"/>
+<input name="action" type="hidden" value="mailerlite_subscribe_form"/>
+<input name="ml_nonce" type="hidden" value="081c88edb0"/>
+</div>
+<div class="mailerlite-form-response">
+<h4><p><span style="color: #339966;">Thank you for signing up.</span></p>
+</h4>
+</div>
+</form>
+</div>
+</div>
+<script type="text/javascript">
+                window.addEventListener("load", function () {
+                    var jQuery = window.jQueryWP || window.jQuery;
+
+                    jQuery(document).ready(function () {
+
+                        if(jQuery) {
+                            var form_container = jQuery("#mailerlite-form_1[data-temp-id=6409522bd6177] form");
+
+                            if ( typeof form_container.validate == 'function' ) {
+                                form_container.submit(function (e) {
+                                    e.preventDefault();
+                                }).validate({
+                                    submitHandler: function (form) {
+
+                                        jQuery(this.submitButton).prop('disabled', true);
+
+                                        form_container.find('.mailerlite-subscribe-button-container').fadeOut(function () {
+                                            form_container.find('.mailerlite-form-loader').fadeIn()
+                                        });
+
+                                        var data = jQuery(form).serialize();
+
+                                        jQuery.post('https://theduran.com/wp-admin/admin-ajax.php', data, function () {
+                                            form_container.find('.mailerlite-form-inputs').fadeOut(function () {
+                                                form_container.find('.mailerlite-form-response').fadeIn()
+                                            });
+                                        });
+                                    }
+                                });
+                            }
+                        }
+                    });
+                }, false);
+            </script>
+</aside><aside class="widget widget_adace_ads_widget" id="adace_ads_widget-23"></aside><aside class="widget widget_text" id="text-106"><header><h2 class="g1-delta g1-delta-2nd widgettitle"><span>Support Us</span></h2></header> <div class="textwidget"><p><script paypalexpress="false" src="https://donorbox.org/widget.js"></script><iframe frameborder="0" height="900px" loading="lazy" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/the-duran?default_interval=o" style="max-width:100%; min-width:100%; max-height: none!important;" width="100%"></iframe></p>
+</div>
+</aside><aside class="widget widget_adace_ads_widget" id="adace_ads_widget-34"><div class="adace-slot-wrapper adace-widget-71808">
+<div class="adace-disclaimer">
+</div>
+<div class="adace-slot"> <div class="adace-loader adace-loader-6409522bd6ab0">
+<script>
+			(function ($) {
+			var $self = $('.adace-loader-6409522bd6ab0');
+			var $wrapper = $self.closest('.adace-slot-wrapper');
+
+			"use strict";
+			var adace_load_6409522bd6ab0 = function(){
+				var viewport = $(window).width();
+				var tabletStart = 601;
+				var landscapeStart = 801;
+				var tabletEnd = 961;
+				var content = '%09%3Cdiv%20class%3D%22adace_ad_6409522bd6a8b%22%3E%0A%0A%09%09%0A%09%09%09%0A%09%09%09%3Cdiv%20id%3D%22zergnet-widget-85694%22%3E%3C%2Fdiv%3E%0D%0A%0D%0A%3Cscript%20language%3D%22javascript%22%20type%3D%22text%2Fjavascript%22%3E%0D%0A%20%20%20%20%28function%28%29%20%7B%0D%0A%20%20%20%20%20%20%20%20var%20zergnet%20%3D%20document.createElement%28%27script%27%29%3B%0D%0A%20%20%20%20%20%20%20%20zergnet.type%20%3D%20%27text%2Fjavascript%27%3B%20zergnet.async%20%3D%20true%3B%0D%0A%20%20%20%20%20%20%20%20zergnet.src%20%3D%20%28document.location.protocol%20%3D%3D%20%22https%3A%22%20%3F%20%22https%3A%22%20%3A%20%22http%3A%22%29%20%2B%20%27%2F%2Fwww.zergnet.com%2Fzerg.js%3Fid%3D85694%27%3B%0D%0A%20%20%20%20%20%20%20%20var%20znscr%20%3D%20document.getElementsByTagName%28%27script%27%29%5B0%5D%3B%0D%0A%20%20%20%20%20%20%20%20znscr.parentNode.insertBefore%28zergnet%2C%20znscr%29%3B%0D%0A%20%20%20%20%7D%29%28%29%3B%0D%0A%3C%2Fscript%3E%0A%09%09%09%09%09%3C%2Fa%3E%0A%09%09%09%3C%2Fdiv%3E%0A%09';
+				var unpack = true;
+				if(viewport<tabletStart){
+										if ($wrapper.hasClass('.adace-hide-on-mobile')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=tabletStart && viewport<landscapeStart){
+										if ($wrapper.hasClass('.adace-hide-on-portrait')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=landscapeStart && viewport<tabletEnd){
+										if ($wrapper.hasClass('.adace-hide-on-landscape')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=tabletStart && viewport<tabletEnd){
+										if ($wrapper.hasClass('.adace-hide-on-tablet')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=tabletEnd){
+										if ($wrapper.hasClass('.adace-hide-on-desktop')){
+						$wrapper.remove();
+					}
+				}
+				if(unpack) {
+					$self.replaceWith(decodeURIComponent(content));
+				}
+			}
+			if($wrapper.css('visibility') === 'visible' ) {
+				adace_load_6409522bd6ab0();
+			} else {
+				//fire when visible.
+				var refreshIntervalId = setInterval(function(){
+					if($wrapper.css('visibility') === 'visible' ) {
+						adace_load_6409522bd6ab0();
+						clearInterval(refreshIntervalId);
+					}
+				}, 999);
+			}
+
+
+			})(jQuery);
+		</script>
+</div>
+</div>
+</div>
+</aside><aside class="widget widget_adace_ads_widget" id="adace_ads_widget-14"></aside><aside class="widget widget_adace_ads_widget" id="adace_ads_widget-31"><div class="adace-slot-wrapper adace-widget-56113">
+<div class="adace-disclaimer">
+</div>
+<div class="adace-slot"> <div class="adace_ad_6409522bd7131">
+<div id="contentad537668"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "9b9a7920-e1c2-499b-b944-af8ebb3f4e34",
+            d: "dGhlZHVyYW4uY29t",
+            wid: "537668",
+            cb: (new Date()).getTime()
+        };
+        var qs = Object.keys(params).reduce(function(a, k){ a.push(k + '=' + encodeURIComponent(params[k])); return a},[]).join(String.fromCharCode(38));
+        var s = d.createElement('script'); s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs;
+        d.getElementById("contentad537668").appendChild(s);
+    })(document);
+</script>
+
+</div>
+</div>
+</div>
+</aside><aside class="widget widget_adace_ads_widget" id="adace_ads_widget-37"><div class="adace-slot-wrapper adace-widget-73897">
+<div class="adace-disclaimer">
+</div>
+<div class="adace-slot"> <div class="adace-loader adace-loader-6409522bd74ee">
+<script>
+			(function ($) {
+			var $self = $('.adace-loader-6409522bd74ee');
+			var $wrapper = $self.closest('.adace-slot-wrapper');
+
+			"use strict";
+			var adace_load_6409522bd74ee = function(){
+				var viewport = $(window).width();
+				var tabletStart = 601;
+				var landscapeStart = 801;
+				var tabletEnd = 961;
+				var content = '%09%3Cdiv%20class%3D%22adace_ad_6409522bd74cc%22%3E%0A%0A%09%09%0A%09%09%09%0A%09%09%09%3Cdiv%20id%3D%22zergnet-widget-86058%22%3E%3C%2Fdiv%3E%0D%0A%0D%0A%3Cscript%20language%3D%22javascript%22%20type%3D%22text%2Fjavascript%22%3E%0D%0A%09%28function%28%29%20%7B%0D%0A%09%09var%20zergnet%20%3D%20document.createElement%28%27script%27%29%3B%0D%0A%09%09zergnet.type%20%3D%20%27text%2Fjavascript%27%3B%20zergnet.async%20%3D%20true%3B%0D%0A%09%09zergnet.src%20%3D%20%28document.location.protocol%20%3D%3D%20%22https%3A%22%20%3F%20%22https%3A%22%20%3A%20%22http%3A%22%29%20%2B%20%27%2F%2Fwww.zergnet.com%2Fzerg.js%3Fid%3D86058%27%3B%0D%0A%09%09var%20znscr%20%3D%20document.getElementsByTagName%28%27script%27%29%5B0%5D%3B%0D%0A%09%09znscr.parentNode.insertBefore%28zergnet%2C%20znscr%29%3B%0D%0A%09%7D%29%28%29%3B%0D%0A%3C%2Fscript%3E%0A%09%09%09%09%09%3C%2Fa%3E%0A%09%09%09%3C%2Fdiv%3E%0A%09';
+				var unpack = true;
+				if(viewport<tabletStart){
+										if ($wrapper.hasClass('.adace-hide-on-mobile')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=tabletStart && viewport<landscapeStart){
+										if ($wrapper.hasClass('.adace-hide-on-portrait')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=landscapeStart && viewport<tabletEnd){
+										if ($wrapper.hasClass('.adace-hide-on-landscape')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=tabletStart && viewport<tabletEnd){
+										if ($wrapper.hasClass('.adace-hide-on-tablet')){
+						$wrapper.remove();
+					}
+				}
+				if(viewport>=tabletEnd){
+										if ($wrapper.hasClass('.adace-hide-on-desktop')){
+						$wrapper.remove();
+					}
+				}
+				if(unpack) {
+					$self.replaceWith(decodeURIComponent(content));
+				}
+			}
+			if($wrapper.css('visibility') === 'visible' ) {
+				adace_load_6409522bd74ee();
+			} else {
+				//fire when visible.
+				var refreshIntervalId = setInterval(function(){
+					if($wrapper.css('visibility') === 'visible' ) {
+						adace_load_6409522bd74ee();
+						clearInterval(refreshIntervalId);
+					}
+				}, 999);
+			}
+
+
+			})(jQuery);
+		</script>
+</div>
+</div>
+</div>
+</aside><div class="g1-sticky-widget-wrapper"><div class="g1-sticky-widget" style="top: 0px"><aside class="widget widget_adace_ads_widget" id="adace_ads_widget-39"></aside></div></div><!-- End of sticky widgets combined wrapper --></div><!-- #secondary -->
+</div>
+</div><!-- .g1-row -->
+<div class="g1-prefooter g1-prefooter-3cols g1-row g1-row-layout-page">
+<div class="g1-row-inner">
+<div class="g1-column g1-column-1of3">
+<aside class="widget widget_text enhanced-text-widget" id="enhancedtextwidget-9"><div class="textwidget widget-text"><a href="https://" theduran.com"="">
+<img alt="The Duran" height="auto" src="https://149425939.v2.pressablecdn.com/wp-content/uploads/2020/06/theduran_icontext.png" width="250"/></a></div></aside><aside class="widget widget_wptelegram_widget_join_channel" id="wptelegram_widget_join_channel-2"> <div>
+<div class="wp-block-wptelegram-widget-join-channel aligncenter">
+<a class="components-button join-link is-large has-text has-icon" href="https://t.me/thedurancom" rel="noopener noreferrer" target="_self">
+<svg aria-hidden="true" focusable="false" height="16px" role="img" viewbox="0 0 19 16" width="19px">
+<g>
+<path d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z"></path>
+</g>
+</svg>
+		Join @thedurancom on Telegram	</a>
+</div>
+</div>
+</aside> </div>
+<div class="g1-column g1-column-1of3">
+<aside class="widget snax snax-widget-cta g1-box g1-box-tpl-frame" id="snax_widget_cta-4"><i class="g1-box-icon"></i><div class="g1-box-inner"><div class="snax-cta">
+<div class="snax-cta-body">
+<p class="g1-alpha g1-alpha-1st">See something interesting?</p>
+<form action="https://theduran.com/frontend-submission/" method="get">
+<button class="snax-button snax-button-create">Share a video</button>
+<input hidden="" name="snax_format" value="video"/>
+</form>
+</div>
+</div>
+</div><div class="g1-box-background g1-current-background"></div></aside> </div>
+<div class="g1-column g1-column-1of3">
+<aside class="widget widget_mailerlite_widget" id="mailerlite_widget-11">
+<div data-temp-id="6409522bd8c9f" id="mailerlite-form_1">
+<div class="mailerlite-form">
+<form action="" method="post">
+<div class="mailerlite-form-title"><h3>The Duran Newsletter</h3></div>
+<div class="mailerlite-form-description"><p>Don't worry, we don't spam.</p>
+</div>
+<div class="mailerlite-form-inputs">
+<div class="mailerlite-form-field">
+<label for="mailerlite-1-field-email">Email:</label>
+<input id="mailerlite-1-field-email" name="form_fields[email]" placeholder="Email:" required="required" type="email">
+</input></div>
+<div class="mailerlite-form-loader">Please wait</div>
+<div class="mailerlite-subscribe-button-container">
+<input class="mailerlite-subscribe-submit" type="submit" value="Subscribe"/>
+</div>
+<input name="form_id" type="hidden" value="1"/>
+<input name="action" type="hidden" value="mailerlite_subscribe_form"/>
+<input name="ml_nonce" type="hidden" value="081c88edb0"/>
+</div>
+<div class="mailerlite-form-response">
+<h4><p><span style="color: #339966;">Thank you for signing up.</span></p>
+</h4>
+</div>
+</form>
+</div>
+</div>
+<script type="text/javascript">
+                window.addEventListener("load", function () {
+                    var jQuery = window.jQueryWP || window.jQuery;
+
+                    jQuery(document).ready(function () {
+
+                        if(jQuery) {
+                            var form_container = jQuery("#mailerlite-form_1[data-temp-id=6409522bd8c9f] form");
+
+                            if ( typeof form_container.validate == 'function' ) {
+                                form_container.submit(function (e) {
+                                    e.preventDefault();
+                                }).validate({
+                                    submitHandler: function (form) {
+
+                                        jQuery(this.submitButton).prop('disabled', true);
+
+                                        form_container.find('.mailerlite-subscribe-button-container').fadeOut(function () {
+                                            form_container.find('.mailerlite-form-loader').fadeIn()
+                                        });
+
+                                        var data = jQuery(form).serialize();
+
+                                        jQuery.post('https://theduran.com/wp-admin/admin-ajax.php', data, function () {
+                                            form_container.find('.mailerlite-form-inputs').fadeOut(function () {
+                                                form_container.find('.mailerlite-form-response').fadeIn()
+                                            });
+                                        });
+                                    }
+                                });
+                            }
+                        }
+                    });
+                }, false);
+            </script>
+</aside> </div>
+</div>
+<div class="g1-row-background">
+<div class="g1-row-background-media">
+</div>
+</div>
+</div><!-- .g1-prefooter -->
+<div class="g1-footer g1-row g1-row-layout-page">
+<div class="g1-row-inner">
+<div class="g1-column">
+<p class="g1-footer-text">© 2023 </p>
+</div><!-- .g1-column -->
+</div>
+<div class="g1-row-background">
+</div>
+</div><!-- .g1-row -->
+<a class="g1-back-to-top" href="#page">Back to Top</a>
+</div><!-- #page -->
+<div class="g1-canvas-overlay">
+</div>
+</div><!-- .g1-body-inner -->
+<div id="g1-breakpoint-desktop">
+</div>
+<div class="g1-canvas g1-canvas-global g1-canvas-no-js">
+<div class="g1-canvas-inner">
+<div class="g1-canvas-content">
+<a class="g1-canvas-toggle" href="#">Close</a>
+<div class="search-form-wrapper" role="search">
+<form action="https://theduran.com/" class="g1-searchform-tpl-default search-form" method="get">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input class="search-field" name="s" placeholder="Search …" title="Search for:" type="search" value=""/>
+</label>
+<button class="search-submit">Search</button>
+</form>
+</div>
+<!-- BEGIN .g1-primary-nav -->
+<nav class="g1-primary-nav" id="g1-canvas-primary-nav"><ul class="g1-primary-nav-menu g1-menu-v" id="g1-canvas-primary-nav-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11361"><a href="https://theduran.com/category/news/">NEWS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49505"><a href="https://theduran.com/category/links/">LINKS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2647"><a href="https://theduran.com/category/video/">VIDEO</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29601"><a href="https://drnshop.com/">SHOP</a></li>
+</ul></nav> <!-- END .g1-primary-nav -->
+<ul class="g1-socials-items g1-socials-items-tpl-grid g1-socials-s" id="g1-social-icons-1">
+<li class="g1-socials-item g1-socials-item-facebook">
+<a class="g1-socials-item-link" href="https://www.facebook.com/thedurancom" rel="noopener" target="_blank">
+<span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-facebook"></span>
+<span class="g1-socials-item-tooltip">
+<span class="g1-socials-item-tooltip-inner">facebook</span>
+</span>
+</a>
+</li>
+<li class="g1-socials-item g1-socials-item-twitter">
+<a class="g1-socials-item-link" href="https://twitter.com/TheDuran_com" rel="noopener" target="_blank">
+<span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-twitter"></span>
+<span class="g1-socials-item-tooltip">
+<span class="g1-socials-item-tooltip-inner">twitter</span>
+</span>
+</a>
+</li>
+<li class="g1-socials-item g1-socials-item-instagram">
+<a class="g1-socials-item-link" href="https://www.instagram.com/theduran_com" rel="noopener" target="_blank">
+<span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-instagram"></span>
+<span class="g1-socials-item-tooltip">
+<span class="g1-socials-item-tooltip-inner">instagram</span>
+</span>
+</a>
+</li>
+<li class="g1-socials-item g1-socials-item-youtube">
+<a class="g1-socials-item-link" href="https://www.youtube.com/theduran" rel="noopener" target="_blank">
+<span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-youtube"></span>
+<span class="g1-socials-item-tooltip">
+<span class="g1-socials-item-tooltip-inner">youtube</span>
+</span>
+</a>
+</li>
+<li class="g1-socials-item g1-socials-item-spotify">
+<a class="g1-socials-item-link" href="https://spoti.fi/3pMrfPD" rel="noopener" target="_blank">
+<span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-spotify"></span>
+<span class="g1-socials-item-tooltip">
+<span class="g1-socials-item-tooltip-inner">spotify</span>
+</span>
+</a>
+</li>
+</ul>
+<a class="g1-button g1-button-m g1-button-solid snax-button snax-button-create" href="https://theduran.com/frontend-submission/">SHARE VIDEO</a>
+</div>
+<div class="g1-canvas-background">
+</div>
+</div>
+</div>
+<style type="text/css">
+		@media only screen and (max-width: 600px ) {
+			.adace-hide-on-mobile{
+				display:none !important;
+			}
+			.adace-hide-on-phone{
+				display:none !important;
+			}
+		}
+		@media only screen and (min-width: 601px  ) and  (max-width: 800px ){
+			.adace-hide-on-portrait{
+				display:none !important;
+			}
+		}
+		@media only screen and (min-width: 801px  ) and  (max-width: 960px ){
+			.adace-hide-on-landscape{
+				display:none !important;
+			}
+		}
+		@media only screen and (min-width: 601px  ) and  (max-width: 960px ){
+			.adace-hide-on-tablet{
+				display:none !important;
+			}
+		}
+		@media only screen and (min-width: 961px  ){
+			.adace-hide-on-desktop{
+				display:none !important;
+			}
+		}
+	</style>
+<div class="snax white-popup mfp-hide" id="snax-popup-content">
+<div class="snax-login-tab snax-tab-active">
+<h2 class="g1-alpha">Log In</h2>
+<h4 class="snax-form-legend snax-form-legend-sign-in">Sign In</h4>
+<div class="snax-login-form">
+<form action="https://theduran.com/wp-login.php" id="loginform-in-popup" method="post" name="loginform-in-popup"><div class="snax-validation-error snax-login-error-message"></div><p class="login-username">
+<label for="user_login">Username or Email Address</label>
+<input autocomplete="username" class="input" id="user_login" name="log" size="20" type="text" value=""/>
+</p><p class="login-password">
+<label for="user_pass">Password</label>
+<input autocomplete="current-password" class="input" id="user_pass" name="pwd" size="20" type="password" value=""/>
+</p><div id="snax-login-recaptcha"></div><p class="login-remember"><label><input id="rememberme" name="rememberme" type="checkbox" value="forever"/> Remember Me</label></p><p class="login-submit">
+<input class="button button-primary" id="wp-submit" name="wp-submit" type="submit" value="Log In"/>
+<input name="redirect_to" type="hidden" value="https://theduran.com/update-on-assange-and-the-extradition-hearing/?ml_subscriber=1809586520965781116&amp;ml_subscriber_hash=w5o6"/>
+</p></form> </div>
+<a class="snax-link-forgot-pass" href="https://theduran.com/wp-login.php?action=lostpassword">Forgot password?</a>
+<p class="snax-form-tip snax-form-tip-register">Don't have an account? <a href="https://theduran.com/wp-login.php?action=register">Register</a>
+</p>
+</div>
+<div class="snax-forgot-pass-tab snax-tab-inactive">
+<h2 class="g1-alpha g1-alpha-2nd">Forgot password?</h2>
+<p>
+		Enter your account data and we will send you a link to reset your password.	</p>
+<div class="snax-forgot-pass-form">
+<form action="https://theduran.com/wp-login.php?action=lostpassword" id="lostpasswordform" method="post" name="lostpasswordform">
+<div class="snax-validation-error snax-forgot-pass-error-message"></div>
+<div class="snax-validation-error snax-forgot-pass-success-message"></div>
+<p class="forgot-username">
+<label for="user_login">Username or Email Address</label>
+<input class="input" id="forgot-user_login" name="user_login" placeholder="Username or Email Address" size="20" type="text" value=""/>
+</p>
+<input name="redirect_to" type="hidden" value="https://theduran.com/update-on-assange-and-the-extradition-hearing/?ml_subscriber=1809586520965781116&amp;ml_subscriber_hash=w5o6"/>
+<p class="forgot-submit">
+<input class="button button-primary button-large" id="forgot-wp-submit" name="wp-submit" type="submit" value="Reset Password"/>
+</p>
+<a class="snax-back-to-login-tab" href="#">Back to Login</a>
+</form>
+</div>
+</div>
+<div class="snax-reset-tab snax-tab-inactive">
+<div class="snax-reset-pass-form">
+<h2>Your password reset link appears to be invalid or expired.</h2>
+</div>
+</div>
+<div class="snax-gdpr-tab snax-tab-inactive">
+<h2 class="g1-alpha">Log in</h2>
+<h3 class="g1-delta">Privacy Policy</h3>
+<p>	To use social login you have to agree with the storage and handling of your data by this website. %privacy_policy%</p>
+<a class="g1-button g1-button-l g1-button-wide g1-button-solid snax-login-gdpr-accept" href="#">Accept</a>
+</div>
+</div>
+<div class="snax snax-notifications snax-notifications-off">
+<div class="snax-notification">
+<button class="snax-notification-close">Close</button>
+<p class="snax-notification-text"></p>
+</div>
+</div><div class="snax white-popup mfp-hide" id="snax-popup-add-to-collection">
+<h2>Add to Collection</h2>
+<div class="snax-add-to-collection"><!--  .snax-add-to-collection-loading -->
+<form class="snax-form-collection-search">
+<label>
+				Add new or search				<input autocomplete="off" name="snax-collection-search" placeholder="Add new…" type="search"/>
+</label>
+<input disabled="disabled" name="snax-collection-save" type="submit" value="Save"/>
+</form>
+<div class="snax-collections snax-collections-tpl-listxs">
+<ul class="snax-collections-items">
+<li class="snax-collections-item">
+<div class="snax-collection snax-collection-tpl-listxs snax-collection-public">
+<p class="snax-collection-title"><a>Public collection title</a></p>
+</div>
+</li>
+<li class="snax-collections-item">
+<div class="snax-collection snax-collection-tpl-listxs snax-collection-private">
+<p class="snax-collection-title"><a>Private collection title</a></p>
+</div>
+</li>
+</ul>
+</div>
+<div class="snax-collections-leading">
+<div class="snax-collections-leading-icon"></div>
+<h3 class="snax-collections-leading-title">No Collections</h3>
+<p>Here you'll find all collections you've created before.</p>
+</div>
+</div>
+</div>
+<div id="nxsFavNotice" style="display: none;"><div id="nxsFavNoticeCnt">Posting....</div></div><a data-wpd-lity="" href="javascript:void(0);" id="wpdUserContentInfoAnchor" rel="#wpdUserContentInfo" style="display:none;">wpDiscuz</a><div class="lity-hide" id="wpdUserContentInfo" style="overflow:auto;background:#FDFDF6;padding:20px;width:600px;max-width:100%;border-radius:6px;"></div><div id="wpd-bubble-wrapper"><span id="wpd-bubble-all-comments-count" title="2">2</span><div id="wpd-bubble-count"><svg height="24" viewbox="0 0 24 24" width="24" xmlns="https://www.w3.org/2000/svg"><path class="wpd-bubble-count-first" d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z"></path><path class="wpd-bubble-count-second" d="M0 0h24v24H0z"></path></svg><span class="wpd-new-comments-count">0</span></div><div id="wpd-bubble"><svg height="24" viewbox="0 0 24 24" width="24" xmlns="https://www.w3.org/2000/svg"><path class="wpd-bubble-plus-first" d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"></path><path class="wpd-bubble-plus-second" d="M0 0h24v24H0z"></path></svg><div id="wpd-bubble-add-message">Would love your thoughts, please comment.<span id="wpd-bubble-add-message-close"><a href="#">x</a></span></div></div><div id="wpd-bubble-notification"><svg height="24" viewbox="0 0 24 24" width="24" xmlns="https://www.w3.org/2000/svg"><path class="wpd-bubble-notification-first" d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z"></path><path class="wpd-bubble-notification-second" d="M0 0h24v24H0z"></path></svg><div id="wpd-bubble-notification-message"><div id="wpd-bubble-author"><div><span id="wpd-bubble-author-avatar"></span><span id="wpd-bubble-author-name"></span><span id="wpd-bubble-comment-date">(<span class="wpd-bubble-spans"></span>)</span></div><span id="wpd-bubble-comment-close"><a href="#">x</a></span></div><div id="wpd-bubble-comment"><span id="wpd-bubble-comment-text"></span><span id="wpd-bubble-comment-reply-link">| <a href="#">Reply</a></span></div></div></div></div><div id="wpd-editor-source-code-wrapper-bg"></div><div id="wpd-editor-source-code-wrapper"><textarea id="wpd-editor-source-code"></textarea><button id="wpd-insert-source-code">Insert</button><input id="wpd-editor-uid" type="hidden"/></div> <!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+<!-- Background of PhotoSwipe.
+		         It's a separate element as animating opacity is faster than rgba(). -->
+<div class="pswp__bg"></div>
+<!-- Slides wrapper with overflow:hidden. -->
+<div class="pswp__scroll-wrap">
+<!-- Container that holds slides.
+		            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+		            Don't modify these 3 pswp__item elements, data is added later on. -->
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<!--  Controls are self-explanatory. Order can be changed. -->
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--share" title="Share"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+<!-- element will get class pswp__preloader-active when preloader is running -->
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+<div class="pswp__share-tooltip"></div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+</button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+</button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/social-networks-auto-poster-facebook-twitter-g/js-css/jquery.modal.min.css?ver=4.3.25" id="modal-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/g1-socials/css/screen-basic.min.css?ver=1.2.27" id="g1-socials-basic-screen-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://149425939.v2.pressablecdn.com/wp-content/plugins/g1-socials/css/snapcode.min.css?ver=1.2.27" id="g1-socials-snapcode-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jetpack-photon-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001" type="text/javascript"></script>
+<script id="regenerator-runtime-js" src="https://149425939.v2.pressablecdn.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" type="text/javascript"></script>
+<script id="wp-polyfill-js" src="https://149425939.v2.pressablecdn.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" type="text/javascript"></script>
+<script id="contact-form-7-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/theduran.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script id="contact-form-7-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6" type="text/javascript"></script>
+<script id="mace-lazy-load-youtube-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/media-ace/includes/lazy-load/assets/js/youtube.js?ver=1.4.12" type="text/javascript"></script>
+<script id="lazysizes-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/media-ace/includes/lazy-load/assets/js/lazysizes/lazysizes.min.js?ver=4.0" type="text/javascript"></script>
+<script id="lazysizes-unveilhooks-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/media-ace/includes/lazy-load/assets/js/lazysizes/plugins/unveilhooks/ls.unveilhooks.min.js?ver=5.2.0" type="text/javascript"></script>
+<script id="mace-gallery-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var macegallery = {"i18n":{"of":"of"},"html":"\n<div class=\"g1-gallery-wrapper g1-gallery-dark\">\n\t<div class=\"g1-gallery\">\n\t\t<div class=\"g1-gallery-header\">\n\t\t\t<div class=\"g1-gallery-header-left\">\n\t\t\t\t<div class=\"g1-gallery-logo\">\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<div class=\"g1-gallery-title g1-gamma g1-gamma-1st\">{title}<\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"g1-gallery-header-right\">\n\t\t\t\t<div class=\"g1-gallery-back-to-slideshow\">Back to slideshow<\/div>\n\t\t\t\t<div class=\"g1-gallery-thumbs-button\"><\/div>\n\t\t\t\t<div class=\"g1-gallery-numerator\">{numerator}<\/div>\n\t\t\t\t<div class=\"g1-gallery-close-button\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div class=\"g1-gallery-body\">\n\t\t\t<div class=\"g1-gallery-frames\">\n\t\t\t\t{frames}\n\t\t\t<\/div>\n\t\t\t<div class=\"g1-gallery-thumbnails32\">\n\t\t\t\t<div class=\"g1-gallery-thumbnails-collection\">\n\t\t\t\t\t{thumbnails32}\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"g1-gallery-sidebar\">\n\t\t\t\t\t<div class=\"g1-gallery-shares\">\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"g1-gallery-ad\"><\/div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"g1-gallery-thumbnails\">\n\t\t\t\t\t\t\t<div class=\"g1-gallery-thumbnails-up\"><\/div>\n\t\t\t\t\t\t\t<div class=\"g1-gallery-thumbnails-collection\">{thumbnails}<\/div>\n\t\t\t\t\t\t\t<div class=\"g1-gallery-thumbnails-down\"><\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n","shares":"<a class=\"g1-gallery-share g1-gallery-share-pinterest bimber-share-pinterest\" href=\"https:\/\/pinterest.com\/pin\/create\/button?url=mace_replace_shortlink&description=mace_replace_title&media=mace_replace_image_url\" title=\"Share on Pinterest\" target=\"_blank\" rel=\"nofollow\">Share on Pinterest<\/a><a class=\"g1-gallery-share g1-gallery-share-fb bimber-share-facebook\" href=\"https:\/\/www.facebook.com\/dialog\/share?app_id=&display=popup&href=mace_replace_noesc_shortlink&quote=mace_replace_noesc_title\" title=\"Share on Facebook\" data-share-url=\"mace_replace_noesc_shortlink\" data-share-text=\"mace_replace_noesc_title\" data-on-share-callback=\"\" target=\"_blank\" rel=\"nofollow\">Share on Facebook<\/a><a class=\"g1-gallery-share g1-gallery-share-twitter bimber-share-twitter\" href=\"\/\/twitter.com\/intent\/tweet?url=mace_replace_shortlink&text=mace_replace_title%20\" title=\"Share on Twitter\" target=\"_blank\" rel=\"nofollow\">Share on Twitter<\/a>"};
+/* ]]> */
+</script>
+<script id="mace-gallery-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/media-ace/includes/gallery/js/gallery.js?ver=1.4.12" type="text/javascript"></script>
+<script id="snax-collections-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var snax_collections_js_config = {"ajax_url":"https:\/\/theduran.com\/wp-admin\/admin-ajax.php","home_url":"https:\/\/theduran.com","user_id":"0","post_id":"103019","nonce":"a4ec8c50fc","history":"on","i18n":{"are_you_sure_remove":"Entire collection with all items will be removed. Proceed?","are_you_sure_clear_all":"All collection items will be removed. Proceed?","removed":"Collection has been successfully removed","removing_items":"Removing collection items..."}};
+/* ]]> */
+</script>
+<script id="snax-collections-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/snax/assets/js/collections.min.js?ver=1.92" type="text/javascript"></script>
+<script id="jquery-magnific-popup-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/snax/assets/js/jquery.magnific-popup/jquery.magnific-popup.min.js?ver=1.1.0" type="text/javascript"></script>
+<script id="jquery-timeago-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/snax/assets/js/jquery.timeago/jquery.timeago.js?ver=1.5.2" type="text/javascript"></script>
+<script id="jquery-timeago-en-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/snax/assets/js/jquery.timeago/locales/jquery.timeago.en.js" type="text/javascript"></script>
+<script id="snax-front-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var snax_front_config = {"ajax_url":"https:\/\/theduran.com\/wp-admin\/admin-ajax.php","site_url":"https:\/\/theduran.com","autosave_interval":"60","use_login_recaptcha":"1","recaptcha_api_url":"https:\/\/www.google.com\/recaptcha\/api.js","recaptcha_version":"20","recaptcha_site_key":"6LdRGB8TAAAAACTis2kbGgFUuddwWtd6N5WMz7T5","enable_login_popup":"1","login_url":"https:\/\/theduran.com\/wp-login.php?snax_login_popup=on","login_popup_url_var":"snax_login_popup","logged_in":"","login_success_var":"snax_login_success","delete_status_var":"snax_delete_status","item_comments_js_enabled":"1","i18n":{"are_you_sure":"Are you sure?","recaptcha_invalid":"<strong>ERROR<\/strong>: The reCAPTCHA you entered is incorrect.","passwords_dont_match":"Passwords don't match.","link_invalid":"Your password reset link appears to be invalid or expired.","password_set":"New password has been set","duplicate_comment":"Duplicate comment detected; it looks as though you&#8217;ve already said that!","comment_fail":"Comment Submission Failure","see_all_replies":"See all replies","user_is_logging":"Please wait. You are logging in&hellip;","points_singular_tpl":"<strong>%d<\/strong> Point","points_plural_tpl":"<strong>%d<\/strong> Points","points_singular_short_tpl":"<strong>%s<\/strong> Point","points_plural_short_tpl":"<strong>%s<\/strong> Points","popup_close_label":"Close (Esc)"}};
+/* ]]> */
+</script>
+<script id="snax-front-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/snax/assets/js/front.js?ver=1.92" type="text/javascript"></script>
+<script id="wpdiscuz-combo-js-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpdiscuzAjaxObj = {"wc_hide_replies_text":"Hide Replies","wc_show_replies_text":"View Replies","wc_msg_required_fields":"Please fill out required fields","wc_invalid_field":"Some of field value is invalid","wc_error_empty_text":"please fill out this field to comment","wc_error_url_text":"url is invalid","wc_error_email_text":"email address is invalid","wc_invalid_captcha":"Invalid Captcha Code","wc_login_to_vote":"You Must Be Logged In To Vote","wc_deny_voting_from_same_ip":"You are not allowed to vote for this comment","wc_self_vote":"You cannot vote for your comment","wc_vote_only_one_time":"You've already voted for this comment","wc_voting_error":"Voting Error","wc_comment_edit_not_possible":"Sorry, this comment is no longer possible to edit","wc_comment_not_updated":"Sorry, the comment was not updated","wc_comment_not_edited":"You've not made any changes","wc_msg_input_min_length":"Input is too short","wc_msg_input_max_length":"Input is too long","wc_spoiler_title":"Spoiler Title","wc_cannot_rate_again":"You cannot rate again","wc_not_allowed_to_rate":"You're not allowed to rate here","wc_follow_user":"Follow this user","wc_unfollow_user":"Unfollow this user","wc_follow_success":"You started following this comment author","wc_follow_canceled":"You stopped following this comment author.","wc_follow_email_confirm":"Please check your email and confirm the user following request.","wc_follow_email_confirm_fail":"Sorry, we couldn't send confirmation email.","wc_follow_login_to_follow":"Please login to follow users.","wc_follow_impossible":"We are sorry, but you can't follow this user.","wc_follow_not_added":"Following failed. Please try again later.","is_user_logged_in":"","commentListLoadType":"0","commentListUpdateType":"1","commentListUpdateTimer":"30","liveUpdateGuests":"0","wordpressThreadCommentsDepth":"5","wordpressIsPaginate":"","commentTextMaxLength":"0","replyTextMaxLength":"0","commentTextMinLength":"1","replyTextMinLength":"1","storeCommenterData":"100000","socialLoginAgreementCheckbox":"1","enableFbLogin":"0","fbUseOAuth2":"0","enableFbShare":"0","facebookAppID":"","facebookUseOAuth2":"0","enableGoogleLogin":"0","googleClientID":"","googleClientSecret":"","cookiehash":"07b8a8ce3d370819309ecb7f7fd960c1","isLoadOnlyParentComments":"0","scrollToComment":"1","commentFormView":"collapsed","enableDropAnimation":"1","isNativeAjaxEnabled":"1","enableBubble":"1","bubbleLiveUpdate":"0","bubbleHintTimeout":"45","bubbleHintHideTimeout":"10","cookieHideBubbleHint":"wpdiscuz_hide_bubble_hint","bubbleShowNewCommentMessage":"1","bubbleLocation":"right_corner","firstLoadWithAjax":"0","wc_copied_to_clipboard":"Copied to clipboard!","inlineFeedbackAttractionType":"blink","loadRichEditor":"1","wpDiscuzReCaptchaSK":"","wpDiscuzReCaptchaTheme":"light","wpDiscuzReCaptchaVersion":"2.0","wc_captcha_show_for_guest":"0","wc_captcha_show_for_members":"0","wpDiscuzIsShowOnSubscribeForm":"0","wmuEnabled":"1","wmuInput":"wmu_files","wmuMaxFileCount":"1","wmuMaxFileSize":"2097152","wmuPostMaxSize":"2146435072","wmuIsLightbox":"1","wmuMimeTypes":{"jpg":"image\/jpeg","jpeg":"image\/jpeg","jpe":"image\/jpeg","gif":"image\/gif","png":"image\/png","bmp":"image\/bmp","tiff":"image\/tiff","tif":"image\/tiff","ico":"image\/x-icon"},"wmuPhraseConfirmDelete":"Are you sure you want to delete this attachment?","wmuPhraseNotAllowedFile":"Not allowed file type","wmuPhraseMaxFileCount":"Maximum number of uploaded files is 1","wmuPhraseMaxFileSize":"Maximum upload file size is 2MB","wmuPhrasePostMaxSize":"Maximum post size is 2047MB","wmuPhraseDoingUpload":"Uploading in progress! Please wait.","msgEmptyFile":"File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.","msgPostIdNotExists":"Post ID not exists","msgUploadingNotAllowed":"Sorry, uploading not allowed for this post","msgPermissionDenied":"You do not have sufficient permissions to perform this action","wmuKeyImages":"images","wmuSingleImageWidth":"auto","wmuSingleImageHeight":"200","version":"7.3.16","wc_post_id":"103019","isCookiesEnabled":"1","loadLastCommentId":"202490","dataFilterCallbacks":[],"phraseFilters":[],"scrollSize":"32","is_email_field_required":"1","url":"https:\/\/theduran.com\/wp-admin\/admin-ajax.php","customAjaxUrl":"https:\/\/theduran.com\/wp-content\/plugins\/wpdiscuz\/utils\/ajax\/wpdiscuz-ajax.php","bubbleUpdateUrl":"https:\/\/theduran.com\/wp-json\/wpdiscuz\/v1\/update","restNonce":"f0412917e5","validateNonceForGuests":""};
+var wpdiscuzUCObj = {"msgConfirmDeleteComment":"Are you sure you want to delete this comment?","msgConfirmCancelSubscription":"Are you sure you want to cancel this subscription?","msgConfirmCancelFollow":"Are you sure you want to cancel this follow?","additionalTab":"0"};
+/* ]]> */
+</script>
+<script id="wpdiscuz-combo-js-js-before" type="text/javascript">
+        var wpdiscuzEditorOptions = {
+        modules: {
+        toolbar: "",
+        counter: {
+        uniqueID: "",
+        commentmaxcount : 0,
+        replymaxcount : 0,
+        commentmincount : 1,
+        replymincount : 1,
+        },
+                },
+        wc_be_the_first_text: "Be the First to Comment!",
+        wc_comment_join_text: "Join the discussion",
+        theme: 'snow',
+        debug: 'error'
+        };
+        
+</script>
+<script id="wpdiscuz-combo-js-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz-combo.min.js?ver=7.3.16" type="text/javascript"></script>
+<script id="reviewer-nouislider-plugin-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/reviewer/public/assets/js/jquery.nouislider.all.min.js?ver=3.14.2" type="text/javascript"></script>
+<script id="reviewer-photoswipe-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/reviewer/public/assets/js/photoswipe.js?ver=3.14.2" type="text/javascript"></script>
+<script id="reviewer-knob-plugin-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/reviewer/public/assets/js/jquery.knob.js?ver=3.14.2" type="text/javascript"></script>
+<script id="reviewer-public-script-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/reviewer/public/assets/js/reviewer.public.min.js?ver=3.14.2" type="text/javascript"></script>
+<script id="reviewer-reviews-boxes-script-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var rwpConstants = {"debugVue":""};
+var reviewerRatingObj = {"ajax_nonce":"e82f9100c9","ajax_url":"https:\/\/theduran.com\/wp-admin\/admin-ajax.php","action":"rwp_ajax_action_rating"};
+var reviewerJudgeObj = {"ajax_nonce":"32fd2993df","ajax_url":"https:\/\/theduran.com\/wp-admin\/admin-ajax.php","action":"rwp_ajax_action_like"};
+var reviewerQueryURs = {"ajax_nonce":"a0e7c6fcfe","ajax_url":"https:\/\/theduran.com\/wp-admin\/admin-ajax.php","action":"rwp_reviews_box_query_users_reviews"};
+/* ]]> */
+</script>
+<script id="reviewer-reviews-boxes-script-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/reviewer/public/assets/js/reviewer-reviews-boxes.js?ver=3.14.2" type="text/javascript"></script>
+<script id="reviewer-widget-users-reviews-script-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var rwpConstants = {"debugVue":""};
+var reviewerQueryAllURs = {"ajax_nonce":"ebcc084ad5","ajax_url":"https:\/\/theduran.com\/wp-admin\/admin-ajax.php","action":"rwp_reviews_box_query_all_users_reviews"};
+/* ]]> */
+</script>
+<script id="reviewer-widget-users-reviews-script-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/reviewer/public/assets/js/reviewer-widget-users-reviews.js?ver=3.14.2" type="text/javascript"></script>
+<script id="wptelegram-widget--public-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/wptelegram-widget/assets/static/js/wptelegram-widget--public.f398a08e.js?ver=6f2d48cea875402034a64db7d2baf0b0" type="text/javascript"></script>
+<script id="bimber-shares-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var bimber_shares_config = {"debug_mode":"","facebook_sdk":{"url":"https:\/\/connect.facebook.net\/en_US\/sdk.js","app_id":"","version":"v5.0"},"microshares":{"tpl":"<div class=\"bimber-microshare-item-share\">\n\t<a class=\"bimber-microshare-item-share-toggle\" href=\"#\">Share<\/a>\n\t<div class=\"bimber-microshare-item-share-content\">\n\t\t<a class=\"bimber-microshare bimber-microshare-pinterest bimber-share-pinterest\" href=\"https:\/\/pinterest.com\/pin\/create\/button?url=https:\/\/theduran.com\/update-on-assange-and-the-extradition-hearing\/&#038;description=Update%20on%20Assange%20and%20the%20extradition%20hearing&#038;media=bimber_share_media_url_placeholder\" title=\"Share on Pinterest\" target=\"_blank\" rel=\"nofollow\">Share on Pinterest<\/a><a class=\"bimber-microshare bimber-microshare-facebook bimber-share-facebook\" href=\"https:\/\/www.facebook.com\/dialog\/share?app_id=&#038;display=popup&#038;href=https:\/\/theduran.com\/update-on-assange-and-the-extradition-hearing\/&#038;quote=Update%20on%20Assange%20and%20the%20extradition%20hearing\" title=\"Share on Facebook\" data-share-url=\"https:\/\/theduran.com\/update-on-assange-and-the-extradition-hearing\/\" data-share-text=\"Update on Assange and the extradition hearing\" data-on-share-callback=\"\" target=\"_blank\" rel=\"nofollow\">Share on Facebook<\/a><a class=\"bimber-microshare bimber-microshare-twitter bimber-share-twitter\" href=\"\/\/twitter.com\/intent\/tweet?url=https:\/\/theduran.com\/update-on-assange-and-the-extradition-hearing\/&#038;text=Update%20on%20Assange%20and%20the%20extradition%20hearing%20\" title=\"Share on Twitter\" target=\"_blank\" rel=\"nofollow\">Share on Twitter<\/a>\t<\/div>\n<\/div>\n","domain":"https:\/\/theduran.com\/"},"i18n":{"fb_app_id_not_set":"Facebook App Id not set in Theme Options > Shares"}};
+/* ]]> */
+</script>
+<script id="bimber-shares-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/shares.min.js?ver=9.2.1" type="text/javascript"></script>
+<script id="comment-reply-js" src="https://149425939.v2.pressablecdn.com/wp-includes/js/comment-reply.min.js?ver=6.1.1" type="text/javascript"></script>
+<script id="stickyfill-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/stickyfill/stickyfill.min.js?ver=2.0.3" type="text/javascript"></script>
+<script id="jquery-placeholder-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/jquery.placeholder/placeholders.jquery.min.js?ver=4.0.1" type="text/javascript"></script>
+<script id="match-media-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/matchmedia/matchmedia.js" type="text/javascript"></script>
+<script id="match-media-add-listener-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/matchmedia/matchmedia.addlistener.js" type="text/javascript"></script>
+<script id="picturefill-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/picturefill/picturefill.min.js?ver=2.3.1" type="text/javascript"></script>
+<script id="jquery-waypoints-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/jquery.waypoints/jquery.waypoints.min.js?ver=4.0.0" type="text/javascript"></script>
+<script id="enquire-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/enquire/enquire.min.js?ver=2.1.2" type="text/javascript"></script>
+<script id="bimber-global-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var bimber_front_config = {"debug_mode":"","ajax_url":"https:\/\/theduran.com\/wp-admin\/admin-ajax.php","timeago":"off","sharebar":"off","i18n":{"menu":{"go_to":"Go to"},"newsletter":{"subscribe_mail_subject_tpl":"Check out this great article: %subject%"},"bp_profile_nav":{"more_link":"More"}},"comment_types":["wp"],"auto_load_limit":"0","auto_play_videos":"","use_gif_player":"1","setTargetBlank":"1","useWaypoints":"1","stack":"app","wpp":{"token":"f8321c71c8"}};
+/* ]]> */
+</script>
+<script id="bimber-global-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/global.js?ver=9.2.1" type="text/javascript"></script>
+<script id="libgif-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/libgif/libgif.js" type="text/javascript"></script>
+<script id="bimber-players-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/players.js?ver=9.2.1" type="text/javascript"></script>
+<script id="jquery-ui-core-js" src="https://149425939.v2.pressablecdn.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" type="text/javascript"></script>
+<script id="jquery-ui-menu-js" src="https://149425939.v2.pressablecdn.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2" type="text/javascript"></script>
+<script id="wp-dom-ready-js" src="https://149425939.v2.pressablecdn.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca" type="text/javascript"></script>
+<script id="wp-hooks-js" src="https://149425939.v2.pressablecdn.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5" type="text/javascript"></script>
+<script id="wp-i18n-js" src="https://149425939.v2.pressablecdn.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae" type="text/javascript"></script>
+<script id="wp-i18n-js-after" type="text/javascript">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="wp-a11y-js" src="https://149425939.v2.pressablecdn.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664" type="text/javascript"></script>
+<script id="jquery-ui-autocomplete-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script id="jquery-ui-autocomplete-js" src="https://149425939.v2.pressablecdn.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2" type="text/javascript"></script>
+<script id="bimber-ajax-search-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/ajax-search.js?ver=9.2.1" type="text/javascript"></script>
+<script id="bimber-single-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/single.js?ver=9.2.1" type="text/javascript"></script>
+<script id="pinterest-pro-js-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/pinterest-pro.js?ver=8.3" type="text/javascript"></script>
+<script id="subscribe-forms-js-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.js?ver=8.3" type="text/javascript"></script>
+<script id="easy-social-share-buttons-core-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.js?ver=8.3" type="text/javascript"></script>
+<script id="easy-social-share-buttons-core-js-after" type="text/javascript">
+var essb_settings = {"ajax_url":"https:\/\/theduran.com\/wp-admin\/admin-ajax.php","essb3_nonce":"792bd78bd5","essb3_plugin_url":"https:\/\/theduran.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":false,"essb3_ga":false,"essb3_ga_ntg":false,"blog_url":"https:\/\/theduran.com\/","post_id":"103019"};
+</script>
+<script id="jquery-validation-plugin-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/official-mailerlite-sign-up-forms/assets/js/jquery.validate.min.js?ver=6.1.1" type="text/javascript"></script>
+<script id="modal-js" src="https://149425939.v2.pressablecdn.com/wp-content/plugins/social-networks-auto-poster-facebook-twitter-g/js-css/jquery.modal.min.js?ver=4.3.25" type="text/javascript"></script>
+<script id="bimber-skin-mode-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/skin-mode.js?ver=9.2.1" type="text/javascript"></script>
+<script id="flickity-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/flickity/flickity.pkgd.min.js?ver=2.2.1" type="text/javascript"></script>
+<script id="bimber-back-to-top-js" src="https://149425939.v2.pressablecdn.com/wp-content/themes/bimber/js/back-to-top.js?ver=9.2.1" type="text/javascript"></script>
+<script type="text/javascript">
+			(function() {
+			var t   = document.createElement( 'script' );
+			t.type  = 'text/javascript';
+			t.async = true;
+			t.id    = 'gauges-tracker';
+			t.setAttribute( 'data-site-id', '5e8f374cd1e7290dfb5f264b' );
+			t.src = '//secure.gaug.es/track.js';
+			var s = document.getElementsByTagName( 'script' )[0];
+			s.parentNode.insertBefore( t, s );
+			})();
+		</script>
+<script defer="" src="https://stats.wp.com/e-202310.js"></script>
+<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'134280366',post:'103019',tz:'2',srv:'theduran.com',hp:'atomic',ac:'3',amp:'0',j:'1:11.9-beta'} ]);
+		_stq.push([ 'clickTrackerInit', '134280366', '103019' ]);
+	</script><div class="essb_mailform" data-error="Please fill all form fields" data-sending="Sending to"><div class="essb_mailform_header"><div class="heading">Send this to a friend</div></div><div class="essb_mailform_content"><input class="essb_mailform_content_input" id="essb_mailform_from" placeholder="Your email" type="text"/><input class="essb_mailform_content_input" id="essb_mailform_from_name" placeholder="Your name" type="text"/><input class="essb_mailform_content_input" id="essb_mailform_to" placeholder="Recipient email" type="text"/><label class="essb_mailform_status_message" id="essb_mailform_status_message"></label><div class="essb_mailform_content_buttons"><button class="essb_mailform_content_button" id="essb_mailform_btn_submit" onclick="essb_mailform_send();">Send</button><button class="essb_mailform_content_button" id="essb_mailform_btn_cancel" onclick="essb_close_mailform(); return false;">Cancel</button></div><input id="essb_mail_salt" type="hidden" value="1667821163"/><input id="essb_mail_instance" type="hidden" value=""/><input id="essb_mail_post" type="hidden" value=""/></div></div><div class="essb_mailform_shadow"></div><style id="easy-social-share-buttons-inline-css" media="all" type="text/css">.essb_topbar .essb_topbar_inner{max-width:1152px;margin:0 auto;padding-left:0;padding-right:0;}.essb_topbar{margin-top:-200px;}</style><script type="text/javascript"></script> <script src="https://www.google.com/recaptcha/api.js?render=6Lct7NoZAAAAAGtmA_t3A1hyclK3_-8JikC0pcDW&amp;hl=en"></script>
+<script type="text/javascript">
+				( function( grecaptcha ) {
+
+					var c4wp_onloadCallback = function() {
+						grecaptcha.execute(
+							'6Lct7NoZAAAAAGtmA_t3A1hyclK3_-8JikC0pcDW',
+							{ action: 'advanced_nocaptcha_recaptcha' }
+						).then( function( token ) {
+							for ( var i = 0; i < document.forms.length; i++ ) {
+								var form = document.forms[i];
+								var captcha = form.querySelector( 'input[name="g-recaptcha-response"]' );
+								if ( null === captcha )
+									continue;
+
+								captcha.value = token;
+							}
+							// Apply relevent accessibility attributes to response.
+							var responseTextareas = document.querySelectorAll(".g-recaptcha-response");
+							responseTextareas.forEach(function(textarea) {
+								textarea.setAttribute("aria-hidden", "true");
+								textarea.setAttribute("aria-label", "do not use");
+								textarea.setAttribute("aria-readonly", "true");
+							});
+						});
+					};
+
+					grecaptcha.ready( c4wp_onloadCallback );
+
+					//token is valid for 2 minutes, So get new token every after 1 minutes 50 seconds
+					setInterval(c4wp_onloadCallback, 110000);
+
+				} )( grecaptcha );
+			</script>
+</body>
+</html>

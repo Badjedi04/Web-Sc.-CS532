@@ -1,0 +1,626 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Pfizer Is Calling the Shots to Jab Kids - Global ResearchGlobal Research - Centre for Research on Globalization</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="index,noarchive,follow,noodp" name="googlebot"/>
+<meta content="all,index,follow" name="robots"/>
+<meta content="all,index,follow" name="msnbot"/>
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/all.css?t=005" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/style.css?t=001" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/favicon2.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381" rel="canonical">
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="Pfizer Is Calling the Shots to Jab Kids - Global Research" property="og:title"/>
+<meta content="All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version). To receive Global Research’s Daily Newsletter (selected articles), click here. Visit and follow us on Instagram at @crg_globalresearch. ***   Public Citizen has reviewed and published the secret contracts …" property="og:description"/>
+<meta content="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381" property="og:url"/>
+<meta content="Global Research" property="og:site_name"/>
+<meta content="child vaccination" property="article:tag"/>
+<meta content="covid vaccine" property="article:tag"/>
+<meta content="COVID-19" property="article:tag"/>
+<meta content="Pfizer" property="article:tag"/>
+<meta content="English" property="article:section"/>
+<meta content="2021-11-01T15:38:28+00:00" property="article:published_time"/>
+<meta content="2021-11-01T15:38:30+00:00" property="article:modified_time"/>
+<meta content="2021-11-01T15:38:30+00:00" property="og:updated_time"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2021/05/15-Year-Old-Heart-Attack-Pfizer-Vaccine-1024x538.jpg" property="og:image"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2021/05/15-Year-Old-Heart-Attack-Pfizer-Vaccine-1024x538.jpg" property="og:image:secure_url"/>
+<meta content="1024" property="og:image:width"/>
+<meta content="538" property="og:image:height"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version). To receive Global Research’s Daily Newsletter (selected articles), click here. Visit and follow us on Instagram at @crg_globalresearch. ***   Public Citizen has reviewed and published the secret contracts […]" name="twitter:description"/>
+<meta content="Pfizer Is Calling the Shots to Jab Kids - Global Research" name="twitter:title"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2021/05/15-Year-Old-Heart-Attack-Pfizer-Vaccine-1024x538.jpg" name="twitter:image"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//maxcdn.bootstrapcdn.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.globalresearch.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.25"}};
+			!function(t,a,e){var r,n,i,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(i=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},n=0;n<i.length;n++)e.supports[i[n]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),o.toDataURL().length<3e3)?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,65039,8205,55356,57096),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,55356,57096),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55357,56425,55356,57341,8205,55357,56507),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55357,56425,55356,57341,55357,56507),0,0),e!==o.toDataURL()}return!1}(i[n]),e.supports.everything=e.supports.everything&&e.supports[i[n]],"flag"!==i[n]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[i[n]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://www.globalresearch.ca/wp-content/plugins/gtranslate/gtranslate-style24.css?ver=4.7.25" id="gtranslate-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/share-this/css/style.css?ver=4.7.25" id="st-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.globalresearch.ca/wp-content/uploads/pum/pum-site-styles.css?generated=1598646263&amp;ver=1.7.30" id="popup-maker-site-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/dk-pdf/assets/css/frontend.css?ver=1.9.6" id="dkpdf-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=5.1" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/simple-pagination/css/default.css?ver=2.1.7" id="simple-pagination-css-css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script src="https://www.globalresearch.ca/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408" type="text/javascript"></script>
+<link href="https://www.globalresearch.ca/wp-json/" rel="https://api.w.org/"/>
+<link href="https://www.globalresearch.ca/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://www.globalresearch.ca/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="https://wp.me/p2vCQD-oaxn" rel="shortlink"/>
+<link href="https://www.globalresearch.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.globalresearch.ca%2Fpfizer-calling-shots-jab-kids%2F5760381" rel="alternate" type="application/json+oembed"/>
+<link href="https://www.globalresearch.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.globalresearch.ca%2Fpfizer-calling-shots-jab-kids%2F5760381&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" src="https://ws.sharethis.com/button/buttons.js" type="text/javascript"></script><script type="text/javascript">stLight.options({publisher:'wp.9bffc2a3-d7c6-4a77-b502-4dabc8559ee3'});var st_type='wordpress3.4.1';</script><style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09F}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style>
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<style>
+			.algolia-search-highlight {
+				background-color: #fffbcc;
+				border-radius: 2px;
+				font-style: normal;
+			}
+		</style>
+<link href="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381/amp" rel="amphtml"><link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon-32x32.png" rel="icon" sizes="32x32"/>
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" rel="icon" sizes="192x192"/>
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" rel="apple-touch-icon-precomposed"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" name="msapplication-TileImage"/>
+<style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(51,102,153,.88);}</style>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/jquery.main.js" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/gr.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9062277-1']);
+  _gaq.push(['_setDomainName', 'globalresearch.ca']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:95869,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<link href="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381" rel="canonical"/>
+<meta content="5760381" itemprop="identifier"/>
+<meta content="article" itemprop="pageType"/>
+<meta content="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381" itemprop="url"/>
+<meta content="1 November 2021" itemprop="datePublished"/>
+<meta content="1 November 2021" itemprop="dateModified"/>
+<meta content="Dr. Joseph Mercola" itemprop="author"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2021/05/15-Year-Old-Heart-Attack-Pfizer-Vaccine-1024x538.jpg" itemprop="thumbnailUrl"/>
+<meta content="en" itemprop="inLanguage"/>
+<!-- -->
+</link></link></head>
+<body>
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="grtopbar notranslate">
+<div class="grtopnav">
+<div class="grtoplinksleft">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav-top"><li class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5302078" id="menu-item-5302078"><a href="https://www.globalresearch.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302079" id="menu-item-5302079"><a href="https://www.globalresearch.ca/about-2">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302080" id="menu-item-5302080"><a href="https://www.globalresearch.ca/contact-2">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302082" id="menu-item-5302082"><a href="https://store.globalresearch.ca/member/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302083" id="menu-item-5302083"><a href="https://store.globalresearch.ca/">Store</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5449212" id="menu-item-5449212"><a href="https://store.globalresearch.ca/donate/">Donate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5629561" id="menu-item-5629561"><a href="https://www.globalresearch.ca/archives">Archives</a></li>
+</ul></div><div></div></div> </div>
+<div class="grtoplinksright">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav-top"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586040" id="menu-item-5586040"><a href="https://www.globalresearch.ca/region/usa">USA</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586034" id="menu-item-5586034"><a href="https://www.globalresearch.ca/region/canada">Canada</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586036" id="menu-item-5586036"><a href="https://www.globalresearch.ca/region/latin-america-caribbean">Latin America</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586039" id="menu-item-5586039"><a href="https://www.globalresearch.ca/region/sub-saharan-africa">Africa</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586037" id="menu-item-5586037"><a href="https://www.globalresearch.ca/region/middle-east">Middle East</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586035" id="menu-item-5586035"><a href="https://www.globalresearch.ca/region/europe">Europe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586041" id="menu-item-5586041"><a href="https://www.globalresearch.ca/region/russia-and-fsu">Russia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586033" id="menu-item-5586033"><a href="https://www.globalresearch.ca/region/asia">Asia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586038" id="menu-item-5586038"><a href="https://www.globalresearch.ca/region/oceania">Oceania</a></li>
+</ul></div><div></div></div>
+</div>
+</div>
+</div>
+<div id="wrapper">
+<div class="w1">
+<div class="w2">
+<div class="language-holder notranslate" style="text-align: right;width: 260px;">
+<div id="languages">
+<ul>
+<li><a href="https://www.globalresearch.ca/category/italiano/">Italiano</a></li>
+<li><a href="https://www.globalresearch.ca/category/deutsch/">Deutsch</a></li>
+<li><a href="https://www.globalresearch.ca/category/portugues/">Português</a></li>
+<li><a href="https://www.globalresearch.ca/category/srpski/">srpski</a></li>
+<li><a href="https://www.globalresearch.ca/category/arabic">العربية</a></li>
+<li style="margin-right:0"><a href="https://www.globalresearch.ca/category/chinese">中文</a></li>
+</ul>
+<p>Notre site en Français: <a href="https://www.mondialisation.ca/" title="Centre de reserche sur la mondialisation">mondialisation.ca</a></p>
+Nuestro sitio en español: <a href="https://www.globalizacion.ca" target="_blank" title="Globalizacion">Globalizacion</a>
+<br/>
+<a href="https://asia-pacificresearch.com" target="_blank" title="Asia-Pacific Research">Asia-Pacific Research</a>
+</div>
+</div>
+<div class="notranslate" id="header">
+<h1 class="logo_en"><a href="https://www.globalresearch.ca" title="Global Research">Global Research</a></h1>
+<div class="headerright">
+<div class="authorsearch">
+<form action="/authors">
+<input name="query" onblur="if (this.value == '') { this.value='Search Authors...';} " onfocus=" if (this.value == 'Search Authors...') { this.value = ''; }" type="text" value="Search Authors..."/>
+<input id="searchsubmit" src="https://www.globalresearch.ca/images/search-icon.jpg" type="image" value="Search"/>
+</form>
+</div>
+<div class="translatebox" id="translatebox" style="float:left;margin-top:-35px;margin-left:206px;width:175px">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</div>
+<div class="searchbox">
+<form action="https://www.globalresearch.ca">
+<input name="s" onblur="if (this.value == '') { this.value='Search...';} " onfocus=" if (this.value == 'Search...') { this.value = ''; }" type="text" value="Search..."/>
+<input id="searchsubmit" src="https://www.globalresearch.ca/images/search-icon.jpg" type="image" value="Search">
+</input></form>
+</div>
+<div class="newsletter">
+<form action="https://lp.constantcontactpages.com/su/IJiNQuW" id="NLform" method="get" name="ccoptin">
+<input class="emailinput" id="mce-EMAIL" name="EMAIL" onblur="if(this.value=='')this.value='GR Newsletter, Enter Email'" onfocus="if(this.value=='GR Newsletter, Enter Email')this.value=''" type="text" value="GR Newsletter, Enter Email"/>
+<input name="go" src="//www.globalresearch.ca/images/submit-icon.jpg" type="image" value="GO">
+</input></form>
+</div>
+<div class="social-networks">
+<ul>
+<li class="grtv"><a href="http://tv.globalresearch.ca/" target="_blank" title="Global Research TV">grtv</a></li>
+<li class="youtube"><a href="https://www.youtube.com/globalresearchtv" target="_blank" title="Global Research YouTube Channel">youtube</a></li>
+<li class="twitter"><a href="https://twitter.com/CRG_CRM" target="_blank" title="Follow Global Research on Twitter">twitter</a></li>
+<li class="facebook"><a href="https://www.facebook.com/GlobalResearchCRG" target="_blank" title="Connect on Facebook">facebook</a></li>
+<li class="rss"><a href="https://www.globalresearch.ca/feed" title="">rss</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+<div class="notranslate" id="grnavbar">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586043" id="menu-item-5586043"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US Nato War</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586044" id="menu-item-5586044"><a href="https://www.globalresearch.ca/theme/global-economy">Economy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586046" id="menu-item-5586046"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Civil Rights</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586047" id="menu-item-5586047"><a href="https://www.globalresearch.ca/theme/environment">Environment</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586048" id="menu-item-5586048"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586049" id="menu-item-5586049"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586050" id="menu-item-5586050"><a href="https://www.globalresearch.ca/theme/law-and-justice">Justice</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586051" id="menu-item-5586051"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">9/11</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586052" id="menu-item-5586052"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">War Crimes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586053" id="menu-item-5586053"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586054" id="menu-item-5586054"><a href="https://www.globalresearch.ca/theme/culture-society-history">History</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586055" id="menu-item-5586055"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science</a></li>
+</ul></div><div></div></div>
+</div>
+<div class="main-t"></div>
+<div class="main-c">
+<div class="main-content">
+<div id="content" style="width:100%;background:white;">
+<div id="singleArticle">
+<div class="post" id="post-5760381">
+<div class="title">
+<h2 itemprop="headline">Pfizer Is Calling the Shots to Jab Kids</h2>
+<div class="meta">
+<div class="post-info">
+<div class="author">By <a href="https://www.globalresearch.ca/author/dr-mercola" title="Posts by Dr. Joseph Mercola">Dr. Joseph Mercola</a></div>
+<div class="grDate">Global Research, November 01, 2021</div>
+<div class="sourceDate"> <a href="https://articles.mercola.com/sites/articles/archive/2021/11/01/pfizer-contracts.aspx" target="_blank">Mercola</a></div>
+</div>
+<div class="catAndTag">
+<div class="cats">Theme: <a href="https://www.globalresearch.ca/theme/science-and-medicine" rel="tag">Science and Medicine</a></div>
+</div>
+</div>
+<div class="sharethis">
+<div class="sharethisleft">
+<span style="float:left"><span class="fontSize" style="float:left"><a href="#" id="toggleFont"></a></span> <p id="print-page-link" style="margin: 10px 0px;"><a href="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381?print=1" id="print-link" rel="nofollow"><img src="https://www.globalresearch.ca/wp-content/plugins/print-me/images/printme.png" style="width: 25px;height: 25px;" title="print"/></a></p></span> <span> <a href="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381?pdf=5760381" target="_blank"> <img src="/wp-content/uploads/2021/05/pdf01.png" style="height:23px;width:20px;margin-top:3px;margin-left:7px;"/> </a> </span> <span style="float:right;margin-left:10px;width:130px;">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</span>
+</div>
+<div class="sharethisright" style="display:flex;overflow:clip;max-height:25px;align-items:center;">
+<span class="st_facebook_hcount" displaytext="facebook" st_title="Pfizer Is Calling the Shots to Jab Kids" st_url="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381"></span>
+<span class="st_fblike_hcount" displaytext="fblike" st_title="Pfizer Is Calling the Shots to Jab Kids" st_url="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381" style="height:26px"></span>
+<span class="st_twitter_hcount" displaytext="twitter" st_title="Pfizer Is Calling the Shots to Jab Kids" st_url="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381" st_username="grtvnews" st_via="grtvnews"></span>
+<span class="st_email_hcount" displaytext="email" st_title="Pfizer Is Calling the Shots to Jab Kids" st_url="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381"></span>
+<span class="st_plusone_hcount" displaytext="plusone" st_title="Pfizer Is Calling the Shots to Jab Kids" st_url="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381" style="width:1px; display: inline-block"></span>
+<span class="st_sharethis_hcount" displaytext="sharethis" st_title="Pfizer Is Calling the Shots to Jab Kids" st_url="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381"></span>
+</div>
+</div>
+</div>
+<div class="content" itemprop="articleBody">
+<div class="postThumbnail">
+<img alt="" class="attachment-single-post-thumbnail size-single-post-thumbnail wp-post-image" height="210" sizes="(max-width: 400px) 100vw, 400px" src="https://www.globalresearch.ca/wp-content/uploads/2021/05/15-Year-Old-Heart-Attack-Pfizer-Vaccine-1024x538-400x210.jpg" srcset="https://www.globalresearch.ca/wp-content/uploads/2021/05/15-Year-Old-Heart-Attack-Pfizer-Vaccine-1024x538-400x210.jpg 400w, https://www.globalresearch.ca/wp-content/uploads/2021/05/15-Year-Old-Heart-Attack-Pfizer-Vaccine-1024x538-300x158.jpg 300w, https://www.globalresearch.ca/wp-content/uploads/2021/05/15-Year-Old-Heart-Attack-Pfizer-Vaccine-1024x538-768x404.jpg 768w, https://www.globalresearch.ca/wp-content/uploads/2021/05/15-Year-Old-Heart-Attack-Pfizer-Vaccine-1024x538.jpg 1024w" width="400">
+</img></div>
+<p>All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version).</p>
+<p dir="ltr">To receive Global Research’s Daily Newsletter (selected articles), <a href="https://lp.constantcontactpages.com/su/IJiNQuW?EMAIL=&amp;go.x=0&amp;go.y=0&amp;go=GO">click here</a>.</p>
+<p>Visit and follow us on Instagram at @<a href="https://www.instagram.com/crg_globalresearch/">crg_globalresearch</a>.</p>
+<p>***</p>
+<p> </p>
+<p><em><span id="bcr_rptStory_cslStory_0">Public Citizen has reviewed and published the secret contracts between Pfizer and Albania, Brazil, Colombia, Chile, Dominican Republic, the European Commission, Peru, the U.S. and the U.K. The contracts reveal nations have handed over unprecedented power to Pfizer, and in virtually all scenarios, Pfizer’s interests come first</span></em></p>
+<p><em><span id="bcr_rptStory_cslStory_1">Some countries, including Brazil, Chile, Colombia, the Dominican Republic and Peru, have put up sovereign assets as collateral for vaccine injury lawsuits, including bank reserves, military bases and embassy buildings</span></em></p>
+<p><em><span id="bcr_rptStory_cslStory_2">The contracts not only secure Pfizer’s intellectual property rights, but should Pfizer be found guilty of stealing the intellectual property rights of others, some of the contracts shift the responsibility onto the government purchasers. Pfizer can steal the intellectual property of others without consequence in at least four countries</span></em></p>
+<p><em><span id="bcr_rptStory_cslStory_3">The contracts also give Pfizer the right to muzzle government. In Brazil, government officials are prohibited from making “any public announcement concerning the existence, subject matter or terms of [the] Agreement” without the written consent of the company. Similar nondisclosure provisions are included in the contracts with the European Commission and the U.S. government. The only difference is that the nondisclosure rules apply to both parties</span></em></p>
+<p><em><span id="bcr_rptStory_cslStory_4">October 26, 2021, the U.S. Food and Drug Administration voted to extend the emergency use of Pfizer’s COVID jab for children aged 5 through 11. Experts warn this is reckless and unnecessary, and will do far more harm than good, as COVID-19 poses no risk to young children</span></em></p>
+<p>*</p>
+<p><iframe allowfullscreen="allowfullscreen" frameborder="0" height="400" src="https://www.youtube.com/embed/nYIJxoh7gqw" title="YouTube video player" width="690"></iframe></p>
+<p>In late February 2021, The Bureau of Investigative Journalism reported<sup><span data-hash="#ednref1" id="edn1">1</span></sup> that Pfizer was demanding countries put up sovereign assets as collateral for expected vaccine injury lawsuits resulting from its COVID-19 inoculation. While at least two countries, Argentina and Brazil, initially rejected the demands, calling them abusive, many others accepted Pfizer’s terms from the start.</p>
+<p>Public Citizen has now reviewed and published the secret contracts<sup><span data-hash="#ednref2" id="edn2">2</span>,</sup><sup><span data-hash="#ednref3" id="edn3">3</span></sup> between Pfizer and Albania, Brazil, Colombia, Chile, Dominican Republic, the European Commission, Peru, the U.S. and the U.K. These contracts reveal nations have handed over unprecedented power to Pfizer. In virtually all scenarios, Pfizer’s interests come first.</p>
+<p><strong>Pfizer Is Calling the Shots</strong></p>
+<p>Public Citizen points out six ways in which nations are allowing Pfizer to call the shots. For example, Albania, Brazil and Colombia have handed over unilateral authority to the company for the delivery schedule and other key decisions. As reported by Public Citizen:<sup><span data-hash="#ednref4" id="edn4">4</span></sup></p>
+<p style="padding-left: 30px;">“As a condition to entering into the agreement, the Colombian government is required to ‘demonstrate, in a manner satisfactory to Suppliers, that Suppliers and their affiliates will have adequate protection, as determined in Suppliers’ sole discretion’ … from liability claims.</p>
+<p style="padding-left: 30px;">Colombia is required to certify to Pfizer the value of the contingent obligations (i.e., potential future liability), and to start appropriating funds to cover the contingent obligations, according to a contribution program.”</p>
+<p>Pfizer also maintains tight control over vaccine supplies, and dictates who can buy their vaccine, when, and who can give and receive vaccine donations. If there are shortages, Pfizer decides which countries get priority.</p>
+<p>Bypassing Pfizer can be costly. For example, if Brazil were to accept vaccine donations from another country without Pfizer’s approval, the company can terminate the contract and force Brazil to pay the full prize for all remaining contracted doses. Meanwhile, Pfizer incurs no penalty if its delivery is late, even if it’s so late that the shots are no longer needed.</p>
+<p>Some countries, including Brazil, Chile, Colombia, the Dominican Republic and Peru, also ended up agreeing to Pfizer’s demand to put up sovereign assets as collateral for vaccine injury lawsuits, including bank reserves, military bases and embassy buildings.</p>
+<p>In short, theses governments are guaranteeing Pfizer will be compensated for any expenses resulting from injury lawsuits against it, so the company won’t lose a dime if its COVID shot injures people — even if those injuries are the result of negligent company practices, fraud or malice!</p>
+<p>At the same time, government purchasers must acknowledge that the effectiveness and safety of the shots are completely unknown. This is the ultimate corporate maleficence, using their leverage to force the kill shot down these countries’ throats and avoiding any personal responsibility for damages.</p>
+<p><strong>Secret Arbitration</strong></p>
+<p>The contracts also dictate how contractual disputes will be settled. As reported by Public Citizen:<sup><span data-hash="#ednref5" id="edn5">5</span></sup></p>
+<p style="padding-left: 30px;">“What happens if the United Kingdom cannot resolve a contractual dispute with Pfizer? A secret panel of three private arbitrators — not a U.K court — is empowered under the contract to make the final decision. The arbitration is conducted under the Rules of Arbitration of the International Chamber of Commerce (ICC). Both parties are required to keep everything secret:</p>
+<p style="padding-left: 30px;">‘The Parties agree to keep confidential the existence of the arbitration, the arbitral proceedings, the submissions made by the Parties and the decisions made by the arbitral tribunal, including its awards, except as required by Law and to the extent not already in the public domain.’</p>
+<p style="padding-left: 30px;">The Albania draft contract and Brazil, Chile, Colombia, Dominican Republic, and Peru agreements require the governments to go further, with contractual disputes subject to ICC arbitration applying New York law. While ICC arbitration involving states is not uncommon, disputes involving high-income countries and/or pharmaceuticals appear to be relatively rare …</p>
+<p style="padding-left: 30px;">Private arbitration reflects an imbalance of power. It allows pharmaceutical corporations like Pfizer to bypass domestic legal processes. This consolidates corporate power and undermines the rule of law.”</p>
+<p><strong>Pfizer Secured Intellectual Property Rights</strong></p>
+<p>Amazingly, the contracts not only secure Pfizer’s intellectual property rights, but should Pfizer be found guilty of stealing the intellectual property rights of others, some of the contracts shift the responsibility away from Pfizer onto the government purchasers! What this means is that Pfizer can steal the intellectual property of others without consequence in at least four countries.</p>
+<p style="padding-left: 30px;">“For example, if another vaccine maker sued Pfizer for patent infringement in Colombia, the contract requires the Colombian government to foot the bill,” Public Citizen writes.<sup><span data-hash="#ednref6" id="edn6">6</span></sup> “Pfizer also explicitly says that it does not guarantee that its product does not violate third-party IP, or that it needs additional licenses.</p>
+<p style="padding-left: 30px;">Pfizer takes no responsibility in these contracts for its potential infringement of intellectual property. In a sense, Pfizer has secured an IP waiver for itself. But internationally, Pfizer is fighting similar efforts to waive IP barriers for all manufacturers.”</p>
+<p><strong>Pfizer Given Right to Silence Government</strong></p>
+<p>Perhaps most egregious of all, some of the contracts give Pfizer the right to muzzle government. In Brazil, government officials are prohibited from making “any public announcement concerning the existence, subject matter or terms of [the] Agreement” without the written consent of the company.</p>
+<p>The gag order also includes commenting on the government’s relationship with Pfizer in general. Similar nondisclosure provisions are included in the contracts with the European Commission and the U.S. government. The only difference, Public Citizen notes, is that the nondisclosure rules apply to both parties.</p>
+<p><strong>Pfizer Can Prevent Use of Other Remedies</strong></p>
+<p>Equally shocking, though, is that countries are forced to follow through on their vaccine orders even if other drugs or treatments emerge that can prevent, treat or cure COVID-19.<sup><span data-hash="#ednref7" id="edn7">7</span></sup> Is it any wonder, then, that governments around the world have suppressed the use of drugs like hydroxychloroquine and ivermectin?</p>
+<p>If these drugs were allowed to be used and could be proven to work, the COVID injections would be completely unnecessary, yet governments are on the hook for hundreds of millions of doses. While COVID-19 vaccines are “free” to receive in the U.S., they’re being paid for by taxpayer dollars at a rate of $19.50 per dose. In Albania, the cost of each dose is $12, and in the EU, $14.70.</p>
+<p>In the case of the price disparity between the U.S. and the EU, Pfizer is said to have given a price break to the EU because it financially supported the development of their COVID-19 vaccine.</p>
+<p><strong>Pfizer — Master of Disaster Profiteering</strong></p>
+<blockquote class="twitter-tweet" data-width="500">
+<p dir="ltr" lang="und"> <a href="https://t.co/Trsy54OhZk">pic.twitter.com/Trsy54OhZk</a></p>
+<p>— G0ingBr0ke (@Goingbr0ke) <a href="https://twitter.com/Goingbr0ke/status/1452183382192971778?ref_src=twsrc%5Etfw">October 24, 2021</a></p></blockquote>
+<p><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></p>
+<p>As noted Public Citizen, Pfizer is being allowed to profit from this self-inflicted global disaster in unprecedented ways. In many instances, a nation’s laws will not apply to Pfizer.</p>
+<p>These secret contracts grant Pfizer total control over its product and ensures full payment, regardless of whether the shots are needed or usable, while simultaneously eliminating all liability. In short, Pfizer wins, no matter what the outcome of the vaccination campaign might be.</p><div data-widget-id="rel_89-4"> </div>
+<p>At the same time, Pfizer is also controlling media through its advertising dollars. As you’ve probably realized by now, media companies in most instances will not report on anything that might jeopardize the profits of its advertisers.</p>
+<p>As illustrated in the short video above, it couldn’t be more obvious that Pfizer is bankrolling the media, which in turn will refuse to bite the hand that feeds it. You can see the wide spectrum of media programming being sponsored by Pfizer, including “Nightline,” “Making a Difference,” “CNN Tonight,” “Early Start,” “Erin Burnett Out Front,” “This Week with George Stephanopoulos,” “CBS Sports,” “Meet the Press,” “CBS This Morning” and “60 Minutes.”</p>
+<p><strong>Pfizer Study Shows Increased Mortality</strong></p>
+<p><a href="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381/screen-shot-2021-11-01-at-11-22-55-pm" rel="attachment wp-att-5760382"><img alt="" class="wp-image-5760382 aligncenter" height="382" sizes="(max-width: 688px) 100vw, 688px" src="https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-11-01-at-11.22.55-PM.png" srcset="https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-11-01-at-11.22.55-PM.png 908w, https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-11-01-at-11.22.55-PM-300x167.png 300w, https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-11-01-at-11.22.55-PM-768x426.png 768w, https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-11-01-at-11.22.55-PM-400x222.png 400w" width="688"/></a></p>
+<p style="text-align: center;"><a href="https://articles.mercola.com/sites/articles/archive/2021/11/01/pfizer-contracts.aspx">Watch the video here</a>.</p>
+<p>The terms of these contracts are all the more disturbing when you consider how dangerous the Pfizer shot is turning out to be. No wonder the company refused to accept any liability.</p>
+<p>As shown in the video above, Episode 3 in “The False Narrative Takedown Series”<sup><span data-hash="#ednref8" id="edn8">8</span></sup> by Steve Kirsch, Pfizer’s own Phase 3 six-month trial<sup><span data-hash="#ednref9" id="edn9">9</span></sup> showed the shots increased all-cause mortality. More people actually died in the treatment group than in the placebo group.</p>
+<p>According to Pfizer’s own data, one COVID death per 20,000 fully vaccinated individuals is prevented. That means 10,000 lives are saved if 200 million are fully vaccinated.</p>
+<p>But how many lives are lost from the shots? This is the other side of the equation that simply demands to be analyzed before any governmental authority can make a decision as to whether the mass vaccination campaign is of benefit or not.</p>
+<p>Here, we find that Pfizer’s data<sup><span data-hash="#ednref10" id="edn10">10</span></sup> show the shots are actually killing more than they save. To look at this information yourself, click on “Supplementary Material” on the right-hand side of the paper, then, beside Supplementary Appendix, click on supplements/261159 and scroll down to page 12, Table S4.</p>
+<p>In the vaccine group, 15 died; in the placebo group 14 died. Two people died from COVID-19 in the placebo group, while only one died from COVID pneumonia in the vaccine group. That’s how you get a net false positive impact — one life is spared from COVID. However, the all-cause mortality was actually higher in the vaccine group (15, compared to 14).</p>
+<p>So, while the shots saved one person from dying from COVID, they also killed one extra person. So, the net effect is nil. There’s no mortality benefit at all. Other investigations using different data strongly suggest the net effect is profoundly negative, and the shots are doing FAR more harm than good.</p>
+<p><strong>We Face Looming Vaccine-Induced Public Health Catastrophe</strong></p>
+<p>For this, Kirsch cites a paper<sup><span data-hash="#ednref11" id="edn11">11</span></sup> by Dr. Bart Classen, published in the August 2021 issue of the journal Trends in Internal Medicine. Classen points out that Pfizer, Moderna and Janssen are all using a “dangerously misleading” clinical trial design. The problem is that they’re all using a surrogate endpoint for health, namely “severe infections with COVID-19.”</p>
+<p>Disease specific primary endpoints are no longer used in many fields of medicine, for the fact that it can hide problems. If a person dies from the treatment or is severely injured by it, even if the treatment helped block the progression of the disease they’re being treated for, the end result is still a negative one.</p>
+<p>For this reason, the appropriate endpoint that should be used is all-cause mortality and morbidity. When Classen reexamined the clinical trial data from all three manufacturers using all-cause severe morbidity as the endpoint, a disturbing picture emerged.</p>
+<aside class="takeaway tamiddle">… it is all but a certainty that mass COVID-19 immunization is hurting the health of the population in general. Scientific principles dictate that the mass immunization with COVID-19 vaccines must be halted immediately because we face a looming vaccine induced public health catastrophe. ~ Dr. Bart Classen
+</aside>
+<p>As explained by Classen in his paper, “US COVID-19 Vaccines Proven to Cause More Harm than Good Based on Pivotal Clinical Trial Data Analyzed Using the Proper Scientific Endpoint, ‘All Cause Severe Morbidity'”:<sup><span data-hash="#ednref12" id="edn12">12</span></sup></p>
+<p style="padding-left: 30px;">“‘All-cause severe morbidity’ in the treatment group and control group was calculated by adding all severe events reported in the clinical trials. Severe events included both severe infections with COVID-19 and all other severe adverse events in the treatment arm and control arm respectively.</p>
+<p style="padding-left: 30px;">This analysis gives reduction in severe COVID-19 infections the same weight as adverse events of equivalent severity. Results prove that none of the vaccines provide a health benefit and all pivotal trials show a statistically significant increase in ‘all-cause severe morbidity’ in the vaccinated group compared to the placebo group.</p>
+<p style="padding-left: 30px;">The Moderna immunized group suffered 3,042 more severe events than the control group. The Pfizer data was grossly incomplete but data provided showed the vaccination group suffered 90 more severe events than the control group, when only including ‘unsolicited’ adverse events.</p>
+<p style="padding-left: 30px;">The Janssen immunized group suffered 264 more severe events than the control group. These findings contrast the manufacturers’ inappropriate surrogate endpoints:</p>
+<p style="padding-left: 30px;">Janssen claims that their vaccine prevents 6 cases of severe COVID-19 requiring medical attention out of 19,630 immunized; Pfizer claims their vaccine prevents 8 cases of severe COVID-19 out of 21,720 immunized; Moderna claims its vaccine prevents 30 cases of severe COVID-19 out of 15,210 immunized.</p>
+<p style="padding-left: 30px;">Based on this data it is all but a certainty that mass COVID-19 immunization is hurting the health of the population in general. Scientific principles dictate that the mass immunization with COVID-19 vaccines must be halted immediately because we face a looming vaccine induced public health catastrophe.”</p>
+<p>To make the above numbers more clear and obvious, here are the prevention stats in percentages:</p>
+<ul>
+<li>Pfizer 0.00036%</li>
+<li>Moderna 0.00125%</li>
+<li>Janssen 0.00030%</li>
+</ul>
+<p><strong>CDC Claims COVID Shots Lower All-Cause Mortality</strong></p>
+<p>Despite all of that, the U.S. Centers for Disease Control and Prevention now claims Americans “vaccinated” against COVID-19 have lower all-cause mortality rates.<sup><span data-hash="#ednref13" id="edn13">13</span></sup> As reported by Forbes:<sup><span data-hash="#ednref14" id="edn14">14</span></sup></p>
+<p style="padding-left: 30px;">“Partially and fully vaccinated people died from non-coronavirus causes at a lower rate than their unvaccinated peers, according to the study,<sup><span data-hash="#ednref15" id="edn15">15</span></sup> which looked at millions of patients at seven U.S. health organizations from December to July.</p>
+<p style="padding-left: 30px;">All three vaccines approved by U.S. regulators were tied to lower non-COVID death rates, though the difference in mortality among people who took Johnson &amp; Johnson’s vaccine was slightly smaller than for recipients of Pfizer or Moderna’s vaccines …</p>
+<p style="padding-left: 30px;">This result suggests the vaccines don’t increase a patient’s risk of death, which ‘reinforces the safety profile of currently approved COVID-19 vaccines,’ the study said.”</p>
+<p><strong>FDA Approves Jab for Young Children</strong></p>
+<blockquote class="twitter-tweet" data-width="500">
+<p dir="ltr" lang="en">FDA Voting Member:</p>
+<p>"We're never gonna learn about how safe the vaccine is until we start giving it."</p>
+<p>🤷‍♂️</p>
+<p>Video HT <a href="https://twitter.com/politicalwilli?ref_src=twsrc%5Etfw">@politicalwilli</a> <a href="https://t.co/OMAph49Qow">pic.twitter.com/OMAph49Qow</a></p>
+<p>— Techno Fog (@Techno_Fog) <a href="https://twitter.com/Techno_Fog/status/1453095851824459776?ref_src=twsrc%5Etfw">October 26, 2021</a></p></blockquote>
+<p><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></p>
+<p>October 26, 2021, the FDA unanimously voted to grant emergency use approval of the COVID shots for children between the ages of 5 and 11.<sup><span data-hash="#ednref16" id="edn16">16</span></sup> This despite acknowledging they have no idea what the long-term risk to children might be. As noted by one voting member, “We’re never going to learn about how safe the vaccine is until we start giving it.”<sup><span data-hash="#ednref17" id="edn17">17</span></sup></p>
+<p>All we have at present is two Pfizer trials, one in which 5- to 11-year-olds were followed for two months and another with just six weeks of follow-up. Both were too small to detect potential risks such as myocarditis. That won’t be studied until AFTER the shot is authorized for children. As reported by The Defender:<sup><span data-hash="#ednref18" id="edn18">18</span></sup></p>
+<p style="padding-left: 30px;">“Experts raised concerns over the lack of safety and efficacy data presented by Pfizer for use of its COVID vaccine in younger children, and they pointed to increasing safety signals based on reports to the Vaccine Adverse Event Reporting System (VAERS). They also questioned the need to vaccinate children — whose risk of dying from COVID is “almost nil” — at all.</p>
+<p style="padding-left: 30px;">According to Dr. Meryl Nass, member of the <a href="https://childrenshealthdefense.org/">Children’s Health Defense</a> Scientific Advisory Panel, Pfizer once again did not use all of the children who participated in the trial in their safety study.</p>
+<p style="padding-left: 30px;">‘Three thousand children received Pfizer’s COVID vaccine, but only 750 children were selectively included in the company’s safety analysis,’ Nass said.</p>
+<p style="padding-left: 30px;">‘Studies in the 5-11 age group are essentially the same as the 12-15 group — in other words, equally brief and unsatisfying, with inadequate safety data and efficacy data, with no strong support for why this type of immuno-bridging analysis is sufficient … All serious adverse events were considered unrelated to the vaccine’ …</p>
+<p style="padding-left: 30px;">Dr. Jessica Rose, viral immunologist and biologist, told the panel EUA of biological agents requires the existence of an emergency and the nonexistence of alternate treatment. ‘There is no emergency and COVID-19 is exceedingly treatable,’ Rose said.</p>
+<p style="padding-left: 30px;">In a peer-reviewed study<sup><span data-hash="#ednref19" id="edn19">19</span></sup> co-authored by Rose, myocarditis rates were significantly higher in people 13 to 23 years old within eight weeks of the COVID vaccine rollout. In 12- to15-year-olds, Rose said, reported cases of myocarditis were 19 times higher than background rates …</p>
+<p style="padding-left: 30px;">Rose said tens of thousands of reports have been submitted to VAERS for children ages 0 to 18. Rose explained: ‘In this age group, 60 children have died — 23 of them were less than 2 years old. It is disturbing to note that ‘product administered to patient of inappropriate age’ was filed 5,510 times in this age group. Two children were inappropriately injected, presumably by a trained medical professional, and subsequently died.'”</p>
+<p>During the meeting, Dr. Cody Meissner noted we don’t know whether the shot is safe for this age group, and the risk of COVID is extremely low. If the shot is authorized, mandates will likely follow, which would be “bad.”</p>
+<blockquote class="twitter-tweet" data-width="500">
+<p dir="ltr" lang="en">This type of opinion would be banned for misinformation on YouTube. <a href="https://t.co/Rc6iIZwVoO">https://t.co/Rc6iIZwVoO</a></p>
+<p>— Dr. Joseph Mercola (@mercola) <a href="https://twitter.com/mercola/status/1453344283084345349?ref_src=twsrc%5Etfw">October 27, 2021</a></p></blockquote>
+<p><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></p>
+<p>Brownstone Institute is also objecting to the authorization. In an October 20, 2021, article,<sup><span data-hash="#ednref20" id="edn20">20</span></sup> Paul Elias Alexander, Ph.D., a former assistant professor of evidence-based medicine and research methods, called the plan to vaccinate young children “absolutely reckless” and “dangerous based on lack of safety data and poor research methodology.”</p>
+<p>Meanwhile, data show not a single child has died from COVID-19 who did not have a serious underlying health condition. Alexander reviews a lot of that data in his article.</p>
+<p><strong>Staggering Conflicts of Interest</strong></p>
+<p>When you look at the roster of the FDA’s committee members<sup><span data-hash="#ednref21" id="edn21">21</span></sup> who reviewed and voted to authorize the Pfizer shot for children as young as 5, the unanimous “yes” vote becomes less of a mystery. As reported by National File,<sup><span data-hash="#ednref22" id="edn22">22</span></sup> they have staggering conflicts of interest. Members include:</p>
+<ul>
+<li>Gregg Sylvester — A former vice president of Pfizer Vaccines</li>
+<li>Gregg Sylvester — A former vice president of Pfizer Vaccines</li>
+<li>Archana Chatterjee — A recent Pfizer research grant recipient</li>
+<li>Myron Levine — Mentor to Raphael Simon, senior director of vaccine research and development at Pfizer</li>
+<li>James Hidreth — President of Meharry Medical College, which administers Pfizer vaccines</li>
+<li>Geeta Swamy — Chair of the Independent Data Monitoring Committee for the Pfizer Group B Streptococcus Vaccine Program</li>
+<li>Steven Pergam — Proudly photographed taking a Pfizer vaccine</li>
+<li>Several people who are already on the record supporting coronavirus vaccines for children, including Ofer Levy, Jay Portnoy and Melinda Wharton</li>
+</ul>
+<p>In addition to that, former FDA commissioner Scott Gottlieb is currently on Pfizer’s board of directors.</p>
+<p><strong>FDA Buries Data on Seriously Injured Children</strong></p>
+<p>With these shots now being pushed on young children, it’s more imperative than ever to understand how data are being massaged and manipulated to support the ongoing lunacy. Of particular concern is evidence that the U.S. Food and Drug Administration is burying data on children who were seriously injured in the vaccine trials. As reported by Aaron Siri on Substack:<sup><span data-hash="#ednref23" id="edn23">23</span></sup></p>
+<p style="padding-left: 30px;">“Pfizer’s clinical trial for children aged 12-15 included only 1,131 children who were vaccinated and at least one of those children suffered a devastating, life-altering injury which, despite incontrovertible proof and the cries of both the victim and her parents, has not been appropriately acknowledged by Pfizer or the FDA.</p>
+<p style="padding-left: 30px;">Putting aside that one serious injury in a small trial should alone raise blaring alarm bells, one must ask: what other serious adverse events have been hidden and ignored by regulators?”</p>
+<p>Siri tells the story of 12-year-old Maddie de Garay, who along with her two brothers were enrolled by her parents in Pfizer’s clinical trial. That decision has changed the lives of the entire family, possibly forever. Within 24 hours of her second dose, Maddie suffered crippling pain and systemic injuries.</p>
+<p>Maddie is now wheelchair-bound and requires a feeding tube. Pfizer’s principal investigator initially claimed Maddie’s injuries were unrelated to the shot and treated her as a mental patient. Eventually, her injury was listed as “functional abdominal pain” in Pfizer’s report to the FDA.</p>
+<p style="padding-left: 30px;">“For a virus that rarely harms children, the need to assure safety of the Covid-19 vaccine is high. A study with only 1,131 children is underpowered. It will not pick up anything but the most common adverse events.</p>
+<p style="padding-left: 30px;">If what Maddie suffered will occur in 1/1,000 children, that would result in 75,000 children in this country suffering this serious injury. If it happens 1/10,000 children, that is 7,500 suffering this serious injury.</p>
+<p style="padding-left: 30px;">It could be that the cure is worse than the disease. But that will only be known if there is a properly powered (a.k.a., sized) clinical trial with children,” Siri writes, adding that:</p>
+<p style="padding-left: 30px;">“International scientists have declared that ‘inadequately powered studies should themselves be considered a breach of ethical standards.’<sup><span data-hash="#ednref24" id="edn24">24</span></sup> Without a clinical trial of sufficient size that reviews all potential adverse events, such as that experienced by Maddie, for a sufficient duration, this potentially catastrophic result will not be identified prior to authorization or licensure …</p>
+<p style="padding-left: 30px;">The real lesson is not that pharmaceutical companies, or the FDA should act better or do a better job. That just won’t always be the case. The real lesson is that civil and individual rights should never be contingent upon a medical procedure. Never.</p>
+<p style="padding-left: 30px;">Preserving those rights to choose whether to get a medical product, without any government coercion, is the final and ultimate safeguard.</p>
+<p style="padding-left: 30px;">Removing that right results in dangerous authoritarianism because just as the FDA will not admit to Maddie’s serious injury after having promoted this vaccine, politicians that mandate the vaccine will not want to later admit a mistake by repealing the mandate.”</p>
+<p><strong>FDA Sued to Access COVID Jab Trial Data</strong></p>
+<p>We’re now in a position where it’s near-impossible for many to refuse the COVID jab, and if injured, they cannot sue anyone for damages. Adding insult to injury, we don’t even have access to all the data governments are supposedly relying on to mandate these hazardous products.</p>
+<p>To address this last point, an organization called Public Health and Medical Professionals for Transparency (PHMPT) is now suing<sup><span data-hash="#ednref25" id="edn25">25</span></sup> the FDA after the agency refused to release the data on which it based its decision to approve Comirnaty.<sup><span data-hash="#ednref26" id="edn26">26</span></sup></p>
+<p>The FDA denied the PHMPT request for expedited processing of its Freedom of Information Act (FOIA) request on the basis that no “imminent threat to the life or physical safety of an individual” existed. Per the complaint:<sup><span data-hash="#ednref27" id="edn27">27</span></sup></p>
+<p style="padding-left: 30px;">“… in an effort to ensure that the FDA acts in furtherance of its commitment to transparency, PHMPT seeks to obtain the data and information relied upon by the FDA to license the Pfizer Vaccine.</p>
+<p style="padding-left: 30px;">The importance of releasing to the public this information is also recognized under federal law which provides that: ‘After a license has been issued, the following data and information in the biological product file are immediately available for public disclosure unless extraordinary circumstances are shown: (1) All safety and effectiveness data and information. (2) A protocol for a test or study …'”</p>
+<p><strong>‘Just Say No’ to the COVID Shot</strong></p>
+<div class="wp-video" style="width: 640px;"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" controls="controls" height="360" id="video-5760381-1" preload="metadata" width="640"><source src="https://sp.rmbl.ws/s8/2/L/x/d/8/Lxd8b.caa.mp4?_=1" type="video/mp4"/><a href="https://sp.rmbl.ws/s8/2/L/x/d/8/Lxd8b.caa.mp4">https://sp.rmbl.ws/s8/2/L/x/d/8/Lxd8b.caa.mp4</a></video></div>
+<p>While U.S. authorities are doing their best to hide incriminating data and manipulating the rest to show some sort of benefit, common sense, medical facts and available data all point in the opposite direction. It’s crystal clear to me that children do not need the COVID shot, as their risk of serious COVID-19 infection and death is virtually nonexistent.</p>
+<p>On the other hand, children are quite likely to be seriously injured by these injections. The reason you’re not getting the truth from the media is explained by Dr. Peter McCullough in the video above. In short, it’s a planned propaganda campaign — “the promotion of false information by the people in charge.”</p>
+<p>According to McCullough, anyone under the age of 50 has a less than 1% chance of a bad outcome if they come down with COVID-19. “Why would you take the vaccine?” he asks. “My advice,” he says, “is just say no to this [shot], especially young people who are not at risk.”</p>
+<p>*</p>
+<p style="text-align: left;">Note to readers: Please click the share buttons above or below. Follow us on Instagram, @crg_globalresearch. Forward this article to your email lists. Crosspost on your blog site, internet forums. etc.</p>
+<p style="text-align: left;"><span style="font-size: 10pt;"><em>Featured image is from National File</em></span></p>
+<div>
+<div class="copyright">The original source of this article is <a href="https://articles.mercola.com/sites/articles/archive/2021/11/01/pfizer-contracts.aspx" target="_blank">Mercola</a></div>
+<div class="copyright">Copyright © <a href="https://www.globalresearch.ca/author/dr-mercola" title="Posts by Dr. Joseph Mercola">Dr. Joseph Mercola</a>, <a href="https://articles.mercola.com/sites/articles/archive/2021/11/01/pfizer-contracts.aspx" target="_blank">Mercola</a>, 2021</div>
+<hr/>
+<p>
+<a href="https://www.facebook.com/GlobalResearchCRG"><strong>Comment on Global Research Articles on our Facebook page</strong></a>
+</p>
+<p>
+<a href="https://store.globalresearch.ca/member/"><strong>Become a Member of Global Research</strong></a>
+</p>
+</div> </div>
+</div>
+<div data-widget-id="rel_89-2" style="margin-left: 5px;"></div>
+<div style="margin-left:5px">
+<div class="jp-relatedposts" id="jp-relatedposts">
+<h3 class="jp-relatedposts-headline"><em>Related Articles from our Archives</em></h3>
+</div> </div>
+<hr>
+<div class="sharethis">
+<div class="sharethisleft">
+<span style="float:left"><span class="fontSize" style="float:left"><a href="#" id="toggleFont"></a></span> <p id="print-page-link" style="margin: 10px 0px;"><a href="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381?print=1" id="print-link" rel="nofollow"><img src="https://www.globalresearch.ca/wp-content/plugins/print-me/images/printme.png" style="width: 25px;height: 25px;" title="print"/></a></p></span> <span> <a href="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381?pdf=5760381" target="_blank"> <img src="/wp-content/uploads/2021/05/pdf01.png" style="height:23px;width:20px;margin-top:3px;margin-left:7px;"/> </a> </span> <span style="float:right;margin-left:10px;width:130px;">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</span>
+</div>
+<div class="sharethisright" style="display:flex;overflow:clip;max-height:25px;align-items:center;">
+<span class="st_facebook_hcount" displaytext="facebook" st_title="Pfizer Is Calling the Shots to Jab Kids" st_url="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381"></span>
+<span class="st_fblike_hcount" displaytext="fblike" st_title="Pfizer Is Calling the Shots to Jab Kids" st_url="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381" style="height:26px"></span>
+<span class="st_twitter_hcount" displaytext="twitter" st_title="Pfizer Is Calling the Shots to Jab Kids" st_url="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381" st_username="grtvnews" st_via="grtvnews"></span>
+<span class="st_email_hcount" displaytext="email" st_title="Pfizer Is Calling the Shots to Jab Kids" st_url="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381"></span>
+<span class="st_plusone_hcount" displaytext="plusone" st_title="Pfizer Is Calling the Shots to Jab Kids" st_url="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381" style="width:1px; display: inline-block"></span>
+<span class="st_sharethis_hcount" displaytext="sharethis" st_title="Pfizer Is Calling the Shots to Jab Kids" st_url="https://www.globalresearch.ca/pfizer-calling-shots-jab-kids/5760381"></span>
+</div>
+</div>
+<div id="articleAuthor">
+<div class="authorName">
+<span>Articles by:</span>
+<a href="https://www.globalresearch.ca/author/dr-mercola" title="Posts by Dr. Joseph Mercola">Dr. Joseph Mercola</a> </div>
+</div>
+<div class="nr_clear"></div>
+<div id="disclaimer">
+<p><b>Disclaimer:</b> The contents of this article are of sole responsibility of the author(s). The Centre for Research on Globalization will not be responsible for any inaccurate or incorrect statement in this article. The Centre of Research on Globalization grants permission to cross-post Global Research articles on community internet sites as long the source and copyright are acknowledged together with a hyperlink to the original Global Research article. For publication of Global Research articles in print or other forms including commercial internet sites, contact: <a href="/cdn-cgi/l/email-protection#a4d4d1c6c8cdc7c5d0cdcbcad7e4c3c8cbc6c5c8d6c1d7c1c5d6c7cc8ac7c5">publ<span class="__cf_email__" data-cfemail="92fbf1f3e6fbfdfce1d2f5fefdf0f3fee0f7e1f7f3e0f1fabcf1f3">[email protected]</span></a></p>
+<p><a href="https://www.globalresearch.ca">www.globalresearch.ca</a> contains copyrighted material the use of which has not always been specifically authorized by the copyright owner. We are making such material available to our readers under the provisions of "fair use" in an effort to advance a better understanding of political, economic and social issues. The material on this site is distributed without profit to those who have expressed a prior interest in receiving it for research and educational purposes. If you wish to use copyrighted material for purposes other than "fair use" you must request permission from the
+copyright owner.</p>
+<p>For media inquiries: <a href="/cdn-cgi/l/email-protection#a3d3d6c1cfcac0c2d7cacccdd0e3c4cfccc1c2cfd1c6d0c6c2d1c0cb8dc0c2"><span class="__cf_email__" data-cfemail="c0b0b5a2aca9a3a1b4a9afaeb380a7acafa2a1acb2a5b3a5a1b2a3a8eea3a1">[email protected]</span></a></p>
+</div>
+</hr></div>
+</div>
+</div>
+</div>
+<div class="main-b"></div>
+</div>
+<div class="notranslate" id="footer">
+<div class="aside">
+<div class="widget_nav_menu leftfooter"><div class="menu-footerleftnav-container"><ul class="menu" id="menu-footerleftnav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5309785" id="menu-item-5309785"><a href="https://www.globalresearch.ca/news">Global Research News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302189" id="menu-item-5302189"><a href="https://www.globalresearch.ca/theme/i-books-series">I-BOOKS SERIES</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302190" id="menu-item-5302190"><a href="https://www.globalresearch.ca/countries-index">Countries Index</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302192" id="menu-item-5302192"><a href="https://www.globalresearch.ca/most-popular">Most Popular</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302193" id="menu-item-5302193"><a href="https://www.globalresearch.ca/links">Links</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302194" id="menu-item-5302194"><a href="https://www.globalresearch.ca/contact-2">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302195" id="menu-item-5302195"><a href="https://store.globalresearch.ca/member/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302196" id="menu-item-5302196"><a href="https://store.globalresearch.ca/">Online Store</a></li>
+</ul></div></div> </div>
+<div class="container">
+<div class="column-wrap">
+<div class="menuHeaders">
+<div class="title1">Themes</div>
+<div class="title2">Geographic Regions</div>
+</div>
+<div class="column widget_nav_menu"><div class="menu-footermenu2-container"><ul class="menu" id="menu-footermenu2"><li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302197" id="menu-item-5302197"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302198" id="menu-item-5302198"><a href="https://www.globalresearch.ca/theme/global-economy">Global Economy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302199" id="menu-item-5302199"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">Crimes against Humanity</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302200" id="menu-item-5302200"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302201" id="menu-item-5302201"><a href="https://www.globalresearch.ca/theme/law-and-justice">Law and Justice</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302202" id="menu-item-5302202"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Police State &amp; Civil Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302203" id="menu-item-5302203"><a href="https://www.globalresearch.ca/theme/culture-society-history">History</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302204" id="menu-item-5302204"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">9/11 &amp; ‘War on Terrorism’</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302205" id="menu-item-5302205"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media Disinformation</a></li>
+</ul></div></div><div class="column widget_nav_menu"><div class="menu-footermenu3-container"><ul class="menu" id="menu-footermenu3"><li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302206" id="menu-item-5302206"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302207" id="menu-item-5302207"><a href="https://www.globalresearch.ca/theme/oil-and-energy">Oil and Energy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302208" id="menu-item-5302208"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Police State &amp; Civil Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302209" id="menu-item-5302209"><a href="https://www.globalresearch.ca/theme/politics-and-religion">Religion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302210" id="menu-item-5302210"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty &amp; Social Inequality</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme current-post-ancestor active current-post-parent menu-item-5302211" id="menu-item-5302211"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science and Medicine</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302212" id="menu-item-5302212"><a href="https://www.globalresearch.ca/theme/united-nations">United Nations</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302213" id="menu-item-5302213"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302214" id="menu-item-5302214"><a href="https://www.globalresearch.ca/theme/women-s-rights">Women’s Rights</a></li>
+</ul></div></div> </div>
+<div class="text-container">
+<strong class="footer-logo"><a href="/">GlobalResearch Center for Research on Globalization</a></strong>
+<a class="privacy" href="/privacy-policy/">Privacy Policy</a>
+<span class="copy">Copyright © 2005-2023 <a href="https://www.globalresearch.ca">GlobalResearch.ca</a></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+document.getElementById('NLform').onsubmit = function() {
+  window.location = '/newsletter/';
+}
+</script>
+<script async="" src="https://magnetapi.klangoo.com/w/Widgets_89.js" type="text/javascript"></script>
+<div aria-hidden="true" class="pum pum-overlay pum-theme-5667467 pum-theme-enterprise-blue popmake-overlay pum-overlay-disabled auto_open click_open" data-popmake='{"id":5681503,"slug":"become-member","theme_id":5667467,"cookies":[{"event":"on_popup_close","settings":{"name":"pum-5681503","time":"1 week","path":true}}],"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-5681503"],"delay":"5000"}},{"type":"click_open","settings":{"extra_selectors":"","cookie_name":null}}],"mobile_disabled":null,"tablet_disabled":null,"meta":{"display":{"stackable":"1","overlay_disabled":"1","scrollable_content":false,"disable_reposition":false,"size":"micro","responsive_min_width":"0%","responsive_min_width_unit":false,"responsive_max_width":"100%","responsive_max_width_unit":false,"custom_width":"640px","custom_width_unit":false,"custom_height":"380px","custom_height_unit":false,"custom_height_auto":false,"location":"right bottom","position_from_trigger":false,"position_top":"100","position_left":"0","position_bottom":"100","position_right":"10","position_fixed":"1","animation_type":"fade","animation_speed":"350","animation_origin":"center top","overlay_zindex":false,"zindex":"1999999999"},"close":{"text":"","button_delay":"0","overlay_click":false,"esc_press":false,"f4_press":false},"click_open":[]}}' id="pum-5681503" role="dialog">
+<div class="pum-container popmake theme-5667467 pum-responsive pum-responsive-micro responsive size-micro pum-position-fixed" id="popmake-5681503">
+<div class="pum-content popmake-content">
+<div style="position: absolute;"><a href="https://www.globalresearch.ca/wp-content/uploads/2019/02/logo_def_globe_small.png"><img alt="" class="alignnone size-full wp-image-5605030" height="47" src="https://www.globalresearch.ca/wp-content/uploads/2019/02/logo_def_globe_small.png" width="37"/></a></div>
+<div style="text-align: center;">
+<p style="text-align: center;"><span style="font-family: helvetica, arial, sans-serif; font-size: 14pt; text-align: center;">Become Member of<br/>
+<span style="font-weight: bold;">Global Research<br/>
+</span> Free Books!</span></p>
+<span class="pum-close popmake-close" data-do-default="1"><a href="https://donorbox.org/donate-to-global-research" style="font-family: Helvetica; background-color: #ee5800; color: white; text-decoration: none; display: inline-block; padding: 6px 12px; margin-bottom: 0; margin-top: 10px; font-size: 14px; font-weight: normal; line-height: 1.428571429; text-align: center; white-space: nowrap; vertical-align: middle; cursor: pointer; border: 1px solid transparent; border-radius: 4px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none;" target="_blank">Become a member</a></span>
+</div>
+</div>
+<button aria-label="Close" class="pum-close popmake-close" type="button">
+× </button>
+</div>
+</div>
+<script type="text/javascript">var algolia = {"debug":false,"application_id":"AZ3OVPR0K9","search_api_key":"7147fe690c6831ff61668ea7de6fccda","powered_by_enabled":true,"query":"","autocomplete":{"sources":[],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"searchable_posts":{"name":"gr_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]}}};</script><link href="https://www.globalresearch.ca/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0" id="mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.7.25" id="wp-mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://www.globalresearch.ca/wp-content/plugins/dk-pdf/assets/js/frontend.js?ver=1.9.6" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202310" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.7.30","ajaxurl":"https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.globalresearch.ca\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"5667465","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php";
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker: Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit https:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_event":"Event: %s","triggers":{"click_open":"Click Open","auto_open":"Time Delay \/ Auto Open"},"cookies":{"on_popup_close":"On Popup Close","on_popup_open":"On Popup Open","pum_sub_form_success":"Subscription Form: Successful","pum_sub_form_already_subscribed":"Subscription Form: Already Subscribed","manual":"Manual JavaScript"}};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-5681503":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-5681503"],"delay":"5000"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-5681503","time":"1 week","path":true}}],"theme_id":"5667467","size":"micro","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","location":"right bottom","position_top":"100","position_bottom":"100","position_left":"0","position_right":"10","zindex":"1999999999","close_button_delay":"0","id":5681503,"slug":"become-member"}};
+/* ]]> */
+</script>
+<script src="//www.globalresearch.ca/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1598646263&amp;ver=1.7.30" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/wp-embed.min.js?ver=4.7.25" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-content/plugins/print-me/js/printme.js?ver=0.5.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script src="https://www.globalresearch.ca/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.7.25" type="text/javascript"></script>
+<script async="" defer="" src="https://stats.wp.com/e-202310.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.1',blog:'37090175',post:'5760381',tz:'0',srv:'www.globalresearch.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '37090175', '5760381' ]);
+</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7a503ad1adc02d0c',m:'1Nff5H8E._fER3WvDy_b7dgAnMY4I3KRVAhlAVDbEl4-1678332526-0-AYAlD6Nw1V4+P3LZ/sKb2F/zchPEIvnwz9sOgfgXlkF1UXj0K1XNsaXqRmrbAYf987u9qobuC9BUk2oelAvx2FaFbKD9juKPWi8Lr4VEsSnY36FDxyEacmYnNL7rSjaK0Kcyh/kwp/HM6+UxjV3PVIA4YUcYygIvdjSowE1j4y44',s:[0xd6830d15b3,0x224f0aafe6],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

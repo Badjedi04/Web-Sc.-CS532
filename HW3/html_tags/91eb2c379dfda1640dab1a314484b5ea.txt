@@ -1,0 +1,1343 @@
+<!DOCTYPE html>
+
+<!--[if IE 9 ]><html class="ie ie9" lang="en-US"><![endif]-->
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<title>"H.R. 6666" - Humans Be Free</title>
+<meta content="index, follow" name="robots">
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="googlebot">
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="bingbot"/>
+<link href="https://humansbefree.com/search/H.R. 6666" rel="canonical"/>
+<meta content="https://humansbefree.com/search/H.R. 6666" property="og:url"/>
+<meta content="Humans Be Free" property="og:site_name"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="object" property="og:type"/>
+<meta content='"H.R. 6666" - Humans Be Free' property="og:title"/>
+<link href="//platform-api.sharethis.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s3.buysellads.com" rel="dns-prefetch"/>
+<link href="//labs-cdn.revcontent.com" rel="dns-prefetch"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://humansbefree.com/feed" rel="alternate" title="Humans Be Free » Feed" type="application/rss+xml"/>
+<link href="https://humansbefree.com/search/H.R.+6666/feed/rss2/" rel="alternate" title="Humans Be Free » Search Results for “H.R. 6666” Feed" type="application/rss+xml"/>
+<script id="human-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+<link href="https://humansbefree.com/wp-content/themes/disto/css/darkmode_style.css" id="darkmode_styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-includes/css/classic-themes.min.css" id="classic-theme-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://humansbefree.com/wp-content/plugins/acf-recent-posts-widget/css/acf-widget-front.css" id="acf-rpw-main-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-content/plugins/sharethis-share-buttons/css/mu-style.css" id="share-this-share-buttons-sticky-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-content/plugins/wp-night-mode/public/css/wp-night-mode-public.css" id="wp-night-mode-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css" id="ppress-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css" id="ppress-flatpickr-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css" id="ppress-select2-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css" id="wordpress-popular-posts-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Raleway%3A400%2C400%7CRaleway%3A300%2C400%7CRaleway%3A100%2C400%2C%2C400&amp;subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Cvietnamese" id="disto_fonts_url-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-content/themes/disto/css/bootstrap.css" id="bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-content/themes/disto/style.css" id="disto_style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-content/themes/disto/css/responsive.css" id="disto_responsive-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="disto_responsive-inline-css" type="text/css">
+
+
+.header_top_bar_wrapper {
+    background: #ffffff !important;
+    background-image: -webkit-linear-gradient(to right, #ffffff, #ffffff) !important;
+    background-image: -moz-linear-gradient(to right, #ffffff, #ffffff) !important;
+    background-image: -o-linear-gradient(to right, #ffffff, #ffffff) !important;
+    background-image: linear-gradient(to right, #ffffff, #ffffff) !important;
+}
+
+.jl_current_title, .header_top_bar_wrapper .jl_top_bar_right, .header_top_bar_wrapper .navigation_wrapper #jl_top_menu > li > a{color: #ffffff !important;}
+
+.menu_wrapper,
+.header-wraper.jl_large_menu_logo .menu_wrapper,
+.header_magazine_video .header_main_wrapper,
+.header_magazine_box_menu #mainmenu,
+.box_layout_enable_front .header_magazine_box_menu .menu_wrapper_box_style,
+.two_header_top_style .menu_wrapper,
+.header_magazine_full_screen .menu_wrapper, .header_magazine_full_screen.dark_header_menu .menu_wrapper, .header_magazine_full_screen .menu_wrapper,
+.headcus5_custom.header_layout_style5_custom .header_main_wrapper,
+.header_layout_style5_custom .menu_wrapper{
+background:#ffffff !important;
+background-color: #ffffff !important;
+background-image: -webkit-linear-gradient(to right, #ffffff, ) !important;
+background-image: -moz-linear-gradient(to right, #ffffff, ) !important;
+background-image: -o-linear-gradient(to right, #ffffff, ) !important;
+background-image: linear-gradient(to right, #ffffff, ) !important;
+border-top: 0px !important; border-bottom: 0px solid #f0f0f0 !important;}
+.header_layout_style5_custom{border-top: 0px solid #eaeaea !important; border-bottom: 0px solid #eaeaea !important; background: #fff !important;}
+
+
+.header_top_bar_wrapper .navigation_wrapper #jl_top_menu li a, .meta-category-small a, .item_slide_caption .post-meta.meta-main-img, .post-meta.meta-main-img, .post-meta-bot-in, .post-meta span, .single-post-meta-wrapper span, .comment time, .post_large_footer_meta, .blog_large_post_style .large_post_content .jelly_read_more_wrapper a, .love_post_view_header a, .header_date_display, .jl_continue_reading, .menu_post_feature .builder_cat_title_list_style li, .builder_cat_title_list_style li, .main_new_ticker_wrapper .post-date, .main_new_ticker_wrapper .news_ticker_title_style, .jl_rating_front .jl_rating_value, .pop_post_right_slider .headding_pop_post, .jl_main_right_number .jl_number_list, .jl_grid_more .jl_slider_readding, .page_builder_listpost.jelly_homepage_builder .jl_list_more a, .jl_s_slide_text_wrapper .banner-container .jl_ssider_more, .jl_post_meta .jl_author_img_w a, .jl_post_meta .post-date, .jl_large_builder.jelly_homepage_builder .jl_large_more, .feature-image-link.image_post .jl_small_list_num, .social-count-plus .count, .social-count-plus .label, .jl_instagram .instagram-pics + .clear a, .single-post-meta-wrapper .jm-post-like, #commentform #submit, .wpcf7-form-control.wpcf7-submit, .comment-reply-link, .comment-edit-link, .single_post_share_icons, .single_post_tag_layout li a{font-family: Raleway !important;}
+#mainmenu > li > a, #content_nav .menu_moble_slide > li a, .header_layout_style3_custom .navigation_wrapper > ul > li > a, .header_magazine_full_screen .navigation_wrapper .jl_main_menu > li > a{font-family: Raleway !important;  font-size:15px !important; font-weight:100 !important; text-transform: capitalize !important; letter-spacing:  !important;}
+#menu-footer-menu li a, .footer-bottom .footer-left-copyright, .navigation_wrapper #mainmenu.jl_main_menu > li li > a{font-family: Raleway !important;}
+
+.content_single_page p, .single_section_content .post_content, .single_section_content .post_content p{font-size: 23px;}
+body, p, .date_post_large_display, #search_block_top #search_query_top, .tagcloud a, .format-quote a p.quote_source, .blog_large_post_style .large_post_content .jelly_read_more_wrapper a, .blog_grid_post_style .jelly_read_more_wrapper a, .blog_list_post_style .jelly_read_more_wrapper a, .pagination-more div a,
+.meta-category-small-builder a, .full-slider-wrapper .banner-carousel-item .banner-container .more_btn a, .single-item-slider .banner-carousel-item .banner-container .more_btn a{font-family:Raleway !important; font-weight: 300 !important;}
+.single_section_content .post_content blockquote p{font-size: 23px !important;}
+.wp-caption p.wp-caption-text{font-size: 14px !important;}
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .postnav #prepost, .postnav  #nextpost, .bbp-forum-title, .single_post_arrow_content #prepost, .single_post_arrow_content #nextpost{font-weight: 400 !important; text-transform:capitalize !important; }
+.footer_carousel .meta-comment, .item_slide_caption h1 a,  .tickerfloat, .box-1 .inside h3, .detailholder.medium h3, .feature-post-list .feature-post-title, .widget-title h2, .image-post-title, .grid.caption_header h3, ul.tabs li a, h1, h2, h3, h4, h5, h6, .carousel_title, .postnav a, .format-aside a p.aside_title, .date_post_large_display, .social-count-plus span,
+.sf-top-menu li a, .large_continue_reading span, .single_post_arrow_content #prepost, .single_post_arrow_content #nextpost, .cfs_from_wrapper .cfs_form_title, .comment-meta .comment-author-name, .jl_recent_post_number > li .jl_list_bg_num, .jl_recent_post_number .meta-category-small-text a, .jl_hsubt, .single_post_entry_content .post_subtitle_text, blockquote p{font-family:Raleway !important;}   
+
+
+
+
+.navigation_wrapper #mainmenu.jl_main_menu > li li > a{ font-size:16px !important; font-weight:400 !important; letter-spacing:  !important; text-transform: capitalize !important;}
+.cat-item-31 span{background:  !important;}.cat-item-163 span{background:  !important;}.cat-item-52 span{background:  !important;}.cat-item-60 span{background:  !important;}.cat-item-79 span{background:  !important;}.cat-item-158 span{background:  !important;}.cat-item-232 span{background:  !important;}.cat-item-106 span{background:  !important;}.cat-item-17 span{background:  !important;}.cat-item-63 span{background:  !important;}.cat-item-227 span{background:  !important;}.cat-item-108 span{background:  !important;}.cat-item-61 span{background:  !important;}.cat-item-144 span{background:  !important;}.cat-item-249 span{background:  !important;}.cat-item-67 span{background:  !important;}.cat-item-154 span{background:  !important;}.cat-item-26 span{background:  !important;}.cat-item-235 span{background:  !important;}.cat-item-12 span{background:  !important;}.cat-item-38 span{background:  !important;}.cat-item-70 span{background:  !important;}.cat-item-20 span{background:  !important;}.cat-item-39 span{background:  !important;}.cat-item-250 span{background:  !important;}.cat-item-53 span{background:  !important;}.cat-item-5 span{background:  !important;}.cat-item-237 span{background:  !important;}.cat-item-11 span{background:  !important;}.cat-item-214 span{background:  !important;}.cat-item-73 span{background:  !important;}.cat-item-123 span{background:  !important;}.cat-item-114 span{background:  !important;}.cat-item-241 span{background:  !important;}.cat-item-157 span{background:  !important;}.cat-item-247 span{background:  !important;}.cat-item-248 span{background:  !important;}.cat-item-84 span{background:  !important;}.cat-item-149 span{background:  !important;}.cat-item-101 span{background:  !important;}.cat-item-22 span{background:  !important;}.cat-item-29 span{background:  !important;}.cat-item-128 span{background:  !important;}.cat-item-254 span{background:  !important;}.cat-item-239 span{background:  !important;}.cat-item-126 span{background:  !important;}.cat-item-44 span{background:  !important;}.cat-item-217 span{background:  !important;}.cat-item-133 span{background:  !important;}.cat-item-148 span{background:  !important;}.cat-item-64 span{background:  !important;}.cat-item-115 span{background:  !important;}.cat-item-109 span{background:  !important;}.cat-item-23 span{background:  !important;}.cat-item-85 span{background:  !important;}.cat-item-229 span{background:  !important;}.cat-item-65 span{background:  !important;}.cat-item-120 span{background:  !important;}.cat-item-220 span{background:  !important;}.cat-item-139 span{background:  !important;}.cat-item-59 span{background:  !important;}.cat-item-15 span{background:  !important;}.cat-item-25 span{background:  !important;}.cat-item-50 span{background:  !important;}.cat-item-47 span{background:  !important;}.cat-item-43 span{background:  !important;}.cat-item-153 span{background:  !important;}.cat-item-87 span{background:  !important;}.cat-item-69 span{background:  !important;}.cat-item-80 span{background:  !important;}.cat-item-35 span{background:  !important;}.cat-item-113 span{background:  !important;}.cat-item-10 span{background:  !important;}.cat-item-32 span{background:  !important;}.cat-item-252 span{background:  !important;}.cat-item-231 span{background:  !important;}.cat-item-234 span{background:  !important;}.cat-item-121 span{background:  !important;}.cat-item-146 span{background:  !important;}.cat-item-82 span{background:  !important;}.cat-item-13 span{background:  !important;}.cat-item-72 span{background:  !important;}.cat-item-89 span{background:  !important;}.cat-item-92 span{background:  !important;}.cat-item-226 span{background:  !important;}.cat-item-40 span{background:  !important;}.cat-item-225 span{background:  !important;}.cat-item-21 span{background:  !important;}.cat-item-78 span{background:  !important;}.cat-item-94 span{background:  !important;}.cat-item-230 span{background:  !important;}.cat-item-71 span{background:  !important;}.cat-item-134 span{background:  !important;}.cat-item-77 span{background:  !important;}.cat-item-151 span{background:  !important;}.cat-item-152 span{background:  !important;}.cat-item-161 span{background:  !important;}.cat-item-107 span{background:  !important;}.cat-item-138 span{background:  !important;}.cat-item-102 span{background:  !important;}.cat-item-141 span{background:  !important;}.cat-item-125 span{background:  !important;}.cat-item-253 span{background:  !important;}.cat-item-48 span{background:  !important;}.cat-item-116 span{background:  !important;}.cat-item-142 span{background:  !important;}.cat-item-111 span{background:  !important;}.cat-item-19 span{background:  !important;}.cat-item-7 span{background:  !important;}.cat-item-33 span{background:  !important;}.cat-item-9 span{background:  !important;}.cat-item-51 span{background:  !important;}.cat-item-4 span{background:  !important;}.cat-item-99 span{background:  !important;}.cat-item-37 span{background:  !important;}.cat-item-46 span{background:  !important;}.cat-item-41 span{background:  !important;}.cat-item-140 span{background:  !important;}.cat-item-209 span{background:  !important;}.cat-item-110 span{background:  !important;}.cat-item-95 span{background:  !important;}.cat-item-145 span{background:  !important;}.cat-item-118 span{background:  !important;}.cat-item-117 span{background:  !important;}.cat-item-68 span{background:  !important;}.cat-item-90 span{background:  !important;}.cat-item-16 span{background:  !important;}.cat-item-81 span{background:  !important;}.cat-item-66 span{background:  !important;}.cat-item-216 span{background:  !important;}.cat-item-112 span{background:  !important;}.cat-item-6 span{background:  !important;}.cat-item-42 span{background:  !important;}.cat-item-97 span{background:  !important;}.cat-item-165 span{background:  !important;}.cat-item-86 span{background:  !important;}.cat-item-228 span{background:  !important;}.cat-item-3 span{background:  !important;}.cat-item-105 span{background:  !important;}.cat-item-18 span{background:  !important;}.cat-item-129 span{background:  !important;}.cat-item-211 span{background:  !important;}.cat-item-56 span{background:  !important;}.cat-item-57 span{background:  !important;}.cat-item-156 span{background:  !important;}.cat-item-130 span{background:  !important;}.cat-item-34 span{background:  !important;}.cat-item-8 span{background:  !important;}.cat-item-30 span{background:  !important;}.cat-item-74 span{background:  !important;}.cat-item-24 span{background:  !important;}.cat-item-218 span{background:  !important;}.cat-item-49 span{background:  !important;}.cat-item-219 span{background:  !important;}.cat-item-76 span{background:  !important;}.cat-item-251 span{background:  !important;}.cat-item-28 span{background:  !important;}.cat-item-162 span{background:  !important;}.cat-item-96 span{background:  !important;}.cat-item-150 span{background:  !important;}.cat-item-104 span{background:  !important;}.cat-item-83 span{background:  !important;}.cat-item-159 span{background:  !important;}.cat-item-100 span{background:  !important;}.cat-item-98 span{background:  !important;}.cat-item-242 span{background:  !important;}.cat-item-58 span{background:  !important;}.cat-item-91 span{background:  !important;}.cat-item-14 span{background:  !important;}.cat-item-75 span{background:  !important;}.cat-item-124 span{background:  !important;}.cat-item-2 span{background:  !important;}.cat-item-93 span{background:  !important;}.cat-item-122 span{background:  !important;}.cat-item-244 span{background:  !important;}.cat-item-1 span{background:  !important;}.cat-item-245 span{background:  !important;}.cat-item-155 span{background:  !important;}.cat-item-135 span{background:  !important;}.cat-item-236 span{background:  !important;}.cat-item-36 span{background:  !important;}.cat-item-136 span{background:  !important;}.cat-item-243 span{background:  !important;}.cat-item-62 span{background:  !important;}.cat-item-255 span{background:  !important;}.cat-item-131 span{background:  !important;}.cat-item-54 span{background:  !important;}.cat-item-147 span{background:  !important;}.cat-item-246 span{background:  !important;}.cat-item-55 span{background:  !important;}.cat-item-164 span{background:  !important;}.cat-item-132 span{background:  !important;}.cat-item-103 span{background:  !important;}.cat-item-119 span{background:  !important;}
+</style>
+<link href="https://humansbefree.com/wp-content/plugins/wpforo/themes/2022/widgets.css" id="wpforo-widgets-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-content/plugins/latest-posts/assets/css/style.css" id="latest-posts-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://humansbefree.com/wp-content/uploads/wpforo/assets/colors.css" id="wpforo-dynamic-style-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://humansbefree.com/wp-includes/js/jquery/jquery.min.js" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://humansbefree.com/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript"></script>
+<script id="share-this-share-buttons-mu-js" src="//platform-api.sharethis.com/js/sharethis.js" type="text/javascript"></script>
+<script id="wp-night-mode-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpnmObject = {"button_html":"<div class=\"wpnm-button style-1\">\n                            <div class=\"wpnm-slider round\"><\/div>\n                        <\/div>","default":"","server_time":"1678332671","turn_on_time":"","turn_off_time":""};
+/* ]]> */
+</script>
+<script id="wp-night-mode-js" src="https://humansbefree.com/wp-content/plugins/wp-night-mode/public/js/wp-night-mode-public.js" type="text/javascript"></script>
+<script id="ppress-flatpickr-js" src="https://humansbefree.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js" type="text/javascript"></script>
+<script id="ppress-select2-js" src="https://humansbefree.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js" type="text/javascript"></script>
+<script id="wpp-json" type="application/json">
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/humansbefree.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/humansbefree.com\/wp-json\/wordpress-popular-posts","ID":0,"token":"53d24d81c4","lang":0,"debug":0}
+</script>
+<script id="wpp-js-js" src="https://humansbefree.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js" type="text/javascript"></script>
+<script id="advanced-ads-advanced-js-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var advads_options = {"blog_id":"1","privacy":{"consent-method":"0","custom-cookie-name":"","custom-cookie-value":"","enabled":false,"state":"not_needed"}};
+/* ]]> */
+</script>
+<script id="advanced-ads-advanced-js-js" src="https://humansbefree.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js" type="text/javascript"></script>
+<script id="advanced_ads_pro/visitor_conditions-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var advanced_ads_pro_visitor_conditions = {"referrer_cookie_name":"advanced_ads_pro_visitor_referrer","referrer_exdays":"365","page_impr_cookie_name":"advanced_ads_page_impressions","page_impr_exdays":"3650"};
+/* ]]> */
+</script>
+<script id="advanced_ads_pro/visitor_conditions-js" src="https://humansbefree.com/wp-content/plugins/advanced-ads-pro/modules/advanced-visitor-conditions/inc/conditions.min.js" type="text/javascript"></script>
+<script id="advanced-ds-pro/front-js" src="https://humansbefree.com/wp-content/plugins/advanced-ads-pro/assets/advanced-ads-pro.js" type="text/javascript"></script>
+<script id="advanced-ads-pro/cache_busting-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var advanced_ads_pro_ajax_object = {"ajax_url":"https:\/\/humansbefree.com\/wp-admin\/admin-ajax.php","lazy_load_module_enabled":"1","lazy_load":{"default_offset":2,"offsets":[]},"moveintohidden":""};
+/* ]]> */
+</script>
+<script id="advanced-ads-pro/cache_busting-js" src="https://humansbefree.com/wp-content/plugins/advanced-ads-pro/modules/cache-busting/inc/base.min.js" type="text/javascript"></script>
+<link href="https://humansbefree.com/wp-json/" rel="https://api.w.org/"/><link href="https://humansbefree.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://humansbefree.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-220129322-1', 'auto');
+			ga('require', 'displayfeatures');
+			ga('require', 'linkid');
+			ga('set', 'anonymizeIp', true);
+			ga('send', 'pageview');
+		</script>
+<meta content="2f466d7ff7bb4477678d35f3abba46de" name="propeller"/>
+<script async="async" src="//assets.revcontent.com/master/delivery.js" type="text/javascript"></script>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "4b49dc39-aec0-4f59-8e6a-2564c241f998",
+            d: "aHVtYW5zYXJlZnJlZS5jb20=",
+            wid: "128232",
+            exitPopMobile: true,
+	exitPopExpireDays: 0,            
+	cb: (new Date()).getTime()
+        };
+        var qs = Object.keys(params).reduce(function(a, k){ a.push(k + '=' + encodeURIComponent(params[k])); return a},[]).join(String.fromCharCode(38));
+        var s = d.createElement('script'); s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs;
+        d.getElementById("contentad128232").appendChild(s);
+    })(document);
+</script>
+<link href="/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/manifest.json" rel="manifest"/>
+<meta content="#ffffff" name="msapplication-TileColor"/>
+<meta content="/ms-icon-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+<div class="widget-content">
+</div>
+<script async="async" src="https://platform-api.sharethis.com/js/sharethis.js#property=620644d4a311b1001939f870&amp;product=sop" type="text/javascript"></script>
+<style type="text/css">
+				 
+				.wpnm-button.style-1,
+				.wpnm-button.style-2,
+				.wpnm-button.style-3,
+				.wpnm-button.style-4,
+				.wpnm-button.style-5 {
+					font-size: 14px;
+				}
+			
+			.wp-night-mode-slider {
+				background-color: ;
+			}
+
+			.wp-night-mode-button.active .wp-night-mode-slider {
+				background-color: ;
+			}
+
+			body.wp-night-mode-on * {
+				background: #18191a;
+			}
+
+			body.wp-night-mode-on .customize-partial-edit-shortcut button,
+			body.wp-night-mode-on .customize-partial-edit-shortcut button svg,
+			body.wp-night-mode-on #adminbarsearch,
+			body.wp-night-mode-on span.display-name,
+			body.wp-night-mode-on span.ab-icon,
+			body.wp-night-mode-on span.ab-label {
+			    background: transparent;
+			}
+
+			body.wp-night-mode-on * {
+				color: #e4e6eb;
+			}
+
+			body.wp-night-mode-on a {
+				color: #4599ff;
+			}
+
+			body.wp-night-mode-on a:hover,
+			body.wp-night-mode-on a:visited,
+			body.wp-night-mode-on a:active {
+				color: #328eff;
+			}
+		}				@media (prefers-color-scheme: dark) {
+					 
+				.wpnm-button.style-1,
+				.wpnm-button.style-2,
+				.wpnm-button.style-3,
+				.wpnm-button.style-4,
+				.wpnm-button.style-5 {
+					font-size: 14px;
+				}
+			
+			.wp-night-mode-slider {
+				background-color: ;
+			}
+
+			.wp-night-mode-button.active .wp-night-mode-slider {
+				background-color: ;
+			}
+
+			body.wp-night-mode-on * {
+				background: #18191a;
+			}
+
+			body.wp-night-mode-on .customize-partial-edit-shortcut button,
+			body.wp-night-mode-on .customize-partial-edit-shortcut button svg,
+			body.wp-night-mode-on #adminbarsearch,
+			body.wp-night-mode-on span.display-name,
+			body.wp-night-mode-on span.ab-icon,
+			body.wp-night-mode-on span.ab-label {
+			    background: transparent;
+			}
+
+			body.wp-night-mode-on * {
+				color: #e4e6eb;
+			}
+
+			body.wp-night-mode-on a {
+				color: #4599ff;
+			}
+
+			body.wp-night-mode-on a:hover,
+			body.wp-night-mode-on a:visited,
+			body.wp-night-mode-on a:active {
+				color: #328eff;
+			}
+		}				}
+			</style>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"NewsMediaOrganization","name":"Humans Be Free","url":"https:\/\/humansbefree.com","logo":{"@type":"ImageObject","url":"https:\/\/humansbefree.com\/wp-content\/uploads\/2019\/12\/alexander.jpg","width":517,"height":458},"sameAs":["https:\/\/www.facebook.com\/PositiveNewBeginning\/"]}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Home","url":"https:\/\/humansarefree.com"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"ForumNew","url":"https:\/\/humansbefree.com\/community"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Forum Home","url":"https:\/\/humansarefree.com\/community"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Login","url":"https:\/\/humansarefree.com\/community\/intro-forum?wpforo=signin"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Register","url":"https:\/\/humansarefree.com\/community?wpforo=signup"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"News","url":"https:\/\/humansbefree.com\/category\/news"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Health","url":"https:\/\/humansbefree.com\/category\/healthcare"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Control","url":"https:\/\/humansbefree.com\/category\/control"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Cosmos","url":"https:\/\/humansbefree.com\/category\/cosmos"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Spirituality","url":"https:\/\/humansbefree.com\/category\/spirituality"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Forbidden History","url":"https:\/\/humansbefree.com\/category\/forbidden-history"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Conspiracy","url":"https:\/\/humansbefree.com\/category\/conspiracy"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Finance","url":"https:\/\/humansbefree.com\/category\/finance"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Documentaries","url":"https:\/\/humansbefree.com\/category\/documentaries"}]}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","name":"Humans Be Free","url":"https:\/\/humansbefree.com","potentialAction":[{"@type":"SearchAction","target":"https:\/\/humansbefree.com\/?s={search_term_string}","query-input":"required name=search_term_string"}]}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/humansbefree.com\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/humansbefree.com\/?s=H.R. 6666","name":"You searched for H.R. 6666"}}]}</script> <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+<script>
+            var WP_Statistics_http = new XMLHttpRequest();
+        WP_Statistics_http.open("GET", "https://humansbefree.com/wp-json/wp-statistics/v2/hit?wp_statistics_hit_rest=yes&track_all=0&current_page_type=search&current_page_id=0&search_query=http://H.R.%206666&page_uri=Lz9zPUguUi4rNjY2Ng=" + "&referred=" + encodeURIComponent(document.referrer) + "&_=" + Date.now(), true);
+        WP_Statistics_http.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+        WP_Statistics_http.send(null);
+        </script><script type="text/javascript">
+		var advadsCfpQueue = [];
+		var advadsCfpAd = function( adID ){
+			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
+		};
+		</script>
+<meta content="wordpress-plugin" name="onesignal">
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://humansbefree.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '7a444c9c-6248-4523-b555-a50e60c2c95f';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Humans Are Free";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['welcomeNotification']['url'] = "https://humansarefree.com";
+oneSignal_options['path'] = "https://humansbefree.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.1cd53ad7-1124-4d48-8712-0a155e6245f9";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-left';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return OneSignal.isPushNotificationsEnabled()
+                      .then(function(isPushEnabled) {
+                          return !isPushEnabled;
+                      });
+            };
+oneSignal_options['notifyButton']['showCredit'] = false;
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<style id="wp-custom-css" type="text/css">
+			.image-post-thumb.jlsingle-title-above { display: none }
+.body, p {color: #000000}
+.jl_ads_section {margin-top: 0px;}
+
+
+div.bsap_1291800{width:100%;display:block;}div.bsap_1291800 a{width:728px;}div.bsap_1291800 a img{padding:0;}div.bsap_1291800 a em{font-style:normal;}div.bsap_1291800 a{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin-top:5px;text-align:right;text-decoration:none;overflow:hidden;float:right !important;}
+div.bsap_1291800 img{border:0;clear:right;}
+div.bsap_1291800 a.adhere{color:#666;font-weight:bold;font-size:12px;border:1px solid #ccc;background:#e7e7e7;text-align:center;}
+div.bsap_1291800 a.adhere:hover{border:1px solid #999;background:#ddd;color:#333;}
+div.bsap_1291800 iframe{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin-top:5px;text-align:center;text-decoration:none;overflow:hidden;float:right !important;}div.bsap_1291800 a{line-height:100%;}div.bsap_1291800 a.adhere{width:728px;height:90px;line-height:720%;}html>body div.bsap_1291800 a.adhere{width:726px;height:88px;}div.bsap_1291800 img.s{height:0;width:0;}
+
+p a, h5 a, h6 a, a, a:hover {color: #d11313;}
+
+.jl_header_magazine_style.header_layout_style3_custom .logo_small_wrapper_table .logo_small_wrapper a img {max-height: 55px}
+
+.jl_ads_u_title image_ads_ab {display: none;}
+
+.loop-large-post .post_content a {font-weight: normal;}
+
+
+.acf-rpw-block.acf-rpw-default li {border-bottom: 1px solid #eee; margin-bottom: 1px; padding-bottom: 5px;}
+
+.acf-rpw-default .acf-rpw-thumb {border: none !important;}
+
+
+.acf-rpw-block.acf-rpw-default li {border-bottom: none !important;}
+
+acf-rpw-time published {display: none !important;}
+
+.acf-rpw-default .acf-rpw-time {display: none;}
+
+widget_text widget widget_custom_html .widget {margin-bottom: 0px!important}
+.widget_text widget widget_custom_html .widget {margin-bottom: 0px!important}
+.widget_text widget widget_custom_html #widget {margin-bottom: 0px!important}
+#widget_text widget widget_custom_html #widget {margin-bottom: 0px!important}
+#widget_text widget widget_custom_html .widget {margin-bottom: 0px!important}
+.jl_single_style1 {margin-bottom: 0px;}
+
+#jl_ads_u_title image_ads_ab .jl_ads_u_title image_ads_ab .widget_text widget widget_custom_html .widget {display:none; margin-bottom:0px;}
+.header_layout_style3_custom.jl_cus_top_share #menu_wrapper.menu_wrapper{position: relative !important;}
+
+.header_layout_style3_custom.jl_cus_top_share .jl_nav_mobile{
+     width: 130px!important;
+}
+.night-switch{
+	float: left;
+    height: 40px!important;
+    line-height: 40px!important;
+    width: 40px;
+    position: absolute;
+    top: 18px;
+    vertical-align: middle;
+}
+		</style>
+</meta></meta></meta></head>
+<body class="search search-results wp-schema-pro-1.5.1 mobile_nav_class jl-has-sidebar jl_hide_m_top wpf-default wpft- wpf-guest wpfu-group-4 wpf-theme-2022 wpf-is_standalone-0 wpf-boardid-0 is_wpforo_page-0 is_wpforo_url-0 is_wpforo_shortcode_page-0 aa-prefix-human- aa-disabled-bots" data-rsssl="1" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div class="options_layout_wrapper jl_radius jl_none_box_styles jl_border_radiuss">
+<div class="options_layout_container full_layout_enable_front" id="mvp-site-main">
+<header class="header-wraper jl_header_magazine_style two_header_top_style header_layout_style3_custom jl_cus_top_share">
+<div class="header_top_bar_wrapper jl_top_bar_dis">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="menu-primary-container navigation_wrapper">
+</div>
+<div class="jl_top_cus_social">
+<div class="search_header_menu">
+<div class="menu_mobile_share_wrapper">
+<span class="jl_hfollow"></span>
+<ul class="social_icon_header_top jl_socialcolor">
+<li><a class="facebook" href="https://www.facebook.com/PositiveNewBeginning/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="jl_blank_nav"></div>
+<div class="menu_wrapper jl_menu_sticky jl_stick" id="menu_wrapper">
+<div class="container">
+<div align="right">
+<div align="right" class="bsarocks bsap_64855e106b31c040526969c54c1e7c46" id="bsap_1291800"></div>
+</div>
+<div class="row"> <div class="main_menu col-md-12"> <div class="logo_small_wrapper_table">
+<div class="logo_small_wrapper">
+<a class="logo_link" href="https://humansbefree.com/">
+<img alt="" src="https://humansarefree.com/wp-content/uploads/2019/12/newlogo-1.png"/>
+</a>
+</div>
+</div>
+<div class="search_header_menu jl_nav_mobile">
+<div class="night-switch">
+<label class="switch wpnm-button" id="switch">
+<input id="slider" type="checkbox"/>
+<span class="slider round"></span>
+</label>
+</div>
+<div class="menu_mobile_icons"><i class="fa fa-bars"></i></div>
+<div class="search_header_wrapper search_form_menu_personal_click"><i class="fa fa-search"></i></div>
+</div>
+<div class="menu-primary-container navigation_wrapper jl_cus_share_mnu">
+<ul class="jl_main_menu" id="mainmenu"><li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-9333"><a href="https://humansarefree.com">Home<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="menu-item-28663"><a href="https://humansbefree.com/community">Forum<span class="jl_menu_lb jl_lb_blue">New</span><span class="border-menu"></span></a><ul class="sub-menu"> <li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-29288"><a href="https://humansarefree.com/community">Forum Home<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-28703"><a href="https://humansarefree.com/community/intro-forum?wpforo=signin">Login<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-28704"><a href="https://humansarefree.com/community?wpforo=signup">Register<span class="border-menu"></span></a></li>
+</ul></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-9340"><a href="https://humansbefree.com/category/news">News<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-9339"><a href="https://humansbefree.com/category/healthcare">Health<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-9341"><a href="https://humansbefree.com/category/control">Control<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-9342"><a href="https://humansbefree.com/category/cosmos">Cosmos<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-9343"><a href="https://humansbefree.com/category/spirituality">Spirituality<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-9344"><a href="https://humansbefree.com/category/forbidden-history">Forbidden History<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-9345"><a href="https://humansbefree.com/category/conspiracy">Conspiracy<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-9346"><a href="https://humansbefree.com/category/finance">Finance<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-9347"><a href="https://humansbefree.com/category/documentaries">Documentaries<span class="border-menu"></span></a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="jl_mobile_nav_wrapper" id="content_nav">
+<div class="jl_mobile_nav_inner" id="nav">
+<div class="menu_mobile_icons mobile_close_icons closed_menu"><span class="jl_close_wapper"><span class="jl_close_1"></span><span class="jl_close_2"></span></span></div>
+<ul class="menu_moble_slide" id="mobile_menu_slide"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9333"><a href="https://humansarefree.com">Home<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28663"><a href="https://humansbefree.com/community">Forum<span class="jl_menu_lb jl_lb_blue">New</span><span class="border-menu"></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29288"><a href="https://humansarefree.com/community">Forum Home<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28703"><a href="https://humansarefree.com/community/intro-forum?wpforo=signin">Login<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28704"><a href="https://humansarefree.com/community?wpforo=signup">Register<span class="border-menu"></span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9340"><a href="https://humansbefree.com/category/news">News<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9339"><a href="https://humansbefree.com/category/healthcare">Health<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9341"><a href="https://humansbefree.com/category/control">Control<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9342"><a href="https://humansbefree.com/category/cosmos">Cosmos<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9343"><a href="https://humansbefree.com/category/spirituality">Spirituality<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9344"><a href="https://humansbefree.com/category/forbidden-history">Forbidden History<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9345"><a href="https://humansbefree.com/category/conspiracy">Conspiracy<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9346"><a href="https://humansbefree.com/category/finance">Finance<span class="border-menu"></span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9347"><a href="https://humansbefree.com/category/documentaries">Documentaries<span class="border-menu"></span></a></li>
+</ul> </div>
+</div>
+<div class="search_form_menu_personal">
+<div class="menu_mobile_large_close"><span class="jl_close_wapper search_form_menu_personal_click"><span class="jl_close_1"></span><span class="jl_close_2"></span></span></div>
+<form action="https://humansbefree.com/" class="searchform_theme" method="get">
+<input class="search_btn" name="s" placeholder="Search..." type="text" value="H.R. 6666">
+<button class="button" type="submit"><i class="fa fa-search"></i></button>
+</input></form> </div>
+<div class="mobile_menu_overlay"></div>
+<div class="main_title_wrapper category_title_section jl_na_bg_title">
+<div class="container">
+<div class="row">
+<div class="col-md-12 main_title_col">
+<div class="jl_cat_mid_title"><h3 class="categories-title title">Search for: H.R. 6666</h3></div> </div>
+</div>
+</div>
+</div>
+<div class="jl_post_loop_wrapper">
+<div class="container jl_search_rel" id="wrapper_masonry">
+<div class="row">
+<div class="col-md-8 grid-sidebar" id="content">
+<div class="jl_wrapper_cat">
+<div class="pagination_infinite_style_cat" id="content_masonry">
+<div class="box jl_grid_layout1 blog_grid_post_style post-32998 post type-post status-publish format-standard has-post-thumbnail hentry category-control category-coronavirus category-police-state" data-aos="fade-up">
+<div class="post_grid_content_wrapper">
+<div class="image-post-thumb">
+<a class="link_image featured-thumbnail" href="https://humansbefree.com/2020/05/h-r-6666-the-nullifying-your-4th-amendment-and-forcibly-separating-your-family-to-keep-you-safe-act.html" title="H.R. 6666 – The Nullifying Your 4th Amendment and Forcibly Separating Your Family to Keep You ‘Safe’ Act">
+<img alt="H.r. 6666 – The Nullifying Your 4th Amendment And Forcibly Separating Your Family To Keep You ‘safe’ Act" class="attachment-disto_large_feature_image size-disto_large_feature_image wp-post-image" decoding="async" height="450" src="https://humansbefree.com/wp-content/uploads/2020/05/H.R.-6666-–-The-Nullifying-Your-4th-Amendment-and-Forcibly-Separating-Your-Family-to-Keep-You-‘Safe’-Act-750x450.jpg" width="750"/> <div class="background_over_image"></div>
+</a>
+<span class="meta-category-small"><a class="post-category-color-text" href="https://humansbefree.com/category/control" style="background:">Control</a><a class="post-category-color-text" href="https://humansbefree.com/category/coronavirus" style="background:">Coronavirus</a><a class="post-category-color-text" href="https://humansbefree.com/category/police-state" style="background:">Police State</a></span>
+</div>
+<div class="post-entry-content">
+<div class="post-entry-content-wrapper">
+<div class="large_post_content">
+<h3 class="image-post-title"><a href="https://humansbefree.com/2020/05/h-r-6666-the-nullifying-your-4th-amendment-and-forcibly-separating-your-family-to-keep-you-safe-act.html">
+H.R. 6666 – The Nullifying Your 4th Amendment and Forcibly Separating Your Family to Keep You ‘Safe’ Act</a></h3>
+<span class="jl_post_meta" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="jl_author_img_w" itemprop="name"><img class="avatar pp-user-avatar avatar-30 photo" data-del="avatar" height="30" src="https://humansbefree.com/wp-content/uploads/2020/09/HAF-Logo-64x64.png" width="30"/><a href="https://humansbefree.com/author/ascanu" rel="author" title="Posts by HAF">HAF</a></span><span class="post-date"><i class="fa fa-clock-o"></i>May 20, 2020</span></span> </div>
+</div>
+</div>
+</div>
+</div><div class="box jl_grid_layout1 blog_grid_post_style post-33834 post type-post status-publish format-standard has-post-thumbnail hentry category-big-brother category-control category-police-state" data-aos="fade-up">
+<div class="post_grid_content_wrapper">
+<div class="image-post-thumb">
+<a class="link_image featured-thumbnail" href="https://humansbefree.com/2020/06/us-surveillance-bill-6666-the-devil-in-the-details-a-monstrously-unconstitutional-bill.html" title="US Surveillance Bill 6666: The Devil in the Details (A ‘Monstrously Unconstitutional’ Bill)">
+<img alt="Us Surveillance Bill 6666" class="attachment-disto_large_feature_image size-disto_large_feature_image wp-post-image" decoding="async" height="445" loading="lazy" src="https://humansbefree.com/wp-content/uploads/2020/06/US-Surveillance-Bill-6666-780x445.jpg" width="780"/> <div class="background_over_image"></div>
+</a>
+<span class="meta-category-small"><a class="post-category-color-text" href="https://humansbefree.com/category/big-brother" style="background:">Big Brother</a><a class="post-category-color-text" href="https://humansbefree.com/category/control" style="background:">Control</a><a class="post-category-color-text" href="https://humansbefree.com/category/police-state" style="background:">Police State</a></span>
+</div>
+<div class="post-entry-content">
+<div class="post-entry-content-wrapper">
+<div class="large_post_content">
+<h3 class="image-post-title"><a href="https://humansbefree.com/2020/06/us-surveillance-bill-6666-the-devil-in-the-details-a-monstrously-unconstitutional-bill.html">
+US Surveillance Bill 6666: The Devil in the Details (A ‘Monstrously Unconstitutional’ Bill)</a></h3>
+<span class="jl_post_meta" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="jl_author_img_w" itemprop="name"><img class="avatar pp-user-avatar avatar-30 photo" data-del="avatar" height="30" src="https://humansbefree.com/wp-content/uploads/2020/09/HAF-Logo-64x64.png" width="30"/><a href="https://humansbefree.com/author/ascanu" rel="author" title="Posts by HAF">HAF</a></span><span class="post-date"><i class="fa fa-clock-o"></i>June 11, 2020</span></span> </div>
+</div>
+</div>
+</div>
+</div><div class="box jl_grid_layout1 blog_grid_post_style post-33015 post type-post status-publish format-standard has-post-thumbnail hentry category-big-pharma category-control category-coronavirus category-police-state" data-aos="fade-up">
+<div class="post_grid_content_wrapper">
+<div class="image-post-thumb">
+<a class="link_image featured-thumbnail" href="https://humansbefree.com/2020/05/bill-6666-covid19-medical-rights.html" title="Bill 6666: Are Americans About to Lose All Medical Rights?">
+<img alt="Big Crowd Of People Go Queue. People Stand In Line At The Store." class="attachment-disto_large_feature_image size-disto_large_feature_image wp-post-image" decoding="async" height="450" loading="lazy" src="https://humansbefree.com/wp-content/uploads/2020/05/COVID-19-test-line-780x450.jpg" width="780"/> <div class="background_over_image"></div>
+</a>
+<span class="meta-category-small"><a class="post-category-color-text" href="https://humansbefree.com/category/big-pharma" style="background:">Big Pharma</a><a class="post-category-color-text" href="https://humansbefree.com/category/control" style="background:">Control</a><a class="post-category-color-text" href="https://humansbefree.com/category/coronavirus" style="background:">Coronavirus</a><a class="post-category-color-text" href="https://humansbefree.com/category/police-state" style="background:">Police State</a></span>
+</div>
+<div class="post-entry-content">
+<div class="post-entry-content-wrapper">
+<div class="large_post_content">
+<h3 class="image-post-title"><a href="https://humansbefree.com/2020/05/bill-6666-covid19-medical-rights.html">
+Bill 6666: Are Americans About to Lose All Medical Rights?</a></h3>
+<span class="jl_post_meta" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="jl_author_img_w" itemprop="name"><img class="avatar pp-user-avatar avatar-30 photo" data-del="avatar" height="30" src="https://humansbefree.com/wp-content/uploads/2020/09/HAF-Logo-64x64.png" width="30"/><a href="https://humansbefree.com/author/ascanu" rel="author" title="Posts by HAF">HAF</a></span><span class="post-date"><i class="fa fa-clock-o"></i>May 21, 2020</span></span> </div>
+</div>
+</div>
+</div>
+</div><div class="box jl_grid_layout1 blog_grid_post_style post-38202 post type-post status-publish format-standard has-post-thumbnail hentry category-coronavirus category-depopulation category-false-flags category-nwo" data-aos="fade-up">
+<div class="post_grid_content_wrapper">
+<div class="image-post-thumb">
+<a class="link_image featured-thumbnail" href="https://humansbefree.com/2020/09/proof-covid-19-planned-new-world-order.html" title="Ultimate Proof: Covid-19 Was Planned to Usher in the New World Order">
+<img alt="Covid 19 Coronavirus New World Order" class="attachment-disto_large_feature_image size-disto_large_feature_image wp-post-image" decoding="async" height="450" loading="lazy" src="https://humansbefree.com/wp-content/uploads/2020/09/Covid-19-coronavirus-New-World-Order-780x450.png" width="780"/> <div class="background_over_image"></div>
+</a>
+<span class="meta-category-small"><a class="post-category-color-text" href="https://humansbefree.com/category/coronavirus" style="background:">Coronavirus</a><a class="post-category-color-text" href="https://humansbefree.com/category/depopulation" style="background:">Depopulation</a><a class="post-category-color-text" href="https://humansbefree.com/category/false-flags" style="background:">False Flags</a><a class="post-category-color-text" href="https://humansbefree.com/category/nwo" style="background:">NWO</a></span>
+</div>
+<div class="post-entry-content">
+<div class="post-entry-content-wrapper">
+<div class="large_post_content">
+<h3 class="image-post-title"><a href="https://humansbefree.com/2020/09/proof-covid-19-planned-new-world-order.html">
+Ultimate Proof: Covid-19 Was Planned to Usher in the New World Order</a></h3>
+<span class="jl_post_meta" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="jl_author_img_w" itemprop="name"><img class="avatar pp-user-avatar avatar-30 photo" data-del="avatar" height="30" src="https://humansbefree.com/wp-content/uploads/2020/09/HAF-Logo-64x64.png" width="30"/><a href="https://humansbefree.com/author/ascanu" rel="author" title="Posts by HAF">HAF</a></span><span class="post-date"><i class="fa fa-clock-o"></i>September 28, 2020</span></span> </div>
+</div>
+</div>
+</div>
+</div><div class="box jl_grid_layout1 blog_grid_post_style post-36771 post type-post status-publish format-standard has-post-thumbnail hentry category-big-brother category-big-pharma category-bill-gates category-contact-tracing" data-aos="fade-up">
+<div class="post_grid_content_wrapper">
+<div class="image-post-thumb">
+<a class="link_image featured-thumbnail" href="https://humansbefree.com/2020/08/bill-gates-negotiated-100-billion-contact-tracing-deal-with-democratic-congressman-sponsor-of-bill-six-months-before-coronavirus-pandemic.html" title="Billy Boy Negotiated $100 Billion Contact Tracing Deal With Democratic Congressman Sponsor of Bill Six Months BEFORE Coronavirus Pandemic">
+<img alt="Billy Boy Negotiated $100 Billion Contact Tracing Deal With Democratic Congressman Sponsor Of Bill Six Months Before Coronavirus Pandemic" class="attachment-disto_large_feature_image size-disto_large_feature_image wp-post-image" decoding="async" height="426" loading="lazy" src="https://humansbefree.com/wp-content/uploads/2020/08/Bill-Gates-Negotiated-100-Billion-Contact-Tracing-Deal-With-Democratic-Congressman-Sponsor-of-Bill-Six-Months-BEFORE-Coronavirus-Pandemic-780x426.jpg" width="780"/> <div class="background_over_image"></div>
+</a>
+<span class="meta-category-small"><a class="post-category-color-text" href="https://humansbefree.com/category/big-brother" style="background:">Big Brother</a><a class="post-category-color-text" href="https://humansbefree.com/category/big-pharma" style="background:">Big Pharma</a><a class="post-category-color-text" href="https://humansbefree.com/category/bill-gates" style="background:">Billy Boy</a><a class="post-category-color-text" href="https://humansbefree.com/category/contact-tracing" style="background:">Contact Tracing</a></span>
+</div>
+<div class="post-entry-content">
+<div class="post-entry-content-wrapper">
+<div class="large_post_content">
+<h3 class="image-post-title"><a href="https://humansbefree.com/2020/08/bill-gates-negotiated-100-billion-contact-tracing-deal-with-democratic-congressman-sponsor-of-bill-six-months-before-coronavirus-pandemic.html">
+Billy Boy Negotiated $100 Billion Contact Tracing Deal With Democratic Congressman Sponsor of Bill Six Months BEFORE Coronavirus Pandemic</a></h3>
+<span class="jl_post_meta" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="jl_author_img_w" itemprop="name"><img class="avatar pp-user-avatar avatar-30 photo" data-del="avatar" height="30" src="https://humansbefree.com/wp-content/uploads/2020/09/HAF-Logo-64x64.png" width="30"/><a href="https://humansbefree.com/author/ascanu" rel="author" title="Posts by HAF">HAF</a></span><span class="post-date"><i class="fa fa-clock-o"></i>August 27, 2020</span></span> </div>
+</div>
+</div>
+</div>
+</div> </div>
+<nav class="jellywp_pagination"></nav>
+<div data-endpoint="//trends.revcontent.com" data-rc-widget="" data-widget-host="habitat" data-widget-id="51776" id="rc-widget-66ca92">
+</div>
+<div id="contentad121333">
+</div>
+</div>
+</div>
+<div class="col-md-4" id="sidebar">
+<div class="widget widget_search" id="search-2"><form action="https://humansbefree.com/" class="searchform_theme" method="get">
+<input class="search_btn" name="s" placeholder="Search..." type="text" value="H.R. 6666"/>
+<button class="button" type="submit"><i class="fa fa-search"></i></button>
+</form></div><div class="widget_text widget widget_custom_html" id="custom_html-2"><div class="textwidget custom-html-widget"><center>
+<div class="bsarocks bsap_64855e106b31c040526969c54c1e7c46" id="bsap_1292737"></div>
+</center></div></div><div class="widget_text widget widget_custom_html" id="custom_html-14"><div class="textwidget custom-html-widget"><style>
+      @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700');
+      .form-preview {
+      display: block;
+      margin-top: 30px;
+      padding: 40px 50px 40px 50px;
+      max-width: 350px;
+      min-height: 200px;
+      border-radius: 6px;
+      box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25);
+      }
+      .form-preview .preview-heading {
+      width: 100%;
+      }
+      .form-preview .preview-input-field {
+      margin-top: 20px;
+      width: 100%;
+      }
+      .form-preview .preview-input-field input {
+      width: 100%;
+      height: 40px;
+      border-radius: 6px;
+      border: 2px solid #e9e8e8;
+      background-color: #fff;
+      outline: none;
+      }
+      .form-preview .preview-input-field input::placeholder, .form-preview .preview-input-field input {
+      opacity: 0.5;
+      color: #000;
+      font-family: "Montserrat";
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 20px;
+      text-align: center;
+      }
+      .form-preview .preview-submit-button {
+      margin-top: 10px;
+      width: 100%;
+      }
+      .form-preview .preview-submit-button button {
+      width: 100%;
+      height: 40px;
+      border: 0;
+      border-radius: 6px;
+      line-height: 0px;
+      }
+      .form-preview .preview-submit-button button:hover {
+      cursor: pointer;
+      }
+
+      </style><form action="https://api.follow.it/subscription-form/TTgzN3NOYkVLRitDUm9ZaEFUenIyc2JCRjFkUXN3dWlqcnpPSXliOVR4aGVqVzA4L05zYVJnM3ZFK1huNkphOVVwYU11VWJBR09Cek5GMXZDOWF6TlJOSVhWUzJTcWFkc1lla0tZcTQvR3ZocUNNNGpoc1p4NlVjZnZTVXNuYTZ8ZWhNWXVGM215MG1Yakd0eVIxbkV3dGR2L3pZS0tWeVRKamNwU3l6Wmh2bz0=/8" data-v-2a9e94f9="" method="post"><div class="form-preview" data-v-2a9e94f9="" style="background-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; border-color: rgb(204, 204, 204); position: relative;"><div class="preview-heading" data-v-2a9e94f9=""><h5 data-v-2a9e94f9="" style="font-family: Montserrat; font-weight: bold; color: rgb(49, 142, 234); font-size: 21px; text-align: center;">Get new posts by email:</h5></div> <div class="preview-input-field" data-v-2a9e94f9=""><input data-v-2a9e94f9="" name="email" placeholder="Enter your email" spellcheck="false" type="email"/></div> <div class="preview-submit-button" data-v-2a9e94f9=""><button data-v-2a9e94f9="" style="font-family: Montserrat; font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(49, 142, 234);" type="submit">Subscribe</button></div></div></form></div></div>
+<div class="widget popular-posts" id="wpp-2">
+<div class="widget-title"><h2>Popular Posts this Week</h2></div>
+<ul class="wpp-list wpp-list-with-thumbnails">
+<li>
+<a href="https://humansbefree.com/2022/10/declassified-document-reveals-the-us-government-discovered-an-ancient-martian-race.html" target="_self"><img alt="mars city" class="wpp-thumbnail wpp_featured attachment-thumbnail size-thumbnail wp-post-image" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://humansbefree.com/wp-content/uploads/2022/10/Mars-city-e1665250614486-150x150.jpg" srcset="https://humansbefree.com/wp-content/uploads/2022/10/Mars-city-e1665250614486-150x150.jpg 150w, https://humansbefree.com/wp-content/uploads/2022/10/Mars-city-e1665250614486-64x64.jpg 64w, https://humansbefree.com/wp-content/uploads/2022/10/Mars-city-e1665250614486-120x120.jpg 120w" width="150"/></a>
+<a class="wpp-post-title" href="https://humansbefree.com/2022/10/declassified-document-reveals-the-us-government-discovered-an-ancient-martian-race.html" target="_self">Declassified Document Reveals the US Government Discovered an Ancient Martian Race</a>
+<span class="wpp-excerpt">Throughout the decades, America’s infamous Central Inte...</span>
+</li>
+<li>
+<a href="https://humansbefree.com/2022/09/the-eulogy-of-queen-elizabeth-ii-that-you-wont-see-on-your-tv.html" target="_self"><img alt="the eulogy of queen elizabeth ii that you won't see on your tv" class="wpp-thumbnail wpp_featured attachment-thumbnail size-thumbnail wp-post-image" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://humansbefree.com/wp-content/uploads/2022/09/The-Eulogy-of-Queen-Elizabeth-II-That-You-Wont-See-On-Your-TV-150x150.jpg" srcset="https://humansbefree.com/wp-content/uploads/2022/09/The-Eulogy-of-Queen-Elizabeth-II-That-You-Wont-See-On-Your-TV-150x150.jpg 150w, https://humansbefree.com/wp-content/uploads/2022/09/The-Eulogy-of-Queen-Elizabeth-II-That-You-Wont-See-On-Your-TV-64x64.jpg 64w, https://humansbefree.com/wp-content/uploads/2022/09/The-Eulogy-of-Queen-Elizabeth-II-That-You-Wont-See-On-Your-TV-120x120.jpg 120w" width="150"/></a>
+<a class="wpp-post-title" href="https://humansbefree.com/2022/09/the-eulogy-of-queen-elizabeth-ii-that-you-wont-see-on-your-tv.html" target="_self">The Eulogy of Queen Elizabeth II That You Won’t See On Your TV</a>
+<span class="wpp-excerpt">Turn on a TV, open a web browser, or scroll social medi...</span>
+</li>
+<li>
+<a href="https://humansbefree.com/2022/09/fauci-paid-453k-to-make-primates-transgender.html" target="_self"><img alt="fauci paid $453k to make primates transgender" class="wpp-thumbnail wpp_featured attachment-thumbnail size-thumbnail wp-post-image" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://humansbefree.com/wp-content/uploads/2022/09/Fauci-Paid-453K-to-Make-Primates-Transgender-e1664561340284-150x150.jpeg" srcset="https://humansbefree.com/wp-content/uploads/2022/09/Fauci-Paid-453K-to-Make-Primates-Transgender-e1664561340284-150x150.jpeg 150w, https://humansbefree.com/wp-content/uploads/2022/09/Fauci-Paid-453K-to-Make-Primates-Transgender-e1664561340284-64x64.jpeg 64w, https://humansbefree.com/wp-content/uploads/2022/09/Fauci-Paid-453K-to-Make-Primates-Transgender-e1664561340284-120x120.jpeg 120w" width="150"/></a>
+<a class="wpp-post-title" href="https://humansbefree.com/2022/09/fauci-paid-453k-to-make-primates-transgender.html" target="_self">Fauci Paid $453K to Make Primates Transgender</a>
+<span class="wpp-excerpt">Anthony Fauci recently announced he would be stepping d...</span>
+</li>
+<li>
+<a href="https://humansbefree.com/2022/09/greenpeace-founder-patrick-moore-says-climate-change-based-on-false-narratives.html" target="_self"><img alt="greenpeace founder patrick moore says climate change based on false narratives" class="wpp-thumbnail wpp_featured attachment-thumbnail size-thumbnail wp-post-image" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://humansbefree.com/wp-content/uploads/2022/09/Greenpeace-Founder-Patrick-Moore-Says-Climate-Change-Based-On-False-Narratives-e1663011305730-150x150.jpg" srcset="https://humansbefree.com/wp-content/uploads/2022/09/Greenpeace-Founder-Patrick-Moore-Says-Climate-Change-Based-On-False-Narratives-e1663011305730-150x150.jpg 150w, https://humansbefree.com/wp-content/uploads/2022/09/Greenpeace-Founder-Patrick-Moore-Says-Climate-Change-Based-On-False-Narratives-e1663011305730-64x64.jpg 64w, https://humansbefree.com/wp-content/uploads/2022/09/Greenpeace-Founder-Patrick-Moore-Says-Climate-Change-Based-On-False-Narratives-e1663011305730-120x120.jpg 120w" width="150"/></a>
+<a class="wpp-post-title" href="https://humansbefree.com/2022/09/greenpeace-founder-patrick-moore-says-climate-change-based-on-false-narratives.html" target="_self">Greenpeace Founder Patrick Moore Says Climate Change Based On False Narratives</a>
+<span class="wpp-excerpt">A series of email exchanges between Greenpeace Founder...</span>
+</li>
+<li>
+<a href="https://humansbefree.com/2022/07/world-economic-forum-reveals-plan-to-block-out-the-sun-with-space-bubbles.html" target="_self"><img alt="world economic forum reveals plan to block out the sun with ‘space bubbles’" class="wpp-thumbnail wpp_featured attachment-thumbnail size-thumbnail wp-post-image" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://humansbefree.com/wp-content/uploads/2022/07/World-Economic-Forum-Reveals-Plan-to-Block-Out-the-Sun-With-‘Space-Bubbles-e1658863256498-150x150.jpg" srcset="https://humansbefree.com/wp-content/uploads/2022/07/World-Economic-Forum-Reveals-Plan-to-Block-Out-the-Sun-With-‘Space-Bubbles-e1658863256498-150x150.jpg 150w, https://humansbefree.com/wp-content/uploads/2022/07/World-Economic-Forum-Reveals-Plan-to-Block-Out-the-Sun-With-‘Space-Bubbles-e1658863256498-64x64.jpg 64w, https://humansbefree.com/wp-content/uploads/2022/07/World-Economic-Forum-Reveals-Plan-to-Block-Out-the-Sun-With-‘Space-Bubbles-e1658863256498-120x120.jpg 120w" width="150"/></a>
+<a class="wpp-post-title" href="https://humansbefree.com/2022/07/world-economic-forum-reveals-plan-to-block-out-the-sun-with-space-bubbles.html" target="_self">World Economic Forum Reveals Plan to Block Out the Sun With ‘Space Bubbles’</a>
+<span class="wpp-excerpt">In June of 2019, the World Economic Forum — a private g...</span>
+</li>
+<li>
+<a href="https://humansbefree.com/2022/09/george-soros-chief-mission-is-the-downfall-of-america.html" target="_self"><img alt="george soros chief mission is the downfall of america" class="wpp-thumbnail wpp_featured attachment-thumbnail size-thumbnail wp-post-image" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://humansbefree.com/wp-content/uploads/2022/09/George-Soros-Chief-Mission-Is-The-Downfall-Of-America-e1664089727955-150x150.jpg" srcset="https://humansbefree.com/wp-content/uploads/2022/09/George-Soros-Chief-Mission-Is-The-Downfall-Of-America-e1664089727955-150x150.jpg 150w, https://humansbefree.com/wp-content/uploads/2022/09/George-Soros-Chief-Mission-Is-The-Downfall-Of-America-e1664089727955-64x64.jpg 64w, https://humansbefree.com/wp-content/uploads/2022/09/George-Soros-Chief-Mission-Is-The-Downfall-Of-America-e1664089727955-120x120.jpg 120w" width="150"/></a>
+<a class="wpp-post-title" href="https://humansbefree.com/2022/09/george-soros-chief-mission-is-the-downfall-of-america.html" target="_self">George Soros’ Chief Mission is the Downfall of America</a>
+<span class="wpp-excerpt">Billionaire George Soros is that rare megalomaniac who...</span>
+</li>
+<li>
+<a href="https://humansbefree.com/2022/07/the-war-of-inversion-an-all-out-assault-against-humanity.html" target="_self"><img alt="the war of inversion an all out assault against humanity" class="wpp-thumbnail wpp_featured attachment-thumbnail size-thumbnail wp-post-image" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://humansbefree.com/wp-content/uploads/2022/07/The-War-of-Inversion-An-All-Out-Assault-Against-Humanity-150x150.jpg" srcset="https://humansbefree.com/wp-content/uploads/2022/07/The-War-of-Inversion-An-All-Out-Assault-Against-Humanity-150x150.jpg 150w, https://humansbefree.com/wp-content/uploads/2022/07/The-War-of-Inversion-An-All-Out-Assault-Against-Humanity-64x64.jpg 64w, https://humansbefree.com/wp-content/uploads/2022/07/The-War-of-Inversion-An-All-Out-Assault-Against-Humanity-120x120.jpg 120w" width="150"/></a>
+<a class="wpp-post-title" href="https://humansbefree.com/2022/07/the-war-of-inversion-an-all-out-assault-against-humanity.html" target="_self">The War of Inversion: An All-Out Assault Against Humanity</a>
+<span class="wpp-excerpt">by Jesse Smith There’s a war going on that no one is sa...</span>
+</li>
+<li>
+<a href="https://humansbefree.com/2022/08/world-economic-forum-there-are-rational-reasons-to-microchip-your-child.html" target="_self"><img alt="world economic forum there are 'rational' reasons to microchip your child" class="wpp-thumbnail wpp_featured attachment-thumbnail size-thumbnail wp-post-image" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://humansbefree.com/wp-content/uploads/2022/08/World-Economic-Forum-There-Are-Rational-Reasons-to-Microchip-Your-Child-e1661025718473-150x150.jpg" srcset="https://humansbefree.com/wp-content/uploads/2022/08/World-Economic-Forum-There-Are-Rational-Reasons-to-Microchip-Your-Child-e1661025718473-150x150.jpg 150w, https://humansbefree.com/wp-content/uploads/2022/08/World-Economic-Forum-There-Are-Rational-Reasons-to-Microchip-Your-Child-e1661025718473-64x64.jpg 64w, https://humansbefree.com/wp-content/uploads/2022/08/World-Economic-Forum-There-Are-Rational-Reasons-to-Microchip-Your-Child-e1661025718473-120x120.jpg 120w" width="150"/></a>
+<a class="wpp-post-title" href="https://humansbefree.com/2022/08/world-economic-forum-there-are-rational-reasons-to-microchip-your-child.html" target="_self">World Economic Forum: There Are ‘Rational’ Reasons to Microchip Your Child</a>
+<span class="wpp-excerpt">WEF suggests there are ways to "ethically make these am...</span>
+</li>
+<li>
+<a href="https://humansbefree.com/2022/09/ca-school-district-textbook-claims-there-are-eight-genders.html" target="_self"><img alt="ca school district textbook claims there are eight genders" class="wpp-thumbnail wpp_featured attachment-thumbnail size-thumbnail wp-post-image" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://humansbefree.com/wp-content/uploads/2022/09/CA-School-District-Textbook-Claims-There-Are-EIGHT-Genders-150x150.jpg" srcset="https://humansbefree.com/wp-content/uploads/2022/09/CA-School-District-Textbook-Claims-There-Are-EIGHT-Genders-150x150.jpg 150w, https://humansbefree.com/wp-content/uploads/2022/09/CA-School-District-Textbook-Claims-There-Are-EIGHT-Genders-64x64.jpg 64w, https://humansbefree.com/wp-content/uploads/2022/09/CA-School-District-Textbook-Claims-There-Are-EIGHT-Genders-120x120.jpg 120w" width="150"/></a>
+<a class="wpp-post-title" href="https://humansbefree.com/2022/09/ca-school-district-textbook-claims-there-are-eight-genders.html" target="_self">CA School District Textbook Claims There Are EIGHT Genders</a>
+<span class="wpp-excerpt">Schools in California are teaching children that there...</span>
+</li>
+<li>
+<a href="https://humansbefree.com/2022/09/why-are-leftists-obsessed-with-destroying-hero-culture.html" target="_self"><img alt="why are leftists obsessed with destroying hero culture?" class="wpp-thumbnail wpp_featured attachment-thumbnail size-thumbnail wp-post-image" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://humansbefree.com/wp-content/uploads/2022/09/Why-Are-Leftists-Obsessed-With-Destroying-Hero-Culture-e1662744940538-150x150.jpg" srcset="https://humansbefree.com/wp-content/uploads/2022/09/Why-Are-Leftists-Obsessed-With-Destroying-Hero-Culture-e1662744940538-150x150.jpg 150w, https://humansbefree.com/wp-content/uploads/2022/09/Why-Are-Leftists-Obsessed-With-Destroying-Hero-Culture-e1662744940538-64x64.jpg 64w, https://humansbefree.com/wp-content/uploads/2022/09/Why-Are-Leftists-Obsessed-With-Destroying-Hero-Culture-e1662744940538-120x120.jpg 120w" width="150"/></a>
+<a class="wpp-post-title" href="https://humansbefree.com/2022/09/why-are-leftists-obsessed-with-destroying-hero-culture.html" target="_self">Why Are Leftists Obsessed With Destroying Hero Culture?</a>
+<span class="wpp-excerpt">In the movie ‘Batman: The Dark Knight’ the well regarde...</span>
+</li>
+</ul>
+</div>
+<div class="widget widget_block" id="block-2"><div class="human-eabdb5760e1db4ce103331f95a3ad549" id="human-eabdb5760e1db4ce103331f95a3ad549"></div></div><div class="widget_text widget widget_custom_html" id="custom_html-8"><div class="textwidget custom-html-widget"><style>
+      @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700');
+      .form-preview {
+      display: block;
+      margin-top: 30px;
+      padding: 40px 50px 40px 50px;
+      max-width: 350px;
+      min-height: 200px;
+      border-radius: 6px;
+      box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25);
+      }
+      .form-preview .preview-heading {
+      width: 100%;
+      }
+      .form-preview .preview-input-field {
+      margin-top: 20px;
+      width: 100%;
+      }
+      .form-preview .preview-input-field input {
+      width: 100%;
+      height: 40px;
+      border-radius: 6px;
+      border: 2px solid #e9e8e8;
+      background-color: #fff;
+      outline: none;
+      }
+      .form-preview .preview-input-field input::placeholder, .form-preview .preview-input-field input {
+      opacity: 0.5;
+      color: #000;
+      font-family: "Montserrat";
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 20px;
+      text-align: center;
+      }
+      .form-preview .preview-submit-button {
+      margin-top: 10px;
+      width: 100%;
+      }
+      .form-preview .preview-submit-button button {
+      width: 100%;
+      height: 40px;
+      border: 0;
+      border-radius: 6px;
+      line-height: 0px;
+      }
+      .form-preview .preview-submit-button button:hover {
+      cursor: pointer;
+      }
+
+      </style><form action="https://api.follow.it/subscription-form/TTgzN3NOYkVLRitDUm9ZaEFUenIyc2JCRjFkUXN3dWlqcnpPSXliOVR4aGVqVzA4L05zYVJnM3ZFK1huNkphOVVwYU11VWJBR09Cek5GMXZDOWF6TlJOSVhWUzJTcWFkc1lla0tZcTQvR3ZocUNNNGpoc1p4NlVjZnZTVXNuYTZ8ZWhNWXVGM215MG1Yakd0eVIxbkV3dGR2L3pZS0tWeVRKamNwU3l6Wmh2bz0=/8" data-v-2a9e94f9="" method="post"><div class="form-preview" data-v-2a9e94f9="" style="background-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; border-color: rgb(204, 204, 204); position: relative;"><div class="preview-heading" data-v-2a9e94f9=""><h5 data-v-2a9e94f9="" style="font-family: Montserrat; font-weight: bold; color: rgb(49, 142, 234); font-size: 21px; text-align: center;">Get new posts by email:</h5></div> <div class="preview-input-field" data-v-2a9e94f9=""><input data-v-2a9e94f9="" name="email" placeholder="Enter your email" spellcheck="false" type="email"/></div> <div class="preview-submit-button" data-v-2a9e94f9=""><button data-v-2a9e94f9="" style="font-family: Montserrat; font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(49, 142, 234);" type="submit">Subscribe</button></div></div></form></div></div><div class="widget_text widget widget_custom_html" id="custom_html-6"><div class="textwidget custom-html-widget"><center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input name="cmd" type="hidden" value="_s-xclick">
+<input name="hosted_button_id" type="hidden" value="YQD5D5BWZR2ML">
+<input alt="Donate with PayPal button" border="0" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" title="PayPal - The safer, easier way to pay online!" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1"/>
+</input></input></form>
+<a href="https://humansarefree.com/donate-with-cryptocurrency">Or donate using cryptocurrency</a></center></div></div><div class="widget_text widget widget_custom_html" id="custom_html-3"><div class="textwidget custom-html-widget"><center>
+<div class="bsarocks bsap_64855e106b31c040526969c54c1e7c46" id="bsap_1295396"></div>
+</center></div></div><div class="widget widget_categories" id="categories-2"><div class="widget-title"><h2>Categories</h2></div>
+<ul>
+<li class="cat-item cat-item-31"><a href="https://humansbefree.com/category/5g-dangers">5G Dangers</a>
+</li>
+<li class="cat-item cat-item-163"><a href="https://humansbefree.com/category/about-me">About me</a>
+</li>
+<li class="cat-item cat-item-52"><a href="https://humansbefree.com/category/agenda-2030">Agenda 2030</a>
+</li>
+<li class="cat-item cat-item-60"><a href="https://humansbefree.com/category/alzheimers">Alzheimer's</a>
+</li>
+<li class="cat-item cat-item-79"><a href="https://humansbefree.com/category/archons">Archons</a>
+</li>
+<li class="cat-item cat-item-158"><a href="https://humansbefree.com/category/art-in-german">Art. in German</a>
+</li>
+<li class="cat-item cat-item-232"><a href="https://humansbefree.com/category/artificial-intelligence-a-i">Artificial Intelligence (A.I.</a>
+</li>
+<li class="cat-item cat-item-106"><a href="https://humansbefree.com/category/ayahuasca">Ayahuasca</a>
+</li>
+<li class="cat-item cat-item-17"><a href="https://humansbefree.com/category/big-brother">Big Brother</a>
+</li>
+<li class="cat-item cat-item-63"><a href="https://humansbefree.com/category/big-pharma">Big Pharma</a>
+</li>
+<li class="cat-item cat-item-227"><a href="https://humansbefree.com/category/big-tech">Big Tech</a>
+</li>
+<li class="cat-item cat-item-108"><a href="https://humansbefree.com/category/bilderberg">Bilderberg</a>
+</li>
+<li class="cat-item cat-item-61"><a href="https://humansbefree.com/category/bill-gates">Billy Boy</a>
+</li>
+<li class="cat-item cat-item-144"><a href="https://humansbefree.com/category/black-knight">Black Knight</a>
+</li>
+<li class="cat-item cat-item-249"><a href="https://humansbefree.com/category/brainwashing">Brainwashing</a>
+</li>
+<li class="cat-item cat-item-67"><a href="https://humansbefree.com/category/brexit">Brexit</a>
+</li>
+<li class="cat-item cat-item-154"><a href="https://humansbefree.com/category/caeli-francisco">Caeli Francisco</a>
+</li>
+<li class="cat-item cat-item-26"><a href="https://humansbefree.com/category/cancer">Cancer</a>
+</li>
+<li class="cat-item cat-item-235"><a href="https://humansbefree.com/category/cashless-agenda">Cashless Agenda</a>
+</li>
+<li class="cat-item cat-item-12"><a href="https://humansbefree.com/category/censorship">Censorship</a>
+</li>
+<li class="cat-item cat-item-38"><a href="https://humansbefree.com/category/chemtrails">Chemtrails</a>
+</li>
+<li class="cat-item cat-item-70"><a href="https://humansbefree.com/category/child-trafficking">Child Trafficking</a>
+</li>
+<li class="cat-item cat-item-20"><a href="https://humansbefree.com/category/clinton">Clinton</a>
+</li>
+<li class="cat-item cat-item-39"><a href="https://humansbefree.com/category/cold-war-2">Cold War 2</a>
+</li>
+<li class="cat-item cat-item-250"><a href="https://humansbefree.com/category/communism">Communism</a>
+</li>
+<li class="cat-item cat-item-53"><a href="https://humansbefree.com/category/consciousness">Consciousness</a>
+</li>
+<li class="cat-item cat-item-5"><a href="https://humansbefree.com/category/conspiracy">Conspiracy</a>
+</li>
+<li class="cat-item cat-item-237"><a href="https://humansbefree.com/category/contact-tracing">Contact Tracing</a>
+</li>
+<li class="cat-item cat-item-11"><a href="https://humansbefree.com/category/control">Control</a>
+</li>
+<li class="cat-item cat-item-214"><a href="https://humansbefree.com/category/coronavirus">Coronavirus</a>
+</li>
+<li class="cat-item cat-item-73"><a href="https://humansbefree.com/category/cosmos">Cosmos</a>
+</li>
+<li class="cat-item cat-item-123"><a href="https://humansbefree.com/category/crisis-actors">Crisis Actors</a>
+</li>
+<li class="cat-item cat-item-114"><a href="https://humansbefree.com/category/crop-circles">Crop Circles</a>
+</li>
+<li class="cat-item cat-item-241"><a href="https://humansbefree.com/category/crypto-news">Crypto News</a>
+</li>
+<li class="cat-item cat-item-157"><a href="https://humansbefree.com/category/crystal-skulls">Crystal Skulls</a>
+</li>
+<li class="cat-item cat-item-247"><a href="https://humansbefree.com/category/cyber-polygon">Cyber Polygon</a>
+</li>
+<li class="cat-item cat-item-248"><a href="https://humansbefree.com/category/cyberattacks">Cyberattacks</a>
+</li>
+<li class="cat-item cat-item-84"><a href="https://humansbefree.com/category/deep-state">Deep State</a>
+</li>
+<li class="cat-item cat-item-149"><a href="https://humansbefree.com/category/dejan-davchevski">Dejan Davchevski</a>
+</li>
+<li class="cat-item cat-item-101"><a href="https://humansbefree.com/category/demonic-possession">Demonic Possession</a>
+</li>
+<li class="cat-item cat-item-22"><a href="https://humansbefree.com/category/depopulation">Depopulation</a>
+</li>
+<li class="cat-item cat-item-29"><a href="https://humansbefree.com/category/detox">Detox</a>
+</li>
+<li class="cat-item cat-item-128"><a href="https://humansbefree.com/category/diabetes">Diabetes</a>
+</li>
+<li class="cat-item cat-item-254"><a href="https://humansbefree.com/category/digital-id">Digital ID</a>
+</li>
+<li class="cat-item cat-item-239"><a href="https://humansbefree.com/category/directed-energy-weapons">Directed Energy Weapons</a>
+</li>
+<li class="cat-item cat-item-126"><a href="https://humansbefree.com/category/disney">Disney</a>
+</li>
+<li class="cat-item cat-item-44"><a href="https://humansbefree.com/category/documentaries">Documentaries</a>
+</li>
+<li class="cat-item cat-item-217"><a href="https://humansbefree.com/category/drag-queen-story-time">Drag Queen Story Time</a>
+</li>
+<li class="cat-item cat-item-133"><a href="https://humansbefree.com/category/dupont">DuPont</a>
+</li>
+<li class="cat-item cat-item-148"><a href="https://humansbefree.com/category/ebola">Ebola</a>
+</li>
+<li class="cat-item cat-item-64"><a href="https://humansbefree.com/category/education">Education</a>
+</li>
+<li class="cat-item cat-item-115"><a href="https://humansbefree.com/category/emp-dangers">EMP Dangers</a>
+</li>
+<li class="cat-item cat-item-109"><a href="https://humansbefree.com/category/empaths">Empaths</a>
+</li>
+<li class="cat-item cat-item-23"><a href="https://humansbefree.com/category/ets-ufos">ETs UFOs</a>
+</li>
+<li class="cat-item cat-item-85"><a href="https://humansbefree.com/category/evil-corporations">Evil Corporations</a>
+</li>
+<li class="cat-item cat-item-229"><a href="https://humansbefree.com/category/fake-news">Fake News</a>
+</li>
+<li class="cat-item cat-item-65"><a href="https://humansbefree.com/category/false-flags">False Flags</a>
+</li>
+<li class="cat-item cat-item-120"><a href="https://humansbefree.com/category/fasting">Fasting</a>
+</li>
+<li class="cat-item cat-item-220"><a href="https://humansbefree.com/category/federal-reserve">Federal Reserve</a>
+</li>
+<li class="cat-item cat-item-139"><a href="https://humansbefree.com/category/fema">FEMA</a>
+</li>
+<li class="cat-item cat-item-59"><a href="https://humansbefree.com/category/feminism">Feminism</a>
+</li>
+<li class="cat-item cat-item-15"><a href="https://humansbefree.com/category/finance">Finance</a>
+</li>
+<li class="cat-item cat-item-25"><a href="https://humansbefree.com/category/fluoride">Fluoride</a>
+</li>
+<li class="cat-item cat-item-50"><a href="https://humansbefree.com/category/forbidden-history">Forbidden History</a>
+</li>
+<li class="cat-item cat-item-47"><a href="https://humansbefree.com/category/free-energy">Free Energy</a>
+</li>
+<li class="cat-item cat-item-43"><a href="https://humansbefree.com/category/free-speech">Free Speech</a>
+</li>
+<li class="cat-item cat-item-153"><a href="https://humansbefree.com/category/free-spirit">Free Spirit</a>
+</li>
+<li class="cat-item cat-item-87"><a href="https://humansbefree.com/category/freemasonry">Freemasonry</a>
+</li>
+<li class="cat-item cat-item-69"><a href="https://humansbefree.com/category/fukushima">Fukushima</a>
+</li>
+<li class="cat-item cat-item-80"><a href="https://humansbefree.com/category/geoengineering">Geoengineering</a>
+</li>
+<li class="cat-item cat-item-35"><a href="https://humansbefree.com/category/george-soros">George Soros</a>
+</li>
+<li class="cat-item cat-item-113"><a href="https://humansbefree.com/category/giants">Giants</a>
+</li>
+<li class="cat-item cat-item-10"><a href="https://humansbefree.com/category/global-warming-hoax">Global Warming Hoax</a>
+</li>
+<li class="cat-item cat-item-32"><a href="https://humansbefree.com/category/gmo">GMO</a>
+</li>
+<li class="cat-item cat-item-252"><a href="https://humansbefree.com/category/great-awakening">Great Awakening</a>
+</li>
+<li class="cat-item cat-item-231"><a href="https://humansbefree.com/category/great-reset">Great Reset</a>
+</li>
+<li class="cat-item cat-item-234"><a href="https://humansbefree.com/category/green-new-deal">Green New Deal</a>
+</li>
+<li class="cat-item cat-item-121"><a href="https://humansbefree.com/category/grounding">Grounding</a>
+</li>
+<li class="cat-item cat-item-146"><a href="https://humansbefree.com/category/guest-writers">Guest Writers</a>
+</li>
+<li class="cat-item cat-item-82"><a href="https://humansbefree.com/category/haarp">HAARP</a>
+</li>
+<li class="cat-item cat-item-13"><a href="https://humansbefree.com/category/healthcare">Healthcare</a>
+</li>
+<li class="cat-item cat-item-72"><a href="https://humansbefree.com/category/hemp">Hemp</a>
+</li>
+<li class="cat-item cat-item-89"><a href="https://humansbefree.com/category/henry-kissinger">Henry Kissinger</a>
+</li>
+<li class="cat-item cat-item-92"><a href="https://humansbefree.com/category/hollow-earth">Hollow Earth</a>
+</li>
+<li class="cat-item cat-item-226"><a href="https://humansbefree.com/category/id2020">ID2020</a>
+</li>
+<li class="cat-item cat-item-40"><a href="https://humansbefree.com/category/illuminati">Illuminati</a>
+</li>
+<li class="cat-item cat-item-225"><a href="https://humansbefree.com/category/immunity-passports">Immunity Passports</a>
+</li>
+<li class="cat-item cat-item-21"><a href="https://humansbefree.com/category/inspiration">Inspiration</a>
+</li>
+<li class="cat-item cat-item-78"><a href="https://humansbefree.com/category/inspirational-public-figures">Inspirational Public Figures</a>
+</li>
+<li class="cat-item cat-item-94"><a href="https://humansbefree.com/category/internet-of-things">Internet of Things</a>
+</li>
+<li class="cat-item cat-item-230"><a href="https://humansbefree.com/category/jeffrey-epstein">Jeffrey Epstein</a>
+</li>
+<li class="cat-item cat-item-71"><a href="https://humansbefree.com/category/jfk">JFK</a>
+</li>
+<li class="cat-item cat-item-134"><a href="https://humansbefree.com/category/julian-websdale">Julian Websdale</a>
+</li>
+<li class="cat-item cat-item-77"><a href="https://humansbefree.com/category/julie-alexander">Julie Alexander</a>
+</li>
+<li class="cat-item cat-item-151"><a href="https://humansbefree.com/category/khali-carol">Khali Carol</a>
+</li>
+<li class="cat-item cat-item-152"><a href="https://humansbefree.com/category/laura-jane">Laura Jane</a>
+</li>
+<li class="cat-item cat-item-161"><a href="https://humansbefree.com/category/lisa-morris">Lisa Morris</a>
+</li>
+<li class="cat-item cat-item-107"><a href="https://humansbefree.com/category/lucy-alvet">Lucy Alvet</a>
+</li>
+<li class="cat-item cat-item-138"><a href="https://humansbefree.com/category/makia-freeman">Makia Freeman</a>
+</li>
+<li class="cat-item cat-item-102"><a href="https://humansbefree.com/category/mandela-effect">Mandela Effect</a>
+</li>
+<li class="cat-item cat-item-141"><a href="https://humansbefree.com/category/mari-a-raphael">Mari A. Raphael</a>
+</li>
+<li class="cat-item cat-item-125"><a href="https://humansbefree.com/category/mark-nestmann">Mark Nestmann</a>
+</li>
+<li class="cat-item cat-item-253"><a href="https://humansbefree.com/category/mass-formation-psychosis">Mass Formation Psychosis</a>
+</li>
+<li class="cat-item cat-item-48"><a href="https://humansbefree.com/category/medical-kidnapping">Medical Kidnapping</a>
+</li>
+<li class="cat-item cat-item-116"><a href="https://humansbefree.com/category/meditation">Meditation</a>
+</li>
+<li class="cat-item cat-item-142"><a href="https://humansbefree.com/category/michael-martin">Michael Martin</a>
+</li>
+<li class="cat-item cat-item-111"><a href="https://humansbefree.com/category/microchip-implant">Microchip Implant</a>
+</li>
+<li class="cat-item cat-item-19"><a href="https://humansbefree.com/category/migrant-crisis">Migrant Crisis</a>
+</li>
+<li class="cat-item cat-item-7"><a href="https://humansbefree.com/category/mind-control">Mind Control</a>
+</li>
+<li class="cat-item cat-item-33"><a href="https://humansbefree.com/category/monsanto">Monsanto</a>
+</li>
+<li class="cat-item cat-item-9"><a href="https://humansbefree.com/category/msm">MSM</a>
+</li>
+<li class="cat-item cat-item-51"><a href="https://humansbefree.com/category/mysteries">Mysteries</a>
+</li>
+<li class="cat-item cat-item-4"><a href="https://humansbefree.com/category/news">News</a>
+</li>
+<li class="cat-item cat-item-99"><a href="https://humansbefree.com/category/nikola-tesla">Nikola Tesla</a>
+</li>
+<li class="cat-item cat-item-37"><a href="https://humansbefree.com/category/nuclear-hazard">Nuclear Hazard</a>
+</li>
+<li class="cat-item cat-item-46"><a href="https://humansbefree.com/category/nwo">NWO</a>
+</li>
+<li class="cat-item cat-item-41"><a href="https://humansbefree.com/category/occult-knowledge">Occult Knowledge</a>
+</li>
+<li class="cat-item cat-item-140"><a href="https://humansbefree.com/category/oopart">OOPArt</a>
+</li>
+<li class="cat-item cat-item-209"><a href="https://humansbefree.com/category/orwellian-wrongthink">Orwellian Wrongthink</a>
+</li>
+<li class="cat-item cat-item-110"><a href="https://humansbefree.com/category/papal-bloodlines">Papal Bloodlines</a>
+</li>
+<li class="cat-item cat-item-95"><a href="https://humansbefree.com/category/phd-anonymous">PhD Anonymous</a>
+</li>
+<li class="cat-item cat-item-145"><a href="https://humansbefree.com/category/pienaar-arno">Pienaar Arno</a>
+</li>
+<li class="cat-item cat-item-118"><a href="https://humansbefree.com/category/pineal-gland">Pineal Gland</a>
+</li>
+<li class="cat-item cat-item-117"><a href="https://humansbefree.com/category/planet-x">Planet X</a>
+</li>
+<li class="cat-item cat-item-68"><a href="https://humansbefree.com/category/planned-parenthood">Planned Parenthood</a>
+</li>
+<li class="cat-item cat-item-90"><a href="https://humansbefree.com/category/pole-shift">Pole Shift</a>
+</li>
+<li class="cat-item cat-item-16"><a href="https://humansbefree.com/category/police-state">Police State</a>
+</li>
+<li class="cat-item cat-item-81"><a href="https://humansbefree.com/category/political-correctness">Political Correctness</a>
+</li>
+<li class="cat-item cat-item-66"><a href="https://humansbefree.com/category/pollution">Pollution</a>
+</li>
+<li class="cat-item cat-item-216"><a href="https://humansbefree.com/category/pornification-sexualization">Pornification &amp; Sexualization</a>
+</li>
+<li class="cat-item cat-item-112"><a href="https://humansbefree.com/category/preppers">Preppers</a>
+</li>
+<li class="cat-item cat-item-6"><a href="https://humansbefree.com/category/project-mkultra">Project MKUltra</a>
+</li>
+<li class="cat-item cat-item-42"><a href="https://humansbefree.com/category/propaganda">Propaganda</a>
+</li>
+<li class="cat-item cat-item-97"><a href="https://humansbefree.com/category/pyramids">Pyramids</a>
+</li>
+<li class="cat-item cat-item-165"><a href="https://humansbefree.com/category/q-and-a">Q and A</a>
+</li>
+<li class="cat-item cat-item-86"><a href="https://humansbefree.com/category/quotes">Quotes</a>
+</li>
+<li class="cat-item cat-item-228"><a href="https://humansbefree.com/category/racism">Racism</a>
+</li>
+<li class="cat-item cat-item-3"><a href="https://humansbefree.com/category/recent-articles">Recent Articles</a>
+</li>
+<li class="cat-item cat-item-105"><a href="https://humansbefree.com/category/reincarnation">Reincarnation</a>
+</li>
+<li class="cat-item cat-item-18"><a href="https://humansbefree.com/category/religion">Religion</a>
+</li>
+<li class="cat-item cat-item-129"><a href="https://humansbefree.com/category/rene-descartes">Rene’ Descartes</a>
+</li>
+<li class="cat-item cat-item-211"><a href="https://humansbefree.com/category/richard-hoyle">Richard Hoyle</a>
+</li>
+<li class="cat-item cat-item-56"><a href="https://humansbefree.com/category/rockefeller">Rockefeller</a>
+</li>
+<li class="cat-item cat-item-57"><a href="https://humansbefree.com/category/rothschild">Rothschild</a>
+</li>
+<li class="cat-item cat-item-156"><a href="https://humansbefree.com/category/sacred-geometry">Sacred Geometry</a>
+</li>
+<li class="cat-item cat-item-130"><a href="https://humansbefree.com/category/sacred-water">Sacred Water</a>
+</li>
+<li class="cat-item cat-item-34"><a href="https://humansbefree.com/category/satanism">Satanism</a>
+</li>
+<li class="cat-item cat-item-8"><a href="https://humansbefree.com/category/satanist-pedophiles">Satanist Pedophiles</a>
+</li>
+<li class="cat-item cat-item-30"><a href="https://humansbefree.com/category/science">Science</a>
+</li>
+<li class="cat-item cat-item-74"><a href="https://humansbefree.com/category/secret-societies">Secret Societies</a>
+</li>
+<li class="cat-item cat-item-24"><a href="https://humansbefree.com/category/secret-space-program">Secret Space Program</a>
+</li>
+<li class="cat-item cat-item-218"><a href="https://humansbefree.com/category/sexualizing-children">Sexualizing children</a>
+</li>
+<li class="cat-item cat-item-49"><a href="https://humansbefree.com/category/sjw">SJW</a>
+</li>
+<li class="cat-item cat-item-219"><a href="https://humansbefree.com/category/smart-dust">Smart Dust</a>
+</li>
+<li class="cat-item cat-item-76"><a href="https://humansbefree.com/category/smart-meters">Smart Meters</a>
+</li>
+<li class="cat-item cat-item-251"><a href="https://humansbefree.com/category/social-credit-score">Social Credit Score</a>
+</li>
+<li class="cat-item cat-item-28"><a href="https://humansbefree.com/category/spirituality">Spirituality</a>
+</li>
+<li class="cat-item cat-item-162"><a href="https://humansbefree.com/category/sponsor-books">Sponsor Books</a>
+</li>
+<li class="cat-item cat-item-96"><a href="https://humansbefree.com/category/stephanie-macdonald">Stephanie MacDonald</a>
+</li>
+<li class="cat-item cat-item-150"><a href="https://humansbefree.com/category/strange-murders">Strange Murders</a>
+</li>
+<li class="cat-item cat-item-104"><a href="https://humansbefree.com/category/subscribe">Subscribe</a>
+</li>
+<li class="cat-item cat-item-83"><a href="https://humansbefree.com/category/sun-gazing">Sun-gazing</a>
+</li>
+<li class="cat-item cat-item-159"><a href="https://humansbefree.com/category/sustainable-housing">Sustainable Housing</a>
+</li>
+<li class="cat-item cat-item-100"><a href="https://humansbefree.com/category/symbolism">Symbolism</a>
+</li>
+<li class="cat-item cat-item-98"><a href="https://humansbefree.com/category/synchronicity">Synchronicity</a>
+</li>
+<li class="cat-item cat-item-242"><a href="https://humansbefree.com/category/technocracy">Technocracy</a>
+</li>
+<li class="cat-item cat-item-58"><a href="https://humansbefree.com/category/the-anunnaki">The Anunnaki</a>
+</li>
+<li class="cat-item cat-item-91"><a href="https://humansbefree.com/category/the-bush-family">The Bush Family</a>
+</li>
+<li class="cat-item cat-item-14"><a href="https://humansbefree.com/category/the-matrix">The Matrix</a>
+</li>
+<li class="cat-item cat-item-75"><a href="https://humansbefree.com/category/the-vatican">The Vatican</a>
+</li>
+<li class="cat-item cat-item-124"><a href="https://humansbefree.com/category/time-travel">Time Travel</a>
+</li>
+<li class="cat-item cat-item-2"><a href="https://humansbefree.com/category/transgender-agenda">Transgender Agenda</a>
+</li>
+<li class="cat-item cat-item-93"><a href="https://humansbefree.com/category/transhumanism">Transhumanism</a>
+</li>
+<li class="cat-item cat-item-122"><a href="https://humansbefree.com/category/trolls">TROLLS</a>
+</li>
+<li class="cat-item cat-item-244"><a href="https://humansbefree.com/category/tyranny">Tyranny</a>
+</li>
+<li class="cat-item cat-item-1"><a href="https://humansbefree.com/category/uncategorized">Uncategorized</a>
+</li>
+<li class="cat-item cat-item-245"><a href="https://humansbefree.com/category/universal-basic-income">Universal Basic Income</a>
+</li>
+<li class="cat-item cat-item-155"><a href="https://humansbefree.com/category/videos">Videos</a>
+</li>
+<li class="cat-item cat-item-135"><a href="https://humansbefree.com/category/voting-is-rigged">Voting is Rigged</a>
+</li>
+<li class="cat-item cat-item-236"><a href="https://humansbefree.com/category/w-h-o">W.H.O.</a>
+</li>
+<li class="cat-item cat-item-36"><a href="https://humansbefree.com/category/war">War</a>
+</li>
+<li class="cat-item cat-item-136"><a href="https://humansbefree.com/category/war-on-cash">War on Cash</a>
+</li>
+<li class="cat-item cat-item-243"><a href="https://humansbefree.com/category/war-on-children">War on Children</a>
+</li>
+<li class="cat-item cat-item-62"><a href="https://humansbefree.com/category/war-on-drugs">War on Drugs</a>
+</li>
+<li class="cat-item cat-item-255"><a href="https://humansbefree.com/category/war-on-food">War on Food</a>
+</li>
+<li class="cat-item cat-item-131"><a href="https://humansbefree.com/category/weather-terrorism">Weather Terrorism</a>
+</li>
+<li class="cat-item cat-item-54"><a href="https://humansbefree.com/category/wi-fi-dangers">Wi-Fi Dangers</a>
+</li>
+<li class="cat-item cat-item-147"><a href="https://humansbefree.com/category/wisdom">Wisdom</a>
+</li>
+<li class="cat-item cat-item-246"><a href="https://humansbefree.com/category/world-economic-forum">World Economic Forum</a>
+</li>
+<li class="cat-item cat-item-55"><a href="https://humansbefree.com/category/wtc-9-11">WTC (9/11</a>
+</li>
+<li class="cat-item cat-item-164"><a href="https://humansbefree.com/category/zephyr-prayers">Zephyr Prayers</a>
+</li>
+<li class="cat-item cat-item-132"><a href="https://humansbefree.com/category/zika-virus">Zika Virus</a>
+</li>
+<li class="cat-item cat-item-103"><a href="https://humansbefree.com/category/zionism">Zionism</a>
+</li>
+<li class="cat-item cat-item-119"><a href="https://humansbefree.com/category/zodiac">Zodiac</a>
+</li>
+</ul>
+</div><div class="widget_text widget widget_custom_html" id="custom_html-4"><div class="textwidget custom-html-widget"><center>
+<div class="bsarocks bsap_64855e106b31c040526969c54c1e7c46" id="bsap_1292275"></div>
+</center></div></div> </div>
+</div>
+</div>
+</div>
+<footer class="enable_footer_columns_dark" data-test="" id="footer-container">
+<div class="footer-columns">
+<div class="container">
+<div class="row">
+<div class="col-md-4">
+<div class="widget popular-posts" id="wpp-3">
+<div class="widget-title"><h2>This Month's Most Read</h2></div>
+<p class="wpp-no-data">Sorry. No data so far.</p>
+</div>
+<div class="widget_text widget widget_custom_html" id="custom_html-11"><div class="textwidget custom-html-widget"></div></div> </div>
+<div class="col-md-4">
+<div class="widget widget_acf-recent-posts-widget" id="acf-recent-posts-widget-2"><div class="widget-title"><h2>Most Recent Posts</h2></div><div class="acf-rpw-block wpp-list wpp-list-with-thumbnails acf-rpw-default">
+<ul class="acf-rpw-ul"><li class="acf-rpw-li acf-rpw-clearfix">
+<a class="acf-rpw-img" href="https://humansbefree.com/2019/11/swedish-government-grants-175000-to-fund-drag-queen-shows-for-children.html" rel="bookmark">
+<img class="acf-rpw-left acf-rpw-thumb" src="https://humansbefree.com/wp-content/uploads/2019/11/Drag-2BQueen-2Bstory-2Bhour-2BShows-75x75.jpg"/>
+</a>
+<h3 class="acf-rpw-title"><a href="https://humansbefree.com/2019/11/swedish-government-grants-175000-to-fund-drag-queen-shows-for-children.html" rel="bookmark">Swedish Government Grants $175,000 to Fund Drag Queen Shows for Children</a></h3>
+<time class="acf-rpw-time published" datetime="2019-11-11T04:00:00+00:00">4:00 AM</time>
+</li><li class="acf-rpw-li acf-rpw-clearfix">
+<a class="acf-rpw-img" href="https://humansbefree.com/2019/11/reporter-uncovers-manson-family-connections-to-cias-mk-ultra-mind-control-and-hollywood-child-trafficking.html" rel="bookmark">
+<img class="acf-rpw-left acf-rpw-thumb" src="https://humansbefree.com/wp-content/uploads/2019/11/manson-family-cia-75x75.jpg"/>
+</a>
+<h3 class="acf-rpw-title"><a href="https://humansbefree.com/2019/11/reporter-uncovers-manson-family-connections-to-cias-mk-ultra-mind-control-and-hollywood-child-trafficking.html" rel="bookmark">Reporter Uncovers Manson Family Connections to CIA’s MK Ultra Mind Control and Hollywood Child Trafficking</a></h3>
+<time class="acf-rpw-time published" datetime="2019-11-11T03:00:00+00:00">3:00 AM</time>
+</li><li class="acf-rpw-li acf-rpw-clearfix">
+<a class="acf-rpw-img" href="https://humansbefree.com/2019/11/austin-tx-pro-lgbtqp-curriculum-will-teach-third-graders-how-to-have-anal-sex-public-education-becomes-pedophilia-indoctrination.html" rel="bookmark">
+<img class="acf-rpw-left acf-rpw-thumb" src="https://humansbefree.com/wp-content/uploads/2019/11/austin-lgbt-75x75.jpg"/>
+</a>
+<h3 class="acf-rpw-title"><a href="https://humansbefree.com/2019/11/austin-tx-pro-lgbtqp-curriculum-will-teach-third-graders-how-to-have-anal-sex-public-education-becomes-pedophilia-indoctrination.html" rel="bookmark">Austin, TX: Pro-LGBTQP Curriculum Will Teach Third-graders How to Have Anal Sex (Public Education Becomes Pedophilia Indoctrination)</a></h3>
+<time class="acf-rpw-time published" datetime="2019-11-11T02:00:00+00:00">2:00 AM</time>
+</li><li class="acf-rpw-li acf-rpw-clearfix">
+<a class="acf-rpw-img" href="https://humansbefree.com/2019/11/460000-missing-children-in-the-usa-each-year-while-the-entire-dinosaur-media-protects-pedophiles.html" rel="bookmark">
+<img class="acf-rpw-left acf-rpw-thumb" src="https://humansbefree.com/wp-content/uploads/2019/11/Missing-2BChildren-2BUSA-75x75.jpg"/>
+</a>
+<h3 class="acf-rpw-title"><a href="https://humansbefree.com/2019/11/460000-missing-children-in-the-usa-each-year-while-the-entire-dinosaur-media-protects-pedophiles.html" rel="bookmark">460,000 Missing Children in the USA Each Year — While the Entire Dinosaur Media Protects Pedophiles</a></h3>
+<time class="acf-rpw-time published" datetime="2019-11-10T04:00:00+00:00">4:00 AM</time>
+</li><li class="acf-rpw-li acf-rpw-clearfix">
+<a class="acf-rpw-img" href="https://humansbefree.com/2019/11/new-book-exposes-obamas-youth-he-considered-a-gay-fling-had-cocaine-with-a-white-girl-proposed-twice-to-another-and-cheated-on-michelle-before-they-married.html" rel="bookmark">
+<img class="acf-rpw-left acf-rpw-thumb" src="https://humansbefree.com/wp-content/uploads/2019/11/Genevieve2BCook2Bwas2Ban2BAustralian-born2B22-year-old2Bwho2Bwas2BObama2527s2Bfirst2Bpost-college2Blover.2BThe2Btwo2Btook2Bdrugs2Btogether2Band2Bslept2Btogether2Bon2Btheir2Bfirst2Bdate-75x75.jpg"/>
+</a>
+<h3 class="acf-rpw-title"><a href="https://humansbefree.com/2019/11/new-book-exposes-obamas-youth-he-considered-a-gay-fling-had-cocaine-with-a-white-girl-proposed-twice-to-another-and-cheated-on-michelle-before-they-married.html" rel="bookmark">New Book Exposes Obama’s Youth: He Considered a Gay Fling, Had COCAINE With a White Girl, Proposed Twice to Another, and CHEATED on Michelle Before They Married</a></h3>
+<time class="acf-rpw-time published" datetime="2019-11-10T03:00:00+00:00">3:00 AM</time>
+</li><li class="acf-rpw-li acf-rpw-clearfix">
+<a class="acf-rpw-img" href="https://humansbefree.com/2019/11/11000-scientists-sign-paper-humans-are-bad-because-they-eat-meat-and-engage-in-transportation.html" rel="bookmark">
+<img class="acf-rpw-left acf-rpw-thumb" src="https://humansbefree.com/wp-content/uploads/2019/11/co2-2Bis-2Bnot-2Ba-2Bpollutant-75x75.jpg"/>
+</a>
+<h3 class="acf-rpw-title"><a href="https://humansbefree.com/2019/11/11000-scientists-sign-paper-humans-are-bad-because-they-eat-meat-and-engage-in-transportation.html" rel="bookmark">11,000 Scientists Sign Paper: Humans Are Bad Because They Eat Meat and Engage in Transportation</a></h3>
+<time class="acf-rpw-time published" datetime="2019-11-10T02:00:00+00:00">2:00 AM</time>
+</li><li class="acf-rpw-li acf-rpw-clearfix">
+<a class="acf-rpw-img" href="https://humansbefree.com/2019/11/saying-its-okay-to-be-white-is-now-considered-a-hate-crime-in-america.html" rel="bookmark">
+<img class="acf-rpw-left acf-rpw-thumb" src="https://humansbefree.com/wp-content/uploads/2019/11/censored-75x75.jpg"/>
+</a>
+<h3 class="acf-rpw-title"><a href="https://humansbefree.com/2019/11/saying-its-okay-to-be-white-is-now-considered-a-hate-crime-in-america.html" rel="bookmark">Saying “It’s Okay to be White” is Now Considered a HATE CRIME in America</a></h3>
+<time class="acf-rpw-time published" datetime="2019-11-09T04:00:00+00:00">4:00 AM</time>
+</li><li class="acf-rpw-li acf-rpw-clearfix">
+<a class="acf-rpw-img" href="https://humansbefree.com/2019/11/when-alt-media-was-exposing-epstein-abc-msm-was-covering-it-up-whos-the-real-fake-news.html" rel="bookmark">
+<img class="acf-rpw-left acf-rpw-thumb" src="https://humansbefree.com/wp-content/uploads/2019/11/epstein-child-1050x525-75x75.jpg"/>
+</a>
+<h3 class="acf-rpw-title"><a href="https://humansbefree.com/2019/11/when-alt-media-was-exposing-epstein-abc-msm-was-covering-it-up-whos-the-real-fake-news.html" rel="bookmark">When Alt Media Was Exposing Epstein, ABC &amp; MSM Was Covering it Up — Who’s the Real Fake News?</a></h3>
+<time class="acf-rpw-time published" datetime="2019-11-09T03:00:00+00:00">3:00 AM</time>
+</li><li class="acf-rpw-li acf-rpw-clearfix">
+<a class="acf-rpw-img" href="https://humansbefree.com/2019/11/google-search-organic-products-are-a-lie-gmos-are-good-for-you-and-supplements-are-scams-in-latest-anti-health-search-manipulation.html" rel="bookmark">
+<img class="acf-rpw-left acf-rpw-thumb" src="https://humansbefree.com/wp-content/uploads/2019/11/Google-censorship-health-1-75x75.gif"/>
+</a>
+<h3 class="acf-rpw-title"><a href="https://humansbefree.com/2019/11/google-search-organic-products-are-a-lie-gmos-are-good-for-you-and-supplements-are-scams-in-latest-anti-health-search-manipulation.html" rel="bookmark">Google Search: Organic Products Are “A Lie”, GMOs Are “Good for You” and Supplements Are “Scams” in Latest Anti-health Search Manipulation</a></h3>
+<time class="acf-rpw-time published" datetime="2019-11-09T02:00:00+00:00">2:00 AM</time>
+</li><li class="acf-rpw-li acf-rpw-clearfix">
+<a class="acf-rpw-img" href="https://humansbefree.com/2019/11/what-you-think-is-controlled-by-what-you-watch-and-what-you-watch-is-controlled-by-the-elite.html" rel="bookmark">
+<img class="acf-rpw-left acf-rpw-thumb" src="https://humansbefree.com/wp-content/uploads/2019/11/Matrix-2BCityscape-75x75.jpg"/>
+</a>
+<h3 class="acf-rpw-title"><a href="https://humansbefree.com/2019/11/what-you-think-is-controlled-by-what-you-watch-and-what-you-watch-is-controlled-by-the-elite.html" rel="bookmark">What You Think is Controlled by What You Watch, and What You Watch is Controlled by the Elite</a></h3>
+<time class="acf-rpw-time published" datetime="2019-11-08T04:00:00+00:00">4:00 AM</time>
+</li></ul>
+</div>
+</div> </div>
+<div class="col-md-4">
+<div class="sharethis-inline-share-buttons"></div>
+<div class="widget_text widget widget_custom_html" id="custom_html-9"><div class="textwidget custom-html-widget"><br/>
+<div class="gt_newpost">
+<div class="form-overlay"></div>
+<form action="https://www.specificfeeds.com/widgets/subscribeWidget/TTgzN3NOYkVLRitDUm9ZaEFUenIyc2JCRjFkUXN3dWlqcnpPSXliOVR4aGVqVzA4L05zYVJnM3ZFK1huNkphOVVwYU11VWJBR09Cek5GMXZDOWF6TlJOSVhWUzJTcWFkc1lla0tZcTQvR3ZocUNNNGpoc1p4NlVjZnZTVXNuYTZ8ZWhNWXVGM215MG1Yakd0eVIxbkV3dGR2L3pZS0tWeVRKamNwU3l6Wmh2bz0=/8/" method="post" target="popupwindow">
+<p style="margin: 0px; color: white; font-family: Helvetica, Arial, sans-serif; font-size: 16px; text-align: center; font-weight: bold;">Subscribe for daily articles:</p>
+<input name="data[Widget][email]" placeholder="" style="margin: 15px 0 0 0; line-height: 38px; font-size: 16px; width: 100%; text-align: center;" type="text" value=""/>
+<input name="data[Widget][feed_id]" type="hidden" value="TTgzN3NOYkVLRitDUm9ZaEFUenIyc2JCRjFkUXN3dWlqcnpPSXliOVR4aGVqVzA4L05zYVJnM3ZFK1huNkphOVVwYU11VWJBR09Cek5GMXZDOWF6TlJOSVhWUzJTcWFkc1lla0tZcTQvR3ZocUNNNGpoc1p4NlVjZnZTVXNuYTZ8ZWhNWXVGM215MG1Yakd0eVIxbkV3dGR2L3pZS0tWeVRKamNwU3l6Wmh2bz0="/>
+<input name="data[Widget][feedtype]" type="hidden" value="8"/>
+<input class="sub_inp_subt" name="subscribe" style="line-height: 38px; margin: 15px 0px 0px; background-color: rgb(51, 153, 255); color: rgb(255, 255, 255); width: 100%; font-size: 25px; cursor: pointer; box-shadow: rgb(102, 102, 102) 1px 1px 0px !important; font-family: Helvetica, Arial, sans-serif; text-align: center; font-style: normal; font-weight: bold;" type="submit" value="Subscribe"/>
+</form>
+</div>
+</div></div><div class="widget widget_search" id="search-3"><div class="widget-title"><h2>Search Entire Site</h2></div><form action="https://humansbefree.com/" class="searchform_theme" method="get">
+<input class="search_btn" name="s" placeholder="Search..." type="text" value="H.R. 6666"/>
+<button class="button" type="submit"><i class="fa fa-search"></i></button>
+</form></div> </div>
+</div>
+</div>
+</div>
+<div class="footer-bottom enable_footer_copyright_dark">
+<div class="container">
+<div class="row bottom_footer_menu_text">
+<div class="col-md-6 footer-left-copyright">
+© Copyright 2020 Humans Are Free. Creative Commons License. </div>
+<div class="col-md-6 footer-menu-bottom">
+<ul class="menu-footer" id="menu-footer-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28164"><a href="https://humansarefree.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28158"><a href="https://humansbefree.com/contact-us">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31055"><a href="https://humansbefree.com/authors">Authors and Writers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28160"><a href="https://humansbefree.com/privacy-policy-2">Privacy policy</a></li>
+<li class="wp-night-mode menu-item menu-item-type-custom menu-item-object-custom menu-item-37850"><a href="#">Dark Mode</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<div id="go-top"><a href="#go-top"><i class="fa fa-angle-up"></i></a></div>
+<script>window.advanced_ads_check_adblocker=function(t){var n=[],e=null;function i(t){(window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||function(t){return setTimeout(t,16)}).call(window,t)}return i((function(){var t=document.createElement("div");t.innerHTML="&nbsp;",t.setAttribute("class","ad_unit ad-unit text-ad text_ad pub_300x250"),t.setAttribute("style","width: 1px !important; height: 1px !important; position: absolute !important; left: 0px !important; top: 0px !important; overflow: hidden !important;"),document.body.appendChild(t),i((function(){var i=window.getComputedStyle&&window.getComputedStyle(t),o=i&&i.getPropertyValue("-moz-binding");e=i&&"none"===i.getPropertyValue("display")||"string"==typeof o&&-1!==o.indexOf("about:");for(var a=0,r=n.length;a<r;a++)n[a](e);n=[]}))})),function(t){null!==e?t(e):n.push(t)}}();</script><div id="fb-root"></div>
+<script async="" crossorigin="anonymous" defer="" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v5.0&amp;appId=378868832991289&amp;autoLogAppEvents=1"></script>
+<script type="text/javascript">
+(function(){
+  var bsa = document.createElement('script');
+     bsa.type = 'text/javascript';
+     bsa.async = true;
+     bsa.src = '//s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+</script>
+<script id="rev2exit" src="//labs-cdn.revcontent.com/build/revexit.min.js?w=267439&amp;p=4773&amp;k=2bd4d69a499193e9931f0fa6a531293eb5aa962e&amp;d=humansarefree.com&amp;t=false&amp;i=none&amp;x=both&amp;z=10" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(document).ready(function ($) {
+"use strict";
+    var resize_full_image = function() {
+        $('.jl_full_screen_height').css({
+            width: $(window).width(),
+            height: $(window).height()
+        });
+    };
+    $(window).on('resize', resize_full_image);
+    resize_full_image();
+});
+</script>
+<script id="darkmode_scripts-js" src="https://humansbefree.com/wp-content/themes/disto/js/darkmode_scripts.js" type="text/javascript"></script>
+<script id="ppress-frontend-script-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var pp_ajax_form = {"ajaxurl":"https:\/\/humansbefree.com\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"3252ba76df","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+/* ]]> */
+</script>
+<script id="ppress-frontend-script-js" src="https://humansbefree.com/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js" type="text/javascript"></script>
+<script id="rocket-browser-checker-js-after" type="text/javascript">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script id="rocket-preload-links-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin|\/logout","usesTrailingSlash":"","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/humansbefree.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script id="rocket-preload-links-js-after" type="text/javascript">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script id="fluidvids-js" src="https://humansbefree.com/wp-content/themes/disto/js/fluidvids.js" type="text/javascript"></script>
+<script id="infinitescroll-js" src="https://humansbefree.com/wp-content/themes/disto/js/infinitescroll.js" type="text/javascript"></script>
+<script id="justified-js" src="https://humansbefree.com/wp-content/themes/disto/js/justified.js" type="text/javascript"></script>
+<script id="slick-js" src="https://humansbefree.com/wp-content/themes/disto/js/slick.js" type="text/javascript"></script>
+<script id="theia-sticky-sidebar-js" src="https://humansbefree.com/wp-content/themes/disto/js/theia-sticky-sidebar.js" type="text/javascript"></script>
+<script id="aos-js" src="https://humansbefree.com/wp-content/themes/disto/js/aos.js" type="text/javascript"></script>
+<script id="disto-custom-js" src="https://humansbefree.com/wp-content/themes/disto/js/custom.js" type="text/javascript"></script>
+<script id="remote_sdk-js" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" type="text/javascript"></script>
+<script>window.advads_passive_ads = {"51473_2":{"elementid":["human-eabdb5760e1db4ce103331f95a3ad549"],"ads":{"51473":{"id":51473,"title":"[2021] RevContent Right Rail","expiry_date":0,"visitors":[],"content":"<div id=\"human-1569615564\"><div id=\"rc-widget-c64593\" data-rc-widget data-widget-host=\"habitat\" data-endpoint=\"\/\/trends.revcontent.com\" data-widget-id=\"267434\"><\/div>\r\n<script type=\"text\/javascript\" src=\"https:\/\/assets.revcontent.com\/master\/delivery.js\" defer=\"defer\"><\/script><\/div>","once_per_page":0,"debugmode":false,"blog_id":1,"type":"plain","position":""}}}};
+
+window.advads_passive_placements = {"lockerdome-desktop-pop-up_1":{"elementid":[null],"ads":{"44971":{"id":44971,"title":"Lockerdome desktop pop-up (sticky)","expiry_date":0,"visitors":[],"content":"<script async src=\"https:\/\/cdn1.customads.co\/embeds\/humansarefree_humansarefree_sticky.js\"><\/script>","once_per_page":0,"debugmode":false,"blog_id":1,"type":"plain","position":""}},"type":"ad","id":44971,"placement_info":{"type":"header","name":"Lockerdome desktop pop-up","item":"ad_44971","id":"lockerdome-desktop-pop-up"},"test_id":null}};
+
+( window.advanced_ads_ready || jQuery( document ).ready ).call( null, function() {if ( !window.advanced_ads_pro ) {console.log("Advanced Ads Pro: cache-busting can not be initialized");} });</script><script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script></body>
+</html>

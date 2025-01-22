@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+<meta charset="utf-8"/>
+<link href="https://www.ukcolumn.org/article/deceptive-construction-why-we-must-question-covid-19-mortality-statistics" rel="canonical"/>
+<meta content="How many people have actually died of Covid-19, compared to the governent's claimed headline figure." name="description"/>
+<meta content="UKColumn" property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.ukcolumn.org/article/deceptive-construction-why-we-must-question-covid-19-mortality-statistics" property="og:url"/>
+<meta content="A Deceptive Construction - Why We Must Question The COVID 19 Mortality Statistics" property="og:title"/>
+<meta content="How many people have actually died of Covid-19, compared to the governent's claimed headline figure." property="og:description"/>
+<meta content="https://www.ukcolumn.org/sites/default/files/parliament_0.jpg" property="og:image"/>
+<meta content="Iain Davis" property="article:author"/>
+<meta content="UKColumn" property="article:publisher"/>
+<meta content="2021-03-28T11:46:00+01:00" property="article:published_time"/>
+<meta content="2021-03-29T11:59:37+01:00" property="article:modified_time"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="How many people have actually died of Covid-19, compared to the governent's claimed headline figure." name="twitter:description"/>
+<meta content="A Deceptive Construction - Why We Must Question The COVID 19 Mortality Statistics" name="twitter:title"/>
+<meta content="https://www.ukcolumn.org/sites/default/files/parliament_0.jpg" name="twitter:image"/>
+<script async="" data-domain="www.ukcolumn.org" defer="" src="https://plausible.io/js/plausible.js"></script>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+<link href="/themes/custom/ukc_theme/ukc-logo-sm-sq.png" rel="icon" type="image/png"/>
+<title>A Deceptive Construction - Why We Must Question The COVID 19 Mortality Statistics | UKColumn</title>
+<link href="/sites/default/files/css/css_QozodLD-4MuJqyl_9GsIYLdHUb2am9T87aJCzekmMxM.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_Q4XKT19k6ADirkBzqVqcUeu2Wh5t0eayHimnGbMT4jk.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_hjFttaY50UR2V33E7zMsMr66nbCDiFQUnTnnSjS4Ufw.css" media="print" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&amp;family=Open+Sans:wght@400;600;700&amp;family=Playfair+Display:wght@400;600;700&amp;family=Roboto+Slab&amp;display=swap" media="all" rel="stylesheet"/>
+</head>
+<body class="path-node page-node-type-article sidebar-right fixed-width">
+<a class="visually-hidden focusable skip-link" href="#main-content">
+Skip to main content
+</a>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<aside class="mdc-drawer mdc-drawer--modal">
+<div class="mdc-drawer__content">
+<nav aria-labelledby="block-mainnavigation-menu" class="block block-menu navigation menu--main" id="block-mainnavigation" role="navigation">
+<h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a data-drupal-link-system-path="&lt;front&gt;" href="/"> <span>Home</span>
+</a>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Video</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2181" href="/ukcolumn-news-archive"> <span>UK Column News Archive</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3300" href="/series/uk-column-interviews"> <span>UK Column Interviews</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2186" href="/insight"> <span>Insight</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2524" href="/series/david-ellis-report"> <span>David Ellis Report</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a data-drupal-link-system-path="node/2301" href="/audio-podcasts"> <span>Podcasts</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution"> <span>A Dissident's Guide to the Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree"> <span>Deconstructing the Magic Money Tree</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2147" href="/series/dispatches-from-the-front"> <span>Dispatches from the Front</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Sections</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2196" href="/northern-exposure"> <span>Northern Exposure</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2151" href="/series/eu-military-unification"> <span>European Defence Union</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2195" href="/censored"> <span>Censored</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2343" href="/series/the-whistleblowers"> <span>The Whistleblowers</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Topics</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2176" href="/topic/coronavirus"> <span>Coronavirus</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2175" href="/topic/brexit"> <span>Brexit</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2166" href="/topic/children-education"> <span>Children &amp; Education</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2161" href="/topic/constitution"> <span>Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2163" href="/topic/defence"> <span>Defence</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2158" href="/topic/economy"> <span>Economy</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2167" href="/topic/environment"> <span>Environment</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2884" href="/topic/faith"> <span>Faith</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2164" href="/topic/health"> <span>Health</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2174" href="/topic/international"> <span>International</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2160" href="/topic/justice"> <span>Justice</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2168" href="/topic/media"> <span>Media</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2994" href="/topic/mind"> <span>Mind</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2157" href="/topic/politics"> <span>Politics</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2169" href="/topic/science"> <span>Science</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2170" href="/topic/technology"> <span>Technology</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Series</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution"> <span>A Dissident's Guide to the Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2571" href="/series/doctors-for-covid-ethics"> <span>Doctors for Covid Ethics</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2144" href="/series/common-purpose-effect"> <span>The Common Purpose Effect</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2138" href="/series/one-world-governance"> <span>One World Governance</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2154" href="/series/global-citizen-movement"> <span>Global Citizen Movement</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2153" href="/series/integrity-initiative"> <span>Integrity Initiative</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2150" href="/series/fake-news"> <span>Fake News</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2137" href="/series/leveson-inquiry"> <span>Leveson Inquiry</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2140" href="/series/oxford-cherwell-valley-college"> <span>Oxford &amp; Cherwell Valley College</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2127" href="/series/weekly-nudge"> <span>The Weekly Nudge</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2152" href="/series/white-helmets"> <span>The White Helmets</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree"> <span>Deconstructing the Magic Money Tree</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2858" href="/series/dying-for-good-health"> <span>Dying for Good Health</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2857" href="/series/no-smoke-without-fire"> <span>No Smoke Without Fire</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2887" href="/series/the-third-degree"> <span>The Third Degree</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-header-2-menu" class="block block-menu navigation menu--header" id="block-header-2" role="navigation">
+<h2 class="visually-hidden" id="block-header-2-menu">Header</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/695" href="/about-uk-column"> <span>About</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2180" href="/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3819" href="/careers"> <span>Careers</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/698" href="/donate"> <span>Donate</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://community.ukcolumn.org/"> <span>Community Website</span>
+</a>
+</li>
+</ul>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1-3">
+<div class="inner">
+<form accept-charset="UTF-8" action="/search" id="views-exposed-form-search-page-1" method="get" region="overlay">
+<div class="form--inline clearfix">
+<div class="form-item form-type-textfield form-item-keywords">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Keyword(s)</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-keywords" id="edit-keywords" maxlength="128" name="keywords" size="30" type="text" value=""/>
+</label>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"> <button class="button js-form-submit form-submit mdc-button mdc-button--unelevated mdc-button mdc-button--outlined" data-drupal-selector="edit-submit-search" id="edit-submit-search" type="submit" value="Search"></button>
+<div class="inner">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Search</span>
+</div>
+
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-menu-trigger-close">
+<button class="mdc-icon-button" id="close-overlay">
+<span class="far fa-times"></span>
+<span class="visually-hidden">Close</span>
+</button>
+</div>
+</aside>
+<div class="mdc-drawer-scrim"></div>
+<div class="layout-container">
+<header class="layout-header" role="banner">
+<div class="region region-top">
+<div class="inner">
+<nav aria-labelledby="block-social-menu" class="block block-menu navigation menu--social" id="block-social" role="navigation">
+<h2 class="visually-hidden" id="block-social-menu">Social</h2>
+<ul class="menu" region="top">
+<li class="menu-item">
+<a class="fab fa-facebook-f" href="https://facebook.com/ukcolumn" target="_blank"> <span>Facebook</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-telegram" href="https://t.me/ukcolumn" target="_self"> <span>Telegram</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-twitter" href="https://twitter.com/ukcolumn" target="_blank"> <span>Twitter</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-itunes" href="https://podcasts.apple.com/gb/podcast/uk-column-podcasts/id1008807223" target="_blank"> <span>iTunes</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-soundcloud" href="https://soundcloud.com/ukcolumn" target="_blank"> <span>Soundcloud</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fas fa-rss" data-drupal-link-system-path="rss.xml" href="/rss.xml"> <span>RSS</span>
+</a>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-header-menu" class="block block-menu navigation menu--header" id="block-header" role="navigation">
+<h2 class="visually-hidden" id="block-header-menu">Header</h2>
+<ul class="menu" region="top">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/695" href="/about-uk-column"> <span>About</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2180" href="/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3819" href="/careers"> <span>Careers</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/698" href="/donate"> <span>Donate</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://community.ukcolumn.org/"> <span>Community Website</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="region region-header">
+<div class="inner">
+<div class="block block-system block-system-branding-block" id="block-ukc-theme-sitebranding">
+<div class="inner">
+<a class="site-logo" href="/" rel="home">
+<img alt="Home" src="/themes/custom/ukc_theme/logo.png"/>
+</a>
+</div>
+</div>
+<nav aria-labelledby="block-main-navigation-header-menu" class="block block-menu navigation menu--main" id="block-main-navigation-header" role="navigation">
+<h2 class="visually-hidden" id="block-main-navigation-header-menu">Main navigation</h2>
+<ul class="menu" region="header">
+<li class="menu-item">
+<a data-drupal-link-system-path="&lt;front&gt;" href="/">Home</a>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Video</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2181" href="/ukcolumn-news-archive">UK Column News Archive</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3300" href="/series/uk-column-interviews">UK Column Interviews</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2186" href="/insight">Insight</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2524" href="/series/david-ellis-report">David Ellis Report</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a data-drupal-link-system-path="node/2301" href="/audio-podcasts">Podcasts</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution">A Dissident's Guide to the Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree">Deconstructing the Magic Money Tree</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2147" href="/series/dispatches-from-the-front">Dispatches from the Front</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Sections</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2196" href="/northern-exposure">Northern Exposure</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2151" href="/series/eu-military-unification">European Defence Union</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2195" href="/censored">Censored</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2343" href="/series/the-whistleblowers">The Whistleblowers</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Topics</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2176" href="/topic/coronavirus">Coronavirus</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2175" href="/topic/brexit">Brexit</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2166" href="/topic/children-education">Children &amp; Education</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2161" href="/topic/constitution">Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2163" href="/topic/defence">Defence</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2158" href="/topic/economy">Economy</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2167" href="/topic/environment">Environment</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2884" href="/topic/faith">Faith</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2164" href="/topic/health">Health</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2174" href="/topic/international">International</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2160" href="/topic/justice">Justice</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2168" href="/topic/media">Media</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2994" href="/topic/mind">Mind</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2157" href="/topic/politics">Politics</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2169" href="/topic/science">Science</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2170" href="/topic/technology">Technology</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Series</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution">A Dissident's Guide to the Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2571" href="/series/doctors-for-covid-ethics">Doctors for Covid Ethics</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2144" href="/series/common-purpose-effect">The Common Purpose Effect</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2138" href="/series/one-world-governance">One World Governance</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2154" href="/series/global-citizen-movement">Global Citizen Movement</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2153" href="/series/integrity-initiative">Integrity Initiative</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2150" href="/series/fake-news">Fake News</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2137" href="/series/leveson-inquiry">Leveson Inquiry</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2140" href="/series/oxford-cherwell-valley-college">Oxford &amp; Cherwell Valley College</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2127" href="/series/weekly-nudge">The Weekly Nudge</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2152" href="/series/white-helmets">The White Helmets</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree">Deconstructing the Magic Money Tree</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2858" href="/series/dying-for-good-health">Dying for Good Health</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2857" href="/series/no-smoke-without-fire">No Smoke Without Fire</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2887" href="/series/the-third-degree">The Third Degree</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1">
+<div class="inner">
+<form accept-charset="UTF-8" action="/search" id="views-exposed-form-search-page-1" method="get" region="header">
+<div class="form--inline clearfix">
+<div class="form-item form-type-textfield form-item-keywords">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Keyword(s)</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-keywords" id="edit-keywords--2" maxlength="128" name="keywords" size="30" type="text" value=""/>
+</label>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--2"> <button class="button js-form-submit form-submit mdc-button mdc-button--unelevated mdc-button mdc-button--outlined" data-drupal-selector="edit-submit-search-2" id="edit-submit-search--2" type="submit" value="Search"></button>
+<div class="inner">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Search</span>
+</div>
+
+</div>
+</div>
+</form>
+</div>
+</div>
+<button class="mdc-icon-button search-trigger">
+<span class="far fa-search"></span>
+<span class="far fa-times"></span>
+<span class="visually-hidden">Search</span>
+</button>
+<div class="modal-menu-trigger">
+<span class="visually-hidden">Menu</span>
+<button class="mdc-icon-button">
+<span class="far fa-bars"></span>
+<span class="visually-hidden">Open</span>
+</button>
+</div>
+</div>
+</div>
+</header>
+<main class="layout-main" role="main">
+<div class="inner">
+<a id="main-content" tabindex="-1"></a>
+<div class="field--name-field-section">
+<a href="/topic/coronavirus">Coronavirus</a>
+</div>
+<div class="region region-content-above">
+<div class="inner">
+<div class="hidden" data-drupal-messages-fallback=""></div>
+<div class="block block-core block-page-title-block" id="block-ukc-theme-page-title">
+<div class="inner">
+<h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">A Deceptive Construction - Why We Must Question The COVID 19 Mortality Statistics</span>
+</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="layout-main--wrapper">
+<div class="region region-content">
+<div class="inner">
+<div class="block block-system block-system-main-block" id="block-ukc-theme-content">
+<div class="inner">
+<article about="/article/deceptive-construction-why-we-must-question-covid-19-mortality-statistics" class="node node--type-article node--view-mode-full" role="article" typeof="schema:Article">
+<div class="node__content">
+<img alt="" class="image-style-featured-image" height="520" src="/sites/default/files/styles/featured_image/public/parliament_0.jpg?h=7b1b548f&amp;itok=vrZwi2o2" typeof="foaf:Image" width="980"/>
+<footer class="node__meta">
+<div class="node__submitted">
+<div class="author">
+by
+<div class="field field--name-field-author field--type-entity-reference field__items">
+<a href="/writer/iain-davis" hreflang="en">Iain Davis</a>
+</div>
+</div>
+<div class="authored">
+Sunday, 28th March 2021
+</div>
+</div>
+</footer>
+<div class="clearfix text-formatted field field--name-body" property="schema:text"><p>According to the UK Government, as of 27 March 2021, 126,515 people have died as a result of contracting Covid-19, and an additional 21,610 people have died with COVID-19 on their death certificates.</p>
+<p>The government alleges, therefore, that a total of 148,125 people in the UK have died as a result of COVID-19. As we shall see, this claim is not credible.</p>
+<h3>Justifiable Policy?</h3>
+<p>Claims about mortality have been used by both the government and <a href="https://web.archive.org/web/20210325141124/https://www.theguardian.com/world/2021/mar/25/covid-uk-coronavirus-cases-deaths-and-vaccinations-today">the mainstream media</a> to justify the policy response.</p>
+<p>The pace of change driven by that policy response has been astonishing. With Health Secretary Matt Hancock's recent announcement of the <a href="https://web.archive.org/web/20210326141714/https://www.gov.uk/government/publications/securing-our-health-the-uk-health-security-agency/securing-our-health-the-uk-health-security-agency">creation of the UK Health Security Agency</a> and its commitment to take <em>"action to mitigate infectious diseases and other hazards to health before they materialise,"</em> it is clear the government’s new (ab)normal is here to stay.</p>
+<p>There is clearly an agenda; one entirely founded upon the idea that COVID-19 presents a significant threat. The primary evidence offered to substantiate this claim is suggested COVID-19 mortality.</p>
+<h3>Age Standardised Mortality</h3>
+<p>Just like nearly every other mortality cause, COVID-19 risks increase proportionately with age. Statistics for those of working age show a population mortality risk of between 0.0166% and 0.0046%, depending upon <a href="https://www.ukcolumn.org/article/covid-19-data-exposing-deception">who you believe</a>. The COVID-19 risk to the working age population is statistically insignificant. For the under 18's it is statistically zero.</p>
+<p>Mortality risk <a href="https://web.archive.org/web/20200409135547/https://www.ecdc.europa.eu/sites/default/files/documents/covid-19-rapid-risk-assessment-coronavirus-disease-2019-eighth-update-8-april-2020.pdf">disproportionately impacts</a> men. In 2018 the <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/averageageatdeathbysexuk">average age of death</a> for men was approximately 80, and 83 for women in England and Wales.</p>
+<p>The average age of <a href="https://archive.is/2cwud">COVID-19 death</a> is just over 82. When we look at standard mortality distribution, there is no observable impact from COVID-19.</p>
+<p>UK all cause mortality doesn't suggest any need to panic either.</p>
+<p>The <a href="https://web.archive.org/web/20210118112234/https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/monthlymortalityanalysisenglandandwales">ONS released data</a> estimating a total of 607,173 deaths from all causes in England and Wales for 2020. Given demographic changes over time, the ONS use <a href="https://web.archive.org/web/20210112095209/https://blog.ons.gov.uk/2021/01/12/counting-deaths-involving-coronavirus-a-year-in-review/">Age Standardised Mortality Rates</a> (ASMR's) to calculate relative death rates. The ASMR showed that <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/monthlymortalityanalysisenglandandwales">2020 was the worst year</a> for mortality in the last decade.</p>
+<p>ASMR's were in continual decline throughout the post war period. That decline stopped abruptly in 2009 as the economic impact of the global financial crisis took its toll on public health. Thereafter it showed a marginal rise to 2019. Mortality in 2020 and 2021 should be seen in the context of a global financial crisis that dwarfs the <em>credit crunch</em> of 2008.</p>
+<p><div>
+<img class="image-style-max-1300x1300" height="677" src="/sites/default/files/styles/max_1300x1300/public/asmr.jpg?itok=FHOZHLi0" typeof="foaf:Image" width="1200"/></div>
+</p>
+<p>ASMR's fluctuate annually and 2020 showed a significant increase above the 5 year average mortality rate. This was higher than most rises but by no means <em>"unprecedented."</em> ASMR's in <a href="https://web.archive.org/web/20210113173849/https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/adhocs/12735annualdeathsandmortalityrates1938to2020provisional">England since 1938</a> show similar increases in 1947, 1949, 1951, 1958, 1963, 1970, 1972, 1976, 1985, 1993 and 2014.</p>
+<p>Most of these spikes in ASMR's were in the region of 35 to 45 points. For example, in 2014 the ASMR rose by 40.2, in 1993 by 38.4 and in 1985 by 46.3 points. It rose by 90.5 in 1947, by 83.5 in 1963, it went up by 104.9 in 1970 and in 1951 by 216.3. So the 2020 rise of 118.5 is by no means the worst.</p>
+<p>The death toll in 1951 was attributed to the the influenza epidemic which struck some parts of the UK (most notably Liverpool) but left others relatively unscathed. To this day science has <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294686/">struggled to account for this</a>.</p>
+<p>2020 not only didn’t have the highest mortality rate in the post war period, it <a href="https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/deathsintheukfrom1990to2020">didn't have</a> the highest mortality rate in the 21st century either. 2020 ranked 9th, out of 20 consecutive years, for all cause mortality in England and Wales. It was the 11th least dangerous year in the last 50.</p>
+<p>While there is no statistical evidence of an unprecedented <em>global pandemic</em> in England and Wales (nor in Scotland and Northern Ireland) this tells us little about how many deaths were genuinely attributable to COVID-19. Nor does it indicate at which point we should sacrifice our rights, freedoms, children's educations and economy in the service of public health.</p>
+<p>We certainly didn't sacrifice them in 1947, 1963, 1970, nor even in 1951. Why was 2020 different? </p>
+<h3>PCR Does Not Mean COVID</h3>
+<p>For the purposes of this analysis, we will use the government's higher claim of 148,000 deaths. The vast majority of these deaths were attributed based upon a positive RT-PCR test. The UK Coronavirus Act makes a clear distinction between the virus and the disease. <a href="https://www.legislation.gov.uk/ukpga/2020/7/section/1/enacted">It states</a>:</p>
+<blockquote>
+<p><em>Coronavirus</em> means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2); <em>coronavirus disease</em> means COVID-19 (the official designation of the disease which can be caused by coronavirus).<em> </em></p>
+</blockquote>
+<p>SARS-CoV-2 and COVID-19 are not the same thing. The detected presence of SARS-CoV-2 does not mean the person has or will develop COVID-19.</p>
+<p>Therefore the attribution of mortality based solely upon a positive test result in no way proves the person died of COVID-19. The extent to which the disease caused or contributed towards a death is a precise medical assessment. The UK government created a death certification and registration process where this did not occur in an unknown number of cases. We need to know what that number is.</p>
+<p>COVID-19 has a distinct presentation that requires careful diagnosis. The <em>unique</em> symptoms are severe hypoxemia (low blood oxygen levels), hypercapnia (elevated blood Co2 saturation) and unusually <a href="https://link.springer.com/article/10.1007/s00134-020-06033-2">no corresponding loss of respiratory system compliance</a>.</p>
+<p>Measurement of gaseous exchange and fluid retention in the lungs appears normal, meanwhile the patient, in serious cases, struggles to breath. This is unlike other influenza like illnesses (ILI's).</p>
+<p>Yet the NHS describe a list of COVID-19 symptoms that <a href="https://www.nhs.uk/conditions/coronavirus-covid-19/symptoms/">could be attributable</a> to any ILI. A high temperature, continuous cough and loss of taste and smell are associated with many. While this is public information, intended to guide our decision to seek medical advice or a test, the list of possible causes expands further given that the NHS state just one of these symptoms possibly indicates COVID-19.</p>
+<p>Without precise symptomatic diagnosis, it is difficult to distinguish COVID-19 from a range of other respiratory illnesses. A study from <a href="https://web.archive.org/web/20200604081805/https://pubs.acs.org/doi/full/10.1021/acsnano.0c02624">the University of Toronto</a> found:</p>
+<blockquote>
+<p>The symptoms can vary, with some patients remaining asymptomatic, while others present with fever, cough, fatigue, and a host of other symptoms. The symptoms may be similar to patients with influenza or the common cold.</p>
+</blockquote>
+<p>A <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013665/full">Cochran Review meta analysis</a> of available studies looked for a clear definition of COVID-19 symptoms. Published in June 2020, the reviewers noted:</p>
+<blockquote>
+<p>The individual signs and symptoms included in this review appear to have very poor diagnostic properties ... Based on currently available data, neither absence nor presence of signs or symptoms are accurate enough to rule in or rule out disease.</p>
+</blockquote>
+<p>Even using advanced diagnostics, such as a computer tomography (CT) scan, won't always provide a clear result. A study attempting to improve <a href="https://link.springer.com/content/pdf/10.1186/s12890-020-1170-6.pdf">differential diagnosis using CT scans</a> found:</p>
+<blockquote>
+<p>Although typical and atypical CT image findings of COVID-19 are reported in current studies, the CT image features of COVID-19 overlap with those of viral pneumonia and other respiratory diseases. Hence, it is difficult to make an exclusive diagnosis.</p>
+</blockquote>
+<p>Regardless of their SARS-CoV-2 test status, without a very accurate diagnosis of symptoms, suspected COVID-19 patients could be suffering from one among a range of ILI's. Again, a positive test result does not mean the patient died from COVID-19, even if they had corresponding symptoms.</p>
+<h3>Notifications of Infectious Diseases</h3>
+<p>In England and Wales it is a legal requirement for all registered medical practitioners to notify their local health authority of <a href="https://www.gov.uk/government/collections/notifications-of-infectious-diseases-noids">any suspected cases of notifiable diseases</a>. The list of Notifiable Infectious Diseases (NOIDS) <a href="https://www.gov.uk/government/news/coronavirus-covid-19-listed-as-a-notifiable-disease">includes COVID-19</a>. This is not optional.</p>
+<p>All diagnosing doctors must complete a NOIDS report upon making a diagnosis. Testing laboratories are also required to notify Public Health England (PHE) of positive tests for notifiable diseases.</p>
+<p>According to the fact checker FullFact there were <a href="https://archive.is/suqvj">18,152 COVID-19 notifications</a> made by doctors in the whole of 2020.</p>
+<p>Yet the government claim that there were 70,853 COVID-19 deaths, never mind <em>cases</em>, in England and Wales in the same year.</p>
+<p>Fullfact offered an explanation for this apparent huge discrepancy:</p>
+<blockquote>
+<p>People with Covid symptoms are advised to get a test, but not to visit their doctor, which may be part of the reason why doctors reported so few cases of the disease through NOIDS. Since Covid became widespread in the UK, and began to be monitored in other ways, it is also possible that doctors felt there was little need to continue notifying PHE about each case.</p>
+</blockquote>
+<p>This is not credible. While it is true that people were told not to go to a doctor if they suspected they had COVID-19, a diagnosis by a doctor was still necessary at some point. Self diagnosis doesn't usually afford access to hospital treatment. The suggestion by FullFact that doctors unilaterally decided not to bother with their statutory obligations is ridiculous.</p>
+<p>What this massive difference between claimed cases, subsequent COVID-19 mortality and NOIDS indicates, is that Doctors were largely reliant upon laboratory testing to fulfil the duty to notify the authorities. This adds considerable weight to the notion that laboratory testing was the leading determinant in the overwhelming majority of COVID-19 diagnosis.</p>
+<p>Until mid August 2020, a UK COVID-19 death was reported if the decedent had <em>tested positive</em> at any point during the preceding months. An individual may have have tested positive for SARS-CoV-2 in March, have died of cancer in August and subsequently have been recorded as a COVID-19 statistic.</p>
+<p>The scientific rationale for this did not exist. Research conducted by <a href="https://web.archive.org/web/20201111031210/https://www.cebm.net/covid-19/estimating-the-infection-fatality-ratio-in-england/">scientists at Oxford University</a> analysed the COVID-19 Hospitalisation in England Surveillance System (CHESS) and calculated the average time between infection (positive test) and mortality to be 26.8 days.</p>
+<p>And so, in response to public <a href="https://web.archive.org/web/20200819023354/https://www.gov.uk/government/news/new-uk-wide-methodology-agreed-to-record-covid-19-deaths">and scientific pressure</a> this approach changed to only recording a COVID-19 death within 28 days of a <em>positive test.</em> Still the UK government would not let go of its inflated number system, adding nothing but statistical confusion, they announced:</p>
+<blockquote>
+<p>In England, a new weekly set of figures will also be published, showing the number of deaths that occur within 60 days of a positive test. Deaths that occur after 60 days will also be added to this figure if COVID-19 appears on the death certificate.</p>
+</blockquote>
+<p>The August methodological change <a href="https://www.cebm.net/covid-19/public-health-england-death-data-revised/">reduced claimed COVID-19 deaths</a> by 5,377 in England alone. This didn't make any difference to the number of people who had died from COVID-19, it just changed the number of people who had <em>reportedly</em> died from COVID-19.</p>
+<p>This wasn't the only notable change to the data gathering process. Just before the significant spring spike in mortality, on the 30th March 2020, <a href="https://web.archive.org/web/20200409223202/https://www.theguardian.com/world/2020/mar/30/covid-19-deaths-outside-hospitals-to-be-included-in-uk-tally-for-first-time">the MSM reported</a> that the government had instructed the ONS to change the way they record COVID-19 deaths. Hitherto the ONS only reported a COVID-19 death if it was recorded as the direct or underlying cause. This was changed to recording <em>"mentions"</em> of COVID-19. A spokesperson for the ONS said:</p>
+<blockquote>
+<p>It will be based on mentions of Covid-19 on death certificates. It will include suspected cases of Covid-19 where someone has not been tested positive for Covid-19.</p>
+</blockquote>
+<p>The <a href="https://web.archive.org/web/20201226163533/https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/deathsfromcovid19withnopreexistingconditionsanddeathtotalsforthelast5years">reporting of COVID-19 comorbidity rates</a> was<em>"paused"</em> in July and has yet to resume. The final <a href="https://web.archive.org/web/20200827072049/https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19englandandwales/deathsoccurringinjune2020">published ONS analysis</a> that directly reported the number of pre-exiting conditions for deaths <em>"with"</em> COVID-19 <em>mentioned</em> on the death certificate, was released for the period ending 30 June 2020.</p>
+<p>From this we learned that 91.1% of alleged COVID deaths had at least 1 serious additional comorbidity. The mean number of comorbidities for a those under 70 was 2.1 and for the vast majority over 70 it was 2.3.</p>
+<p>It is preposterous to claim that a decedent who had cancer, pneumonia and had just had surgery, but tested positive for SARS-CoV-2 four weeks earlier, could reasonably be categorised as a COVID-19 death. Yet that is precisely what happened, and continues to happen to this day.</p>
+<h3>Covid-19 Cures the Flu</h3>
+<p>COVID-19 also cured influenza and other respiratory disease, such as adenovirus. Early January is always a period of notable influenza outbreaks, resultant hospital admissions and mortality. This is evident if we look at PHE's Weekly Influenza Report for week 2 <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/673200/Weekly_national_influenza_report_week_02_2018.pdf">in any year prior to 2020</a>.</p>
+<p>In 2020, according to <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/952640/Weekly_Flu_and_COVID-19_report_w2_V2.pdf">the newly combined</a> PHE Weekly Influenza and COVID Report, there have been virtually no cases of influenza, treatment or related deaths.</p>
+<p>The ONS note all the details on a death certificate. In their mortality roundup for the January to August 2020 period they stated:</p>
+<blockquote>
+<p>Influenza and pneumonia was mentioned on more death certificates than COVID-19, however COVID-19 was the underlying cause of death in over three times as many deaths between January and August 2020.</p>
+</blockquote>
+<p>How can flu and pneumonia possibly be on more death certificates than COVID-19 if, <a href="https://archive.is/eAibh">as the media</a> and PHE allege, it has been wiped out? It seems the medical profession didn't get the memo.</p>
+<h3>A Systemic Catch-22</h3>
+<p>A positive SARS-CoV-2 test appears to be the primary reason for attribution of mortality. Only the most fastidious diagnosis can differentiate between COVID-19 symptoms and other ILI's. Is it credible to believe that flu and pneumonia are on more death certificates but that COVID-19 is deemed the cause of death on three times as many Medical Certificates of Cause of Death (MCCD's)?</p>
+<p>These are somewhat rhetorical questions. The reason why bizarre anomalies like this occurred is because recording COVID-19 as the cause of death was practically unavoidable.</p>
+<p>The Coronavirus Act overhauled the MCCD and death registration processes. In addition, World Health Organisation Coding changes and guidance issued by the NHS and other medical authorities combined to create a systemic <em>Catch-22.</em></p>
+<p>In England and Wales an MCCD is completed online using the <a href="https://web.archive.org/web/20210118190218/https://www.who.int/classifications/icd/Guidelines_Cause_of_Death_COVID-19.pdf">WHO's recommended coding</a>. The MCCD is split into sections. Part 1. a) <em>"Disease or condition directly leading to death"</em>; b) <em>"Other disease or condition, if any, leading to (a)"</em>; and c) <em>"Other disease or condition, if any, leading to (b)"</em>.</p>
+<p>Part 2 records <em>"Other significant conditions contributing to the death, but not related to the disease or condition causing it."</em> For example, a person may have died from heart failure caused by pneumonia but obesity, though not directly related to the immediate cause of death, could have contributed and would therefore be recorded in Part 2.</p>
+<p>In the case of respiratory disease, the direct cause of death could be Acute Respiratory Distress Syndrome (ARDS). This may be brought on by, for example, pneumonia which was caused by influenza. In this instance the direct cause of death would be recorded in Part 1. a) as ARDS, prompted by pneumonia in Part1. b), and the underlying cause would be set as influenza in Part 1. c).</p>
+<p>The WHO Family of International Classifications (WHOFIC) Network Classification and Statistics Advisory Committee (CSAC) created new International Classification of Diseases codes (ICD-10 codes) for COVID-19. If the decedent had tested positive, or had been in contact with anyone else who had, a recorded COVID-19 death was practically a fait accompli.</p>
+<p>A <em>"confirmed case"</em> was <a href="https://www.who.int/classifications/icd/COVID-19-coding-icd10.pdf?">dependent solely upon a positive test result</a> and was given the code U07.1. Observable symptoms were not necessary for U07.1 code to be recorded on a death certificate.</p>
+<p>A <em>suspected</em> COVID-19 case was coded as U07.2. A decedent known to have had contact with a SARS-CoV-2 positive person who, while neither testing positive nor having any symptoms themselves, was deemed a <em>suspected/probable</em> COVID-19 case and given the code U07.2.</p>
+<p>Neither the U07.1 nor the U07.2 codes required any evidence that the decedent had COVID-19.</p>
+<p>As the U07.1 code indicated a <em>"confirmed case,"</em> unless the decedent passed away from something obviously unrelated, such as head trauma, a SARS-CoV-2 positive test would almost automatically <em>confirm</em> COVID-19 as the <em>underlying</em> cause of death.</p>
+<p>The WHO clearly described this process in their <a href="https://web.archive.org/web/20200713234711/https://www.who.int/classifications/icd/Guidelines_Cause_of_Death_COVID-19-20200420-EN.pdf">International MCCD coding guidelines</a>. They defined what death <em>"due"</em> to COVID-19 was:</p>
+<blockquote>
+<p>A death due to COVID-19 is defined for surveillance purposes as a death resulting from a clinically compatible illness, in a probable or confirmed COVID-19 case, unless there is a clear alternative cause of death that cannot be related to COVID disease (e.g. trauma). There should be no period of complete recovery from COVID-19 between illness and death. A death due to COVID-19 may not be attributed to another disease (e.g. cancer).</p>
+</blockquote>
+<p>A clinically compatible illness could be any ILI. Even if the individual died from cancer, as long as they tested positive for SARS-CoV-2, or the Doctor suspected respiratory distress, the death would be registered as <em>"due to"</em> COVID-19. COVID-19 would again be the reported as the <em>underlying</em> cause.</p>
+<p>Additional WHO guidance stated:</p>
+<blockquote>
+<p>COVID-19 should be recorded on the medical certificate of cause of death for ALL decedents where the disease caused, or is assumed to have caused, or contributed to death. Although both categories, U07.1...and U07.2 ....are suitable for cause of death coding......it is recommended, for mortality purposes only, to code COVID-19 provisionally to U07.1 unless it is stated as probable or suspected.</p>
+</blockquote>
+<p>If a doctor was uncertain and merely <em>suspected</em> a <em>probable</em> COVID-19 case, they were clearly advised to record it on the MCCD as a <em>confirmed</em> case (U07.1 and not U07.2). Again, ensuring it would be reported as the <em>"underlying cause."</em></p>
+<p>The Office of National Statistics <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/bulletins/coronaviruscovid19relateddeathsbyoccupationenglandandwales/deathsregisteredbetween9marchand25may2020">stated</a>:</p>
+<blockquote>
+<p>Deaths involving the coronavirus (COVID-19) include those with an underlying cause, or any mention, of U07.1 (COVID-19, virus identified) or U07.2 (COVID-19, virus not identified) …</p>
+</blockquote>
+<p>If the Doctor held firm and coded COVID-19 as U07.2 on Part 2 of the MCCD, the ONS (and the NRS and NISA) would still report it as a COVID-19 death.</p>
+<h3>In the Clear</h3>
+<p>The Coronavirus Act <a href="https://www.instituteforgovernment.org.uk/explainers/coronavirus-act">indemnified all NHS doctors</a> against any claims of malpractice or negligence. It removed the need for a second medical opinion (Medical Examiner), it effectively ruled out both post-mortem examinations and jury-led coroner's inquests, allowed virtually anyone to act as the qualified informant and facilitated rapid cremation.</p>
+<p>In response to the Coronavirus Act and WHO IC10 coding, the NHS issued <a href="https://web.archive.org/web/20200512135005/https://improvement.nhs.uk/documents/6590/COVID-19-act-excess-death-provisions-info-and-guidance-31-march.pdf">guidance to doctors</a> for the completion of the Medical Certificate of Cause of Death (MCCD). The COVID-19 death certification and registration process they produced beggars belief. Under the guidance, acting on their own without any corroborating opinion:</p>
+<blockquote>
+<p>Any medical practitioner with GMC registration can sign the MCCD, even if they did not attend the deceased during their last illness.</p>
+</blockquote>
+<p><em>Attend</em> doesn't mean examine either. Checking in with the decedent via Zoom is sufficient. Failing that, if the MCCD signing doctor has only seen the decedent after death, providing they have tested positive, a review of their notes is still sufficient to record a COVID-19 death. The NHS stated COVID-19 could be recorded wherever:</p>
+<blockquote>
+<p>A medical practitioner has attended the deceased (including visual/video consultation) within 28 days before death, or viewed the body in person after death.</p>
+</blockquote>
+<p>In keeping with the WHO coding guidelines, there isn't even any need for a positive test result. The NHS guidance added:</p>
+<blockquote>
+<p>If before death the patient had symptoms typical of COVID-19 infection, but the test result has not been received, it would be satisfactory to give 'COVID-19' as the cause of death … In the circumstances of there being no swab, it is satisfactory to apply clinical judgement.</p>
+</blockquote>
+<p>The NHS then created a system of remote death certification:</p>
+<blockquote>
+<p>During periods of excess deaths due to COVID-19, healthcare providers are encouraged to redeploy medical practitioners whose role does not usually include direct patient care, such as some medical examiners, to provide indirect support by working as dedicated certifiers, completing MCCDs.</p>
+</blockquote>
+<p>These dedicated <em>certifiers</em>, though medically qualified, are tasked with signing off COVID-19 MCCD's. GP's and hospital physicians gather reports, perhaps from a review of the deceased's medical notes or a video conference with a care home provider, and pass that information to the dedicated COVID-19 <em>certifier</em> for MCCD completion.</p>
+<p>The NHS advised that no proof was required for the attribution of a COVID-19 death. They stated:</p>
+<blockquote>
+<p>Without diagnostic proof, if appropriate and to avoid delay, medical practitioners can circle '2' in the MCCD (information from post-mortem may be available later)</p>
+</blockquote>
+<p>This suggestion that a post mortem <em>may be available</em> is implausible.</p>
+<p>Additional guidance issued by the <a href="https://www.rcpath.org/uploads/assets/d5e28baf-5789-4b0f-acecfe370eee6223/fe8fa85a-f004-4a0c-81ee4b2b9cd12cbf/Briefing-on-COVID-19-autopsy-Feb-2020.pdf">Royal College of Pathologists</a> states:</p>
+<blockquote>
+<p>If a death is believed to be due to confirmed COVID-19 infection, there is unlikely to be any need for a post-mortem examination to be conducted and the Medical Certificate of Cause of Death should be issued.</p>
+</blockquote>
+<p>Bearing in mind that the WHO had instructed <em>suspected</em> U07.2 deaths to be coded as <em>confirmed</em> U07.1 deaths, the chance of anything other than <em>confirmed COVID-19 death</em> reaching a pathologist is extremely remote. Any MCCD signed <em>"without diagnostic proof"</em> would almost certainly be agreed by the pathologist without further scrutiny. The mere act of putting COVID-19 anywhere on the MCCD was enough to negate the need for a post mortem.</p>
+<p>This new death certification system, specifically designed for COVID-19, has understandably caused confusion. The British Medical Association's <a href="https://web.archive.org/web/20201222122558/https://www.bma.org.uk/media/2843/bma-verification-of-death-vod-july-2020.pdf">verification of death guidance</a> advises that if no signing doctor has seen the decedent prior to completing the MCCD they should refer it to the coroner. However, this was only a policy recommendation not a legal requirement.</p>
+<p>Contradicting this, the Chief Coroner advised:</p>
+<blockquote>
+<p>COVID-19 is a naturally occurring disease and therefore is capable of being a natural cause of death … The aim of the system should be that every death from COVID-19 which does not in law require referral to the coroner should be dealt with via the MCCD process.</p>
+</blockquote>
+<p>This means that even if a coroner receives a referral from a doctor, they will be highly likely to automatically approve the MCCD without further inquiry. Since a post mortem has already effectively been ruled out, there will be little point in the coroner investigating further.</p>
+<p>NHS staff and carers who may have been uncomfortable with all this have been under no illusions. The use of <a href="https://web.archive.org/web/20210103042536/https://amp.theguardian.com/society/2020/apr/09/nhs-staff-forbidden-speaking-out-publicly-about-coronavirus">draconian Hospital Trust gagging orders</a> (non disclosure agreements) are widely reported. Carers who have spoken out <a href="https://web.archive.org/web/20200929090802/https://amp.theguardian.com/society/2020/apr/30/uk-carers-lost-jobs-raising-safety-fears-consider-legal-action-covid-19-care-homes">have been sacked</a>.</p>
+<p>To finalise this unbelievable COVID-19 death registration system, the Coronavirus Act also withdrew the standard second opinion required prior to cremation. The need to complete <a href="https://web.archive.org/web/20200512150035/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/878093/revised-guidance-to-medical-practitioners-completing-form-cremation-4.pdf">Cremation form 5</a> was suspended for all COVID-19 deaths.</p>
+<p>Alleged COVID-19 decedents can be cremated without any clear evidence that they ever had the disease, regardless of their family's wishes, swiftly ending any chance of any investigation by sceptical family members.</p>
+<h3>What was the Cause of Death?</h3>
+<p>SAGE assessed the UK mean operational false positive rate (FPR) for RT-PCR to be <a href="https://web.archive.org/web/20200806084023/https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/895843/S0519_Impact_of_false_positives_and_negatives.pdf" target="_blank">2.3% of all conducted tests</a>. The government say they have conducted just over 118M tests of which 4.3M were positive. This includes an unknown number of multiple tests of the same individual. A mean FPR of 2.3% suggests 2.7M of those 4.3M positive tests were false positives. This equates to 62.7% of all positive test results. </p>
+<p>As we have already discussed it is highly likely that laboratory testing was the primary determinant for a diagnosis of COVID-19. Therefore it is not unreasonable to surmise that at least 50% of claimed COVID-19 deaths were attributed on the basis of false positives. We can halve the claimed 148,000 to 74,000 COVID-19 deaths.</p>
+<p>The 2020 <a href="https://web.archive.org/web/20210118112234/https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/monthlymortalityanalysisenglandandwales">ONS mortality data</a> for England showed a reduction in deaths from a number of other causes.</p>
+<p>Deaths from Ischaemic heart diseases were 1,450 below the 5 year average. Cerebrovascular disease was down by 2,276, malignant respiratory neoplasm by 1,537, chronic lower respiratory disease by 2,764 and influenza and pneumonia deaths were 7,313 below the 5 year average. An apparent reduction of 15,340 deaths from other causes.</p>
+<p>It seems highly likely that these deaths were wrongly recorded as COVID-19.</p>
+<p>As we have seen above, approximately 90% of supposed COVID-19 decedents had at least one other comorbidity. Using the Government’s 148,125 figure, we might claim, therefore that only something like 15,000 of these died <em>of</em>, rather than <em>with</em>.</p>
+<p>Is this claim justifiable? Well, consider this:</p>
+<p>The Department of Health and Social Care <a href="https://archive.is/k0G0V">published a study</a> of residents in care homes which purported to show the total number of <em>confirmed cases</em>. Among this number they claimed:</p>
+<blockquote>
+<p>80.9% of residents who tested positive were asymptomatic.</p>
+</blockquote>
+<p>A meta analysis by the <a href="https://www.cebm.net/covid-19/covid-19-what-proportion-are-asymptomatic/">Oxford Centre for Evidence Based Medicine</a> found that asymptomatic rates among those who tested positive varied between 5% - 80%. If there are no symptoms, then the disease cannot have contributed towards a death.</p>
+<p>Taking everything into account, from high rates of comorbidity, to low rates of symptomatic individuals, the impact of false positives on testing and a death certification regime heavily biased towards recording COVID-19 as the underlying cause, then it is reasonable to conclude that the total number of deaths from Covid-19 is not 148,000, nor 126,000, but much closer to 15,000.</p>
+<p> </p>
+<p> </p>
+<p><em>[You can read more by Iain Davis on his blog at <a href="http://in-this-together.com">In This Together</a>]</em></p>
+</div>
+<div class="views-element-container"><div class="view view-author view-id-author view-display-id-default js-view-dom-id-e0ebfb47c69981ba8f6251770cfb38bb2f9d986c47a199d62b846899c222f0d4">
+<div class="view-content">
+<div class="views-row">
+<article about="/writer/iain-davis" class="node node--type-author node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/writer/iain-davis" tabindex="0">
+<div class="author-image">
+<img alt="" class="image-style-author-profile" height="150" src="/sites/default/files/styles/author_profile/public/2021-05/ian-davis.png?h=6c83441f&amp;itok=eM3oA_Us" typeof="foaf:Image" width="150"/>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Iain Davis</span>
+</h2>
+Author, blogger, researcher and short film maker who writes mainly at IainDavis.com.
+</div>
+</a>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+<div class="region region-sidebar-right">
+<div class="inner">
+<div class="block block-ukc-core block-ukc-social-block" id="block-socialshareblock">
+<div class="inner">
+<div class="block-title">Share</div>
+<div class="social-wrapper"><a class="mdc-icon-button social-twitter" href="https://twitter.com/intent/tweet?text=A Deceptive Construction - Why We Must Question The COVID 19 Mortality Statistics https://www.ukcolumn.org/article/deceptive-construction-why-we-must-question-covid-19-mortality-statistics?fbclid=IwAR2CAUpJT2ANhXvMGCu6bgWBFOOHN5-vxDZlJbcGsGqdEXvXozm8M0AJ74w&amp;via=ukcolumn" target="_blank"><i class="fab fa-twitter"></i><span>Share on Twitter</span></a><a class="mdc-icon-button social-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.ukcolumn.org/article/deceptive-construction-why-we-must-question-covid-19-mortality-statistics?fbclid=IwAR2CAUpJT2ANhXvMGCu6bgWBFOOHN5-vxDZlJbcGsGqdEXvXozm8M0AJ74w" target="_blank"><i class="fab fa-facebook-f"></i><span>Share on Facebook</span></a><a class="mdc-icon-button social-print" href="#"><i class="fas fa-print"></i><span>Print</span></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="layout-footer" role="contentinfo">
+<div class="region region-footer">
+<div class="inner">
+<div class="block block-simple-block block-simple-blockfooter" id="block-ukcolumn">
+<div class="inner">
+<div class="block-title">UK Column</div>
+<p>The UK Column is an independent multimedia news website <a href="https://www.ukcolumn.org/community">supported by its members</a>.</p>
+</div>
+</div>
+<div class="block block-simple-block block-simple-blockcopyright" id="block-copyright">
+<div class="inner">
+<p>© 2006-2021 UK Column. For <a href="https://www.ukcolumn.org/user/login">permission</a> to use any content on this website please <a href="https://www.ukcolumn.org/contact">contact us</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2273","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"fbclid":"IwAR2CAUpJT2ANhXvMGCu6bgWBFOOHN5-vxDZlJbcGsGqdEXvXozm8M0AJ74w"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"\/search":true},"user":{"uid":0,"permissionsHash":"24a7fea61d09ca75b04029346079397b67be32e4b80ac47ef82cea8e7c0d3bfa"}}</script>
+<script src="/sites/default/files/js/js_KcESXcZO7FVpSpeU6kavzpt6Ja5W0OnT-dGt68lPzD0.js"></script>
+</body>
+</html>

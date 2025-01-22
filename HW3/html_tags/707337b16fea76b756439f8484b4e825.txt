@@ -1,0 +1,1380 @@
+<!DOCTYPE html >
+
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#"> <!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="114896831960040" property="fb:pages"> <link href="https://worldtruth.tv/xmlrpc.php" rel="pingback"/>
+<script type="text/javascript">
+(()=>{var e={};e.g=function(){if("object"==typeof globalThis)return globalThis;try{return this||new Function("return this")()}catch(e){if("object"==typeof window)return window}}(),function(n){let{ampUrl:t,isCustomizePreview:r,isAmpDevMode:o,noampQueryVarName:s,noampQueryVarValue:i,disabledStorageKey:a,mobileUserAgents:c,regexRegex:d}=n;if("undefined"==typeof sessionStorage)return;const g=new RegExp(d);if(!c.some((e=>{const n=e.match(g);return!(!n||!new RegExp(n[1],n[2]).test(navigator.userAgent))||navigator.userAgent.includes(e)})))return;e.g.addEventListener("DOMContentLoaded",(()=>{const e=document.getElementById("amp-mobile-version-switcher");if(!e)return;e.hidden=!1;const n=e.querySelector("a[href]");n&&n.addEventListener("click",(()=>{sessionStorage.removeItem(a)}))}));const u=o&&["paired-browsing-non-amp","paired-browsing-amp"].includes(window.name);if(sessionStorage.getItem(a)||r||u)return;const m=new URL(location.href),h=new URL(t);h.hash=m.hash,m.searchParams.has(s)&&i===m.searchParams.get(s)?sessionStorage.setItem(a,"1"):h.href!==m.href&&(window.stop(),location.replace(h.href))}({"ampUrl":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/?amp=1","noampQueryVarName":"noamp","noampQueryVarValue":"mobile","disabledStorageKey":"amp_mobile_redirect_disabled","mobileUserAgents":["Mobile","Android","Silk\/","Kindle","BlackBerry","Opera Mini","Opera Mobi"],"regexRegex":"^\\/((?:.|\n)+)\\/([i]*)$","isCustomizePreview":false,"isAmpDevMode":false})})();
+</script>
+<title>Merck Scientist Dr. Maurice Hilleman Admitted Presence of SV40, AIDS &amp; Cancer Viruses In Vaccines | WorldTruth.Tv</title>
+<meta content="WorldTruth.Tv 08" name="description"/>
+<meta content="max-image-preview:large" name="robots"/>
+<link href="https://worldtruth.tv/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2/" rel="canonical"/>
+<meta content="All in One SEO Pro (AIOSEO) 4.2.8 " name="generator"/>
+<meta content="en_US" property="og:locale"/>
+<meta content='WorldTruth.Tv - Your Alternative News Network. Broadcasting The Truth Since "2011" Alternative Health, Alternative News, Conspiracy, GMO, Fluoride' property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="Merck Scientist Dr. Maurice Hilleman Admitted Presence of SV40, AIDS &amp; Cancer Viruses In Vaccines | WorldTruth.Tv" property="og:title"/>
+<meta content="WorldTruth.Tv 08" property="og:description"/>
+<meta content="https://worldtruth.tv/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2/" property="og:url"/>
+<meta content="2019-07-13T03:57:59+00:00" property="article:published_time"/>
+<meta content="2019-07-25T14:29:30+00:00" property="article:modified_time"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Merck Scientist Dr. Maurice Hilleman Admitted Presence of SV40, AIDS &amp; Cancer Viruses In Vaccines | WorldTruth.Tv" name="twitter:title"/>
+<meta content="WorldTruth.Tv 08" name="twitter:description"/>
+<script class="aioseo-schema" type="application/ld+json">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/#article","name":"Merck Scientist Dr. Maurice Hilleman Admitted Presence of SV40, AIDS & Cancer Viruses In Vaccines | WorldTruth.Tv","headline":"Merck Scientist Dr. Maurice Hilleman Admitted Presence of SV40, AIDS &#038; Cancer Viruses In Vaccines","author":{"@id":"https:\/\/worldtruth.tv\/author\/chloe1127\/#author"},"publisher":{"@id":"https:\/\/worldtruth.tv\/#organization"},"image":{"@type":"ImageObject","url":"https:\/\/worldtruth.tv\/wp-content\/uploads\/2011\/12\/k4y0j.jpg","@id":"https:\/\/worldtruth.tv\/#articleImage"},"datePublished":"2019-07-13T03:57:59-04:00","dateModified":"2019-07-25T14:29:30-04:00","inLanguage":"en-US","mainEntityOfPage":{"@id":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/#webpage"},"isPartOf":{"@id":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/#webpage"},"articleSection":"CONSPIRACY \/ UNEXPLAINED, Education, HEALTH \/ WELLNESS, HISTORY, Home, News, SURVIVAL GUIDE, VIDEO, world truth, AIDS, cancer viruses, SV40"},{"@type":"BreadcrumbList","@id":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/worldtruth.tv\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/worldtruth.tv\/","name":"Home","description":"Your Alternative News Network. Broadcasting The Truth Since \"2011\" Alternative Health, Alternative News, Conspiracy, GMO, Fluoride","url":"https:\/\/worldtruth.tv\/"},"nextItem":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/#listItem"},{"@type":"ListItem","@id":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/#listItem","position":2,"item":{"@type":"WebPage","@id":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/","name":"Merck Scientist Dr. Maurice Hilleman Admitted Presence of SV40, AIDS & Cancer Viruses In Vaccines","description":"WorldTruth.Tv 08","url":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/"},"previousItem":"https:\/\/worldtruth.tv\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/worldtruth.tv\/#organization","name":"wordpress","url":"https:\/\/worldtruth.tv\/"},{"@type":"Person","@id":"https:\/\/worldtruth.tv\/author\/chloe1127\/#author","url":"https:\/\/worldtruth.tv\/author\/chloe1127\/","name":"Eddie","image":{"@type":"ImageObject","@id":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/#authorImage","url":"https:\/\/secure.gravatar.com\/avatar\/c97f61e5f97c939d6c2fe160bda5c591?s=96&r=pg","width":96,"height":96,"caption":"Eddie"},"sameAs":["https:\/\/www.facebook.com\/Eddie.Levite","https:\/\/twitter.com\/WorldTruthTV"]},{"@type":"WebPage","@id":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/#webpage","url":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/","name":"Merck Scientist Dr. Maurice Hilleman Admitted Presence of SV40, AIDS & Cancer Viruses In Vaccines | WorldTruth.Tv","description":"WorldTruth.Tv 08","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/worldtruth.tv\/#website"},"breadcrumb":{"@id":"https:\/\/worldtruth.tv\/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2\/#breadcrumblist"},"author":"https:\/\/worldtruth.tv\/author\/chloe1127\/#author","creator":"https:\/\/worldtruth.tv\/author\/chloe1127\/#author","datePublished":"2019-07-13T03:57:59-04:00","dateModified":"2019-07-25T14:29:30-04:00"},{"@type":"WebSite","@id":"https:\/\/worldtruth.tv\/#website","url":"https:\/\/worldtruth.tv\/","name":"WorldTruth.Tv","description":"Your Alternative News Network. Broadcasting The Truth Since \"2011\" Alternative Health, Alternative News, Conspiracy, GMO, Fluoride","inLanguage":"en-US","publisher":{"@id":"https:\/\/worldtruth.tv\/#organization"}}]}
+		</script>
+<meta content="Dr. Maurice Hilleman Merck vaccine scientist Dr. Maurice Hilleman admitted presence of SV40, AIDS and cancer viruses in vaccines. One of the most prominent vaccine scientists in the history of the vaccine industry -- a Merck scientist -- made a recording where he openly admits that vaccines given to Americans were contaminated with leukemia and cancer viruses. In response, his colleagues (who are also recorded here) break out into laughter and seem to think it's hilarious. They then suggest that because these vaccines are first tested in Russia, they will help the U.S. win the Olympics because the Russian athletes will all" property="og:description"/>
+<meta content="Merck Scientist Dr. Maurice Hilleman Admitted Presence of SV40, AIDS &amp; Cancer Viruses In Vaccines" property="og:title"/>
+<meta content="https://www.facebook.com/WorldTruthTV/" property="article_publisher"/>
+<meta content="377487036440457" property="fb:app_id"/>
+<meta content="article" property="og:type"/>
+<meta content="https://worldtruth.tv/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2/" property="og:url"/>
+<meta content="WorldTruth.Tv" property="og:site_name"/>
+<meta content="2019-07-12T23:57:59-04:00" property="article:published_time"/>
+<meta content="2019-07-25T10:29:30-04:00" property="article:modified_time"/>
+<meta content="2019-07-25T10:29:30-04:00" property="og:updated_time"/>
+<meta content="Merck Scientist Dr. Maurice Hilleman Admitted Presence of SV40, AIDS &amp; Cancer Viruses In Vaccines" name="twitter:title"/>
+<meta content="Dr. Maurice Hilleman Merck vaccine scientist Dr. Maurice Hilleman admitted presence of SV40, AIDS and cancer viruses in vaccines. One of the most prominent vaccine scientists in the history of the vaccine industry -- a Merck scientist -- made a recording where he openly admits that vaccines given to Americans were contaminated with leukemia and cancer viruses. In response, his colleagues (who are also recorded here) break out into laughter and seem to think it's hilarious. They then suggest that because these vaccines are first tested in Russia, they will help the U.S. win the Olympics because the Russian athletes will all" name="twitter:description"/>
+<meta content="@WorldTruthTV" name="twitter:site"/>
+<meta content="@WorldTruthTV" name="twitter:creator"/>
+<meta content="summary" name="twitter:card"/>
+<style>
+	@font-face {
+		font-family: "sw-icon-font";
+		src:url("https://worldtruth.tv/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.4.0");
+		src:url("https://worldtruth.tv/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.4.0#iefix") format("embedded-opentype"),
+		url("https://worldtruth.tv/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=4.4.0") format("woff"),
+		url("https://worldtruth.tv/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=4.4.0") format("truetype"),
+		url("https://worldtruth.tv/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=4.4.0#1445203416") format("svg");
+		font-weight: normal;
+		font-style: normal;
+		font-display:block;
+	}
+</style>
+<link href="https://worldtruth.tv/wp-content/uploads/2017/08/favicon.ico.png" rel="icon" type="image/png"/><link href="//fonts.googleapis.com" rel="dns-prefetch">
+<link href="https://worldtruth.tv/feed/" rel="alternate" title="WorldTruth.Tv » Feed" type="application/rss+xml"/>
+<link href="https://worldtruth.tv/comments/feed/" rel="alternate" title="WorldTruth.Tv » Comments Feed" type="application/rss+xml"/>
+<script async="" data-cfasync="false" data-wpfc-render="false" src="//www.googletagmanager.com/gtag/js?id=UA-4814342-1" type="text/javascript"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.12.1';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+															'ga-disable-UA-4814342-1',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+							
+														parameters.send_to = monsterinsights_frontend.ua;
+							__gtagDataLayer(type, name, parameters);
+													} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+															__gtagTracker('config', 'UA-4814342-1', {"forceSSL":"true","link_attribution":"true"} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/worldtruth.tv\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://worldtruth.tv/wp-content/plugins/social-warfare/assets/js/post-editor/dist/blocks.style.build.css?ver=6.1.1" id="social-warfare-block-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//worldtruth.tv/wp-content/plugins/feedburner-form/control/fbstyle.css?ver=6.1.1" id="fb_data_style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://worldtruth.tv/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://worldtruth.tv/wp-includes/css/classic-themes.min.css?ver=1" id="classic-theme-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://worldtruth.tv/wp-content/plugins/accesspress-social-counter/css/fontawesome-all.css?ver=1.9.2" id="fontawesome-five-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://worldtruth.tv/wp-content/plugins/accesspress-social-counter/css/frontend.css?ver=1.9.2" id="apsc-frontend-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://worldtruth.tv/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=4.4.0" id="social_warfare-css" media="all" rel="stylesheet" type="text/css"/>
+<link crossorigin="anonymous" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%7CRoboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900&amp;ver=8.7.4" id="google-fonts-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://worldtruth.tv/wp-content/themes/Newspaper87/theme-new-style.css?ver=20170689" id="second-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://worldtruth.tv/wp-content/themes/Newspaper87/style-parent.css?ver=20130689" id="parent-my-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://worldtruth.tv/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.5.2" id="js_composer_front-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://worldtruth.tv/wp-content/themes/Newspaper87/style.css?ver=8.7.4" id="td-theme-css" media="all" rel="stylesheet" type="text/css"/>
+<script defer="defer" id="monsterinsights-frontend-script-js" src="https://worldtruth.tv/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.12.1" type="text/javascript"></script>
+<script data-cfasync="false" data-wpfc-render="false" id="monsterinsights-frontend-script-js-extra" type="text/javascript">/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/worldtruth.tv","hash_tracking":"false","ua":"UA-4814342-1","v4_id":""};/* ]]> */
+</script>
+<script id="jquery-core-js" src="https://worldtruth.tv/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" type="text/javascript"></script>
+<script defer="defer" id="jquery-migrate-js" src="https://worldtruth.tv/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<link href="https://worldtruth.tv/wp-json/" rel="https://api.w.org/"/><link href="https://worldtruth.tv/wp-json/wp/v2/posts/6644" rel="alternate" type="application/json"/><link href="https://worldtruth.tv/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://worldtruth.tv/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 6.1.1" name="generator">
+<link href="https://worldtruth.tv/?p=6644" rel="shortlink"/>
+<link href="https://worldtruth.tv/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworldtruth.tv%2Fmerck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://worldtruth.tv/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworldtruth.tv%2Fmerck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script type="text/javascript">
+// IE Evitar seleccion de texto
+document.onselectstart=function(){
+if (event.srcElement.type != "text" && event.srcElement.type != "textarea" && event.srcElement.type != "password")
+return false
+else return true;
+};
+
+// FIREFOX Evitar seleccion de texto
+if (window.sidebar){
+document.onmousedown=function(e){
+var obj=e.target;
+if (obj.tagName.toUpperCase() == "INPUT" || obj.tagName.toUpperCase() == "TEXTAREA" || obj.tagName.toUpperCase() == "PASSWORD")
+return true;
+/*else if (obj.tagName=="BUTTON"){
+return true;
+}*/
+else
+return false;
+}
+}
+// End -->
+</script>
+<link href="https://worldtruth.tv/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2/?amp=1" media="only screen and (max-width: 640px)" rel="alternate" type="text/html"/> <script>
+				window.tdwGlobal = {"adminUrl":"https:\/\/worldtruth.tv\/wp-admin\/","wpRestNonce":"552768f33c","wpRestUrl":"https:\/\/worldtruth.tv\/wp-json\/","permalinkStructure":"\/%postname%\/"};
+			</script>
+<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+<meta content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name="generator">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://worldtruth.tv/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><link href="https://worldtruth.tv/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2/?amp=1" rel="amphtml"/><style>#amp-mobile-version-switcher{left:0;position:absolute;width:100%;z-index:100}#amp-mobile-version-switcher>a{background-color:#444;border:0;color:#eaeaea;display:block;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:16px;font-weight:600;padding:15px 0;text-align:center;-webkit-text-decoration:none;text-decoration:none}#amp-mobile-version-switcher>a:active,#amp-mobile-version-switcher>a:focus,#amp-mobile-version-switcher>a:hover{-webkit-text-decoration:underline;text-decoration:underline}</style>
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
+                htmlTag.className += ' ieEdge';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img";
+var td_ajax_url="https:\/\/worldtruth.tv\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=8.7.4";
+var td_get_template_directory_uri="https:\/\/worldtruth.tv\/wp-content\/themes\/Newspaper87";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="9";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript> <style id="tdw-css-placeholder"></style>
+<link href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" rel="stylesheet" type="text/css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#f1d600"
+    }
+  },
+  "cookie": {
+    "expiryDays": 1
+  },  
+  "content": {
+    "href": "https://worldtruth.tv/legal-disclaimer/"
+  }
+})});
+</script>
+<script async="" data-ad-client="ca-pub-8947047327644044" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async="" custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
+</link></meta></meta></link></meta></head>
+<body atiar="cse" class="post-template-default single single-post postid-6644 single-format-standard merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2 global-block-template-1 wpb-js-composer js-comp-ver-5.5.2 vc_responsive td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<amp-auto-ads data-ad-client="ca-pub-8947047327644044" type="adsense">
+</amp-auto-ads>
+<div id="fb-root"></div> <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=108195119733818";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+<div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+<div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+<div class="td-mobile-container">
+<div class="td-menu-socials-wrap">
+<div class="td-menu-socials">
+<span class="td-social-icon-wrap">
+<a href="https://www.facebook.com/WorldTruthTV" target="_blank" title="Facebook">
+<i class="td-icon-font td-icon-facebook"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a href="https://www.instagram.com/worldtruth.tv/" target="_blank" title="Instagram">
+<i class="td-icon-font td-icon-instagram"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a href="http://feeds.feedburner.com/ConsciousnessTv" target="_blank" title="RSS">
+<i class="td-icon-font td-icon-rss"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a href="https://twitter.com/WorldTruthTV" target="_blank" title="Twitter">
+<i class="td-icon-font td-icon-twitter"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a href="https://www.youtube.com/user/TreTruthSeeker1" target="_blank" title="Youtube">
+<i class="td-icon-font td-icon-youtube"></i>
+</a>
+</span> </div>
+<div class="td-mobile-close">
+<a href="#"><i class="td-icon-close-mobile"></i></a>
+</div>
+</div>
+<div class="td-mobile-content">
+<div class="menu-main-menu-container"><ul class="td-mobile-main-menu" id="menu-main-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first menu-item-65175" id="menu-item-65175"><a href="https://worldtruth.tv/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-65257" id="menu-item-65257"><a>Archives<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-109684" id="menu-item-109684"><a href="https://worldtruth.tv/2017/">2017<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156725" id="menu-item-156725"><a href="https://worldtruth.tv/2017/12/">December</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-158917" id="menu-item-158917"><a href="https://worldtruth.tv/2018/">2018<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158918" id="menu-item-158918"><a href="https://worldtruth.tv/2018/01/">January</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160672" id="menu-item-160672"><a href="https://worldtruth.tv/2018/02/">February</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163342" id="menu-item-163342"><a href="https://worldtruth.tv/2018/03/">March</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-164435" id="menu-item-164435"><a href="https://worldtruth.tv/2018/04/">April</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-166479" id="menu-item-166479"><a href="https://worldtruth.tv/2018/05/">May</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168215" id="menu-item-168215"><a href="https://worldtruth.tv/2018/06/">June</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-171721" id="menu-item-171721"><a href="https://worldtruth.tv/2018/07/">July</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-171720" id="menu-item-171720"><a href="https://worldtruth.tv/2018/08/">August</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-172250" id="menu-item-172250"><a href="https://worldtruth.tv/2018/09/">September</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-172251" id="menu-item-172251"><a href="https://worldtruth.tv/2018/10/">October</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-172253" id="menu-item-172253"><a href="https://worldtruth.tv/2018/11/">November</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-172254" id="menu-item-172254"><a href="https://worldtruth.tv/2018/12/">December</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-181326" id="menu-item-181326"><a href="https://worldtruth.tv/2019/">2019<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181327" id="menu-item-181327"><a href="https://worldtruth.tv/2019/01/">January</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182120" id="menu-item-182120"><a href="https://worldtruth.tv/2019/02/">February</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182976" id="menu-item-182976"><a href="https://worldtruth.tv/2019/03/">March</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-184194" id="menu-item-184194"><a href="https://worldtruth.tv/2019/04/">April</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-184923" id="menu-item-184923"><a href="https://worldtruth.tv/2019/05/">May</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-186081" id="menu-item-186081"><a href="https://worldtruth.tv/2019/06/">June</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187060" id="menu-item-187060"><a href="https://worldtruth.tv/2019/07/">July</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187816" id="menu-item-187816"><a href="https://worldtruth.tv/2019/08/">August</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-188835" id="menu-item-188835"><a href="https://worldtruth.tv/2019/09/">September</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189843" id="menu-item-189843"><a href="https://worldtruth.tv/2019/10/">October</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190741" id="menu-item-190741"><a href="https://worldtruth.tv/2019/11/">November</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190742" id="menu-item-190742"><a href="https://worldtruth.tv/2019/12/">December</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-192529" id="menu-item-192529"><a href="https://worldtruth.tv/2020/">2020<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192530" id="menu-item-192530"><a href="https://worldtruth.tv/2020/01/">January</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193600" id="menu-item-193600"><a href="https://worldtruth.tv/2020/02/">February</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-194345" id="menu-item-194345"><a href="https://worldtruth.tv/2020/03/">March</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195086" id="menu-item-195086"><a href="https://worldtruth.tv/2020/04/">April</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196196" id="menu-item-196196"><a href="https://worldtruth.tv/2020/05/">May</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197185" id="menu-item-197185"><a href="https://worldtruth.tv/2020/06/">June</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197847" id="menu-item-197847"><a href="https://worldtruth.tv/2020/07/">July</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198693" id="menu-item-198693"><a href="https://worldtruth.tv/2020/08/">August</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-199383" id="menu-item-199383"><a href="https://worldtruth.tv/2020/09/">September</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-199766" id="menu-item-199766"><a href="https://worldtruth.tv/2020/10/">October</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-200509" id="menu-item-200509"><a href="https://worldtruth.tv/2020/11/">November</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-200510" id="menu-item-200510"><a href="https://worldtruth.tv/2020/12/">December</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65176" id="menu-item-65176"><a href="https://worldtruth.tv/aboutus/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65181" id="menu-item-65181"><a href="https://worldtruth.tv/advertise/">Advertise</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65178" id="menu-item-65178"><a href="https://worldtruth.tv/dmca/">DMCA</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65179" id="menu-item-65179"><a href="https://worldtruth.tv/legal-disclaimer/">Legal Disclaimer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65180" id="menu-item-65180"><a href="https://worldtruth.tv/sitemap/">Sitemaps</a></li>
+</ul></div> </div>
+</div>
+</div> <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+<div aria-labelledby="td-header-search-button" class="td-drop-down-search">
+<form action="https://worldtruth.tv/" class="td-search-form" method="get">
+<div class="td-search-close">
+<a href="#"><i class="td-icon-close-mobile"></i></a>
+</div>
+<div class="td-search-input" role="search">
+<span>Search</span>
+<input autocomplete="off" id="td-header-search-mob" name="s" type="text" value=""/>
+</div>
+</form>
+<div id="td-aj-search-mob"></div>
+</div>
+</div>
+<div class="td-theme-wrap" id="td-outer-wrap">
+<div class="td-header-wrap td-header-style-9">
+<div class="td-header-top-menu-full td-container-wrap">
+<div class="td-container td-header-row td-header-top-menu">
+<div class="top-bar-style-1">
+<div class="td-header-sp-top-menu">
+<div class="td-weather-top-widget" id="td_top_weather_uid">
+<i class="td-icons clear-sky-n"></i>
+<div class="td-weather-now" data-block-uid="td_top_weather_uid">
+<span class="td-big-degrees">39.6</span>
+<span class="td-weather-unit">F</span>
+</div>
+<div class="td-weather-header">
+<div class="td-weather-city">New York</div>
+</div>
+</div>
+<div class="td_data_time">
+<div>
+Wednesday, March 8, 2023
+</div>
+</div>
+</div>
+<div class="td-header-sp-top-widget">
+<span class="td-social-icon-wrap">
+<a href="https://www.facebook.com/WorldTruthTV" target="_blank" title="Facebook">
+<i class="td-icon-font td-icon-facebook"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a href="https://www.instagram.com/worldtruth.tv/" target="_blank" title="Instagram">
+<i class="td-icon-font td-icon-instagram"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a href="http://feeds.feedburner.com/ConsciousnessTv" target="_blank" title="RSS">
+<i class="td-icon-font td-icon-rss"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a href="https://twitter.com/WorldTruthTV" target="_blank" title="Twitter">
+<i class="td-icon-font td-icon-twitter"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a href="https://www.youtube.com/user/TreTruthSeeker1" target="_blank" title="Youtube">
+<i class="td-icon-font td-icon-youtube"></i>
+</a>
+</span> </div> </div>
+</div>
+</div>
+<div class="td-banner-wrap-full td-logo-wrap-full td-container-wrap">
+<div class="td-header-sp-logo">
+<a class="td-main-logo" href="https://worldtruth.tv/">
+<img alt="" src="https://worldtruth.tv/wp-content/uploads/2017/08/logo-world.png"/>
+<span class="td-visual-hidden">WorldTruth.Tv</span>
+</a>
+</div>
+</div>
+<div class="td-header-menu-wrap-full td-container-wrap">
+<div class="td-header-menu-wrap td-header-gradient">
+<div class="td-container td-header-row td-header-main-menu">
+<div id="td-header-menu" role="navigation">
+<div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+<div class="td-main-menu-logo td-logo-in-header">
+<a class="td-main-logo" href="https://worldtruth.tv/">
+<img alt="" src="https://worldtruth.tv/wp-content/uploads/2017/08/logo-world.png"/>
+</a>
+</div>
+<div class="menu-main-menu-container"><ul class="sf-menu" id="menu-main-menu-1"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-65175"><a href="https://worldtruth.tv/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-65257"><a>Archives</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-109684"><a href="https://worldtruth.tv/2017/">2017</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-156725"><a href="https://worldtruth.tv/2017/12/">December</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-158917"><a href="https://worldtruth.tv/2018/">2018</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-158918"><a href="https://worldtruth.tv/2018/01/">January</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-160672"><a href="https://worldtruth.tv/2018/02/">February</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-163342"><a href="https://worldtruth.tv/2018/03/">March</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-164435"><a href="https://worldtruth.tv/2018/04/">April</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-166479"><a href="https://worldtruth.tv/2018/05/">May</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-168215"><a href="https://worldtruth.tv/2018/06/">June</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-171721"><a href="https://worldtruth.tv/2018/07/">July</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-171720"><a href="https://worldtruth.tv/2018/08/">August</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-172250"><a href="https://worldtruth.tv/2018/09/">September</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-172251"><a href="https://worldtruth.tv/2018/10/">October</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-172253"><a href="https://worldtruth.tv/2018/11/">November</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-172254"><a href="https://worldtruth.tv/2018/12/">December</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-181326"><a href="https://worldtruth.tv/2019/">2019</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-181327"><a href="https://worldtruth.tv/2019/01/">January</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-182120"><a href="https://worldtruth.tv/2019/02/">February</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-182976"><a href="https://worldtruth.tv/2019/03/">March</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-184194"><a href="https://worldtruth.tv/2019/04/">April</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-184923"><a href="https://worldtruth.tv/2019/05/">May</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-186081"><a href="https://worldtruth.tv/2019/06/">June</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-187060"><a href="https://worldtruth.tv/2019/07/">July</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-187816"><a href="https://worldtruth.tv/2019/08/">August</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-188835"><a href="https://worldtruth.tv/2019/09/">September</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-189843"><a href="https://worldtruth.tv/2019/10/">October</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-190741"><a href="https://worldtruth.tv/2019/11/">November</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-190742"><a href="https://worldtruth.tv/2019/12/">December</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-192529"><a href="https://worldtruth.tv/2020/">2020</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-192530"><a href="https://worldtruth.tv/2020/01/">January</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-193600"><a href="https://worldtruth.tv/2020/02/">February</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-194345"><a href="https://worldtruth.tv/2020/03/">March</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-195086"><a href="https://worldtruth.tv/2020/04/">April</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-196196"><a href="https://worldtruth.tv/2020/05/">May</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-197185"><a href="https://worldtruth.tv/2020/06/">June</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-197847"><a href="https://worldtruth.tv/2020/07/">July</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-198693"><a href="https://worldtruth.tv/2020/08/">August</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-199383"><a href="https://worldtruth.tv/2020/09/">September</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-199766"><a href="https://worldtruth.tv/2020/10/">October</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-200509"><a href="https://worldtruth.tv/2020/11/">November</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu menu-item-200510"><a href="https://worldtruth.tv/2020/12/">December</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-65176"><a href="https://worldtruth.tv/aboutus/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-65181"><a href="https://worldtruth.tv/advertise/">Advertise</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-65178"><a href="https://worldtruth.tv/dmca/">DMCA</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-65179"><a href="https://worldtruth.tv/legal-disclaimer/">Legal Disclaimer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-65180"><a href="https://worldtruth.tv/sitemap/">Sitemaps</a></li>
+</ul></div></div>
+<div class="td-search-wrapper">
+<div id="td-top-search">
+<div class="header-search-wrap">
+<div class="dropdown header-search">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="td-header-search-button" role="button"><i class="td-icon-search"></i></a>
+<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="td-header-search-button-mob" role="button"><i class="td-icon-search"></i></a>
+</div>
+</div>
+</div>
+</div>
+<div class="header-search-wrap">
+<div class="dropdown header-search">
+<div aria-labelledby="td-header-search-button" class="td-drop-down-search">
+<form action="https://worldtruth.tv/" class="td-search-form" method="get">
+<div class="td-head-form-search-wrap" role="search">
+<input autocomplete="off" id="td-header-search" name="s" type="text" value=""/><input class="wpb_button wpb_btn-inverse btn" id="td-header-search-top" type="submit" value="Search"/>
+</div>
+</form>
+<div id="td-aj-search"></div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div><div class="td-main-content-wrap td-container-wrap">
+<div class="td-container td-post-template-default">
+<div class="td-crumb-container"></div>
+<div class="td-pb-row">
+<div class="td-pb-span8 td-main-content" role="main">
+<div class="td-ss-main-content">
+<article class="post-6644 post type-post status-publish format-standard hentry category-conspiracy-theories category-education category-health category-history category-home category-news category-survival-guide category-video category-world-truth tag-aids tag-cancer-viruses tag-sv40" id="post-6644" itemscope="" itemtype="https://schema.org/Article">
+<div class="td-post-header">
+<header class="td-post-title">
+<h1 class="entry-title">Merck Scientist Dr. Maurice Hilleman Admitted Presence of SV40, AIDS &amp; Cancer Viruses In Vaccines</h1>
+<div class="td-module-meta-info">
+</div>
+</header>
+</div>
+<div class="td-post-content atiar21">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-content_top td_uid_2_6409525f1b3b1_rand td_block_template_1">
+<script type="text/javascript">
+var td_screen_width = window.innerWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-8947047327644044" data-ad-slot="1265461854"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-8947047327644044" data-ad-slot="1265461854"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-8947047327644044" data-ad-slot="1265461854"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-8947047327644044" data-ad-slot="1265461854"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+<div class="swp_social_panel swp_horizontal_panel swp_shift swp_default_full_color swp_other_full_color swp_individual_full_color scale-110 scale-full_width" data-float="bottom" data-float-color="#ffffff" data-float-mobile="bottom" data-min-width="1100" data-post-id="6644" data-transition="slide"><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fworldtruth.tv%2Fmerck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2%2F" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fworldtruth.tv%2Fmerck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2%2F" rel="nofollow noreferrer noopener" target="_blank"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span><span class="swp_count">20K</span></a></div><div class="nc_tweetContainer swp_share_button swp_reddit" data-network="reddit"><a class="nc_tweet swp_share_link" data-link="https://www.reddit.com/submit?url=https%3A%2F%2Fworldtruth.tv%2Fmerck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2%2F" href="https://www.reddit.com/submit?url=https%3A%2F%2Fworldtruth.tv%2Fmerck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2%2F" rel="nofollow noreferrer noopener" target="_blank"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_reddit_icon"></i><span class="swp_share">Reddit</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" data-link="https://twitter.com/intent/tweet?text=Merck+Scientist+Dr.+Maurice+Hilleman+Admitted+Presence+of+SV40%2C+AIDS+%26+Cancer+Viruses+In+Vaccines&amp;url=https%3A%2F%2Fworldtruth.tv%2Fmerck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2%2F&amp;via=WorldTruthTV" href="https://twitter.com/intent/tweet?text=Merck+Scientist+Dr.+Maurice+Hilleman+Admitted+Presence+of+SV40%2C+AIDS+%26+Cancer+Viruses+In+Vaccines&amp;url=https%3A%2F%2Fworldtruth.tv%2Fmerck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2%2F&amp;via=WorldTruthTV" rel="nofollow noreferrer noopener" target="_blank"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_telegram" data-network="telegram"><a class="nc_tweet swp_share_link" data-link="https://telegram.me/share/url?url=https%3A%2F%2Fworldtruth.tv%2Fmerck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2%2F&amp;text=Merck+Scientist+Dr.+Maurice+Hilleman+Admitted+Presence+of+SV40%2C+AIDS+%26+Cancer+Viruses+In+Vaccines" href="https://telegram.me/share/url?url=https%3A%2F%2Fworldtruth.tv%2Fmerck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2%2F&amp;text=Merck+Scientist+Dr.+Maurice+Hilleman+Admitted+Presence+of+SV40%2C+AIDS+%26+Cancer+Viruses+In+Vaccines" rel="nofollow noreferrer noopener" target="_blank"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_telegram_icon"></i><span class="swp_share">Telegram</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_more" data-network="more"><a class="nc_tweet swp_share_link" data-link="#" href="#" rel="nofollow noreferrer noopener" target="_blank"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_more_icon"></i><span class="swp_share">More</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_email" data-network="email"><a class="nc_tweet noPop swp_share_link" href="/cdn-cgi/l/email-protection#e6d99593848c838592dbab8394858dc3d4d6b5858f8388928f9592c3d4d6a294c8c3d4d6ab8793948f8583c3d4d6ae8f8a8a838b8788c3d4d6a7828b8f92928382c3d4d6b694839583888583c3d4d68980c3d4d6b5b0d2d6c3d4a5c3d4d6a7afa2b5c3d4d6c3d4d0c3d4d6a58788858394c3d4d6b08f9493958395c3d4d6af88c3d4d6b08785858f888395c08489829fdba294c8c3d4d6ab8793948f8583c3d4d6ae8f8a8a838b8788c3d4d6ab8394858dc3d4d6908785858f8883c3d4d695858f8388928f9592c3d4d6a294c8c3d4d6ab8793948f8583c3d4d6ae8f8a8a838b8788c3d4d687828b8f92928382c3d4d69694839583888583c3d4d68980c3d4d6b5b0d2d6c3d4a5c3d4d6a7afa2b5c3d4d6878882c3d4d6858788858394c3d4d6908f9493958395c3d4d68f88c3d4d6908785858f888395c8c3d4d6a98883c3d4d68980c3d4d6928e83c3d4d68b899592c3d4d69694898b8f88838892c3d4d6908785858f8883c3d4d695858f8388928f959295c3d4d68f88c3d4d6928e83c3d4d68e8f959289949fc3d4d68980c3d4d6928e83c3d4d6908785858f8883c3d4d68f8882939592949fc3d4d6cbcbc3d4d687c3d4d6ab8394858dc3d4d695858f8388928f9592c3d4d6cbcbc3d4d68b878283c3d4d687c3d4d69483858994828f8881c3d4d6918e839483c3d4d68e83c3d4d6899683888a9fc3d4d687828b8f9295c3d4d6928e8792c3d4d6908785858f888395c3d4d6818f908388c3d4d69289c3d4d6a78b83948f85878895c3d4d691839483c3d4d685898892878b8f8887928382c3d4d6918f928ec3d4d68a83938d838b8f87c3d4d6878882c3d4d6858788858394c3d4d6908f9493958395c8c3d4d6af88c3d4d69483959689889583c3d4a5c3d4d68e8f95c3d4d685898a8a838781938395c3d4d6c3d4de918e89c3d4d6879483c3d4d6878a9589c3d4d69483858994828382c3d4d68e839483c3d4dfc3a5d4c3a7d6849483878dc3d4d6899392c3d4d68f889289c3d4d68a8793818e928394c3a5d4c3a7d6878882c3d4d69583838bc3d4d69289c3d4d6928e8f888dc3d4d68f92c3d4d195c3d4d68e8f8a87948f899395c8c3d4d6b28e839fc3d4d6928e8388c3d4d695938181839592c3d4d6928e8792c3d4d684838587939583c3d4d6928e839583c3d4d6908785858f888395c3d4d6879483c3d4d6808f949592c3d4d6928395928382c3d4d68f88c3d4d6b49395958f87c3d4a5c3d4d6928e839fc3d4d6918f8a8ac3d4d68e838a96c3d4d6928e83c3d4d6b3c8b5c8c3d4d6918f88c3d4d6928e83c3d4d6a98a9f8b968f8595c3d4d684838587939583c3d4d6928e83c3d4d6b49395958f8788c3d4d687928e8a83928395c3d4d6918f8a8ac3d4d6878a8ac3d6a2c3d6a7c3d6a2c3d6a7b4838782c6ab899483c6ae839483dcc6c3d4d68e92929695c3d5a7c3d4a0c3d4a09189948a82929493928ec89290c3d4a08b8394858dcb95858f8388928f9592cb8294cb8b8793948f8583cb8e8f8a8a838b8788cb87828b8f92928382cb9694839583888583cb8980cb9590d2d6cb878f8295cb878882cb858788858394cb908f9493958395cb8f88cb908785858f888395cbd4c3d4a0" rel="nofollow noreferrer noopener" target="_blank"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_email_icon"></i><span class="swp_share">Email</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button total_shares total_sharesalt"><span class="swp_count">20K <span class="swp_label">Shares</span></span></div></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-content_inline td_uid_1_6409525f1ac29_rand td_block_template_1">
+<script type="text/javascript">
+var td_screen_width = window.innerWidth;
+
+                    if ( td_screen_width >= 1140 ) {
+                        /* large monitors */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-8947047327644044" data-ad-slot="1265461854"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+            
+	                    if ( td_screen_width >= 1019  && td_screen_width < 1140 ) {
+	                        /* landscape tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-8947047327644044" data-ad-slot="1265461854"></ins>');
+	                        (adsbygoogle = window.adsbygoogle || []).push({});
+	                    }
+	                
+                    if ( td_screen_width >= 768  && td_screen_width < 1019 ) {
+                        /* portrait tablets */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-8947047327644044" data-ad-slot="1265461854"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                
+                    if ( td_screen_width < 768 ) {
+                        /* Phones */
+                        document.write('<ins class="adsbygoogle" style="display:inline-block;width:320px;height:50px" data-ad-client="ca-pub-8947047327644044" data-ad-slot="1265461854"></ins>');
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                </script>
+</div>
+<p style="text-align: center;"><a href="https://worldtruth.tv/wp-content/uploads/2011/12/k4y0j.jpg"><img alt="" class="aligncenter size-full wp-image-6640" decoding="async" height="319" src="https://worldtruth.tv/wp-content/uploads/2011/12/k4y0j.jpg" title="k4y0j" width="273"/></a></p>
+<p style="text-align: center;"><strong>Dr. Maurice Hilleman</strong></p>
+<p style="text-align: center;"><strong>Merck vaccine scientist Dr. Maurice Hilleman admitted presence of SV40, AIDS and cancer viruses in vaccines.</strong></p>
+<p style="text-align: center;">One of the most prominent vaccine scientists in the history of the vaccine industry — a Merck scientist — made a recording where he openly admits that vaccines given to Americans were contaminated with leukemia and cancer viruses. In response, his colleagues (who are also recorded here) <strong>break out into laughter </strong>and seem to think it’s hilarious. They then suggest that because these vaccines are first tested in Russia, they will help the U.S. win the Olympics because the Russian athletes will all be “loaded down with tumors.” (Thus, they knew these vaccines caused cancer in humans.)</p>
+<p style="text-align: center;">This isn’t some conspiracy theory — these are the words of a top Merck scientist who probably had no idea that his recording would be widely reviewed across the internet (which didn’t even exist when he made this recording). He probably thought this would remain a secret forever. When asked why this didn’t get out to the press, he replied “Obviously you don’t go out, this is a scientific affair within the scientific community.”</p>
+<p style="text-align: center;">In other words, vaccine scientists cover for vaccine scientists. They keep all their dirty secrets within their own circle of silence and don’t reveal the truth about the contamination of their vaccines.</p>
+<p style="text-align: center;">Here is the full transcript. (Thanks are due to Dr. Len Horowitz for finding this recording and making it publicly available.)</p>
+<p><center><strong>Transcript of audio interview with Dr. Maurice Hilleman</strong></center></p>
+<p style="text-align: center;"><strong>Dr. Len Horowitz</strong>: Listen now to the voice of the worlds leading vaccine expert Dr Maurice Hilleman, Chief of the Merck Pharmaceutical Company’s vaccine division relay this problem he was having with imported monkeys. He best explains the origin of AIDS, but what you are about to hear was cut from any public disclosures.</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: and I think that vaccines have to be considered the bargain basement technology for the 20th century.</p>
+<p style="text-align: center;"><strong>Narrator</strong>: 50 years ago when Maurice Hilleman was a high school student in Miles City Montana, he hoped he might qualify as a management trainee for the local JC Penney’s store. Instead he went on to pioneer more breakthroughs in vaccine research and development than anyone in the history of American medicine. Among the discoveries he made at Merck, are vaccines for mumps, rubella and measles…</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: Tell me how you found SV40 and the polio vaccine.</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: Well, that was at Merck. Yeah, I came to Merck. And uh, I was going to develop vaccines. And we had wild viruses in those days. You remember the wild monkey kidney viruses and so forth? And I finally after 6 months gave up and said that you cannot develop vaccines with these damn monkeys, we’re finished and if I can’t do something I’m going to quit, I’m not going to try it. So I went down to see Bill Mann at the zoo in Washington DC and I told Bill Mann, I said “look, I got a problem and I don’t know what the hell to do.” Bill Mann is a real bright guy. I said that these lousy monkeys are picking it up while being stored in the airports in transit, loading, off loading. He said, very simply, you go ahead and get your monkeys out of West Africa and get the African Green, bring them into Madrid unload them there, there is no other traffic there for animals, fly them into Philadelphia and pick them up. Or fly them into New York and pick them up, right off the airplane. So we brought African Greens in and I didn’t know we were importing the AIDS virus at the time.</p>
+<p><center><iframe allowfullscreen="allowfullscreen" frameborder="0" height="360" loading="lazy" src="https://www.youtube.com/embed/-uGWut6IRfA" width="640"><span class="mce_SELRES_start" data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;">﻿</span></iframe></center></p>
+<p style="text-align: center;"><strong>Miscellaneous background voices</strong>:…(laughter)… it was you who introduced the AIDS virus into the country. Now we know! (laughter) This is the real story! (laughter) What Merck won’t do to develop a vaccine! (laughter)</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: So what he did, he brought in, I mean we brought in those monkeys, I only had those and this was the solution because those monkeys didn’t have the wild viruses but we…</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: Wait, why didn’t the greens have the wild viruses since they came from Africa?</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …because they weren’t, they weren’t, they weren’t being infected in these group holding things with all the other 40 different viruses…</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: but they had the ones that they brought from the jungle though…</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …yeah, they had those, but those were relatively few what you do you have a gang housing you’re going to have an epidemic transmission of infection in a confined space. So anyway, the greens came in and now we have these and were taking our stocks to clean them up and god now I’m discovering new viruses. So, I said Judas Priest. Well I got an invitation from the Sister Kinney Foundation which was the opposing foundation when it was the live virus…</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: Ah, right…</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: Yeah, they had jumped on the Sabin’s band wagon and they had asked me to come down and give a talk at the Sister Kinney Foundation meeting and I saw it was an international meeting and god, what am I going to talk about? I know what I’m going to do, I’m going to talk about the detection of non detectable viruses as a topic.</p>
+<p style="text-align: center;"><strong>Dr Albert Sabin</strong>…there were those who didn’t want a live virus vaccine… (unintelligible) …concentrated all its efforts on getting more and more people to use the killed virus vaccine, while they were supporting me for research on the live viruses.</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: So now I got to have something (laughter), you know that going to attract attention. And gee, I thought that damn SV40, I mean that damn vaculating agent that we have, I’m just going to pick that particular one, that virus has got to be in vaccines, it’s got to be in the Sabin’s vaccines so I quick tested it (laughter) and sure enough it was in there.</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: I’ll be damned</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: … And so now…</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: …so you just took stocks of Sabin’s vaccines off the shelf here at Merck…</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …yeah, well it had been made, it was made at Merck…</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: You were making it for Sabin at this point?</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …Yeah, it was made before I came…</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: yeah, but at this point Sabin is still just doing massive field trials…</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …uh huh</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: okay,</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …in Russia and so forth. So I go down and I talked about the detection of non detectable viruses and told Albert, I said listen Albert you know you and I are good friends but I’m going to go down there and you’re going to get upset. I’m going to talk about the virus that it’s in your vaccine. You’re going to get rid of the virus, don’t worry about it, you’re going to get rid of it… but umm, so of course Albert was very upset…</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: What did he say?</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …well he said basically, that this is just another obfuscation that’s going to upset vaccines. I said well you know, you’re absolutely right, but we have a new era here we have a new era of the detection and the important thing is to get rid of these viruses.</p>
+<p><center><strong>Dr Edward Shorter</strong>: Why would he call it an obfuscation if it was a virus that was contaminating the vaccine?</center></p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …well there are 40 different viruses in these vaccines anyway that we were inactivating and uh,</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: but you weren’t inactivating his though…</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …no that’s right, but yellow fever vaccine had leukemia virus in it and you know this was in the days of very crude science. So anyway I went down and talked to him and said well, why are you concerned about it? Well I said “I’ll tell you what, I have a feeling in my bones that this virus is different, I don’t know why to tell you this but I …(unintelligible) …I just think this virus will have some long term effects.” And he said what? And I said “cancer”. (laughter) I said Albert, you probably think I’m nuts, but I just have that feeling. Well in the mean time we had taken this virus and put it into monkeys and into hamsters. So we had this meeting and that was sort of the topic of the day and the jokes that were going around was that “gee, we would win the Olympics because the Russians would all be loaded down with tumors.” (laughter) This was where the vaccine was being tested, this was where… so, uhh, and it really destroyed the meeting and it was sort of the topic. Well anyway…</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: Was this the physicians… (unintelligible) …meeting in New York?</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>…well no, this was at Sister Kinney…</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: Sister Kinney, right…</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …and Del Becco (sp) got up and he foresaw problems with these kinds of agents.</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: Why didn’t this get out into the press?</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …well, I guess it did I don’t remember. We had no press release on it. Obviously you don’t go out, this is a scientific affair within the scientific community…</p>
+<p style="text-align: center;"><strong>Voice of news reporter</strong>: …an historic victory over a dread disease is dramatically unfolded at the U of Michigan. Here scientists usher in a new medical age with the monumental reports that prove that the Salk vaccine against crippling polio to be a sensational success. It’s a day of triumph for 40 year old Dr. Jonas E Salk developer of the vaccine. He arrives here with Basil O’Connor the head of the National Foundation for Infantile Paralysis that financed the tests. Hundreds of reporters and scientists gathered from all over the nation gathered for the momentous announcement….</p>
+<p style="text-align: center;"><a href="https://worldtruth.tv/wp-content/uploads/2011/12/trends-600x461.jpg"><img alt="" class="aligncenter size-full wp-image-14948" decoding="async" height="461" loading="lazy" src="https://worldtruth.tv/wp-content/uploads/2011/12/trends-600x461.jpg" title="trends (600x461)" width="600"/></a></p>
+<p style="text-align: center;"><strong>Dr Albert Sabin</strong>: …it was too much of a show, it was too much Hollywood. There was too much exaggeration and the impression in 1957 that was, no in 1954 that was given was that the problem had been solved , polio had been conquered.</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …but, anyway we knew it was in our seed stock from making vaccines. That virus you see, is one in 10,000 particles is not an activated… (unintelligible) …it was good science at the time because that was what you did. You didn’t worry about these wild viruses.</p>
+<p style="text-align: center;"><strong>Dr Edward Shorter</strong>: So you discovered, it wasn’t being inactivated in the Salk vaccine?</p>
+<p style="text-align: center;"><strong>Dr Maurice Hilleman</strong>: …Right. So then the next thing you know is, 3, 4 weeks after that we found that there were tumors popping up on these hamsters.</p>
+<p style="text-align: center;"><strong>Dr. Len Horowitz</strong>: Despite AIDS and Leukemia suddenly becoming pandemic from “wild viruses” Hilleman said, this was “good science” at that time.</p>
+<p style="text-align: center;">source:</p>
+<p style="text-align: center;">naturalnews.com</p>
+<div class="td_block_wrap td_block_related_posts td_uid_3_6409525f1b671_rand td_with_ajax_pagination td-pb-border-top td_block_template_1" data-td-block-uid="td_uid_3_6409525f1b671"><script>var block_td_uid_3_6409525f1b671 = new tdBlock();
+block_td_uid_3_6409525f1b671.id = "td_uid_3_6409525f1b671";
+block_td_uid_3_6409525f1b671.atts = '{"limit":3,"ajax_pagination":"next_prev","live_filter":"cur_post_same_categories","td_ajax_filter_type":"td_custom_related","class":"td_uid_3_6409525f1b671_rand","td_column_number":3,"live_filter_cur_post_id":6644,"live_filter_cur_post_author":"8680","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_ajax_preloading":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","border_top":"","css":"","tdc_css":"","tdc_css_class":"td_uid_3_6409525f1b671_rand","tdc_css_class_style":"td_uid_3_6409525f1b671_rand_style"}';
+block_td_uid_3_6409525f1b671.td_column_number = "3";
+block_td_uid_3_6409525f1b671.block_type = "td_block_related_posts";
+block_td_uid_3_6409525f1b671.post_count = "3";
+block_td_uid_3_6409525f1b671.found_posts = "12031";
+block_td_uid_3_6409525f1b671.header_color = "";
+block_td_uid_3_6409525f1b671.ajax_pagination_infinite_stop = "";
+block_td_uid_3_6409525f1b671.max_num_pages = "4011";
+tdBlocksArray.push(block_td_uid_3_6409525f1b671);
+</script><h4 class="td-related-title td-block-title"><a class="td-related-left td-cur-simple-item" data-td_block_id="td_uid_3_6409525f1b671" data-td_filter_value="" href="#" id="td_uid_4_6409525f32256">RELATED ARTICLES</a><a class="td-related-right" data-td_block_id="td_uid_3_6409525f1b671" data-td_filter_value="td_related_more_from_author" href="#" id="td_uid_5_6409525f3225c">MORE FROM AUTHOR</a></h4><div class="td_block_inner" id="td_uid_3_6409525f1b671">
+<div class="td-related-row">
+<div class="td-related-span4">
+<div class="td_module_related_posts td-animation-stack td_module_no_thumb td-meta-info-hide td_mod_related_posts">
+<div class="td-module-image">
+</div>
+<div class="item-details">
+<h3 class="entry-title td-module-title"><a href="https://worldtruth.tv/the-mother-of-all-antioxidants/" rel="bookmark" title="The Mother of All Antioxidants">The Mother of All Antioxidants</a></h3> </div>
+</div>
+</div>
+<div class="td-related-span4">
+<div class="td_module_related_posts td-animation-stack td_module_no_thumb td-meta-info-hide td_mod_related_posts">
+<div class="td-module-image">
+</div>
+<div class="item-details">
+<h3 class="entry-title td-module-title"><a href="https://worldtruth.tv/engineer-creates-new-religion-to-raise-and-worship-artificial-intelligence-god/" rel="bookmark" title="Engineer Creates New Religion To ‘Raise’ and Worship Artificial Intelligence God">Engineer Creates New Religion To ‘Raise’ and Worship Artificial Intelligence God</a></h3> </div>
+</div>
+</div>
+<div class="td-related-span4">
+<div class="td_module_related_posts td-animation-stack td_module_no_thumb td-meta-info-hide td_mod_related_posts">
+<div class="td-module-image">
+</div>
+<div class="item-details">
+<h3 class="entry-title td-module-title"><a href="https://worldtruth.tv/an-ancient-device-too-advanced-to-be-real-gives-up-its-secrets-at-last/" rel="bookmark" title="An Ancient Device Too Advanced To Be Real Gives Up Its Secrets At Last">An Ancient Device Too Advanced To Be Real Gives Up Its Secrets At Last</a></h3> </div>
+</div>
+</div> </div></div><div class="td-next-prev-wrap"><a class="td-ajax-prev-page ajax-page-disabled" data-td_block_id="td_uid_3_6409525f1b671" href="#" id="prev-page-td_uid_3_6409525f1b671"><i class="td-icon-font td-icon-menu-left"></i></a><a class="td-ajax-next-page" data-td_block_id="td_uid_3_6409525f1b671" href="#" id="next-page-td_uid_3_6409525f1b671"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> </div>
+<footer>
+<div class="td-post-source-tags">
+</div>
+<div class="td-post-sharing-bottom"><div class="td-post-sharing-classic"><iframe frameborder="0" src="https://www.facebook.com/plugins/like.php?href=https://worldtruth.tv/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2/&amp;layout=button_count&amp;show_faces=false&amp;width=105&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:105px; height:21px; background-color:transparent;"></iframe></div></div> <div class="td-block-row td-post-next-prev"><div class="td-block-span6 td-post-prev-post"><div class="td-post-next-prev-content"><span>Previous article</span><a href="https://worldtruth.tv/boy-who-couldnt-afford-books-asks-mailman-for-junk-mail-to-read-what-happens-next-is-amazing/">Boy Who Couldn’t Afford Books Asks Mailman For Junk Mail To Read</a></div></div><div class="td-next-prev-separator"></div><div class="td-block-span6 td-post-next-post"><div class="td-post-next-prev-content"><span>Next article</span><a href="https://worldtruth.tv/black-pepper-and-turmeric-this-combination-could-save-lives/">Black Pepper and Turmeric – This Combination Could Save Lives</a></div></div></div> <div class="author-box-wrap"><a href="https://worldtruth.tv/author/chloe1127/"><img alt="" class="avatar avatar-96 photo" decoding="async" height="96" loading="lazy" src="https://secure.gravatar.com/avatar/c97f61e5f97c939d6c2fe160bda5c591?s=96&amp;r=pg" srcset="https://secure.gravatar.com/avatar/c97f61e5f97c939d6c2fe160bda5c591?s=192&amp;r=pg 2x" width="96"/></a><div class="desc"><div class="td-author-name vcard author"><span class="fn"><a href="https://worldtruth.tv/author/chloe1127/">Eddie</a></span></div><div class="td-author-url"><a href="https://www.worldtruth.tv">https://www.worldtruth.tv</a></div><div class="td-author-description">Eddie is the founder and owner of www.WorldTruth.TV. This website is dedicated to educating and informing people with articles on powerful and concealed information from around the globe. I have spent the last 38 years researching Bible, History, Alternative Health, Secret Societies, Symbolism and many other topics that are not reported by mainstream media.</div><div class="td-author-social">
+<span class="td-social-icon-wrap">
+<a href="https://www.facebook.com/Eddie.Levite" target="_blank" title="Facebook">
+<i class="td-icon-font td-icon-facebook"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a href="https://www.instagram.com/worldtruth.tv/" target="_blank" title="Instagram">
+<i class="td-icon-font td-icon-instagram"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a href="https://twitter.com/WorldTruthTV" target="_blank" title="Twitter">
+<i class="td-icon-font td-icon-twitter"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a href="https://www.youtube.com/user/TreTruthSeeker1" target="_blank" title="Youtube">
+<i class="td-icon-font td-icon-youtube"></i>
+</a>
+</span></div><div class="clearfix"></div></div></div> <span class="td-page-meta" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><meta content="Eddie" itemprop="name"/></span><meta content="2019-07-12T23:57:59+00:00" itemprop="datePublished"/><meta content="2019-07-25T10:29:30-04:00" itemprop="dateModified"/><meta itemid="https://worldtruth.tv/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2/" itemprop="mainEntityOfPage" itemscope="" itemtype="https://schema.org/WebPage"><span class="td-page-meta" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization"><span class="td-page-meta" itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject"><meta content="https://worldtruth.tv/wp-content/uploads/2017/08/logo-world.png" itemprop="url"/></span><meta content="WorldTruth.Tv" itemprop="name"/></span><meta content="Merck Scientist Dr. Maurice Hilleman Admitted Presence of SV40, AIDS &amp; Cancer Viruses In Vaccines" itemprop="headline "/><span class="td-page-meta" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject"><meta content="https://worldtruth.tv/wp-content/themes/Newspaper87/images/no-thumb/td_meta_replacement.png" itemprop="url"/><meta content="1068" itemprop="width"/><meta content="580" itemprop="height"/></span> </meta></footer>
+</article>
+<script>	jQuery( window ).load(function() {			
+		//jQuery( ".td_block_related_posts" ).insertBefore( ".swp_three" );
+	});
+</script> <div class="comments" id="comments">
+</div>
+</div>
+</div>
+<div class="td-pb-span4 td-main-sidebar" role="complementary">
+<div class="td-ss-main-sidebar">
+<aside class="td_block_template_1 widget widget_text"> <div class="textwidget"><center><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-8947047327644044" data-ad-format="auto" data-ad-slot="4271809090" style="display: block;"></ins>
+<script>// <![CDATA[
+(adsbygoogle = window.adsbygoogle || []).push({});
+// ]]></script></center></div>
+</aside><aside class="td_block_template_1 widget widget_text"> <div class="textwidget"><center><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-8947047327644044" data-ad-format="auto" data-ad-slot="4271809090" style="display: block;"></ins>
+<script>// <![CDATA[
+(adsbygoogle = window.adsbygoogle || []).push({});
+// ]]></script></center></div>
+</aside><aside class="td_block_template_1 widget widget_text"> <div class="textwidget"><div id="email-news-subscribe">
+<div class="email-box">
+<form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow"><input class="email" id="email" name="email" style="width: 150px; font-size: 12px;" type="text" value="Enter Your Email here.."/><input name="uri" type="hidden" value="ConsciousnessTv"/><input name="loc" type="hidden" value="en_US"/><input class="subscribe" name="commit" type="submit" value="Subscribe"/></form>
+</div>
+</div>
+</div>
+</aside><aside class="td_block_template_1 widget widget_text"> <div class="textwidget"><p>Translator</p>
+<div id="google_translate_element"></div>
+<p><script type="text/javascript">function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element'); 
+    if(typeof(document.querySelector) == 'function') {document.querySelector('.goog-logo-link').setAttribute('style', 'display: none');       document.querySelector('.goog-te-gadget').setAttribute('style', 'font-size: 0');}jQuery('.goog-logo-link').css('display', 'none');jQuery('.goog-te-gadget').css('font-size', '0');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script></p>
+</div>
+</aside><div class="td_block_wrap td_block_social_counter td_block_widget td_uid_6_6409525f33e63_rand td-pb-border-top td_block_template_1"><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Social Counter</span></h4></div><div class="td-social-list"><div class="td_social_type td-pb-margin-side td_social_facebook"><div class="td-social-box"><div class="td-sp td-sp-facebook"></div><span class="td_social_info">0</span><span class="td_social_info td_social_info_name">Fans</span><span class="td_social_button"><a href="https://www.facebook.com/WorldTruthTv-367730457538973" target="_blank">Like</a></span></div></div><div class="td_social_type td-pb-margin-side td_social_instagram"><div class="td-social-box"><div class="td-sp td-sp-instagram"></div><span class="td_social_info">87,952</span><span class="td_social_info td_social_info_name">Followers</span><span class="td_social_button"><a href="https://instagram.com/WorldTruth.TV#" target="_blank">Follow</a></span></div></div><div class="td_social_type td-pb-margin-side td_social_rss"><div class="td-social-box"><div class="td-sp td-sp-rss"></div><span class="td_social_info">856,048</span><span class="td_social_info td_social_info_name">Followers</span><span class="td_social_button"><a href="https://feeds.feedburner.com/ConsciousnessTv" target="_blank">Follow</a></span></div></div><div class="td_social_type td-pb-margin-side td_social_youtube"><div class="td-social-box"><div class="td-sp td-sp-youtube"></div><span class="td_social_info">6,150</span><span class="td_social_info td_social_info_name">Subscribers</span><span class="td_social_button"><a href="https://www.youtube.com/TreTruthSeeker1" target="_blank">Subscribe</a></span></div></div></div></div> <aside class="td_block_template_1 widget widget_text"> <div class="textwidget"></div>
+</aside><aside class="td_block_template_1 widget widget_archive"><h4 class="block-title"><span>Archives</span></h4>
+<ul>
+<li><a href="https://worldtruth.tv/2021/12/">December 2021</a> (30)</li>
+<li><a href="https://worldtruth.tv/2020/12/">December 2020</a> (219)</li>
+<li><a href="https://worldtruth.tv/2020/11/">November 2020</a> (227)</li>
+<li><a href="https://worldtruth.tv/2020/10/">October 2020</a> (227)</li>
+<li><a href="https://worldtruth.tv/2020/09/">September 2020</a> (238)</li>
+<li><a href="https://worldtruth.tv/2020/08/">August 2020</a> (230)</li>
+<li><a href="https://worldtruth.tv/2020/07/">July 2020</a> (237)</li>
+<li><a href="https://worldtruth.tv/2020/06/">June 2020</a> (228)</li>
+<li><a href="https://worldtruth.tv/2020/05/">May 2020</a> (225)</li>
+<li><a href="https://worldtruth.tv/2020/04/">April 2020</a> (200)</li>
+<li><a href="https://worldtruth.tv/2020/03/">March 2020</a> (225)</li>
+<li><a href="https://worldtruth.tv/2020/02/">February 2020</a> (243)</li>
+<li><a href="https://worldtruth.tv/2020/01/">January 2020</a> (239)</li>
+<li><a href="https://worldtruth.tv/2019/12/">December 2019</a> (243)</li>
+<li><a href="https://worldtruth.tv/2019/11/">November 2019</a> (376)</li>
+<li><a href="https://worldtruth.tv/2019/10/">October 2019</a> (374)</li>
+<li><a href="https://worldtruth.tv/2019/09/">September 2019</a> (386)</li>
+<li><a href="https://worldtruth.tv/2019/08/">August 2019</a> (375)</li>
+<li><a href="https://worldtruth.tv/2019/07/">July 2019</a> (386)</li>
+<li><a href="https://worldtruth.tv/2019/06/">June 2019</a> (386)</li>
+<li><a href="https://worldtruth.tv/2019/05/">May 2019</a> (390)</li>
+<li><a href="https://worldtruth.tv/2019/04/">April 2019</a> (394)</li>
+<li><a href="https://worldtruth.tv/2019/03/">March 2019</a> (391)</li>
+<li><a href="https://worldtruth.tv/2019/02/">February 2019</a> (395)</li>
+<li><a href="https://worldtruth.tv/2019/01/">January 2019</a> (379)</li>
+<li><a href="https://worldtruth.tv/2018/12/">December 2018</a> (472)</li>
+<li><a href="https://worldtruth.tv/2018/11/">November 2018</a> (468)</li>
+<li><a href="https://worldtruth.tv/2018/10/">October 2018</a> (425)</li>
+<li><a href="https://worldtruth.tv/2018/09/">September 2018</a> (404)</li>
+<li><a href="https://worldtruth.tv/2018/08/">August 2018</a> (368)</li>
+<li><a href="https://worldtruth.tv/2018/07/">July 2018</a> (372)</li>
+<li><a href="https://worldtruth.tv/2018/06/">June 2018</a> (384)</li>
+<li><a href="https://worldtruth.tv/2018/05/">May 2018</a> (380)</li>
+<li><a href="https://worldtruth.tv/2018/04/">April 2018</a> (353)</li>
+<li><a href="https://worldtruth.tv/2018/03/">March 2018</a> (384)</li>
+<li><a href="https://worldtruth.tv/2018/02/">February 2018</a> (368)</li>
+<li><a href="https://worldtruth.tv/2018/01/">January 2018</a> (281)</li>
+<li><a href="https://worldtruth.tv/2017/12/">December 2017</a> (133)</li>
+</ul>
+</aside><aside class="td_block_template_1 widget widget_text"> <div class="textwidget"><center><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-8947047327644044" data-ad-format="auto" data-ad-slot="4271809090" style="display: block;"></ins>
+<script>// <![CDATA[
+(adsbygoogle = window.adsbygoogle || []).push({});
+// ]]></script></center>
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-8947047327644044" data-ad-format="auto" data-ad-slot="8457705219" data-full-width-responsive="true" style="display:block"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</aside> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="td-footer-wrapper td-container-wrap td-footer-template-3">
+<div class="td-container">
+<div class="td-pb-row">
+<div class="td-pb-span12">
+</div>
+</div>
+<div class="td-pb-row">
+<div class="td-pb-span4">
+<div class="td-footer-info"><div class="footer-logo-wrap"><a href="https://worldtruth.tv/"><img alt="" src="https://worldtruth.tv/wp-content/uploads/2017/08/footer-logo.png" title=""/></a></div><div class="footer-text-wrap">Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world. </div><div class="footer-social-wrap td-social-style-2"></div></div> </div>
+<div class="td-pb-span4">
+<aside class="td_block_template_1 widget widget_recent_entries">
+<h4 class="block-title"><span>Recent Posts</span></h4>
+<ul>
+<li>
+<a href="https://worldtruth.tv/the-mother-of-all-antioxidants/">The Mother of All Antioxidants</a>
+</li>
+<li>
+<a href="https://worldtruth.tv/engineer-creates-new-religion-to-raise-and-worship-artificial-intelligence-god/">Engineer Creates New Religion To ‘Raise’ and Worship Artificial Intelligence God</a>
+</li>
+<li>
+<a href="https://worldtruth.tv/an-ancient-device-too-advanced-to-be-real-gives-up-its-secrets-at-last/">An Ancient Device Too Advanced To Be Real Gives Up Its Secrets At Last</a>
+</li>
+<li>
+<a href="https://worldtruth.tv/how-to-detect-negative-energies-at-home-using-only-a-glass-of-water/">How To Detect Negative Energies At Home Using Only A Glass of Water?</a>
+</li>
+</ul>
+</aside> </div>
+<div class="td-pb-span4">
+</div>
+</div>
+</div>
+</div>
+<div class="td-sub-footer-container td-container-wrap">
+<div class="td-container">
+<div class="td-pb-row">
+<div class="td-pb-span td-sub-footer-menu">
+</div>
+<div class="td-pb-span td-sub-footer-copy">
+© All rights reserved. </div>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap"><p style="text-align: center;"><small>This site is protected by <a href="http://wp-copyrightpro.com/" target="_blank" title="Wp-Copyrightpro">wp-copyrightpro.com</a></small></p></div>
+<div hidden="" id="amp-mobile-version-switcher">
+<a href="https://worldtruth.tv/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2/?amp=1" rel="">
+Go to mobile version </a>
+</div>
+<script id="social_warfare_script-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var socialWarfare = {"addons":["pro"],"post_id":"6644","variables":{"emphasizeIcons":"0","powered_by_toggle":false,"affiliate_link":"https:\/\/warfareplugins.com"},"floatBeforeContent":"1"};
+/* ]]> */
+</script>
+<script defer="defer" id="social_warfare_script-js" src="https://worldtruth.tv/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=4.4.0" type="text/javascript"></script>
+<script defer="defer" id="td-site-min-js" src="https://worldtruth.tv/wp-content/themes/Newspaper87/js/tagdiv_theme.min.js?ver=8.7.4" type="text/javascript"></script>
+<script defer="defer" id="comment-reply-js" src="https://worldtruth.tv/wp-includes/js/comment-reply.min.js?ver=6.1.1" type="text/javascript"></script>
+<script type="text/javascript"> var swp_nonce = "ae88bbccbe";var swpFloatBeforeContent = true; var swp_ajax_url = "https://worldtruth.tv/wp-admin/admin-ajax.php"; var swp_post_id = "6644";var swpClickTracking = false; swpPinIt={"enabled":false}; document.addEventListener("DOMContentLoaded", function() { var swpButtonsExist = document.getElementsByClassName( "swp_social_panel" ).length > 0; if (swpButtonsExist) { swp_admin_ajax = "https://worldtruth.tv/wp-admin/admin-ajax.php"; swp_post_id=6644; swp_post_url= "https://worldtruth.tv/merck-scientist-dr-maurice-hilleman-admitted-presence-of-sv40-aids-and-cancer-viruses-in-vaccines-2/"; swp_post_recovery_url = ""; socialWarfare.fetchFacebookShares(); } }); </script>
+<script>
+    
+
+			
+				jQuery().ready(function () {
+					tdWeather.addItem({"block_uid":"td_top_weather_uid","location":"New York","api_location":"New York","api_language":"en","api_key":"57dce28eb707fc5acedd696bb444890e","today_icon":"clear-sky-n","today_icon_text":"clear sky","today_temp":[4.20000000000000017763568394002504646778106689453125,39.60000000000000142108547152020037174224853515625],"today_humidity":58,"today_wind_speed":[8.800000000000000710542735760100185871124267578125,5.4000000000000003552713678800500929355621337890625],"today_min":[2.29999999999999982236431605997495353221893310546875,36.10000000000000142108547152020037174224853515625],"today_max":[5.5999999999999996447286321199499070644378662109375,42],"today_clouds":0,"current_unit":1,"forecast":[{"timestamp":1678330800,"day_name":"Thu","day_temp":[10,49],"owm_day_index":0},{"timestamp":1678406400,"day_name":"Fri","day_temp":[6,43],"owm_day_index":7},{"timestamp":1678492800,"day_name":"Sat","day_temp":[6,42],"owm_day_index":15},{"timestamp":1678579200,"day_name":"Sun","day_temp":[6,43],"owm_day_index":23},{"timestamp":1678665600,"day_name":"Mon","day_temp":[5,41],"owm_day_index":31}]});
+				});
+			
+			
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://worldtruth.tv/wp-content/themes/Newspaper87/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://worldtruth.tv/wp-content/themes/Newspaper87';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+<style>
+    
+.td-footer-wrapper::before {
+        background-image: url('https://worldtruth.tv/wp-content/uploads/2017/08/footer-bg.jpg');
+    }
+
+    
+    .td-post-template-default .td-post-header .entry-title {
+        font-size:30px;
+	line-height:40px;
+	
+    }
+</style>
+<div class="tdw-drag-dialog tdc-window-sidebar" id="tdw-css-writer" style="display: none">
+<header>
+<a class="tdw-tab tdc-tab-active" data-tab-content="tdw-tab-editor" href="#" title="Editor">Edit with Live CSS</a>
+<div class="tdw-less-info" title="This will be red when errors are detected in your CSS and LESS"></div>
+</header>
+<div class="tdw-content">
+<div class="tdw-tabs-content tdw-tab-editor tdc-tab-content-active">
+<script>
+
+							(function(jQuery, undefined) {
+
+								jQuery(window).ready(function() {
+
+									if ( 'undefined' !== typeof tdcAdminIFrameUI ) {
+										var $liveIframe  = tdcAdminIFrameUI.getLiveIframe();
+
+										if ( $liveIframe.length ) {
+											$liveIframe.load(function() {
+												$liveIframe.contents().find( 'body').append( '<textarea class="tdw-css-writer-editor" style="display: none"></textarea>' );
+											});
+										}
+									}
+
+								});
+
+							})(jQuery);
+
+						</script>
+<textarea class="tdw-css-writer-editor td_live_css_uid_1_6409525f3d9cb"></textarea>
+<div class="td-code-editor" id="td_live_css_uid_1_6409525f3d9cb"></div>
+<script>
+							jQuery(window).load(function (){
+
+								if ( 'undefined' !== typeof tdLiveCssInject ) {
+
+									tdLiveCssInject.init();
+
+
+									var editor_textarea = jQuery('.td_live_css_uid_1_6409525f3d9cb');
+									var languageTools = ace.require("ace/ext/language_tools");
+									var tdcCompleter = {
+										getCompletions: function (editor, session, pos, prefix, callback) {
+											if (prefix.length === 0) {
+												callback(null, []);
+												return
+											}
+
+											if ('undefined' !== typeof tdcAdminIFrameUI) {
+
+												var data = {
+													error: undefined,
+													getShortcode: ''
+												};
+
+												tdcIFrameData.getShortcodeFromData(data);
+
+												if (!_.isUndefined(data.error)) {
+													tdcDebug.log(data.error);
+												}
+
+												if (!_.isUndefined(data.getShortcode)) {
+
+													var regex = /el_class=\"([A-Za-z0-9_-]*\s*)+\"/g,
+														results = data.getShortcode.match(regex);
+
+													var elClasses = {};
+
+													for (var i = 0; i < results.length; i++) {
+														var currentClasses = results[i]
+															.replace('el_class="', '')
+															.replace('"', '')
+															.split(' ');
+
+														for (var j = 0; j < currentClasses.length; j++) {
+															if (_.isUndefined(elClasses[currentClasses[j]])) {
+																elClasses[currentClasses[j]] = '';
+															}
+														}
+													}
+
+													var arrElClasses = [];
+
+													for (var prop in elClasses) {
+														arrElClasses.push(prop);
+													}
+
+													callback(null, arrElClasses.map(function (item) {
+														return {
+															name: item,
+															value: item,
+															meta: 'in_page'
+														}
+													}));
+												}
+											}
+										}
+									};
+									languageTools.addCompleter(tdcCompleter);
+
+									window.editor = ace.edit("td_live_css_uid_1_6409525f3d9cb");
+
+									// 'change' handler is written as function because it's called by tdc_on_add_css_live_components (of wp_footer hook)
+									// We did it to reattach the existing compiled css to the new content received from server.
+									window.editorChangeHandler = function () {
+										//tdwState.lessWasEdited = true;
+
+										window.onbeforeunload = function () {
+											if (tdwState.lessWasEdited) {
+												return "You have attempted to leave this page. Are you sure?";
+											}
+											return false;
+										};
+
+										var editorValue = editor.getSession().getValue();
+
+										editor_textarea.val(editorValue);
+
+										if ('undefined' !== typeof tdcAdminIFrameUI) {
+											tdcAdminIFrameUI.getLiveIframe().contents().find('.tdw-css-writer-editor:first').val(editorValue);
+
+											// Mark the content as modified
+											// This is important for showing info when composer closes
+                                            tdcMain.setContentModified();
+										}
+
+										tdLiveCssInject.less();
+									};
+
+									editor.getSession().setValue(editor_textarea.val());
+									editor.getSession().on('change', editorChangeHandler);
+
+									editor.setTheme("ace/theme/textmate");
+									editor.setShowPrintMargin(false);
+									editor.getSession().setMode("ace/mode/less");
+									editor.setOptions({
+										enableBasicAutocompletion: true,
+										enableSnippets: true,
+										enableLiveAutocompletion: false
+									});
+
+								}
+
+							});
+						</script>
+</div>
+</div>
+<footer>
+<a class="tdw-save-css" href="#">Save</a>
+<div class="tdw-more-info-text">Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.</div>
+<div class="tdw-resize"></div>
+</footer>
+</div>
+/*
+<script>
+(function() {
+			var meta = document.head.querySelector("meta[name='keywords']"),
+				k = !1;
+			meta && (k = meta.content), k || (meta = document.head.querySelector("meta[property='og:title']")) && (k = meta.content), k || (meta = document.head.querySelector("meta[property='title']")) && (k = meta.content), k = k ? encodeURI(k) : "";
+			var sParameterName, i, sPageURL = decodeURIComponent(window.location.search.substring(1)),
+				sURLVariables = sPageURL.split("&"),
+				page_utms = "";
+			for (i = 0; i < sURLVariables.length; i++) {
+				"utm_" == (sParameterName = sURLVariables[i].split("="))[0].substr(0, 4) && (page_utms += sParameterName[0] + "=" + sParameterName[1] + "&");
+			}
+			var docReady = function(fn) {
+				if (document.readyState != 'loading') {
+					fn();
+				} else if (document.addEventListener) {
+					document.addEventListener('DOMContentLoaded', fn);
+				} else {
+					document.attachEvent('onreadystatechange', function() {
+						if (document.readyState != 'loading') fn();
+					});
+				}
+			}(function() {
+				var referer = "";
+				try {
+					if (referer = document.referrer, "undefined" == typeof referer || "" == referer) throw "undefined"
+				} catch (exception) {
+					referer = document.location.href, ("" == referer || "undefined" == typeof referer) && (referer = document.URL)
+				}
+				referer = referer.substr(0, 700);
+				var rcds12 = document.getElementById("rcjsload_a86ae1");
+				var rcel12 = document.createElement("script");
+				rcel12.id = 'rc_' + Math.floor(Math.random() * 1000);
+				rcel12.type = 'text/javascript';
+				rcel12.src = "//feed.engage.im/feed.js.php?w=91000&t=" + rcel12.id + "&c=" + (new Date()).getTime() + "&width=" + (window.outerWidth || document.documentElement.clientWidth) + "&referer=" + referer + '&container_width=' + rcds12.offsetWidth + "&k=" + k + "&page_utms=" + encodeURIComponent(page_utms);
+				rcel12.async = true;
+				rcds12.appendChild(rcel12);
+			});
+		})();
+</script>
+*/
+<script type="text/javascript">
+var infolinks_pid = 1971780;
+var infolinks_wsid = 0;
+</script>
+<script src="//resources.infolinks.com/js/infolinks_main.js" type="text/javascript"></script>
+</body>
+</html>

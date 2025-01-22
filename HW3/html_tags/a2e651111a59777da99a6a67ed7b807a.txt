@@ -1,0 +1,561 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Global Blueprint Exposed: The Takeover of All Genetic Material on Earth - Global ResearchGlobal Research - Centre for Research on Globalization</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="index,noarchive,follow,noodp" name="googlebot"/>
+<meta content="all,index,follow" name="robots"/>
+<meta content="all,index,follow" name="msnbot"/>
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/all.css?t=005" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/themes/globalresearch/style.css?t=001" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/favicon2.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314" rel="canonical">
+<meta content="en_US" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth - Global Research" property="og:title"/>
+<meta content="All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version). To receive Global Research’s Daily Newsletter (selected articles), click here. Visit and follow us on Instagram at @crg_globalresearch. ***   Introduction In 1992, the original UN Convention on Biological …" property="og:description"/>
+<meta content="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314" property="og:url"/>
+<meta content="Global Research" property="og:site_name"/>
+<meta content="Agenda 21" property="article:tag"/>
+<meta content="climate change" property="article:tag"/>
+<meta content="global warming" property="article:tag"/>
+<meta content="sustainable development" property="article:tag"/>
+<meta content="English" property="article:section"/>
+<meta content="2021-11-01T14:02:10+00:00" property="article:published_time"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-10-24-at-8.58.36-PM-777x437.png" property="og:image"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-10-24-at-8.58.36-PM-777x437.png" property="og:image:secure_url"/>
+<meta content="777" property="og:image:width"/>
+<meta content="437" property="og:image:height"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version). To receive Global Research’s Daily Newsletter (selected articles), click here. Visit and follow us on Instagram at @crg_globalresearch. ***   Introduction In 1992, the original UN Convention on Biological […]" name="twitter:description"/>
+<meta content="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth - Global Research" name="twitter:title"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-10-24-at-8.58.36-PM-777x437.png" name="twitter:image"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//maxcdn.bootstrapcdn.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.globalresearch.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.25"}};
+			!function(t,a,e){var r,n,i,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(i=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},n=0;n<i.length;n++)e.supports[i[n]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),o.toDataURL().length<3e3)?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,65039,8205,55356,57096),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,55356,57096),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55357,56425,55356,57341,8205,55357,56507),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55357,56425,55356,57341,55357,56507),0,0),e!==o.toDataURL()}return!1}(i[n]),e.supports.everything=e.supports.everything&&e.supports[i[n]],"flag"!==i[n]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[i[n]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://www.globalresearch.ca/wp-content/plugins/gtranslate/gtranslate-style24.css?ver=4.7.25" id="gtranslate-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/share-this/css/style.css?ver=4.7.25" id="st-widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//www.globalresearch.ca/wp-content/uploads/pum/pum-site-styles.css?generated=1598646263&amp;ver=1.7.30" id="popup-maker-site-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.3.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/dk-pdf/assets/css/frontend.css?ver=1.9.6" id="dkpdf-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/jetpack/css/jetpack.css?ver=5.1" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.globalresearch.ca/wp-content/plugins/simple-pagination/css/default.css?ver=2.1.7" id="simple-pagination-css-css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script src="https://www.globalresearch.ca/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408" type="text/javascript"></script>
+<link href="https://www.globalresearch.ca/wp-json/" rel="https://api.w.org/"/>
+<link href="https://www.globalresearch.ca/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://www.globalresearch.ca/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="https://wp.me/p2vCQD-oawi" rel="shortlink"/>
+<link href="https://www.globalresearch.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.globalresearch.ca%2Fglobal-blueprint-exposed-takeover-all-genetic-material-earth%2F5760314" rel="alternate" type="application/json+oembed"/>
+<link href="https://www.globalresearch.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.globalresearch.ca%2Fglobal-blueprint-exposed-takeover-all-genetic-material-earth%2F5760314&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<script charset="utf-8" type="text/javascript">var switchTo5x=false;</script><script charset="utf-8" src="https://ws.sharethis.com/button/buttons.js" type="text/javascript"></script><script type="text/javascript">stLight.options({publisher:'wp.9bffc2a3-d7c6-4a77-b502-4dabc8559ee3'});var st_type='wordpress3.4.1';</script><style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09F}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style>
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<style>
+			.algolia-search-highlight {
+				background-color: #fffbcc;
+				border-radius: 2px;
+				font-style: normal;
+			}
+		</style>
+<link href="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314/amp" rel="amphtml"><link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon-32x32.png" rel="icon" sizes="32x32"/>
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" rel="icon" sizes="192x192"/>
+<link href="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" rel="apple-touch-icon-precomposed"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2017/04/favicon.png" name="msapplication-TileImage"/>
+<style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(51,102,153,.88);}</style>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/jquery.main.js" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-content/themes/globalresearch/js/gr.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9062277-1']);
+  _gaq.push(['_setDomainName', 'globalresearch.ca']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:95869,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<link href="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314" rel="canonical"/>
+<meta content="5760314" itemprop="identifier"/>
+<meta content="article" itemprop="pageType"/>
+<meta content="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314" itemprop="url"/>
+<meta content="1 November 2021" itemprop="datePublished"/>
+<meta content="1 November 2021" itemprop="dateModified"/>
+<meta content="Patrick Wood" itemprop="author"/>
+<meta content="https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-10-24-at-8.58.36-PM-777x437.png" itemprop="thumbnailUrl"/>
+<meta content="en" itemprop="inLanguage"/>
+<!-- -->
+</link></link></head>
+<body>
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="grtopbar notranslate">
+<div class="grtopnav">
+<div class="grtoplinksleft">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav-top"><li class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5302078" id="menu-item-5302078"><a href="https://www.globalresearch.ca/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302079" id="menu-item-5302079"><a href="https://www.globalresearch.ca/about-2">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302080" id="menu-item-5302080"><a href="https://www.globalresearch.ca/contact-2">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302082" id="menu-item-5302082"><a href="https://store.globalresearch.ca/member/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302083" id="menu-item-5302083"><a href="https://store.globalresearch.ca/">Store</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5449212" id="menu-item-5449212"><a href="https://store.globalresearch.ca/donate/">Donate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5629561" id="menu-item-5629561"><a href="https://www.globalresearch.ca/archives">Archives</a></li>
+</ul></div><div></div></div> </div>
+<div class="grtoplinksright">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav-top"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586040" id="menu-item-5586040"><a href="https://www.globalresearch.ca/region/usa">USA</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586034" id="menu-item-5586034"><a href="https://www.globalresearch.ca/region/canada">Canada</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586036" id="menu-item-5586036"><a href="https://www.globalresearch.ca/region/latin-america-caribbean">Latin America</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586039" id="menu-item-5586039"><a href="https://www.globalresearch.ca/region/sub-saharan-africa">Africa</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586037" id="menu-item-5586037"><a href="https://www.globalresearch.ca/region/middle-east">Middle East</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586035" id="menu-item-5586035"><a href="https://www.globalresearch.ca/region/europe">Europe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586041" id="menu-item-5586041"><a href="https://www.globalresearch.ca/region/russia-and-fsu">Russia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586033" id="menu-item-5586033"><a href="https://www.globalresearch.ca/region/asia">Asia</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586038" id="menu-item-5586038"><a href="https://www.globalresearch.ca/region/oceania">Oceania</a></li>
+</ul></div><div></div></div>
+</div>
+</div>
+</div>
+<div id="wrapper">
+<div class="w1">
+<div class="w2">
+<div class="language-holder notranslate" style="text-align: right;width: 260px;">
+<div id="languages">
+<ul>
+<li><a href="https://www.globalresearch.ca/category/italiano/">Italiano</a></li>
+<li><a href="https://www.globalresearch.ca/category/deutsch/">Deutsch</a></li>
+<li><a href="https://www.globalresearch.ca/category/portugues/">Português</a></li>
+<li><a href="https://www.globalresearch.ca/category/srpski/">srpski</a></li>
+<li><a href="https://www.globalresearch.ca/category/arabic">العربية</a></li>
+<li style="margin-right:0"><a href="https://www.globalresearch.ca/category/chinese">中文</a></li>
+</ul>
+<p>Notre site en Français: <a href="https://www.mondialisation.ca/" title="Centre de reserche sur la mondialisation">mondialisation.ca</a></p>
+Nuestro sitio en español: <a href="https://www.globalizacion.ca" target="_blank" title="Globalizacion">Globalizacion</a>
+<br/>
+<a href="https://asia-pacificresearch.com" target="_blank" title="Asia-Pacific Research">Asia-Pacific Research</a>
+</div>
+</div>
+<div class="notranslate" id="header">
+<h1 class="logo_en"><a href="https://www.globalresearch.ca" title="Global Research">Global Research</a></h1>
+<div class="headerright">
+<div class="authorsearch">
+<form action="/authors">
+<input name="query" onblur="if (this.value == '') { this.value='Search Authors...';} " onfocus=" if (this.value == 'Search Authors...') { this.value = ''; }" type="text" value="Search Authors..."/>
+<input id="searchsubmit" src="https://www.globalresearch.ca/images/search-icon.jpg" type="image" value="Search"/>
+</form>
+</div>
+<div class="translatebox" id="translatebox" style="float:left;margin-top:-35px;margin-left:206px;width:175px">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</div>
+<div class="searchbox">
+<form action="https://www.globalresearch.ca">
+<input name="s" onblur="if (this.value == '') { this.value='Search...';} " onfocus=" if (this.value == 'Search...') { this.value = ''; }" type="text" value="Search..."/>
+<input id="searchsubmit" src="https://www.globalresearch.ca/images/search-icon.jpg" type="image" value="Search">
+</input></form>
+</div>
+<div class="newsletter">
+<form action="https://lp.constantcontactpages.com/su/IJiNQuW" id="NLform" method="get" name="ccoptin">
+<input class="emailinput" id="mce-EMAIL" name="EMAIL" onblur="if(this.value=='')this.value='GR Newsletter, Enter Email'" onfocus="if(this.value=='GR Newsletter, Enter Email')this.value=''" type="text" value="GR Newsletter, Enter Email"/>
+<input name="go" src="//www.globalresearch.ca/images/submit-icon.jpg" type="image" value="GO">
+</input></form>
+</div>
+<div class="social-networks">
+<ul>
+<li class="grtv"><a href="http://tv.globalresearch.ca/" target="_blank" title="Global Research TV">grtv</a></li>
+<li class="youtube"><a href="https://www.youtube.com/globalresearchtv" target="_blank" title="Global Research YouTube Channel">youtube</a></li>
+<li class="twitter"><a href="https://twitter.com/CRG_CRM" target="_blank" title="Follow Global Research on Twitter">twitter</a></li>
+<li class="facebook"><a href="https://www.facebook.com/GlobalResearchCRG" target="_blank" title="Connect on Facebook">facebook</a></li>
+<li class="rss"><a href="https://www.globalresearch.ca/feed" title="">rss</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+<div class="notranslate" id="grnavbar">
+<div class="nav-holder"><div style="margin-bottom:5px;"><ul id="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586043" id="menu-item-5586043"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US Nato War</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586044" id="menu-item-5586044"><a href="https://www.globalresearch.ca/theme/global-economy">Economy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586046" id="menu-item-5586046"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Civil Rights</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586047" id="menu-item-5586047"><a href="https://www.globalresearch.ca/theme/environment">Environment</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586048" id="menu-item-5586048"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586049" id="menu-item-5586049"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586050" id="menu-item-5586050"><a href="https://www.globalresearch.ca/theme/law-and-justice">Justice</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586051" id="menu-item-5586051"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">9/11</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586052" id="menu-item-5586052"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">War Crimes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586053" id="menu-item-5586053"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586054" id="menu-item-5586054"><a href="https://www.globalresearch.ca/theme/culture-society-history">History</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5586055" id="menu-item-5586055"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science</a></li>
+</ul></div><div></div></div>
+</div>
+<div class="main-t"></div>
+<div class="main-c">
+<div class="main-content">
+<div id="content" style="width:100%;background:white;">
+<div id="singleArticle">
+<div class="post" id="post-5760314">
+<div class="title">
+<h2 itemprop="headline">Global Blueprint Exposed: The Takeover of All Genetic Material on Earth</h2>
+<div class="meta">
+<div class="post-info">
+<div class="author">By <a href="https://www.globalresearch.ca/author/patrick-wood" title="Posts by Patrick Wood">Patrick Wood</a></div>
+<div class="grDate">Global Research, November 01, 2021</div>
+<div class="sourceDate"> <a href="https://www.technocracy.news/un-blueprint-exposed-the-takeover-of-all-genetic-material-on-earth/" target="_blank">Technocracy.news</a> 24 October 2021</div>
+</div>
+<div class="catAndTag">
+<div class="cats">In-depth Report: <a href="https://www.globalresearch.ca/indepthreport/climate-change" rel="tag">Climate Change</a></div>
+</div>
+</div>
+<div class="sharethis">
+<div class="sharethisleft">
+<span style="float:left"><span class="fontSize" style="float:left"><a href="#" id="toggleFont"></a></span> <p id="print-page-link" style="margin: 10px 0px;"><a href="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314?print=1" id="print-link" rel="nofollow"><img src="https://www.globalresearch.ca/wp-content/plugins/print-me/images/printme.png" style="width: 25px;height: 25px;" title="print"/></a></p></span> <span> <a href="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314?pdf=5760314" target="_blank"> <img src="/wp-content/uploads/2021/05/pdf01.png" style="height:23px;width:20px;margin-top:3px;margin-left:7px;"/> </a> </span> <span style="float:right;margin-left:10px;width:130px;">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</span>
+</div>
+<div class="sharethisright" style="display:flex;overflow:clip;max-height:25px;align-items:center;">
+<span class="st_facebook_hcount" displaytext="facebook" st_title="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth" st_url="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314"></span>
+<span class="st_fblike_hcount" displaytext="fblike" st_title="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth" st_url="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314" style="height:26px"></span>
+<span class="st_twitter_hcount" displaytext="twitter" st_title="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth" st_url="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314" st_username="grtvnews" st_via="grtvnews"></span>
+<span class="st_email_hcount" displaytext="email" st_title="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth" st_url="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314"></span>
+<span class="st_plusone_hcount" displaytext="plusone" st_title="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth" st_url="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314" style="width:1px; display: inline-block"></span>
+<span class="st_sharethis_hcount" displaytext="sharethis" st_title="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth" st_url="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314"></span>
+</div>
+</div>
+</div>
+<div class="content" itemprop="articleBody">
+<div class="postThumbnail">
+<img alt="" class="attachment-single-post-thumbnail size-single-post-thumbnail wp-post-image" height="225" sizes="(max-width: 400px) 100vw, 400px" src="https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-10-24-at-8.58.36-PM-777x437-400x225.png" srcset="https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-10-24-at-8.58.36-PM-777x437-400x225.png 400w, https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-10-24-at-8.58.36-PM-777x437-300x169.png 300w, https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-10-24-at-8.58.36-PM-777x437-768x432.png 768w, https://www.globalresearch.ca/wp-content/uploads/2021/11/Screen-Shot-2021-10-24-at-8.58.36-PM-777x437.png 777w" width="400">
+</img></div>
+<p>All Global Research articles can be read in 51 languages by activating the “Translate Website” drop down menu on the top banner of our home page (Desktop version).</p>
+<p dir="ltr">To receive Global Research’s Daily Newsletter (selected articles), <a href="https://lp.constantcontactpages.com/su/IJiNQuW?EMAIL=&amp;go.x=0&amp;go.y=0&amp;go=GO">click here</a>.</p>
+<p>Visit and follow us on Instagram at @<a href="https://www.instagram.com/crg_globalresearch/">crg_globalresearch</a>.</p>
+<p>***</p>
+<p> </p>
+<p><em><strong>Introduction</strong></em></p>
+<p><em>In 1992, the original UN Convention on Biological Diversity was conducted in parallel with the Agenda 21 Conference under the name of the UN Conference on Economic Development (UNCED). Both were held in Rio de Janiero, Brazil, and were sponsored by the United Nations Environmental Programme (UNEP), United Nations Educational, Scientific and Cultural Organization (UNESCO) and the International Union for the Conservation of Nature (IUCN).</em></p>
+<p>Agenda 21 was called “the agenda for the 21<sup>st</sup> century” and was centered around Sustainable Development, a resource-based economic system closely resembling historic Technocracy.[1]</p>
+<p>According to the International Institute for Sustainable Development:</p>
+<p style="padding-left: 30px;"> Sustainable development has been defined in many ways, but the most frequently quoted definition is from <a href="http://www.un-documents.net/our-common-future.pdf" rel="nofollow noopener noreferrer" target="_blank">Our Common Future</a>, also known as the Brundtland Report:</p>
+<p style="padding-left: 30px;"><strong>“Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs</strong>.”[2](emphasis added)</p>
+<p>The book, <em>Our Common Future</em>, was published in 1987 and became the blueprint for the Rio conference just 5 years later. The author and head of the UN study known as the Brundtland Commission, was chaired by Trilateral Commission member Gro Harlem Brundtland. She was the Prime Minister of Norway and previously, the Minister of the Environment. It is no surprise that a Trilateral Commission member created this policy that has literally turned the world upside down. In fact, it was the Trilateral Commission in 1973 who originally declared that their members would create its self-declared “New International Economic Order”. (see Trilaterals Over Washington, Volumes I and II, Wood &amp; Sutton)</p>
+<p>The Rio conference proposed the question, what can be done to save the world from excessive development that causes pollution, global warming, loss of rain forests, etc. The answer was that <em>more development</em> was needed and by the same actors that were previously wrecking habitats and plundering nations.  In other words, more development was needed to erase the effects of previous development. Brundtland convinced the UN that this somehow made sense, and it was subsequently adopted as “the agenda for the 21<sup>st</sup> century” in 1992.</p>
+<p>Others saw through the smoke and mirrors. Two environmental researchers and authors noted in their book, The Earth Brokers: “free trade and its promoters came to be seen as the solution to the global ecological crisis.”[3]</p>
+<p>They could not have been more blunt:</p>
+<p style="padding-left: 30px;">“We argue that UNCED has boosted precisely the type of industrial development that is destructive for the environment, the planet, and its inhabitants. We see how, as a result of UNCED, the rich will get richer, the poor poorer, while more and more of the planet is destroyed in the process.”[4]</p>
+<p>In 2021, this result could not be more clearly seen: the rich are off the charts, the poor are in the gutters and the planet and its economic systems are in tatters.</p>
+<p>How did we get here? Here is the first hint when they concluded:</p>
+<p style="padding-left: 30px;">“Neither Brundtland, nor the secretariat, nor the governments drafted plan to examine the pitfalls of free trade and industrial development. Instead<strong>, they wrote up a convention on how to ‘develop’ the use of biodiversity through patents and biotechnology</strong>.”[5](emphasis added)</p>
+<p>For all else that UNCED purported to be, its <em>true mission</em> was capturing and using biodiversity for the sake of the biotechnology industry.</p>
+<p>This fact has been largely overlooked until the Great (pandemic) Panic of 2020, when it became apparent that the global takeover was being orchestrated by elements of that very same biotechnology industry.</p>
+<p>Agenda for the 21<sup>st</sup> century, indeed.</p>
+<p><strong>What Biodiversity really means</strong></p>
+<p>Once I learned what to look for, I saw it everywhere. Let’s start with <em>Our Common Future</em> (Brundtland, 1987):</p>
+<p style="padding-left: 30px;">“The diversity of species is necessary for the normal functioning of ecosystems and the biosphere as a whole. <strong>The genetic material in wild species contributes billions of dollars yearly to the world economy in the form of improved crop species, new drugs and medicines, and raw materials for industry.”</strong>[6] (emphasis added)</p>
+<p>The specific development of biodiversity is seen in Chapter 6, <em>Species and Ecosystems: Resources for Development</em>:</p>
+<p style="padding-left: 30px;">“Species and their genetic materials promise to play an expanding role in development, and a powerful economic rationale is emerging to bolster the ethical, aesthetic, and scientific case for preserving them. The genetic variability and germplasm material of species make contributions to agriculture, medicine, and industry worth many billions of dollars per year… If nations can ensure the survival of species, the world can look forward to new and improved foods, new drugs and medicines, and new raw materials for industry.”[7]</p>
+<p>Further on, Brundtland states:</p>
+<p style="padding-left: 30px;">“Vast stocks of biological diversity are in danger of disappearing just as science is leaning how to exploit genetic variability through the advances of genetic engineering… It would be grim irony indeed if just as new genetic engineering techniques begin to let us peer into life’s diversity and <strong>use genes more efficiently to better human conditions</strong>, we looked and found this treasure sadly depleted.”[8]</p>
+<p><strong>Conclusion #1</strong>: The word “biodiversity” is explained to mean “genetic resources”. Genes are something to be exploited and used more efficiently than they are used in their natural state.</p>
+<p>Turning back to <em>The Earth Brokers</em>, the authors’ observations provide an eye-witness account of what they actually <em>saw</em> at the UNCED and Biodiversity Convention summit:</p>
+<p style="padding-left: 30px;">“The convention implicitly equates the diversity of life – animals and plants – to the diversity of genetic codes, for which read genetic resources. By doing so, diversity becomes something that modern science can manipulate. Finally, the convention promotes biotechnology as being ‘essential for the conservation and sustainable use of biodiversity.”[9]</p>
+<p>If there is any doubt as to what the goal is, they conclude with this mind-blowing statement:</p>
+<p style="padding-left: 30px;">“The main stake raised by the Biodiversity Convention is the issue of ownership and control over biological diversity… the major concern was protecting the pharmaceutical and emerging biotechnology industries.”[10]</p><div data-widget-id="rel_89-4"> </div>
+<p>To reinforce the thought, the authors bluntly stated, “they wrote up a convention on how to ‘develop’ the use of biodiversity through patents and biotechnology.”[11]</p>
+<p>Note carefully that ownership and control over genes was not a side issue or a minor stake: <strong><em>It was the MAIN STAKE</em></strong><em>!</em></p>
+<p><strong>Conclusion #2</strong>: Genetic resources means genetic material is to be owned, exploited and controlled through genetic engineering performed by the Biotech industry.</p>
+<p><strong>Conclusion #3</strong>: UNCED and Agenda 21 was largely a smokescreen to obscure the reality of Conclusion #2.</p>
+<p>Despite the fact than the UNCED conference was expected to bridge the gaps between the North and South, it was apparent that it was totally dominated by the developed nations of the North. The Earth Brokers explained that all solutions were provided by <em>“Western science, Western technology, Western information, Western training, Western money and Western institutions.”</em>[12]</p>
+<p><strong>Conclusion #4</strong>: The third world was being set up to be plundered yet once again, in the name of Sustainable Development and Biodiversity. The prize is genetic engineering and ownership of the resulting genetically engineered products.</p>
+<p><strong>It Is Consistent Throughout UN Documents</strong></p>
+<p>In the same year as the UNCED conference in 1992, UNEP and IUCN published the <em>Global Biodiversity Strategy</em> as “Guidelines for Action to Save, Study, and Use Earth’s Biotic Wealth Sustainably and Equitably”.[13] The same themes were presented, but carefully so in order to get the third world’s participation. For all of the new anticipated revenue generated by the biotech companies, a royalty revenue stream was promised to the originating countries.</p>
+<p>Under the subtitle, <em>Promote recognition of the value of local knowledge and genetic resources and affirm local peoples’ rights</em>, concerns over Intellectual Property Rights (IPR) are noted:</p>
+<p style="padding-left: 30px;">“Any collection agreements should reflect the concepts of just compensation and accountability, and codes of conduct should apply to genetic resource collectors, anthropologists, or other researchers studying local peoples or local resource management. In some cases, contracts may be needed to ensure the return of royalties or other benefits to local communities or individuals.”[14]</p>
+<p>Elsewhere it stated: “Since <strong>biotechnology depends on biodiversity for its raw material</strong>, the value of genetic resources will grow with the industry.”[15] (emphasis added.)</p>
+<p><strong>Conclusion #5</strong>: Biodiversity is not about preserving species, but rather it is the source of raw materials for the biotech industry, for which it should pay royalties on commercial products back to the original points of collection.</p>
+<p>Of course, just the opposite has happened. Monsanto, for instance, developed and patented genetically modified crop seed, and then proceeded to force the farmers to pay royalties for the use of the seeds, instead of the other way around. Headlines like “Monsanto Bullies Small Farmers”, “Argentine farmers will pay royalties to seed companies” and “How Monsanto wrote and broke laws to enter India” were common.</p>
+<p>Indeed, publications like <em>Global Biodiversity Strategy</em> and the <em>Global Biodiversity Assessment</em> were only needed to get the signatures of 196 or so nations of the world to agree to a fantasy that would never happen. Once signed, the United Nations and its myriad of NGO actors would hold those nations to the treaties and agreements, regardless of the harm and pain being caused to those very same nations.</p>
+<p><strong>Game Change: The Post-2020 Global Biodiversity Framework</strong></p>
+<p>In the same way that <em>Agenda 21</em> was updated by <em>2030 Agenda </em>in 2015, the Global Biodiversity Convention is currently being refined by the <em>Post-2020 Global Biodiversity Framework</em>. Although it will culminate in 2022, working groups have been busy since 2020, creating the various elements that will go into the completed framework.</p>
+<p>Because biotechnology and genetic science has progressed so rapidly over the last 25 years, the previous phrase “genetic resources” is now deemed to be unsuitable going forward, and it is being replaced with the phrase <strong>“digital sequence information on genetic resources”</strong>:</p>
+<p>According to the National Human Genome Research Institute, the concept of “digital sequencing” is described as:</p>
+<p style="padding-left: 30px;">“Sequencing DNA means determining the order of the four chemical building blocks – called “bases” – that make up the DNA molecule. The sequence tells scientists the kind of genetic information that is carried in a particular DNA segment. For example, scientists can use sequence information to determine which stretches of DNA contain genes and which stretches carry regulatory instructions, turning genes on or off. In addition, and importantly, sequence data can highlight changes in a gene that may cause disease.</p>
+<p style="padding-left: 30px;">In the DNA double helix, the four chemical bases always bond with the same partner to form “base pairs.” Adenine (A) always pairs with thymine (T); cytosine (C) always pairs with guanine (G). This pairing is the basis for the mechanism by which DNA molecules are copied when cells divide, and the pairing also underlies the methods by which most DNA sequencing experiments are done. The human genome contains about 3 billion base pairs that spell out the instructions for making and maintaining a human being.” [16]</p>
+<p>The principal is identical for all life forms on earth, all of which have DNA that can be sequenced and fed into a computer for storage, retrieval, and analysis. It also envisions synthetic biology where DNA is reengineered in ways that do not occur in nature, for the sake of “improvement” and “wellbeing” for the environment.</p>
+<p>According to the <em>Report of the Open-Ended Working Group on the Post-2020 Global Biodiversity Framework on its Third Meeting</em> (Aug.-Sept. 2021):</p>
+<p style="padding-left: 30px;">[The working group] “recognizes the intrinsic relation between genetic resources and digital sequence information on genetic resources, as well as the scope of bioinformatic tools in the design and creation of new digital sequence information on genetic resources elements that are created artificially; that digital sequence information on genetic resources are not genetic resources as defined in the Convention on Biological Diversity (1992); that access to and utilization of digital sequence information on genetic resources is useful for research relating to conservation and sustainable use of biodiversity, food security, health and other important sectors, including commercial applications resulting in commercial products.”[17]</p>
+<p style="padding-left: 30px;">Interestingly, another item notes that “any approach to address digital sequence information on genetic resources should provide for <strong>the special status of pathogens of pandemic potential</strong>.”[18]</p>
+<p>To say that this change of definition, approach and meanings are minor is rebutted by the fact that the phrase “digital sequence information on genetic resources” is used 167 times across the 167 pages of the document; that is, on average, one mention per page. Yes, it is a major doctrine and it is a sea change of opportunity for the biotech industry to meddle with all life systems on earth in order to make them more “sustainable.”</p>
+<p><strong>Conclusion #6</strong>: All species of life are to be digitally sequenced, placed into a database, recognized as a global common asset and made available for “licensing” by the biotech industry.</p>
+<p><strong>Conclusion</strong></p>
+<p>Mapping of the human genome took most of the 1990s. Mapping the human brain, which started in 2010, is virtually complete. Now, mapping all DNA on earth, including human DNA, is the next big Technocrat/Transhuman dream. The outcome will be genetic manipulation of any or all living creatures and the creation of synthetic DNA that does not currently exist in nature.</p>
+<p>All of this is headed toward an overriding goal that has been misread by researchers and authors. It now takes on a frightening dimension:</p>
+<p style="padding-left: 30px;">“The post-2020 global biodiversity framework builds on the Strategic Plan for Biodiversity 2011-2020 and sets out an ambitious plan to implement broad-based action <strong>to bring about a transformation in society’s relationship with biodiversity and to ensure that, by 2050, the shared vision of living in harmony with nature is fulfilled.”</strong>[19]</p>
+<p>How do we get there from here? The same paper discusses its “theory of change” that it supports with the figure below:</p>
+<p><a href="https://www.technocracy.news/wp-content/uploads/2021/10/un-theory-of-change.png"><img alt="" class="wp-image-38474 litespeed-loading aligncenter" data-lazyloaded="1" data-sizes="(max-width: 994px) 100vw, 994px" data-src="https://www.technocracy.news/wp-content/uploads/2021/10/un-theory-of-change.png" data-srcset="https://www.technocracy.news/wp-content/uploads/2021/10/un-theory-of-change.png 994w, https://www.technocracy.news/wp-content/uploads/2021/10/un-theory-of-change-300x176.png 300w, https://www.technocracy.news/wp-content/uploads/2021/10/un-theory-of-change-768x451.png 768w, https://www.technocracy.news/wp-content/uploads/2021/10/un-theory-of-change-600x353.png 600w" data-was-processed="true" height="421" sizes="(max-width: 994px) 100vw, 994px" src="https://www.technocracy.news/wp-content/uploads/2021/10/un-theory-of-change.png" srcset="https://www.technocracy.news/wp-content/uploads/2021/10/un-theory-of-change.png 994w, https://www.technocracy.news/wp-content/uploads/2021/10/un-theory-of-change-300x176.png 300w, https://www.technocracy.news/wp-content/uploads/2021/10/un-theory-of-change-768x451.png 768w, https://www.technocracy.news/wp-content/uploads/2021/10/un-theory-of-change-600x353.png 600w" width="717"/></a></p>
+<p>The keys to interpret this figure are contained in this paper.</p>
+<p>It is never declared exactly who shares this so-called vision of “living in harmony with nature”, but it certainly isn’t anyone who grasps the facts presented in this paper. Hiding behind benevolent concepts such as eliminating poverty and providing education for all, is a cadre of genetic engineers intent on making life “sustainable” on planet earth by simply changing the structure and nature of life that consumes resources, including humanity itself.</p>
+<p>The mad global dash to inject synthetic mRNA and synthetic DNA into the arms of every human on earth should make a little more sense to the reader. This is <em>their </em>shared vision to bridge the gap between humanity and nature to be “living in harmony” with it, to balance the scales of resources vs.  consumption, to create new markets for new products, to bring to life the transhuman dream of modifying DNA to achieve life extension and ultimately, immortality.</p>
+<p>This has happened right under our noses while everyone’s attention was focused on other issues. What we thought were the key issues of Agenda 21, the 2030 Agenda, Biodiversity Convention, etc., were indeed real issues, but they were not the <em>main </em>issue.</p>
+<p>Indeed, the main issue is the takeover of all genetic material on earth.</p>
+<p>*</p>
+<p style="text-align: left;">Note to readers: Please click the share buttons above or below. Follow us on Instagram, @crg_globalresearch. Forward this article to your email lists. Crosspost on your blog site, internet forums. etc.</p>
+<p style="text-align: left;"><em><strong>Patrick Wood</strong> is a leading and critical expert on Sustainable Development, Green Economy, Agenda 21, 2030 Agenda and historic Technocracy. He is the author of Technocracy Rising: The Trojan Horse of Global Transformation (2015) and co-author of Trilaterals Over Washington, Volumes I and II (1978-1980) with the late Antony C. Sutton.</em></p>
+<p style="text-align: left;"><strong>Notes</strong></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[1] Wood, Patrick M. (2015). Technocracy Rising: The Trojan Horse of Global Transformation, Coherent Publishing.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[2] https://www.iisd.org/about-iisd/sustainable-development</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[3] Chatterjee and Finger (1994). <em>The Earth Brokers: Power, Politics and World Development</em>. Routledge. p. 40.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[4] Ibid. p. 3</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[5] Ibid. p. 171.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[6] Brundtland, Khalid et al. (1987). Our Common Future, Oxford Press, p. 13.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[7] Ibid. p. 147.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[8] Ibid. p. 149-150.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[9] Op cit. p. 42.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[10] Op cit. p. 43.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[11] Op Cit. p. 171,</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[12] Op cit. p. 50.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[13] UNEP, WRI, IUCN (1992). <em>Global Biodiversity Strategy</em>. United Nations, p. 1.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[14] Ibid., p. 94.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[15] Ibid., p. 43.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[16] NIH, National Human Genome Research Institute, https://www.genome.gov/about-genomics/fact-sheets/DNA-Sequencing-Fact-Sheet</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[17] Annex V, <em>Report of the Open-Ended Working Group on the Post-2020 Global Biodiversity Framework on its Third Meeting</em> (Aug.-Sept. 2021). https://www.cbd.int/doc/c/187e/84cd/fd4f6bc8f301770a2481b8c8/wg2020-03-05-en.pdf, p. 161.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[18] Ibid.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;">[19] Ibid. p. 35.</span></p>
+<p style="text-align: left;"><span style="font-size: 10pt;"><em>Featured image is from Adobe Stock, ktdesign</em></span></p>
+<div>
+<div class="copyright">The original source of this article is <a href="https://www.technocracy.news/un-blueprint-exposed-the-takeover-of-all-genetic-material-on-earth/" target="_blank">Technocracy.news</a></div>
+<div class="copyright">Copyright © <a href="https://www.globalresearch.ca/author/patrick-wood" title="Posts by Patrick Wood">Patrick Wood</a>, <a href="https://www.technocracy.news/un-blueprint-exposed-the-takeover-of-all-genetic-material-on-earth/" target="_blank">Technocracy.news</a>, 2021</div>
+<hr/>
+<p>
+<a href="https://www.facebook.com/GlobalResearchCRG"><strong>Comment on Global Research Articles on our Facebook page</strong></a>
+</p>
+<p>
+<a href="https://store.globalresearch.ca/member/"><strong>Become a Member of Global Research</strong></a>
+</p>
+</div> </div>
+</div>
+<div data-widget-id="rel_89-2" style="margin-left: 5px;"></div>
+<div style="margin-left:5px">
+<div class="jp-relatedposts" id="jp-relatedposts">
+<h3 class="jp-relatedposts-headline"><em>Related Articles from our Archives</em></h3>
+</div> </div>
+<hr>
+<div class="sharethis">
+<div class="sharethisleft">
+<span style="float:left"><span class="fontSize" style="float:left"><a href="#" id="toggleFont"></a></span> <p id="print-page-link" style="margin: 10px 0px;"><a href="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314?print=1" id="print-link" rel="nofollow"><img src="https://www.globalresearch.ca/wp-content/plugins/print-me/images/printme.png" style="width: 25px;height: 25px;" title="print"/></a></p></span> <span> <a href="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314?pdf=5760314" target="_blank"> <img src="/wp-content/uploads/2021/05/pdf01.png" style="height:23px;width:20px;margin-top:3px;margin-left:7px;"/> </a> </span> <span style="float:right;margin-left:10px;width:130px;">
+<select aria-label="Website Language Selector" class="notranslate" id="gtranslate_selector" onchange="doGTranslate(this);"><option value="">Translate Website</option><option value="en|sq">Shqip</option><option value="en|am">አማርኛ</option><option value="en|ar">العربية</option><option value="en|hy">Հայերեն</option><option value="en|az">Azərbaycan dili</option><option value="en|eu">Euskara</option><option value="en|be">Беларуская мова</option><option value="en|bn">বাংলা</option><option value="en|bs">Bosanski</option><option value="en|bg">Български</option><option value="en|ca">Català</option><option value="en|ceb">Cebuano</option><option value="en|ny">Chichewa</option><option value="en|zh-CN">简体中文</option><option value="en|zh-TW">繁體中文</option><option value="en|co">Corsu</option><option value="en|hr">Hrvatski</option><option value="en|cs">Čeština‎</option><option value="en|da">Dansk</option><option value="en|nl">Nederlands</option><option value="en|en">English</option><option value="en|et">Eesti</option><option value="en|tl">Filipino</option><option value="en|fi">Suomi</option><option value="en|fr">Français</option><option value="en|ka">ქართული</option><option value="en|de">Deutsch</option><option value="en|el">Ελληνικά</option><option value="en|gu">ગુજરાતી</option><option value="en|ht">Kreyol ayisyen</option><option value="en|ha">Harshen Hausa</option><option value="en|iw">עִבְרִית</option><option value="en|hi">हिन्दी</option><option value="en|hmn">Hmong</option><option value="en|hu">Magyar</option><option value="en|is">Íslenska</option><option value="en|ig">Igbo</option><option value="en|id">Bahasa Indonesia</option><option value="en|it">Italiano</option><option value="en|ja">日本語</option><option value="en|jw">Basa Jawa</option><option value="en|kn">ಕನ್ನಡ</option><option value="en|kk">Қазақ тілі</option><option value="en|km">ភាសាខ្មែរ</option><option value="en|ko">한국어</option><option value="en|ku">كوردی‎</option><option value="en|ky">Кыргызча</option><option value="en|lo">ພາສາລາວ</option><option value="en|lv">Latviešu valoda</option><option value="en|lt">Lietuvių kalba</option><option value="en|mk">Македонски јазик</option><option value="en|mg">Malagasy</option><option value="en|ms">Bahasa Melayu</option><option value="en|ml">മലയാളം</option><option value="en|mt">Maltese</option><option value="en|mi">Te Reo Māori</option><option value="en|mr">मराठी</option><option value="en|mn">Монгол</option><option value="en|my">ဗမာစာ</option><option value="en|ne">नेपाली</option><option value="en|no">Norsk bokmål</option><option value="en|ps">پښتو</option><option value="en|fa">فارسی</option><option value="en|pl">Polski</option><option value="en|pt">Português</option><option value="en|pa">ਪੰਜਾਬੀ</option><option value="en|ro">Română</option><option value="en|ru">Русский</option><option value="en|sm">Samoan</option><option value="en|sr">Српски језик</option><option value="en|st">Sesotho</option><option value="en|sn">Shona</option><option value="en|sd">سنڌي</option><option value="en|si">සිංහල</option><option value="en|sk">Slovenčina</option><option value="en|sl">Slovenščina</option><option value="en|so">Afsoomaali</option><option value="en|es">Español</option><option value="en|su">Basa Sunda</option><option value="en|sw">Kiswahili</option><option value="en|sv">Svenska</option><option value="en|tg">Тоҷикӣ</option><option value="en|ta">தமிழ்</option><option value="en|te">తెలుగు</option><option value="en|th">ไทย</option><option value="en|tr">Türkçe</option><option value="en|uk">Українська</option><option value="en|ur">اردو</option><option value="en|uz">O‘zbekcha</option><option value="en|vi">Tiếng Việt</option><option value="en|cy">Cymraeg</option><option value="en|xh">isiXhosa</option><option value="en|yi">יידיש</option><option value="en|yo">Yorùbá</option><option value="en|zu">Zulu</option></select><style>
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+.goog-text-highlight {background-color:transparent !important;box-shadow:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+</style>
+<div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+</script>
+</span>
+</div>
+<div class="sharethisright" style="display:flex;overflow:clip;max-height:25px;align-items:center;">
+<span class="st_facebook_hcount" displaytext="facebook" st_title="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth" st_url="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314"></span>
+<span class="st_fblike_hcount" displaytext="fblike" st_title="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth" st_url="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314" style="height:26px"></span>
+<span class="st_twitter_hcount" displaytext="twitter" st_title="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth" st_url="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314" st_username="grtvnews" st_via="grtvnews"></span>
+<span class="st_email_hcount" displaytext="email" st_title="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth" st_url="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314"></span>
+<span class="st_plusone_hcount" displaytext="plusone" st_title="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth" st_url="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314" style="width:1px; display: inline-block"></span>
+<span class="st_sharethis_hcount" displaytext="sharethis" st_title="Global Blueprint Exposed: The Takeover of All Genetic Material on Earth" st_url="https://www.globalresearch.ca/global-blueprint-exposed-takeover-all-genetic-material-earth/5760314"></span>
+</div>
+</div>
+<div id="articleAuthor">
+<div class="authorName">
+<span>Articles by:</span>
+<a href="https://www.globalresearch.ca/author/patrick-wood" title="Posts by Patrick Wood">Patrick Wood</a> </div>
+</div>
+<div class="nr_clear"></div>
+<div id="disclaimer">
+<p><b>Disclaimer:</b> The contents of this article are of sole responsibility of the author(s). The Centre for Research on Globalization will not be responsible for any inaccurate or incorrect statement in this article. The Centre of Research on Globalization grants permission to cross-post Global Research articles on community internet sites as long the source and copyright are acknowledged together with a hyperlink to the original Global Research article. For publication of Global Research articles in print or other forms including commercial internet sites, contact: <a href="/cdn-cgi/l/email-protection#ea9a9f888683898b9e83858499aa8d8685888b86988f998f8b988982c4898b"><span class="__cf_email__" data-cfemail="c5b5b0a7a9aca6a4b1acaaabb685a2a9aaa7a4a9b7a0b6a0a4b7a6adeba6a4">[email protected]</span></a></p>
+<p><a href="https://www.globalresearch.ca">www.globalresearch.ca</a> contains copyrighted material the use of which has not always been specifically authorized by the copyright owner. We are making such material available to our readers under the provisions of "fair use" in an effort to advance a better understanding of political, economic and social issues. The material on this site is distributed without profit to those who have expressed a prior interest in receiving it for research and educational purposes. If you wish to use copyrighted material for purposes other than "fair use" you must request permission from the
+copyright owner.</p>
+<p>For media inquiries: <a href="/cdn-cgi/l/email-protection#473732252b2e2426332e28293407202b2825262b352234222635242f692426"><span class="__cf_email__" data-cfemail="19696c7b75707a786d7076776a597e75767b78756b7c6a7c786b7a71377a78">[email protected]</span></a></p>
+</div>
+</hr></div>
+</div>
+</div>
+</div>
+<div class="main-b"></div>
+</div>
+<div class="notranslate" id="footer">
+<div class="aside">
+<div class="widget_nav_menu leftfooter"><div class="menu-footerleftnav-container"><ul class="menu" id="menu-footerleftnav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5309785" id="menu-item-5309785"><a href="https://www.globalresearch.ca/news">Global Research News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302189" id="menu-item-5302189"><a href="https://www.globalresearch.ca/theme/i-books-series">I-BOOKS SERIES</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302190" id="menu-item-5302190"><a href="https://www.globalresearch.ca/countries-index">Countries Index</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302192" id="menu-item-5302192"><a href="https://www.globalresearch.ca/most-popular">Most Popular</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302193" id="menu-item-5302193"><a href="https://www.globalresearch.ca/links">Links</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5302194" id="menu-item-5302194"><a href="https://www.globalresearch.ca/contact-2">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302195" id="menu-item-5302195"><a href="https://store.globalresearch.ca/member/">Membership</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5302196" id="menu-item-5302196"><a href="https://store.globalresearch.ca/">Online Store</a></li>
+</ul></div></div> </div>
+<div class="container">
+<div class="column-wrap">
+<div class="menuHeaders">
+<div class="title1">Themes</div>
+<div class="title2">Geographic Regions</div>
+</div>
+<div class="column widget_nav_menu"><div class="menu-footermenu2-container"><ul class="menu" id="menu-footermenu2"><li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302197" id="menu-item-5302197"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302198" id="menu-item-5302198"><a href="https://www.globalresearch.ca/theme/global-economy">Global Economy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302199" id="menu-item-5302199"><a href="https://www.globalresearch.ca/theme/crimes-against-humanity">Crimes against Humanity</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302200" id="menu-item-5302200"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302201" id="menu-item-5302201"><a href="https://www.globalresearch.ca/theme/law-and-justice">Law and Justice</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302202" id="menu-item-5302202"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Police State &amp; Civil Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302203" id="menu-item-5302203"><a href="https://www.globalresearch.ca/theme/culture-society-history">History</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302204" id="menu-item-5302204"><a href="https://www.globalresearch.ca/theme/9-11-war-on-terrorism">9/11 &amp; ‘War on Terrorism’</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302205" id="menu-item-5302205"><a href="https://www.globalresearch.ca/theme/media-disinformation">Media Disinformation</a></li>
+</ul></div></div><div class="column widget_nav_menu"><div class="menu-footermenu3-container"><ul class="menu" id="menu-footermenu3"><li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302206" id="menu-item-5302206"><a href="https://www.globalresearch.ca/theme/militarization-and-wmd">Militarization and WMD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302207" id="menu-item-5302207"><a href="https://www.globalresearch.ca/theme/oil-and-energy">Oil and Energy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302208" id="menu-item-5302208"><a href="https://www.globalresearch.ca/theme/police-state-civil-rights">Police State &amp; Civil Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302209" id="menu-item-5302209"><a href="https://www.globalresearch.ca/theme/politics-and-religion">Religion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302210" id="menu-item-5302210"><a href="https://www.globalresearch.ca/theme/poverty-social-inequality">Poverty &amp; Social Inequality</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302211" id="menu-item-5302211"><a href="https://www.globalresearch.ca/theme/science-and-medicine">Science and Medicine</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302212" id="menu-item-5302212"><a href="https://www.globalresearch.ca/theme/united-nations">United Nations</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302213" id="menu-item-5302213"><a href="https://www.globalresearch.ca/theme/us-nato-war-agenda">US NATO War Agenda</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-theme menu-item-5302214" id="menu-item-5302214"><a href="https://www.globalresearch.ca/theme/women-s-rights">Women’s Rights</a></li>
+</ul></div></div> </div>
+<div class="text-container">
+<strong class="footer-logo"><a href="/">GlobalResearch Center for Research on Globalization</a></strong>
+<a class="privacy" href="/privacy-policy/">Privacy Policy</a>
+<span class="copy">Copyright © 2005-2023 <a href="https://www.globalresearch.ca">GlobalResearch.ca</a></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+document.getElementById('NLform').onsubmit = function() {
+  window.location = '/newsletter/';
+}
+</script>
+<script async="" src="https://magnetapi.klangoo.com/w/Widgets_89.js" type="text/javascript"></script>
+<div aria-hidden="true" class="pum pum-overlay pum-theme-5667467 pum-theme-enterprise-blue popmake-overlay pum-overlay-disabled auto_open click_open" data-popmake='{"id":5681503,"slug":"become-member","theme_id":5667467,"cookies":[{"event":"on_popup_close","settings":{"name":"pum-5681503","time":"1 week","path":true}}],"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-5681503"],"delay":"5000"}},{"type":"click_open","settings":{"extra_selectors":"","cookie_name":null}}],"mobile_disabled":null,"tablet_disabled":null,"meta":{"display":{"stackable":"1","overlay_disabled":"1","scrollable_content":false,"disable_reposition":false,"size":"micro","responsive_min_width":"0%","responsive_min_width_unit":false,"responsive_max_width":"100%","responsive_max_width_unit":false,"custom_width":"640px","custom_width_unit":false,"custom_height":"380px","custom_height_unit":false,"custom_height_auto":false,"location":"right bottom","position_from_trigger":false,"position_top":"100","position_left":"0","position_bottom":"100","position_right":"10","position_fixed":"1","animation_type":"fade","animation_speed":"350","animation_origin":"center top","overlay_zindex":false,"zindex":"1999999999"},"close":{"text":"","button_delay":"0","overlay_click":false,"esc_press":false,"f4_press":false},"click_open":[]}}' id="pum-5681503" role="dialog">
+<div class="pum-container popmake theme-5667467 pum-responsive pum-responsive-micro responsive size-micro pum-position-fixed" id="popmake-5681503">
+<div class="pum-content popmake-content">
+<div style="position: absolute;"><a href="https://www.globalresearch.ca/wp-content/uploads/2019/02/logo_def_globe_small.png"><img alt="" class="alignnone size-full wp-image-5605030" height="47" src="https://www.globalresearch.ca/wp-content/uploads/2019/02/logo_def_globe_small.png" width="37"/></a></div>
+<div style="text-align: center;">
+<p style="text-align: center;"><span style="font-family: helvetica, arial, sans-serif; font-size: 14pt; text-align: center;">Become Member of<br/>
+<span style="font-weight: bold;">Global Research<br/>
+</span> Free Books!</span></p>
+<span class="pum-close popmake-close" data-do-default="1"><a href="https://donorbox.org/donate-to-global-research" style="font-family: Helvetica; background-color: #ee5800; color: white; text-decoration: none; display: inline-block; padding: 6px 12px; margin-bottom: 0; margin-top: 10px; font-size: 14px; font-weight: normal; line-height: 1.428571429; text-align: center; white-space: nowrap; vertical-align: middle; cursor: pointer; border: 1px solid transparent; border-radius: 4px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none;" target="_blank">Become a member</a></span>
+</div>
+</div>
+<button aria-label="Close" class="pum-close popmake-close" type="button">
+× </button>
+</div>
+</div>
+<script type="text/javascript">var algolia = {"debug":false,"application_id":"AZ3OVPR0K9","search_api_key":"7147fe690c6831ff61668ea7de6fccda","powered_by_enabled":true,"query":"","autocomplete":{"sources":[],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"searchable_posts":{"name":"gr_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]}}};</script><script src="https://www.globalresearch.ca/wp-content/plugins/dk-pdf/assets/js/frontend.js?ver=1.9.6" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202310" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.7.30","ajaxurl":"https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.globalresearch.ca\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"5667465","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php";
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker: Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit https:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_event":"Event: %s","triggers":{"click_open":"Click Open","auto_open":"Time Delay \/ Auto Open"},"cookies":{"on_popup_close":"On Popup Close","on_popup_open":"On Popup Open","pum_sub_form_success":"Subscription Form: Successful","pum_sub_form_already_subscribed":"Subscription Form: Already Subscribed","manual":"Manual JavaScript"}};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.globalresearch.ca\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-5681503":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-5681503"],"delay":"5000"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-5681503","time":"1 week","path":true}}],"theme_id":"5667467","size":"micro","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","location":"right bottom","position_top":"100","position_bottom":"100","position_left":"0","position_right":"10","zindex":"1999999999","close_button_delay":"0","id":5681503,"slug":"become-member"}};
+/* ]]> */
+</script>
+<script src="//www.globalresearch.ca/wp-content/uploads/pum/pum-site-scripts.js?defer&amp;generated=1598646263&amp;ver=1.7.30" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-includes/js/wp-embed.min.js?ver=4.7.25" type="text/javascript"></script>
+<script src="https://www.globalresearch.ca/wp-content/plugins/print-me/js/printme.js?ver=0.5.1" type="text/javascript"></script>
+<script async="" defer="" src="https://stats.wp.com/e-202310.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.1',blog:'37090175',post:'5760314',tz:'0',srv:'www.globalresearch.ca'} ]);
+	_stq.push([ 'clickTrackerInit', '37090175', '5760314' ]);
+</script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7a5033b17cd005ef',m:'4Yk45rut4YB4loqZRKQu20FUCLNSzgmMc5dcAxZSZ8w-1678332234-0-AYNQFkjegD58dAujXYEkRzrFpTKWMwXSspsMMMnJS5AZAyMQRe0/f22q2+o1w4N1xMn+w/v36E6zYEp2bSRJ+ACQfJsXUe6BzacBbxz9p3HnRRDKSyVDBfRuJXs2QAavfUMSf9ipxCT8jSaswQWg+JFBpUOmlOPTbEuHcQ0BHEsFbZabi/IwOzOZkHdbGayjx7TanVOftf/CXch7lL0JqGI=',s:[0xde76f4a839,0x31997e6af0],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

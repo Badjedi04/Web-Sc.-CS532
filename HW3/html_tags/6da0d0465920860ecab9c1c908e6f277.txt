@@ -1,0 +1,1677 @@
+<!DOCTYPE html>
+
+<html class="articleRendererHTML no-js" lang="en-GB">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, user-scalable=yes" name="viewport"/>
+<title>No government can address the threat of pandemics alone – we must come together</title>
+<!-- Google Services (Showcase and Subscribe) -->
+<!-- Last Replicated: 2021-03-29T21:49+0100 -->
+<script data-js="main-json-schema" type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "NewsArticle",
+		"headline": "No government can address the threat of pandemics alone – we must come together",
+		"isAccessibleForFree": "True",
+		"publisher": {
+			"@type": "Organization",
+			"name": "The Telegraph",
+			"@id": "telegraph.co.uk"
+		},
+		"isPartOf": {
+			"@type": ["CreativeWork", "Product"],
+			"name" : "The Telegraph",
+			"productID": "telegraph.co.uk:TABLET"
+		}
+	}
+</script>
+<link href="//cdn.polyfill.io" rel="dns-prefetch"/>
+<link href="//static.telegraph.co.uk" rel="dns-prefetch"/>
+<link href="//assets.adobedtm.com" rel="dns-prefetch"/>
+<link href="//experience.tinypass.com" rel="dns-prefetch"/>
+<link href="//cdn.petametrics.com" rel="dns-prefetch"/>
+<link href="//telegraphmedia.bootstrap.fyre.co" rel="dns-prefetch"/>
+<link as="font" crossorigin="crossorigin" href="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/fonts/austin-news-uprights-vf-basic-web.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="crossorigin" href="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/fonts/Telesans-Text-Web-Regular.woff2" rel="preload" type="font/woff2"/>
+<link href="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/favicon.ico" rel="shortcut icon" sizes="16x16" type="image/x-icon"/>
+<!-- Versions for modern browsers -->
+<link href="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/favicon-196x196.png" rel="icon" sizes="196x196"/>
+<link href="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<!-- Safari pinned tab icon -->
+<link color="#333333" href="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/favicon.svg" rel="mask-icon"/>
+<meta content="#2c769d" name="msapplication-TileColor"/>
+<meta content="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/mstile-144x144.png" name="msapplication-TileImage"/>
+<!--/* IE 11 Tile for Windows 8.1 Start Screen */ -->
+<meta content="The Telegraph" name="msapplication-tooltip"/>
+<meta content="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/browserconfig.xml" name="msapplication-config"/>
+<meta content="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/mstile-310x310.png" name="msapplication-square310x310logo"/>
+<meta content="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/mstile-310x150.png" name="msapplication-wide310x150logo"/>
+<meta content="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/mstile-150x150.png" name="msapplication-square150x150logo"/>
+<meta content="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/mstile-70x70.png" name="msapplication-square70x70logo"/>
+<meta content="#ffffff" name="theme-color"/>
+<script>(()=>{"use strict";var e,r={},t={};function o(e){var n=t[e];if(void 0!==n)return n.exports;var i=t[e]={exports:{}};return r[e].call(i.exports,i,i.exports,o),i.exports}o.m=r,e=[],o.O=(r,t,n,i)=>{if(!t){var l=1/0;for(s=0;s<e.length;s++){for(var[t,n,i]=e[s],a=!0,u=0;u<t.length;u++)(!1&i||l>=i)&&Object.keys(o.O).every((e=>o.O[e](t[u])))?t.splice(u--,1):(a=!1,i<l&&(l=i));if(a){e.splice(s--,1);var f=n();void 0!==f&&(r=f)}}return r}i=i||0;for(var s=e.length;s>0&&e[s-1][2]>i;s--)e[s]=e[s-1];e[s]=[t,n,i]},o.n=e=>{var r=e&&e.__esModule?()=>e.default:()=>e;return o.d(r,{a:r}),r},o.d=(e,r)=>{for(var t in r)o.o(r,t)&&!o.o(e,t)&&Object.defineProperty(e,t,{enumerable:!0,get:r[t]})},o.g=function(){if("object"==typeof globalThis)return globalThis;try{return this||new Function("return this")()}catch(e){if("object"==typeof window)return window}}(),o.o=(e,r)=>Object.prototype.hasOwnProperty.call(e,r),o.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},(()=>{var e={8:0};o.O.j=r=>0===e[r];var r=(r,t)=>{var n,i,[l,a,u]=t,f=0;if(l.some((r=>0!==e[r]))){for(n in a)o.o(a,n)&&(o.m[n]=a[n]);if(u)var s=u(o)}for(r&&r(t);f<l.length;f++)i=l[f],o.o(e,i)&&e[i]&&e[i][0](),e[i]=0;return o.O(s)},t=self["tmg.build"]=self["tmg.build"]||[];t.forEach(r.bind(null,0)),t.push=r.bind(null,t.push.bind(t))})()})();"use strict";(self["tmg.build"]=self["tmg.build"]||[]).push([[886,2,209],{414:(t,e,i)=>{i.d(e,{Z:()=>s});var r=i(453);class a{constructor(t){this.params=Object.assign({accordionSelector:"[data-accordion]",triggerSelector:"[data-accordion-trigger]",contentSelector:"[data-accordion-content]",hideClasses:["accordion--is-collapsed"]},t)}init(){const t=document.querySelectorAll(this.params.accordionSelector);t.length>0&&t.forEach((t=>{this.setTriggerListeners(t)}))}setTriggerListeners(t){let e=t.querySelector(this.params.triggerSelector);e&&e.addEventListener("click",(e=>{const i=t.dataset.accordionAnimate,r=parseInt(t.dataset.accordionMaxScreenWidth);(0===r||window.innerWidth<r)&&(e.preventDefault(),i?this.animateAccordion(t):this.toggleClass(t),this.toggleState(t))}))}toggleClass(t){this.params.hideClasses.forEach((e=>{t.classList.toggle(e)}))}toggleState(t){const e=t.querySelector(this.params.contentSelector);null!==e.getAttribute("aria-hidden")&&e.setAttribute("aria-hidden","false"===e.getAttribute("aria-hidden")?"true":"false");const i=t.querySelector(this.params.triggerSelector);null!==i.getAttribute("aria-expanded")&&(i.setAttribute("aria-expanded","false"===i.getAttribute("aria-expanded")?"true":"false"),this.toggleAccordionFocus(e,i)),null!==i.getAttribute("aria-label")&&i.hasAttribute("toggle-aria-label")&&this.toggleAriaLabel(i)}animateAccordion(t){const e=document.getElementById(t.dataset.accordionAnimate),i=e.clientHeight,r=e.scrollHeight,a=!i,s=e.style.height;if(t.classList.toggle("accordion--animation-collapsed"),e.style.height=(a||!s?r:0)+"px",!s)return t.classList.toggle("accordion--animation-collapsed"),this.animateAccordion(t)}toggleAriaLabel(t){const e=t.getAttribute("aria-label"),i="Show",r="Hide";if(e.startsWith(i)||e.startsWith(r)){const a=e.startsWith(i)?e.replace(i,r):e.replace(r,i);t.setAttribute("aria-label",a)}}toggleAccordionFocus(t,e){"true"===e.getAttribute("aria-expanded")?t.focus():e.focus()}}r.Z.subscribe({topic:"tmg.page.ready",func:()=>{new a({hideClasses:["accordion--is-collapsed","accordion--is-expanded"]}).init()},runIfAlreadyPublished:!0});const s=a},453:(t,e,i)=>{i.d(e,{Z:()=>s});var r=i(384);const a=new class{constructor(){this.topics=[],this.publishedTopics=[],this.UID=-1}subscribe({topic:t,func:e,runIfAlreadyPublished:i}){if("function"!=typeof e)return!1;if(i)for(let i=0;i<this.publishedTopics.length;i++)this.publishedTopics[i]===t&&e.call();const r=(this.UID+=1).toString();return this.topics.push({token:r,topic:t,func:e}),r}unsubscribe({topic:t}){for(let e=0;e<this.topics.length;e++)this.topics[e].topic===t&&this.topics.splice(e,1)}publish({topic:t}){this.publishedTopics.push(t);for(let e=0;e<this.topics.length;e++)this.topics[e].topic===t&&this.topics[e].func.call()}};r.Z.create("tmg.pubsub"),window.tmg.pubsub=a;const s=a},901:(t,e,i)=>{i.r({});i.r({});var r=i(384),a=i(453);const s=new class{constructor(t){this.queryParamArray=[t,"debug","martech_debug"]}init(){this.disableConsoleLogs()}disableConsoleLogs(){this.isDebugging()||(console.log=function(){})}isDebugging(){const t=new URLSearchParams(window.location.search);let e;return this.queryParamArray.forEach((i=>{t.get(i)&&(e=i)})),"true"===t.get(e)}};class n{constructor(){r.Z.create("tmg.polyfill"),this.race()}static complete(){window.tmg.polyfill.complete=()=>{},a.Z.publish({topic:"tmg.polyfill.ready"})}race(){return setTimeout((()=>{window.tmg.polyfill.complete()}),3e3)}}new n,window.tmg.polyfill={complete:n.complete};var o=[],c=[],l="RUM_start",u=window.performance||{},d=Date.now?Date.now():+new Date;const g=()=>{if(u){if(u.now)return u.now();if(u.webkitNow)return u.now();if(u.msNow)return u.now();if(u.mozNow)return u.now()}return(Date.now?Date.now():+new Date)-d};function m(t){return function(t,e){for(var i=e.length-1;i>=0;i--){var r=e[i];if(t===r.name)return r}}(t,h())}function h(){if(u){if(u.getEntriesByType)return u.getEntriesByType("mark");if(u.webkitGetEntriesByType)return u.webkitGetEntriesByType("mark")}return o}let p={now:g,mark:function(t){if(u){if(u.mark)return u.mark(t);if(u.webkitMark)return u.webkitMark(t)}o.push({name:t,entryType:"mark",startTime:g(),duration:0})},measure:function(t,e,i){var r=0,a=g();if(void 0===e&&m(l)&&(e=l),u){if(u.measure)return e?i?u.measure(t,e,i):u.measure(t,e):u.measure(t);if(u.webkitMeasure)return u.webkitMeasure(t,e,i)}if(e){var s=m(e);if(s)r=s.startTime;else{if(!(u&&u.timing&&u.timing[e]))return;r=u.timing[e]-u.timing.navigationStart}}if(i){var n=m(i);if(n)a=n.startTime;else{if(!(u&&u.timing&&u.timing[i]))return;a=u.timing[i]-u.timing.navigationStart}}c.push({name:t,entryType:"measure",startTime:r,duration:a-r})},marks:o,measures:c};window.RUM=p,u&&u.timing&&u.timing.navigationStart&&(d=u.timing.navigationStart),window.addEventListener("beforeunload",(function(){var t=function(){var t=document.cookie.match("(^|;)\\s*AMCV_2C7336C753C676BA0A490D4B%40AdobeOrg\\s*=\\s*([^;]+)");return t?decodeURIComponent(t.pop()).split("|")[4]:""}(),e=h();if(t&&"ga"in window)for(var i=e.length-1;i>=0;i--){var r=e[i],a=r.name.split("_"),s=a[0],n=a[1],o=a[2],c=Math.round(r.startTime);s&&n&&o&&c&&ga("send",{hitType:"timing",timingCategory:s,timingVar:n,timingValue:c,timingLabel:o})}}));class f{constructor(t){this.elements=(Array.isArray(t)?t:[t]).filter(this.isValid)}init(){const t=/^((?!chrome|android).)*safari/i.test(navigator.userAgent),e=/^.*Mac.*Auth-Key/i.test(navigator.userAgent);if(!("loading"in HTMLImageElement.prototype)||t||e){let t=this.createObserver();this.elements.forEach((e=>{t.observe(e,!1)}))}else this.elements.forEach((t=>{this.createImage(t,!0)}))}createObserver(){return new IntersectionObserver(this.observerCallback.bind(this),{rootMargin:"100px 0px",threshold:.1})}observerCallback(t,e){t.forEach((t=>{if(t.isIntersecting){let i=t.target;this.createImage(i),e.unobserve(i)}}))}isValid(t){return!!t.dataset.src}createImage(t,e){const i=document.createElement("img");i.style.height=0,e&&i.setAttribute("loading","lazy"),i.onload=this.displayImage(t,i),["id","srcset","sizes","alt","title","src","class","width","height"].forEach((e=>{t.hasAttribute("data-"+e)&&(i.setAttribute(e,t.dataset[e]),t.removeAttribute(`data-${e}`))})),i.classList.add("is-loading"),t.appendChild(i)}displayImage(t,e){return()=>{e.removeAttribute("style"),t.style.height=null,t.hasAttribute("data-persistpadding")||(t.style.paddingTop=null),e.classList.add("is-loaded"),e.classList.remove("is-loading"),t.classList.add("is-ready")}}}a.Z.subscribe({topic:"tmg.page.ready",func:()=>{const t=[...document.querySelectorAll('[data-js="LazyImage"]')],e=new f(t);let i={createImage:e.createImage,displayImage:e.displayImage};r.Z.create("tmg.lazyImage"),tmg.lazyImage=i,e.init()},runIfAlreadyPublished:!0});var b=i(414);a.Z.subscribe({topic:"tmg.polyfill.ready",func:()=>{a.Z.publish({topic:"tmg.page.ready"})},runIfAlreadyPublished:!0}),new class{constructor(t){this.selectorClass=t||"no-js",this.removeClass()}removeClass(){const t=document.querySelector(`.${this.selectorClass}`);t&&t.classList.remove(this.selectorClass)}},r.Z,a.Z,s.init(),b.Z},384:(t,e,i)=>{i.d(e,{Z:()=>a}),window.tmg=window.tmg||{};const r=function(t){try{let e=tmg,i=t.split(".");return"tmg"===i[0]&&(i=i.slice(1)),i.forEach((t=>{void 0===e[t]&&(e[t]={}),e=e[t]})),e}catch(e){console.warn("couldn't create namespace:",t)}};window.tmg.createNamespace=r;const a={create:r}}},t=>{t(t.s=901)}]);</script>
+<link href="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui.lc-9dc7b31378a477c7d1217a0d502c7009-lc.min.css" rel="stylesheet" type="text/css"/>
+<script>
+	RUM.mark('css_load_ui');
+</script>
+<script defer="" src="https://cdn.polyfill.io/v3/polyfill.min.js?flags=gated&amp;features=default,fetch,IntersectionObserver,NodeList.prototype.forEach,Array.prototype.@@iterator&amp;Array.prototype.includes&amp;Array.prototype.find&amp;callback=tmg.polyfill.complete"></script>
+<script>
+		RUM.mark( 'js_load_polyfill' );
+	</script>
+<script>tmg.pianoCookie="_utp";</script>
+<script defer="" src="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/piano.lc-dee9a871e8c2427150759bd25aee1da4-lc.min..js"></script>
+<script defer="" src="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/video.lc-c98e3f5a90b2211cfced85027d6985fe-lc.min..js"></script>
+<script defer="" src="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/save-article.lc-8525cfe72004181dde6f117bcf0fe329-lc.min..js"></script>
+<!-- Load Sourcepoint stub -->
+<script type="text/javascript">
+	(function () { var e = false; var c = window; var t = document; function r() { if (!c.frames["__cmpLocator"]) { if (t.body) { var a = t.body; var e = t.createElement("iframe"); e.style.cssText = "display:none"; e.name = "__cmpLocator"; a.appendChild(e) } else { setTimeout(r, 5) } } } r(); function p() { var a = arguments; __cmp.a = __cmp.a || []; if (!a.length) { return __cmp.a } else if (a[0] === "ping") { a[2]({ gdprAppliesGlobally: e, cmpLoaded: false }, true) } else { __cmp.a.push([].slice.apply(a)) } } function l(t) { var r = typeof t.data === "string"; try { var a = r ? JSON.parse(t.data) : t.data; if (a.__cmpCall) { var n = a.__cmpCall; c.__cmp(n.command, n.parameter, function (a, e) { var c = { __cmpReturn: { returnValue: a, success: e, callId: n.callId } }; t.source.postMessage(r ? JSON.stringify(c) : c, "*") }) } } catch (a) { } } if (typeof __cmp !== "function") { c.__cmp = p; __cmp.msgHandler = l; c.addEventListener("message", l, false) } })();
+</script>
+<script defer="" src="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui.lc-99857ef136594ee7a1cf2c17e538d384-lc.min..js"></script>
+<script>
+		RUM.mark( 'js_load_ui' );
+	</script>
+<!-- Load Sourcepoint payload -->
+<script defer="" src="https://static.telegraph.co.uk/telegraph-advertising/tmg-cmp.min.js"></script>
+<link href="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/fonts-italic.lc-74f8f3d5f9a42a449787b66c770ee233-lc.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://www.telegraph.co.uk/politics/2021/03/29/no-government-can-address-threat-pandemics-alone-must-come/" rel="canonical">
+<meta content="We must be better prepared to predict, prevent, detect, assess and effectively respond" name="description"/>
+<meta content="Pandemics and epidemics,Emmanuel Macron,UK News,Comment,Politics,World News,News,Vaccines,Coronavirus,Angela Merkel,Boris Johnson" name="keywords"/>
+<meta content="politics" name="tmgads.channel"/>
+<meta content="politics-2021" name="tmgads.section"/>
+<meta content="politics.2021.03.29" name="tmgads.zone"/>
+<meta content="Aw4yBLnCbDtq" name="tmgads.articleid"/>
+<meta content="story" name="tmgads.pagetype"/>
+<meta content="5" name="tmgads.level"/>
+<meta name="tmgads.otherdata"/>
+<meta content="US" name="tmgads.geo"/>
+<meta content="Pandemics and epidemics,Emmanuel Macron,UK News,Comment,Politics,World News,News,Vaccines,Coronavirus,Angela Merkel,Boris Johnson" name="tmgads.keywords"/>
+<meta content="politics" name="DCSext.Channel"/>
+<meta content="2021" name="DCSext.Category"/>
+<meta content="03" name="DCSext.Genre"/>
+<meta content="/politics/2021/03/29" name="DCSext.MLC"/>
+<meta content="Aw4yBLnCbDtq" name="DCSext.articleId"/>
+<meta content="story" name="DCSext.Content_Type"/>
+<meta content="5" name="DCSext.Level"/>
+<meta content="Boris Johnson, Angela Merkel, Emmanuel Macron and 21 world leaders" name="DCSext.author"/>
+<meta content="2021-03-30 00:01" name="DCSext.articleFirstPublished"/>
+<meta content="0" name="DCSext.cf"/>
+<meta content="0" name="DCSext.cd"/>
+<meta content="0" name="DCSext.cn"/>
+<meta content="1" name="DCSext.pd"/>
+<meta content="No government can address the threat of pandemics alone – we must come together" property="og:title"/>
+<meta content="We must be better prepared to predict, prevent, detect, assess and effectively respond" property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="The Telegraph" property="og:site_name"/>
+<meta content="https://www.telegraph.co.uk/politics/2021/03/29/no-government-can-address-threat-pandemics-alone-must-come/" property="og:url"/>
+<meta content="https://www.telegraph.co.uk/content/dam/politics/2021/03/29/TELEMMGLPICT000254549701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay" property="og:image"/>
+<meta content="No government can address the threat of pandemics alone – we must come together" name="twitter:title"/>
+<meta content="https://www.telegraph.co.uk/politics/2021/03/29/no-government-can-address-threat-pandemics-alone-must-come/" name="twitter:url"/>
+<meta content="https://www.telegraph.co.uk/content/dam/politics/2021/03/29/TELEMMGLPICT000254549701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay" name="twitter:image"/>
+<meta content="@TelePolitics" name="twitter:site"/>
+<meta content="We must be better prepared to predict, prevent, detect, assess and effectively respond" name="twitter:description"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="politics" name="tmgads.businessSegment"/>
+<meta name="tmg.sponsor"/>
+<meta name="DCSext.campaignId"/>
+<meta name="DCSext.campaignStart"/>
+<meta name="DCSext.campaignEnd"/>
+<meta content="false" name="DCSext.sponsored"/>
+<meta content="true" name="tmg.premium.override"/>
+<meta content="false" name="tmg.premium.state"/>
+<meta content="false" name="premiumContentOnFirstPublish"/>
+<meta content="free" property="article:content_tier"/>
+<meta content="143666524748" property="fb:pages"/>
+<meta content="1438053159792450" property="fb:pages"/>
+<meta content="1069269459751990" property="fb:pages"/>
+<meta content="985629951556153" property="fb:pages"/>
+<meta content="121391718031592" property="fb:pages"/>
+<meta content="187451147952038" property="fb:pages"/>
+<meta content="244632882562393" property="fb:pages"/>
+<meta content="1443454839014980" property="fb:pages"/>
+<meta content="551022578388741" property="fb:pages"/>
+<meta content="534435549980003" property="fb:pages"/>
+<meta content="751195545009382" property="fb:pages"/>
+<meta content="116941904987458" property="fb:pages"/>
+<meta content="285329994977070" property="fb:pages"/>
+<meta content="122346694516955" property="fb:pages"/>
+<meta content="true" property="article:opinion"/>
+<meta content="https://www.telegraph.co.uk/politics/2021/03/29/no-government-can-address-threat-pandemics-alone-must-come/" property="vf:url"/>
+<meta content="Aw4yBLnCbDtq" property="vf:container_id"/>
+<script>
+	window.tmgFacebookAppId = "1785449471702494";
+</script>
+<script>
+	var dataLayer = {
+		pageName:'Politics\\\/2021\\\/03\\\/29\\\/No government can address the threat of pandemics alone \\u2013 we must come together',
+		pageType: 'articleRenderer',
+		pageId: 'Aw4yBLnCbDtq',
+		conceptIds: '[]',
+		rollupContentPath: '/politics/2021/03/29/no-government-can-address-threat-pandemics-alone-must-come',
+		videoEmbedded: 'true',
+		videoEmbedCount: '1',
+		premiumContent: 'false',
+		premiumOverride: 'true'
+	};
+</script>
+<script>
+	var targetMboxData = {
+		'DCSext.Channel': 'politics',
+		'DCSext.Content_Type': 'story',
+		'DCSext.articleId': 'Aw4yBLnCbDtq',
+		'dl.pageType': 'articlerenderer',
+		'entity.author': 'boris johnson, angela merkel, emmanuel macron and 21 world leaders',
+		'entity.businessSegment': 'politics',
+		'entity.categoryId': 'politics',
+		'entity.channel': 'politics',
+		'entity.firstPublished': '2021\u002D03\u002D30 00:01',
+		'entity.id': 'Aw4yBLnCbDtq',
+		'entity.keywords': 'Pandemics and epidemics,Emmanuel Macron,UK News,Comment,Politics,World News,News,Vaccines,Coronavirus,Angela Merkel,Boris Johnson',
+		'entity.name': 'No government can address the threat of pandemics alone – we must come together',
+		'entity.pageType': 'story',
+		'entity.pageURL': '\/politics\/2021\/03\/29\/no\u002Dgovernment\u002Dcan\u002Daddress\u002Dthreat\u002Dpandemics\u002Dalone\u002Dmust\u002Dcome\/',
+		'entity.premiumContent': 'false',
+		'entity.thumbnailUrl': 'https:\/\/www.telegraph.co.uk\/content\/dam\/politics\/2021\/03\/29\/TELEMMGLPICT000254549701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo\u002Doverlay',
+		'keywords': 'pandemics and epidemics,emmanuel macron,uk news,comment,politics,world news,news,vaccines,coronavirus,angela merkel,boris johnson',
+		'productPurchasedId': 'Aw4yBLnCbDtq',
+		'tmg.author': 'boris johnson, angela merkel, emmanuel macron and 21 world leaders',
+		'tmg.keywords': 'pandemics and epidemics,emmanuel macron,uk news,comment,politics,world news,news,vaccines,coronavirus,angela merkel,boris johnson',
+		'tmg.platform': 'aem',
+		'tmg.premium.override': 'true',
+		'tmg.premium.state': 'false',
+		'tmgads.articleid': 'Aw4yBLnCbDtq',
+		'tmgads.businessSegment': 'politics',
+		'tmgads.keywords': 'pandemics and epidemics,emmanuel macron,uk news,comment,politics,world news,news,vaccines,coronavirus,angela merkel,boris johnson',
+		'tmgads.pagetype': 'story',
+		'user.categoryId': 'politics'
+	};
+
+	window.adobeDataLayer = window.adobeDataLayer || [];
+	window.adobeDataLayer.push({
+		event: 'pageLoaded',
+		web: {
+			webPageDetails: {
+				name: document.location.pathname,
+				server: document.location.hostname,
+				URL: document.location.href,
+			},
+			webReferrer: { URL: document.referrer }
+		},
+		_tmg: {
+			pageInfo: {
+				pageName: 'No government can address the threat of pandemics alone – we must come together',
+				pageType: 'articleRenderer',
+				pageId: 'Aw4yBLnCbDtq',
+				conceptIds: '[]',
+				rollupContentPath: '\/politics\/2021\/03\/29\/no\u002Dgovernment\u002Dcan\u002Daddress\u002Dthreat\u002Dpandemics\u002Dalone\u002Dmust\u002Dcome\/',
+				videoEmbedded: 'true',
+				videoEmbedCount: '1',
+				premiumContent: 'false',
+				premiumOverride: 'true',
+				event: ['pageLoaded']
+			}
+		}
+	});
+</script>
+<meta content="#072A3A" name="theme-color"/>
+<meta content="#072A3A" name="msapplication-navbutton-color"/>
+<script>
+	var pageData = {"topics":{"things":{"pandemics-epidemics":{},"vaccines":{}},"people":{"emmanuel-macron":{},"angela-merkel":{},"boris-johnson":{}},"in-the-news":{"coronavirus":{}}},"structure":{"news":{"uk-news":{},"world-news":{}},"politics":{}},"storytype":{"comment":{}}};
+</script>
+<meta content="max-snippet:-1,max-image-preview:large,max-video-preview:-1" name="robots"/>
+<meta content="false" name="tmg.app"/>
+<meta content="false" name="tmg.isAdLite"/>
+<script>
+    var tmgAds = tmgAds || {};
+    tmgAds.sticky = true;
+</script>
+<script defer="" src="//assets.adobedtm.com/71dcbb11123ce6b2e1ce4d47fd79a130aad3fc95/satelliteLib-177113f60f763788009998023cd15615fe2168a2.js"></script>
+<script>
+		RUM.mark( 'js_load_dtm' );
+	</script>
+<script defer="" src="https://static.telegraph.co.uk/telegraph-advertising/tmg-gpt.min.js"></script>
+<script>
+			RUM.mark( 'js_load_gpt' );
+		</script>
+<!-- comScore Identifier: comscorekw=politics -->
+<!-- MarTech (Target) -->
+<script defer="" src="https://www.telegraph.co.uk/martech/js/core.min.js"></script>
+<script defer="" src="https://secure.telegraph.co.uk/customer/lib/tmgrefresh.js"></script>
+<script>
+	RUM.mark( 'js_load_customer' );
+</script>
+<script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="GHENT-R5DY7-KAG4V-6EY7K-3RGVU",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"GHENT-R5DY7-KAG4V-6EY7K-3RGVU",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="i2y5hjaxbwremzajknsq-f-dd68ce032-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"34","ak.cp":"44707","ak.ai":parseInt("148538",10),"ak.ol":"0","ak.cr":34,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"f5662dd","ak.r":41489,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"70.177.211.0","ak.cport":51242,"ak.gh":"23.220.106.138","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1678332773","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==ufqpNEm8ZKWYRe5XxKkUEoUBdQllIwXXv1O0/wjrYm+KQPAs/wZhKCHvODDumSbLdJ4GMc0tg0MX9fF5QpzlyG4YfeaeeehWb3udKOrmR90Lt2pkqIubVtv3Wf12mYUhWbtuILfPN4clkkVGymOfsOVyWhxTibCKTnqr014Ndx754YG0l8M6c+c/W/4IqS6lwAQNE5/YwK6eOPYIkfSykNvft/AREnK3ZzwzL3hqMMwUH9Jc1BQT7z3FGfFVEEHSWGCBQdHCsbfftAV9bH5F2yFy1BJJnPNmvv3n8Yiq2iw+i1Xz6oWt/qh8Z6fAZ08opKI/NNDPD5IGH3bPJjLzRHzdT3NNZYCr73UU7nK8+k1ItuBAGgT20xtvtPzxm00BOsIG5MDIGn9VVHTFSrP4iQ1se1T/5oem0vsiUqOVJR0=","ak.pv":"1441","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></link></head>
+<body class="segment--politics">
+<a aria-hidden="false" hidden="" href="#main-content">Jump to content</a>
+<div class="site-header-wrapper">
+<div class="advert js-advert js-advert-banner is-sticky advert--banner advert--header" data-perf="advert-banner" id="advert_tmg_ban">
+</div>
+<!-- Long Form currently does not have save article feature hence the different selectors -->
+<header class="site-header site-header--has-sub-navigation" data-test="site-header" id="navigation">
+<div class="site-header__primary-wrapper" data-test="site-header-primary">
+<div class="site-header__container site-header__primary-content">
+<div class="site-header__masthead">
+<div class="site-header__logo" data-test="site-header-logo" data-track-wrapper="header-logobar">
+<a class="e-site-logo" data-track-img="" href="/">
+<svg aria-labelledby="site-logo-title" class="e-site-logo__image" id="site-logo" viewbox="0 0 430 70" xmlns="http://www.w3.org/2000/svg">
+<title id="site-logo-title">The Telegraph logo</title>
+<path d="M69.23 61.13c2.92-1.87 5.74-4.12 5.74-8.54V25.03l-4.42-4.64-1.72 1.72 3.82 4.04v26.44c0 3.67-1.35 6.37-3.6 8.24l.18.3zM52.35 2.71l-.07.3c1.27.53 2.85 1.8 2.85 4.35v40.59l-1.57 1.57 6.14 5.17 1.8-1.5-4.94-4.04.9-.82V7.73c-.02-3.22-2.94-4.79-5.11-5.02m3.67 61.19c7.79-.6 15.51-3.22 15.51-11.46V26.45L68 22.86l-3.9 3.82v19.54l3.22 2.92-7.41 6.59h-.67l-7.27-6.22 1.95-1.94V7.81c0-3-2.55-4.57-4.12-4.94v-.68c.68-.38 1.8-.6 3.23-.6 2.47 0 4.79 1.5 5.46 3.14h.22c1.5-2.25 3.9-3.14 6.22-3.22.68 0 1.5.08 2.32.3v.82C65.98 3 64.1 4.58 64.1 8.55V25.1l9.59-9.21h.68c.67.67 4.86 4.49 5.69 5.02.38.23.9.37 1.35.37.83 0 1.35-.3 2.02-.6v1.05c-.75.67-1.72 1.95-1.72 3.6v22.54c0 9.96-10.93 16.03-25.69 17.08V63.9zM100.28 20.54l-1.95 1.35c2.24 2.62 5.09 6 7.94 9.14l2.02-1.35c-2.85-3.15-5.69-6.6-8.01-9.14m-2.25 15.95l7.19-4.87c-2.47-2.85-5.1-5.84-7.19-8.24v13.11zm4.64 16.63c-4.34-1.95-8.23-3.52-11.68-5.39.22-1.27.3-2.77.3-6.97v-16.4l-2.32 1.2v15.2c0 4.19-.08 6.89-.45 8.08 3.37 1.88 8.17 3.9 12.59 5.85l1.56-1.57zM87.85 24.88c4.27-2.1 10.7-5.92 14.97-8.99h.75c2.77 2.92 6.89 7.56 10.41 10.71v.82L98.03 37.84v6.44c1.65 1.05 6.29 3.37 9.06 4.34l6.44-6.21.75.82-12.95 12.51h-.75c-4.34-1.87-9.96-4.27-13.55-6.29.45-1.35.82-4.65.82-8.76V24.88zM415.33 61.04c2.92-1.87 5.73-4.13 5.73-8.54V24.94l-4.42-4.65-1.72 1.73 3.82 4.04V52.5c0 3.67-1.35 6.37-3.6 8.24l.19.3zM398.45 2.62l-.07.3c1.27.52 2.85 1.79 2.85 4.35v40.59l-1.57 1.57 6.14 5.17 1.8-1.5-4.94-4.04.9-.82V7.64c-.02-3.22-2.94-4.79-5.11-5.02m3.67 61.19c7.79-.6 15.51-3.22 15.51-11.46V26.36l-3.52-3.6-3.9 3.82v19.54l3.22 2.92-7.41 6.59h-.67l-7.27-6.22 1.95-1.94V7.71c0-3-2.55-4.57-4.12-4.94V2.1c.68-.37 1.8-.6 3.23-.6 2.47 0 4.79 1.5 5.46 3.14h.23c1.5-2.24 3.9-3.14 6.22-3.22.67 0 1.5.08 2.32.3v.82c-1.27.37-3.15 1.95-3.15 5.91V25l9.59-9.21h.68c.67.67 4.86 4.49 5.69 5.02.38.22.9.37 1.35.37.82 0 1.35-.3 2.02-.6v1.36c-.75.67-1.73 1.95-1.73 3.6v22.23c0 9.96-10.93 16.03-25.69 17.07v-1.03zM195.03 20.51l-1.94 1.35c2.24 2.62 5.09 5.99 7.93 9.14l2.02-1.35c-2.85-3.15-5.69-6.6-8.01-9.14M192.9 36.4l7.19-4.87c-2.47-2.85-5.09-5.84-7.19-8.24V36.4zm4.64 16.62c-4.34-1.95-8.24-3.52-11.68-5.39.22-1.27.3-2.77.3-6.97v-16.4l-2.32 1.2v15.2c0 4.2-.07 6.89-.45 8.09 3.37 1.88 8.16 3.9 12.58 5.84l1.57-1.57zm-14.82-28.23c4.27-2.1 10.71-5.92 14.98-8.99h.75c2.77 2.92 6.89 7.56 10.41 10.71v.82L192.9 37.74v6.44c1.65 1.05 6.29 3.37 9.06 4.34l6.44-6.21.75.82-12.95 12.52h-.75c-4.35-1.87-9.96-4.27-13.56-6.29.45-1.35.82-4.64.82-8.76V24.79zM222.33 52.87c-2.92-.82-5.77-2.7-5.77-6.74V9.81l-3.22-3.3-1.72 1.72 2.62 2.69v36.17c0 4.12 3.3 6.74 6.37 7.49l1.72-1.71zm.98-46.13v38.5c0 1.64 1.57 3.22 3.07 3.51l2.32-2.32.67.82-8.24 8.39h-.45c-3.14-.68-7.56-3.45-7.56-8.32V11.46l-2.32-2.32-2.4 2.4-.74-.75 9.21-9.28h.6l5.84 5.23zM245.4 20.45l-1.95 1.35c2.25 2.62 5.09 5.99 7.94 9.14l2.02-1.35c-2.84-3.16-5.69-6.6-8.01-9.14m-2.24 15.95l7.19-4.87c-2.47-2.85-5.09-5.84-7.19-8.24V36.4zm4.63 16.62c-4.34-1.95-8.23-3.52-11.68-5.39.22-1.27.3-2.77.3-6.97v-16.4l-2.32 1.2v15.2c0 4.2-.07 6.89-.45 8.09 3.37 1.88 8.16 3.9 12.58 5.84l1.57-1.57zm-14.83-28.23c4.27-2.1 10.71-5.92 14.98-8.99h.75c2.77 2.92 6.89 7.56 10.41 10.71v.82l-15.95 10.41v6.44c1.64 1.05 6.29 3.37 9.06 4.34l6.44-6.21.75.82-12.96 12.51h-.75c-4.34-1.87-9.96-4.27-13.56-6.29.45-1.35.82-4.64.82-8.76v-15.8zM313.88 22.99c1.27 1.2 3.07 2.92 4.57 4.19l1.51-1.74c-1.43-1.28-3.6-3.15-4.64-4.2l-1.44 1.75zm-3.89 29.88c-2.99-.82-5.84-2.69-5.84-6.74V24.12L301 20.89l-1.79 1.72 2.62 2.7V47.1c0 4.12 3.3 6.74 6.36 7.49l1.8-1.72zm.89-26.51v18.87c0 1.65 1.5 3.14 3.07 3.44l2.32-2.25.68.82-8.24 8.39h-.52c-3.07-.68-7.49-3.45-7.49-8.32V25.76l-2.32-2.32-2.4 2.4-.82-.75 9.21-9.29h.68l5.84 5.69v3.15l7.41-8.84h.68c1.5 1.5 3.82 3.74 5.84 5.24v.15l-6.21 7.41h-.15c-1.72-1.5-4.04-3.6-5.32-4.87l-2.26 2.63zM342.71 46.73V34.97c-2.32-.6-4.72-1.57-6.97-2.69v14.53l4.12 2.55 2.85-2.63zm9.29 6.22c-2.77-1.05-5.77-3.07-5.77-7.04V25.69l-11.08-5.55c-.3.22-1.58 1.13-1.95 1.42l10.71 5.55v19.7c0 3.82 3.52 6.74 6.37 7.79l1.72-1.65zm-9.29-19.1v-6.06l-10.49-5.54c-.75.6-3.6 2.33-4.49 2.77 2.48 3.29 8.99 7.33 14.98 8.83m-6.29 18.95l-7.41-4.94V37l-2.25 1.65v10.56l7.94 5.32 1.72-1.73zm-1.95 2.85l-8.91-5.92V38.12c2.24-1.57 6.89-4.8 9.13-6.37-3.52-1.87-6.51-4.19-8.31-6.44v-.83c5.32-2.99 9.06-5.76 12.28-8.69h.67s10.94 5.17 11.46 5.39c.6.3 1.05.45 1.65.45.75 0 1.42-.23 2.17-.6v1.21c-.82.6-1.72 1.72-1.72 3.37v19.46c0 2.02 1.8 3.37 3.15 3.67l2.32-2.32.68.82-8.24 8.39h-.52c-3.22-.9-6.82-3.97-7.42-7.64L335 55.65h-.53zM280.51 46.68V26.46l-7.41-3.22v22.99l4.64 3.07 2.77-2.62zm3.44-22.46l-10.86-4.57v2.4l8.54 3.67v22.17c0 4.8 2.1 9.99 5.32 13.96l1.72-1.72c-2.77-3.67-4.72-7.82-4.72-12.61v-23.3zm-11.61 30.25l1.8-1.64-7.79-5.02V24.06l-2.25 1.58v23.3l8.24 5.53zm-3.14 9.46c-2.85 0-5.39 1.33-6.89 3.28v.39c1.72-.97 3.74-1.57 6.89-1.57 3.82 0 8.69 1.05 11.46 2.62l1.5-1.79c-3.22-1.65-7.94-2.93-12.96-2.93m-6.29-14.4V24.96l13.03-9.06h.75c2.55 1.05 10.86 4.64 11.91 5.09.38.15.9.3 1.35.3.75 0 1.64-.3 2.47-.67v1.36c-.75.67-1.8 2.17-1.8 3.37v20.81c0 4.87 1.05 7.74 3 9.69v.82c-2.85 2.92-9.51 9.73-12.43 13.33h-.53c-2.77-1.57-7.56-2.85-11.46-2.85-2.85 0-6.14.75-8.61 2.7l-.6-.52c2.25-5.24 7.04-10.49 13.11-10.49 3.82 0 8.76 1.57 13.03 3.9-2.92-3.3-5.54-9.39-5.62-14.48l-7.72 7.41h-.6l-9.28-6.14zM379.09 22.26l3.97 3.9v21.35l2.32-1.28V24.96l-4.49-4.49-1.8 1.79zm1.64 32.96c.38-.6 1.2-1.42 1.65-1.87l-7.94-1.65v2.18l6.29 1.34zm1.13-7.64V26.53l-3.52-3.59-3.89 3.67v19.55c1.72.37 6.51 1.27 7.41 1.42m-16.41 14.48l-1.57 1.5 5.92 5.1 1.8-1.57-4.64-3.89.82-.82v-38l-3.3-3.29-1.65 1.65 2.62 2.7v36.62zm8.99-37.02l9.59-9.14h.67c.67.67 5.1 4.64 5.77 5.09.38.22.9.3 1.28.3.82 0 1.42-.3 2.02-.6v1.36c-.75.59-1.72 2.02-1.72 3.59v23.51c-4.12.97-7.42 3.22-10.93 7.34h-.3l-6.36-1.35v5.2l3.29 2.99-7.79 6.52h-.37l-7.34-6.21 1.95-2.1v-8.71c-.75-.15-2.27-.38-3.01-.6v-1.08c.9-.38 3.16-2.61 3.16-4.48V25.86l-2.32-2.32-2.4 2.4-.82-.75L368 15.9h.68l5.77 5.69v3.45zM22.85 36.4l-.06-10.19-2.26 1.57v9.51c0 1.05-.23 1.87-.52 2.62l.29.01c1.41-.92 2.55-2.3 2.55-3.52M11.11 20.37c-3.3 3.3-6.37 7.87-6.37 13.71 0 13.85 9.34 20.82 21.1 20.82 7.34 0 12.46-3.97 15.46-6.97l-.2-.3c-3.44 2.77-8.14 5.03-15.26 5.03-9.51 0-18.7-5.84-18.7-18.57 0-5.09 1.83-10.07 4.23-13.45l-.26-.27zm25.31-5.39c-8.84 0-16.78-4.34-23.22-4.34-4.12 0-8.9 1.68-10.6 6.47l.26.12c1.94-3.3 6.36-4.35 10.33-4.35 6.44 0 14.38 4.35 23.22 4.35 7.11 0 11.23-2.4 11.91-8.09l-.37-.06c-1.04 4.34-4.42 5.9-11.53 5.9M3.54 34.08c0-9.36 7.12-15.88 13.71-18.8l.45.6c-2.4 2.77-4.12 5.47-4.12 11.16 0 6.52 1.72 11.01 4.42 14.01.9-.97 1.42-2.62 1.42-3.97v-9.74l11.91-8.53.52.67c-1.05 1.5-1.65 2.85-1.65 5.17v6.21c0 4.35-7.12 8.99-11.54 10.78 2.92 2.85 7.04 4.05 11.46 4.05 1.65 0 3.07-.07 4.42-.3V18.2c-3.89-.22-7.57-1.27-10.93-2.17-3.6-1.05-7.27-2.02-10.41-2.02-4.8 0-10.64 1.65-10.71 8.61 0 .6.07 1.27.15 2.03l-.9.29C.91 22.77.46 20.67.46 18.57.4 10.11 6.61 2.7 16.57 2.7c4.19 0 8.16 1.05 11.61 2.02 3.74 1.05 7.41 2.02 11.16 2.02 1.87 0 2.99-.97 2.99-2.77s-.9-2.69-2.32-3.07l.16-.9c4.27.75 8.98 3.3 8.98 8.69 0 6.51-4.71 9.58-12.65 9.58h-.82v26.96c5.24-.97 8.68-3.44 11.3-7.56l.82.45c-2.92 9.21-9.73 17.97-21.86 17.97-12.36 0-22.4-7.18-22.4-22.01M153.34 36.4l-.06-10.19-2.26 1.57v9.51c0 1.05-.23 1.87-.52 2.62l.28.01c1.42-.92 2.56-2.3 2.56-3.52m-11.75-16.03c-3.3 3.3-6.37 7.87-6.37 13.71 0 13.85 9.34 20.82 21.1 20.82 7.34 0 12.46-3.97 15.45-6.97l-.2-.3c-3.44 2.77-8.14 5.03-15.25 5.03-9.51 0-18.7-5.84-18.7-18.57 0-5.09 1.83-10.07 4.23-13.45l-.26-.27zm25.31-5.39c-8.84 0-16.78-4.34-23.22-4.34-4.12 0-8.9 1.68-10.6 6.47l.26.12c1.95-3.3 6.37-4.35 10.33-4.35 6.44 0 14.38 4.35 23.22 4.35 7.12 0 11.23-2.4 11.91-8.09l-.37-.06c-1.03 4.34-4.41 5.9-11.53 5.9m-32.88 19.1c0-9.36 7.12-15.88 13.71-18.8l.45.6c-2.4 2.77-4.12 5.47-4.12 11.16 0 6.52 1.72 11.01 4.42 14.01.9-.97 1.42-2.62 1.42-3.97v-9.74l11.91-8.53.52.67c-1.05 1.5-1.65 2.85-1.65 5.17v6.21c0 4.35-7.12 8.99-11.54 10.78 2.92 2.85 7.04 4.05 11.46 4.05 1.65 0 3.07-.07 4.42-.3V18.2c-3.89-.22-7.57-1.27-10.93-2.17-3.6-1.05-7.27-2.02-10.41-2.02-4.8 0-10.64 1.65-10.71 8.61 0 .6.07 1.27.15 2.03l-.9.29c-.83-2.17-1.28-4.27-1.28-6.37-.07-8.46 6.14-15.88 16.1-15.88 4.19 0 8.16 1.05 11.61 2.02 3.74 1.05 7.41 2.02 11.16 2.02 1.87 0 2.99-.97 2.99-2.77s-.9-2.69-2.32-3.07l.15-.9c4.27.75 8.98 3.3 8.98 8.69 0 6.51-4.71 9.58-12.65 9.58h-.82v26.96c5.24-.97 8.69-3.44 11.31-7.56l.82.45c-2.92 9.21-9.73 17.97-21.86 17.97-12.34.01-22.39-7.17-22.39-22"></path>
+</svg>
+</a>
+</div>
+</div>
+<div class="site-header__primary-navigation-wrapper">
+<div class="site-header__navigation" data-drag-scroll="">
+<nav aria-label="Global website navigation" class="site-navigation" data-test="site-navigation" role="navigation">
+<ul class="site-navigation__list site-navigation__list--primary" data-test="site-nav-list-primary" data-track-wrapper="header-nav-primary">
+<li class="e-navigation-primary-item e-navigation-primary-item--first" data-accordion-max-screen-width="1024">
+<a class="e-navigation-primary-item__link" data-test="site-navigation-link" data-track-txt="" href="/news/lockdown-files/">
+<span class="e-navigation-primary-item__link-content">
+<span class="e-navigation-primary-item__link-text e-navigation-border">
+						Lockdown Files
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-primary-item e-navigation-primary-item--current" data-accordion-max-screen-width="1024" data-current-navigation-item="">
+<a class="e-navigation-primary-item__link" data-test="site-navigation-link" data-track-txt="" href="/news/">
+<span class="e-navigation-primary-item__link-content">
+<span class="e-navigation-primary-item__link-text e-navigation-border">
+						News
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-primary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-primary-item__link" data-test="site-navigation-link" data-track-txt="" href="/sport/">
+<span class="e-navigation-primary-item__link-content">
+<span class="e-navigation-primary-item__link-text e-navigation-border">
+						Sport
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-primary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-primary-item__link" data-test="site-navigation-link" data-track-txt="" href="/business/">
+<span class="e-navigation-primary-item__link-content">
+<span class="e-navigation-primary-item__link-text e-navigation-border">
+						Business
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-primary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-primary-item__link" data-test="site-navigation-link" data-track-txt="" href="/opinion/">
+<span class="e-navigation-primary-item__link-content">
+<span class="e-navigation-primary-item__link-text e-navigation-border">
+						Opinion
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-primary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-primary-item__link" data-test="site-navigation-link" data-track-txt="" href="/russia-ukraine-war/">
+<span class="e-navigation-primary-item__link-content">
+<span class="e-navigation-primary-item__link-text e-navigation-border">
+						Ukraine
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-primary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-primary-item__link" data-test="site-navigation-link" data-track-txt="" href="/money/">
+<span class="e-navigation-primary-item__link-content">
+<span class="e-navigation-primary-item__link-text e-navigation-border">
+						Money
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-primary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-primary-item__link" data-test="site-navigation-link" data-track-txt="" href="/lifestyle/">
+<span class="e-navigation-primary-item__link-content">
+<span class="e-navigation-primary-item__link-text e-navigation-border">
+						Life
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-primary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-primary-item__link" data-test="site-navigation-link" data-track-txt="" href="/style/">
+<span class="e-navigation-primary-item__link-content">
+<span class="e-navigation-primary-item__link-text e-navigation-border">
+						Style
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-primary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-primary-item__link" data-test="site-navigation-link" data-track-txt="" href="/travel/">
+<span class="e-navigation-primary-item__link-content">
+<span class="e-navigation-primary-item__link-text e-navigation-border">
+						Travel
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-primary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-primary-item__link" data-test="site-navigation-link" data-track-txt="" href="/culture/">
+<span class="e-navigation-primary-item__link-content">
+<span class="e-navigation-primary-item__link-text e-navigation-border">
+						Culture
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-primary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-primary-item__link" data-test="site-navigation-link" data-track-txt="" href="https://www.telegraph.co.uk/puzzles/">
+<span class="e-navigation-primary-item__link-content">
+<span class="e-navigation-primary-item__link-text e-navigation-border">
+						Puzzles
+					</span>
+</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="site-header__buttons">
+<div class="e-site-header-button e-site-header-button--search">
+<a aria-label="Search The Telegraph" class="e-site-header-button__link" data-test="site-header-search-link" href="/search/">
+<svg class="e-site-header-button__icon" viewbox="0 0 12 16" xmlns="http://www.w3.org/2000/svg">
+<title>Search Icon</title>
+<path d="M12,14.91l-3.24-5A5.5,5.5,0,1,0,5.5,11a5.27,5.27,0,0,0,1.44-.2L10.32,16ZM2,5.5A3.5,3.5,0,1,1,5.5,9,3.5,3.5,0,0,1,2,5.5Z"></path>
+</svg>
+</a>
+</div>
+<div class="e-site-header-button e-site-header-button--subscribe">
+<a class="e-site-header-button__link" data-icid="{ 'product': 'premiumsub', 'contentLocation': 'topnav' }" data-test="site-header-subscribe-link" href="https://secure.telegraph.co.uk/customer/subscribe/">
+<span class="e-site-header-button__link-text-wrap">
+<span class="e-site-header-button__link-text e-site-header-button__link-text--message">
+											Subscribe now
+										</span>
+<span class="e-site-header-button__link-text e-site-header-button__link-text--description">
+											Free for one month
+										</span>
+</span>
+<svg class="e-site-header-button__arrow tmg-svg-icon" viewbox="0 0 10 5" xmlns="http://www.w3.org/2000/svg">
+<path d="M.312 0L5 2.353 9.687 0 10 .294 5 5 0 .294.312 0z"></path>
+</svg>
+</a>
+</div>
+<div class="e-site-header-button e-site-header-button--sign-in">
+<a class="e-site-header-button__link e-site-header-button__link--no-border" data-redirect-current="" href="https://secure.telegraph.co.uk/customer/secure/login/?redirectTo=">
+									Log in
+								</a>
+</div>
+<div class="e-site-header-button e-site-header-button--menu">
+<a aria-label="View all sections" class="e-site-header-button__link" data-modal-open-button="" data-test="site-header-all-sections-link" href="/all-sections/">
+<span class="e-site-header-button__icon"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="site-header__secondary-wrapper" data-test="site-header-secondary">
+<div class="site-header__container accordion accordion--sm accordion--is-collapsed" data-accordion="" data-accordion-max-screen-width="1024">
+<a class="accordion__trigger site-header__accordion-trigger" data-accordion-trigger="" data-test="site-header-accordion-trigger" href="/all-sections#news">
+						See all News
+						
+	<svg class="accordion__arrow-icon tmg-svg-icon" viewbox="0 0 10 5" xmlns="http://www.w3.org/2000/svg">
+<path d="M.312 0L5 2.353 9.687 0 10 .294 5 5 0 .294.312 0z"></path>
+</svg>
+</a>
+<nav aria-label="Navigation for News" class="site-header__secondary-content site-navigation site-navigation--sub accordion__content" data-accordion-content="" role="navigation">
+<ul class="site-navigation__list site-navigation__list--secondary" data-test="site-nav-list-secondary" data-track-wrapper="header-nav-secondary">
+<li class="e-navigation-secondary-item e-navigation-secondary-item--has-children accordion accordion--sm accordion--is-collapsed e-navigation-secondary-item--first" data-accordion="" data-accordion-max-screen-width="1024">
+<a class="e-navigation-secondary-item__link" data-accordion-trigger="" data-test="site-navigation-link" data-track-txt="" href="/royal-family/">
+<span class="e-navigation-secondary-item__link-content">
+<span class="e-navigation-secondary-item__link-text e-navigation-border">
+						Royals
+					</span>
+<svg class="e-navigation-secondary-item__icon accordion__arrow-icon tmg-svg-icon" viewbox="0 0 10 5" xmlns="http://www.w3.org/2000/svg">
+<path d="M.312 0L5 2.353 9.687 0 10 .294 5 5 0 .294.312 0z"></path>
+</svg>
+</span>
+</a>
+<ul class="site-navigation__list accordion__content site-navigation__list--tertiary" data-accordion-content="" data-test="site-nav-list-tertiary" data-track-wrapper="header-nav-tertiary">
+<li class="e-navigation-tertiary-item e-navigation-tertiary-item--is-home-link e-navigation-tertiary-item--first" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/royal-family/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Royals home
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/queen-elizabeth-ii/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Queen Elizabeth II
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/king-charles/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						King Charles III
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/camilla-queen-consort/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Camilla, Queen Consort
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/prince-william/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Prince William
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/princess-of-wales/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Princess of Wales
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/prince-harry/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Prince Harry
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/duchess-of-sussex/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Duchess of Sussex
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item e-navigation-tertiary-item--is-home-link e-navigation-tertiary-item--last" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/royal-family/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						More... 
+					</span>
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="e-navigation-secondary-item e-navigation-secondary-item--has-children accordion accordion--sm accordion--is-collapsed" data-accordion="" data-accordion-max-screen-width="1024">
+<a class="e-navigation-secondary-item__link" data-accordion-trigger="" data-test="site-navigation-link" data-track-txt="" href="/news/uk/">
+<span class="e-navigation-secondary-item__link-content">
+<span class="e-navigation-secondary-item__link-text e-navigation-border">
+						UK news
+					</span>
+<svg class="e-navigation-secondary-item__icon accordion__arrow-icon tmg-svg-icon" viewbox="0 0 10 5" xmlns="http://www.w3.org/2000/svg">
+<path d="M.312 0L5 2.353 9.687 0 10 .294 5 5 0 .294.312 0z"></path>
+</svg>
+</span>
+</a>
+<ul class="site-navigation__list accordion__content site-navigation__list--tertiary" data-accordion-content="" data-test="site-nav-list-tertiary" data-track-wrapper="header-nav-tertiary">
+<li class="e-navigation-tertiary-item e-navigation-tertiary-item--is-home-link e-navigation-tertiary-item--first" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/news/uk/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						UK news home
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/scotland/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Scotland
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/wales/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Wales
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item e-navigation-tertiary-item--last" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/northern-ireland/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Northern Ireland
+					</span>
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="e-navigation-secondary-item e-navigation-secondary-item--current e-navigation-secondary-item--has-children accordion accordion--sm accordion--is-collapsed" data-accordion="" data-accordion-max-screen-width="1024" data-current-navigation-item="">
+<a class="e-navigation-secondary-item__link" data-accordion-trigger="" data-test="site-navigation-link" data-track-txt="" href="/politics/">
+<span class="e-navigation-secondary-item__link-content">
+<span class="e-navigation-secondary-item__link-text e-navigation-border">
+						Politics
+					</span>
+<svg class="e-navigation-secondary-item__icon accordion__arrow-icon tmg-svg-icon" viewbox="0 0 10 5" xmlns="http://www.w3.org/2000/svg">
+<path d="M.312 0L5 2.353 9.687 0 10 .294 5 5 0 .294.312 0z"></path>
+</svg>
+</span>
+</a>
+<ul class="site-navigation__list accordion__content site-navigation__list--tertiary" data-accordion-content="" data-test="site-nav-list-tertiary" data-track-wrapper="header-nav-tertiary">
+<li class="e-navigation-tertiary-item e-navigation-tertiary-item--first" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/conservative-party/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Conservatives
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/brexit/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Brexit
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/labour-party/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Labour
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/liberal-democrats/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Lib Dems
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/scottish-national-party/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						SNP
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item e-navigation-tertiary-item--last" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/us-politics/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						US politics
+					</span>
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="e-navigation-secondary-item e-navigation-secondary-item--has-children accordion accordion--sm accordion--is-collapsed" data-accordion="" data-accordion-max-screen-width="1024">
+<a class="e-navigation-secondary-item__link" data-accordion-trigger="" data-test="site-navigation-link" data-track-txt="" href="/world-news/">
+<span class="e-navigation-secondary-item__link-content">
+<span class="e-navigation-secondary-item__link-text e-navigation-border">
+						World
+					</span>
+<svg class="e-navigation-secondary-item__icon accordion__arrow-icon tmg-svg-icon" viewbox="0 0 10 5" xmlns="http://www.w3.org/2000/svg">
+<path d="M.312 0L5 2.353 9.687 0 10 .294 5 5 0 .294.312 0z"></path>
+</svg>
+</span>
+</a>
+<ul class="site-navigation__list accordion__content site-navigation__list--tertiary" data-accordion-content="" data-test="site-nav-list-tertiary" data-track-wrapper="header-nav-tertiary">
+<li class="e-navigation-tertiary-item e-navigation-tertiary-item--first" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/usa/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						USA
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/europe/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Europe
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/middle-east/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Middle East
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/asia/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Asia
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/australasia/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Australasia
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/africa/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Africa
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item e-navigation-tertiary-item--last" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/latin-america/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Latin America
+					</span>
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="e-navigation-secondary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-secondary-item__link" data-test="site-navigation-link" data-track-txt="" href="/health/">
+<span class="e-navigation-secondary-item__link-content">
+<span class="e-navigation-secondary-item__link-text e-navigation-border">
+						Health
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-secondary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-secondary-item__link" data-test="site-navigation-link" data-track-txt="" href="/news/defence/">
+<span class="e-navigation-secondary-item__link-content">
+<span class="e-navigation-secondary-item__link-text e-navigation-border">
+						Defence
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-secondary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-secondary-item__link" data-test="site-navigation-link" data-track-txt="" href="/science/">
+<span class="e-navigation-secondary-item__link-content">
+<span class="e-navigation-secondary-item__link-text e-navigation-border">
+						Science
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-secondary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-secondary-item__link" data-test="site-navigation-link" data-track-txt="" href="/education-news/">
+<span class="e-navigation-secondary-item__link-content">
+<span class="e-navigation-secondary-item__link-text e-navigation-border">
+						Education
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-secondary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-secondary-item__link" data-test="site-navigation-link" data-track-txt="" href="/environment/">
+<span class="e-navigation-secondary-item__link-content">
+<span class="e-navigation-secondary-item__link-text e-navigation-border">
+						Environment
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-secondary-item e-navigation-secondary-item--has-children accordion accordion--sm accordion--is-collapsed" data-accordion="" data-accordion-max-screen-width="1024">
+<a class="e-navigation-secondary-item__link" data-accordion-trigger="" data-test="site-navigation-link" data-track-txt="" href="/investigations/">
+<span class="e-navigation-secondary-item__link-content">
+<span class="e-navigation-secondary-item__link-text e-navigation-border">
+						Investigations
+					</span>
+<svg class="e-navigation-secondary-item__icon accordion__arrow-icon tmg-svg-icon" viewbox="0 0 10 5" xmlns="http://www.w3.org/2000/svg">
+<path d="M.312 0L5 2.353 9.687 0 10 .294 5 5 0 .294.312 0z"></path>
+</svg>
+</span>
+</a>
+<ul class="site-navigation__list accordion__content site-navigation__list--tertiary" data-accordion-content="" data-test="site-nav-list-tertiary" data-track-wrapper="header-nav-tertiary">
+<li class="e-navigation-tertiary-item e-navigation-tertiary-item--is-home-link e-navigation-tertiary-item--first" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/investigations/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Investigations home
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="https://www.telegraph.co.uk/bigdatacall/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Signals Network
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item e-navigation-tertiary-item--last" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/news/investigations/contact-us/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Contact us
+					</span>
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="e-navigation-secondary-item e-navigation-secondary-item--has-children accordion accordion--sm accordion--is-collapsed e-navigation-secondary-item--last" data-accordion="" data-accordion-max-screen-width="1024">
+<a class="e-navigation-secondary-item__link" data-accordion-trigger="" data-test="site-navigation-link" data-track-txt="" href="/global-health/">
+<span class="e-navigation-secondary-item__link-content">
+<span class="e-navigation-secondary-item__link-text e-navigation-border">
+						Global Health Security
+					</span>
+<svg class="e-navigation-secondary-item__icon accordion__arrow-icon tmg-svg-icon" viewbox="0 0 10 5" xmlns="http://www.w3.org/2000/svg">
+<path d="M.312 0L5 2.353 9.687 0 10 .294 5 5 0 .294.312 0z"></path>
+</svg>
+</span>
+</a>
+<ul class="site-navigation__list accordion__content site-navigation__list--tertiary" data-accordion-content="" data-test="site-nav-list-tertiary" data-track-wrapper="header-nav-tertiary">
+<li class="e-navigation-tertiary-item e-navigation-tertiary-item--is-home-link e-navigation-tertiary-item--first" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/global-health/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Global Health Security home
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/global-health/climate-and-people/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Climate &amp; People
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/global-health/science-and-disease/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Science &amp; Disease
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/global-health/terror-and-security/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Terror &amp; Security
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/global-health/women-and-girls/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Women &amp; Girls
+					</span>
+</span>
+</a>
+</li>
+<li class="e-navigation-tertiary-item e-navigation-tertiary-item--last" data-accordion-max-screen-width="1024">
+<a class="e-navigation-tertiary-item__link" data-test="site-navigation-link" data-track-txt="" href="/global-health/opinion/">
+<span class="e-navigation-tertiary-item__link-content">
+<span class="e-navigation-tertiary-item__link-text e-navigation-border">
+						Opinion &amp; Analysis
+					</span>
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</header>
+</div>
+<main class="container tpl-article" id="main-content" itemscope="" itemtype="http://schema.org/Article">
+<meta content="http://www.telegraph.co.uk/politics/2021/03/29/no-government-can-address-threat-pandemics-alone-must-come" itemprop="mainEntityOfPage"/>
+<meta content="true" itemprop="isAccessibleForFree"/>
+<span aria-hidden="true" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<meta content="The Telegraph" itemprop="name"/>
+<span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/the-telegraph-logo.png" itemprop="url"/>
+<meta content="150" itemprop="width"/>
+<meta content="26" itemprop="height"/>
+</span>
+</span>
+<article class="grid">
+<header class="grid-col grid-col-12 article-comment" data-test="article-comment-header">
+<div class="grid">
+<div class="grid-col grid-col-12 article-comment__wrapper">
+<div class="article-comment__title" data-test="article-comment-title">
+<svg class="article-comment__icon" viewbox="0 0 32 22" xmlns="http://www.w3.org/2000/svg">
+<g>
+<path d="M29,1c-2.2,1.5-4.1,3.5-5,6c4.1,0,8,3.4,8,7.5S28.6,22,24.5,22S17,18.7,17,14c0-6.1,4.6-11.7,11-14L29,1z"></path>
+<path d="M12,1C9.8,2.5,7.9,4.5,7,7c4.1,0,8,3.4,8,7.5S11.6,22,7.5,22S0,18.7,0,14C0,7.9,4.6,2.3,11,0L12,1z"></path>
+</g>
+</svg>
+<span class="e-article-type-label">Comment</span>
+</div>
+<span aria-hidden="true" class="tpl-article__separator"></span>
+<h1 class="e-headline u-heading-1 article-comment__header" data-test="headline" itemprop="headline">
+			No government can address the threat of pandemics alone – we must come together
+		</h1>
+<p class="e-standfirst u-heading-4" data-test="standfirst" itemprop="description">
+			We must be better prepared to predict, prevent, detect, assess and effectively respond
+		</p>
+</div>
+</div>
+</header>
+<div class="grid-col grid-col-12 tpl-article__layout tpl-article__layout--header-meta tpl-article__separator">
+<div class="tpl-article__byline-date tpl-article__byline-date--comment">
+<span class="e-byline-comment" data-test="byline">
+<span class="e-byline-comment__meta e-byline-comment__meta--single" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<span class="e-byline-comment__details">
+<a aria-label="Boris Johnson, Angela Merkel, Emmanuel Macron and 21 world leaders" class="e-byline-comment__link e-byline-comment__link--single" href="/authors/j/jk-jo/Johnson-Merkel-Macron-et-al/" itemprop="url" rel="author">
+<span class="e-byline-comment__author" content="Boris Johnson, Angela Merkel, Emmanuel Macron and 21 world leaders" itemprop="name">Boris Johnson, Angela Merkel, Emmanuel Macron and 21 world leaders</span>
+</a>
+<time class="e-published-date u-meta e-byline__date" data-test="time" datetime="2021-03-30T00:01+0100" itemprop="datePublished">
+		30 March 2021 • 12:01am
+	</time>
+</span>
+</span>
+</span>
+</div>
+</div>
+<span aria-hidden="true" class="grid-col grid-col-12 tpl-article__separator tpl-article__separator--show-lg tpl-article__separator--double"></span>
+<div class="grid-col grid-col-12 u-full-bleed u-full-bleed--reset-sm tpl-article__lead-asset" data-lead-asset-layout="small" data-test="article-lead-asset">
+<figure class="article-body-image section" data-js="article-body-image" data-test="article-body-image" itemprop="image" itemscope="true" itemtype="https://schema.org/ImageObject">
+<meta content="/content/dam/politics/2021/03/29/TELEMMGLPICT000254549701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg" itemprop="url"/>
+<meta content="2501" itemprop="width"/>
+<meta content="1563" itemprop="height"/>
+<meta content="true" itemprop="representativeOfPage"/>
+<div class="article-body-image__container">
+<picture class="e-picture">
+<source media="( min-width: 1600px )" srcset="/content/dam/politics/2021/03/29/TELEMMGLPICT000254549701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=1280"/>
+<source media="( min-width: 1280px )" srcset="/content/dam/politics/2021/03/29/TELEMMGLPICT000254549701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=960"/>
+<source media="( min-width: 768px )" srcset="/content/dam/politics/2021/03/29/TELEMMGLPICT000254549701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=680"/>
+<source media="( min-width: 350px ) and ( -webkit-min-device-pixel-ratio: 2 )" srcset="/content/dam/politics/2021/03/29/TELEMMGLPICT000254549701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=350&amp;imdensity=2"/>
+<source media="( min-width: 350px )" srcset="/content/dam/politics/2021/03/29/TELEMMGLPICT000254549701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=350"/>
+<img alt="Workers in Brazil disinfect a building in the Dona Marta favela in Rio de Janeiro as Brazil faces a continuing rise in Covid cases and deaths" class="article-body-image__source" data-test="article-body-image-source" fetchpriority="high" height="1563" src="/content/dam/politics/2021/03/29/TELEMMGLPICT000254549701_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=680" width="2501"/>
+</picture>
+<button aria-label="Open caption" class="e-caption-trigger" data-aria-close="Close caption" data-aria-open="Open caption" data-js="caption-trigger" data-test="caption-trigger">
+<svg class="e-caption-trigger__icon" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.375 15V8.75H10.625V15H9.375ZM8.75 6.25L10 5L11.25 6.25L10 7.5L8.75 6.25Z"></path>
+<path d="M10 1.25C12.3125 1.25 14.5625 2.1875 16.1875 3.8125C17.8125 5.4375 18.75 7.6875 18.75 10C18.75 12.3125 17.8125 14.5625 16.1875 16.1875C14.5625 17.8125 12.3125 18.75 10 18.75C7.6875 18.75 5.4375 17.8125 3.8125 16.1875C2.1875 14.5625 1.25 12.3125 1.25 10C1.25 7.6875 2.1875 5.4375 3.8125 3.8125C5.4375 2.1875 7.6875 1.25 10 1.25ZM10 0C4.5 0 0 4.5 0 10C0 15.5 4.5 20 10 20C15.5 20 20 15.5 20 10C20 4.5 15.5 0 10 0Z"></path>
+</svg>
+</button>
+</div>
+<figcaption class="e-caption u-meta e-caption--has-separator e-caption--hide-small-screens" data-js="caption">
+<span data-test="caption" itemprop="caption">
+				Workers in Brazil disinfect a building in the Dona Marta favela in Rio de Janeiro as Brazil faces a continuing rise in Covid cases and deaths
+			</span>
+<span class="e-caption__credit" data-test="credit" itemprop="copyrightHolder">
+<span class="e-caption__credit-description">Credit</span>: Andre Coelho/ Bloomberg
+			</span>
+</figcaption>
+</figure>
+</div>
+<div class="grid-col grid-col-12 tpl-article__layout tpl-article__layout--content tpl-article__layout--comment">
+<div class="tpl-article-body-comment" data-js="article-body" itemprop="articleBody">
+<div class="articleBodyText section">
+<div class="component article-body-text article-body-text--drop-cap article-body-text--drop-cap-comment" data-test="article-body-text">
+<p>The Covid-19 pandemic is the biggest challenge to the global community since the 1940s. </p>
+<p>At that time, following the devastation of two world wars, political leaders came together to forge the multilateral system. The aims were clear – to bring countries together, to dispel the temptations of isolationism and nationalism and to address the challenges that could only be achieved together in the spirit of solidarity and co-operation, namely peace, prosperity, health and security.</p>
+<p>Today we hold the same hope that, as we fight to overcome the Covid-19 pandemic together, we can build a more robust international health architecture that will protect future generations. </p>
+<p>There <a href="https://www.telegraph.co.uk/news/2021/03/23/watch-manage-next-pandemic-six-things-have-do-differently-future/">will be other pandemics</a> and other major health emergencies. No single government or multilateral agency can address this threat alone. The question is not if, but when. Together, we must be better prepared to predict, prevent, detect, assess and effectively respond to pandemics in a highly co-ordinated fashion. The Covid-19 pandemic has been a stark and painful reminder that <a href="https://www.telegraph.co.uk/global-health/science-and-disease/global-pandemic-requires-world-effort-end-none-us-will-safe/">nobody is safe until everyone is safe</a>.</p>
+<p>We are, therefore, committed to ensuring universal and equitable access to safe, efficacious and affordable vaccines, medicines and diagnostics for this <a href="https://www.telegraph.co.uk/global-health/science-and-disease/another-pandemic-2030-realistic-possibility-government-warns/">and future pandemics</a>. </p>
+</div>
+</div>
+<div class="video-player section">
+<img alt="tmg.video.placeholder.alt H6LhMT3ZTWw" class="video-player__placeholder" height="450" src="https://i.ytimg.com/vi/H6LhMT3ZTWw/mqdefault.jpg" width="800"/>
+<div class="video-player__source" data-test="video" data-video="H6LhMT3ZTWw">
+</div>
+</div>
+<div class="articleBodyText section">
+<div class="component article-body-text" data-test="article-body-text">
+<p>Immunisation is a global public good and we will need to be able to develop, manufacture and deploy vaccines as quickly as possible.</p>
+<p>This is why the <a href="https://www.telegraph.co.uk/global-health/science-and-disease/vaccines-great-new-global-solidarity-way-pandemic/">Access to Covid-19 Tools Accelerator</a> (ACT-A) was set up in order to promote equal access to tests, treatments and vaccines and support health systems across the globe. ACT-A has delivered on many aspects, but equitable access is not achieved yet. There is more we can do to promote global access.</p>
+<p>To that end, we believe that nations should work together towards <a href="https://www.telegraph.co.uk/politics/2021/03/29/exclusive-world-leaders-call-pandemic-treaty/">a new international treaty</a> for pandemic preparedness and response. Such a renewed collective commitment would be a milestone in stepping up pandemic preparedness at the highest political level. It would be rooted in the constitution of the World Health Organisation, drawing in other relevant organisations key to this endeavour, in support of the principle of health for all.  </p>
+<p>Existing global health instruments, especially the International Health Regulations, would <a href="https://www.telegraph.co.uk/politics/2021/03/29/exclusive-world-leaders-call-pandemic-treaty/">underpin such a treaty</a>, ensuring a firm and tested foundation on which we can build and improve.</p>
+<p>The main goal of this treaty would be to foster an all of government and all of society approach, strengthening national, regional and global capacities and resilience to future pandemics. This includes greatly enhancing international co-operation to improve, for example, alert systems, data-sharing, research and local, regional and global production and distribution of medical and public health counter-measures such as vaccines, medicines, diagnostics and personal protective equipment.</p>
+</div>
+</div>
+<figure class="article-body-image section" data-js="article-body-image" data-test="article-body-image" itemprop="image" itemscope="true" itemtype="https://schema.org/ImageObject">
+<meta content="/content/dam/politics/2021/03/29/TELEMMGLPICT000254347937_trans_NvBQzQNjv4BqENh0amqpuv8Z5e8_LKlob_pd737A4eIVrsG16uGT5YU.jpeg" itemprop="url"/>
+<meta content="2499" itemprop="width"/>
+<meta content="1562" itemprop="height"/>
+<div class="article-body-image__container">
+<div class="lazy-image article-body-image__source" data-alt="Healthcare workers queue to receive a dose of Covid vaccine at a hospital in in Johannesburg, South Africa" data-class="lazy-image__img " data-height="1562" data-js="LazyImage" data-sizes="(min-width: 1280px) 960px, (min-width: 768px) 680px, (min-width: 480px) 480px, 100vw" data-src="/content/dam/politics/2021/03/29/TELEMMGLPICT000254347937_trans_NvBQzQNjv4BqENh0amqpuv8Z5e8_LKlob_pd737A4eIVrsG16uGT5YU.jpeg?imwidth=480" data-srcset="
+    /content/dam/politics/2021/03/29/TELEMMGLPICT000254347937_trans_NvBQzQNjv4BqENh0amqpuv8Z5e8_LKlob_pd737A4eIVrsG16uGT5YU.jpeg?imwidth=350 350w,
+    /content/dam/politics/2021/03/29/TELEMMGLPICT000254347937_trans_NvBQzQNjv4BqENh0amqpuv8Z5e8_LKlob_pd737A4eIVrsG16uGT5YU.jpeg?imwidth=480 480w,
+    /content/dam/politics/2021/03/29/TELEMMGLPICT000254347937_trans_NvBQzQNjv4BqENh0amqpuv8Z5e8_LKlob_pd737A4eIVrsG16uGT5YU.jpeg?imwidth=680 680w,
+    /content/dam/politics/2021/03/29/TELEMMGLPICT000254347937_trans_NvBQzQNjv4BqENh0amqpuv8Z5e8_LKlob_pd737A4eIVrsG16uGT5YU.jpeg?imwidth=960 960w,
+    /content/dam/politics/2021/03/29/TELEMMGLPICT000254347937_trans_NvBQzQNjv4BqENh0amqpuv8Z5e8_LKlob_pd737A4eIVrsG16uGT5YU.jpeg?imwidth=1280 1280w" data-width="2499" style="padding-top:66.04%;">
+<noscript>
+<img alt="Healthcare workers queue to receive a dose of Covid vaccine at a hospital in in Johannesburg, South Africa" class="responsive lazy-image__img article-body-image__source" height="1562" loading="lazy" src="/content/dam/politics/2021/03/29/TELEMMGLPICT000254347937_trans_NvBQzQNjv4BqENh0amqpuv8Z5e8_LKlob_pd737A4eIVrsG16uGT5YU.jpeg?imwidth=480" width="2499"/>
+</noscript>
+</div>
+</div>
+<figcaption class="e-caption u-meta e-caption--has-separator" data-js="caption">
+<span data-test="caption" itemprop="caption">
+				Healthcare workers queue to receive a dose of Covid vaccine at a hospital in in Johannesburg, South Africa
+			</span>
+<span class="e-caption__credit" data-test="credit" itemprop="copyrightHolder">
+<span class="e-caption__credit-description">Credit</span>: Themba Hadebe/AP
+			</span>
+</figcaption>
+</figure>
+<div class="articleBodyText section">
+<div class="component article-body-text" data-test="article-body-text">
+<p>It would also include recognition of a "One Health" approach that connects the health of humans, animals and our planet. And such a treaty should lead to more mutual accountability and shared responsibility, transparency and co-operation within the international system and with its rules and norms.</p>
+<p>To achieve this, we will work with heads of state and governments globally, and all stakeholders including civil society and the private sector. We are convinced that it is our responsibility, as leaders of nations and international institutions, to ensure that the world learns the lessons of the Covid-19 pandemic.</p>
+<p>At a time when Covid-19 has exploited our weaknesses and divisions, we must seize this opportunity and come together as a global community for peaceful co-operation that extends beyond this crisis. Building our capacities and systems to do this will take time and require a sustained political, financial and societal commitment over many years.</p>
+<p>Our solidarity in ensuring that the world is better prepared will be our legacy that protects our children and grandchildren and minimises the impact of future pandemics on our economies and our societies. </p>
+<p>Pandemic preparedness needs global leadership for a global health system fit for this millennium. To make this commitment a reality, we must be guided by solidarity, fairness, transparency, inclusiveness and equity.</p>
+<p><em>J. V. Bainimarama, prime minister of Fiji; António Luís Santos da Costa, prime minister of Portugal; Klaus Iohannis, president of Romania; Boris Johnson, prime minister of the United Kingdom; Paul Kagame, president of Rwanda; Uhuru Kenyatta, president of Kenya; Emmanuel Macron, president of France; Angela Merkel, chancellor of Germany; Charles Michel, president of the European Council; Kyriakos Mitsotakis, prime minister of Greece; Moon Jae-in, president of the Republic of Korea; Sebastián Piñera, president of Chile; Carlos Alvarado Quesada, president of Costa Rica; Edi Rama, prime minister of Albania; Cyril Ramaphosa, president of South Africa; Keith Rowley, prime minister of Trinidad and Tobago; Mark Rutte, prime minister of the Netherlands; Kais Saied, president of Tunisia; Macky Sall, president of Senegal; Pedro Sánchez, Prime Minister of Spain; Erna Solberg, prime minister of Norway; Aleksandar Vučić, president of Serbia; Joko Widodo, president of Indonesia; Volodymyr Zelensky, president of Ukraine; Dr Tedros Adhanom Ghebreyesus, director-general of the World Health Organisation</em></p>
+</div>
+</div>
+</div>
+<div class="tpl-article__end-meta">
+<div class="tpl-article__related">
+<div class="related-topics" data-test="related-topics">
+<div class="related-topics__title u-meta" data-test="related-topics-title">Related Topics</div>
+<ul class="related-topics__list" data-test="related-topics-list">
+<li class="related-topics__item u-meta" data-test="related-topics-item">
+<a class="related-topics__link" data-test="related-topics-link" href="/vaccines/">
+						Vaccines,
+					</a>
+</li>
+<li class="related-topics__item u-meta" data-test="related-topics-item">
+<a class="related-topics__link" data-test="related-topics-link" href="/emmanuel-macron/">
+						Emmanuel Macron,
+					</a>
+</li>
+<li class="related-topics__item u-meta" data-test="related-topics-item">
+<a class="related-topics__link" data-test="related-topics-link" href="/pandemics-epidemics/">
+						Pandemics and epidemics,
+					</a>
+</li>
+<li class="related-topics__item u-meta" data-test="related-topics-item">
+<a class="related-topics__link" data-test="related-topics-link" href="/boris-johnson/">
+						Boris Johnson,
+					</a>
+</li>
+<li class="related-topics__item u-meta" data-test="related-topics-item">
+<a class="related-topics__link" data-test="related-topics-link" href="/coronavirus/">
+						Coronavirus,
+					</a>
+</li>
+<li class="related-topics__item u-meta" data-test="related-topics-item">
+<a class="related-topics__link" data-test="related-topics-link" href="/angela-merkel/">
+						Angela Merkel
+					</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tpl-article__social">
+<ul class="e-social-share" data-test="social-share">
+<li class="e-social-share__provider e-social-share__provider--twitter" data-track-wrapper="social-share-twitter">
+<a aria-label="Share on twitter" class="e-social-share__link" data-test="social-share-link-twitter" data-track-img="" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fpolitics%2F2021%2F03%2F29%2Fno-government-can-address-threat-pandemics-alone-must-come%2F&amp;text=No+government+can+address+the+threat+of+pandemics+alone+%E2%80%93+we+must+come+together" rel="nofollow noopener" target="_blank">
+<svg class="e-social-share__icon" height="20px" viewbox="0 0 20 20" width="20px" xmlns="http://www.w3.org/2000/svg">
+<title>Twitter Icon</title>
+<path class="e-social-share__icon-foreground" d="M7.0304 15.7143C13.0656 15.7143 16.368 11.3139 16.368 7.50434C16.368 7.38055 16.368 7.25675 16.3616 7.13295C17.0016 6.72218 17.5584 6.21574 18 5.64177C17.3984 5.87248 16.7648 6.03004 16.112 6.09757C16.7968 5.73743 17.3088 5.1691 17.552 4.49947C16.9056 4.8371 16.2016 5.07344 15.4656 5.19723C14.224 4.03242 12.144 3.97615 10.8192 5.07344C9.968 5.77682 9.6032 6.82909 9.872 7.83071C7.2416 7.71254 4.7776 6.61526 3.1136 4.81459C2.2432 6.13133 2.6848 7.81946 4.1312 8.66352C3.6064 8.65227 3.1008 8.52847 2.64 8.30339C2.64 8.31464 2.64 8.3259 2.64 8.33715C2.64 9.71016 3.7408 10.8919 5.2768 11.1676C4.7904 11.2858 4.2848 11.3026 3.792 11.2182C4.2208 12.3943 5.456 13.199 6.8576 13.2215C5.6928 14.0261 4.2592 14.4594 2.7808 14.4594C2.5184 14.4594 2.256 14.4426 2 14.42C3.504 15.2697 5.2448 15.7143 7.0304 15.7143Z"></path>
+</svg>
+</a>
+</li>
+<li class="e-social-share__provider e-social-share__provider--facebook" data-track-wrapper="social-share-facebook">
+<a aria-label="Share on facebook" class="e-social-share__link" data-test="social-share-link-facebook" data-track-img="" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fpolitics%2F2021%2F03%2F29%2Fno-government-can-address-threat-pandemics-alone-must-come%2F" rel="nofollow noopener" target="_blank">
+<svg class="e-social-share__icon" height="20px" viewbox="0 0 20 20" width="20px" xmlns="http://www.w3.org/2000/svg">
+<title>Facebook Icon</title>
+<path class="e-social-share__icon-foreground" d="M11.1973 18V10.7122H13.5654L13.9202 7.85967H11.1973V6.04325C11.1973 5.21877 11.4173 4.65746 12.5561 4.65746H14V2.11226C13.7481 2.07729 12.8878 2 11.8856 2C9.79246 2 8.3592 3.32505 8.3592 5.75983V7.85967H6V10.7122H8.3592V18H11.1973Z"></path>
+</svg>
+</a>
+</li>
+<li class="e-social-share__provider e-social-share__provider--whatsapp" data-track-wrapper="social-share-whatsapp">
+<a aria-label="Share on whatsapp" class="e-social-share__link" data-test="social-share-link-whatsapp" data-track-img="" href="https://wa.me?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fpolitics%2F2021%2F03%2F29%2Fno-government-can-address-threat-pandemics-alone-must-come%2F" rel="nofollow noopener" target="_blank">
+<svg class="e-social-share__icon" height="20px" viewbox="0 0 20 20" width="20px" xmlns="http://www.w3.org/2000/svg">
+<title>WhatsApp Icon</title>
+<path class="e-social-share__icon-foreground" d="M15.6687 4.32503C14.1648 2.82646 12.1647 2.00076 10.0336 2C5.64227 2 2.06838 5.55636 2.06685 9.92777C2.06608 11.3252 2.43318 12.6892 3.13031 13.8913L2 18L6.22327 16.8975C7.38681 17.5294 8.69703 17.862 10.0302 17.8624H10.0336C10.0332 17.8624 10.034 17.8624 10.0336 17.8624C14.4242 17.8624 17.9985 14.3056 18 9.93423C18.0008 7.81563 17.173 5.82361 15.6687 4.32503ZM10.0336 16.5235H10.0309C8.84295 16.5231 7.67751 16.2053 6.66065 15.605L6.41885 15.4621L3.91262 16.1163L4.58148 13.6845L4.4241 13.4351C3.76135 12.3859 3.41107 11.1732 3.41183 9.92815C3.41336 6.295 6.38371 3.33891 10.0363 3.33891C11.8049 3.33967 13.4673 4.02585 14.7176 5.27162C15.9678 6.51701 16.6558 8.17297 16.655 9.93347C16.6535 13.567 13.6831 16.5235 10.0336 16.5235ZM13.6656 11.5879C13.4666 11.4887 12.4879 11.0097 12.3053 10.9435C12.1227 10.8774 11.9902 10.8443 11.8576 11.0428C11.7251 11.2412 11.3435 11.6875 11.2273 11.8194C11.1112 11.9517 10.9951 11.9681 10.7961 11.8688C10.597 11.7696 9.95569 11.5605 9.19515 10.8858C8.60345 10.3604 8.20389 9.71184 8.08776 9.5134C7.97164 9.31496 8.07554 9.20776 8.17486 9.10929C8.26424 9.02034 8.37387 8.87778 8.47357 8.76221C8.57327 8.64665 8.60612 8.56377 8.67259 8.43186C8.73905 8.29956 8.70582 8.184 8.65616 8.08477C8.6065 7.98555 8.20847 7.01045 8.04231 6.61395C7.88072 6.22771 7.71647 6.28017 7.59461 6.27371C7.47849 6.26801 7.34594 6.26687 7.21301 6.26687C7.08046 6.26687 6.86463 6.31629 6.68204 6.51473C6.49945 6.71317 5.98529 7.19255 5.98529 8.16727C5.98529 9.14237 6.69847 10.0844 6.79817 10.2167C6.89787 10.349 8.20198 12.3497 10.1986 13.2081C10.6734 13.4123 11.0444 13.5343 11.3335 13.6255C11.8102 13.7765 12.2442 13.7552 12.5872 13.7042C12.9696 13.6472 13.7649 13.2249 13.9307 12.7622C14.0965 12.2996 14.0965 11.9027 14.0468 11.8202C13.9971 11.7369 13.8646 11.6871 13.6656 11.5879Z"></path>
+</svg>
+</a>
+</li>
+<li class="e-social-share__provider e-social-share__provider--email" data-track-wrapper="social-share-email">
+<a aria-label="Share on email" class="e-social-share__link" data-test="social-share-link-email" data-track-img="" href="mailto:?to=&amp;subject=No+government+can+address+the+threat+of+pandemics+alone+%E2%80%93+we+must+come+together&amp;body=https%3A%2F%2Fwww.telegraph.co.uk%2Fpolitics%2F2021%2F03%2F29%2Fno-government-can-address-threat-pandemics-alone-must-come%2F" rel="nofollow noopener" target="_blank">
+<svg class="e-social-share__icon" height="20px" viewbox="0 0 20 20" width="20px" xmlns="http://www.w3.org/2000/svg">
+<title>Email Icon</title>
+<path class="e-social-share__icon-foreground" d="M1 4C1 3.44772 1.44772 3 2 3H18C18.5523 3 19 3.44772 19 4V16C19 16.5523 18.5523 17 18 17H2C1.44772 17 1 16.5523 1 16V4ZM2.5 5.56065V14.248L6.48171 9.54236L2.5 5.56065ZM3.40554 15.5H16.5944L12.454 10.6067L11.3107 11.75L8.68934 11.75L7.54604 10.6067L3.40554 15.5ZM17.5 14.248V5.56068L13.5183 9.54236L17.5 14.248ZM16.4394 4.5H3.56067L9.31066 10.25L10.6894 10.25L16.4394 4.5Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<div class="e-comment-count e-comment-count--hidden" data-js="e-comment-count">
+<a class="e-comment-count__link" data-event="commentCountBottom" data-js="comment-load" href="#comment">
+<svg class="e-comment-count__icon" height="20px" viewbox="0 0 20 20" width="20px" xmlns="http://www.w3.org/2000/svg">
+<title>Comment speech bubble icon</title>
+<path d="M9.9605 12.5H16C16.2761 12.5 16.5 12.2761 16.5 12V4C16.5 3.72386 16.2761 3.5 16 3.5H4C3.72386 3.5 3.5 3.72386 3.5 4V12C3.5 12.2761 3.72386 12.5 4 12.5H7.0395L8.5 16.3947L9.9605 12.5ZM7.5 18L6 14H4C2.89543 14 2 13.1046 2 12V4C2 2.89543 2.89543 2 4 2H16C17.1046 2 18 2.89543 18 4V12C18 13.1046 17.1046 14 16 14H11L9.5 18H7.5Z"></path>
+</svg>
+<span class="e-comment-count__number" data-js="comment-count">
+</span>
+</a>
+</div>
+</div>
+</div>
+<aside aria-label="More stories" class="grid-col grid-col-12 tpl-article__layout tpl-article__layout--sidebar">
+<div class="tpl-article__sidebar" data-js="article-sidebar">
+<div aria-hidden="true" class="commercial-unit commercial-unit--sidebar" data-ad-slot-hidden="false" data-ad-slot-id="advert_tmg_mpu" data-perf="commercial-unit-sidebar" data-test="commercial-unit-sidebar">
+<div class="commercial-unit__content">
+<div class="advert-label advert-label--sidebar">Advertisement</div>
+<div class="advert js-advert advert--mpu" id="advert_tmg_mpu"></div>
+</div>
+</div>
+<div class="more-stories section" data-test="more-stories">
+<h2 class="u-heading-7">More stories</h2>
+<div class="article-list more-stories__list" data-liftigniter='{ "widget": "liftigniter-rhr", "maxStories": 6, "layout": "row", "trackingName": "More stories" }'>
+</div>
+</div>
+</div>
+</aside>
+<aside aria-hidden="true" class="grid-col grid-col-12 grid-col-lg-2 tpl-article__layout tpl-article__layout--meta tpl-article__separator tpl-article__separator--pseudo-hide-lg" data-js="article-meta">
+<div class="grid-col grid-col-12 tpl-article__layout tpl-article__related-top u-separator-bottom">
+<div class="related-topics" data-test="related-topics">
+<div class="related-topics__title u-meta" data-test="related-topics-title">Related Topics</div>
+<ul class="related-topics__list" data-test="related-topics-list">
+<li class="related-topics__item u-meta" data-test="related-topics-item">
+<a class="related-topics__link" data-test="related-topics-link" href="/vaccines/">
+						Vaccines,
+					</a>
+</li>
+<li class="related-topics__item u-meta" data-test="related-topics-item">
+<a class="related-topics__link" data-test="related-topics-link" href="/emmanuel-macron/">
+						Emmanuel Macron,
+					</a>
+</li>
+<li class="related-topics__item u-meta" data-test="related-topics-item">
+<a class="related-topics__link" data-test="related-topics-link" href="/pandemics-epidemics/">
+						Pandemics and epidemics,
+					</a>
+</li>
+<li class="related-topics__item u-meta" data-test="related-topics-item">
+<a class="related-topics__link" data-test="related-topics-link" href="/boris-johnson/">
+						Boris Johnson,
+					</a>
+</li>
+<li class="related-topics__item u-meta" data-test="related-topics-item">
+<a class="related-topics__link" data-test="related-topics-link" href="/coronavirus/">
+						Coronavirus,
+					</a>
+</li>
+<li class="related-topics__item u-meta" data-test="related-topics-item">
+<a class="related-topics__link" data-test="related-topics-link" href="/angela-merkel/">
+						Angela Merkel
+					</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="tpl-article__layout tpl-article__actions">
+<ul class="e-social-share" data-test="social-share">
+<li class="e-social-share__provider e-social-share__provider--twitter" data-track-wrapper="social-share-twitter">
+<a aria-label="Share on twitter" class="e-social-share__link" data-test="social-share-link-twitter" data-track-img="" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fpolitics%2F2021%2F03%2F29%2Fno-government-can-address-threat-pandemics-alone-must-come%2F&amp;text=No+government+can+address+the+threat+of+pandemics+alone+%E2%80%93+we+must+come+together" rel="nofollow noopener" target="_blank">
+<svg class="e-social-share__icon" height="20px" viewbox="0 0 20 20" width="20px" xmlns="http://www.w3.org/2000/svg">
+<title>Twitter Icon</title>
+<path class="e-social-share__icon-foreground" d="M7.0304 15.7143C13.0656 15.7143 16.368 11.3139 16.368 7.50434C16.368 7.38055 16.368 7.25675 16.3616 7.13295C17.0016 6.72218 17.5584 6.21574 18 5.64177C17.3984 5.87248 16.7648 6.03004 16.112 6.09757C16.7968 5.73743 17.3088 5.1691 17.552 4.49947C16.9056 4.8371 16.2016 5.07344 15.4656 5.19723C14.224 4.03242 12.144 3.97615 10.8192 5.07344C9.968 5.77682 9.6032 6.82909 9.872 7.83071C7.2416 7.71254 4.7776 6.61526 3.1136 4.81459C2.2432 6.13133 2.6848 7.81946 4.1312 8.66352C3.6064 8.65227 3.1008 8.52847 2.64 8.30339C2.64 8.31464 2.64 8.3259 2.64 8.33715C2.64 9.71016 3.7408 10.8919 5.2768 11.1676C4.7904 11.2858 4.2848 11.3026 3.792 11.2182C4.2208 12.3943 5.456 13.199 6.8576 13.2215C5.6928 14.0261 4.2592 14.4594 2.7808 14.4594C2.5184 14.4594 2.256 14.4426 2 14.42C3.504 15.2697 5.2448 15.7143 7.0304 15.7143Z"></path>
+</svg>
+</a>
+</li>
+<li class="e-social-share__provider e-social-share__provider--facebook" data-track-wrapper="social-share-facebook">
+<a aria-label="Share on facebook" class="e-social-share__link" data-test="social-share-link-facebook" data-track-img="" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fpolitics%2F2021%2F03%2F29%2Fno-government-can-address-threat-pandemics-alone-must-come%2F" rel="nofollow noopener" target="_blank">
+<svg class="e-social-share__icon" height="20px" viewbox="0 0 20 20" width="20px" xmlns="http://www.w3.org/2000/svg">
+<title>Facebook Icon</title>
+<path class="e-social-share__icon-foreground" d="M11.1973 18V10.7122H13.5654L13.9202 7.85967H11.1973V6.04325C11.1973 5.21877 11.4173 4.65746 12.5561 4.65746H14V2.11226C13.7481 2.07729 12.8878 2 11.8856 2C9.79246 2 8.3592 3.32505 8.3592 5.75983V7.85967H6V10.7122H8.3592V18H11.1973Z"></path>
+</svg>
+</a>
+</li>
+<li class="e-social-share__provider e-social-share__provider--whatsapp" data-track-wrapper="social-share-whatsapp">
+<a aria-label="Share on whatsapp" class="e-social-share__link" data-test="social-share-link-whatsapp" data-track-img="" href="https://wa.me?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fpolitics%2F2021%2F03%2F29%2Fno-government-can-address-threat-pandemics-alone-must-come%2F" rel="nofollow noopener" target="_blank">
+<svg class="e-social-share__icon" height="20px" viewbox="0 0 20 20" width="20px" xmlns="http://www.w3.org/2000/svg">
+<title>WhatsApp Icon</title>
+<path class="e-social-share__icon-foreground" d="M15.6687 4.32503C14.1648 2.82646 12.1647 2.00076 10.0336 2C5.64227 2 2.06838 5.55636 2.06685 9.92777C2.06608 11.3252 2.43318 12.6892 3.13031 13.8913L2 18L6.22327 16.8975C7.38681 17.5294 8.69703 17.862 10.0302 17.8624H10.0336C10.0332 17.8624 10.034 17.8624 10.0336 17.8624C14.4242 17.8624 17.9985 14.3056 18 9.93423C18.0008 7.81563 17.173 5.82361 15.6687 4.32503ZM10.0336 16.5235H10.0309C8.84295 16.5231 7.67751 16.2053 6.66065 15.605L6.41885 15.4621L3.91262 16.1163L4.58148 13.6845L4.4241 13.4351C3.76135 12.3859 3.41107 11.1732 3.41183 9.92815C3.41336 6.295 6.38371 3.33891 10.0363 3.33891C11.8049 3.33967 13.4673 4.02585 14.7176 5.27162C15.9678 6.51701 16.6558 8.17297 16.655 9.93347C16.6535 13.567 13.6831 16.5235 10.0336 16.5235ZM13.6656 11.5879C13.4666 11.4887 12.4879 11.0097 12.3053 10.9435C12.1227 10.8774 11.9902 10.8443 11.8576 11.0428C11.7251 11.2412 11.3435 11.6875 11.2273 11.8194C11.1112 11.9517 10.9951 11.9681 10.7961 11.8688C10.597 11.7696 9.95569 11.5605 9.19515 10.8858C8.60345 10.3604 8.20389 9.71184 8.08776 9.5134C7.97164 9.31496 8.07554 9.20776 8.17486 9.10929C8.26424 9.02034 8.37387 8.87778 8.47357 8.76221C8.57327 8.64665 8.60612 8.56377 8.67259 8.43186C8.73905 8.29956 8.70582 8.184 8.65616 8.08477C8.6065 7.98555 8.20847 7.01045 8.04231 6.61395C7.88072 6.22771 7.71647 6.28017 7.59461 6.27371C7.47849 6.26801 7.34594 6.26687 7.21301 6.26687C7.08046 6.26687 6.86463 6.31629 6.68204 6.51473C6.49945 6.71317 5.98529 7.19255 5.98529 8.16727C5.98529 9.14237 6.69847 10.0844 6.79817 10.2167C6.89787 10.349 8.20198 12.3497 10.1986 13.2081C10.6734 13.4123 11.0444 13.5343 11.3335 13.6255C11.8102 13.7765 12.2442 13.7552 12.5872 13.7042C12.9696 13.6472 13.7649 13.2249 13.9307 12.7622C14.0965 12.2996 14.0965 11.9027 14.0468 11.8202C13.9971 11.7369 13.8646 11.6871 13.6656 11.5879Z"></path>
+</svg>
+</a>
+</li>
+<li class="e-social-share__provider e-social-share__provider--email" data-track-wrapper="social-share-email">
+<a aria-label="Share on email" class="e-social-share__link" data-test="social-share-link-email" data-track-img="" href="mailto:?to=&amp;subject=No+government+can+address+the+threat+of+pandemics+alone+%E2%80%93+we+must+come+together&amp;body=https%3A%2F%2Fwww.telegraph.co.uk%2Fpolitics%2F2021%2F03%2F29%2Fno-government-can-address-threat-pandemics-alone-must-come%2F" rel="nofollow noopener" target="_blank">
+<svg class="e-social-share__icon" height="20px" viewbox="0 0 20 20" width="20px" xmlns="http://www.w3.org/2000/svg">
+<title>Email Icon</title>
+<path class="e-social-share__icon-foreground" d="M1 4C1 3.44772 1.44772 3 2 3H18C18.5523 3 19 3.44772 19 4V16C19 16.5523 18.5523 17 18 17H2C1.44772 17 1 16.5523 1 16V4ZM2.5 5.56065V14.248L6.48171 9.54236L2.5 5.56065ZM3.40554 15.5H16.5944L12.454 10.6067L11.3107 11.75L8.68934 11.75L7.54604 10.6067L3.40554 15.5ZM17.5 14.248V5.56068L13.5183 9.54236L17.5 14.248ZM16.4394 4.5H3.56067L9.31066 10.25L10.6894 10.25L16.4394 4.5Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+<div class="tpl-article__actions-separator">
+<button class="e-save-article" data-save-article='{ "id": "Aw4yBLnCbDtq", "text": { "save": "Save", "saved": "Saved" } }' data-test="save-article">
+<svg class="e-save-article__icon" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<title>Save</title>
+<path class="ribbon--outline" d="M10 13.1453L15.5 17.1453V3C15.5 2.72386 15.2761 2.5 15 2.5H5C4.72386 2.5 4.5 2.72386 4.5 3V17.1453L10 13.1453ZM3 18V3C3 1.89543 3.89543 1 5 1H15C16.1046 1 17 1.89543 17 3V18L15.5 19L10 15L4.5 19L3 18Z"></path>
+<path class="ribbon--inside" d="M10.4411 14.3934L10 14.0726L9.55887 14.3934L4.48136 18.0862L3.75 17.5986V3C3.75 2.30964 4.30964 1.75 5 1.75H15C15.6904 1.75 16.25 2.30964 16.25 3V17.5986L15.5186 18.0862L10.4411 14.3934Z"></path>
+</svg>
+</button>
+<div class="e-comment-count e-comment-count--hidden" data-js="e-comment-count">
+<a class="e-comment-count__link" data-event="commentCountTop" data-js="comment-load" href="#comment">
+<svg class="e-comment-count__icon" height="20px" viewbox="0 0 20 20" width="20px" xmlns="http://www.w3.org/2000/svg">
+<title>Comment speech bubble icon</title>
+<path d="M9.9605 12.5H16C16.2761 12.5 16.5 12.2761 16.5 12V4C16.5 3.72386 16.2761 3.5 16 3.5H4C3.72386 3.5 3.5 3.72386 3.5 4V12C3.5 12.2761 3.72386 12.5 4 12.5H7.0395L8.5 16.3947L9.9605 12.5ZM7.5 18L6 14H4C2.89543 14 2 13.1046 2 12V4C2 2.89543 2.89543 2 4 2H16C17.1046 2 18 2.89543 18 4V12C18 13.1046 17.1046 14 16 14H11L9.5 18H7.5Z"></path>
+</svg>
+<span class="e-comment-count__number" data-js="comment-count">
+</span>
+</a>
+</div>
+<div aria-hidden="true" class="tpl-article__separator"></div>
+</div>
+</div>
+<span aria-hidden="true" class="grid-col grid-col-12 tpl-article__separator tpl-article__separator--double tpl-article__separator--hide-lg"></span>
+<div class="grid-col grid-col-12 tpl-article__layout-logos">
+</div>
+</aside>
+</article>
+</main>
+<aside aria-label="Onward journey" class="container u-separator-four-lines onward-journey" data-test="onward-journey">
+<div class="grid">
+<div class="grid-col grid-col-12">
+<div class="articleList section">
+<section class="article-list article-list-six-col" data-test="article-list-six-col">
+<div class="article-list__heading">
+<div class="article-list__heading-link-wrapper u-separator-bottom--loose">
+<h2 class="article-list__heading-title u-heading-1">More from Politics</h2>
+</div>
+</div>
+<ul class="article-list__list grid">
+<li class="article-list__item grid-col grid-col-sm-4 grid-col-md-2 grid-col-12 grid-col-6 grid-col-sm-3">
+<article class="card u-clickable-area card--feature-switch card--premium" data-test="card" data-track="">
+<div class="card__content" data-test="article-comment-content">
+<h2 class="list-headline list-headline--premium u-heading-7" data-track-wrapper="article-list More from Politics">
+<a class="list-headline__link u-clickable-area__link" data-test="list-headline-link" data-track-block="" href="/politics/2023/03/08/emmanuel-macron-demands-money-uk-stop-migrants-leaving-france/" rel="">
+<span class="list-headline__text" data-test="headline">
+<span>Emmanuel Macron demands more money from UK to stop migrants leaving France</span>
+</span>
+</a>
+</h2>
+<div class="u-meta card__meta card__meta-stacked--m" data-test="card-meta">
+<div class="card__meta-wrapper">
+<span class="e-byline e-byline--premium" data-test="byline">
+<span class="e-byline__meta" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<a class="e-byline__link" data-test="byline-link" href="/authors/c/cf-cj/charles-hymas/" itemprop="url" rel="author">
+<span class="e-byline__bytext">By</span>
+<span class="e-byline__author" content="Charles Hymas" data-test="author-name" itemprop="name">Charles Hymas</span>
+</a>
+</span>
+</span>
+<time class="card__date" datetime="2023-03-09T00:19:09.869Z">9 Mar 2023, 12:19am</time>
+</div>
+</div>
+</div>
+<div class="card__thumbnail u-order-first card__thumbnail-height-fix">
+<figure class="card__figure">
+<picture class="e-picture">
+<source media="( min-width: 1280px )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328059863_trans_NvBQzQNjv4BqCCVDxcKH0VntSOp496H9IWQnZJIETfWB_fUbKb77n0w.jpeg?imwidth=320"/>
+<source media="( min-width: 1024px )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328059863_trans_NvBQzQNjv4BqCCVDxcKH0VntSOp496H9IWQnZJIETfWB_fUbKb77n0w.jpeg?imwidth=210"/>
+<source media="( min-width: 768px )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328059863_trans_NvBQzQNjv4BqCCVDxcKH0VntSOp496H9IWQnZJIETfWB_fUbKb77n0w.jpeg?imwidth=320"/>
+<source media="( min-width: 350px ) and ( -webkit-min-device-pixel-ratio: 2 )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328059863_trans_NvBQzQNjv4BqCCVDxcKH0VntSOp496H9IWQnZJIETfWB_fUbKb77n0w.jpeg?imwidth=320&amp;imdensity=2"/>
+<source media="( min-width: 350px )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328059863_trans_NvBQzQNjv4BqCCVDxcKH0VntSOp496H9IWQnZJIETfWB_fUbKb77n0w.jpeg?imwidth=320"/>
+<img alt="Emmanuel Macron funding Channel migrants immigration Europe Rishi Sunak" data-test="card-image" height="10500000" src="/content/dam/politics/2023/03/08/TELEMMGLPICT000328059863_trans_NvBQzQNjv4BqCCVDxcKH0VntSOp496H9IWQnZJIETfWB_fUbKb77n0w.jpeg?imwidth=350" width="16670000"/>
+</picture>
+</figure>
+</div>
+</article>
+</li>
+<li class="article-list__item grid-col grid-col-sm-4 grid-col-md-2 grid-col-12 grid-col-6 grid-col-sm-3">
+<article class="card u-clickable-area card--feature-switch" data-test="card" data-track="">
+<div class="card__content" data-test="article-comment-content">
+<h2 class="list-headline u-heading-7" data-track-wrapper="article-list More from Politics">
+<a class="list-headline__link u-clickable-area__link" data-test="list-headline-link" data-track-block="" href="/politics/2023/03/08/suella-braverman-criticises-gary-lineker-bbc-pressure-nazi-jibe/" rel="">
+<span class="list-headline__text" data-test="headline">
+<span>Gary Lineker's BBC career in doubt as he doubles down on Nazi comments</span>
+</span>
+</a>
+</h2>
+<div class="u-meta card__meta card__meta-stacked--m" data-test="card-meta">
+<div class="card__meta-wrapper">
+<span class="e-byline" data-test="byline">
+<span class="e-byline__meta" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<a class="e-byline__link" data-test="byline-link" href="/authors/a/ak-ao/anita-singh/" itemprop="url" rel="author">
+<span class="e-byline__bytext">By</span>
+<span class="e-byline__author" content="Anita Singh" data-test="author-name" itemprop="name">Anita Singh</span>
+</a>
+</span>
+</span>
+<time class="card__date" datetime="2023-03-08T23:59:57.496Z">8 Mar 2023, 11:59pm</time>
+</div>
+</div>
+</div>
+<div class="card__thumbnail u-order-first card__thumbnail-height-fix">
+<figure class="card__figure">
+<picture class="e-picture">
+<source media="( min-width: 1280px )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328172382_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?imwidth=320"/>
+<source media="( min-width: 1024px )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328172382_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?imwidth=210"/>
+<source media="( min-width: 768px )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328172382_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?imwidth=320"/>
+<source media="( min-width: 350px ) and ( -webkit-min-device-pixel-ratio: 2 )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328172382_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?imwidth=320&amp;imdensity=2"/>
+<source media="( min-width: 350px )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328172382_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?imwidth=320"/>
+<img alt="Gary Lineker" data-test="card-image" height="15629792" src="/content/dam/politics/2023/03/08/TELEMMGLPICT000328172382_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?imwidth=350" width="25000000"/>
+</picture>
+</figure>
+</div>
+</article>
+</li>
+<li class="article-list__item grid-col grid-col-sm-4 grid-col-md-2 grid-col-12 grid-col-6 grid-col-sm-3">
+<article class="card u-clickable-area card--feature-switch card--premium card--opinion" data-test="card" data-track="">
+<div class="card__content" data-test="article-comment-content">
+<h2 class="list-headline list-headline--premium u-heading-7" data-track-wrapper="article-list More from Politics">
+<a class="list-headline__link u-clickable-area__link" data-test="list-headline-link" data-track-block="" href="/news/2023/03/08/linekers-challenge-bbc-director-general/" rel="">
+<span class="list-headline__text" data-test="headline">
+<span>Lineker’s challenge to BBC director-general</span>
+</span>
+</a>
+</h2>
+<div class="u-meta card__meta card__meta-stacked--m" data-test="card-meta">
+<div class="card__meta-wrapper">
+<span class="e-byline e-byline--opinion e-byline--premium" data-test="byline">
+<span class="e-byline__meta" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<a aria-label="Articles by Telegraph View" class="e-byline__link" data-test="byline-link" href="/authors/t/ta-te/telegraph-view/" itemprop="url" rel="author">
+<span class="e-byline__author" content="Telegraph View" data-test="author-name" itemprop="name">Telegraph View</span>
+</a>
+</span>
+</span>
+<svg class="card__icon-image" viewbox="0 0 32 22" xmlns="http://www.w3.org/2000/svg">
+<g>
+<path d="M29,1c-2.2,1.5-4.1,3.5-5,6c4.1,0,8,3.4,8,7.5S28.6,22,24.5,22S17,18.7,17,14c0-6.1,4.6-11.7,11-14L29,1z"></path>
+<path d="M12,1C9.8,2.5,7.9,4.5,7,7c4.1,0,8,3.4,8,7.5S11.6,22,7.5,22S0,18.7,0,14C0,7.9,4.6,2.3,11,0L12,1z"></path>
+</g>
+</svg>
+<time class="card__date" datetime="2023-03-08T22:00:00.000Z">8 Mar 2023, 10:00pm</time>
+</div>
+</div>
+</div>
+<div class="card__thumbnail u-order-first card__thumbnail-height-fix">
+<figure class="card__figure">
+<picture class="e-picture">
+<source media="( min-width: 1280px )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000292992828_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfyKvq_nGV8CVExf4qSbkzM.jpeg?imwidth=320"/>
+<source media="( min-width: 1024px )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000292992828_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfyKvq_nGV8CVExf4qSbkzM.jpeg?imwidth=210"/>
+<source media="( min-width: 768px )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000292992828_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfyKvq_nGV8CVExf4qSbkzM.jpeg?imwidth=320"/>
+<source media="( min-width: 350px ) and ( -webkit-min-device-pixel-ratio: 2 )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000292992828_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfyKvq_nGV8CVExf4qSbkzM.jpeg?imwidth=320&amp;imdensity=2"/>
+<source media="( min-width: 350px )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000292992828_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfyKvq_nGV8CVExf4qSbkzM.jpeg?imwidth=320"/>
+<img alt="Gary Lineker" data-test="card-image" height="15655100" src="/content/dam/news/2023/03/08/TELEMMGLPICT000292992828_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfyKvq_nGV8CVExf4qSbkzM.jpeg?imwidth=350" width="25000000"/>
+</picture>
+<div class="e-icon-overlay">
+<svg class="e-icon-overlay__image" viewbox="0 0 32 22" xmlns="http://www.w3.org/2000/svg">
+<g>
+<path d="M29,1c-2.2,1.5-4.1,3.5-5,6c4.1,0,8,3.4,8,7.5S28.6,22,24.5,22S17,18.7,17,14c0-6.1,4.6-11.7,11-14L29,1z"></path>
+<path d="M12,1C9.8,2.5,7.9,4.5,7,7c4.1,0,8,3.4,8,7.5S11.6,22,7.5,22S0,18.7,0,14C0,7.9,4.6,2.3,11,0L12,1z"></path>
+</g>
+</svg>
+</div>
+</figure>
+</div>
+</article>
+</li>
+<li class="article-list__item grid-col grid-col-sm-4 grid-col-md-2 grid-col-12 grid-col-6 grid-col-sm-3">
+<article class="card u-clickable-area card--feature-switch card--premium card--opinion" data-test="card" data-track="">
+<div class="card__content" data-test="article-comment-content">
+<h2 class="list-headline list-headline--premium u-heading-7" data-track-wrapper="article-list More from Politics">
+<a class="list-headline__link u-clickable-area__link" data-test="list-headline-link" data-track-block="" href="/news/2023/03/08/stop-sex-education-radicals-infiltrating-schools/" rel="">
+<span class="list-headline__text" data-test="headline">
+<span>Stop sex-education radicals from infiltrating schools</span>
+</span>
+</a>
+</h2>
+<div class="u-meta card__meta card__meta-stacked--m" data-test="card-meta">
+<a aria-label="Miriam Cates" class="card__link" href="/authors/m/mf-mj/miriam-cates/">
+<div class="lazy-image card__author-image card__author-image--s" data-alt="Miriam Cates" data-class="lazy-image__img " data-height="48" data-js="LazyImage" data-src="/content/dam/Author%20photos/miriam-cates.png?impolicy=byline-author" data-width="48" style="padding-top:%;">
+<noscript>
+<img alt="Miriam Cates" class="responsive lazy-image__img card__author-image card__author-image--s" height="48" loading="lazy" src="/content/dam/Author%20photos/miriam-cates.png?impolicy=byline-author" width="48"/>
+</noscript>
+</div>
+</a>
+<div class="card__meta-wrapper">
+<span class="e-byline e-byline--opinion e-byline--premium" data-test="byline">
+<span class="e-byline__meta" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<a aria-label="Articles by Miriam Cates" class="e-byline__link" data-test="byline-link" href="/authors/m/mf-mj/miriam-cates/" itemprop="url" rel="author">
+<span class="e-byline__author" content="Miriam Cates" data-test="author-name" itemprop="name">Miriam Cates</span>
+</a>
+</span>
+</span>
+<svg class="card__icon-image" viewbox="0 0 32 22" xmlns="http://www.w3.org/2000/svg">
+<g>
+<path d="M29,1c-2.2,1.5-4.1,3.5-5,6c4.1,0,8,3.4,8,7.5S28.6,22,24.5,22S17,18.7,17,14c0-6.1,4.6-11.7,11-14L29,1z"></path>
+<path d="M12,1C9.8,2.5,7.9,4.5,7,7c4.1,0,8,3.4,8,7.5S11.6,22,7.5,22S0,18.7,0,14C0,7.9,4.6,2.3,11,0L12,1z"></path>
+</g>
+</svg>
+<time class="card__date" datetime="2023-03-08T21:30:00.000Z">8 Mar 2023, 9:30pm</time>
+</div>
+</div>
+</div>
+<div class="card__thumbnail u-order-first card__thumbnail-height-fix">
+<figure class="card__figure">
+<picture class="e-picture">
+<source media="( min-width: 1280px )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000327348417_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwQs4v22exkdQdQ8HxtVl3Yw.jpeg?imwidth=320"/>
+<source media="( min-width: 1024px )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000327348417_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwQs4v22exkdQdQ8HxtVl3Yw.jpeg?imwidth=210"/>
+<source media="( min-width: 768px )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000327348417_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwQs4v22exkdQdQ8HxtVl3Yw.jpeg?imwidth=320"/>
+<source media="( min-width: 350px ) and ( -webkit-min-device-pixel-ratio: 2 )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000327348417_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwQs4v22exkdQdQ8HxtVl3Yw.jpeg?imwidth=320&amp;imdensity=2"/>
+<source media="( min-width: 350px )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000327348417_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwQs4v22exkdQdQ8HxtVl3Yw.jpeg?imwidth=320"/>
+<img alt="Primary school children putting their hands in the air" data-test="card-image" height="15557200" src="/content/dam/news/2023/03/08/TELEMMGLPICT000327348417_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwQs4v22exkdQdQ8HxtVl3Yw.jpeg?imwidth=350" width="25000000"/>
+</picture>
+<div class="e-icon-overlay">
+<svg class="e-icon-overlay__image" viewbox="0 0 32 22" xmlns="http://www.w3.org/2000/svg">
+<g>
+<path d="M29,1c-2.2,1.5-4.1,3.5-5,6c4.1,0,8,3.4,8,7.5S28.6,22,24.5,22S17,18.7,17,14c0-6.1,4.6-11.7,11-14L29,1z"></path>
+<path d="M12,1C9.8,2.5,7.9,4.5,7,7c4.1,0,8,3.4,8,7.5S11.6,22,7.5,22S0,18.7,0,14C0,7.9,4.6,2.3,11,0L12,1z"></path>
+</g>
+</svg>
+</div>
+</figure>
+</div>
+</article>
+</li>
+<li class="article-list__item grid-col grid-col-sm-4 grid-col-md-2 grid-col-12 grid-col-6 grid-col-sm-3">
+<article class="card u-clickable-area card--feature-switch card--premium" data-test="card" data-track="">
+<div class="card__content" data-test="article-comment-content">
+<h2 class="list-headline list-headline--premium u-heading-7" data-track-wrapper="article-list More from Politics">
+<a class="list-headline__link u-clickable-area__link" data-test="list-headline-link" data-track-block="" href="/politics/2023/03/08/small-boats-law-provoking-civil-service-fury-internal-messages/" rel="">
+<span class="list-headline__text" data-test="headline">
+<span>Small boats law provoking civil service fury, internal messages reveal</span>
+</span>
+</a>
+</h2>
+<div class="u-meta card__meta card__meta-stacked--m" data-test="card-meta">
+<div class="card__meta-wrapper">
+<span class="e-byline e-byline--premium" data-test="byline">
+<span class="e-byline__meta" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<a class="e-byline__link" data-test="byline-link" href="/authors/c/cf-cj/charles-hymas/" itemprop="url" rel="author">
+<span class="e-byline__bytext">By</span>
+<span class="e-byline__author" content="Charles Hymas" data-test="author-name" itemprop="name">Charles Hymas</span>
+</a>
+</span>
+</span>
+<time class="card__date" datetime="2023-03-08T19:58:46.815Z">8 Mar 2023, 7:58pm</time>
+</div>
+</div>
+</div>
+<div class="card__thumbnail u-order-first card__thumbnail-height-fix">
+<figure class="card__figure">
+<picture class="e-picture">
+<source media="( min-width: 1280px )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328087016_trans_NvBQzQNjv4Bql-dIkk_XyUPf7BRQRKXvwkb9cIZTvqQKmGBU-UtyFdg.jpeg?imwidth=320"/>
+<source media="( min-width: 1024px )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328087016_trans_NvBQzQNjv4Bql-dIkk_XyUPf7BRQRKXvwkb9cIZTvqQKmGBU-UtyFdg.jpeg?imwidth=210"/>
+<source media="( min-width: 768px )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328087016_trans_NvBQzQNjv4Bql-dIkk_XyUPf7BRQRKXvwkb9cIZTvqQKmGBU-UtyFdg.jpeg?imwidth=320"/>
+<source media="( min-width: 350px ) and ( -webkit-min-device-pixel-ratio: 2 )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328087016_trans_NvBQzQNjv4Bql-dIkk_XyUPf7BRQRKXvwkb9cIZTvqQKmGBU-UtyFdg.jpeg?imwidth=320&amp;imdensity=2"/>
+<source media="( min-width: 350px )" srcset="/content/dam/politics/2023/03/08/TELEMMGLPICT000328087016_trans_NvBQzQNjv4Bql-dIkk_XyUPf7BRQRKXvwkb9cIZTvqQKmGBU-UtyFdg.jpeg?imwidth=320"/>
+<img alt="Suella Braverman" data-test="card-image" height="11730306" src="/content/dam/politics/2023/03/08/TELEMMGLPICT000328087016_trans_NvBQzQNjv4Bql-dIkk_XyUPf7BRQRKXvwkb9cIZTvqQKmGBU-UtyFdg.jpeg?imwidth=350" width="18775000"/>
+</picture>
+</figure>
+</div>
+</article>
+</li>
+<li class="article-list__item grid-col grid-col-sm-4 grid-col-md-2 grid-col-12 grid-col-6 grid-col-sm-3">
+<article class="card u-clickable-area card--feature-switch card--premium card--opinion" data-test="card" data-track="">
+<div class="card__content" data-test="article-comment-content">
+<h2 class="list-headline list-headline--premium u-heading-7" data-track-wrapper="article-list More from Politics">
+<a class="list-headline__link u-clickable-area__link" data-test="list-headline-link" data-track-block="" href="/news/2023/03/08/gary-lineker-has-swallowed-elites-big-lie-mass-migration/" rel="">
+<span class="list-headline__text" data-test="headline">
+<span>Gary Lineker has swallowed the elite’s big lie about mass migration</span>
+</span>
+</a>
+</h2>
+<div class="u-meta card__meta card__meta-stacked--m" data-test="card-meta">
+<a aria-label="Allister Heath" class="card__link" href="/authors/a/ak-ao/allister-heath/">
+<div class="lazy-image card__author-image card__author-image--s" data-alt="Allister Heath" data-class="lazy-image__img " data-height="48" data-js="LazyImage" data-src="/content/dam/Author%20photos/Allister%20Heath%20Aug%202021.png?impolicy=byline-author" data-width="48" style="padding-top:%;">
+<noscript>
+<img alt="Allister Heath" class="responsive lazy-image__img card__author-image card__author-image--s" height="48" loading="lazy" src="/content/dam/Author%20photos/Allister%20Heath%20Aug%202021.png?impolicy=byline-author" width="48"/>
+</noscript>
+</div>
+</a>
+<div class="card__meta-wrapper">
+<span class="e-byline e-byline--opinion e-byline--premium" data-test="byline">
+<span class="e-byline__meta" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<a aria-label="Articles by Allister Heath" class="e-byline__link" data-test="byline-link" href="/authors/a/ak-ao/allister-heath/" itemprop="url" rel="author">
+<span class="e-byline__author" content="Allister Heath" data-test="author-name" itemprop="name">Allister Heath</span>
+</a>
+</span>
+</span>
+<svg class="card__icon-image" viewbox="0 0 32 22" xmlns="http://www.w3.org/2000/svg">
+<g>
+<path d="M29,1c-2.2,1.5-4.1,3.5-5,6c4.1,0,8,3.4,8,7.5S28.6,22,24.5,22S17,18.7,17,14c0-6.1,4.6-11.7,11-14L29,1z"></path>
+<path d="M12,1C9.8,2.5,7.9,4.5,7,7c4.1,0,8,3.4,8,7.5S11.6,22,7.5,22S0,18.7,0,14C0,7.9,4.6,2.3,11,0L12,1z"></path>
+</g>
+</svg>
+<time class="card__date" datetime="2023-03-08T19:30:00.000Z">8 Mar 2023, 7:30pm</time>
+</div>
+</div>
+</div>
+<div class="card__thumbnail u-order-first card__thumbnail-height-fix">
+<figure class="card__figure">
+<picture class="e-picture">
+<source media="( min-width: 1280px )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000328211767_trans_NvBQzQNjv4BqP-t--XiuvYMJPd4Ncdgt2haFS7t6wUD2c5CAYw-u7FY.jpeg?imwidth=320"/>
+<source media="( min-width: 1024px )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000328211767_trans_NvBQzQNjv4BqP-t--XiuvYMJPd4Ncdgt2haFS7t6wUD2c5CAYw-u7FY.jpeg?imwidth=210"/>
+<source media="( min-width: 768px )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000328211767_trans_NvBQzQNjv4BqP-t--XiuvYMJPd4Ncdgt2haFS7t6wUD2c5CAYw-u7FY.jpeg?imwidth=320"/>
+<source media="( min-width: 350px ) and ( -webkit-min-device-pixel-ratio: 2 )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000328211767_trans_NvBQzQNjv4BqP-t--XiuvYMJPd4Ncdgt2haFS7t6wUD2c5CAYw-u7FY.jpeg?imwidth=320&amp;imdensity=2"/>
+<source media="( min-width: 350px )" srcset="/content/dam/news/2023/03/08/TELEMMGLPICT000328211767_trans_NvBQzQNjv4BqP-t--XiuvYMJPd4Ncdgt2haFS7t6wUD2c5CAYw-u7FY.jpeg?imwidth=320"/>
+<img alt="Gary Lineker" data-test="card-image" height="15629856" src="/content/dam/news/2023/03/08/TELEMMGLPICT000328211767_trans_NvBQzQNjv4BqP-t--XiuvYMJPd4Ncdgt2haFS7t6wUD2c5CAYw-u7FY.jpeg?imwidth=350" width="25000000"/>
+</picture>
+<div class="e-icon-overlay">
+<svg class="e-icon-overlay__image" viewbox="0 0 32 22" xmlns="http://www.w3.org/2000/svg">
+<g>
+<path d="M29,1c-2.2,1.5-4.1,3.5-5,6c4.1,0,8,3.4,8,7.5S28.6,22,24.5,22S17,18.7,17,14c0-6.1,4.6-11.7,11-14L29,1z"></path>
+<path d="M12,1C9.8,2.5,7.9,4.5,7,7c4.1,0,8,3.4,8,7.5S11.6,22,7.5,22S0,18.7,0,14C0,7.9,4.6,2.3,11,0L12,1z"></path>
+</g>
+</svg>
+</div>
+</figure>
+</div>
+</article>
+</li>
+</ul>
+</section>
+</div>
+<div class="more-stories section" data-test="more-stories">
+<h2 class="u-heading-6 more-stories__heading">More from The Telegraph</h2>
+<div class="article-list more-stories__list grid more-stories__list--column" data-liftigniter='{ "widget": "liftigniter-onward-journey", "maxStories": 6, "layout": "column", "trackingName": "More from The Telegraph" }'>
+</div>
+</div>
+</div>
+</div>
+</aside>
+<footer class="site-footer" data-test="site-footer">
+<div class="site-footer__container site-footer__container--top">
+<div class="site-footer__masthead" data-track-wrapper="bottom_logo">
+<div class="site-footer__logo-wrapper">
+<a class="site-footer__logo-link" data-test="site-footer-logo-link" data-track-img="" href="/">
+<svg class="site-footer__logo" data-test="site-footer-logo" viewbox="0 0 430 70" xmlns="http://www.w3.org/2000/svg">
+<title id="site-footer-logo-title">The Telegraph</title>
+<use xlink:href="#site-logo"></use>
+</svg>
+</a>
+</div>
+<div class="site-footer__back-to-top">
+<a class="site-footer__back-to-top-link" data-back-to-top-event="" data-test="site-footer-back-to-top" href="#navigation">
+<span class="site-footer__back-to-top-text">Back to top</span>
+<svg class="site-footer__back-to-top-icon tmg-svg-icon" viewbox="0 0 10 5" xmlns="http://www.w3.org/2000/svg">
+<path d="M.312 0L5 2.353 9.687 0 10 .294 5 5 0 .294.312 0z"></path>
+</svg>
+</a>
+</div>
+<div class="site-footer__social" data-test="site-footer-social">
+<span class="site-footer__social-description">Follow us on:</span>
+<ul class="site-footer__social-links" data-test="social-links">
+<li class="site-footer__social-item">
+<a aria-label="Visit our Facebook page" class="site-footer__social-link" data-test="social-link-facebook" href="https://www.facebook.com/TELEGRAPH.CO.UK/" rel="noopener noreferrer" target="_blank">
+<svg class="site-footer__social-icon" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<title>Facebook icon</title>
+<path d="M11.1973 18V10.7122H13.5654L13.9202 7.85967H11.1973V6.04325C11.1973 5.21877 11.4173 4.65746 12.5561 4.65746H14V2.11226C13.7481 2.07729 12.8878 2 11.8856 2C9.79246 2 8.3592 3.32505 8.3592 5.75983V7.85967H6V10.7122H8.3592V18H11.1973Z"></path>
+</svg>
+</a>
+</li>
+<li class="site-footer__social-item">
+<a aria-label="Visit our Instagram page" class="site-footer__social-link" data-test="social-link-instagram" href="https://www.instagram.com/telegraph/" rel="noopener noreferrer" target="_blank">
+<svg class="site-footer__social-icon" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<title>Instagram icon</title>
+<path clip-rule="evenodd" d="M9.99683 3.44156C12.1333 3.44156 12.3841 3.45108 13.2286 3.48918C14.0095 3.52411 14.4317 3.6543 14.7143 3.76543C15.0889 3.91149 15.3556 4.08295 15.6349 4.36237C15.9143 4.64179 16.0889 4.90851 16.2317 5.28319C16.3397 5.56579 16.473 5.98809 16.5079 6.7692C16.546 7.61381 16.5556 7.86466 16.5556 10.0016C16.5556 12.1385 16.546 12.3894 16.5079 13.234C16.473 14.0151 16.3429 14.4374 16.2317 14.72C16.0857 15.0947 15.9143 15.3614 15.6349 15.6408C15.3556 15.9202 15.0889 16.0949 14.7143 16.2377C14.4317 16.3457 14.0095 16.4791 13.2286 16.514C12.3841 16.5521 12.1333 16.5616 9.99683 16.5616C7.86032 16.5616 7.60952 16.5521 6.76508 16.514C5.98413 16.4791 5.56191 16.3489 5.27937 16.2377C4.90476 16.0917 4.6381 15.9202 4.35873 15.6408C4.07937 15.3614 3.90476 15.0947 3.7619 14.72C3.65397 14.4374 3.52064 14.0151 3.48571 13.234C3.44762 12.3894 3.4381 12.1385 3.4381 10.0016C3.4381 7.86466 3.44762 7.61381 3.48571 6.7692C3.52064 5.98809 3.65079 5.56579 3.7619 5.28319C3.90794 4.90851 4.07937 4.64179 4.35873 4.36237C4.6381 4.08295 4.90476 3.90832 5.27937 3.76543C5.56191 3.65747 5.98413 3.52411 6.76508 3.48918C7.60952 3.44791 7.86349 3.44156 9.99683 3.44156ZM9.99683 2C7.8254 2 7.55238 2.00953 6.69841 2.04763C5.84762 2.08573 5.26667 2.22227 4.75873 2.41913C4.23175 2.62235 3.7873 2.89859 3.34286 3.34312C2.89841 3.78766 2.6254 4.23536 2.41905 4.75928C2.22222 5.26732 2.08571 5.84838 2.04762 6.70252C2.00952 7.55348 2 7.82655 2 9.99841C2 12.1703 2.00952 12.4433 2.04762 13.2975C2.08571 14.1484 2.22222 14.7295 2.41905 15.2407C2.62222 15.7678 2.89841 16.2123 3.34286 16.6569C3.7873 17.1014 4.23492 17.3745 4.75873 17.5809C5.26667 17.7777 5.84762 17.9143 6.70159 17.9524C7.55556 17.9905 7.8254 18 10 18C12.1746 18 12.4444 17.9905 13.2984 17.9524C14.1492 17.9143 14.7302 17.7777 15.2413 17.5809C15.7683 17.3777 16.2127 17.1014 16.6571 16.6569C17.1016 16.2123 17.3746 15.7646 17.581 15.2407C17.7778 14.7327 17.9143 14.1516 17.9524 13.2975C17.9905 12.4433 18 12.1734 18 9.99841C18 7.82338 17.9905 7.55348 17.9524 6.69935C17.9143 5.84838 17.7778 5.26732 17.581 4.7561C17.3778 4.22901 17.1016 3.78448 16.6571 3.33995C16.2127 2.89542 15.7651 2.62235 15.2413 2.41596C14.7333 2.21909 14.1524 2.08256 13.2984 2.04445C12.4413 2.00953 12.1683 2 9.99683 2ZM9.99661 5.89313C7.72994 5.89313 5.88867 7.73159 5.88867 10.0019C5.88867 12.2722 7.72677 14.1106 9.99661 14.1106C12.2665 14.1106 14.1045 12.2722 14.1045 10.0019C14.1045 7.73159 12.2665 5.89313 9.99661 5.89313ZM9.99661 12.6659C8.52359 12.6659 7.32994 11.472 7.32994 9.9987C7.32994 8.5254 8.52359 7.33151 9.99661 7.33151C11.4696 7.33151 12.6633 8.5254 12.6633 9.9987C12.6633 11.472 11.4696 12.6659 9.99661 12.6659ZM15.2258 5.72778C15.2258 6.25738 14.7966 6.6867 14.2671 6.6867C13.7376 6.6867 13.3083 6.25738 13.3083 5.72778C13.3083 5.19818 13.7376 4.76886 14.2671 4.76886C14.7966 4.76886 15.2258 5.19818 15.2258 5.72778Z" fill-rule="evenodd"></path>
+</svg>
+</a>
+</li>
+<li class="site-footer__social-item">
+<a aria-label="Visit our Twitter page" class="site-footer__social-link" data-test="social-link-twitter" href="https://twitter.com/@Telegraph" rel="noopener noreferrer" target="_blank">
+<svg class="site-footer__social-icon" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<title>Twitter icon</title>
+<path d="M7.0304 15.7143C13.0656 15.7143 16.368 11.3139 16.368 7.50434C16.368 7.38055 16.368 7.25675 16.3616 7.13295C17.0016 6.72218 17.5584 6.21574 18 5.64177C17.3984 5.87248 16.7648 6.03004 16.112 6.09757C16.7968 5.73743 17.3088 5.1691 17.552 4.49947C16.9056 4.8371 16.2016 5.07344 15.4656 5.19723C14.224 4.03242 12.144 3.97615 10.8192 5.07344C9.968 5.77682 9.6032 6.82909 9.872 7.83071C7.2416 7.71254 4.7776 6.61526 3.1136 4.81459C2.2432 6.13133 2.6848 7.81946 4.1312 8.66352C3.6064 8.65227 3.1008 8.52847 2.64 8.30339C2.64 8.31464 2.64 8.3259 2.64 8.33715C2.64 9.71016 3.7408 10.8919 5.2768 11.1676C4.7904 11.2858 4.2848 11.3026 3.792 11.2182C4.2208 12.3943 5.456 13.199 6.8576 13.2215C5.6928 14.0261 4.2592 14.4594 2.7808 14.4594C2.5184 14.4594 2.256 14.4426 2 14.42C3.504 15.2697 5.2448 15.7143 7.0304 15.7143Z"></path>
+</svg>
+</a>
+</li>
+<li class="site-footer__social-item">
+<a aria-label="Visit our Snapchat page" class="site-footer__social-link" data-test="social-link-snapchat" href="https://www.snapchat.com/discover/The_Telegraph/8148798159" rel="noopener noreferrer" target="_blank">
+<svg class="site-footer__social-icon" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<title>Snapchat icon</title>
+<path d="M17.9422 13.7043C17.8318 13.3971 17.6194 13.2311 17.3783 13.0983C17.3334 13.0734 17.2925 13.0485 17.2558 13.0319C17.1822 12.9946 17.1087 12.9572 17.0351 12.9198C16.2834 12.5131 15.695 12.0067 15.2905 11.4008C15.1761 11.2306 15.074 11.048 14.9923 10.8612C14.9555 10.7616 14.9596 10.7035 14.9841 10.6495C15.0086 10.608 15.0413 10.5748 15.0821 10.5458C15.2129 10.4586 15.3436 10.3715 15.4335 10.3134C15.5929 10.2054 15.7236 10.1224 15.8053 10.0643C16.1118 9.84436 16.3283 9.61193 16.4631 9.35045C16.6552 8.98521 16.6797 8.55772 16.5326 8.17172C16.3283 7.62386 15.8217 7.28768 15.2047 7.28768C15.074 7.28768 14.9473 7.30013 14.8166 7.32918C14.7839 7.33748 14.7471 7.34578 14.7144 7.35409C14.7185 6.98054 14.7103 6.58625 14.6777 6.19611C14.5633 4.83061 14.0893 4.11673 13.599 3.54812C13.2844 3.19118 12.9167 2.8882 12.5041 2.65162C11.7605 2.21997 10.9147 2 9.99542 2C9.07613 2 8.23447 2.21997 7.49087 2.65162C7.07821 2.8882 6.7105 3.19118 6.39589 3.54812C5.90561 4.11673 5.43575 4.83476 5.31726 6.19611C5.28458 6.58625 5.27641 6.98054 5.28049 7.35409C5.24781 7.34578 5.21512 7.33748 5.17835 7.32918C5.05169 7.30013 4.92095 7.28768 4.79429 7.28768C4.17735 7.28768 3.67072 7.62802 3.46643 8.17172C3.31934 8.55772 3.34386 8.98521 3.53589 9.35045C3.67072 9.61193 3.88726 9.84436 4.19369 10.0643C4.2754 10.1224 4.40206 10.2054 4.56549 10.3134C4.65129 10.3715 4.77795 10.4545 4.90461 10.5375C4.94955 10.5665 4.98632 10.6039 5.01492 10.6495C5.03943 10.7035 5.04352 10.7616 5.00266 10.8695C4.92095 11.0521 4.82289 11.2306 4.70849 11.3966C4.31218 11.986 3.74017 12.4882 3.01291 12.8908C2.62886 13.0983 2.22846 13.2353 2.05685 13.7043C1.9302 14.0571 2.01191 14.4555 2.33468 14.7959C2.45317 14.9204 2.59208 15.0283 2.74326 15.1113C3.05786 15.2856 3.39289 15.4226 3.74426 15.518C3.8178 15.5388 3.88317 15.5678 3.94446 15.6093C4.06295 15.7131 4.0466 15.8708 4.20186 16.1032C4.27949 16.2236 4.38163 16.3274 4.49603 16.4104C4.82698 16.6428 5.19878 16.6553 5.59101 16.6719C5.94647 16.6843 6.34687 16.7009 6.80855 16.8545C7.00058 16.9167 7.1967 17.0412 7.4255 17.1865C7.97707 17.531 8.72884 18 9.99133 18C11.2538 18 12.0097 17.5268 12.5653 17.1824C12.7941 17.0412 12.9903 16.9167 13.1741 16.8545C13.6317 16.7009 14.0362 16.6843 14.3917 16.6719C14.7839 16.6553 15.1557 16.6428 15.4866 16.4104C15.6255 16.3108 15.7399 16.1863 15.8217 16.0368C15.9361 15.8418 15.932 15.7048 16.0382 15.6093C16.0954 15.5678 16.1608 15.5388 16.2262 15.5222C16.5775 15.4267 16.9207 15.2898 17.2394 15.1113C17.3988 15.0241 17.5458 14.9079 17.6684 14.7709L17.6725 14.7668C17.9912 14.4348 18.0688 14.0446 17.9422 13.7043ZM16.8227 14.3144C16.1404 14.6962 15.6827 14.6547 15.3314 14.8872C15.029 15.0822 15.2088 15.5056 14.9923 15.6591C14.7226 15.8459 13.93 15.6467 12.9085 15.9912C12.0628 16.2734 11.5276 17.0911 10.0077 17.0911C8.48779 17.0911 7.96481 16.2776 7.10681 15.9912C6.08538 15.6467 5.29275 15.8501 5.02309 15.6591C4.80655 15.5056 4.98223 15.0822 4.68398 14.8872C4.32852 14.6547 3.875 14.6962 3.19269 14.3144C2.75551 14.0695 3.00474 13.9201 3.14774 13.8495C5.62369 12.6335 6.02001 10.7533 6.03635 10.6122C6.05678 10.442 6.08129 10.3092 5.89744 10.139C5.72175 9.97302 4.93729 9.47912 4.71666 9.32555C4.35712 9.06822 4.19777 8.81505 4.31626 8.49961C4.39798 8.28379 4.59818 8.20078 4.80655 8.20078C4.87192 8.20078 4.93729 8.20908 5.00266 8.22153C5.39898 8.30869 5.78304 8.50791 6.00367 8.56602C6.03227 8.57432 6.05678 8.57847 6.08538 8.57847C6.20387 8.57847 6.24472 8.51621 6.23655 8.37925C6.21204 7.9393 6.15075 7.08431 6.22021 6.28327C6.31418 5.1834 6.66147 4.63554 7.07821 4.15409C7.27841 3.92166 8.21404 2.91725 10.0077 2.91725C11.8013 2.91725 12.7369 3.91751 12.9371 4.14994C13.3539 4.63139 13.7012 5.17925 13.7951 6.27912C13.8646 7.08016 13.8033 7.93515 13.7747 8.3751C13.7665 8.52036 13.8074 8.57432 13.9259 8.57432C13.9545 8.57432 13.979 8.57017 14.0076 8.56187C14.2282 8.50791 14.6123 8.30454 15.0086 8.21738C15.074 8.20078 15.1393 8.19663 15.2047 8.19663C15.4131 8.19663 15.6133 8.27964 15.695 8.49546C15.8135 8.81089 15.6541 9.06407 15.2946 9.3214C15.0781 9.47497 14.2936 9.96887 14.1138 10.1349C13.93 10.3051 13.9545 10.4379 13.9749 10.608C13.9913 10.7492 14.3876 12.6293 16.8635 13.8454C17.0106 13.916 17.2558 14.0695 16.8227 14.3144Z"></path>
+</svg>
+</a>
+</li>
+<li class="site-footer__social-item">
+<a aria-label="Visit our LinkedIn page" class="site-footer__social-link" data-test="social-link-linkedin" href="https://www.linkedin.com/company/9053/" rel="noopener noreferrer" target="_blank">
+<svg class="site-footer__social-icon" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<title>LinkedIn icon</title>
+<path d="M5.51774 18H2.22695V7.33333H5.51774V18ZM3.92907 5.85816C2.9078 5.85816 2 4.95035 2 3.92908C2 2.9078 2.9078 2 3.92907 2C4.95035 2 5.85815 2.9078 5.85815 3.92908C5.85815 4.95035 4.95035 5.85816 3.92907 5.85816ZM18 18H14.7092V12.7801C14.7092 11.5319 14.7092 9.94326 13.0071 9.94326C11.305 9.94326 10.9645 11.305 10.9645 12.6667V17.8865H7.67376V7.21986H10.8511V8.69504C11.5319 7.56028 12.6667 6.87943 14.0284 6.99291C17.4326 6.99291 18 9.14894 18 12.0993V18Z"></path>
+</svg>
+</a>
+</li>
+<li class="site-footer__social-item">
+<a aria-label="Visit our YouTube page" class="site-footer__social-link" data-test="social-link-youtube" href="https://www.youtube.com/channel/UCPgLNge0xqQHWM5B5EFH9Cg" rel="noopener noreferrer" target="_blank">
+<svg class="site-footer__social-icon" viewbox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<title>YouTube icon</title>
+<path d="M17.6636 6.07372C17.4818 5.37326 16.9364 4.82027 16.2455 4.62672C15 4.28571 10 4.28571 10 4.28571C10 4.28571 5 4.28571 3.74545 4.62672C3.05455 4.81105 2.51818 5.36405 2.32727 6.07372C2 7.34561 2 9.99999 2 9.99999C2 9.99999 2 12.6544 2.33636 13.9263C2.51818 14.6267 3.06364 15.1797 3.75455 15.3733C5 15.7143 10 15.7143 10 15.7143C10 15.7143 15 15.7143 16.2545 15.3733C16.9455 15.1889 17.4818 14.6359 17.6727 13.9263C18 12.6544 18 9.99999 18 9.99999C18 9.99999 18 7.34561 17.6636 6.07372Z"></path>
+<path class="youtube-arrow" d="M8.36353 12.4141L12.5454 9.99937L8.36353 7.58463V12.4141Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="site-footer__primary-content">
+<div class="site-footer__container">
+<nav class="site-footer__navigation">
+<ul class="site-footer__navigation-list grid" data-test="site-footer-navigation" data-track-wrapper="footer_nav">
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="/contact-us/">Help Centre</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="https://corporate.telegraph.co.uk/">About us</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="https://extra.telegraph.co.uk/">Telegraph Extra</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="https://telegraph.newsprints.co.uk/">Reader Prints</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="/branded-content/">Branded Content</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="/syndication/">Syndication and Commissioning</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="/about-us/editorial-and-commercial-guidelines3/">Guidelines</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="/about-us/privacy-and-cookie-policy/">Privacy</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="/about-us/terms-and-conditions/">Terms and Conditions</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="/about-us/advertising-terms-and-conditions/">Advertising Terms</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="https://fantasyfootball.telegraph.co.uk/">Fantasy Sport</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="https://www.telegraph.co.uk/vouchercodes">UK Voucher Codes</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="/betting/free-bets/">Betting Offers</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="/about-us/modern-slavery-statement/">Modern Slavery</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="/about-us/press-acquisitions-limited-tax-strategy-financial-year-2022/">Tax Strategy</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="https://www.telegraph.co.uk/compare">Broadband and Mobile Deals</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt="" href="https://wine.telegraph.co.uk/?icid=awareness_house-apps_live-app_02/23_TWC006_winecellar_appbanner">Wine Cellar</a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt=""></a>
+</li>
+<li class="site-footer__navigation-item grid-col grid-col-6 grid-col-sm-4 grid-col-lg-3">
+<a class="site-footer__navigation-link" data-track-txt=""></a>
+</li>
+</ul>
+<div class="site-footer__navigation-text" data-test="site-footer-copyright">© Telegraph Media Group Limited 2023</div>
+</nav>
+</div>
+</div>
+</footer>
+<script type="text/javascript">
+	window.addEventListener( 'DOMContentLoaded', function() {
+		_satellite.pageBottom();
+	});
+</script>
+<div class="js-advert advert advert--tmg" data-ad-slot-hidden="false" data-ad-slot-id="advert_tmg_tmg" data-adtype="tmg" id="advert_tmg_tmg">
+</div>
+<div class="js-advert advert advert--ftr" data-ad-slot-hidden="false" data-ad-slot-id="advert_tmg_ftr" data-adtype="ftr" id="advert_tmg_ftr">
+</div>
+</body>
+</html>

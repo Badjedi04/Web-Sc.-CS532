@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<!--  Preload fonts - tw26508511-->
+<link as="font" crossorigin="anonymous" href="/sites/all/themes/bootsass/fonts/myriad/MYRIADPRO-REGULAR.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="anonymous" href="/sites/all/themes/bootsass/fonts/bootstrap/glyphicons-halflings-regular.woff" rel="preload" type="font/woff"/>
+<link as="font" crossorigin="anonymous" href="/sites/all/themes/bootsass/fonts/crimson/CrimsonText-Semibold.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="anonymous" href="/sites/all/themes/bootsass/fonts/myriad/MYRIADPRO-BOLD.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="anonymous" href="/sites/all/themes/bootsass/fonts/crimson/crimsontext-roman-webfont.woff2" rel="preload" type="font/woff2"/>
+<meta charset="utf-8"/><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"c3172e0ad0",applicationID:"193114088"};;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var n=0,i=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);i&&(n=+i[1])},6562:(e,t,r)=>{"use strict";r.d(t,{P_:()=>p,Mt:()=>v,C5:()=>d,DL:()=>y,OP:()=>N,lF:()=>B,Yu:()=>A,Dg:()=>h,CX:()=>f,GE:()=>w,sU:()=>M});var n={};r.r(n),r.d(n,{agent:()=>x,match:()=>j,version:()=>O});var i=r(6797),o=r(909),a=r(8610);class s{constructor(e,t){try{if(!e||"object"!=typeof e)return(0,a.Z)("New setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,a.Z)("Setting a Configurable requires a model to set its initial properties");Object.assign(this,t),Object.entries(e).forEach((e=>{let[t,r]=e;const n=(0,o.q)(t);n.length&&r&&"object"==typeof r&&n.forEach((e=>{e in r&&((0,a.Z)('"'.concat(e,'" is a protected attribute and can not be changed in feature ').concat(t,".  It will have no effect.")),delete r[e])})),this[t]=r}))}catch(e){(0,a.Z)("An error occured while setting a Configurable",e)}}}const c={beacon:i.ce.beacon,errorBeacon:i.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},u={};function d(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!u[e])throw new Error("Info for ".concat(e," was never set"));return u[e]}function f(e,t){if(!e)throw new Error("All info objects require an agent identifier!");u[e]=new s(t,c),(0,i.Qy)(e,u[e],"info")}const l={allow_bfcache:!0,privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,enabled:!0,harvestTimeSeconds:10},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10},metrics:{enabled:!0,harvestTimeSeconds:10},page_action:{enabled:!0,harvestTimeSeconds:30},page_view_event:{enabled:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30},session_trace:{enabled:!0,harvestTimeSeconds:10},spa:{enabled:!0,harvestTimeSeconds:10}},g={};function p(e){if(!e)throw new Error("All configuration objects require an agent identifier!");if(!g[e])throw new Error("Configuration for ".concat(e," was never set"));return g[e]}function h(e,t){if(!e)throw new Error("All configuration objects require an agent identifier!");g[e]=new s(t,l),(0,i.Qy)(e,g[e],"config")}function v(e,t){if(!e)throw new Error("All configuration objects require an agent identifier!");var r=p(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const m={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},b={};function y(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!b[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return b[e]}function w(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");b[e]=new s(t,m),(0,i.Qy)(e,b[e],"loader_config")}const A=(0,i.mF)().o;var E=r(2053),x=null,O=null;if(navigator.userAgent){var T=navigator.userAgent,S=T.match(/Version\/(\S+)\s+Safari/);S&&-1===T.indexOf("Chrome")&&-1===T.indexOf("Chromium")&&(x="Safari",O=S[1])}function j(e,t){if(!x)return!1;if(e!==x)return!1;if(!t)return!0;if(!O)return!1;for(var r=O.split("."),n=t.split("."),i=0;i<n.length;i++)if(n[i]!==r[i])return!1;return!0}var D=r(5526),_=r(2374);const k="NRBA_SESSION_ID";function P(){if(!_.il)return null;try{let e;return null===(e=window.sessionStorage.getItem(k))&&(e=(0,D.ky)(16),window.sessionStorage.setItem(k,e)),e}catch(e){return null}}var I=r(8226);const C=e=>({customTransaction:void 0,disabled:!1,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:(0,E.yf)(),onerror:void 0,origin:""+_._A.location,ptid:void 0,releaseIds:{},sessionId:1==v(e,"privacy.cookies_enabled")?P():null,xhrWrappable:"function"==typeof _._A.XMLHttpRequest?.prototype?.addEventListener,userAgent:n,version:I.q}),R={};function N(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!R[e])throw new Error("Runtime for ".concat(e," was never set"));return R[e]}function M(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");R[e]=new s(t,C(e)),(0,i.Qy)(e,R[e],"runtime")}function B(e){return function(e){try{const t=d(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},8226:(e,t,r)=>{"use strict";r.d(t,{q:()=>n});const n="1226.PROD"},9557:(e,t,r)=>{"use strict";r.d(t,{w:()=>o});var n=r(8610);const i={agentIdentifier:""};class o{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},4329:(e,t,r)=>{"use strict";r.d(t,{L:()=>d,R:()=>c});var n=r(3752),i=r(7022),o=r(4045),a=r(2325);const s={};function c(e,t){const r={staged:!1,priority:a.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return a(t);s[e].get(t).staged=!0;const r=Array.from(s[e]);function a(t){const r=e?n.ee.get(e):n.ee,a=o.X.handlers;if(r.backlog&&a){var s=r.backlog[t],c=a[t];if(c){for(var u=0;s&&u<s.length;++u)f(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete a[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((e=>{let[t]=e;a(t)})))}function f(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],o=e[3],a=e[2];i.apply(o,a)}}))}},3752:(e,t,r)=>{"use strict";r.d(t,{c:()=>f,ee:()=>u});var n=r(6797),i=r(3916),o=r(7022),a=r(6562),s="nr@context";let c=(0,n.fP)();var u;function d(){}function f(e){return(0,i.X)(e,s,l)}function l(){return new d}function g(){(u.backlog.api||u.backlog.feature)&&(u.aborted=!0,u.backlog={})}c.ee?u=c.ee:(u=function e(t,r){var n={},c={},f={},p=!1;try{p=16===r.length&&(0,a.OP)(r).isolatedBacklog}catch(e){}var h={on:b,addEventListener:b,removeEventListener:y,emit:m,get:A,listeners:w,context:v,buffer:E,abort:g,aborted:!1,isBuffering:x,debugId:r,backlog:p?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return h;function v(e){return e&&e instanceof d?e:e?(0,i.X)(e,s,l):l()}function m(e,r,n,i,o){if(!1!==o&&(o=!0),!u.aborted||i){t&&o&&t.emit(e,r,n);for(var a=v(n),s=w(e),d=s.length,f=0;f<d;f++)s[f].apply(a,r);var l=O()[c[e]];return l&&l.push([h,e,r,a]),a}}function b(e,t){n[e]=w(e).concat(t)}function y(e,t){var r=n[e];if(r)for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)}function w(e){return n[e]||[]}function A(t){return f[t]=f[t]||e(h,t)}function E(e,t){var r=O();h.aborted||(0,o.D)(e,(function(e,n){t=t||"feature",c[n]=t,t in r||(r[t]=[])}))}function x(e){return!!O()[c[e]]}function O(){return h.backlog}}(void 0,"globalEE"),c.ee=u)},9252:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(3752).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4045:(e,t,r)=>{"use strict";r.d(t,{X:()=>o});var n=r(9252);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.E,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.E);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},8544:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>a});var n=r(2374);let i=!1,o=!1;try{const e={get passive(){return i=!0,!1},get signal(){return o=!0,!1}};n._A.addEventListener("test",null,e),n._A.removeEventListener("test",null,e)}catch(e){}function a(e,t){return i||o?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];window.addEventListener(e,t,a(r))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];document.addEventListener(e,t,a(r))}},5526:(e,t,r)=>{"use strict";r.d(t,{Ht:()=>a,M:()=>o,Rl:()=>i,ky:()=>s});var n=r(2374);function i(){var e=null,t=0,r=n._A?.crypto||n._A?.msCrypto;function i(){return e?15&e[t++]:16*Math.random()|0}r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,a="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",s="",c=0;c<a.length;c++)s+="x"===(o=a[c])?i().toString(16):"y"===o?(o=3&i()|8).toString(16):o;return s}function o(){return s(16)}function a(){return s(32)}function s(e){var t=null,r=0,n=self.crypto||self.msCrypto;n&&n.getRandomValues&&Uint8Array&&(t=n.getRandomValues(new Uint8Array(31)));for(var i=[],o=0;o<e;o++)i.push(a().toString(16));return i.join("");function a(){return t?15&t[r++]:16*Math.random()|0}}},2053:(e,t,r)=>{"use strict";r.d(t,{nb:()=>c,os:()=>u,yf:()=>s,zO:()=>a});var n=r(7145),i=(new Date).getTime(),o=i;function a(){return n.G&&performance.now?Math.round(performance.now()):(i=Math.max((new Date).getTime(),i))-o}function s(){return i}function c(e){o=e}function u(){return o}},7145:(e,t,r)=>{"use strict";r.d(t,{G:()=>n});const n=void 0!==r(2374)._A?.performance?.timing?.navigationStart},6625:(e,t,r)=>{"use strict";r.d(t,{s:()=>c,v:()=>u});var n=r(8283),i=r(9071),o=r(2053),a=r(7145),s=r(2374);let c=!0;function u(e){var t=function(){if(i.I&&i.I<9)return;if(a.G)return c=!1,s._A?.performance?.timing?.navigationStart}();t&&((0,n.B)(e,"starttime",t),(0,o.nb)(t))}},8283:(e,t,r)=>{"use strict";r.d(t,{B:()=>o,L:()=>a});var n=r(2053),i={};function o(e,t,r){void 0===r&&(r=(0,n.zO)()+(0,n.os)()),i[e]=i[e]||{},i[e][t]=r}function a(e,t,r,n){const o=e.sharedContext.agentIdentifier;var a=i[o]?.[r],s=i[o]?.[n];void 0!==a&&void 0!==s&&e.store("measures",t,{value:s-a})}},9548:(e,t,r)=>{"use strict";r.d(t,{T:()=>i});var n=r(2374);const i={isFileProtocol:function(){let e=Boolean("file:"===(0,n.lW)()?.location?.protocol);e&&(i.supportabilityMetricSent=!0);return e},supportabilityMetricSent:!1}},8610:(e,t,r)=>{"use strict";function n(e,t){console&&console.warn&&"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{Z:()=>n})},3916:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},2374:(e,t,r)=>{"use strict";r.d(t,{_A:()=>o,il:()=>n,lW:()=>a,v6:()=>i});const n=Boolean("undefined"!=typeof window&&window.document),i=Boolean("undefined"!=typeof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator);let o=(()=>{if(n)return window;if(i){if("undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope)return globalThis;if(self instanceof WorkerGlobalScope)return self}throw new Error('New Relic browser agent shutting down due to error: Unable to locate global scope. This is possibly due to code redefining browser global variables like "self" and "window".')})();function a(){return o}},7022:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t){var r=[],i="",o=0;for(i in e)n.call(e,i)&&(r[o]=t(i,e[i]),o+=1);return r}},9226:(e,t,r)=>{"use strict";r.d(t,{$c:()=>u,Ng:()=>d,RR:()=>c});var n=r(6562),i=r(9557),o=r(9548),a=r(8610),s={regex:/^file:\/\/(.*)/,replacement:"file://OBFUSCATED"};class c extends i.w{constructor(e){super(e)}shouldObfuscate(){return u(this.sharedContext.agentIdentifier).length>0}obfuscateString(e){if(!e||"string"!=typeof e)return e;for(var t=u(this.sharedContext.agentIdentifier),r=e,n=0;n<t.length;n++){var i=t[n].regex,o=t[n].replacement||"*";r=r.replace(i,o)}return r}}function u(e){var t=[],r=(0,n.Mt)(e,"obfuscate")||[];return t=t.concat(r),o.T.isFileProtocol()&&t.push(s),t}function d(e){for(var t=!1,r=!1,n=0;n<e.length;n++){"regex"in e[n]?"string"!=typeof e[n].regex&&e[n].regex.constructor!==RegExp&&((0,a.Z)('An obfuscation replacement rule contains a "regex" value with an invalid type (must be a string or RegExp)'),r=!0):((0,a.Z)('An obfuscation replacement rule was detected missing a "regex" value.'),r=!0);var i=e[n].replacement;i&&"string"!=typeof i&&((0,a.Z)('An obfuscation replacement rule contains a "replacement" value with an invalid type (must be a string)'),t=!0)}return!t&&!r}},2650:(e,t,r)=>{"use strict";r.d(t,{K:()=>a,b:()=>o});var n=r(8544);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.bP)("load",e,t)}function a(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},6797:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>u,Qy:()=>c,ce:()=>o,fP:()=>a,gG:()=>d,mF:()=>s});var n=r(2053),i=r(2374);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function a(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=a();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t,r){let i=a();const o=i.initializedAgents||{},s=o[e]||{};return Object.keys(s).length||(s.initializedAt={ms:(0,n.zO)(),date:new Date}),i.initializedAgents={...o,[e]:{...s,[r]:t}},i}function u(e,t){a()[e]=t}function d(){return function(){let e=a();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=a();const t=e.init||{};e.init={...t}}(),s(),function(){let e=a();const t=e.loader_config||{};e.loader_config={...t}}(),a()}},6998:(e,t,r)=>{"use strict";r.d(t,{N:()=>i,e:()=>o});var n=r(8544);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1];return void(0,n.iz)("visibilitychange",(function(){if(t){if("hidden"!=document.visibilityState)return;e()}e(document.visibilityState)}))}function o(){return"hidden"===document.visibilityState?-1:1/0}},6034:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(2325).D.metrics},600:(e,t,r)=>{"use strict";r.r(t),r.d(t,{Instrument:()=>O,constants:()=>T});var n=r(9252),i=r(4045),o=r(6114),a=r(2374),s={REACT:"React",ANGULAR:"Angular",ANGULARJS:"AngularJS",BACKBONE:"Backbone",EMBER:"Ember",VUE:"Vue",METEOR:"Meteor",ZEPTO:"Zepto",JQUERY:"Jquery"};function c(){if(!a.il)return[];var e=[];try{(function(){try{if(window.React||window.ReactDOM||window.ReactRedux)return!0;if(document.querySelector("[data-reactroot], [data-reactid]"))return!0;for(var e=document.querySelectorAll("body > div"),t=0;t<e.length;t++)if(Object.keys(e[t]).indexOf("_reactRootContainer")>=0)return!0;return!1}catch(e){return!1}})()&&e.push(s.REACT),function(){try{return!!window.angular||(!!document.querySelector(".ng-binding, [ng-app], [data-ng-app], [ng-controller], [data-ng-controller], [ng-repeat], [data-ng-repeat]")||!!document.querySelector('script[src*="angular.js"], script[src*="angular.min.js"]'))}catch(e){return!1}}()&&e.push(s.ANGULARJS),function(){try{return!!(window.hasOwnProperty("ng")&&window.ng.hasOwnProperty("coreTokens")&&window.ng.coreTokens.hasOwnProperty("NgZone"))||!!document.querySelectorAll("[ng-version]").length}catch(e){return!1}}()&&e.push(s.ANGULAR),window.Backbone&&e.push(s.BACKBONE),window.Ember&&e.push(s.EMBER),window.Vue&&e.push(s.VUE),window.Meteor&&e.push(s.METEOR),window.Zepto&&e.push(s.ZEPTO),window.jQuery&&e.push(s.JQUERY)}catch(e){}return e}var u=r(9548),d=r(9226),f=r(8226),l=r(2650),g=r(8544),p=r(6562),h=r(8610);const v={dedicated:Boolean(a._A?.Worker),shared:Boolean(a._A?.SharedWorker),service:Boolean(a._A?.navigator?.serviceWorker)};let m,b,y;var w=r(6034);var A,E,x;class O extends o.S{constructor(e,t){var r;let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,w.t,n),r=this,this.singleChecks(),this.eachSessionChecks(),(0,i.X)("record-supportability",(function(){return r.recordSupportability(...arguments)}),this.featureName,this.ee),(0,i.X)("record-custom",(function(){return r.recordCustom(...arguments)}),this.featureName,this.ee),this.importAggregator()}recordSupportability(e,t){var r=["sm",e,{name:e},t];return(0,n.p)("storeMetric",r,null,this.featureName,this.ee),r}recordCustom(e,t){var r=["cm",e,{name:e},t];return(0,n.p)("storeEventMetrics",r,null,this.featureName,this.ee),r}singleChecks(){this.recordSupportability("Generic/Version/".concat(f.q,"/Detected"));const{loaderType:e}=(0,p.OP)(this.agentIdentifier);e&&this.recordSupportability("Generic/LoaderType/".concat(e,"/Detected")),a.il&&(0,l.K)((()=>{c().forEach((e=>{this.recordSupportability("Framework/"+e+"/Detected")}))})),u.T.isFileProtocol()&&(this.recordSupportability("Generic/FileProtocol/Detected"),u.T.supportabilityMetricSent=!0);const t=(0,d.$c)(this.agentIdentifier);t.length>0&&this.recordSupportability("Generic/Obfuscate/Detected"),t.length>0&&!(0,d.Ng)(t)&&this.recordSupportability("Generic/Obfuscate/Invalid"),function(e){if(!m){if(v.dedicated){m=Worker;try{a._A.Worker=r(m,"Dedicated")}catch(e){o(e,"Dedicated")}if(v.shared){b=SharedWorker;try{a._A.SharedWorker=r(b,"Shared")}catch(e){o(e,"Shared")}}else n("Shared");if(v.service){y=navigator.serviceWorker.register;try{a._A.navigator.serviceWorker.register=(t=y,function(){for(var e=arguments.length,r=new Array(e),n=0;n<e;n++)r[n]=arguments[n];return i("Service",r[1]?.type),t.apply(navigator.serviceWorker,r)})}catch(e){o(e,"Service")}}else n("Service");var t;return}n("All")}function r(e,t){return"undefined"==typeof Proxy?e:new Proxy(e,{construct:(e,r)=>(i(t,r[1]?.type),new e(...r))})}function n(t){a.v6||e("Workers/".concat(t,"/Unavailable"))}function i(t,r){e("Workers/".concat(t,"module"===r?"/Module":"/Classic"))}function o(t,r){e("Workers/".concat(r,"/SM/Unsupported")),(0,h.Z)("NR Agent: Unable to capture ".concat(r," workers."),t)}}(this.recordSupportability.bind(this))}eachSessionChecks(){a.il&&(0,g.bP)("pageshow",(e=>{e.persisted&&this.recordSupportability("Generic/BFCache/PageRestored")}))}}A=O,E="featureName",x=w.t,(E=function(e){var t=function(e,t){if("object"!=typeof e||null===e)return e;var r=e[Symbol.toPrimitive];if(void 0!==r){var n=r.call(e,t||"default");if("object"!=typeof n)return n;throw new TypeError("@@toPrimitive must return a primitive value.")}return("string"===t?String:Number)(e)}(e,"string");return"symbol"==typeof t?t:String(t)}(E))in A?Object.defineProperty(A,E,{value:x,enumerable:!0,configurable:!0,writable:!0}):A[E]=x;var T={SUPPORTABILITY_METRIC:"sm",CUSTOM_METRIC:"cm"}},2484:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(2325).D.pageViewEvent},5637:(e,t,r)=>{"use strict";r.r(t),r.d(t,{Instrument:()=>h});var n,i,o,a=r(9252),s=r(2053),c=r(8283),u=r(6625),d=r(6114),f=r(2650),l=r(2484),g=r(2325),p=r(2374);class h extends d.S{constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,l.t,r),p.il&&((0,u.v)(e),(0,c.B)(e,"firstbyte",(0,s.yf)()),(0,f.K)((()=>this.measureDomContentLoaded())),(0,f.b)((()=>this.measureWindowLoaded()),!0),this.importAggregator())}measureWindowLoaded(){var e=(0,s.zO)();(0,c.B)(this.agentIdentifier,"onload",e+(0,s.os)()),(0,a.p)("timing",["load",e],void 0,g.D.pageViewTiming,this.ee)}measureDomContentLoaded(){(0,c.B)(this.agentIdentifier,"domContent",(0,s.zO)()+(0,s.os)())}}n=h,i="featureName",o=l.t,(i=function(e){var t=function(e,t){if("object"!=typeof e||null===e)return e;var r=e[Symbol.toPrimitive];if(void 0!==r){var n=r.call(e,t||"default");if("object"!=typeof n)return n;throw new TypeError("@@toPrimitive must return a primitive value.")}return("string"===t?String:Number)(e)}(e,"string");return"symbol"==typeof t?t:String(t)}(i))in n?Object.defineProperty(n,i,{value:o,enumerable:!0,configurable:!0,writable:!0}):n[i]=o},6382:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(2325).D.pageViewTiming},7817:(e,t,r)=>{"use strict";r.r(t),r.d(t,{Instrument:()=>h});var n,i,o,a=r(9252),s=r(6998),c=r(8544),u=r(2053),d=r(6562),f=r(6114),l=r(6382),g=r(2325),p=r(2374);class h extends f.S{constructor(e,t){var r;let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];if(super(e,t,l.t,n),r=this,p.il){if(this.pageHiddenTime=(0,s.e)(),this.performanceObserver,this.lcpPerformanceObserver,this.clsPerformanceObserver,this.fiRecorded=!1,"PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){this.performanceObserver=new PerformanceObserver((function(){return r.perfObserver(...arguments)}));try{this.performanceObserver.observe({entryTypes:["paint"]})}catch(e){}this.lcpPerformanceObserver=new PerformanceObserver((function(){return r.lcpObserver(...arguments)}));try{this.lcpPerformanceObserver.observe({entryTypes:["largest-contentful-paint"]})}catch(e){}this.clsPerformanceObserver=new PerformanceObserver((function(){return r.clsObserver(...arguments)}));try{this.clsPerformanceObserver.observe({type:"layout-shift",buffered:!0})}catch(e){}}this.fiRecorded=!1;["click","keydown","mousedown","pointerdown","touchstart"].forEach((e=>{(0,c.iz)(e,(function(){return r.captureInteraction(...arguments)}))})),(0,s.N)((()=>{this.pageHiddenTime=(0,u.zO)(),(0,a.p)("docHidden",[this.pageHiddenTime],void 0,g.D.pageViewTiming,this.ee)}),!0),(0,c.bP)("pagehide",(()=>(0,a.p)("winPagehide",[(0,u.zO)()],void 0,g.D.pageViewTiming,this.ee))),this.importAggregator()}}perfObserver(e,t){e.getEntries().forEach((e=>{"first-paint"===e.name?(0,a.p)("timing",["fp",Math.floor(e.startTime)],void 0,g.D.pageViewTiming,this.ee):"first-contentful-paint"===e.name&&(0,a.p)("timing",["fcp",Math.floor(e.startTime)],void 0,g.D.pageViewTiming,this.ee)}))}lcpObserver(e,t){var r=e.getEntries();if(r.length>0){var n=r[r.length-1];if(this.pageHiddenTime<n.startTime)return;var i=[n],o=this.addConnectionAttributes({});o&&i.push(o),(0,a.p)("lcp",i,void 0,g.D.pageViewTiming,this.ee)}}clsObserver(e){e.getEntries().forEach((e=>{e.hadRecentInput||(0,a.p)("cls",[e],void 0,g.D.pageViewTiming,this.ee)}))}addConnectionAttributes(e){var t=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(t)return t.type&&(e["net-type"]=t.type),t.effectiveType&&(e["net-etype"]=t.effectiveType),t.rtt&&(e["net-rtt"]=t.rtt),t.downlink&&(e["net-dlink"]=t.downlink),e}captureInteraction(e){if(e instanceof d.Yu.EV&&!this.fiRecorded){var t=Math.round(e.timeStamp),r={type:e.type};this.addConnectionAttributes(r),t<=(0,u.zO)()?r.fid=(0,u.zO)()-t:t>(0,u.os)()&&t<=Date.now()?(t-=(0,u.os)(),r.fid=(0,u.zO)()-t):t=(0,u.zO)(),this.fiRecorded=!0,(0,a.p)("timing",["fi",t,r],void 0,g.D.pageViewTiming,this.ee)}}}n=h,i="featureName",o=l.t,(i=function(e){var t=function(e,t){if("object"!=typeof e||null===e)return e;var r=e[Symbol.toPrimitive];if(void 0!==r){var n=r.call(e,t||"default");if("object"!=typeof n)return n;throw new TypeError("@@toPrimitive must return a primitive value.")}return("string"===t?String:Number)(e)}(e,"string");return"symbol"==typeof t?t:String(t)}(i))in n?Object.defineProperty(n,i,{value:o,enumerable:!0,configurable:!0,writable:!0}):n[i]=o},1509:(e,t,r)=>{"use strict";r.d(t,{W:()=>s});var n=r(6562),i=r(3752),o=r(2384),a=r(6797);class s{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=i.ee.get(e,(0,n.OP)(this.agentIdentifier).isolatedBacklog),this.featureName=r,this.blocked=!1,this.checkConfiguration()}checkConfiguration(){if(!(0,n.lF)(this.agentIdentifier)){let e={...(0,a.gG)().info?.jsAttributes};try{e={...e,...(0,n.C5)(this.agentIdentifier)?.jsAttributes}}catch(e){}(0,o.j)(this.agentIdentifier,{...(0,a.gG)(),info:{...(0,a.gG)().info,jsAttributes:e}})}}}},6114:(e,t,r)=>{"use strict";r.d(t,{S:()=>c});var n=r(4329),i=r(1509),o=r(2650),a=r(2374),s=r(8610);class c extends i.W{constructor(e,t,r){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.hasAggregator=!1,this.auto=i,this.abortHandler,i&&(0,n.R)(e,r)}importAggregator(){if(this.hasAggregator||!this.auto)return;this.hasAggregator=!0;const e=async()=>{try{const{lazyLoader:e}=await r.e(729).then(r.bind(r,8110)),{Aggregate:t}=await e(this.featureName,"aggregate");new t(this.agentIdentifier,this.aggregator)}catch(e){(0,s.Z)("Downloading ".concat(this.featureName," failed...")),this.abortHandler?.()}};a.v6?e():(0,o.b)((()=>e()),!0)}}},2384:(e,t,r)=>{"use strict";r.d(t,{j:()=>y});var n=r(8683),i=r.n(n),o=r(2325),a=r(6562),s=r(9252),c=r(7022),u=r(3752),d=r(2053),f=r(4329),l=r(2650),g=r(2374),p=r(8610);function h(e){["setErrorHandler","finished","addToTrace","inlineHit","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError"].forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&e.api[t](...n)}))}(t,...n)}}))}var v=r(6797);const m={stn:[o.D.sessionTrace],err:[o.D.jserrors,o.D.metrics],ins:[o.D.pageAction],spa:[o.D.spa]};const b={};function y(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},n=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:w,info:A,loader_config:E,runtime:x={loaderType:n},exposed:O=!0}=t;const T=(0,v.gG)();let S={};return A||(w=T.init,A=T.info,E=T.loader_config,S=T),g.v6&&(A.jsAttributes={...A.jsAttributes,isWorker:!0}),(0,a.CX)(e,A),(0,a.Dg)(e,w||{}),(0,a.GE)(e,E||{}),(0,a.sU)(e,x),function(e,t,n){n||(0,f.R)(e,"api"),h(t);var v=u.ee.get(e),m=v.get("tracer"),b="api-",y=b+"ixn-";function w(){}(0,c.D)(["setErrorHandler","finished","addToTrace","inlineHit","addRelease"],(function(e,r){t[r]=E(b,r,!0,"api")})),t.addPageAction=E(b,"addPageAction",!0,o.D.pageAction),t.setCurrentRouteName=E(b,"routeName",!0,o.D.spa),t.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,a.OP)(e).customTransaction=(r||"http://custom.transaction")+t,E(b,"setPageViewName",!0,"api")()},t.setCustomAttribute=function(t,r){const n=(0,a.C5)(e);return(0,a.CX)(e,{...n,jsAttributes:{...n.jsAttributes,[t]:r}}),E(b,"setCustomAttribute",!0,"api")()},t.interaction=function(){return(new w).get()};var A=w.prototype={createTracer:function(e,t){var r={},n=this,i="function"==typeof t;return(0,s.p)(y+"tracer",[(0,d.zO)(),e,r],n,o.D.spa,v),function(){if(m.emit((i?"":"no-")+"fn-start",[(0,d.zO)(),n,i],r),i)try{return t.apply(this,arguments)}catch(e){throw m.emit("fn-err",[arguments,this,"string"==typeof e?new Error(e):e],r),e}finally{m.emit("fn-end",[(0,d.zO)()],r)}}}};function E(e,t,r,n){return function(){return(0,s.p)("record-supportability",["API/"+t+"/called"],void 0,o.D.metrics,v),(0,s.p)(e+t,[(0,d.zO)()].concat(i()(arguments)),r?null:this,n,v),r?void 0:this}}function x(){r.e(439).then(r.bind(r,5692)).then((t=>{let{setAPI:r}=t;r(e),(0,f.L)(e,"api")})).catch((()=>(0,p.Z)("Downloading runtime APIs failed...")))}(0,c.D)("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),(function(e,t){A[t]=E(y,t,void 0,o.D.spa)})),t.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,s.p)("record-supportability",["API/noticeError/called"],void 0,o.D.metrics,v),(0,s.p)("err",[e,(0,d.zO)(),!1,t],void 0,o.D.jserrors,v)},g.v6?x():(0,l.b)((()=>x()),!0)}(e,S,y),(0,v.Qy)(e,T,"api"),(0,v.Qy)(e,O,"exposed"),g.v6||((0,v.EZ)("activatedFeatures",b),(0,v.EZ)("setToken",(t=>function(e,t){var r=u.ee.get(t);e&&"object"==typeof e&&((0,c.D)(e,(function(e,t){if(!t)return(m[e]||[]).forEach((t=>{(0,s.p)("block-"+e,[],void 0,t,r)}));b[e]||((0,s.p)("feat-"+e,[],void 0,m[e],r),b[e]=!0)})),(0,f.L)(t,o.D.pageViewEvent))}(t,e)))),S}},909:(e,t,r)=>{"use strict";r.d(t,{Z:()=>i,q:()=>o});var n=r(2325);function i(e){switch(e){case n.D.ajax:return[n.D.jserrors];case n.D.sessionTrace:return[n.D.ajax,n.D.pageViewEvent];case n.D.pageViewTiming:return[n.D.pageViewEvent];default:return[]}}function o(e){return e===n.D.jserrors?[]:["auto"]}},2325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8}},8683:e=>{e.exports=function(e,t,r){t||(t=0),void 0===r&&(r=e?e.length:0);for(var n=-1,i=r-t||0,o=Array(i<0?0:i);++n<i;)o[n]=e[t+n];return o}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.n=e=>{var t=e&&e.__esModule?()=>e.default:()=>e;return i.d(t,{a:t}),t},i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>(({78:"page_action-aggregate",147:"metrics-aggregate",193:"session_trace-aggregate",225:"ajax-instrument",317:"jserrors-aggregate",348:"page_view_timing-aggregate",439:"async-api",578:"jserrors-instrument",729:"lazy-loader",757:"session_trace-instrument",786:"page_view_event-aggregate",873:"spa-aggregate",876:"spa-instrument",898:"ajax-aggregate",908:"page_action-instrument"}[e]||e)+"."+{78:"92657d87",118:"34a59fa6",147:"7dcaee1b",193:"401d5d17",225:"25fe7245",264:"bcaf68fc",317:"d078b949",348:"6b3fec7f",439:"6bb277af",578:"c8f23c89",729:"48127245",757:"98d3280d",786:"29613e65",873:"58d1fc78",876:"364406a9",898:"178bdaa3",908:"64360627"}[e]+"-1226.min.js"),i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var f=u[d];if(f.getAttribute("src")==r||f.getAttribute("data-webpack")==t+o){s=f;break}}s||(c=!0,(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r),e[r]=[n];var l=(t,n)=>{s.onerror=s.onload=null,clearTimeout(g);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},g=setTimeout(l.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=l.bind(null,s.onerror),s.onload=l.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={831:0,744:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,u=0;if(a.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=window.webpackChunkNRBA=window.webpackChunkNRBA||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})();var o={};(()=>{"use strict";i.r(o);var e=i(2325),t=i(6562);const r=Object.values(e.D);function n(e){const n={};return r.forEach((r=>{n[r]=function(e,r){return!1!==(0,t.Mt)(r,"".concat(e,".enabled"))}(r,e)})),n}var a=i(2384),s=i(909),c=i(9557),u=i(7022);class d extends c.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var o=this.getBucket(e,t,r,i);return o.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,u.D)(e,(function(e,r){t[e]=f(r,t[e])})),t}(n,o.metrics),o}merge(e,t,r,n,i){var o=this.getBucket(e,t,n,i);if(o.metrics){var a=o.metrics;a.count+=r.count,(0,u.D)(r,(function(e,t){if("count"!==e){var n=a[e],i=r[e];i&&!i.c?a[e]=f(i.t,n):a[e]=function(e,t){if(!t)return e;t.c||(t=l(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,a[e])}}))}else o.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=f(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=g(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function f(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=l(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function l(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function g(e){return"object"!=typeof e?[]:(0,u.D)(e,p)}function p(e,t){return t}var h=i(6797),v=i(5526),m=i(8610);var b=i(5637),y=i(7817),w=i(600);new class{constructor(t){let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,v.ky)(16);this.agentIdentifier=r,this.sharedAggregator=new d({agentIdentifier:this.agentIdentifier}),this.features={},this.desiredFeatures=t.features||[],this.desiredFeatures.sort(((t,r)=>e.p[t.featureName]-e.p[r.featureName])),Object.assign(this,(0,a.j)(this.agentIdentifier,t,t.loaderType||"agent")),this.start()}get config(){return{info:(0,t.C5)(this.agentIdentifier),init:(0,t.P_)(this.agentIdentifier),loader_config:(0,t.DL)(this.agentIdentifier),runtime:(0,t.OP)(this.agentIdentifier)}}start(){const e="features";try{const t=n(this.agentIdentifier);this.desiredFeatures.forEach((e=>{if(t[e.featureName]){const r=(0,s.Z)(e.featureName);r.every((e=>t[e]))||(0,m.Z)("".concat(e.featureName," is enabled but one or more dependent features has been disabled (").concat(JSON.stringify(r),"). This may cause unintended consequences or missing data...")),this.features[e.featureName]=new e(this.agentIdentifier,this.sharedAggregator)}})),(0,h.Qy)(this.agentIdentifier,this.features,e)}catch(t){(0,m.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,h.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.[e],delete this.sharedAggregator,delete r.ee?.get(this.agentIdentifier),!1}}}({features:[b.Instrument,y.Instrument,w.Instrument],loaderType:"lite"})})(),window.NRBA=o})();</script>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="on" name="twitter:widgets:csp"/>
+<!--[if IE]><![endif]-->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta about="/library/mises-daily-articles" content="Mises Daily Articles" property="rdfs:label skos:prefLabel" typeof="skos:Concept">
+<link href="https://mises.org/sites/all/themes/bootsass/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<meta content="Once you understand the details of modern central banking, you are able to step back and see that it truly is a way for the government to use the printing press to pay its bills." name="description">
+<link href="https://cdn.mises.org/styles/social_media_1200_x_1200/s3/static-page/img/4029.jpg?itok=2Sz3r3mQ" rel="image_src">
+<link href="https://mises.org/library/fed-giant-counterfeiter" rel="canonical">
+<link href="https://mises.org/node/6863" rel="shortlink">
+<meta content="tho.bishop" property="fb:admins"/>
+<meta content="jeff.deist.52" property="fb:admins"/>
+<meta content="brandon.hill.96930" property="fb:admins"/>
+<meta content="peter.g.klein" property="fb:admins"/>
+<meta content="mcmaken" property="fb:admins"/>
+<meta content="drewo3" property="fb:admins"/>
+<meta content="chad.parish.16" property="fb:admins"/>
+<meta content="mark.thornton.3760" property="fb:admins"/>
+<meta content="natalie.danelishen" property="fb:admins"/>
+<meta content="floy.lilley" property="fb:admins"/>
+<meta content="wesley.downs.1" property="fb:admins"/>
+<meta content="571281026361960" property="fb:app_id"/>
+<meta content="Mises Institute" property="og:site_name"/>
+<meta content="The Fed as Giant Counterfeiter | Robert P. Murphy" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="https://mises.org/library/fed-giant-counterfeiter" property="og:url"/>
+<meta content="Once you understand the details of modern central banking, you are able to step back and see that it truly is a way for the government to use the printing press to pay its bills." property="og:description"/>
+<meta content="https://cdn.mises.org/styles/social_media_1200_x_1200/s3/static-page/img/4029.jpg?itok=2Sz3r3mQ" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="The Fed as Giant Counterfeiter" name="twitter:title"/>
+<meta content="https://mises.org/library/fed-giant-counterfeiter" name="twitter:url"/>
+<meta content="Once you understand the details of modern central banking, you are able to step back and see that it truly is a way for the government to use the printing press to pay its bills." name="twitter:description"/>
+<meta content="The Fed as Giant Counterfeiter" name="dcterms.title"/>
+<meta content="kanopiadmin" name="dcterms.creator"/>
+<meta content="2010-01-13T15:29-06:00" name="dcterms.date"/>
+<meta content="Text" name="dcterms.type"/>
+<meta content="text/html" name="dcterms.format"/>
+<meta content="https://mises.org/library/fed-giant-counterfeiter" name="dcterms.identifier"/>
+<meta content="en" name="dcterms.language"/>
+<title>The Fed as Giant Counterfeiter | Mises Institute</title>
+<link href="/sites/default/files/advagg_css/css__rVfieapq7Kt2_MTKJgAoLmOwqKcs-fIfdRDrgq0m2Gc__4reXeFptIYSt5oN_LEKe6gHhyi0-6Byec5A-cohuxzo__5W7903bDg1wNf2gR9bi-IPtYrPzNSBBu5UiagpUFUaM.css" media="all" rel="stylesheet" type="text/css">
+<!-- HTML5 element support for IE6-8 -->
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<script defer="defer" src="/sites/default/files/advagg_js/js__0xJmYYlfcMG52FbQUkEuK0bn_NveIgCszWW2icP9J2s__R17OX7LaR9dnl46bimho56xk3Q5WzoAQrk7ox4DGCLg__5W7903bDg1wNf2gR9bi-IPtYrPzNSBBu5UiagpUFUaM.js"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-588JCSW');</script>
+<!-- End Google Tag Manager -->
+</link></link></link></link></meta></link></meta></meta></head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-6863 node-type-library-item disqus-disabled i18n-en navbar-is-static-top section-library fed-giant-counterfeiter main-theme icon-mises-daily-articles Mises Daily Articles mises-daily-articles">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-588JCSW" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="skip-link">
+<a class="element-invisible element-focusable" href="#main-content">Skip to main content</a>
+</div>
+<header class="header">
+<div class="navbar-header">
+<div class="container"> <a class="logo navbar-btn pull-left" href="/" title="Home">
+<img alt="Home" class="img-responsive" src="https://cdn.mises.org/misesinstitute_noshield.svg"/>
+</a>
+</div> </div>
+<div class="navbar navbar-static-top navbar-inverse" id="navbar" role="banner">
+<div class="container">
+<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+<button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div class="navbar-collapse collapse">
+<nav role="navigation">
+<ul class="menu nav navbar-nav"><li class="first leaf"><a href="/power-market">Blog</a></li>
+<li class="leaf"><a href="/wire">Mises Wire</a></li>
+<li class="leaf"><a class="library" href="/books-library">Books</a></li>
+<li class="leaf"><a href="/library/audio-video">Podcast</a></li>
+<li class="leaf"><a href="https://www.youtube.com/user/misesmedia">Video</a></li>
+<li class="leaf"><a href="/events">Events</a></li>
+<li class="leaf"><a href="/begin">Beginners</a></li>
+<li class="leaf"><a href="https://econ4business.com/?utm_source=mises_homepage&amp;utm_medium=main_menu&amp;utm_campaign=mises_e4b_main_menu_referral">E4B</a></li>
+<li class="last leaf"><a href="/edu">Graduate Program</a></li>
+</ul> <div class="region region-navigation">
+<section class="block block-mises-utility clearfix" id="block-mises-utility-mises-language-switcher">
+<ul class="links"><li class="0 first last"><span class="language-link locale-untranslated" xml:lang="es">Ver en Español</span></li>
+</ul>
+</section> <!-- /.block -->
+<section class="block block-views clearfix" id="block-views-social-media-displays-block-3">
+<h2 class="block-title">Stay Connected</h2>
+<div class="view view-social-media-displays view-id-social_media_displays view-display-id-block_3 social-media-menu view-dom-id-9bad2d6c25bfb69a33b15dda4df50acc">
+<div class="view-header">
+<a href="https://store.mises.org" rel="noopener noreferrer" target="_blank"><svg class="icon mises-store"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#store"></use></svg> <span>Mises Store</span>
+</a> </div>
+<div class="view-content">
+<div>
+<a href="https://facebook.com/mises.institute" rel="noreferrer" target="_blank"><svg class="icon facebook"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#facebook-f"></use></svg>
+<span class="hidden">Mises facebook-f</span>
+</a> </div>
+<div>
+<a href="https://twitter.com/mises" rel="noreferrer" target="_blank"><svg class="icon twitter"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#twitter"></use></svg>
+<span class="hidden">Mises twitter</span>
+</a> </div>
+<div>
+<a href="https://instagram.com/misesinstitute" rel="noreferrer" target="_blank"><svg class="icon instagram"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#instagram"></use></svg>
+<span class="hidden">Mises instagram</span>
+</a> </div>
+<div>
+<a href="https://podcasts.apple.com/us/artist/mises-institute/1280664810" rel="noreferrer" target="_blank"><svg class="icon itunes"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#podcast"></use></svg>
+<span class="hidden">Mises podcast</span>
+</a> </div>
+<div>
+<a href="https://youtube.com/user/misesmedia" rel="noreferrer" target="_blank"><svg class="icon youtube"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#youtube"></use></svg>
+<span class="hidden">Mises youtube</span>
+</a> </div>
+<div>
+<a href="https://mises.org/feed/blog.rss" rel="noreferrer" target="_blank"><svg class="icon rss-feed"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#rss"></use></svg>
+<span class="hidden">Mises rss</span>
+</a> </div>
+</div>
+</div>
+</section> <!-- /.block -->
+<section class="block block-mises-utility clearfix" id="block-mises-utility-mises-search">
+<form accept-charset="UTF-8" action="/library/fed-giant-counterfeiter" id="mises-utility-mises-search-form" method="post"><div><div class="form-type-textfield form-item-search form-item form-group">
+<input class="form-control form-control form-text" id="edit-search" maxlength="128" name="search" placeholder="Search Mises.org" size="60" type="text" value=""/>
+</div>
+<button class="btn btn-default form-submit" id="edit-submit" name="op" type="submit" value="GO">GO</button>
+<input name="form_build_id" type="hidden" value="form-Wt5GKCE6WKR2ibziFwqPOdE5Gw0n3p4zWBoyLk9NDZM"/>
+<input name="form_id" type="hidden" value="mises_utility_mises_search_form"/>
+</div></form>
+</section> <!-- /.block -->
+<section class="block block-views clearfix" id="block-views-flex-blocks-block-4">
+<div class="view view-flex-blocks view-id-flex_blocks view-display-id-block_4 view-dom-id-3c002cee44c77f2cb88c7d3c9fe0ba03">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-nothing"> <span class="field-content"><a href="https://mises.org/giving/now"><span class="flex-title">SUPPORT MISES</span>
+<span class="flex-teaser"><p>JOIN OR RENEW TODAY</p>
+</span><i><svg class="icon chevron-right"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#chevron-right"></use></svg></i></a></span> </div> </div>
+</div>
+</div>
+</section> <!-- /.block -->
+</div>
+</nav>
+</div>
+</div>
+</div> <div class="hidden-sm hidden-md hidden-lg mobile-header-bottom">
+<div class="region region-mobile-header-bottom">
+<section class="block block-views clearfix" id="block-views-flex-blocks-block-26">
+<div class="view view-flex-blocks view-id-flex_blocks view-display-id-block_26 view-dom-id-5e36eaab23d8e08b1e80d88ead76c88e">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-nothing"> <span class="field-content"><a href="https://mises.org/giving/now"><span class="flex-title">SUPPORT MISES</span>
+<span class="flex-teaser"><p>JOIN OR RENEW TODAY</p>
+</span>
+<i class="fas fa-chevron-right"></i><i><svg class="icon chevron-right"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#chevron-right"></use></svg></i></a></span> </div> </div>
+</div>
+</div>
+</section> <!-- /.block -->
+</div>
+</div>
+
+</header>
+<div class="main-container">
+<div class="container">
+<div class="row">
+<section class="col-sm-8">
+<div class="main-content" id="main-content">
+<h1 class="page-header pull-left add-this-header">Mises Daily Articles</h1>
+<div class="add-this-widget pull-right"><a class="subscribe" href="/about-mises/subscribe"><span class="glyphicon glyphicon-envelope"></span>GET NEWS AND ARTICLES IN YOUR INBOX</a><a class="printer-link" href="/print/6863" target="_blank" title="Print"><span class="glyphicon glyphicon-print hide-text">Print</span></a><div id="text-resizer">
+<div class="btn btn-white btn-xs small active">A</div>
+<div class="btn btn-white btn-xs large">A</div>
+</div></div>
+<div class="clearfix"></div>
+<div class="region region-content">
+<section class="block block-system clearfix" id="block-system-main">
+<div about="/library/fed-giant-counterfeiter" class="ds-1col node node-library-item view-mode-full clearfix" typeof="schema:Library sioc:Item foaf:Document">
+<div class="easy-breadcrumb" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+<span itemprop="title"><a class="easy-breadcrumb_segment easy-breadcrumb_segment-front" href="/">Home</a></span> <span class="easy-breadcrumb_segment-separator">|</span>
+<span itemprop="title"><a class="easy-breadcrumb_segment easy-breadcrumb_segment-1" href="/library">Mises Library</a></span> <span class="easy-breadcrumb_segment-separator">|</span>
+<span class="easy-breadcrumb_segment easy-breadcrumb_segment-title" itemprop="title">The Fed as Giant Counterfeiter</span> </div>
+<h2 class="page-title">The Fed as Giant Counterfeiter</h2><div class="group-image-wrapper field-group-html-element pull-left" id="slideshow"><div class="image border-secondary"><div class="media media--loading media--image"><img alt="" class="media__element b-lazy" data-src="https://cdn.mises.org/styles/slideshow/s3/static-page/img/4029.jpg?itok=dZNC32pV" height="" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" title="" typeof="foaf:Image" width="480"/></div></div><div class="ga-counter-display"></div>
+</div><p class="tags"><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+<html><body><span class="tag-label bold">Tags</span>
+</body></html>
+<span><a href="/topics/fed">The Fed</a></span><span><a href="/topics/money-and-banks">Money and Banks</a></span><span><a href="/topics/us-economy">U.S. Economy</a></span><span><a href="/austrian-school/interventionism">Interventionism</a></span></p><section class="group-date-author"><span class="date">02/01/2010</span><span class="author"><a href="/profile/robert-p-murphy">Robert P. Murphy</a></span></section><div class="body-content"><div class="figure">San Jose State economics professor <a href="http://www.sjsu.edu/economics/faculty/jeff.hummel.htm">Jeffrey Rogers Hummel</a> tells all his students that the easiest way to understand the Federal Reserve is to think of it as a giant, legalized counterfeiter. I had always known that the Fed and other central banks were <em>like</em> counterfeiters, but I still thought that the actual mechanics of open-market operations and so forth actually provided some important distinctions.</div><p>In large part because of my frequent email exchanges with Hummel, I now realize that I was being naïve. Once you understand the details of modern central banking, you are able to step back and see that it truly is a way for the government to use the printing press to pay its bills. All of the complicated process of targeting interest rates through buying Treasuries simply hides this essential point — and perhaps deliberately so.</p><h4>An Old-Fashioned Monarch With a Printing Press</h4><p>Before we examine Fed operations, let's start with something simpler. Suppose there is a powerful monarch reigning over a large, industrialized country. The monarch has managed to wean his subjects off commodity money such as gold or silver, and instead they use fiat notes, rectangular slips of paper featuring the king's portrait. The king has a printing press at his disposal, which gives him unlimited ability to create more slips of paper with which he can buy goods throughout his kingdom.</p><p>At first, one might think that our hypothetical king has infinite wealth. But upon reflection, we see that there are actually pragmatic limits on how much new money he will print up each year. It's true that there are no <em>legal</em> constraints on how many notes he can create, but the more monetary inflation he sows, the greater the price inflation he will reap.</p><p>At some point, the monarch would actually make himself poorer in the long run by running the printing press too heavily in the present. For example, if he doubled the stock of money in one year, the resulting price inflation would destabilize his economy and cause much needless capital consumption. His subjects would be less willing to invest in their businesses and retirement portfolios, knowing that he might effectively confiscate their savings again through massive creation of new money. Foreign investors too would be wary of exposing themselves to his country if he made his fiat currency too volatile.</p><p>Because of these considerations, the monarch would no doubt run off new money every year from his printing press, but he wouldn't overdo it. He would aim for a moderate level of constant price inflation, with the purchasing power of his fiat currency slowly falling over time in a predictable manner. Each year, the new influx of money into the economy would represent a transfer of wealth from all other currency holders into the king's possession.</p><p>Now what if our monarch is <em>really</em> profligate? What if he wants to spend more money than the income and tribute he earns in his position as monarch, even including the amount of new money he dares to create each year with his printing press, can support? In this case, the monarch can still resort to old-fashioned borrowing. Therefore in any given year, the monarch can only spend what he collects in tribute (taxes), debt financing, and inflation.</p><h4>Modern Counterfeiting, Fed Style</h4><p>At first glance, our present monetary system is nothing like the simple tale of a king with a printing press. For one thing, the US Treasury is a distinct entity from the Federal Reserve. When the US federal government runs a budget deficit, it can't simply have the Fed print up enough $100 bills to cover the shortfall. No, the Treasury <em>always</em> covers its budget deficits by issuing debt, referred to as Treasuries. These are bonds, IOUs sold by the Treasury to outside investors who lend the Treasury money today in the hopes of being paid back in the future.</p><p>But wait, there's more to the story. One of the main <em>buyers</em> of this Treasury debt is the Federal Reserve itself. This phenomenon is especially pronounced during emergencies such as major wars and the current financial crisis. Indeed, in the second quarter of 2009, the Federal Reserve was the effective buyer of some <a href="http://consultingbyrpm.com/blog/2009/12/is-fed-monetizing-debt.html">48 percent of the new Treasury debt</a> issued that period, as part of its "quantitative easing." It's true, the Fed doesn't show up at the Treasury auctions and <em>directly</em> buy the new T-bills and so forth, but private dealers pay higher prices for the Treasuries knowing that the Fed is waiting in the wings to pick them up.</p><p>At this point let's review exactly what happens when the Federal Reserve buys Treasuries from private dealers. Let's say the Fed wants to buy $1 million worth of T-bills from Joe Smith. So it writes Joe a check for $1 million, drawn on the Fed itself. Joe hands the T-bills over to the Fed, where they end up on the asset side of its balance sheet. Joe then deposits the check in his personal checking account, which goes up by $1 million.</p><div class="bigger pullquote">"If nothing else, the Fed's massive buying of Treasury debt pushes up the auction price of the Treasuries, meaning the federal government can borrow at cheaper interest rates."</div><p>So at this point the Fed has increased the money supply by $1 million. In normal times, because of the fractional-reserve banking system, Joe's bank would lend out $900,000 of the new deposit to another customer, so that the money supply would grow even further. But that's not what interests us in this article, so we'll leave that train of thought.</p><p>What we want to focus on is the effect of the Fed's purchase on the US Treasury. By entering the bond market and buying Treasuries (with money created out of thin air), the Fed pushes up the <em>price</em> of the bonds. That of course means that their yield drops. So, for example, if the Treasury issues a T-bill promising to pay the holder $10,000 in 12 months, then the auction price determines how much money the Treasury actually gets to borrow now in exchange for this promise to pay back $10,000 in one year. If the demand is such that people pay $9,901 for each T-bill with a face value of $10,000, then the Treasury gets to borrow money for a year at an interest rate of 1 percent.</p><p>Already we see why the folks at the Treasury are big fans of the Fed's "quantitative easing" program, in which Bernanke decided it was in the national interest to begin adding more than a trillion dollars' worth of Treasury debt to the Fed's balance sheet. If nothing else, the Fed's massive buying of Treasury debt pushes up the auction price of the Treasuries, meaning the federal government can borrow at cheaper interest rates.</p><p>Now, if this were the whole story, it would be fishy but not nearly as bad as our hypothetical monarch with the printing press. Sure, the Fed would create new dollars (which would push up dollar prices of goods and services) in order to keep the Treasury's borrowing costs low. But still, the Treasury would have to pay <em>some</em> interest on its debt, especially for longer-dated debt with higher yields, like 10-year Treasury notes. So although the mechanism we have described would encourage the Treasury to run higher deficits at the expense of average people, who suffer from rising prices, things don't seem nearly as crooked as they were in the case of our monarch.</p><p>Ah, but we're not done yet. Not only does the Fed's accumulation of Treasury debt artificially push down the interest rate, but the Fed gives the interest payments right back to the Treasury! After all, interest is how the Fed "makes money." It writes checks on itself (created out of thin air) and accumulates assets, and then earns the interest and (in some cases) capital gains on the assets. But after the Fed pays its employees, pays its electric bill, and throws the staff Christmas party, it <em>remits the excess earnings back to the Treasury</em>.</p><p>For example, in fiscal year 2008 the Federal Reserve distributed to the US Treasury some $31.7 billion (page 173)<a href="http://www.federalreserve.gov/boarddocs/rptcongress/annual08/pdf/AR08.pdf"><img alt="Download PDF" border="0" src="http://images.mises.org/icons/pdf.png"/></a> of its net earnings. To repeat, much of this money consisted of interest payments that the Treasury paid out to the holders of its debt, who just so happened to be the Fed for much of it. So not only is the official rate of interest kept artificially low by the Fed's money-creation, but the interest payments themselves are largely <em>refunded</em> to the Treasury, to the extent that the Fed ends up holding the Treasuries rather than outsiders.</p><div class="bigger pullquote">"But after the Fed pays its employees, pays its electric bill, and throws the staff Christmas party, it <em>remits the excess earnings back to the Treasury</em>."</div><p>All right, so the Fed (a) suppresses the interest rate on Treasury debt and (b) refunds virtually all of the interest payments on Treasury debt held by the Fed. And remember, the way the Fed does this is through creating new dollars out of thin air, in order to buy the Treasury debt from the original investors who lent money to the Treasury. Therefore the Fed is clearly giving aid to the US government's deficit spending at the expense of everyone holding assets denominated in US dollars.</p><p>Still, the one thing holding back the complete recklessness of the feds is that they still have to pay off the <em>principal</em> of their bonds when they mature, right? In other words, all we've really shown is that the Fed allows the Treasury to run deficits virtually at zero interest expense, at least for debt held by the Fed. But this is still a far cry from our hypothetical monarch, who had a whole <em>component</em> of his expenses which he met year in and year out by running the printing press.</p><p>Sorry, but our own monetary system has the same feature. When the Treasury securities held by the Fed mature — so that the Treasury has to pay back the face value in principal — the Fed <em>rolls over</em> the debt. Over time, the nominal market value of the Fed's holdings of Treasury debt continually grows. Barring a sudden reversal in this policy, the Treasury knows that it will <em>never have to pay off this debt</em>. For all practical purposes, any Treasury debt ultimately finding its way onto the Fed's balance sheet is <em>economically equivalent</em> to our monarch running the printing press to pay his bills.<a class="see-footnote" href="#footnote1_x0e54wr" id="footnoteref1_x0e54wr" title="Actually, because private banks typically cause further money creation by pyramiding more loans on top of the Fed's initial injection of new money, our financial system is arguably worse than the hypothetical monarch's. In order for the king to finance a $1 billion deficit through inflation, he had to print up $1 billion worth of new currency. But if the Fed creates $1 billion in order to absorb that much in new Treasury debt, typically the actual money supply can end up rising by $10 billion. Thus modern inflation through central banking in democratic states is arguably less &quot;efficient&quot; than under a monarchy with an explicit printing press. ">1</a></p><p>We have just one last consideration. Up till now we've seen that the modern US government, with its complicated central bank and fiat money system, operates essentially as a king with a simple printing press, to the extent that the Fed is willing to accumulate larger holdings of Treasury debt. But what determines how much the Fed is willing to take on? At what point would the Fed decide to ease off on its open-market operations and stop creating so many new dollars to (indirectly) hand over to the government?</p><p>The ultimate constraint on the Fed's operations is the same one our hypothetical king faced: investor and citizen backlash in response to rising prices. That is, the Federal Reserve can only absorb so much of the Treasury's new debt each year because too much dollar-creation would lead to unacceptably high price inflation. Thus our profligate government, like the hypothetical monarch, must finance some of its spending through traditional borrowing from private citizens and other governments.</p><h4>Conclusion</h4><p>Stripped of its fancy terminology and confusing mechanics, modern central banking boils down to a legalized counterfeiting operation. If there were suddenly a widespread public outcry to "punt the press," we can bet our hypothetical monarch would mobilize all his allies in the media to discredit the people threatening his source of revenue. In that light, we can understand the reaction today to people calling to "end the Fed."</p>
+<ul class="footnotes"><li class="footnote" id="footnote1_x0e54wr"><a class="footnote-label" href="#footnoteref1_x0e54wr">1.</a> <div>Actually, because private banks typically cause further money creation by pyramiding more loans on top of the Fed's initial injection of new money, our financial system is arguably <em>worse</em> than the hypothetical monarch's. In order for the king to finance a $1 billion deficit through inflation, he had to print up $1 billion worth of new currency. But if the Fed creates $1 billion in order to absorb that much in new Treasury debt, typically the actual money supply can end up rising by $10 billion. Thus modern inflation through central banking in democratic states is arguably less "efficient" than under a monarchy with an explicit printing press.</div> </li>
+</ul>
+</div><div class="view view-term-landing view-id-term_landing view-display-id-author_box audience author-box view-dom-id-52d098bd3f246c575d84a3aaf3174533">
+<div class="view-header">
+      Author:    </div>
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div about="/profile/robert-p-murphy" class="ds-2col-custom-fluid column node node-person-profile view-mode-author_box clearfix" typeof="schema:Person sioc:Item foaf:Document">
+<div class="panel-body">
+<div class="group-top col-xs-12">
+<p class="author-box__name"><a href="mailto:bobmurphy@mises.com" rel="nofollow" target="_blank">Contact Robert P. Murphy</a></p><p>Robert P. Murphy is a Senior Fellow with the Mises Institute. He is the author of numerous books: <em><a href="http://contrakrugmanbook.com/" target="_blank">Contra Krugman: Smashing the Errors of America's Most Famous Keynesian</a>; </em><a href="https://mises.org/library/chaos-theory"><em>Chaos Theory</em></a>; <a href="https://mises.org/library/lessons-young-economist"><em>Lessons for the Young Economist</em></a>; <a href="https://www.amazon.com/Choice-Cooperation-Enterprise-Human-Action-ebook/dp/B01228F4OE?tag=misesinsti-20"><em>Choice: Cooperation, Enterprise, and Human Action</em></a>; <em>The Politically Incorrect Guide to Capitalism; Understanding Bitcoin</em> (with Silas Barta), among others. He is also host of <em><a href="http://mises.org/BobMurphyShow" target="_blank">The Bob Murphy Show</a></em>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="clearfix"><div class="group-sharing" id="group-sharing">
+<div class="copyright pull-right"><a class="cc-large" href="//creativecommons.org/licences/by-nc-nd/4.0/" target="_blank"><img alt="Creative Commons Licence" height="31px" loading="lazy" src="//i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" typeof="foaf:Image" width="88px"/></a>
+</div>
+<div class="print-social pull-left">
+   
+</div>
+<div class="support-mises-badge">
+</div>
+</div>
+</div><div class="view view-image-source view-id-image_source view-display-id-block view-dom-id-d1ee892d0c7d8af6221eba2b1f569296">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+</div>
+</div>
+</div><div class="read-comments text-center">
+<a class="comments" data-domain="misesinstitute" data-identifier="node/6863" data-url="https://mises.org/library/fed-giant-counterfeiter">Load Comments</a>
+</div></div>
+</section> <!-- /.block -->
+</div>
+<!--<div class="shield"><div class="icon"></div></div>-->
+<div class="shield">
+<svg class="icon"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#library"></use></svg>
+</div>
+</div>
+</section>
+<aside class="col-sm-4 sidebar" role="complementary">
+<div class="region region-sidebar-second-top">
+<section class="block block-views clearfix" id="block-views-flex-blocks-block-11">
+<div class="view view-flex-blocks view-id-flex_blocks view-display-id-block_11 view-dom-id-ad4cea95d1b11629a4a194a48a6f80a7">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div about="/flex/mises-daily-description-sidebar" class="ds-1col node node-flex-block view-mode-sidebar_teaser panel clearfix" typeof="sioc:Item foaf:Document">
+<h3>What Is the Mises Daily</h3><p>The <em>Mises Daily</em> articles are short and relevant and written from the perspective of an unfettered free market and Austrian economics. Written for a broad audience of laymen and students, the <em>Mises Daily</em> features a wide variety of topics including everything from the history of the state, to international trade, to drug prohibition, and business cycles.</p>
+<p>Articles are published under the Creative Commons Attribution-NonCommerical-NoDerivs (CC BY-NC-ND) unless otherwise stated in the article.</p>
+<p><a class="rss-link" href="http://feeds.feedburner.com/MisesDailyArticles"></a></p>
+</div>
+</div>
+</div>
+</div>
+</section> <!-- /.block -->
+</div>
+</aside> <!-- /#sidebar-second -->
+</div>
+</div>
+<div class="content-bottom">
+<div class="container">
+<div class="row">
+</div>
+</div>
+</div>
+</div>
+<div class="menu-footer">
+<div class="container">
+<div class="row">
+<div class="col-xs-6">
+<div class="region region-menu-footer-one">
+<section class="block block-views clearfix" id="block-views-menu-footer-blocks-block">
+<h2 class="block-title">Topics</h2>
+<div class="view view-menu-footer-blocks view-id-menu_footer_blocks view-display-id-block view-dom-id-2feee2bacc0be80a77fa3d444b39c316">
+<div class="view-content">
+<ul class="menu nav"> <li class="">
+<a href="/topics/anarchy">Anarchy</a> </li>
+<li class="">
+<a href="/topics/antipolitics">Antipolitics</a> </li>
+<li class="">
+<a href="/topics/big-government">Big Government</a> </li>
+<li class="">
+<a href="/topics/biographies">Biographies</a> </li>
+<li class="">
+<a href="/topics/bitcoin">Bitcoin</a> </li>
+<li class="">
+<a href="/topics/book-reviews">Book Reviews</a> </li>
+<li class="">
+<a href="/topics/booms-and-busts">Booms and Busts</a> </li>
+<li class="">
+<a href="/topics/bureaucracy-and-regulation">Bureaucracy and Regulation</a> </li>
+<li class="">
+<a href="/topics/capitalism">Capitalism</a> </li>
+<li class="">
+<a href="/topics/central-banks">Central Banks</a> </li>
+<li class="">
+<a href="/topics/coordination">Coordination</a> </li>
+<li class="">
+<a href="/topics/corporate-welfare">Corporate Welfare</a> </li>
+<li class="">
+<a href="/topics/cronyism-and-corporatism">Cronyism and Corporatism</a> </li>
+<li class="">
+<a href="/topics/decentralization-and-secession">Decentralization and Secession</a> </li>
+<li class="">
+<a href="/topics/democracy">Democracy</a> </li>
+<li class="">
+<a href="/topics/economic-freedom">Economic Freedom</a> </li>
+<li class="">
+<a href="/topics/economic-policy">Economic Policy</a> </li>
+<li class="">
+<a href="/topics/education">Education</a> </li>
+<li class="">
+<a href="/topics/europe">Europe</a> </li>
+<li class="">
+<a href="/topics/fed-watch">Fed Watch</a> </li>
+<li class="">
+<a href="/topics/financial-markets">Financial Markets</a> </li>
+<li class="">
+<a href="/topics/free-markets">Free Markets</a> </li>
+<li class="">
+<a href="/topics/archives">From the Archives</a> </li>
+<li class="">
+<a href="/topics/global-economy">Global Economy</a> </li>
+<li class="">
+<a href="/topics/hayek">Hayek</a> </li>
+<li class="">
+<a href="/topics/health">Health</a> </li>
+<li class="">
+<a href="/topics/immigration">Immigration</a> </li>
+<li class="">
+<a href="/topics/inflation">Inflation</a> </li>
+<li class="">
+<a href="/topics/interviews">Interviews</a> </li>
+<li class="">
+<a href="/topics/japan">Japan</a> </li>
+<li class="">
+<a href="/topics/keynes">Keynes</a> </li>
+<li class="">
+<a href="/topics/labor-and-wages">Labor and Wages</a> </li>
+<li class="">
+<a href="/topics/language">Language</a> </li>
+<li class="">
+<a href="/topics/law">Law</a> </li>
+<li class="">
+<a href="/topics/legal-system">Legal System</a> </li>
+<li class="">
+<a href="/topics/liberalism">Liberalism</a> </li>
+<li class="">
+<a href="/topics/libertarianism">Libertarianism</a> </li>
+<li class="">
+<a href="/topics/macroeconomics">Macroeconomics</a> </li>
+<li class="">
+<a href="/topics/majority-rule">Majority Rule</a> </li>
+<li class="">
+<a href="/topics/media-and-culture">Media and Culture</a> </li>
+<li class="">
+<a href="/topics/minarchy">Minarchy</a> </li>
+<li class="">
+<a href="/topics/monetary-policy">Monetary Policy</a> </li>
+<li class="">
+<a href="/topics/money-and-banks">Money and Banks</a> </li>
+<li class="">
+<a href="/topics/old-right">Old Right</a> </li>
+<li class="">
+<a href="/topics/paternalism">Paternalism</a> </li>
+<li class="">
+<a href="/topics/philosophy">Philosophy</a> </li>
+<li class="">
+<a href="/topics/planning">Planning</a> </li>
+<li class="">
+<a href="/topics/politics">Politics</a> </li>
+<li class="">
+<a href="/topics/poverty">Poverty</a> </li>
+<li class="">
+<a href="/topics/price-controls">Price Controls</a> </li>
+<li class="">
+<a href="/topics/progressivism">Progressivism</a> </li>
+<li class="">
+<a href="/topics/property-rights">Property Rights</a> </li>
+<li class="">
+<a href="/topics/protectionism-and-free-trade">Protectionism and Free Trade</a> </li>
+<li class="">
+<a href="/topics/rationalism">Rationalism</a> </li>
+<li class="">
+<a href="/topics/secession">Secession</a> </li>
+<li class="">
+<a href="/topics/socialism">Socialism</a> </li>
+<li class="">
+<a href="/topics/strategy">Strategy</a> </li>
+<li class="">
+<a href="/topics/taxes-and-spending">Taxes and Spending</a> </li>
+<li class="">
+<a href="/topics/entrepreneur">The Entrepreneur</a> </li>
+<li class="">
+<a href="/topics/environment">The Environment</a> </li>
+<li class="">
+<a href="/topics/fed">The Fed</a> </li>
+<li class="">
+<a href="/topics/police-state">The Police State</a> </li>
+<li class="">
+<a href="/topics/us-economy">U.S. Economy</a> </li>
+<li class="">
+<a href="/topics/us-history">U.S. History</a> </li>
+<li class="">
+<a href="/topics/unemployment">Unemployment</a> </li>
+<li class="">
+<a href="/topics/war-and-foreign-policy">War and Foreign Policy</a> </li>
+<li class="">
+<a href="/topics/world-history">World History</a> </li>
+</ul> </div>
+</div>
+</section> <!-- /.block -->
+</div>
+</div>
+<div class="col-xs-6">
+<div class="region region-menu-footer-two">
+<section class="block block-views clearfix" id="block-views-menu-footer-blocks-block-1">
+<h2 class="block-title">Austrian School</h2>
+<div class="view view-menu-footer-blocks view-id-menu_footer_blocks view-display-id-block_1 view-dom-id-1423541485fa93dbe02bd96b33a3c44e">
+<div class="view-content">
+<ul class="menu nav"> <li class="">
+<a href="/austrian-school/austrian-economics-overview">Austrian Economics Overview</a> </li>
+<li class="">
+<a href="/austrian-school/business-cycles">Business Cycles</a> </li>
+<li class="">
+<a href="/austrian-school/calculation-and-knowledge">Calculation and Knowledge</a> </li>
+<li class="">
+<a href="/austrian-school/cantillon">Cantillon</a> </li>
+<li class="">
+<a href="/austrian-school/capital-and-interest-theory">Capital and Interest Theory</a> </li>
+<li class="">
+<a href="/austrian-school/entrepreneurship">Entrepreneurship</a> </li>
+<li class="">
+<a href="/austrian-school/fiscal-theory">Fiscal Theory</a> </li>
+<li class="">
+<a href="/austrian-school/gold-standard">Gold Standard</a> </li>
+<li class="">
+<a href="/austrian-school/history-austrian-school-economics">History of the Austrian School of Economics</a> </li>
+<li class="">
+<a href="/austrian-school/interventionism">Interventionism</a> </li>
+<li class="">
+<a href="/austrian-school/monetary-theory">Monetary Theory</a> </li>
+<li class="">
+<a href="/austrian-school/money-and-banking">Money and Banking</a> </li>
+<li class="">
+<a href="/austrian-school/money-supply">Money Supply</a> </li>
+<li class="">
+<a href="/austrian-school/monopoly-and-competition">Monopoly and Competition</a> </li>
+<li class="">
+<a href="/austrian-school/other-schools-thought">Other Schools of Thought</a> </li>
+<li class="">
+<a href="/austrian-school/philosophy-and-methodology">Philosophy and Methodology</a> </li>
+<li class="">
+<a href="/austrian-school/political-theory">Political Theory</a> </li>
+<li class="">
+<a href="/austrian-school/praxeology">Praxeology</a> </li>
+<li class="">
+<a href="/austrian-school/prices">Prices</a> </li>
+<li class="">
+<a href="/austrian-school/private-property">Private Property</a> </li>
+<li class="">
+<a href="/austrian-school/production-theory">Production Theory</a> </li>
+<li class="">
+<a href="/austrian-school/subjectivism">Subjectivism</a> </li>
+<li class="">
+<a href="/austrian-school/value-and-exchange">Value and Exchange</a> </li>
+</ul> </div>
+</div>
+</section> <!-- /.block -->
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="container">
+<div class="row">
+<div class="col-sm-6">
+<div class="row">
+<div class="col-xs-6">
+<div class="region region-footer-left">
+<section class="block block-menu clearfix" id="block-menu-menu-browse-library">
+<h2 class="block-title">Browse Library</h2>
+<ul class="menu nav"><li class="first leaf"><a href="/profile/ludwig-von-mises">Who is Ludwig von Mises?</a></li>
+<li class="leaf"><a href="/what-austrian-economics">What is the Austrian School of Economics?</a></li>
+<li class="leaf"><a href="https://qjae.scholasticahq.com/">Quarterly Journal of Austrian Economics</a></li>
+<li class="leaf"><a href="https://jls.scholasticahq.com/">Journal of Libertarian Studies</a></li>
+<li class="leaf"><a href="/library/austrian">The Austrian</a></li>
+<li class="leaf"><a href="/wire">Mises Wire</a></li>
+<li class="leaf"><a href="/library/human-action-podcast">Human Action Podcast</a></li>
+<li class="last leaf"><a href="/homeschool-resources">Homeschool Resources</a></li>
+</ul>
+</section> <!-- /.block -->
+</div>
+</div>
+<div class="col-xs-6">
+<div class="region region-footer-center">
+<section class="block block-menu clearfix" id="block-menu-menu-about-the-mises-institute">
+<h2 class="block-title">About the Mises Institute</h2>
+<ul class="menu nav"><li class="first leaf"><a href="/about-mises/fellowships">Fellowship in Residence</a></li>
+<li class="leaf"><a href="/about-mises/what-is-the-mises-Institute">What is the Mises Institute?</a></li>
+<li class="leaf"><a href="/map-and-directions-mises-institute">Driving Directions to the Institute</a></li>
+<li class="leaf"><a href="/giving/membership">Become a Member</a></li>
+<li class="leaf"><a href="/events">Mises Events</a></li>
+<li class="leaf"><a href="https://store.mises.org">Mises Bookstore</a></li>
+<li class="leaf"><a href="/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="leaf"><a href="/board-and-finance">Finances and Board</a></li>
+<li class="leaf"><a href="/about-mises/subscribe">Subscribe to Email Lists</a></li>
+<li class="leaf"><a href="/giving">Support Mises</a></li>
+<li class="leaf"><a href="/privacy-statement">Privacy Statement</a></li>
+<li class="last leaf"><a href="https://mises.org/contact">Contact Us</a></li>
+</ul>
+</section> <!-- /.block -->
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="region region-footer-right">
+<section class="block block-views clearfix" id="block-views-flex-blocks-block-2">
+<div class="view view-flex-blocks view-id-flex_blocks view-display-id-block_2 view-dom-id-7d7cc7e15b6de7c74ba75447b0f5b2fe">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div about="/flex/contact-us" class="ds-1col node node-flex-block node-teaser view-mode-teaser panel clearfix" typeof="sioc:Item foaf:Document">
+<h2><a href="/contact-us">Contact Us</a></h2>
+<address>
+Mises Institute<br/>
+518 West Magnolia Avenue<br>
+ Auburn, Alabama 36832-4501 </br></address>
+<p>PHONE <a href="tel:1-334-321-2100">334.321.2100</a>  |  FAX 334.321.2119</p>
+<p> <a href="/contact">Email Us</a></p>
+<p class="motto pull-right text-right">Tu ne cede malis,<br/>sed contra audentior ito</p>
+<p><a class="subscribe" href="/about-mises/subscribe"><span class="glyphicon glyphicon-envelope"></span> GET NEWS AND ARTICLES IN YOUR INBOX</a></p></div>
+</div>
+</div>
+</div>
+</section> <!-- /.block -->
+<section class="block block-views clearfix" id="block-views-social-media-displays-block-2">
+<h2 class="block-title">Stay Connected</h2>
+<div class="view view-social-media-displays view-id-social_media_displays view-display-id-block_2 social-media-menu view-dom-id-3a20a468323d4fea69727b908ec630c2">
+<div class="view-content">
+<div>
+<a href="https://facebook.com/mises.institute" rel="noreferrer" target="_blank"><svg class="icon facebook"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#facebook-f"></use></svg>
+<span class="hidden">Mises facebook-f</span>
+</a> </div>
+<div>
+<a href="https://twitter.com/mises" rel="noreferrer" target="_blank"><svg class="icon twitter"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#twitter"></use></svg>
+<span class="hidden">Mises twitter</span>
+</a> </div>
+<div>
+<a href="https://instagram.com/misesinstitute" rel="noreferrer" target="_blank"><svg class="icon instagram"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#instagram"></use></svg>
+<span class="hidden">Mises instagram</span>
+</a> </div>
+<div>
+<a href="https://podcasts.apple.com/us/artist/mises-institute/1280664810" rel="noreferrer" target="_blank"><svg class="icon itunes"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#podcast"></use></svg>
+<span class="hidden">Mises podcast</span>
+</a> </div>
+<div>
+<a href="https://youtube.com/user/misesmedia" rel="noreferrer" target="_blank"><svg class="icon youtube"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#youtube"></use></svg>
+<span class="hidden">Mises youtube</span>
+</a> </div>
+<div>
+<a href="https://mises.org/feed/blog.rss" rel="noreferrer" target="_blank"><svg class="icon rss-feed"><use xlink:href="/sites/all/themes/bootsass/images/spritemap.svg#rss"></use></svg>
+<span class="hidden">Mises rss</span>
+</a> </div>
+</div>
+</div>
+</section> <!-- /.block -->
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12">
+<div class="region region-footer-bottom">
+<section class="block block-views clearfix" id="block-views-flex-blocks-block-3">
+<div class="view view-flex-blocks view-id-flex_blocks view-display-id-block_3 view-dom-id-1138c32ebad94b84743b4823a10a90e4">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div about="/flex/501c3-tagline" class="ds-1col node node-flex-block node-teaser view-mode-teaser panel clearfix" typeof="sioc:Item foaf:Document">
+<p class="text-center"><strong>Website powered by Mises Institute donors</strong></p>
+<p class="text-center"><a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=6221" rel="noreferrer" target="_blank"><img alt="Mises is a 4 star charity on Charity Navigator" border="0" class="b-lazy" data-src="https://cdn.mises.org/4starBanner_234x65.png" style="margin: 0 auto; display: block;"/></a></p>
+<p class="text-center italic">Mises Institute is a tax-exempt 501(c)(3) nonprofit organization. Contributions are tax-deductible to the full extent the law allows. Tax ID# 52-1263436</p>
+</div>
+</div>
+</div>
+</div>
+</section> <!-- /.block -->
+</div>
+</div>
+</div>
+</div>
+</footer>
+<!--[if lte IE 9]>
+<script src="/sites/default/files/advagg_js/js__2Nc4cGdGNthK4CGG747IroDKc-Awjxm_Me5S5XISYPA__K4gn-LNhUfxsRTvUy2jlf5fWgord9Kfc_iUOD76VKS8__5W7903bDg1wNf2gR9bi-IPtYrPzNSBBu5UiagpUFUaM.js#ie9-" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_1() {
+  // Count how many times this function is called.
+  advagg_mod_1.count = ++advagg_mod_1.count || 1;
+  try {
+    if (advagg_mod_1.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_1.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_1.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_1, 1);
+    }
+  }
+}
+function advagg_mod_1_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_1();
+  }
+  else {
+    window.setTimeout(advagg_mod_1_check, 1);
+  }
+}
+advagg_mod_1_check();"></script>
+<![endif]-->
+<!--[if gt IE 9]>
+<script src="/sites/default/files/advagg_js/js__2Nc4cGdGNthK4CGG747IroDKc-Awjxm_Me5S5XISYPA__K4gn-LNhUfxsRTvUy2jlf5fWgord9Kfc_iUOD76VKS8__5W7903bDg1wNf2gR9bi-IPtYrPzNSBBu5UiagpUFUaM.js#ie10+" defer="defer" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_1() {
+  // Count how many times this function is called.
+  advagg_mod_1.count = ++advagg_mod_1.count || 1;
+  try {
+    if (advagg_mod_1.count <= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_1.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_1.count >= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_1, 1);
+    }
+  }
+}
+function advagg_mod_1_check() {
+  if (window.init_drupal_core_settings && window.jQuery && window.Drupal) {
+    advagg_mod_1();
+  }
+  else {
+    window.setTimeout(advagg_mod_1_check, 1);
+  }
+}
+advagg_mod_1_check();"></script>
+<![endif]-->
+<!--[if !IE]><!-->
+<script defer="defer" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);};
+function advagg_mod_1() {
+  // Count how many times this function is called.
+  advagg_mod_1.count = ++advagg_mod_1.count || 1;
+  try {
+    if (advagg_mod_1.count &lt;= 40) {
+      init_drupal_core_settings();
+
+      // Set this to 100 so that this function only runs once.
+      advagg_mod_1.count = 100;
+    }
+  }
+  catch(e) {
+    if (advagg_mod_1.count &gt;= 40) {
+      // Throw the exception if this still fails after running 40 times.
+      throw e;
+    }
+    else {
+      // Try again in 1 ms.
+      window.setTimeout(advagg_mod_1, 1);
+    }
+  }
+}
+function advagg_mod_1_check() {
+  if (window.init_drupal_core_settings &amp;&amp; window.jQuery &amp;&amp; window.Drupal) {
+    advagg_mod_1();
+  }
+  else {
+    window.setTimeout(advagg_mod_1_check, 1);
+  }
+}
+advagg_mod_1_check();" src="/sites/default/files/advagg_js/js__2Nc4cGdGNthK4CGG747IroDKc-Awjxm_Me5S5XISYPA__K4gn-LNhUfxsRTvUy2jlf5fWgord9Kfc_iUOD76VKS8__5W7903bDg1wNf2gR9bi-IPtYrPzNSBBu5UiagpUFUaM.js"></script>
+<!--<![endif]-->
+<script defer="defer" src="/sites/default/files/advagg_js/js__NVcKzi9exaSrgvMjuIhWla26raBzXxb09tE9gPLGiYw__HqCE_rkkaklb8MsdQxV4kACBMIKt-uf-drqVORQFG_Q__5W7903bDg1wNf2gR9bi-IPtYrPzNSBBu5UiagpUFUaM.js"></script>
+<script defer="defer" src="/sites/default/files/advagg_js/js__hDteFiDYt-DIgeZjJPJs6StHLSSAY24ClkDO3D8GcqQ__1oYnD1eZmh512vxT2oQSwhkFqunXvyzTL8_wWTim2tU__5W7903bDg1wNf2gR9bi-IPtYrPzNSBBu5UiagpUFUaM.js"></script>
+<script>function init_drupal_core_settings() {jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"bootsass","theme_token":"xLI9bqMomGMLQ5m1usbuBM5Y1H3SVWUFLmzjYD_4AsU"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"custom_search":{"form_target":"_self","solr":1},"better_exposed_filters":{"views":{"term_landing":{"displays":{"author_box":{"filters":[]}}},"image_source":{"displays":{"block":{"filters":[]}}},"social_media_displays":{"displays":{"block_3":{"filters":[]},"block_2":{"filters":[]}}},"flex_blocks":{"displays":{"block_4":{"filters":[]},"block":{"filters":[]},"block_1":{"filters":[]},"block_26":{"filters":[]},"block_11":{"filters":[]},"block_9":{"filters":[]},"block_2":{"filters":[]},"block_3":{"filters":[]}}},"flex_blocks_node_specific":{"displays":{"block_8":{"filters":[]},"block_7":{"filters":[]},"block_1":{"filters":[]},"block_2":{"filters":[]},"block_20":{"filters":[]},"block_19":{"filters":[]}}},"menu_footer_blocks":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]}}}}},"disqusComments":"misesinstitute","disqus":{"domain":"misesinstitute","url":"https:\/\/mises.org\/library\/fed-giant-counterfeiter","title":"The Fed as Giant Counterfeiter","identifier":"node\/6863"},"urlIsAjaxTrusted":{"\/library\/fed-giant-counterfeiter":true},"field_group":{"html5":"full","html-element":"full"},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"validateDelay":25},"blazyIo":{"enabled":true,"disconnect":false,"rootMargin":"0px","threshold":[0]},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":0,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)","extUseFontAwesome":false},"bootsass":{"anchorsFix":0,"anchorsSmoothScrolling":0,"popoverEnabled":0,"popoverOptions":{"animation":0,"html":0,"placement":"top","selector":"","trigger":"","title":"","content":"","delay":0,"container":""},"tooltipEnabled":0,"tooltipOptions":{"animation":0,"html":0,"placement":"top","selector":"","trigger":"","delay":0,"container":""}}}); 
+if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(false);}} if(window.jQuery && window.Drupal){init_drupal_core_settings();}</script>
+<script defer="defer" src="/sites/default/files/advagg_js/js__ieFIAopLDmsnouew98LT2O6Na2QQHxgpLfSOUqbRdW8__aRZsNutRbKRGIsAWrriO3z9KWWphnjivwXW2ePmyKSY__5W7903bDg1wNf2gR9bi-IPtYrPzNSBBu5UiagpUFUaM.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c3172e0ad0","applicationID":"193114088","transactionName":"ZFxXNkoEWkpYVUZRWV0WdAFMDFtXFlJBZ1NLTUcDSzpaVl1TbUhXVFxqFFEAQw==","queueTime":0,"applicationTime":949,"atts":"SBtUQAIeSUQ=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

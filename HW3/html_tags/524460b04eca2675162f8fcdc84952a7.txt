@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+<meta charset="utf-8"/>
+<script async="" data-domain="community.ukcolumn.org" defer="" src="https://plausible.io/js/plausible.js"></script>
+<meta content="Drupal 9 (https://www.drupal.org)" name="Generator"/>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1 " name="viewport"/>
+<link href="/themes/custom/ukcc_theme/favicon.png" rel="icon" type="image/png"/>
+<title>Welcome to the UK Column Community | UKColumn Community</title>
+<link href="/sites/default/files/css/css_62IOhSuhjXSWnnlzSNMs2U5EF9scXg6Rp5v12-LCWOo.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_ir9zpeNhA6k1iJ_nhyUzEt97sXW4lZrOy6ve-l_TyrI.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&amp;family=Roboto+Slab&amp;family=Material+Icons&amp;display=swap" media="all" rel="stylesheet"/>
+</head>
+<body class="ukcc-membershipfront">
+<a name="top"></a>
+<a class="visually-hidden focusable" href="#main-content">
+Skip to main content
+</a>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<aside class="mdc-drawer mdc-drawer--modal">
+<div class="mdc-drawer__content">
+<nav aria-labelledby="block-useraccountmenu-menu" class="block block-menu navigation menu--account" id="block-useraccountmenu" role="navigation">
+<h2 class="visually-hidden" id="block-useraccountmenu-menu">User account menu</h2>
+<ul class="menu">
+<li class="menu-item">
+<a href="https://www.ukcolumn.org/"> <span>Main UK Column Website</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>UK Column Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://www.ukcolumn.org/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="use-ajax" data-drupal-link-system-path="login" href="/login"> <span>Log in</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="modal-menu-trigger-close">
+<button class="mdc-icon-button" id="close-overlay">
+<span class="far fa-times"></span>
+<span class="visually-hidden">Close</span>
+</button>
+</div>
+</aside>
+<div class="mdc-drawer-scrim"></div>
+<div class="layout-container">
+<header class="layout-header" role="banner">
+<div class="layout-pre-header">
+<nav aria-labelledby="block-ukcc-theme-account-menu-menu" class="block block-menu navigation menu--account" id="block-ukcc-theme-account-menu" role="navigation">
+<h2 class="visually-hidden" id="block-ukcc-theme-account-menu-menu">User account menu</h2>
+<ul class="menu">
+<li class="menu-item">
+<a href="https://www.ukcolumn.org/"> <span>Main UK Column Website</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>UK Column Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://www.ukcolumn.org/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="use-ajax" data-drupal-link-system-path="login" href="/login"> <span>Log in</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="inner">
+<div class="region region-header">
+<div class="inner">
+<div class="block block-ukcc-theme-site-branding block-system-branding-block" id="block-ukcc-theme-site-branding">
+<div class="inner">
+<a href="/" rel="home">
+<img alt="Home" src="https://community.ukcolumn.org/themes/custom/ukcc_theme/logo.png"/>
+</a>
+</div>
+</div>
+<div class="modal-menu-trigger">
+<span class="visually-hidden">Menu</span>
+<button class="mdc-icon-button">
+<span class="far fa-bars"></span>
+<span class="visually-hidden">Open</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="region--highlighted">
+<div class="hidden" data-drupal-messages-fallback=""></div>
+</div>
+<main class="layout-main" role="main">
+<a id="main-content" tabindex="-1"></a>
+<div class="inner">
+<div class="layout-content">
+<div class="block block-ukcc-theme-content block-system-main-block" id="block-ukcc-theme-content">
+<div class="inner">
+<article about="/welcome-uk-column-community" class="no-title node--type-page node--view-mode-full" data-history-node-id="63239" role="article" typeof="schema:WebPage">
+<span class="hidden" content="Welcome to the UK Column Community" property="schema:name"></span>
+<div>
+<div class="field field--name-field-paragraphs">
+<div class="paragraph paragraph--type--media paragraph--view-mode--default full-width">
+<div class="inner">
+<div class="field field--name-field-media"><article>
+<div class="field field--name-field-media-image"> <picture>
+<source media="all and (min-width: 1536px)" srcset="/sites/default/files/styles/hero_4_1/public/2022-02/join-the-uk-column_4.png?itok=L6mY10d_ 1x" type="image/png"/>
+<source media="all and (min-width: 1366px) and (max-width: 1535px)" srcset="/sites/default/files/styles/hero_4_1/public/2022-02/join-the-uk-column_4.png?itok=L6mY10d_ 1x" type="image/png"/>
+<source media="all and (min-width: 1024px) and (max-width: 1365px)" srcset="/sites/default/files/styles/hero_2_75_1/public/2022-02/join-the-uk-column_4.png?h=e9e94538&amp;itok=PQUgmUlO 1x" type="image/png"/>
+<source media="all and (min-width: 768px) and (max-width: 1023px)" srcset="/sites/default/files/styles/hero_2_75_1/public/2022-02/join-the-uk-column_4.png?h=e9e94538&amp;itok=PQUgmUlO 1x" type="image/png"/>
+<source srcset="/sites/default/files/styles/hero_3_2/public/2022-02/join-the-uk-column_4.png?h=e9e94538&amp;itok=4tNehYkJ 1x" type="image/png"/>
+<img alt="Join the UK Column" src="/sites/default/files/styles/hero_3_2/public/2022-02/join-the-uk-column_4.png?h=e9e94538&amp;itok=4tNehYkJ" typeof="foaf:Image"/>
+</picture>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div class="paragraph paragraph--type--views paragraph--view-mode--default">
+<div class="views-element-container">
+<div class="js-view-dom-id-21b8cdb1e4002b93f43b6bb5f368100d67ed07d00a430e0cf23b101381e1948c view view--membership-options view-display--block_1">
+<div class="views-rows">
+<div class="views-row">
+<article class="membership-level mdc-card mdc-card--outlined">
+<a class="mdc-card__primary-action" href="/join/5c45f257-803c-4548-a1a0-80173081ca2d" tabindex="0">
+<div class="mdc-card__ripple"></div>
+<h2 class="membership-level--title">
+<div class="field field--name-title">UK Column Monthly Membership</div>
+</h2>
+<div class="membership-level--price">
+<div class="field field--name-field-amount" content="3">£3</div>
+<span class="membership-level--occurance">/monthly</span>
+</div>
+<div class="membership-level--description">
+<div class="field field--name-field-description">Monthly membership renews automatically each month</div>
+</div>
+<button class="mdc-button mdc-button--unelevated">
+<span class="mdc-button__ripple"></span>
+<span class="mdc-button__label">Join monthly</span>
+</button>
+</a>
+</article>
+</div>
+<div class="views-row">
+<article class="membership-level mdc-card mdc-card--outlined">
+<a class="mdc-card__primary-action" href="/join/667e217c-9f22-4750-8eda-e6ce8623d149" tabindex="0">
+<div class="mdc-card__ripple"></div>
+<h2 class="membership-level--title">
+<div class="field field--name-title">UK Column Annual Membership</div>
+</h2>
+<div class="membership-level--price">
+<div class="field field--name-field-amount" content="30">£30</div>
+<span class="membership-level--occurance">/annually</span>
+</div>
+<div class="membership-level--description">
+<div class="field field--name-field-description">Annual membership with no automatic renewal</div>
+</div>
+<button class="mdc-button mdc-button--unelevated">
+<span class="mdc-button__ripple"></span>
+<span class="mdc-button__label">Join annually</span>
+</button>
+</a>
+</article>
+</div>
+<div class="views-row">
+<article class="membership-level mdc-card mdc-card--outlined">
+<a class="mdc-card__primary-action" href="/join/cf270005-fa8e-47a8-a53e-4b0203eba989" tabindex="0">
+<div class="mdc-card__ripple"></div>
+<h2 class="membership-level--title">
+<div class="field field--name-title">UK Column Lifetime Membership</div>
+</h2>
+<div class="membership-level--price">
+<div class="field field--name-field-amount" content="300">£300</div>
+</div>
+<div class="membership-level--description">
+<div class="field field--name-field-description">Become a member for ever!</div>
+</div>
+<button class="mdc-button mdc-button--unelevated">
+<span class="mdc-button__ripple"></span>
+<span class="mdc-button__label">Join for life</span>
+</button>
+</a>
+</article>
+</div>
+</div>
+<footer class="views-footer">
+</footer>
+</div>
+</div>
+</div>
+<div class="paragraph paragraph--type--text paragraph--view-mode--default">
+<div class="inner">
+<div class="field field--name-field-text"><h3 class="text-align-center">NOT READY TO JOIN?</h3>
+<p class="text-align-center">Please consider making <a href="https://www.ukcolumn.org/donate">a one time donation</a> to the UK Column or picking up something from our <a href="https://shop.ukcolumn.org/">shop</a>.</p>
+</div>
+</div>
+</div>
+<div class="layout-center paragraph paragraph--type--actions paragraph--view-mode--default">
+<div class="inner">
+<div class="display-button icon-position- paragraph paragraph--type--action paragraph--view-mode--default">
+<a class="mdc-button mdc-button--unelevated" href="https://www.ukcolumn.org/donate">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Donate</span>
+</a>
+</div>
+</div>
+</div>
+<div class="paragraph paragraph--type--accordion paragraph--view-mode--default">
+<div class="inner">
+<div class="accordion ui-accordion ui-widget ui-helper-reset">
+<h2>
+<div class="field field--name-field-title">Frequently Asked Questions</div>
+</h2>
+<div class="accordion-header ui-accordion-header ui-helper-reset ui-state-default ui-accordion-icons ui-corner-all">
+<button class="accordion-title--button">
+How can I pay for my membership?
+</button>
+</div>
+<div class="accordion-pane__content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display:none">
+<div class="field field--name-field-paragraphs">
+<div class="paragraph paragraph--type--text paragraph--view-mode--default">
+<div class="inner">
+<div class="field field--name-field-text"><p>You can choose to pay using a debit or credit card, or by Paypal. Monthly memberships can be cancelled at any time.</p>
+<p>We are sorry, but currently we cannot accept cheque payments.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="accordion-header ui-accordion-header ui-helper-reset ui-state-default ui-accordion-icons ui-corner-all">
+<button class="accordion-title--button">
+How do I access members only content?
+</button>
+</div>
+<div class="accordion-pane__content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display:none">
+<div class="field field--name-field-paragraphs">
+<div class="paragraph paragraph--type--text paragraph--view-mode--default">
+<div class="inner">
+<div class="field field--name-field-text"><p>To access members-only content, such as UK Column News Extra, you need to be a current member and be <a href="/login">logged in</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="accordion-header ui-accordion-header ui-helper-reset ui-state-default ui-accordion-icons ui-corner-all">
+<button class="accordion-title--button">
+How do I change my password?
+</button>
+</div>
+<div class="accordion-pane__content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display:none">
+<div class="field field--name-field-paragraphs">
+<div class="paragraph paragraph--type--text paragraph--view-mode--default">
+<div class="inner">
+<div class="field field--name-field-text"><p>To change your password, click on the Log In link in the top menu.</p>
+<p>The login box will appear.</p>
+<p>Click on Forgotten Password?</p>
+<p>You will receive an email with a one time link. Click on that link.</p>
+<p>You will be taken to the 'Reset Password' page. Click on 'Log In'.</p>
+<p>Enter your new password in the Password and Confirm Password boxes, and click Save.</p>
+<p>That’s it.</p>
+<p>If you haven’t kept your email address up to date, it will not be possible to change your password this way. Please <a href="https://www.ukcolumn.org/contact">use this form to contact us</a>, and select 'Membership Issues' as the category so that it goes to the correct person.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="accordion-header ui-accordion-header ui-helper-reset ui-state-default ui-accordion-icons ui-corner-all">
+<button class="accordion-title--button">
+Do you have a Privacy Policy?
+</button>
+</div>
+<div class="accordion-pane__content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display:none">
+<div class="field field--name-field-paragraphs">
+<div class="paragraph paragraph--type--text paragraph--view-mode--default">
+<div class="inner">
+<div class="field field--name-field-text"><p>You can read our Privacy Policy <a href="/privacy-policy">here</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="accordion-header ui-accordion-header ui-helper-reset ui-state-default ui-accordion-icons ui-corner-all">
+<button class="accordion-title--button">
+What are the forum rules?
+</button>
+</div>
+<div class="accordion-pane__content ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="display:none">
+<div class="field field--name-field-paragraphs">
+<div class="paragraph paragraph--type--text paragraph--view-mode--default">
+<div class="inner">
+<div class="field field--name-field-text"><p>You can read our forum rules <a href="/forum-rules">here</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</main>
+<div class="scroll-to-top">
+<div class="inner">
+<a class="mdc-button mdc-button--unelevated mdc-button--grey" href="#">
+<div class="mdc-button__ripple"></div>
+<i aria-hidden="true" class="material-icons mdc-button__icon">arrow_upward</i>
+<span class="mdc-button__label">Scroll to top</span>
+</a>
+</div>
+</div>
+</div>
+<div class="mdc-dialog">
+<div class="mdc-dialog__container">
+<div aria-describedby="my-dialog-content" aria-labelledby="my-dialog-title" aria-modal="true" class="mdc-dialog__surface" role="alertdialog">
+<h2 class="mdc-dialog__title" id="dialog-title">Title</h2>
+<div class="mdc-dialog__content" id="dialog-content"></div>
+</div>
+</div>
+<div class="mdc-dialog__scrim"></div>
+</div>
+</div>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"front","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"core\/picturefill,paragraphs\/drupal.paragraphs.unpublished,system\/base,ukcc_mailer\/admin,ukcc_theme\/accordion,ukcc_theme\/fonts,ukcc_theme\/global-styling,views\/views.module","theme":"ukcc_theme","theme_token":null},"ajaxTrustedUrl":[],"user":{"uid":0,"permissionsHash":"12b889cf7bd347fc5006d23e02847e46bad8a5b1e5a4988ab0cfaea2680a755f"}}</script>
+<script src="/sites/default/files/js/js_E63EO5Eg4x7i_nly5njfe5GXSv1-1l4jOir-Ix8nnU8.js"></script>
+</body>
+</html>

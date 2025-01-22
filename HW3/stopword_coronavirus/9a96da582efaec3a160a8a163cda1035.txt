@@ -1,0 +1,9514 @@
+
+
+
+
+
+
+
+COVID19 PCR Tests are Scientifically Meaningless – OffGuardian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Search
+
+
+ 
+
+
+
+
+
+
+
+
+
+Jun 27, 2020
+
+
+ 881 
+
+
+COVID19 PCR Tests are Scientifically Meaningless Though the whole world relies on RT-PCR to “diagnose” Sars-Cov-2 infection, the science is clear: they are not fit for purpose 
+
+Editor 
+
+
+Torsten Engelbrecht and Konstantin Demeter
+
+Lockdowns and hygienic measures around the world are based on numbers of cases and mortality rates created by the so-called SARS-CoV-2 RT-PCR tests used to identify “positive” patients, whereby “positive” is usually equated with “infected.”
+But looking closely at the facts, the conclusion is that these PCR tests are meaningless as a diagnostic tool to determine an alleged infection by a supposedly new virus called SARS-CoV-2.
+Unfounded “Test, test, test,…” mantra
+At the media briefing on COVID-19 on March 16, 2020, the WHO Director General Dr Tedros Adhanom Ghebreyesus said: 
+We have a simple message for all countries: test, test, test.”
+The message was spread through headlines around the world, for instance by Reuters and the BBC. 
+Still on the 3 of May, the moderator of the heute journal — one of the most important news magazines on German television— was passing the mantra of the corona dogma on to his audience with the admonishing words:
+Test, test, test—that is the credo at the moment, and it is the only way to really understand how much the coronavirus is spreading.”
+This indicates that the belief in the validity of the PCR tests is so strong that it equals a religion that tolerates virtually no contradiction. 
+But it is well known that religions are about faith and not about scientific facts. And as Walter Lippmann, the two-time Pulitzer Prize winner and perhaps the most influential journalist of the 20th century said: “Where all think alike, no one thinks very much.” 
+So to start, it is very remarkable that Kary Mullis himself, the inventor of the Polymerase Chain Reaction (PCR) technology, did not think alike. His invention got him the Nobel prize in chemistry in 1993. 
+Unfortunately, Mullis passed away last year at the age of 74, but there is no doubt that the biochemist regarded the PCR as inappropriate to detect a viral infection. 
+The reason is that the intended use of the PCR was, and still is, to apply it as a manufacturing technique, being able to replicate DNA sequences millions and billions of times, and not as a diagnostic tool to detect viruses.
+How declaring virus pandemics based on PCR tests can end in disaster was described by Gina Kolata in her 2007 New York Times article Faith in Quick Test Leads to Epidemic That Wasn’t.
+Lack of a valid gold standard
+Moreover, it is worth mentioning that the PCR tests used to identify so-called COVID-19 patients presumably infected by what is called SARS-CoV-2 do not have a valid gold standard to compare them with. 
+This is a fundamental point. Tests need to be evaluated to determine their preciseness — strictly speaking their “sensitivity”[1] and “specificity” — by comparison with a “gold standard,” meaning the most accurate method available.
+As an example, for a pregnancy test the gold standard would be the pregnancy itself. But as Australian infectious diseases specialist Sanjaya Senanayake, for example, stated in an ABC TV interview in an answer to the question “How accurate is the [COVID-19] testing?”: 
+If we had a new test for picking up [the bacterium] golden staph in blood, we’ve already got blood cultures, that’s our gold standard we’ve been using for decades, and we could match this new test against that. But for COVID-19 we don’t have a gold standard test.”
+Jessica C. Watson from Bristol University confirms this. In her paper “Interpreting a COVID-19 test result”, published recently in The British Medical Journal, she writes that there is a “lack of such a clear-cut ‘gold-standard’ for COVID-19 testing.”
+But instead of classifying the tests as unsuitable for SARS-CoV-2 detection and COVID-19 diagnosis, or instead of pointing out that only a virus, proven through isolation and purification, can be a solid gold standard, Watson claims in all seriousness that, “pragmatically” COVID-19 diagnosis itself, remarkably including PCR testing itself, “may be the best available ‘gold standard’.” But this is not scientifically sound.
+Apart from the fact that it is downright absurd to take the PCR test itself as part of the gold standard to evaluate the PCR test, there are no distinctive specific symptoms for COVID-19, as even people such as Thomas Löscher, former head of the Department of Infection and Tropical Medicine at the University of Munich and member of the Federal Association of German Internists, conceded to us[2].
+And if there are no distinctive specific symptoms for COVID-19, COVID-19 diagnosis — contrary to Watson’s statement — cannot be suitable for serving as a valid gold standard.
+In addition, “experts” such as Watson overlook the fact that only virus isolation, i.e. an unequivocal virus proof, can be the gold standard. 
+That is why I asked Watson how COVID-19 diagnosis “may be the best available gold standard,” if there are no distinctive specific symptoms for COVID-19, and also whether the virus itself, that is virus isolation, wouldn’t be the best available/possible gold standard. But she hasn’t answered these questions yet – despite multiple requests. And she has not yet responded to our rapid response post on her article in which we address exactly the same points, either, though she wrote us on June 2nd: “I will try to post a reply later this week when I have a chance.”
+No proof for the RNA being of viral origin
+Now the question is: What is required first for virus isolation/proof? We need to know where the RNA for which the PCR tests are calibrated comes from.
+As textbooks (e.g., White/Fenner. Medical Virology, 1986, p. 9) as well as leading virus researchers such as Luc Montagnier or Dominic Dwyer state, particle purification — i.e. the separation of an object from everything else that is not that object, as for instance Nobel laureate Marie Curie purified 100 mg of radium chloride in 1898 by extracting it from tons of pitchblende — is an essential pre-requisite for proving the existence of a virus, and thus to prove that the RNA from the particle in question comes from a new virus. 
+The reason for this is that PCR is extremely sensitive, which means it can detect even the smallest pieces of DNA or RNA — but it cannot determine where these particles came from. That has to be determined beforehand.
+And because the PCR tests are calibrated for gene sequences (in this case RNA sequences because SARS-CoV-2 is believed to be a RNA virus), we have to know that these gene snippets are part of the looked-for virus. And to know that, correct isolation and purification of the presumed virus has to be executed.
+Hence, we have asked the science teams of the relevant papers which are referred to in the context of SARS-CoV-2 for proof whether the electron-microscopic shots depicted in their in vitro experiments show purified viruses.
+But not a single team could answer that question with “yes” — and NB., nobody said purification was not a necessary step. We only got answers like “No, we did not obtain an electron micrograph showing the degree of purification” (see below).
+We asked several study authors “Do your electron micrographs show the purified virus?”, they gave the following responses:
+
+Study 1: Leo L. M. Poon; Malik Peiris. “Emergence of a novel human coronavirus threatening human health” Nature Medicine, March 2020
+Replying Author: Malik Peiris
+Date: May 12, 2020
+Answer: “The image is the virus budding from an infected cell. It is not purified virus.”
+Study 2: Myung-Guk Han et al. “Identification of Coronavirus Isolated from a Patient in Korea with COVID-19”, Osong Public Health and Research Perspectives, February 2020
+Replying Author: Myung-Guk Han
+Date: May 6, 2020
+Answer: “We could not estimate the degree of purification because we do not purify and concentrate the virus cultured in cells.”
+Study 3: Wan Beom Park et al. “Virus Isolation from the First Patient with SARS-CoV-2 in Korea”, Journal of Korean Medical Science, February 24, 2020
+Replying Author: Wan Beom Park
+Date: March 19, 2020
+Answer: “We did not obtain an electron micrograph showing the degree of purification.”
+Study 4: Na Zhu et al., “A Novel Coronavirus from Patients with Pneumonia in China”, 2019, New England Journal of Medicine, February 20, 2020
+Replying Author: Wenjie Tan
+Date: March 18, 2020
+Answer: “[We show] an image of sedimented virus particles, not purified ones.”
+
+Regarding the mentioned papers it is clear that what is shown in the electron micrographs (EMs) is the end result of the experiment, meaning there is no other result that they could have made EMs from. 
+That is to say, if the authors of these studies concede that their published EMs do not show purified particles, then they definitely do not possess purified particles claimed to be viral. (In this context, it has to be remarked that some researchers use the term “isolation” in their papers, but the procedures described therein do not represent a proper isolation (purification) process. Consequently, in this context the term “isolation” is misused).
+Thus, the authors of four of the principal, early 2020 papers claiming discovery of a new coronavirus concede they had no proof that the origin of the virus genome was viral-like particles or cellular debris, pure or impure, or particles of any kind. In other words, the existence of SARS-CoV-2 RNA is based on faith, not fact.
+We have also contacted Dr Charles Calisher, who is a seasoned virologist. In 2001, Science published an “impassioned plea…to the younger generation” from several veteran virologists, among them Calisher, saying that:
+[modern virus detection methods like] sleek polymerase chain reaction […] tell little or nothing about how a virus multiplies, which animals carry it, [or] how it makes people sick. [It is] like trying to say whether somebody has bad breath by looking at his fingerprint.”[3]
+And that’s why we asked Dr Calisher whether he knows one single paper in which SARS-CoV-2 has been isolated and finally really purified. His answer:
+I know of no such a publication. I have kept an eye out for one.”[4]
+This actually means that one cannot conclude that the RNA gene sequences, which the scientists took from the tissue samples prepared in the mentioned in vitro trials and for which the PCR tests are finally being “calibrated,” belong to a specific virus — in this case SARS-CoV-2.
+In addition, there is no scientific proof that those RNA sequences are the causative agent of what is called COVID-19. 
+In order to establish a causal connection, one way or the other, i.e. beyond virus isolation and purification, it would have been absolutely necessary to carry out an experiment that satisfies the four Koch’s postulates. But there is no such experiment, as Amory Devereux and Rosemary Frei recently revealed for OffGuardian. 
+The necessity to fulfill these postulates regarding SARS-CoV-2 is demonstrated not least by the fact that attempts have been made to fulfill them. But even researchers claiming they have done it, in reality, did not succeed.
+One example is a study published in Nature on May 7. This trial, besides other procedures which render the study invalid, did not meet any of the postulates.
+For instance, the alleged “infected” laboratory mice did not show any relevant clinical symptoms clearly attributable to pneumonia, which according to the third postulate should actually occur if a dangerous and potentially deadly virus was really at work there. And the slight bristles and weight loss, which were observed temporarily in the animals are negligible, not only because they could have been caused by the procedure itself, but also because the weight went back to normal again. 
+Also, no animal died except those they killed to perform the autopsies. And let’s not forget: These experiments should have been done before developing a test, which is not the case.
+Revealingly, none of the leading German representatives of the official theory about SARS-Cov-2/COVID-19 — the Robert Koch-Institute (RKI), Alexander S. Kekulé (University of Halle), Hartmut Hengel and Ralf Bartenschlager (German Society for Virology), the aforementioned Thomas Löscher, Ulrich Dirnagl (Charité Berlin) or Georg Bornkamm (virologist and professor emeritus at the Helmholtz-Zentrum Munich) — could answer the following question I have sent them:
+If the particles that are claimed to be to be SARS-CoV-2 have not been purified, how do you want to be sure that the RNA gene sequences of these particles belong to a specific new virus?
+Particularly, if there are studies showing that substances such as antibiotics that are added to the test tubes in the in vitro experiments carried out for virus detection can “stress” the cell culture in a way that new gene sequences are being formed that were not previously detectable — an aspect that Nobel laureate Barbara McClintock already drew attention to in her Nobel Lecture back in 1983.
+It should not go unmentioned that we finally got the Charité – the employer of Christian Drosten, Germany’s most influential virologist in respect of COVID-19, advisor to the German government and co-developer of the PCR test which was the first to be “accepted” (not validated!) by the WHO worldwide – to answer questions on the topic. 
+But we didn’t get answers until June 18, 2020, after months of non-response. In the end, we achieved it only with the help of Berlin lawyer Viviane Fischer. 
+Regarding our question “Has the Charité convinced itself that appropriate particle purification was carried out?,” the Charité concedes that they didn’t use purified particles. 
+And although they claim “virologists at the Charité are sure that they are testing for the virus,” in their paper (Corman et al.) they state:
+RNA was extracted from clinical samples with the MagNA Pure 96 system (Roche, Penzberg, Germany) and from cell culture supernatants with the viral RNA mini kit (QIAGEN, Hilden, Germany),”
+Which means they just assumed the RNA was viral.
+Incidentally, the Corman et al. paper, published on January 23, 2020 didn’t even go through a proper peer review process, nor were the procedures outlined therein accompanied by controls — although it is only through these two things that scientific work becomes really solid.
+Irrational test results
+It is also certain that we cannot know the false positive rate of the PCR tests without widespread testing of people who certainly do not have the virus, proven by a method which is independent of the test (having a solid gold standard). 
+Therefore, it is hardly surprising that there are several papers illustrating irrational test results.
+For example, already in February the health authority in China’s Guangdong province reported that people have fully recovered from illness blamed on COVID-19, started to test “negative,” and then tested “positive” again.
+A month later, a paper published in the Journal of Medical Virology showed that 29 out of 610 patients at a hospital in Wuhan had 3 to 6 test results that flipped between “negative”, “positive” and “dubious”. 
+A third example is a study from Singapore in which tests were carried out almost daily on 18 patients and the majority went from “positive” to “negative” back to “positive” at least once, and up to five times in one patient.
+Even Wang Chen, president of the Chinese Academy of Medical Sciences, conceded in February that the PCR tests are “only 30 to 50 per cent accurate”; while Sin Hang Lee from the Milford Molecular Diagnostics Laboratory sent a letter to the WHO’s coronavirus response team and to Anthony S. Fauci on March 22, 2020, saying that: 
+It has been widely reported in the social media that the RT-qPCR [Reverse Transcriptase quantitative PCR] test kits used to detect SARSCoV-2 RNA in human specimens are generating many false positive results and are not sensitive enough to detect some real positive cases.”
+In other words, even if we theoretically assume that these PCR tests can really detect a viral infection, the tests would be practically worthless, and would only cause an unfounded scare among the “positive” people tested. 
+This becomes also evident considering the positive predictive value (PPV).
+The PPV indicates the probability that a person with a positive test result is truly “positive” (ie. has the supposed virus), and it depends on two factors: the prevalence of the virus in the general population and the specificity of the test, that is the percentage of people without disease in whom the test is correctly “negative” (a test with a specificity of 95% incorrectly gives a positive result in 5 out of 100 non-infected people).
+With the same specificity, the higher the prevalence, the higher the PPV. 
+In this context, on June 12 2020, the journal Deutsches Ärzteblatt published an article in which the PPV has been calculated with three different prevalence scenarios. 
+The results must, of course, be viewed very critically, first because it is not possible to calculate the specificity without a solid gold standard, as outlined, and second because the calculations in the article are based on the specificity determined in the study by Jessica Watson, which is potentially worthless, as also mentioned.
+But if you abstract from it, assuming that the underlying specificity of 95% is correct and that we know the prevalence, even the mainstream medical journal Deutsches Ärzteblatt reports that the so-called SARS-CoV-2 RT-PCR tests may have “a shockingly low” PPV. 
+In one of the three scenarios, figuring with an assumed prevalence of 3%, the PPV was only 30 percent, which means that 70 percent of the people tested “positive” are not “positive” at all. Yet “they are prescribed quarantine,” as even the Ärzteblatt notes critically. 
+In a second scenario of the journal’s article, a prevalence of rate of 20 percent is assumed. In this case they generate a PPV of 78 percent, meaning that 22 percent of the “positive” tests are false “positives.” 
+That would mean: If we take the around 9 million people who are currently considered “positive” worldwide — supposing that the true “positives” really have a viral infection — we would get almost 2 million false “positives.”
+All this fits with the fact that the CDC and the FDA, for instance, concede in their files that the so-called “SARS-CoV-2 RT-PCR tests” are not suitable for SARS-CoV-2 diagnosis. 
+In the “CDC 2019-Novel Coronavirus (2019-nCoV) Real-Time RT-PCR Diagnostic Panel“ file from March 30, 2020, for example, it says:
+Detection of viral RNA may not indicate the presence of infectious virus or that 2019-nCoV is the causative agent for clinical symptoms”
+And:
+This test cannot rule out diseases caused by other bacterial or viral pathogens.”
+And the FDA admits that: 
+positive results […] do not rule out bacterial infection or co-infection with other viruses. The agent detected may not be the definite cause of disease.”
+Remarkably, in the instruction manuals of PCR tests we can also read that they are not intended as a diagnostic test, as for instance in those by Altona Diagnostics and Creative Diagnostics[5].
+To quote another one, in the product announcement of the LightMix Modular Assays produced by TIB Molbiol — which were developed using the Corman et al. protocol — and distributed by Roche we can read: 
+These assays are not intended for use as an aid in the diagnosis of coronavirus infection”
+And:
+For research use only. Not for use in diagnostic procedures.”
+Where is the evidence that the tests can measure the “viral load”?
+There is also reason to conclude that the PCR test from Roche and others cannot even detect the targeted genes. 
+Moreover, in the product descriptions of the RT-qPCR tests for SARS-COV-2 it says they are “qualitative” tests, contrary to the fact that the “q” in “qPCR” stands for “quantitative.” And if these tests are not “quantitative” tests, they don’t show how many viral particles are in the body. 
+That is crucial because, in order to even begin talking about actual illness in the real world not only in a laboratory, the patient would need to have millions and millions of viral particles actively replicating in their body.
+That is to say, the CDC, the WHO, the FDA or the RKI may assert that the tests can measure the so-called “viral load,” i.e. how many viral particles are in the body. “But this has never been proven. That is an enormous scandal,” as the journalist Jon Rappoport points out. 
+This is not only because the term “viral load” is deception. If you put the question “what is viral load?” at a dinner party, people take it to mean viruses circulating in the bloodstream. They’re surprised to learn it’s actually RNA molecules.
+Also, to prove beyond any doubt that the PCR can measure how much a person is “burdened” with a disease-causing virus, the following experiment would have had to be carried out (which has not yet happened):
+You take, let’s say, a few hundred or even thousand people and remove tissue samples from them. Make sure the people who take the samples do not perform the test.The testers will never know who the patients are and what condition they’re in. The testers run their PCR on the tissue samples. In each case, they say which virus they found and how much of it they found. Then, for example, in patients 29, 86, 199, 272, and 293 they found a great deal of what they claim is a virus. Now we un-blind those patients. They should all be sick, because they have so much virus replicating in their bodies. But are they really sick — or are they fit as a fiddle?
+With the help of the aforementioned lawyer Viviane Fischer, I finally got the Charité to also answer the question of whether the test developed by Corman et al. — the so-called “Drosten PCR test” — is a quantitative test. 
+But the Charité was not willing to answer this question “yes”. Instead, the Charité wrote:
+If real-time RT-PCR is involved, to the knowledge of the Charité in most cases these are […] limited to qualitative detection.”
+Furthermore, the “Drosten PCR test” uses the unspecific E-gene assay as preliminary assay, while the Institut Pasteur uses the same assay as confirmatory assay.
+According to Corman et al., the E-gene assay is likely to detect all Asian viruses, while the other assays in both tests are supposed to be more specific for sequences labelled “SARS-CoV-2”.
+Besides the questionable purpose of having either a preliminary or a confirmatory test that is likely to detect all Asian viruses, at the beginning of April the WHO changed the algorithm, recommending that from then on a test can be regarded as “positive” even if just the E-gene assay (which is likely to detect all Asian viruses!) gives a “positive” result.
+This means that a confirmed unspecific test result is officially sold as specific.
+That change of algorithm increased the “case” numbers. Tests using the E-gene assay are produced for example by Roche, TIB Molbiol and R-Biopharm. 
+High Cq values make the test results even more meaningless
+Another essential problem is that many PCR tests have a “cycle quantification” (Cq) value of over 35, and some, including the “Drosten PCR test”, even have a Cq of 45.
+The Cq value specifies how many cycles of DNA replication are required to detect a real signal from biological samples.
+“Cq values higher than 40 are suspect because of the implied low efficiency and generally should not be reported,” as it says in the MIQE guidelines. 
+MIQE stands for “Minimum Information for Publication of Quantitative Real-Time PCR Experiments”, a set of guidelines that describe the minimum information necessary for evaluating publications on Real-Time PCR, also called quantitative PCR, or qPCR. 
+The inventor himself, Kary Mullis, agreed, when he stated: 
+If you have to go more than 40 cycles to amplify a single-copy gene, there is something seriously wrong with your PCR.”
+The MIQE guidelines have been developed under the aegis of Stephen A. Bustin, Professor of Molecular Medicine, a world-renowned expert on quantitative PCR and author of the book A-Z of Quantitative PCR which has been called “the bible of qPCR.” 
+In a recent podcast interview Bustin points out that “the use of such arbitrary Cq cut-offs is not ideal, because they may be either too low (eliminating valid results) or too high (increasing false “positive” results).”
+
+
+
+
+
+And, according to him, a Cq in the 20s to 30s should be aimed at and there is concern regarding the reliability of the results for any Cq over 35. 
+If the Cq value gets too high, it becomes difficult to distinguish real signal from background, for example due to reactions of primers and fluorescent probes, and hence there is a higher probability of false positives.
+Moreover, among other factors that can alter the result, before starting with the actual PCR, in case you are looking for presumed RNA viruses such as SARS-CoV-2, the RNA must be converted to complementary DNA (cDNA) with the enzyme Reverse Transcriptase—hence the “RT” at the beginning of “PCR” or “qPCR.” 
+But this transformation process is “widely recognized as inefficient and variable,” as Jessica Schwaber from the Centre for Commercialization of Regenerative Medicine in Toronto and two research colleagues pointed out in a 2019 paper. 
+Stephen A. Bustin acknowledges problems with PCR in a comparable way. 
+For example, he pointed to the problem that in the course of the conversion process (RNA to cDNA) the amount of DNA obtained with the same RNA base material can vary widely, even by a factor of 10 (see above interview). 
+Considering that the DNA sequences get doubled at every cycle, even a slight variation becomes magnified and can thus alter the result, annihilating the test’s reliable informative value.
+So how can it be that those who claim the PCR tests are highly meaningful for so-called COVID-19 diagnosis blind out the fundamental inadequacies of these tests—even if they are confronted with questions regarding their validity? 
+Certainly, the apologists of the novel coronavirus hypothesis should have dealt with these questions before throwing the tests on the market and putting basically the whole world under lockdown, not least because these are questions that come to mind immediately for anyone with even a spark of scientific understanding.
+Thus, the thought inevitably emerges that financial and political interests play a decisive role for this ignorance about scientific obligations. NB, the WHO, for example has financial ties with drug companies, as the British Medical Journal showed in 2010. 
+And experts criticize “that the notorious corruption and conflicts of interest at WHO have continued, even grown“ since then. The CDC as well, to take another big player, is obviously no better off. 
+Finally, the reasons and possible motives remain speculative, and many involved surely act in good faith; but the science is clear: The numbers generated by these RT-PCR tests do not in the least justify frightening people who have been tested “positive” and imposing lockdown measures that plunge countless people into poverty and despair or even drive them to suicide. 
+And a “positive” result may have serious consequences for the patients as well, because then all non-viral factors are excluded from the diagnosis and the patients are treated with highly toxic drugs and invasive intubations. Especially for elderly people and patients with pre-existing conditions such a treatment can be fatal, as we have outlined in the article “Fatal Therapie.”
+Without doubt eventual excess mortality rates are caused by the therapy and by the lockdown measures, while the “COVID-19” death statistics comprise also patients who died of a variety of diseases, redefined as COVID-19 only because of a “positive” test result whose value could not be more doubtful.
+
+NOTES:-
+[1] Sensitivity is defined as the proportion of patients with disease in whom the test is positive; and specificity is defined as the proportion of patients without disease in whom the test is negative.
+[2] E-mail from Prof. Thomas Löscher from March 6, 2020
+[3] Martin Enserink. Virology. Old guard urges virologists to go back to basics, Science, July 6, 2001, p. 24
+[4] E-mail from Charles Calisher from May 10, 2020
+[5] Creative Diagnostics, SARS-CoV-2 Coronavirus Multiplex RT-qPCR Kit
+
+Torsten Engelbrecht is an award-winning journalist and author from Hamburg, Germany. In 2006 he co-authored Virus-Mania with Dr Klaus Kohnlein, and in 2009 he won the German Alternate Media Award. He has also written for Rubikon, Süddeutsche Zeitung, Financial Times Deutschland and many others.
+
+Konstantin Demeter is a freelance photographer and an independent researcher. Together with the journalist Torsten Engelbrecht he has published articles on the “COVID-19” crisis in the online magazine Rubikon, as well as contributions on the monetary system, geopolitics, and the media in Swiss Italian newspapers.
+
+SUPPORT OFFGUARDIAN
+
+
+
+
+
+
+
+
+For direct-transfer bank details click here.
+
+FacebookTwitterRedditPinterestWhatsAppvKontakteEmail
+
+
+
+
+Filed under: coronavirus, featured, latest, Statistics and Analysis 
+
+
+Tagged with: 
+coronavirus, covid19, Konstantin Demeter, PCR Tests, science, Torsten Engelbrecht 
+
+ 
+
+
+
+
+
+4.7
+191
+votes
+Article Rating
+
+ 
+
+
+
+
+
+ Subscribe 
+
+
+Connect with 
+ Login 
+
+
+
+
+Notify of 
+
+
+new follow-up comments
+new replies to my comments
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+Label
+
+
+
+
+
+
+
+
+
+
+
+
+{}
+[+]
+Emoji
+Stickers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name*
+
+
+
+
+Email*
+
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Δ 
+
+
+
+Connect with
+
+
+
+
+
+
+ 
+
+
+Label
+
+
+
+
+
+
+
+
+
+
+
+
+{}
+[+]
+Emoji
+Stickers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name*
+
+
+
+
+Email*
+
+
+
+
+Website
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Δ 
+
+
+
+
+
+
+881 Comments 
+
+
+
+
+
+newest
+
+
+oldest
+most voted
+
+
+
+
+
+ Inline Feedbacks
+View all comments
+
+
+
+
+
+
+
+
+
+
+
+Tom
+
+
+
+Dec 16, 2021 4:58 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+what about this
+https://news.unchealthcare.org/2020/09/unc-researchers-publish-striking-images-of-sars-cov-2-infected-cells/
+
+
+
+
+
+
+0-3
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dejoos
+
+
+
+Dec 28, 2021 12:23 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Tom
+
+
+
+What about it? They still used the standard, bogus, invalid cell culture method to ‘isolate’ the ‘SARS-COV2 virus’ that they inoculated into the bronchial cells. I suggest you go back a few steps and do some research on John Enders for a start.
+
+
+
+
+
+
+50
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+William Thomas
+
+
+
+Oct 31, 2021 4:35 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+It’s interesting timing that Kary Mullins died a mere 6 months before this madness started.
+
+
+
+
+
+
+30
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wardropper
+
+
+
+Apr 14, 2022 2:30 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+William Thomas
+
+
+
+Mullis
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+KarenB
+
+
+
+Jul 16, 2022 8:35 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+William Thomas
+
+
+
+No coincidence at all. He was a crimp in their agenda. They knew he would blow their cover. He died just 2 months before Event 201. No coincidence at all. I believe he was murdered. These people are evil and they will stop at nothing to get what they want.
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+cheryl
+
+
+
+Jul 26, 2022 8:56 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+William Thomas
+
+
+
+he publicly called fauci a quack not capable of anything – he was murdred
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thoth al Khem
+
+
+
+Jul 22, 2021 1:28 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is the BIGGEST HOAX virus (Latin for POISON) since the 1st preacher convinced you GOD needs your money.
+
+
+
+
+
+
+8-3
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jack
+
+
+
+May 20, 2021 7:20 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for this well written and well researched article. I want to add an update:
+You pointed out the fact that the WHO pushed these tests in the beginning. As of 5/2021, they now are pushing everyone to turn down the number of cycles (back to 30-35). Now that’s rather suspicious. Either, they are admitting that the tests weren’t being done right, or they are trying to bring the positive numbers down to make the gene therapy injections appear to be working better than they are.
+As far as results are concerned each result should indicate the number of cycles run. None of the labs are including this information.
+To those who argue that Kochs criteria is no longer relevant, I ask you this: What has it been replaced with? Have these researchers stated that they are using a different “gold standard”? If so, what is it??
+
+
+
+
+
+
+170
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanya Marquette
+
+
+
+Jul 15, 2021 2:14 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Jack
+
+
+
+The Koch principles have been thrown out with impunity. When they could not be used they simply said change them! Sounds pretty outrageous but so is the entire debacle of C-19. Further, WHO has changed its tune numerous times; ie, masks should be worn –no masks don’t do anything. The PCR test is useless–no it is to be used. The list goes on with contradictions. Of course the most important point is the money involved and the interconnectedness of all the big $$$ people in the world and their real goals.
+While the science is important the most relevant aspect is the political goals behind this mess. Let’s not forget the Event 201 in Fall, 2019 followed by the World Economic Forum meeting in December, 2019 where they put out their Great Reset project, their blueprint for changing the world and consolidating all the power and wealth into the hands of the 1%. You can be sure Gates was center to that venture along with all the big bankers and corporate heads and political bigwigs. An article on Waking Times details some of this plot:
+https://www.wakingtimes.com/world-economic-forum-announces-creation-of-orwellian-global-coalition-for-digital-safety/?utm_source=Waking+Times+Newsletter&utm_medium=email&utm_campaign=f58a3cf83a-RSS_EMAIL_CAMPAIGN&utm_term=0_25f1e048c1-f58a3cf83a-54370757
+And of course we now also have Moderna literally saying this whole vaccine rollout is using the public in a big experiment. And ex-Pfizer science advisor Michael Yeadon saying last year that their drug is expected to leave about 65% of women sterilized. Talk about genocide! The Dr. Robert Malone who is credited with the creation of the mRNA molecule back around 1989-90 has recently come out to say that the spike protein does not stay in the injection site but travels throughout the body and can attach to cells in the Brain, Heart, Liver, Kidney and Ovaries and we now have massive cases of strokes, heart disease in healthy young people, miscarriages, organ failures, neurological conditions –all severe cases and more deaths after the vaccine than from all the vaccines over a 20? yr period. FYI, since he spilled the beans he has been censored from social media and even Wikipedia rewrote history and gave credit to some man who never had anything to do with the creation of this spike protein.
+So while this article is terrific in detailing the myth of the PCR test it is only a drop in the bucket as the real question is why it was so heavily pushed and we do know why and it had nothing to do with health. We can simply look at what happened to the world, our economy, who’s making the fortunes and who is not, what happened to the Main Streets of our towns–the loss of small businesses and shutdown of local economies which keep us independent of the corporations, etc.
+
+
+
+
+
+
+9-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Duane Uptain
+
+
+
+May 6, 2021 3:50 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thoughts on this claim of isolation by the CDC? They say samples can be requested.
+https://www.cdc.gov/coronavirus/2019-ncov/lab/grows-virus-cell-culture.html
+
+
+
+
+
+
+0-5
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jane
+
+
+
+May 6, 2021 6:18 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Duane Uptain
+
+
+
+Dr. Derek Knauss: “Then we all asked the CDC for viable samples of Covid. The CDC said they can’t give them, because they don’t have those samples….I still need to find one viable sample with Covid-19 to work with. We who conducted the lab test with these 1500 samples at the 7 universities are now suing the CDC for Covid-19 fraud. The CDC still has not sent us a viable, isolated and purified sample of Covid-19. If they can’t or won’t, then I say there is no Covid-19.’
+“Earlier this year, Samuel Eckert’s German Team and the Isolate Truth Fund pledged a reward of at least $265,000 for any scientist who can provide incontrovertible proof that the SARS-CoV-2 virus has been isolated and therefore exists. They too pointed out that not one lab in the world has yet been able to isolate this corona virus.”
+﻿
+https://greatreject.org/laboratories-cant-find-covid-19-in-positive-tests/?fbclid=IwAR196bwuyj78EWgUoXI8OLDAG-zDwJ_q3jmgsq_8EYWjxwbWNrNVaDrgUko
+https://www.samueleckert.net/isolat-truth-fund/
+
+
+
+
+
+
+110
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Duane Uptain
+
+
+
+May 8, 2021 1:42 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Jane
+
+
+
+That article is over 6 months old.
+https://www.beiresources.org/BEIHighlights1.aspx?ItemId=79&ModuleId=14004
+
+
+
+
+
+
+0-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum State
+
+
+
+ May 18, 2021 3:44 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Duane Uptain
+
+
+
+I asked BEI if their isolates were purified and they replied no, ie no density gradients etc were done. Its only a mixed cell culture of what exactly?
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maudie N Mandeville
+
+
+
+Jun 19, 2021 4:03 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Duane Uptain
+
+
+
+
+MEDICAL SCIENCE
+
+Laboratories in US can’t find Covid-19 in one of 1,500 positive testsBY GREATREJECT · 11/04/2021
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum State
+
+
+
+May 18, 2021 3:48 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Jane
+
+
+
+No Dr. Knauss or an article on his sample tests were to be found and the original post on globalresearch.ca was removed.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rookon
+
+
+
+Apr 19, 2021 4:58 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Great work, Im translating this article for the Thai people to know the truth as well. From team หวยหุ้นวันนี้
+
+
+
+
+
+
+50
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+uwatchfree
+
+
+
+Apr 6, 2021 6:02 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+your article is too good thanks for sharing
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Denise
+
+
+
+Mar 17, 2021 3:34 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shushant Singh
+
+
+
+Mar 15, 2021 9:31 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+This information is very collective and useful for me. Also if you want any information related to Bollywood like Akshay Kumar Upcoming Movies.
+
+
+
+
+
+
+0-6
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest News
+
+
+
+Mar 15, 2021 4:35 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+This given information is very useful to me for getting knowledge about the Covid19
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Matthew Carr
+
+
+
+Feb 28, 2021 11:30 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Straw Man after straw man Quotes out of context. Unsupported conclusions such as 70%% false positive rate. Why not complain that speeding tickets are unscientific because there is no gold standard speeding limit. The science improves daily decisions have to be made. No one is intubated or given dangerous drugs merely for having a positive pcr test. We now can assay infectious units and verify that the snips of rna detected at pcr are infectious viruses. Some are not when detected after an infection has run its course, and that’s important too. Vaccine is 95% effective so 5% of the US will get sick That over a million sick people sickened by a bogus vaccine. See how easy the truth can be distorted? This article fully demonstrates how dangerous a little bit of knowledge is.
+
+
+
+
+
+
+7-37
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lou
+
+
+
+Mar 19, 2021 10:52 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Matthew Carr
+
+
+
+“No one is intubated or given dangerous drugs merely for having a positive pcr test.” 
+Perhaps BUT this was not the case a few months ago in some NYC hospitals and other “super spreader events”
+
+
+
+
+
+
+80
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jerry Davis
+
+
+
+Apr 2, 2021 4:07 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Matthew Carr
+
+
+
+“Top pathologist Dr. Roger Hodkinson told government officials in Alberta during a zoom conference call that the current coronavirus crisis is “the greatest hoax ever perpetrated on an unsuspecting public.” – yes, he said it. Hear the conversation as recorded live… https://www.jerrywdavis.com/pathologist-ceo-of-u-s-covid-19-test-manufacturing-company-says-greatest-hoax-ever/
+
+
+
+
+
+
+50
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Burke Noel
+
+
+
+Dec 20, 2021 12:59 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Matthew Carr
+
+
+
+Well Matthew you are talking absolute rubbish and are ignoring the real science and supporting glorified drug pushers
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Negozioslik
+
+
+
+Feb 19, 2021 12:09 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Great articles to share for better inspiration  Buy super lemon haze online near me 
+
+
+
+
+
+
+0-3
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Denise
+
+
+
+Feb 10, 2021 1:34 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+If anyone could share articles with me that could help me to counter an agreement that Covid is real because of all the people that have died or the numbers of deaths from Covid, I would be very grateful. I speak to people about the bogus PRC test and that the virus has not been properly isolated but find it hard to give a good argument against the socalled numbers of people that have died from Covid or if someone knows someone who died from Covid. I need something more statistical and scientific than the argument that the numbers are falsified by MSM or they died by other complications. Thank-you so much, Denise
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Feb 13, 2021 12:53 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Denise
+
+
+
+The “COVID-19 Deaths” are a CDC reporting fraud and probably originate in the 2020 – 2021 “flu shot”
+http://healthyprotocols.com/image_covid_deaths.jpg
+
+
+
+
+
+
+60
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Allan
+
+
+
+Mar 19, 2021 5:28 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Denise
+
+
+
+FOIs reveal that health/science institutions around the world have no record of SARS-COV-2 isolation/purification, anywhere, ever
+https://www.fluoridefreepeel.ca/fois-reveal-that-health-science-institutions-around-the-world-have-no-record-of-sars-cov-2-isolation-purification/
+
+
+
+
+
+
+70
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inter Strata
+
+
+
+Mar 28, 2021 10:06 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Denise
+
+
+
+PANDA Report – Pandemics Data and Analytics
+https://www.slideshare.net/PandataAnalytics/review-of-recent-covid19-science-denis-g-rancourt-phd
+‘Measures do not prevent deaths, transmission is not by contact, masks provide no benefit, vaccines are inherently dangerous: Review update of recent science relevant to COVID-19 policy’, by Denis G. Rancourt, PhD, 28 DECEMBER 2020
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jerry Davis
+
+
+
+Apr 2, 2021 4:11 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Denise
+
+
+
+Start here: https://www.jerrywdavis.com/pathologist-ceo-of-u-s-covid-19-test-manufacturing-company-says-greatest-hoax-ever/
+Then search the category “coronavirus” and”vaccine”
+Only fools and idiots believe the covid-19 “threat” at this point.
+
+
+
+
+
+
+40
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Susan Dorey
+
+
+
+Apr 2, 2021 6:15 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Jerry Davis
+
+
+
+Thank you for the link. Why can’t I submit a question to you on your site? I get a 403 message.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lucinda
+
+
+
+Apr 23, 2021 6:00 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Denise
+
+
+
+ICYMI Ivor Cummins has provided excellent analysis over the past year as regards the actual stats related to annual influenza seasons over many years. His analysis has proved conclusively that the masking policies & lockdowns & isolation / so-called “social distancing” does nothing to slow the annual influenza season aka so-called “covid19 2020 version.” His arguments were so powerful that he was banned & blocked & censored everywhere by the bigger platforms like youtube, etc. See: Ivor Cummins COVID19 Update > CRUCIAL Viral Update Dec 7th – Europe and USA Explained! https://www.bitchute.com/video/9niC5zHeIjdD/
+There was NO specific COVID19 influenza season apart from the regular, annual influenza season because the influenza seasonal curves remain the same year after year with or without lockdowns.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jane
+
+
+
+May 6, 2021 6:10 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Denise
+
+
+
+Here are some graphs on the European countries,
+https://www.euromomo.eu/graphs-and-maps
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Martimar
+
+
+
+May 8, 2021 10:17 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Denise
+
+
+
+The death rate from seasonal influenzas is down 99.99 percent. It’s easy to see that Covid is simply the flu.
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guy
+
+
+
+Jan 26, 2021 2:42 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Watch this very well made video interview by Naomi Wolf with Kevin McKernan and Bobby Malhotra. If anyone has the wherewithal to get this on BitChute before it is taken down.
+“PCR Lab Visit: Whistleblowers Kevin McKernan, Bobby Malhotra Explain Why COVID Tests are “Garbage” “https://www.youtube.com/watch?v=5fznDgRHInM&feature=youtu.be
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stephen Allen
+
+
+
+Jan 26, 2021 6:44 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.tga.gov.au/covid-19-testing-australia-information-health-professionals
+Here the Commonwealth of Australia’s Therapeutic Goods Administration states categorically that PCR is the “gold standard”
+
+
+
+
+
+
+0-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Francine
+
+
+
+Jan 14, 2021 3:48 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi to all! The CDC claims to have isolated the virus – https://wwwnc.cdc.gov/eid/article/26/6/20-0516_article Can anyone/any expert speak to this?
+
+
+
+
+
+
+1-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I Jarvis
+
+
+
+Jan 15, 2021 3:25 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Francine
+
+
+
+Listen to this https://theconsciousresistance.com/has-covid19-been-isolated-with-dr-andrew-kaufman-and-dr-thomas-cowan/?fbclid=IwAR2UQGDIHvzeXysjbYICBAW1qI-NtXx-0G436wxn20e-R1YRemOJd9myvLM then you will have a clear picture.
+
+
+
+
+
+
+30
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guy
+
+
+
+Jan 15, 2021 10:10 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+I Jarvis
+
+
+
+Thank you for the link .I am in the process of reading Dr.Cowan’s book “The Contagion Myth” and it is very good.
+Cheers.
+
+
+
+
+
+
+40
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum State
+
+
+
+May 18, 2021 5:07 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Francine
+
+
+
+Did you read the article and look into the details? If you did not then you should. If you did, you fell for the trap of believing section titles and lots of science verbiage that I guess you don’t understand nor did you follow up to see what they actually mean. 
+Did they really isolate something? I suggest you look up “how to isolate a virus” then come back to the paper. 
+On genome sequencing, did you look up all the written shit in that section? Look up each company and the methods they use, don’t just ask us, learn and think for yourself. Hint Ilumina MiniSeq (and metagenomic testing of the FIRST COVID CASE in Wuhan by Zhang et al). 
+Now, after you spent a day doing that do you still think they genome sequenced a biological specimen, and purified it? If you are still lost because you are not a biology specialist I understand, but honestly you only need logic and self investigation to get where the fraud is in multiple places in this paper.
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+West
+
+
+
+Sep 1, 2021 7:23 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Francine
+
+
+
+Unfortunately, they have not provided stable content or stance. They have shown to provide false information, so much so I am able to use their own site information to point out logical flaws
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+David Peter Bentley
+
+
+
+Jan 13, 2021 7:08 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+A very good read, and I am going to read it again, thank you for sharing it with us!
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rajan
+
+
+
+Jan 12, 2021 8:59 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+What an amazing article, I really love you piece of work
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+sirme williams
+
+
+
+Jan 7, 2021 3:46 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Covid19 is actually Zika Malaria.
+
+
+
+
+
+
+0-2
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Admin
+
+
+
+
+
+Sophie - Admin1
+
+
+
+Jul 12, 2021 6:13 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+sirme williams
+
+
+
+No it isn’t. ‘It’ isn’t anything that specific. ‘It’ is a positive test plus whatever the testee originally had wrong with them.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manuel
+
+
+
+Dec 24, 2020 3:44 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+There is a guy commenting that chose the right name “Pink Panther” …his name is right: HE IS A CARTOON. He can not make comparative math and simply repeats the “Fraud-demic Witch Doctor Scam” . He will graduate with a SUCKER PhD degree… Or maybe I am benevolent in my evaluaton, and worse yet, he is not dumb but just a perverse unit of the 110.000 hired FART CHECKERS …. just as Halloumi qualified him. Do not read him. But he will change his disguise and appear camouflaged with another name… 🙂 :-).. He is grateful that Off-Guardian does not censor is not like Facebook etc. People should realize that those to be believed are the ones who do not censor… and that those who censor are selling the Brooklin Bridge… you buy from them?
+
+
+
+
+
+
+60
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guy
+
+
+
+Dec 20, 2020 8:24 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Relevant to the topic , from Global Research .Legal action in progress .
+https://www.globalresearch.ca/coronavirus-scandal-breaking-merkel-germany/5731891
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Dec 12, 2020 9:13 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dear Editors please allow me to repost this important article; it seems Marcr Wathelet does not want it on TOP of the comments. Thanks
+Are the New COVID-19 Vaccines Safe and Effective?
+These “vaccines” are NOT Certified by the FDA to be safe and effective. You are being asked to take an “experimental vaccine”. You cannot (as of now) be forced to take an experimental “vaccine”.
+None of the COVID-19 “vaccines” are CERTIFIED by the FDA as being safe and effective to take. You will be offered an “investigational vaccine” under a FDA Emergency Use Authorization (EUA) for which the FDA makes NO unabridged claim of safety, They are OFFERED under an Emergency Use Authorization (EUA), NO ONE can force you to take an “investigational vaccine”
+You will not be getting a FDA Certified Vaccine; you will be taking an investigational vaccine. ALL risk is YOUR risk.
+None of the new COVID “vaccines” are Certified by the FDA as being safe and effective to take. In order to Certify a vaccine a well established PROCESS must be followed including several YEARS of Animal Testing. This certification Process has been found over the last 50 or so years to be REQUIRED to avoid unleashing a DISASTER on hundreds of millions of poor trusting souls. Since the Animal Testing phase of the Certification Process was not done, All of this uncertified CRAP can NEVER be Certified.
+These COVID vaccines are investigational vaccines. They are authorized by the FDA under an EUA. Here is part of the EUA text.
+“Use of an investigational vaccine under an EUA would not be subject to the usual informed consent requirements for clinical investigations; nevertheless, vaccine recipients will be provided a fact sheet that describes the investigational nature of the product, the known and potential benefits and risks, available alternatives, and the option to refuse vaccination. To minimize the risk that use of a vaccine under an EUA will interfere with long-term assessment of safety and efficacy in ongoing trials, it will be essential to continue to gather data about the vaccine even after it is made available under the EUA. Continued follow-up of clinical trial participants to further refine efficacy estimates, further evaluate the potential for enhanced disease and waning of immunity, and obtain additional active safety follow-up will be essential in order to ensure public confidence in a broadly administered vaccine” Emergency Use Authorization of Covid Vaccines …”  Safety and Efficacy Follow-up Considerations List of authors Philip R. Krause, M.D., and Marion F. Gruber, Ph.D
+In other words you are PART of a gigantic Clinical Trial. The FDA is telling us we have no full and good evidence that this “vaccine” will not greatly harm or KILL you two, three or twenty years down the road but we FEEL you are probably at least somewhat safe. YOU however are betting your health and life on this UNKNOWN “vaccine” which we do not fully know either. If you feel the risk is in your interest you are free to get shot up.
+Please read and UNDERSTAND. How many good people are going to be shot up with this needless garbage and do not UNDERSTAND the many and serious risks they are undertaking?
+Where are the COVID-19 Deaths?
+http://healthyprotocols.com/image_John-Hopkins-Covid-study.jpeg
+“Surprisingly, the deaths of older people stayed the same before and after COVID-19. Since COVID-19 mainly affects the elderly, experts expected an increase in the percentage of deaths in older age groups. However, this increase is not seen from the CDC data. In fact, the percentages of deaths among all age groups remain relatively the same… .”
+“When Briand looked at the 2020 data during that seasonal period, COVID-19-related deaths exceeded deaths from heart diseases. This was highly unusual since heart disease has always prevailed as the leading cause of deaths. However, when taking a closer look at the death numbers, she noted something strange. As Briand compared the number of deaths per cause during that period in 2020 to 2018, she noticed that instead of the expected drastic increase across all causes, there was a significant decrease in deaths due to heart disease. Even more surprising, as seen in the graph … , this sudden decline in deaths is observed for all other causes.”
+They also do not understand how FEW people (5% of “COVID-19 deaths”) are actually dying of the SARS-CoV-2 virus these “vaccines” are said to “protect” against.
+Are we going to force this disaster into our pregnant mothers, babies and children like the “flu shot”. I find this difficult to believe but this whole CON-19 deadly fraud is difficult to believe.
+
+
+
+
+
+
+130
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Panther
+
+
+
+Dec 15, 2020 9:53 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+lou
+
+
+
+Why you feel so urged to spread so much nonsence? Why you quote things that you do not even understand? Again, as in most of your comments, so many misunderstandings from your side: One example: When a vaccine is 95% efficient, it doesn’t mean that 5 % die. It only means, that 95% build a sufficient immunity against the virus. The rest, 5%, may still get infected, but for them the mortality is not higher than for those without a vaccine.
+Btw, John Hopkins has removed the “study results” of Briand, since it was not reviewed and contained mistakes. You can find that easily by searching the internet: Deaths in US due to heart diseases are as high this year as last year, when you compare the 11 months so far.
+Stop spreading lies and unreflected nonsense!
+
+
+
+
+
+
+1-31
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Halloumi
+
+
+
+Dec 19, 2020 1:53 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+Pink Panther. You are utter scum. You belong in the same prison with the rest of the propaganda spreading scum. Are you one of the 110,000 people recruited by the UN to carry out such disinformation? Or are you an actual pathetic coward? If you actually believe all the official narrative then just take yourself away, wrap yourself in a little protective coward bubble and let the rest of us carry on with our lives. FU.
+
+
+
+
+
+
+210
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+ScandalOfTheDay
+
+
+
+Dec 20, 2020 5:41 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+You are the one spreading nonsense. You make a point to pretend you are a math wizard by repeating the 95% effective garbage, which is utter nonsense. It is not hard to find the facts on any cold or flu virus(which is what coronavirus is) and including with sars-cov-2, the human body has almost 99% effectiveness at fighting it.
+Now, even a self proclaimed math wizard like yourself can see that 99% effective is better than 95% effective from the vaccine.
+Your lame attempt at flaming someone who is actually citing real research has failed.
+*mic drop*
+booooom
+
+
+
+
+
+
+150
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+ScandalOfTheDay
+
+
+
+Dec 20, 2020 7:30 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+your hilarious comments made it onto one of the world’s biggest online gossip rags
+congratulations!
+
+
+
+
+
+
+80
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Jan 25, 2021 6:58 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+“When a vaccine is 95% efficient, it doesn’t mean that 5 % die. It only means, that 95% build a sufficient immunity against the virus.”
+Please show me the mechanics of how this works. The “flu shot” has been running this scam for decades. 
+“The wintertime virus [NOT Flu] season, [with its normally LOW vitamin D levels], makes us all vulnerable to [Viral NOT Flu] infections.”   Life Extension  Note understand this and you nor anyone you love will get a toxic “flu shot” EVER, EVER
+http://healthyprotocols.com/2_flu_shot_intro.htm
+
+
+
+
+
+
+40
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum State
+
+
+
+May 18, 2021 9:52 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+You didnt read the results table it seems. Out of a huge sea of people who either got vax or placebo NOTHING happened. Then, in a VERY SMALL number of persons, a bunch more of the placebo group were a “case” vs the vax group. 99.1% of placebo had no case. Another 0.73% statistically had a a mild case. So even 99.83% had nothing, nada. Now a “case” was defined as even ONE SYMPTOM like a cough and a positive nonsense PCR test. There is no sense to take an unknown vax to prevent a cold symptom. The vax did not look at serious cases or death for EUA. If you really believe the 95% you’ve been bamboozled, if your a troll, your a scum bag.
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aaron Nottingham
+
+
+
+Jul 24, 2021 2:40 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+Over 11 thousand deaths officially (reported, which is only on a voluntary basis, not required) in the VAERS System, which on average, is estimated to be LESS than 20% of actual cases overall, so this latest death count released by VAERS, is extremely conservative, at that. 
+Explain to me at any point, when any other “vaccine” mass-marketed in the U.S. had in excess of 10 thousand people die as a direct result of complications of that type of vaccine, in the first 6 months it was available to the public.
+You can’t, because it would have been recalled well before the death toll reached that number and very likely would have never passed [clinical safety trials] to begin with. 
+This is a primary example of WHY (proper) clinical safety trials are so critically important, to avoid this kind of disaster. The blunt reality, people are in too much denial to accept, is the obvious. 
+They have blatantly broken every cardinal rule in the book, in the procedural protocol for the entire testing and approval process, (normally) required for all vaccines, in order to rush it into worldwide distribution. 
+There’s a reason for this and it has absolutely ZERO to do with “saving lives”. There is no conclusive evidence that ANY of these COVID (gene therapy SHOTS) have prevented any deaths or even prevented an infection, by COVID or anything else, because those trials haven’t even been concluded yet. 
+What we do know, conclusively, is that Ivermectin and Hydroxychloriquine HAVE been clinically proven (too basically 100% efficacy) to safely treat COVID and have so far been just as effective as a prophylactic, without ANY risk of even moderate side effects. 
+That being said and after a panel of several the world’s leading infectious disease experts (testified under oath) in at least 2 congressional hearings, pleading with Congress to urge the NIAID to reveiw their clinical data and success, using Ivermectin and HCQ and to get them authorized for (at least) authorized for emergency use in treatment of COVID, because they already know it will prevent thousands of uneccessary COVID deaths and prevent hundreds of thousands more from ever getting sick to begin with….
+….Yet, Dr. Fauci (who is financially invested in Moderna’s, vaccine and who’s wife, Dr. Christine Grady ( head of Bio-Ethics and Human Subjects Research division at the NIH) works closely with the Bill & Melinda Gates Foundation and share business relationships with (in the vaccine industry), has continually downplayed and done everything in his power to stonewall getting both Ivermectin and Hydroxychloriquine approved for COVID-19. 
+It is without question, one of the most overtly disgusting abuses of agency authority, criminal negligence and manslaughter, ever to be primetime broadcast to the citizens of the world. 
+This is not a conflict of interest.
+It’s a criminal drug ring. Its a RACKET.
+Anyone who can’t connect these dots, either isn’t trying to or doesn’t plan to.
+We know that the upper echelon of the national public health regulatory agencies all have rather large vested interests in the vaccine industry, some even holding proprietary rights of certain drugs and vaccines, which are manufactured by the very industry they are responsible for regulating.
+That’s bad enough within itself.
+But to defiantly BLOCK (at least) two, readily/widely available, inexpensive, (“known, clincally proven safe and effective CURES”) in favor of high risk, inadequately tested, UNAPPROVED, experimental, (verifiably DEADLY) “vaccines”, that do not prevent COVID illness or prevent the spread of it, isn’t just appalling, reprehensible and insane…
+it’s MURDER.
+It’s absolutely UNNACCEPTABLE.
+It absolutely MUST BE STOPPED.
+NOW!
+There is NO life saving intentions behind this COVID charade, it’s about potentially $$$TRILLIONS in profits, setting the world stage for the global policy mandates required to usher in the World Economic Forum and Central Banks’s “Great Reset” and to follow through with the U.N./NWO global governance and depopulation agenda, which has been in the planning stages for more than 2 DECADES.
+Period!
+Anyone in denial over this REALITY, hasn’t been paying attention, done enough homework or they are LYING because they are in support of this truly EVIL, totalitarian, genocidal, transhumanism madness.
+It’s as simple as that. 
+This is WAY bigger than political idealogy, bias or all of this systemic racism and “climate change” Agenda 2030 bullshit MSM theater act. 
+Its about right or wrong, good or evil, free society over tyranny and its a matter of life or death.
+THIS IS the ugly truth, we MUST FACE.
+Time to wake up. 
+ ~ DRxNott;)..
+https://www.openvaers.com/covid-data
+
+
+
+
+
+
+30
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alexandru Gava
+
+
+
+Jan 17, 2022 8:26 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Aaron Nottingham
+
+
+
+You can read this article
+https://www.nebraskamed.com/COVID/does-vaers-list-deaths-caused-by-covid-19-vaccines
+
+
+
+
+
+
+0-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Dec 11, 2020 6:04 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Are the New COVID-19 Vaccines Safe and Effective?
+These “vaccines” are NOT Certified by the FDA to be safe and effective. You are being asked to take an “experimental vaccine”. You cannot (as of now) be forced to take an experimental “vaccine”.
+None of the COVID-19 “vaccines” are CERTIFIED by the FDA as being safe and effective to take. You will be offered an “investigational vaccine” under a FDA Emergency Use Authorization (EUA) for which the FDA makes NO unabridged claim of safety, They are OFFERED under an Emergency Use Authorization (EUA), NO ONE can force you to take an “investigational vaccine”
+You will not be getting a FDA Certified Vaccine; you will be taking an investigational vaccine. ALL risk is YOUR risk.
+None of the new COVID “vaccines” are Certified by the FDA as being safe and effective to take. In order to Certify a vaccine a well established PROCESS must be followed including several YEARS of Animal Testing. This certification Process has been found over the last 50 or so years to be REQUIRED to avoid unleashing a DISASTER on hundreds of millions of poor trusting souls. Since the Animal Testing phase of the Certification Process was not done, All of this uncertified CRAP can NEVER be Certified.
+These COVID vaccines are investigational vaccines. They are authorized by the FDA under an EUA. Here is part of the EUA text.
+“Use of an investigational vaccine under an EUA would not be subject to the usual informed consent requirements for clinical investigations; nevertheless, vaccine recipients will be provided a fact sheet that describes the investigational nature of the product, the known and potential benefits and risks, available alternatives, and the option to refuse vaccination. To minimize the risk that use of a vaccine under an EUA will interfere with long-term assessment of safety and efficacy in ongoing trials, it will be essential to continue to gather data about the vaccine even after it is made available under the EUA. Continued follow-up of clinical trial participants to further refine efficacy estimates, further evaluate the potential for enhanced disease and waning of immunity, and obtain additional active safety follow-up will be essential in order to ensure public confidence in a broadly administered vaccine” Emergency Use Authorization of Covid Vaccines …”  Safety and Efficacy Follow-up Considerations List of authors Philip R. Krause, M.D., and Marion F. Gruber, Ph.D
+In other words you are PART of a gigantic Clinical Trial. The FDA is telling us we have no full and good evidence that this “vaccine” will not greatly harm or KILL you two, three or twenty years down the road but we FEEL you are probably at least somewhat safe. YOU however are betting your health and life on this UNKNOWN “vaccine” which we do not fully know either. If you feel the risk is in your interest you are free to get shot up.
+Please read and UNDERSTAND. How many good people are going to be shot up with this needless garbage and do not UNDERSTAND the many and serious risks they are undertaking?
+Where are the COVID-19 Deaths?
+http://healthyprotocols.com/image_John-Hopkins-Covid-study.jpeg
+“Surprisingly, the deaths of older people stayed the same before and after COVID-19. Since COVID-19 mainly affects the elderly, experts expected an increase in the percentage of deaths in older age groups. However, this increase is not seen from the CDC data. In fact, the percentages of deaths among all age groups remain relatively the same… .”
+“When Briand looked at the 2020 data during that seasonal period, COVID-19-related deaths exceeded deaths from heart diseases. This was highly unusual since heart disease has always prevailed as the leading cause of deaths. However, when taking a closer look at the death numbers, she noted something strange. As Briand compared the number of deaths per cause during that period in 2020 to 2018, she noticed that instead of the expected drastic increase across all causes, there was a significant decrease in deaths due to heart disease. Even more surprising, as seen in the graph … , this sudden decline in deaths is observed for all other causes.”
+They also do not understand how FEW people (5% of “COVID-19 deaths”) are actually dying of the SARS-CoV-2 virus these “vaccines” are said to “protect” against.
+Are we going to force this disaster into our pregnant mothers, babies and children like the “flu shot”. I find this difficult to believe but this whole CON-19 deadly fraud is difficult to believe.
+ //:0
+
+
+
+
+
+
+30
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Panther
+
+
+
+Dec 10, 2020 2:34 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+The pandemic and the associated restrictions are causing a lot of suffering. Many die, many suffer from long-lasting complications due to the virus, the economy suffers, many lose income and jobs. This is all very bad.
+But much worse than that are people like you who spread such untruths and encourage people that it is all a worldwide conspiracy. People like them are destroying the trust of many people in the science that made our civilization possible in the first place. You are like Trump, who simply denies the truth, claims the opposite, and is so very successful with his supporters. This will change the world much more for the worse than the pandemic, which will probably be over in a year or so.
+You also denigrate the nurses and doctors who are on the front lines of the battle against the virus in the hospitals, who see on a daily basis what the virus and the often excessive immune response of the body are doing and are doing their best to save as many lives as possible. They are often working to exhaustion and you are making them all complicit in a worldwide conspiracy. Shame on you!
+It is obvious to a scientist that you do not understand many of the concepts involved in the PCR test and therefore come to the wrong conclusions. But since you obviously have a great resistance to facts because of your reaction to PolitiFact, there is no point in explaining it to you.
+
+
+
+
+
+
+1-25
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grandma B
+
+
+
+Dec 13, 2020 10:50 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+It has happened before and can happen again. Faith in Quick Test Leads to Epidemic That Wasn’t – The New York Times (nytimes.com)
+
+
+
+
+
+
+120
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Panther
+
+
+
+Dec 15, 2020 9:55 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Grandma B
+
+
+
+If you believe the NYT in that, why you don’t now with covid? You are just picking what fits into your view.
+
+
+
+
+
+
+0-13
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ScandalOfTheDay
+
+
+
+Dec 20, 2020 8:06 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+Even a broken clock is right twice a day
+
+
+
+
+
+
+80
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+ScandalOfTheDay
+
+
+
+Dec 20, 2020 8:02 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+it actually is a worldwide conspiracy
+The proof is right under your nose.
+
+
+
+
+
+
+90
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Petra Liverani
+
+
+
+Dec 9, 2020 9:03 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Just to point out that PolitiFact allegedly debunked this article on July 7, however, they have not been able to respond to the rebuttal of their debunking.
+Alleged debunking by PolitiFact, July 7, 2020
+https://www.politifact.com/factchecks/2020/jul/07/blog-posting/covid-19-tests-are-not-scientifically-meaningless/
+Rebuttal of debunking by article authors, July 31, 2020
+https://off-guardian.org/2020/07/31/open-letter-refuting-politifacts-fact-check/
+Not a word from PolitiFact since!
+
+
+
+
+
+
+150
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Panther
+
+
+
+Dec 15, 2020 9:44 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Petra Liverani
+
+
+
+The so called “rebuttal” of debunking is not worth a reply, since Engelbrecht and Demeter show such a lack of scientific background, it’s like when someone who can spell the word relativity wants to argue with Einstein about its validity.
+
+
+
+
+
+
+0-15
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fred Harris
+
+
+
+Dec 19, 2020 1:16 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+Politifact are not a science based organisation either.
+
+
+
+
+
+
+80
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manuel
+
+
+
+Dec 24, 2020 11:58 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+The Disqualification by Adjectives that this “Paid Shill Cartoon” called Pink Panther uses to disqualify valid argumentation is the most pathetic tool in existence. It simply proves Idiocy, or that he is a Mercenary. Hope his children or future children read these comments and MAYBE they will evaluate their dad.
+
+
+
+
+
+
+70
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Petra Liverani
+
+
+
+Jan 1, 2021 6:27 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+I was taught always to think for myself as much as possible, Pink Panther, not to look at source or credentials as first port of call but to apply my mind to the content presented before me. When it comes to virology it doesn’t take long for my eyes to glaze over and I know I need help but I also know it doesn’t necessarily have to come from acknowledged experts because experts have often been proved wrong and when it comes to hoaxing by the government it is amazing how experts will suddenly seem to lose their critical thinking skills.
+It is difficult to get a man to understand something when his salary depends on his not understanding it.
+Upton Sinclair
+So your argument “The so called “rebuttal” of debunking is not worth a reply, since Engelbrecht and Demeter show such a lack of scientific background …” is worthless because – even to lay people such as us – it is very, very obvious that the alleged debunking by PolitiFact is of abysmal quality and what the two authors, uncredentialled in science as they may be, say is obviously very well-researched and well-evidenced.
+
+
+
+
+
+
+80
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vikram Singh Meena
+
+
+
+Dec 9, 2020 5:32 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+dr Biswaroop Roy Choudhury From india …cured more than 50 thousand covid 19 positive and ili patients by the Plant based Diet with zero medicine and zero mortality with his NICE (Network of influenzacare experts) official documented
+
+
+
+
+
+
+2-2
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aliston Andy
+
+
+
+Dec 7, 2020 1:25 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Heart failure cannot be cured though there is a range of treatment options available to manage and improve quality of life.
+
+
+
+
+
+
+1-2
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Dec 4, 2020 5:29 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+    COVID-19 IS a Crime against Humanity The Largest Crime in Human History
+COVID-19 is an extension of the “logic” that gave us “Some little girls have penises and some little boys have periods.”
+“The PCR test can be used to find almost anything in anybody.”   Doctor Kary B. Mullis Noble Prize in Chemistry for creating the PCR technology
+ “I’m skeptical that a PCR test is ever true.”    Dr. David Rasnick, bio-chemist, protease developer and former founder of an EM lab called Viral Forensics
+“This corona crisis, according to all we know today, must be renamed a Corona Scandal and those responsible for it must be criminally prosecuted and sued for criminal damages. On a political level everything must be done to make sure that no one will ever again be in a position of such power to be able to defraud humanity or to attempt to manipulate us with their corrupt agenda.”  COVID-19 IS a Crime against Humanity  Note Criminal Damages should run in the tens of TRILLIONS. Certainly at least manslaughter criminal charges are also required.
+“Is there a corona panic or is there only a PCT test panic?”  COVID-19 IS a Crime against Humanity  Note the PCR test is the weak link in this Crime Against Humanity it is easily shown scientifically to not detect an active SARS-Cov-2 infection
+“More than 50,000 scientists. doctors and HC professionals, as well as more than 677.319 people have signed the Great Barrington Declaration, opposing a second COVID-19 lockdown because, it’s doing much more harm than good.”   Great Barrington Declaration
+ “If there was any justice in the world and crime didn’t pay, everyone at the Guardian (and the BBC, NYT, WaPo, CNN, MSNBC etc.) would be locked up as accomplices to Mass Murder and enemies of humanity. There are no words available to adequately describe the scale of the crimes that still being committed. My blood boils and I am sick to my stomach that the criminals and fraudsters are still getting away with it.”   Just 14% of positive PCR tests were infectious in the UK between April and June. Media still trying to keep baseless Covid Hysteria alive
+  No, “Coronavirus” Hasn’t Thrown 100 Million Into Extreme Poverty…The LOCKDOWNS Did That
+JOHNS HOPKINS DEVELOPS MICRO DRUGS DELIVERED BY SWAB!      Yeah like the one shoved up your nose for a PCR Test
+“The PCR test can be used to find almost anything in anybody.”   Doctor Kary B. Mullis Noble Prize in Chemistry for creating the PCR technology, 
+At this point in time, 04 Dec 2020, it is totally clear what we are dealing with in COVID-19 is NOT a Health Emergency. We are dealing with The Largest Crime in Human History.
+“People with learning disabilities are up to 30 times more likely to die of coronavirus, according to a report by Public Health England. Experts said those aged 18-34 had a Covid fatality rate of 36.3 deaths per 100,000 people, compared to 1.2 per 100,000 in the general population.”    People with learning disabilities are up to 30 TIMES more likely to die from Covid-19, PHE study finds   Note in my forty years of investigating “vaccination” I have concluded most “learning disabilities” are an often indirect result of Vaccine Damage. So the “solution” to the COVID-19 deaths and damage is to be the same thing that CAUSED much of the deaths and damage. Folks we wake up or die.
+http://healthyprotocols.com/image_learning%20disabilities.jpg
+http://healthyprotocols.com/2_corona_virus.htm
+
+
+
+
+
+
+13-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Panther
+
+
+
+Dec 10, 2020 12:31 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+lou
+
+
+
+You are completely fooling yourself with quotes taken out of context only to fit into your narrative. The exceeding mortality even in tropical countries not knowing flu seasons is a clear sign that there is a pandemy going on. It is nothing compared to the devastating spanish flu 100 years ago, but it killed for example more americans than WWI.
+Any time in a country the positive PCR test rate is going up, the hosplitalizations increase and death rates too. What is here not to understand, if you are willing to accept simple facts?
+If the PCR test is showing too many positives, why still 75-95% are negative?
+Of course the economic damage due to the restrictions is huge, but if nothing is done, the death rates may get as high as the spanish flu, since about 90% of the world population is not yet infected.
+Fact check my comment in fall 2021 for this: Till then, almost everything is back to normal, no restrictions any more (at least in democratic countries), most people immune thanks to vaccinations.
+
+
+
+
+
+
+0-20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Dec 11, 2020 6:15 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+“The exceeding mortality even in tropical countries not knowing flu seasons is a clear sign that there is a pandemy going on.”
+Sir please show your data. 
+I have.
+http://healthyprotocols.com/image_John-Hopkins-Covid-study.jpeg
+“Surprisingly, the deaths of older people stayed the same before and after COVID-19. Since COVID-19 mainly affects the elderly, experts expected an increase in the percentage of deaths in older age groups. However, this increase is not seen from the CDC data. In fact, the percentages of deaths among all age groups remain relatively the same… .”
+“When Briand looked at the 2020 data during that seasonal period, COVID-19-related deaths exceeded deaths from heart diseases. This was highly unusual since heart disease has always prevailed as the leading cause of deaths. However, when taking a closer look at the death numbers, she noted something strange. As Briand compared the number of deaths per cause during that period in 2020 to 2018, she noticed that instead of the expected drastic increase across all causes, there was a significant decrease in deaths due to heart disease. Even more surprising, as seen in the graph … , this sudden decline in deaths is observed for all other causes.”
+They also do not understand how FEW people (5% of “COVID-19 deaths”) are actually dying of the SARS-CoV-2 virus these “vaccines” are said to “protect” against.
+
+
+
+
+
+
+80
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Craig Austin
+
+
+
+Nov 30, 2020 3:06 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make copies before the book burners arrive.
+
+
+
+
+
+
+70
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Isai Beltran
+
+
+
+Nov 15, 2020 8:50 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a damn good article. Ive been deep in this subject and am surprised I hadn’t come across this sooner. Really puts everything into one neat little article. Thank you guys!
+
+
+
+
+
+
+15-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daniel
+
+
+
+Nov 1, 2020 10:35 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+For the people asking which agent can cause COVID-19 symtoms supposing is not SARS-COV-2 virus. I can say that many agents can imbalance heavily the immune system and cause alterations in circulatory system. Surprisingly for me just a few people seems to be aware about the risks of electromagnetic radiation, and here I am not talking about these “conspiracy” theories about 5G, (which as far as I know it is not really deployed in almost any country in the most ambitious definition of 3GPP). I am talking about there are a few experimental studies that show clearly how with the proper radiation in terms of frequency, power, and pulse pattern can be caused in the human body the same symtoms as COVID-19 has, including: microvascular damage, cell apoptosis, kupffer cell activation, altered cytokine expression and immune response modulation. These effects occur using non-ionizing radiation (microwaves) and are considered non-thermal effects.
+
+
+
+
+
+
+170
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cecelia Doucette
+
+
+
+Nov 9, 2020 9:11 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Daniel
+
+
+
+Thank you, Daniel, for raising the wireless radiation issue. Please know there will be an international medical conference on this January 28-31. World leading scientists and doctors who specialize in non-thermal electromagnetic fields (EMFs) of radiofrequency radiation will educate on how to recognize, diagnose, treat and prevent microwave illnesses. The symptoms, as you note, are similar to many of the COVID-19 symptoms. The science is clear that today’s wireless radiation hits the immune system especially hard, and the nervous system, and dysregulates our circadian rhythm. Although this is a medical conference, because it’s had to be moved to an on-line platform, the public is welcome to register at a reduced rate to learn about this critical issue too: https://emfconference2021.com/
+
+
+
+
+
+
+80
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Robert
+
+
+
+Nov 1, 2020 4:05 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+This article asserts that the PCR tests to detect the presence of SARS-CoV-2 (which causes Covid-19) is scientifically meaningless. The solution is to avoid using the PCR tests and to create a Gold Standard test to diagnose whether a patient has Covid-19 or not.
+This article does not claim that the SARS-CoV-2 virus does not exists nor does it deny that the genome of the SARS-CoV-2 has been sequenced. 
+This is because if the SARS-CoV-2 virus does NOT exist then which pathogen is causing Covid-19 which, so far, has sickened 46 million people around the world and have killed 1.2 million, according to statistics from the John Hopkins Hospital?
+
+
+
+
+
+
+6-41
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sean Drake
+
+
+
+Nov 13, 2020 9:57 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Robert
+
+
+
+Is this the same John Hopkins that sponsored Event 201 last October?
+
+
+
+
+
+
+290
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+waterfront4rmi
+
+
+
+Dec 1, 2020 9:38 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Robert
+
+
+
+oh come on man….you gotta admit the covid is the cure for the flu.
+
+
+
+
+
+
+90
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Dec 4, 2020 5:46 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Robert
+
+
+
+“The solution is to avoid using the PCR tests and to create a Gold Standard test to diagnose whether a patient has Covid-19 or not.”
+COVID-19 is NOT a disease but mostly a compendium of statistically contrived deaths. It is easy to show the “COVID-19 deaths” are not actula deaths. Just look at Total Mortality; if the “COVID-19 Deaths” were actual deaths, Total Mortality MUST have increased over the baseline.
+CDC Data: Total Mortality from 02/01/2020 to 09/05/2020  Note please observe the Total Mortality has remained almost exactly the SAME. Although we had over 130,000 “COVID-19 deaths”
+“After retrieving data on the CDC website, Briand compiled a graph representing percentages of total deaths per age category from early February to early September, which includes the period from before COVID-19 was detected in the U.S. to after infection rates soared.“
+http://healthyprotocols.com/image_John-Hopkins-Covid-study.jpeg
+“Surprisingly, the deaths of older people stayed the same before and after COVID-19. Since COVID-19 mainly affects the elderly, experts expected an increase in the percentage of deaths in older age groups. However, this increase is not seen from the CDC data. In fact, the percentages of deaths among all age groups remain relatively the same… .”
+“When Briand looked at the 2020 data during that seasonal period, COVID-19-related deaths exceeded deaths from heart diseases. This was highly unusual since heart disease has always prevailed as the leading cause of deaths. However, when taking a closer look at the death numbers, she noted something strange. As Briand compared the number of deaths per cause during that period in 2020 to 2018, she noticed that instead of the expected drastic increase across all causes, there was a significant decrease in deaths due to heart disease. Even more surprising, as seen in the graph below, this sudden decline in deaths is observed for all other causes.”
+Folks please reread and observe until you completely UNDERSTAND how this Deadly Fraud is being constructed. A LOT of highly Authoritative people in high CDC and government positions HAD to cooperate to achieve this ILLUSION of death. Tens of millions of lives are being extinguished and harmed. WHY? The “Great Reset” folks; the “Great Reset”. 
+Now I do suspect the recently given “flu shots” may have injected some actual deaths into the mix. We may see this when these total Mortality data are released; if the HONEST MORTALITY DATA is released.
+I must thank from the bottom of my heart the HONEST people compiling the Total Mortality data; pray for these good people I am afraid they are going to come under TREMENDOUS political pressure to falsify the raw Total Mortality data.
+
+
+
+
+
+
+50
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Panther
+
+
+
+Oct 31, 2020 7:43 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Very sad to read that, since you are misunderstanding so many things. You make so obvious that you are lacking the proper education on this matter. One example: The SARS-CoV-2 has been sequenced completely and from this the PCR-Test has been made as a fingerprint. Positive PCR tests are regularly tested by sequencing the whole RNA and until today, all have been verified as being the SARS-CoV-2.
+You are just riding these ridiculous conspiracy theories. Luckily after this pandemic your lies will be obvious.
+
+
+
+
+
+
+5-65
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donald Hoffman
+
+
+
+Nov 1, 2020 4:01 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+maybe the kool aide you’re drinking will be the new cure
+
+
+
+
+
+
+250
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bill Brown
+
+
+
+Nov 2, 2020 12:23 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+And your expertise on this matter and qualifications to comment on other posts herein is based on what level of education and proof of such?
+
+
+
+
+
+
+120
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Dec 4, 2020 6:03 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+“The SARS-CoV-2 has been sequenced completely and from this the PCR-Test has been made as a fingerprint.”
+NO!
+“The PCR test can be used to find almost anything in anybody.”   Doctor Kary B. Mullis Noble Prize in Chemistry for creating the PCR technology, 
+Are you telling me the man who INVENTED PCR Technology does not know what he is talking about but your uncredentialed propaganda does?
+As our half brained “Pres elect” says Come on man.
+
+
+
+
+
+
+90
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Panther
+
+
+
+Dec 10, 2020 11:46 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+lou
+
+
+
+You do not understand what Mullis meant with that. The PCR test in general can be made to find almost anything. But a specific PCR test is ALWAYS made exactly to find something very specific. A single PCR test does not find everything, only what it is supposed to find (if it exists and not too many cycles are run). In this case, it was made for SARS-CoV-2.
+
+
+
+
+
+
+0-5
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Dec 11, 2020 6:20 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+“The SARS-CoV-2 has been sequenced completely and from this the PCR-Test has been made as a fingerprint.”
+Sir please show your data AND your supporting peer reviewed scientific papers.
+
+
+
+
+
+
+40
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Panther
+
+
+
+Dec 15, 2020 9:22 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+lou
+
+
+
+Sequencing is not easy, but many did that:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7272567/
+https://www.nature.com/articles/s41591-020-0997-y
+https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(03)13414-9.pdf
+Here about the story of it: First complete sequence was done Januray 10, 2020: https://www.the-scientist.com/news-opinion/how-sars-cov-2-tests-work-and-whats-next-in-covid-19-diagnostics-67210
+And here in connection with the PCR test:
+https://www.mdpi.com/1999-4915/12/8/895/pdf
+https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00751-4
+Honestly, based on your comments, here I doubt that you’re able to understand these articles.
+
+
+
+
+
+
+1-7
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Purple Panther
+
+
+
+Dec 27, 2020 12:23 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+You’ve set up a really great straw man. Did you even read this article that you’re commenting on? Sequencing some genetic material is not at issue. Isolating a virus and proving that it causes a specific disease is. You can test all the RNA you want and find as many millions and billions of cases you want. It doesn’t prove that something called “SARS-CoV-2” causes something called “COVID-19”.
+
+
+
+
+
+
+6-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum State
+
+
+
+May 18, 2021 3:19 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+Sorry PP, you’ve got a nasty demeanor. Either YOU do not understand these articles, or you are a shill paid to purposely try to bait us to argue with you and poison the well with bullshit. Just the top PMC paper for example, did not isolate the RNA sample by density gradient centrifuge etc, they only made a cell culture. They did a metagenomic examination and they then prepared an RNA Illumina next-generation sequencing (NGS) library, meaning, they got sequences to fill in from a data base (Illumina bar codes etc.), then made a library making it seem like this piece of silicon bullshit is a real organism now registered some place. They did not sequence the whole genome base by base, did not isolate the sample, and did not confirm a pathogen. This is the same way Sars-COv-2 was “found” in Wuhan in January ’20, genome found by the same piece of Illumina silicon, and started a fake pandemic leading to the oppression and deaths of many people. The PCR is then made to lead to this entry in the gene bank, so they made a genome and the test mapped to only find this genome!! It is simply circular BS biomedical fraud shrouded in fancy terminology. Either you are a real idiot and just read paper titles or you’re paid to promote the fraud.
+
+
+
+
+
+
+60
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revelation20:10
+
+
+
+Aug 19, 2021 3:31 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+Correct this is the true science. How can you create a jigsaw puzzle with pieces that could have been from anywhere?
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raffaele Attanasio
+
+
+
+Oct 26, 2020 8:30 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grazie mille per il meraviglioso servizio di informazione che svolgete. La stampa libera in Italia non esiste più.
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Klaus K.
+
+
+
+Oct 22, 2020 1:01 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+There is another study here (preprint), claiming they isolated the virus:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7239045/
+
+
+
+
+
+
+1-14
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dejoos
+
+
+
+Oct 25, 2020 9:05 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Klaus K.
+
+
+
+Klaus, did you even read the full article and the thread of comments below before posting your link? In the abstract they are telling you that they used Vero cells…
+
+
+
+
+
+
+24-2
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Panther
+
+
+
+Dec 15, 2020 9:24 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Dejoos
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7272567/
+https://www.nature.com/articles/s41591-020-0997-y
+https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(03)13414-9.pdf
+https://www.the-scientist.com/news-opinion/how-sars-cov-2-tests-work-and-whats-next-in-covid-19-diagnostics-67210
+https://www.mdpi.com/1999-4915/12/8/895/pdf
+https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00751-4
+And now tell me again that they didn’t get a full sequence of the virus!
+
+
+
+
+
+
+0-8
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum State
+
+
+
+May 23, 2021 4:25 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+I already replied to your similar comment on Dec 27, 2020 12:23 AM above. Either you didn’t read or don’t understand metagenomic Illumina whole genome sequencing fraud on non-purified and thus non-isolated samples, or you’re a troll.
+
+
+
+
+
+
+30
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Purple Panther
+
+
+
+Dec 27, 2020 12:35 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Dejoos
+
+
+
+And. The article is still in preprint. 9 months later.
+
+
+
+
+
+
+30
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum State
+
+
+
+May 23, 2021 4:19 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Klaus K.
+
+
+
+Ditto Dejoos, you can’t learn anything if you don’t lookup things yourself. The “whole genome sequencing” section is short. You need to look up each procedure and product to see WTF they are really doing. 
+That paper says, “Samples were pooled and sequenced with a paired-end 75 base protocol on an Illumina MiniSeq instrument using the High-Output kit.” Meaning, they got sequences to fill in from a computer data base (more likely they just made up the genome from before), then made a library making it seem like this piece of silicon bullshit is a real organism now registered some place. They did not sequence the whole genome base by base, did not isolate the sample, and did not confirm a pathogen. This is the same way Sars-COv-2 was “found” in Wuhan in January ’20, genome found by the same piece of Illumina silicon, and started a fake pandemic leading to the oppression and deaths of many people. The PCR is then made to lead to this entry in the gene bank, so they made a genome and the test mapped to only find this genome!! It is simply circular BS biomedical fraud shrouded in fancy terminology. 
+Read, look up, read more, wash, rinse, repeat.
+
+
+
+
+
+
+30
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guy
+
+
+
+May 23, 2021 6:10 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Quantum State
+
+
+
+Just read your post and thought to comment on the genome aspect.I am not a credited scientist but have done much research regarding this Sars-Cov2 , the so called vaccines etc.
+You might be interested in seeing some information and discoveries from the Nobel laureate Luc Montagnier regarding the wave if you have not seen same already.
+Water Memory (2014 Documentary about Nobel Prize laureate Luc Montagnier)
+https://www.youtube.com/watch?v=R8VyUsVOic0&t=1s
+https://rairfoundation.com/bombshell-nobel-prize-winner-reveals-covid-vaccine-is-creating-variants/
+and 
+https://risingtidefoundation.net/2020/04/29/dr-luc-montagnier-and-the-coming-revolutions-in-optical-biophysics/
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum State
+
+
+
+May 24, 2021 3:18 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Guy
+
+
+
+Hello, The water memory idea is very interesting and could be true indeed. A nano-assembly system could also make molecules cheaply, that’s what a cell does!!
+About the variants, Dr. M. could be correct about vaxes making them under the assumption that sars-cov-2 exists. I don’t know if he is up on the “metagenomic-illumina-never purified/isolated” problem. If he talks about variants, I guess he’s not because he first has to explain how a variant can come about if there is no original. It ‘s more likely that the original and its variants (that are just a few base pairs different) were planned in advance and a catalog of all these was made to be pulled out of a hat like a rabbit when needed. You did notice the variant scare coming just as the vaxes are in push-mode? Variants are also rarely more deadly because they could not live to transmit like the original and would not take over from the original like they seem to be doing. Its more likely that the PCR test kit distribution for variant A, B or C are taking over.
+If we say a virus exists and he wants to invoke water memory, that doesnt work easily, water memory is for molecules, a virus is huge and very complex compared to a molecule of DNA even. And what electronic transmission devices and readers made a virus from empty water from person to person?? Water memory is believable to me though and very interesting-but not connected to the genomic determination and purification of Sars-Cov-2. Thank you Guy.
+
+
+
+
+
+
+30
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guy
+
+
+
+May 24, 2021 2:18 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Quantum State
+
+
+
+What got me interested in professor Luc Montagnier;s work initially was the work of Masuru Emoto in Japan .
+https://awakenzone.com/blogs/news/discoveries-of-masaru-emoto-about-the-memory-and-member-of-water
+When I saw the information about the wave theory by Luc Montagnier,which was following the studies previously done by Jacque Beneviste ,who was ridiculed because of his theories and findings ,it tweaked my curiosity as I have known for quite some time that frequency affects matter . In my view my research on Royal Raymond Rife frequency therapy proves this.
+That is exciting research which might be proven by what professor Luc Montagnier has demonstrated by sending the genome sequence via electronic transmission to another country and reconstituted to almost exactly .
+You might be interested in this other study and given by the The Solari Report Future Science – The Wave Genome – Quantum Holography of DNA with Ulrike GranöggerIn my unaccredited view ,this information also ties in and we are ,in my view,
+on the cusp of a major leap on how medical therapy is done. Just in time as the pharmaceutical industry was/is overwhelming the world .Cheers.
+
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Oct 12, 2020 6:31 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://youtu.be/kr04gHbP5MQ
+“This corona crisis, according to all we know today, must be renamed a Corona Scandal and those responsible for it must be criminally prosecuted and sued for criminal damages. On a political level everything must be done to make sure that no one will ever again be in a position of such power to be able to defraud humanity or to attempt to manipulate us with their corrupt agenda.”  COVID-19 IS a Crime against Humanity  Note Criminal Damages should run in the tens of TRILLIONS. Certainly at least manslaughter criminal charges are also required.
+“Is there a corona panic or is there only a PCT test panic?”  COVID-19 IS a Crime against Humanity  Note the PCR test is the weak link in this Crime Against Humanity it is easily shown scientifically to not detect an active SARS-Cov-2 infection
+“More than 16000 scientists and doctors, as well as more than 150,000 people have signed the Great Barrington Declaration, opposing a second COVID-19 lockdown because, according to them, it’s doing much more harm than good.”    Great Barrington Declaration
+At this point in time, 10 Oct 2020, it is totally clear what we are dealing with in COVID-19 is NOT a Health Emergency. We are dealing with The Largest Crime in Human History.
+    
+
+The total DAMAGE from Government policy far EXCEEDS, by many times, the damage from the health consequences from COVID-19
+
+
+We are basing our government policy, our economic policy and are restricting our basic human rights on completely wrong data and assumptions on the corona virus. If it were not for the “test results” that are daily reported in the corrupt MSM then it would be over because basically nothing really happened.
+
+
+Do the so called anti-corona measures such as the lockdowns, face masks, social distancing and quarantining serve to protect the world’s population from corona or do they serve other agendas? Item one on the agenda it to create FEAR.
+
+
+The anti-corona measures whose only basis is the incorrect PCR test have harmed innumerable human lives and have destroyed the economic existence of countless companies and individuals world wide.
+
+
+The PCR Test is being used used on the basis of false statements by highly placed health authorities, not based on scientific facts with respect to infection.
+
+
+A positive PCR Test does not mean any infection in present in the person tested. About 90% of positive tests are FALSE POSITIVES with no SARS-CoV-2 infection present in the tested person.
+
+
+The test information coming with the PCR test kits state they are not to be used for diagnostic purposes. The CDC states the same thing, as does the inventor of the PCR method Doctor Mullis.
+
+
+The mortality of corona is equivalent to that of the seasonal flu,
+
+
+COVID-19 has not caused any excess morality anywhere in the world.
+
+
+The German Government was massively lobbied by by the world’s Big Health Care establishment?
+
+
+The German Government’s Interior Dept has published a report stating the population was deliberately driven to panic by politicians and the media. The honest person responsible for this important report was FIRED by the German government. This show the corruption and crimes includes the German government. This firing of honest people for speaking truth about CON-19 is occurring in large entities all over the world.
+
+
+Our, we the people, only out of this CON-19 is to LOSE our FEAR of CON-19 and call out all the clowns promoting this FEAR. The best way to begin to do this is to learn a little about the fraudulent “PCR test”. All else will follow,
+
+
+
+
+
+
+
+30-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JohnJonez
+
+
+
+Oct 29, 2020 9:34 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+lou
+
+
+
+video is gone anyone can link to a copy of it? dont even bother putting stuff on youtube anymore unless you speak in code and mention nothing about covid in the title, they’re heavily censoring the truth.
+
+
+
+
+
+
+60
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tim
+
+
+
+Nov 7, 2020 7:09 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+JohnJonez
+
+
+
+youtube.com / watch?v=uQuYwJ-fjfY
+
+
+
+
+
+
+2-2
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+SzymonMazury
+
+
+
+Oct 10, 2020 7:28 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maybe explanation here is too vague. I am still not convinced that “SARS-CoV-2 RNA is based on faith”. 
+So what is the RNA sequence they isolated called Sars-Cov2 and look for?
+They compare it with Sars-Cov like here: https://www.biorxiv.org/content/10.1101/2020.02.16.951723v1.full.pdf
+What are they comparing there?
+“In other words, the existence of SARS-CoV-2 RNA is based on faith, not fact.”
+They sequenced it independently in a few labs coming up with a similar sequence from i am guessing difference samples. So how is it unreal? What RNA with this particular sequence are they analysing & how come is it not a virus if they can find similarities and differences between it and Sars-Cov virus? Is Sars-Cov virus also not existing? If not what killed the people in Asia when there was the Sars outbreak? 
+They also talk about differences in Spike protein. What RNA are they comparing there if Sars-Cov2 is not? 
+https://www.biorxiv.org/content/10.1101/2020.03.05.976167v1.full
+“Nucleic acids were prepared from infected cellular material, following inactivation with linear acrylamide and ethanol. RNA was extracted from a modest cell pellet (~200mg) using manually prepared wide-bore pipette tips and minimal steps to maintain RNA length for long read sequencing, and a QIAamp Viral RNA Mini Kit (Qiagen, Hilden, Germany). Carrier RNA was not added to Buffer AVL, with 1% linear acrylamide (Life Technologies, Carlsbad, CA, USA) added instead. Wash buffer AW1 was omitted from the purification stage, with RNA eluted in 50 μl of nuclease free water, followed by DNase treatment with Turbo DNase (Thermo Fisher Scientific, Waltham, MA, USA) 37°C for 30 min. RNA was cleaned and concentrated to 10 μl using the RNA Clean & Concentrator-5 kit (Zymo Research, Irvine, CA, USA), as per manufacturer’s instructions.” (…) “Characterisation of SARS-CoV-2 subgenome-length mRNA architectureDirect RNA reads passing the above thresholds were aligned to the genome of the cultured Australian SARS-COV-2 isolate (MT007544.1), with parallel and concordant analyses in Geneious Prime (2019.2.1, []) and minimap2 v 2.11 using the “spliced” preset []. Coverage statistics were determined from the resulting read alignments.”
+What is the RNA they sequenced here? How is it not a virus. How is it not Sars-cov2. And if it is not it what is it then? 
+”
+“And although they claim “virologists at the Charité are sure that they are testing for the virus,” in their paper (Corman et al.) they state:
+RNA was extracted from clinical samples with the MagNA Pure 96 system (Roche, Penzberg, Germany) and from cell culture supernatants with the viral RNA mini kit (QIAGEN, Hilden, Germany),”
+Which means they just assumed the RNA was viral.
+Incidentally, the Corman et al. paper, published on January 23, 2020 didn’t even go through a proper peer review process, nor were the procedures outlined therein accompanied by controls — although it is only through these two things that scientific work becomes really solid.””
+The RNA is what? A matter of belief or a real thing? It probably has a sequence, the one possible to compare with Sars-Cov sequence or with other coronaviruses. If they sequenced something else wouldn’t they see it wasn’t a virus? Others wouldn’t debunk their sequence as something not being a virus or similar to other coronavirus?
+So what it didn’t even go through a paper peer review. Did your article went such a peer review? How are we going to believe it – just as a matter of our belief?
+It doesn’t matter if it was viral or not. But it repeats in sick people. Correlation isn’t a causation but it is enough of a way to find the diseases people to some degree of certainty.
+Maybe write something what samples are they testing too.
+They found 40 versions of the virus or so. What the sequences are? Not a virus? A random similar RNA from a randomly sick people?
+Correct me if i am wrong.
+
+
+
+
+
+
+4-2
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Oct 12, 2020 6:43 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+SzymonMazury
+
+
+
+“I am still not convinced that “SARS-CoV-2 RNA is based on faith”.”
+This is not our fundamental problem. Let us assume for arguments sake such an RNA does exist.
+It has not been shown in a scientific peer reviewed paper that what ever it is that the SARS-Cov-2 RT-PCR test tests “positive” for is contained in an active SARS-Cov-2 infection present in the body of the tested person. 
+This must be scientifically demonstrated for the SARS-CoV-2 RT-PCR test to be meaningful.
+
+
+
+
+
+
+140
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Panther
+
+
+
+Dec 15, 2020 9:29 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+SzymonMazury
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7272567/
+https://www.nature.com/articles/s41591-020-0997-y
+https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(03)13414-9.pdf
+https://www.the-scientist.com/news-opinion/how-sars-cov-2-tests-work-and-whats-next-in-covid-19-diagnostics-67210
+https://www.mdpi.com/1999-4915/12/8/895/pdf
+https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00751-4
+You are surely no virologist and obviously no scientist either, since you are simply puzzled by the honest language of scientists. But the links above should give you enough evidence about the fact that the virus has been sequenced completely, so it’s now easy to even detect mutations very fast, and more important in this whole context, that the PCR test is based on complete sequence of the virus.
+
+
+
+
+
+
+0-4
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Admin
+
+
+
+
+
+Sam - Admin2
+
+
+
+Dec 16, 2020 2:29 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Pink Panther
+
+
+
+Many argue that sequencing the virus can be achieved using different methods, some more reliable than others, which is potentially very different from physically isolating the virus, and very different again from establishing Koch’s postulates, or a similar criteria, in order to establish that a given virus is the causative agent for a specific disease.
+Whether you consider this question a central requirement to establishing the basic science (which many claim is mystifyingly absent) behind the alleged ‘pandemic’ or whether you consider it merely a quibble, opinions are often divided along a line dissecting those who question the official covid narrative, and those who do not. Those supporting the official narrative see this question as rather redundant, since they claim to see indisputable evidence of a major viral threat decimating the world. Those who are skeptical of the official narrative claim that evidence of decimation is appallingly lacking, including evidence that a virus is the perpetrator, and claim that a firm scientific basis is needed in order to safely manufacture a vaccine (should one be necessary) and in order to meaningfully distinguish deaths caused by a specific disease (with extremely generic symptoms) from deaths caused by (and reassigned due to) other reasons – eg. changes in health protocol, lockdowns, shutdown of care/economy, and excessive levels of fear generated by and perpetuated by the media and authorities.
+In order to start unpicking this mess, a firm basis in science is a good start, many argue.
+Many are puzzled by how little is claimed to be known about this alleged deadly virus – reasonable evidence it causes the generic disease (which might justify diagnosis by test alone); who can transmit it and when; the mechanical process of transmission; whether immunity (the basis for vaccination) is lasting or not; who is actually dying of it and (therefore) how deadly it actually is (especially since the epidemiology appears to say it isn’t that deadly) – while at the same time (and paradoxically) so many absolute certainties are being claimed, especially by media outlets and public figures unqualified to makes such assertions.
+It strikes many that there’s some sort of pathology at work, at the very least.
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum State
+
+
+
+May 18, 2021 3:48 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Sam - Admin2
+
+
+
+It’s easy to relabel colds and Flu Covid. Just get a PCR test because that’s all it leads to.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum State
+
+
+
+May 18, 2021 3:45 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+SzymonMazury
+
+
+
+This was a mixed cell culture sample never isolated by purification and separation ie, density gradient. Everything after that step is then looking like it’s fraud and any findings were likely just prepared on paper in advance, or the mixed cell culture sample could have been an isolated common corona virus and the print-out fudged. It’s unclear how an unpurified cell culture can lead to a Sars genome. Maybe it was a Sars variant, but not Sars-Cov-2 because its never been purified.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Oct 6, 2020 7:28 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+COVID-19 Treatment BOMBSHELL 18,000 IU/day of common vitamin D3
+What’s new is that vitamin D also works in the acute context. You want magic bullets? We got a handful now!
+5 years ago a GP in Edmonton reported dramatic effects on influenza – “complete resolution of symptoms in 48 to 72 hours” from giving 50-60,000 IU of vitamin D3 [8]. Now a new study reports a similar effect on Covid-19.
+The new study, from Cordoba in Spain [9], looked at 76 patients admitted to hospital with signs of both Covid-19 and an acute respiratory infection. 26 patients had only the hospital’s standard care; 50 of them were given vitamin D as well. The form used was the 25-hydroxy D3, the more active form and the one that is usually measured in blood tests. The dose, given on days 1, 3 and 7, so over one week in effect, was equivalent to 128,000 IU in a week or 18,000 units every day of ordinary vitamin D3. This was a big dose, but not dangerous – see below.
+What was the outcome? Here’s the graph. In the control group 50% of patients needed transfer to intensive care units; in the 25 (OH) D group only 2% – one patient out of 50.
+https://orthomolecular.activehosted.com/index.php?action=social&chash=82161242827b703e6acf9c726942a1e4.179&s=d1c1003fe30b50c4fa14275f74909dd1
+
+
+
+
+
+
+90
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+BZQA
+
+
+
+Oct 5, 2020 10:25 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+So, what then does “tests are scientifically meaningless” imply for the current positive test(s) by the President? Does he have it or not? Is there cause for concern or not?
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Oct 16, 2020 8:52 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+BZQA
+
+
+
+For every 100 people who test positive 90 of those will be a false positive,. If you choose 100 people who walk by you on the street at least 10 will have “symptoms” of COVID-19. So what is the difference? Why test at all.
+Trump was very overworked and badly needed a rest; he apparently was suffering an infection of some sort.
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+soli
+
+
+
+Oct 25, 2020 11:23 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+lou
+
+
+
+That is the point. Why test. When you have no idea what you are testing for. Maybe we should ask Bill Gates and his employee Tedros , who has been placed as head of Rockefeller’s WHO. Well we have the mix out here. Rockefeller, Tedros , Gates, maybe China’s Wuhan. And you are talking about a test.Well, they are just testing your IQ. If tomorrow morning they tell you “Sorry guys, this was just an exercise, a joke “, you will just laugh it off. THEY just want to have a little fun with you !
+You will not let it go. Why are so many people dead ? Are they? Do you really want to find out ? Catch a cold. Get hypnotiszd that you have SARS covid-2. You must be real scared by this time. Then they take multiple tests (PCR, antibody, whatever ) and tell you you may not live. You are strapped tight to a bed, with a tight mask to go with it. You cannot get up to go to the bathroom, or just walk around. You sleep on your left or right . But you are forced to sleep on your back. Your breath feels heavy. All windows are shut tight. You see the person next to you having a pseudo cyto kine storm. You are getting fearful. Even your breathing seems to be difficult. You are not very old. But then who knows. The wifi is on in the hospital , going full blast. ( heavens forbid that this is 5G ). You are not comfortable. You would like to get up and run and keep running. Pinch yourself. It was a dream. Not so . The THEY are here . You need a respirator ( it means $39,000 gain of function ) to the hospital. These people look as though they have come from Mars. You must have a contagious disease. Otherwise they would not act so abnormally. They tie you up to this ventilator ( Bennet , I believe ). They turn those controls up ( Tedros told us to use these settings ) Damn it . Now you really cannot breathe !! Now is the time to pull all this garbage off, get off the bed, maneover yourself out of the hospital and RUN for it RUN and keep running How many people have the personal power to do what you have just done? Not many. That is what the deaths are due to. Can the old do what you just did. No. They will die. The Bennett will create a cytokine storm in a normal person if improperly adjusted. That is if it is adjusted to the settings which the WHO recommends. Are you getting it. THIS IS COVID-19. Bill Gates ! What the bloody hell are you up to man. For who are you doing this . Don’t you have kids ?”For the good of humanity ” ?? For the good of humanity 2.0. We had such a love and high regard for you at one time. With all the great work you did in the software world. You have been misled. Rap it up man. Cut it out. Tell them “Yes , it was a joke “. People are really, truly searching for a virus. Any virus will do for covid-19. Or with the PCR test, viral particles. Just 30 in 30,000 is OK ?!
+
+
+
+
+
+
+6-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Oct 31, 2020 4:49 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+soli
+
+
+
+“Well we have the mix out here. Rockefeller, Tedros , Gates, maybe China’s Wuhan. And you are talking about a test.Well, they are just testing your IQ.”
+This is a quick summary of what we have NOW. 
+I am afraid we are to see new more lethal forms of the SARS-CoV-2 Bio Weapon at some point. All will “test” as the same thing of course.
+There are a few twists I feel are probable.
+o SARS-CoV-2 virus enters the cell via the ACE2 cell receptor. Many Big Pharma DRUGS for serious health conditions also use this ACE2 gate into the cell. It is quite possible this may explain the slight increase in lethality over the average corona virus and several other anomalous characteristics of SARS-CoV-2,
+o Most important this may explain the worrisome poor health some victims report for many months AFTER their “COVID-19” has been “cured”; as the poor victims continue to take their Big Pharma Poisons.
+o It is very probable IMO that our wonderful “flu shot” is playing an important part in this deadly hoax. IMO NO NEEDLES of any sort.
+o Whatever it is we are to see in this MULTI-YEAR deadly hoax on mankind will have been well tested in third world countries by our savior Bill “kill em” Gates and his gang of UN Approved criminals.
+o As long as we continue to TRUST our health to Big Pharma Poisons and many dishonest people we will be vulnerable to many deadly hoaxes both visible and invisible.
+http://healthyprotocols.com/2_depopulation.htm.
+
+
+
+
+
+
+2-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edwardo
+
+
+
+Nov 1, 2020 12:44 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+lou
+
+
+
+Bill Gates of Hell you mean.
+
+
+
+
+
+
+40
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Dec 4, 2020 6:21 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Edwardo
+
+
+
+I ran into a new version of doc evil’s name. Baal Gates.
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Panther
+
+
+
+Dec 15, 2020 9:39 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+soli
+
+
+
+Just a bunch of bullshit. You have not ONE SINGLE PROOF for any of your statements about Gates and Tedros and all those theories.
+But surprise, I know you who you are, and I know is that you had a huge car accident 2 years ago, which resulted in a big head injury. The consequence is gaps in memory and difficulty in drawing the simplest logical conclusions. This is why you have lost your job and are depending on welfare. Maybe sometimes you forget that, and then bullshit like this comes out.
+
+
+
+
+
+
+1-4
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quantum State
+
+
+
+May 18, 2021 3:52 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+soli
+
+
+
+Very powerful post, you must be a writer.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+soli
+
+
+
+Oct 25, 2020 11:26 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+lou
+
+
+
+Trump has the personal power. See the way he takes that mask off. I will vote for you Donald. Just for the way you take that mask off. The way you take that mask off says a lot !
+
+
+
+
+
+
+2-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pink Panther
+
+
+
+Dec 15, 2020 9:33 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+lou
+
+
+
+And where is this data from? Seems you know of a method that can verify PCR test positivity? What type of test is that? Who did do these verifications? Paper? Data?
+You are so wrong with all your claims: You demand bulletproof data (which is okay) but you throw around your own theories without substance and evidence.
+
+
+
+
+
+
+0-3
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+John
+
+
+
+Oct 4, 2020 7:02 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+A little knowledge is a dangerous thing. This article is all over the place.
+
+
+
+
+
+
+7-23
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revelation20:10
+
+
+
+Aug 19, 2021 3:32 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+John
+
+
+
+John, the greatest enemy of knowledge is the fool.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+MTAB
+
+
+
+Oct 2, 2020 10:20 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+“If they could find this virus in you at all, and with PCR if you do it well you can find almost anything in anybody. It’s starts making you believe in the sort of Buddhist notion that everything is contained in everything else, right I mean cause if you can amply one single molecule up to something which you can really measure, which PCR can do, then there’s just very few molecules that you don’t have at least one single one of in your body. OK. So that can be thought of as a misuse of it, just to claim that it’s meaningful….Those tests are all based on things that are invisible and the results are inferred in a sense. PCR is separate from that. It’s just a process that is used to make a whole lot of something out of something. It doesn’t tell you that you are sick and it doesn’t tell you that the thing that you ended up with really was going to hurt you or anything like that.”
+Kerry Mullis, Inventor of the PCR, Nobel Prize Winner in Chemistry, talking about PCR and its use as a diagnostic tool for HIV. Mullis died last year before the start of the COVID-19 crisis. 
+
+
+
+
+
+
+140
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mateo
+
+
+
+Oct 25, 2020 2:44 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+MTAB
+
+
+
+Hey, do you know when he said this, which video/interview it was from.. easier to show people the video then the text. Thanks!
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ladonna
+
+
+
+Nov 18, 2020 2:03 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+mateo
+
+
+
+https://vaccineimpact.com/2020/censored-covid19-pcr-tests-are-scientifically-meaningless-everything-weve-been-told-about-covid-is-a-hoax/
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Petra Liverani
+
+
+
+Sep 24, 2020 6:54 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+PolitiFact have made a truly laughable attempt at debunking this excellent article. I’ve debunked their debunking – certainly didn’t take much effort.
+https://www.politifact.com/factchecks/2020/jul/07/blog-posting/covid-19-tests-are-not-scientifically-meaningless/
+https://occamsrazorterrorevents.weebly.com/blog/debunking-the-debunkers-pcr-tests-scientifically-meaningless
+
+
+
+
+
+
+140
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+John Doe
+
+
+
+Sep 25, 2020 4:34 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Petra Liverani
+
+
+
+Politifact receives more than 5% of its funding from Facebook. Nice way to phrase it on Politifact website in the about us section.
+Politifact…you’re the biggest fraud here.
+Pants on fire….go fuck yourself!
+
+
+
+
+
+
+100
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Torsten Engelbrecht
+
+
+
+Sep 26, 2020 10:15 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Petra Liverani
+
+
+
+Dear Petra! Thank you very much! Have you seen our rebuttal of the PolitiFact “”hooey” publiches by the OffGuardian as an open letter, see https://off-guardian.org/2020/07/31/open-letter-refuting-politifacts-fact-check/ Torsten (author of this article?
+
+
+
+
+
+
+40
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Petra Liverani
+
+
+
+Sep 26, 2020 11:45 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Torsten Engelbrecht
+
+
+
+Hi Torsten, No, unfortunately, I didn’t see your rebuttal because I certainly would not have gone to the effort of publishing my pathetic effort on my website if I had of course! How embarrassing. I will remove mine and publicise yours as much as possible. Thanks for letting me know.
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Torsten Engelbrecht
+
+
+
+Sep 26, 2020 1:31 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Petra Liverani
+
+
+
+Thank you Petra, for your response! But why not leaving your rebuttal as well? Anyway, thank you again for debunking PolitiFact’s “hooey.” 😉
+
+
+
+
+
+
+40
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Petra Liverani
+
+
+
+Sep 26, 2020 1:57 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Torsten Engelbrecht
+
+
+
+Yes, I suppose I could simply leave it with a link to yours at the top with an explanation. Thank you so much for your fantastic, thoroughly-researched work. I didn’t trust anything else fully (so much controlled opposition out there) until I saw your article and was very annoyed I missed it when it first appeared in OffG and only saw it nearly two months later when it was referred to in a comment.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Badger Down
+
+
+
+Oct 18, 2020 8:12 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Petra Liverani
+
+
+
+Petra, please leave your rebuttal. It’s nice and simple and clear. We’re not all biosciblo experts.
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Petra Liverani
+
+
+
+Oct 18, 2020 12:52 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Badger Down
+
+
+
+Thanks, Badger Down. I’ve left it with a recommendation to read theirs.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Philip
+
+
+
+ Nov 8, 2020 11:51 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Petra Liverani
+
+
+
+Seriously you two (Petra and Badger) thank you for leaving both, I am off to read Petra’s rebuttal which I did not know of until I had read Badger’s. I have had “Covid19) or whatever it is (read what ever I had) and well …. if it had not been for the media hysteria, would not have even known I was sick, tested positive 6 times so far, …. don’t know if they went to the same labs or not.
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fran
+
+
+
+Nov 4, 2020 9:39 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Torsten Engelbrecht
+
+
+
+Mr. Torsten I really liked your article. I think this has to be known, it cannot remain hidden, but I have a question regarding the questions you asked the researchers who claimed to have isolated the virus, how can we know that their answers were the ones in the article? Are they confidential? I say this because if we want to publicize this article we must be prepared to give testable arguments. Although if it is an email conversation, I understand that there must be privacy.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Torsten Engelbrecht
+
+
+
+Nov 5, 2020 10:35 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Fran
+
+
+
+Dear Fran! Thanks for your comment. I can assure 100% that these answers have been sent to me in exactly the way we have presented them in our article. If these answers are used in a legal process, for example, I am more than willing to disclose the corresponding emails. I hope this helps. Torsten
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fran
+
+
+
+Nov 8, 2020 12:21 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Torsten Engelbrecht
+
+
+
+Very grateful Mr Torsten for your reply. Hopefully we can handle this.
+http://www.whatdotheyknow.com
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dean Michael Jackson
+
+
+
+Sep 18, 2020 8:45 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medical masks worn by surgical staff:
+“This product is not a respirator and will not provide any protection against COVID-19 coronavirus or any other viruses or contaminants.”
+https://www.google.com/search?q=masks+labels&tbm=isch&source=iu&ictx=1&fir=0Y2DCNHKqJYq2M%252CPJRa6LCEvbFqSM%252C_&vet=1&usg=AI4_-kRKe-d4kXM6-fm-rvuvvJuql_38vA&sa=X&ved=2ahUKEwi0yoXIl_LrAhWIlXIEHR_aAA0Q9QF6BAgJEEw&biw=1920&bih=937#imgrc=3jVIaw13x89d5M
+A more resilient (and expensive) multi-layered mask: 
+“This mask does not remove the risk of contracting any disease or infection.”
+
+Got the picture, ladies and gentlemen?
+
+
+
+
+
+
+2-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ches Power
+
+
+
+Nov 1, 2020 6:06 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Dean Michael Jackson
+
+
+
+Here’s a scanning electron micrograph of a one day old surgical mask. No wonder “bacterial pneumonias are on the rise all over the world” according to Dr James Meehan. 
+It would be ironic is some of those covid admissions to hospital are due to mask contamination!
+
+
+
+
+
+
+2-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Dec 4, 2020 6:27 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Ches Power
+
+
+
+“It would be ironic is some of those covid admissions to hospital are due to mask contamination!”
+I believe this is EXACTLY the PLAN. Masks for example force people to inhale CO2; doing this all day is going to produce a LOT of disease that will not be traced back to the masks but will be blamed on COVID-19. 
+Not to mention the MASSIVE damage that will ultimately result from the totally useless “COVID-19 vaccinations”
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dr Ra
+
+
+
+Sep 10, 2020 11:10 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indeed, and it makes me wonder, *having not proven it exists* according to the scientific method for doing so … what exactly are all the Drug companies making a Vaccine for exactly ? ? ?
+
+
+
+
+
+
+26-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guy
+
+
+
+Oct 13, 2020 1:15 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Dr Ra
+
+
+
+The short answer is ,to make obscene amount of money .
+
+
+
+
+
+
+50
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+soli
+
+
+
+Oct 25, 2020 11:32 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Dr Ra
+
+
+
+Good question. If fact Great question. If they did not make vaccines they would have to ….. join those decent folks on the side walk of NY who have been thrown out of their homes. Satan say: ” You are either with US or you will eat dust “. Choose !
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vegas59
+
+
+
+Sep 9, 2020 10:03 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is simply the largest fraud in human civilization history.
+
+
+
+
+
+
+24-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Sep 20, 2020 5:26 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Vegas59
+
+
+
+We do NOT have a Serious Health Problem; We have a Global POLITICAL PROBLEM
+COVID-19 Fatality Rate “Worst Miscalculation” in Human History
+“Results of this critical appraisal reveal information bias and selection bias in coronavirus mortality overestimation, most likely caused by misclassifying an influenza infection fatality rate as a case fatality rate.” … Dr. Brown added that CDC and WHO documents show that the case fatality rate for influenza was similar to the coronavirus, implying that the lockdowns were pointless. His paper questions why the 2017-2018 influenza season in the United States did not “receive the same intensive media coverage as COVID-19.”   COVID-19 Fatality Rate “Worst Miscalculation” in Human History  
+“Think about the chances of being hospitalized [from COVID-19] . The study found a 50- to-64- year-old individual who has a single random contact has, typically, a 1 in 852,000 opportunity of being hospitalized or a 1 in 19.1 million possibility of dying based upon rates as of the recently of May. We were surprised how low the relative threat was,”   Doctor Rajiv Bhatia Stanford, and Doctor Jeffrey Klauser UCLA  Note A 2017  report from the National Security Council  calculated the chances of an individual passing away in an automobile crash at 1-in-114 and dying from a lightning strike at 1-in-161,856 That’s over a lifetime.
+“COVID is old people. Period. No virus necessary. They’re all suffering from long-term, multiple, serious health conditions. They’ve all been treated, for years, with toxic medical drugs. They’re terrified at the possibility of a COVID diagnosis. Then they are diagnosed with COVID. Then they’re isolated and cut off from family and friends. And they die. NO VIRUS NECESSARY. And THAT makes the recent CDC revelation about death numbers more relevant than most people can fathom. The CDC states that only 6 percent of all US COVID deaths have been unambiguously caused by a virus alone. The other 94 percent are overwhelmingly the old people I just described.”   Memo to Dr. Scott Atlas, new White House coronavirus advisor
+The CDC is Falsifying the COVID-19 Death Numbers: Search for “Phony COVID-19 Death Numbers”. 94% (CDC Aug 2020) of those claimed to be SARS COV-2 deaths died of heart attacks, blunt force trauma, diabetes, blood problems, and all the other causes of the 7500 deaths that occur each day in America. They died WITH SARS CoV-2, not FROM SARS Cov-2. Note they probably had MANY other viruses in their bodies. If we tested for all the known viruses we could see this.
+Very few, an unknown usually misrepresented number of people are dying FROM SARS-CoV-2 and only SARS-CoV-2; People are dying WITH SARS-CoV-2; many of these people likely have many other viruses in their bodies; that is the simple truth. Our “trusted” health care institutions have been lying to us with purpose. What is that purpose? FEAR, fear and more fear. Fear is required to implement the Political Objectives of this PLANDEMIC. The Biggest CON of CON-19 is that we are dying in large numbers from this FRAUD.
+    
+Here are the CON-19 FACTS
+
+SARS-CoV-2 is the virus; a Bio Weaponized virus, assumed to cause COVID-19
+
+
+COVID-19 is a SYNDROME of diseases assumed to be caused by SARS-CoV-2
+
+
+A Syndrome is a cluster of diseases of UNKNOWN cause or causes
+
+
+There is no peer reviewed Scientific evidence that SARS-CoV-2 is the CAUSE of COVID-19
+
+
+We have no good way to test for SARS-CoV-2 presence in the human body
+
+The RT-PCR test measures an UNKNOWN
+
+
+Testing “positive” for SARS-CoV-2 is next to meaningless
+
+
+If you “test” a person repeatedly he may bounce from “positive” to “negative” and back to “positive” in a week.
+
+
+COVID-19 deaths have been horribly misrepresented
+
+
+In truth SARS-CoV-2 is not much more, at this point, than a bad seasonal flu infection. I say at this point because we are in a Bio War and the weapons used on us may change.
+
+
+Many COVID-19 “deaths” have been CREATED; CDC and WHO documents show that the case fatality rate for influenza was similar to SARS-CoV-2
+
+
+There exist at least 3 Excellent Treatments for COVID-19 all three of these Treatments are not being used in America; the reason is political
+
+
+The virtual banning of Hydroxychloroquine as a COVID-19 Treatment in the USA is a CRIME which IMO should be prosecuted. Trouble is we do not prosecute political crimes at the highest levels such as drug dealing, war and the Denial of Efficacious Disease Treatment.
+
+
+“In all areas where HCQ is used – the  United States is not one of them, thanks to Anthony Fauci and the left – the official death rate from the Wuhan coronavirus (COVID-19) is a shocking 73 percent lower, on average, than in areas where HCQ is prohibited. When HCQ is used early, the death rate from the Wuhan coronavirus is even lower, the study reveals – up to 77.3 percent lower than in places like the U.S. and Canada where HCQ is off limits, in fact.”    Countries that used hydroxychloroquine to treat covid-19 saw a 73% lower fatality rate
+
+http://healthyprotocols.com/image_hcq%20_case%20mortalitybycountry.png
+http://healthyprotocols.com/2_corona_virus.htm
+
+
+
+
+
+
+10-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jack Hamilton
+
+
+
+Sep 1, 2020 2:11 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+FRAUD, pure and simple FRAUD! The entire vaccine industry is a HUGE FRAUD as is most of allopathic chronic healthcare medical procedures! Although acute care is quite good.
+
+
+
+
+
+
+17-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Janine Mudaliar
+
+
+
+Sep 5, 2020 4:17 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Jack Hamilton
+
+
+
+Mass vaccination is not the way to co-exist with nature, when it comes to infections and illnesses. Therapy is. Scientific energy should be focused on improving therapeutic medicines and strategies.
+
+
+
+
+
+
+110
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lou
+
+
+
+Dec 4, 2020 6:42 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Janine Mudaliar
+
+
+
+The irony here is viruses are one of the very easiest problems to PREVENT and TREAT. Our problem is our Medical INDUSTRY will not allow us to do this.
+http://healthyprotocols.com/2_virus_fight.htm
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+soli
+
+
+
+Oct 25, 2020 11:42 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Jack Hamilton
+
+
+
+Now we are on the same frequency. If you had a loved one die of cancer, you will realize that the whole Rockefeller mafia is just that. A Mafia. As you see your loved one being murdered, stage by stage. And all the time thinking that I was an idiot who knew nothing as to what they were doing. Well the doctors are FDA trained. And the FDA is a scam. Once you realize as to how the human body functions. Covid-19 is cancer written in capital letters. Only difference is that they are in a hurry to see you dead
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brent Smith
+
+
+
+Aug 30, 2020 6:48 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+FYI- Facebook has blocked this article and labeled it “false information “.
+
+
+
+
+
+
+50
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+None
+
+
+
+Sep 2, 2020 12:03 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Brent Smith
+
+
+
+FYI- This article is absolutely full of misinformation, from soup to nuts (with an emphasis on “nuts”).
+
+
+
+
+
+
+5-42
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fred
+
+
+
+Sep 9, 2020 10:03 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+None
+
+
+
+Whats wrong about it? Specifically?
+
+
+
+
+
+
+200
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lou
+
+
+
+Mar 19, 2021 11:23 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Brent Smith
+
+
+
+How simple that mr evil
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+
+
+
+Aug 30, 2020 5:06 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+I wanted to read those instructions manuals of PCR tests, and I found that at least in one case there are two types of tests, one for research use only and other an in vitro diagnostic test (https://altona-diagnostics.com/en/products/reagents-140/reagents/realstar-real-time-pcr-reagents/realstar-sars-cov-2-rt-pcr-kit.html).
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blob
+
+
+
+Aug 30, 2020 8:13 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+You guys are gonna love this: The NY TImes just admitted PCR tests are misleading. The article is also on other websites, so since NYT requires login, here’s a different link.
+https://www.msn.com/en-us/health/medical/your-coronavirus-test-is-positive-maybe-it-shouldnt-be/ar-BB18uyA7?li=BBnb7Kz
+
+
+
+
+
+
+80
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ivy Kim
+
+
+
+Sep 14, 2020 10:27 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Blob
+
+
+
+I tried the link and says the page is gone. Nowadays MSM is doing a mass consorship. When you find some useful info like this(error in PCR testing), you need to download it or at least make print screen. ALL MEDIA LIE, JUST BALDLY LIE by hiding and deleting the truth!
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blob
+
+
+
+Sep 15, 2020 12:25 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Ivy Kim
+
+
+
+It was a NY Times piece originally, and I guess was syndicated, so just look up the title and you’ll find various copies of it.
+Original story link (behind pay wall):
+https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html
+Another copy that doesn’t seem to have a pay wall:
+https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/your-coronavirus-test-is-positive-maybe-it-shouldnt-be-/articleshow/77830805.cms
+
+
+
+
+
+
+20
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lou
+
+
+
+Mar 19, 2021 11:27 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Blob
+
+
+
+“You guys are gonna love this: ”
+Well I certainly hope Baal Gates and all his appointed criminals have not been wasting “just wasting” trillions of public funding these last many decades.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+Petra Liverani
+
+
+
+Aug 29, 2020 3:11 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a summary of the article as I understand it:
+— No distinctive specific symptoms for COVID-19
+— Admitted lack of gold standard test for COVID-19
+— PCR test used inappropriate for viral testing (its purpose was manufacturing not testing). Clear example: Faith in Quick Test Leads to Epidemic That Wasn’t.
+— No clear evidence of origin of RNA used in test
+— Authors of scientific papers claiming isolation of virus admit that purification of virus not actually done and seasoned virologist admits lack of awareness of any paper showing purification of virus
+— No evidence of what is said to be the virus, SARS-CoV-2 causing COVID-19
+— Test results are irrational which would only be expected when the testing method used is against scientific testing protocol
+— The test contains “q” in its name, RT-qPCR, which should stand for quantitative, however, it is admitted the test is qualitative meaning it cannot test viral load which means they cannot test how many viral particles are carried in the body. For people to be considered infected a viral load needs to be determined.
+— High Cycle Quantification (Cq) values undermine validity of test and some PCR tests have high Cq values (Drosten test has 45). The inventor of the test, Kary Mullis, has this to say: “If you have to go more than 40 cycles to amplify a single-copy gene, there is something seriously wrong with your PCR.”
+— Before starting with PCR, in the case of presumed RNA viruses such as SARS-CoV-2, the RNA must be converted to complementary DNA (cDNA) with the enzyme Reverse Transcriptase—hence the “RT” at the beginning of “PCR” or “qPCR,” but this transformation process is “widely recognized as inefficient and variable,”
+The above issues clearly show that there is no evidence at all to believe in either the virus, SARS-CoV-2 or the alleged illness COVID-19. The clear inference to be made is that all illness and death ascribed to COVID-19 has, in reality, another cause.
+We also see strange omissions of reference to isolation of virus from alleged source, for example, from a “German traveller” in paper, Comparative pathogenesis of COVID-19, MERS and SARS in a non-human primate model (note similar glaring omission of reference to isolation of virus from alleged source, a “fatal SARS case”, in a “brief communication” published by Nature on the 2003 SARS, Koch’s postulates fulfilled for SARS virus).
+This is Politifact’s laughable attempt to debunk the article.
+https://www.politifact.com/factchecks/2020/jul/07/blog-posting/covid-19-tests-are-not-scientifically-meaningless/
+This is my debunking of Politifact’s alleged debunking.
+https://occamsrazorterrorevents.weebly.com/blog/debunking-the-debunkers-pcr-tests-scientifically-meaningless
+
+
+
+
+
+
+22-1
+
+
+
+
+
+
+Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lou
+
+
+
+Mar 19, 2021 11:30 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reply to 
+
+Petra Liverani
+
+
+
+“Faith in Quick Test Leads to Epidemic That Wasn’t.”
+IOW look and ye shall find.
+
+
+
+
+
+
+00
+
+
+
+
+
+
+Reply
+
+
+
+
+ 
+
+
+Load More Comments 
+
+
+
+
+
+
+
+
+ 
+wpDiscuz
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2023 OffGuardian
+Privacy Policy 
+powered by WordPress
+
+
+Theme: OffGuardian by Wild Reality.net
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+latest
+featured
+OffG Focus
+Ukraine
+coronavirus
+Follow OffGuardian
+support us
+site info
+
+Comment Policy
+Privacy Policy
+Submission guidelines
+support us
+About
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+wpDiscuzInsert 
+
+
+You are going to send email to SendMove CommentMove
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+<meta charset="utf-8"/>
+<link href="https://www.ukcolumn.org/article/there-is-no-pandemic" rel="canonical"/>
+<meta content="Research by an independent statistician, who goes by the pseudonym of John Dee, appears to confirm what many have suspected since the beginning of the Covid-19 pseudopandemic; that the government narrative about the disease is a confidence trick." name="description"/>
+<meta content="UKColumn" property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="https://www.ukcolumn.org/article/there-is-no-pandemic" property="og:url"/>
+<meta content="There Is No Pandemic" property="og:title"/>
+<meta content="Research by an independent statistician, who goes by the pseudonym of John Dee, appears to confirm what many have suspected since the beginning of the Covid-19 pseudopandemic; that the government narrative about the disease is a confidence trick." property="og:description"/>
+<meta content="https://www.ukcolumn.org/sites/default/files/2021-09/cover001.jpeg" property="og:image"/>
+<meta content="Iain Davis" property="article:author"/>
+<meta content="UKColumn" property="article:publisher"/>
+<meta content="2021-09-30T12:49:31+01:00" property="article:published_time"/>
+<meta content="2021-10-01T19:12:13+01:00" property="article:modified_time"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Research by an independent statistician, who goes by the pseudonym of John Dee, appears to confirm what many have suspected since the beginning of the Covid-19 pseudopandemic; that the government narrative about the disease is a confidence trick." name="twitter:description"/>
+<meta content="There Is No Pandemic" name="twitter:title"/>
+<meta content="https://www.ukcolumn.org/sites/default/files/2021-09/cover001.jpeg" name="twitter:image"/>
+<script async="" data-domain="www.ukcolumn.org" defer="" src="https://plausible.io/js/plausible.js"></script>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+<link href="/themes/custom/ukc_theme/ukc-logo-sm-sq.png" rel="icon" type="image/png"/>
+<title>There Is No Pandemic | UKColumn</title>
+<link href="/sites/default/files/css/css_uKEwVgd2WbW7qQhGueY453gNg7VwvDDdNGwgKU7SFko.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_CZWNyJYCLRz30qn-mLLrZGea3LTY_GqMnRMNQtD2iRs.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_hjFttaY50UR2V33E7zMsMr66nbCDiFQUnTnnSjS4Ufw.css" media="print" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&amp;family=Open+Sans:wght@400;600;700&amp;family=Playfair+Display:wght@400;600;700&amp;family=Roboto+Slab&amp;display=swap" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_sY1INYCdu3YRDPN4nu5R2mRvdcPahwR0BJtCBssTOEg.css" media="all" rel="stylesheet"/>
+</head>
+<body class="path-node page-node-type-article sidebar-right fixed-width">
+<a class="visually-hidden focusable skip-link" href="#main-content">
+Skip to main content
+</a>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<aside class="mdc-drawer mdc-drawer--modal">
+<div class="mdc-drawer__content">
+<nav aria-labelledby="block-mainnavigation-menu" class="block block-menu navigation menu--main" id="block-mainnavigation" role="navigation">
+<h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a data-drupal-link-system-path="&lt;front&gt;" href="/"> <span>Home</span>
+</a>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Video</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2181" href="/ukcolumn-news-archive"> <span>UK Column News Archive</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3300" href="/series/uk-column-interviews"> <span>UK Column Interviews</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2186" href="/insight"> <span>Insight</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2524" href="/series/david-ellis-report"> <span>David Ellis Report</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a data-drupal-link-system-path="node/2301" href="/audio-podcasts"> <span>Podcasts</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution"> <span>A Dissident's Guide to the Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree"> <span>Deconstructing the Magic Money Tree</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2147" href="/series/dispatches-from-the-front"> <span>Dispatches from the Front</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Sections</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2196" href="/northern-exposure"> <span>Northern Exposure</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2151" href="/series/eu-military-unification"> <span>European Defence Union</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2195" href="/censored"> <span>Censored</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2343" href="/series/the-whistleblowers"> <span>The Whistleblowers</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Topics</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2176" href="/topic/coronavirus"> <span>Coronavirus</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2175" href="/topic/brexit"> <span>Brexit</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2166" href="/topic/children-education"> <span>Children &amp; Education</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2161" href="/topic/constitution"> <span>Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2163" href="/topic/defence"> <span>Defence</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2158" href="/topic/economy"> <span>Economy</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2167" href="/topic/environment"> <span>Environment</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2884" href="/topic/faith"> <span>Faith</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2164" href="/topic/health"> <span>Health</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2174" href="/topic/international"> <span>International</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2160" href="/topic/justice"> <span>Justice</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2168" href="/topic/media"> <span>Media</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2994" href="/topic/mind"> <span>Mind</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2157" href="/topic/politics"> <span>Politics</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2169" href="/topic/science"> <span>Science</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2170" href="/topic/technology"> <span>Technology</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item--expanded">
+<a href=""> <span>Series</span>
+</a>
+<ul class="menu">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution"> <span>A Dissident's Guide to the Constitution</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2571" href="/series/doctors-for-covid-ethics"> <span>Doctors for Covid Ethics</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2144" href="/series/common-purpose-effect"> <span>The Common Purpose Effect</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2138" href="/series/one-world-governance"> <span>One World Governance</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2154" href="/series/global-citizen-movement"> <span>Global Citizen Movement</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2153" href="/series/integrity-initiative"> <span>Integrity Initiative</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2150" href="/series/fake-news"> <span>Fake News</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2137" href="/series/leveson-inquiry"> <span>Leveson Inquiry</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2140" href="/series/oxford-cherwell-valley-college"> <span>Oxford &amp; Cherwell Valley College</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2127" href="/series/weekly-nudge"> <span>The Weekly Nudge</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2152" href="/series/white-helmets"> <span>The White Helmets</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree"> <span>Deconstructing the Magic Money Tree</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2858" href="/series/dying-for-good-health"> <span>Dying for Good Health</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2857" href="/series/no-smoke-without-fire"> <span>No Smoke Without Fire</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2887" href="/series/the-third-degree"> <span>The Third Degree</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-header-2-menu" class="block block-menu navigation menu--header" id="block-header-2" role="navigation">
+<h2 class="visually-hidden" id="block-header-2-menu">Header</h2>
+<ul class="menu" region="overlay">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/695" href="/about-uk-column"> <span>About</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2180" href="/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3819" href="/careers"> <span>Careers</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/698" href="/donate"> <span>Donate</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://community.ukcolumn.org/"> <span>Community Website</span>
+</a>
+</li>
+</ul>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1-3">
+<div class="inner">
+<form accept-charset="UTF-8" action="/search" id="views-exposed-form-search-page-1" method="get" region="overlay">
+<div class="form--inline clearfix">
+<div class="form-item form-type-textfield form-item-keywords">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Keyword(s)</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-keywords" id="edit-keywords" maxlength="128" name="keywords" size="30" type="text" value=""/>
+</label>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"> <button class="button js-form-submit form-submit mdc-button mdc-button--unelevated mdc-button mdc-button--outlined" data-drupal-selector="edit-submit-search" id="edit-submit-search" type="submit" value="Search"></button>
+<div class="inner">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Search</span>
+</div>
+
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="modal-menu-trigger-close">
+<button class="mdc-icon-button" id="close-overlay">
+<span class="far fa-times"></span>
+<span class="visually-hidden">Close</span>
+</button>
+</div>
+</aside>
+<div class="mdc-drawer-scrim"></div>
+<div class="layout-container">
+<header class="layout-header" role="banner">
+<div class="region region-top">
+<div class="inner">
+<nav aria-labelledby="block-social-menu" class="block block-menu navigation menu--social" id="block-social" role="navigation">
+<h2 class="visually-hidden" id="block-social-menu">Social</h2>
+<ul class="menu" region="top">
+<li class="menu-item">
+<a class="fab fa-facebook-f" href="https://facebook.com/ukcolumn" target="_blank"> <span>Facebook</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-telegram" href="https://t.me/ukcolumn" target="_self"> <span>Telegram</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-twitter" href="https://twitter.com/ukcolumn" target="_blank"> <span>Twitter</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-itunes" href="https://podcasts.apple.com/gb/podcast/uk-column-podcasts/id1008807223" target="_blank"> <span>iTunes</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fab fa-soundcloud" href="https://soundcloud.com/ukcolumn" target="_blank"> <span>Soundcloud</span>
+</a>
+</li>
+<li class="menu-item">
+<a class="fas fa-rss" data-drupal-link-system-path="rss.xml" href="/rss.xml"> <span>RSS</span>
+</a>
+</li>
+</ul>
+</nav>
+<nav aria-labelledby="block-header-menu" class="block block-menu navigation menu--header" id="block-header" role="navigation">
+<h2 class="visually-hidden" id="block-header-menu">Header</h2>
+<ul class="menu" region="top">
+<li class="menu-item">
+<a data-drupal-link-system-path="node/695" href="/about-uk-column"> <span>About</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/2180" href="/contact"> <span>Contact</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/3819" href="/careers"> <span>Careers</span>
+</a>
+</li>
+<li class="menu-item">
+<a data-drupal-link-system-path="node/698" href="/donate"> <span>Donate</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://shop.ukcolumn.org/"> <span>Shop</span>
+</a>
+</li>
+<li class="menu-item">
+<a href="https://community.ukcolumn.org/"> <span>Community Website</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="region region-header">
+<div class="inner">
+<div class="block block-system block-system-branding-block" id="block-ukc-theme-sitebranding">
+<div class="inner">
+<a class="site-logo" href="/" rel="home">
+<img alt="Home" src="/themes/custom/ukc_theme/logo.png"/>
+</a>
+</div>
+</div>
+<nav aria-labelledby="block-main-navigation-header-menu" class="block block-menu navigation menu--main" id="block-main-navigation-header" role="navigation">
+<h2 class="visually-hidden" id="block-main-navigation-header-menu">Main navigation</h2>
+<ul class="menu" region="header">
+<li class="menu-item">
+<a data-drupal-link-system-path="&lt;front&gt;" href="/">Home</a>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Video</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2181" href="/ukcolumn-news-archive">UK Column News Archive</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3300" href="/series/uk-column-interviews">UK Column Interviews</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2186" href="/insight">Insight</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2524" href="/series/david-ellis-report">David Ellis Report</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a data-drupal-link-system-path="node/2301" href="/audio-podcasts">Podcasts</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution">A Dissident's Guide to the Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree">Deconstructing the Magic Money Tree</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2147" href="/series/dispatches-from-the-front">Dispatches from the Front</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Sections</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2196" href="/northern-exposure">Northern Exposure</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2151" href="/series/eu-military-unification">European Defence Union</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2195" href="/censored">Censored</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2343" href="/series/the-whistleblowers">The Whistleblowers</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Topics</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2176" href="/topic/coronavirus">Coronavirus</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2175" href="/topic/brexit">Brexit</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2166" href="/topic/children-education">Children &amp; Education</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2161" href="/topic/constitution">Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2163" href="/topic/defence">Defence</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2158" href="/topic/economy">Economy</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2167" href="/topic/environment">Environment</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2884" href="/topic/faith">Faith</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2164" href="/topic/health">Health</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2174" href="/topic/international">International</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2160" href="/topic/justice">Justice</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2168" href="/topic/media">Media</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2994" href="/topic/mind">Mind</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2157" href="/topic/politics">Politics</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2169" href="/topic/science">Science</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2170" href="/topic/technology">Technology</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="menu-item menu-item--expanded has-children">
+<a href="">Series</a>
+<div class="mdc-menu-surface--anchor">
+<div class="mdc-menu mdc-menu-surface mdc-menu-parent">
+<ul aria-hidden="true" aria-orientation="vertical" class="mdc-list" tabindex="-1">
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2566" href="/series/a-dissidents-guide-to-the-constitution">A Dissident's Guide to the Constitution</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2571" href="/series/doctors-for-covid-ethics">Doctors for Covid Ethics</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2144" href="/series/common-purpose-effect">The Common Purpose Effect</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2138" href="/series/one-world-governance">One World Governance</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2154" href="/series/global-citizen-movement">Global Citizen Movement</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2153" href="/series/integrity-initiative">Integrity Initiative</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2150" href="/series/fake-news">Fake News</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2137" href="/series/leveson-inquiry">Leveson Inquiry</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2140" href="/series/oxford-cherwell-valley-college">Oxford &amp; Cherwell Valley College</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2127" href="/series/weekly-nudge">The Weekly Nudge</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2152" href="/series/white-helmets">The White Helmets</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/3073" href="/series/deconstructing-the-magic-money-tree">Deconstructing the Magic Money Tree</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2858" href="/series/dying-for-good-health">Dying for Good Health</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2857" href="/series/no-smoke-without-fire">No Smoke Without Fire</a>
+</span>
+</li>
+<li class="mdc-list-item mdc-primary-color">
+<span class="mdc-list-item__text">
+<a data-drupal-link-system-path="node/2887" href="/series/the-third-degree">The Third Degree</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1">
+<div class="inner">
+<form accept-charset="UTF-8" action="/search" id="views-exposed-form-search-page-1" method="get" region="header">
+<div class="form--inline clearfix">
+<div class="form-item form-type-textfield form-item-keywords">
+<label class="mdc-text-field mdc-text-field--outlined">
+<span class="mdc-notched-outline">
+<span class="mdc-notched-outline__leading"></span>
+<span class="mdc-notched-outline__notch">
+<span class="mdc-floating-label" id="my-label-id">Keyword(s)</span>
+</span>
+<span class="mdc-notched-outline__trailing"></span>
+</span>
+<input autocomplete="off" class="form-text mdc-text-field__input" data-drupal-selector="edit-keywords" id="edit-keywords--2" maxlength="128" name="keywords" size="30" type="text" value=""/>
+</label>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--2"> <button class="button js-form-submit form-submit mdc-button mdc-button--unelevated mdc-button mdc-button--outlined" data-drupal-selector="edit-submit-search-2" id="edit-submit-search--2" type="submit" value="Search"></button>
+<div class="inner">
+<div class="mdc-button__ripple"></div>
+<span class="mdc-button__label">Search</span>
+</div>
+
+</div>
+</div>
+</form>
+</div>
+</div>
+<button class="mdc-icon-button search-trigger">
+<span class="far fa-search"></span>
+<span class="far fa-times"></span>
+<span class="visually-hidden">Search</span>
+</button>
+<div class="modal-menu-trigger">
+<span class="visually-hidden">Menu</span>
+<button class="mdc-icon-button">
+<span class="far fa-bars"></span>
+<span class="visually-hidden">Open</span>
+</button>
+</div>
+</div>
+</div>
+</header>
+<main class="layout-main" role="main">
+<div class="inner">
+<a id="main-content" tabindex="-1"></a>
+<div class="region region-content-above">
+<div class="inner">
+<div class="hidden" data-drupal-messages-fallback=""></div>
+<div class="block block-core block-page-title-block" id="block-ukc-theme-page-title">
+<div class="inner">
+<h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden" property="schema:name">There Is No Pandemic</span>
+</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="layout-main--wrapper">
+<div class="region region-content">
+<div class="inner">
+<div class="block block-system block-system-main-block" id="block-ukc-theme-content">
+<div class="inner">
+<article about="/article/there-is-no-pandemic" class="node node--type-article node--promoted node--view-mode-full" role="article" typeof="schema:Article">
+<div class="node__content">
+<img alt="" class="image-style-featured-image" height="520" src="/sites/default/files/styles/featured_image/public/2021-09/cover001.jpeg?h=e7f7be8c&amp;itok=6j4KbkxJ" typeof="foaf:Image" width="980"/>
+<footer class="node__meta">
+<div class="node__submitted">
+<div class="author">
+by
+<div class="field field--name-field-author field--type-entity-reference field__items">
+<a href="/writer/iain-davis" hreflang="en">Iain Davis</a>
+</div>
+</div>
+<div class="authored">
+Thursday, 30th September 2021
+</div>
+</div>
+</footer>
+<div class="paragraph paragraph--type--text-block paragraph--view-mode--default">
+<div class="clearfix text-formatted field field--name-field-body"><p><a href="https://in-this-together.com/ukc/DrJD-Analysis.pdf">Research by an independent statistician</a>, who goes by the pseudonym of <em>John Dee,</em> appears to confirm what many have suspected <a href="https://in-this-together.com/covid-19-the-trouble-with-coronavirus/">since the beginning</a> of the Covid-19 <a href="https://in-this-together.com/pseudopandemic/">pseudopandemic</a>; that the government narrative about the disease is a confidence trick.</p>
+<p>John Dee looked at more than 160,000 admissions via the Emergency Department of a busy hospital. His analysis shows that, for an unnamed NHS trust, between 1 January 2021 and 13 June 2021, of the 2,102 admissions coded as Covid-19, only 9.7% (204) had any supporting diagnosis of symptomatic disease.</p>
+<p>For the remaining 90.3% (1,899) there was no discernible, clinical reason to describe them as Covid-19 patients. However, they were all admitted for the following reason:</p>
+<blockquote>
+<p>Disease caused by 2019 novel coronavirus.</p>
+</blockquote>
+<p>John Dee <a href="https://drive.google.com/drive/folders/1CxqTvy1G_jfGL4QimN7QtWw2-1hAOkww">audit analysis</a> concluded:</p>
+<blockquote>
+<p>The ED electronic patient record system is awash with asymptomatic/false positive admissions that primarily require emergency care for non-COVID diseases and conditions whilst their data record is flagged as COVID.</p>
+</blockquote>
+<p>These findings cast significant doubt upon the previous assumption that NHS admission and mortality data would "<em>abide by expectation in terms of outcome and clinical diagnosis."</em> It seems to have fallen short of this expectation by some distance. Consequently, this casts considerable doubt on other <em>"official"</em> statistics we have been given.</p>
+<p>For example, the recent <a href="https://archive.is/50J9l">Office of National Statistics</a> (ONS) report on the distribution of Covid-19 mortality statistics by vaccination status are highly dubious. Dee's research leaves a huge question mark over all official <a href="https://www.ukcolumn.org/article/deceptive-construction-why-we-must-question-covid-19-mortality-statistics">claims of Covid-19 mortality</a>. Unless these issues are addressed, there is very little reason to accept any government or mainstream media (MSM) stories about the <em>so-called</em> pandemic.</p>
+<p>This includes recent <a href="https://archive.is/vnIxy">assertions about an alleged</a> <em>pandemic of the unvaccinated</em> and Public Health England's modelled prediction of vaccine efficacy. The data these claims are based upon cannot be deemed reliable and lend further weight to concerns that there is no statistical basis for politicians' statements about vaccine efficacy. </p>
+<p>John Dee's audit analysis has profound implications. It requires validation and others must have access to the anonymised NHS ICD10 coded admissions data, complete with corresponding diagnosis, in order to carry out broader study. If, for any reason, the NHS or other official sources withhold this information, it only adds credibility to Dee's findings.</p>
+<p>John Dee's Facebook profile states that he is a consultant analyst and former head of clinical audit at an NHS hospital. He specialised in assessment of clinical outcomes and served on a regional clinical reference committee. He adds that he uses <em>"data from official sources to reveal what the authorities should be telling us about the COVID-19 pandemic but are not."</em></p>
+<p>He runs <em>John Dee's Almanac,</em> a <a href="https://www.facebook.com/groups/johndeealmanac/">public research group</a> which says of itself:</p>
+<blockquote>
+<p>John Dee's Almanac is a public study group where unofficial analyses of official COVID data by a former NHS 'official' will be posted. Whilst this group does not and cannot offer medical advice it does concern itself with evidence-based medicine, with the aim of publication of rigorous analyses of authoritative data ... My posts are regularly collated into PDF files, which may be found on the group <a href="https://drive.google.com/drive/folders/1eyf7j7vAIyc0vDSvCgf01EZiJrBJB_W4">Google Drive</a>. Supporting materials will also be placed there.</p>
+</blockquote>
+<p>The obvious caveat is that we do not know who John Dee is, nor do we know which hospital he obtained this data from. Dee states that his "is a pen name owing to the sensitivities involved but my CV, biography and published papers can be made available to any bone fide interested party." The implication is that, should his own identity be made public, his source may be at risk. That source must have access to restricted hospital data. Hence the need for full disclosure from the NHS.</p>
+<p>Dee received the data in June 2021 and used <a href="https://archive.is/uprZH">IBM SPSS software</a> for the analysis. The NHS use the <a href="https://www.who.int/standards/classifications/classification-of-diseases">International Classification of Disease</a> - ICD10 system to code patient diagnosis. Dee analysed the codes for 161,494 ED admissions for the 6 month study period. There were 867 unique coding entries across all ED admissions.</p>
+<p>Dee noticed that the coding did not match the claimed reason for admission in a high proportion of Covid-19 patients. For example, there were 23 alleged Covid-19 patients admitted for abdominal pain where that pain was said to be <em>"caused by 2019 novel coronavirus."</em> Of these, only 4 had a coded diagnosis of any abdominal disease.</p></div>
+</div>
+<div class="paragraph paragraph--type--media paragraph--view-mode--default">
+<div class="field field--name-field-media"><div>
+<img alt="23NotCovid" class="image-style-max-1300x1300" height="415" src="/sites/default/files/styles/max_1300x1300/public/2021-09/23.png?itok=fJSg0mBz" typeof="foaf:Image" width="640"/>
+</div>
+</div>
+</div>
+<div class="paragraph paragraph--type--text-block paragraph--view-mode--default">
+<div class="clearfix text-formatted field field--name-field-body"><p>He shared this finding with qualified doctors and they concluded that for 19 of these 23 supposed Covid-19 patients, that neither the presence of a positive test result nor any other reason for attributing Covid-19 had any <em>"inherent clinical meaning." </em>That is that there was no medical justification for the diagnosis of Covid-19.</p>
+<p>Dee found that these admissions for Covid-19 were either <em>asymptomatic</em> or <em>false positives</em>. It should be noted that Dee assumed that a positive test, without any clinical evidence of Covid-19 disease, indicated a <em>false positive</em>.</p>
+<p>Dee has called the absence of disease, in the presence of a positive SARS-CoV-2 (SC2) test, a <em>"false positive." </em>A positive test result for SC2 is not and never has been evidence of a <em>"case" </em>of Covid-19. Even a genuine positive result does not necessarily indicate that the person has Covid-19 disease. Perhaps this is a semantic point. </p>
+<p>Regardless of test results, Dee initially found that there was no <em>evident reason</em> to ascribe Covid-19 to the vast majority of the abdominal pain admissions. Yet they were recorded as such. Dee and his research colleagues felt this may be significant, and undertook further investigation.</p>
+<p>As Covid-19 is primarily a respiratory illness, he cross referenced the ICD10 coding with respiratory diagnosis. There are other claimed clinical markers of Covid-19 and Dee extended his matching criteria to include diagnosis of myocarditis, pericarditis, arrhythmia, deep-vein thrombosis, pulmonary embolism, myocardial infarction, intracranial haemorrhage, and thrombocytopenia.</p>
+<p>He then looked at the <em>complaint(s)</em> the patients presented with at the ED: nasal congestion, persistent headache, loss of sensation etc.</p>
+<p>He assigned a variable (COVcomp) to assess the relevance of the complaint to a Covid-19 diagnosis. For example, a cough would score as highly relevant, an abrasion as irrelevant. From 140 presenting complaints, Dee identified 26 <em>chief complaints </em>related to Covid-19.</p></div>
+</div>
+<div class="paragraph paragraph--type--media paragraph--view-mode--default">
+<div class="field field--name-field-media"><div>
+<img alt="crosstab" class="image-style-max-1300x1300" height="614" src="/sites/default/files/styles/max_1300x1300/public/2021-09/crosstab.png?itok=kuTKzLS6" typeof="foaf:Image" width="640"/>
+</div>
+</div>
+</div>
+<div class="paragraph paragraph--type--text-block paragraph--view-mode--default">
+<div class="clearfix text-formatted field field--name-field-body"><p>In combination, these markers of symptomatic illness and the <em>chief complaint</em> variable indicated a possible Covid-19 infection severe enough to warrant a Covid-19 admission. In these cases a Covid-19 ICD10 coding would have been appropriate. It is important to note Dee's objective:</p>
+<blockquote>
+<p>... To throw the clinical ‘net’ as wide as possible to capture all admissions that were presenting with conditions commensurate with symptomatic COVID-19 and development of the disease.</p>
+</blockquote>
+<p>Dee was not trying to minimise possibly legitimate ICD10 codes for Covid-19. His audit analysis was designed to capture the maximum.</p>
+<p>Of the 2,102 admissions, allegedly <em>"caused by 2019 novel coronavirus" </em>only 204 (9.7%)<em> </em>showed any <em>fundamental basis </em>for a diagnosis of Covid-19 disease. The rest were either asymptomatic, or tested positive for SC2, without any evidence that the test result corresponded to Covid-19 disease (Dee's <em>false positive</em>).</p>
+<p>The vast majority of recorded Covid-19 admissions appeared to be unrelated to symptomatic Covid-19. The implications of this research cannot be overstated. Bluntly, if accurate, it demonstrates that there is no pandemic.</p></div>
+</div>
+<div class="paragraph paragraph--type--media paragraph--view-mode--default">
+<div class="field field--name-field-media"><div>
+<img alt="NotCovid" class="image-style-max-1300x1300" height="278" src="/sites/default/files/styles/max_1300x1300/public/2021-09/NotCovid.png?itok=_ST6Z7sX" typeof="foaf:Image" width="640"/>
+</div>
+</div>
+</div>
+<div class="paragraph paragraph--type--text-block paragraph--view-mode--default">
+<div class="clearfix text-formatted field field--name-field-body"><div><span><span><span><span><span><span><span>The recent ONS report about Covid-19 deaths <a href="https://archive.is/50J9l">reported by vaccination status</a> becomes practically meaningless. The ONS stated how they arrived at their headline conclusion:</span></span></span></span></span></span></span></div>
+<blockquote>
+<p>Count of deaths involving Covid-19 and percentage of all deaths by vaccination status, England, deaths occurring between 2 January and 2 July 2021.</p>
+</blockquote>
+<p><span><span><span><span><span><span><span>It now seems that the count of deaths <em>involving Covid-19</em> was wholly unreliable. The ONS get their vaccine status information from the National Immunisation Management System (NIMS) which records vaccination by NHS registration number. They then cross referenced this dataset with data from NHS Test and Trace, which records PCR test results by NHS registration number.</span></span></span></span></span></span></span></p>
+<p><span><span><span><span><span><span><span>This led the ONS to conclude, in this publication and throughout their other Covid-19 related reports, that any death of a person with a positive RT-PCR test "involved" Covid-19. John Dee's research implies that these test results have no <em>"inherent clinical meaning" </em>in the vast majority of cases. It doesn't matter what the decedent's vaccine status was, the ONS cannot say from NHS Test and Trace data that their deaths <em>involved</em> Covid-19.   </span></span></span></span></span></span></span></p>
+<p><span><span><span><span><span><span><span>Dee's research indicates that Test and Trace is a fairly worthless exercise. We can barely place any credibility in the mortality statistics. The notion that death within 28 days of a positive test involves, let alone is caused by, Covid-19 is highly questionable. </span></span></span></span></span></span></span></p>
+<p>There is currently no justification for any mass Covid-19 vaccination program. Dee's figures indicate that Covid-19 presents no more of a health risk than seasonal flu. Vaccines offered to the most vulnerable appears to be the full extent of precautionary necessity.</p>
+<p>However, it is when we look at the mortality figures that perhaps the most worrying questions arise. While 2020 only ranked 9th for mortality, out of the first two decades of the 21st century, there were notable unseasonable spikes and unusual patterns of mortality. These have continued throughout 2021, again they have been attributed to Covid-19 largely according to <em>NHS numbers</em>.</p>
+<p>Dee's audit analysis suggests that only 10% or less of these NHS ICD10 coded deaths were genuinely attributable to Covid-19. So what caused these unseasonable spikes in excess mortality if not Covid-19?</p>
+<p>Unless the NHS and the government account for Dee's findings, not only is there no reason to believe a pandemic ever occurred, it is clear that unusual patterns of excess mortality were caused by something else. There are a number of possible antecedents and each warrant further investigation.</p>
+<p>In the first claimed wave of Covid-19, mortality corresponded to <a href="https://www.ukcolumn.org/article/lockdown-deaths-not-covid-deaths">lockdown policies,</a> which appeared to increase the mortality risk. The second alleged wave, in the winter of 2020/2021, <a href="https://www.ukcolumn.org/article/why-there-correlation-between-vaccine-rollout-and-increased-covid%E2%80%9319-mortality">correlated with the vaccine roll out</a>. In 2021, the suggested third wave of unusual summer, Covid-19 mortality stands in stark contrast to the same period in 2020, where Covid-19 mortality appeared to be <a href="https://www.ukcolumn.org/article/the-rationale-for-the-continued-vaccine-roll-out-is-not-evident">lower without vaccines</a>.</p>
+<p>The conspicuous correlation between the use of palliative care medication, <a href="https://off-guardian.org/2021/08/11/planned-euthanasia-does-not-constitute-healthcare-no-matter-how-hard-you-clap-for-it/">especially Midazolam</a>, and the observed mortality spikes is another issue that requires explanation. Dee's analysis provides further reason to suspect the majority of these deaths were not attributable to Covid-19.</p></div>
+</div>
+<div class="paragraph paragraph--type--image-zoom paragraph--view-mode--default" data-image-height="450" data-image-url="/sites/default/files/2021-09/homedeaths.png" data-image-width="640">
+<div class="field field--name-field-image"><div>
+<img alt="homedeaths" class="image-style-max-1300x1300" height="450" src="/sites/default/files/styles/max_1300x1300/public/2021-09/homedeaths.png?itok=ReMvM_4M" typeof="foaf:Image" width="640"/>
+</div>
+</div>
+</div>
+<div class="paragraph paragraph--type--text-block paragraph--view-mode--default">
+<div class="clearfix text-formatted field field--name-field-body"><p>Throughout all proposed <em>"waves"</em> of the "pandemic", and during all intervening periods, a persistent mortality anomaly has remained. ONS statistics have consistently shown elevated rates of <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending17september2021">excess mortality in the home</a>. In the apparent absence of any pandemic disease, we must ask what accounts for this excess mortality.</p>
+<p>Dee's audit analysis is not categorical <em>"proof"</em> that everything we have been told about the supposed Covid-19 pandemic <em>is a lie</em>. But it strongly suggests the likelihood.</p>
+<p>It is untenable for the government to maintain their Covid-19 narrative without acknowledging and explaining his findings. Until they do, we can legitimately state that the evidence shows that there is no pandemic.</p></div>
+</div>
+<div class="views-element-container"><div class="view view-author view-id-author view-display-id-default js-view-dom-id-d3aa67e0f6eb0dd7d44da68487813b7191a7a958ac41f98bc5c3e8bcec16d6b7">
+<div class="view-content">
+<div class="views-row">
+<article about="/writer/iain-davis" class="node node--type-author node--view-mode-teaser mdc-card mdc-card--elevated" role="article">
+<a class="mdc-card__primary-action" href="/writer/iain-davis" tabindex="0">
+<div class="author-image">
+<img alt="" class="image-style-author-profile" height="150" src="/sites/default/files/styles/author_profile/public/2021-05/ian-davis.png?h=6c83441f&amp;itok=eM3oA_Us" typeof="foaf:Image" width="150"/>
+</div>
+<div class="mdc-card__content">
+<h2 class="mdc-card__content-title"><span class="field field--name-title field--type-string field--label-hidden">Iain Davis</span>
+</h2>
+Author, blogger, researcher and short film maker who writes mainly at IainDavis.com.
+</div>
+</a>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+<div class="region region-sidebar-right">
+<div class="inner">
+<div class="block block-ukc-core block-ukc-social-block" id="block-socialshareblock">
+<div class="inner">
+<div class="block-title">Share</div>
+<div class="social-wrapper"><a class="mdc-icon-button social-twitter" href="https://twitter.com/intent/tweet?text=There Is No Pandemic https://www.ukcolumn.org/article/there-is-no-pandemic&amp;via=ukcolumn" target="_blank"><i class="fab fa-twitter"></i><span>Share on Twitter</span></a><a class="mdc-icon-button social-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.ukcolumn.org/article/there-is-no-pandemic" target="_blank"><i class="fab fa-facebook-f"></i><span>Share on Facebook</span></a><a class="mdc-icon-button social-print" href="#"><i class="fas fa-print"></i><span>Print</span></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="layout-footer" role="contentinfo">
+<div class="region region-footer">
+<div class="inner">
+<div class="block block-simple-block block-simple-blockfooter" id="block-ukcolumn">
+<div class="inner">
+<div class="block-title">UK Column</div>
+<p>The UK Column is an independent multimedia news website <a href="https://www.ukcolumn.org/community">supported by its members</a>.</p>
+</div>
+</div>
+<div class="block block-simple-block block-simple-blockcopyright" id="block-copyright">
+<div class="inner">
+<p>© 2006-2021 UK Column. For <a href="https://www.ukcolumn.org/user/login">permission</a> to use any content on this website please <a href="https://www.ukcolumn.org/contact">contact us</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/2648","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"\/search":true},"user":{"uid":0,"permissionsHash":"24a7fea61d09ca75b04029346079397b67be32e4b80ac47ef82cea8e7c0d3bfa"}}</script>
+<script src="/sites/default/files/js/js_q0Uh39QkQyytZcixuR9mt_JXg693svOm9eJYWC1vnMc.js"></script>
+</body>
+</html>

